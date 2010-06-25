@@ -1,0 +1,24 @@
+<!ENTITY askOnSave.label              "Dossier des pièces jointes">
+<!ENTITY alwaysAsk.label              "Demandez-moi où enregistrer chaque fichier">
+<!ENTITY alwaysAsk.accesskey          "a">
+<!ENTITY neverAsk.label               "Enregistrer toutes les pièces jointes dans ce dossier:">
+<!ENTITY neverAsk.accesskey           "s">
+<!ENTITY desktop.label                "Bureau">
+<!ENTITY downloads.label              "Mes Téléchargements">
+<!ENTITY chooseFolderWin.label        "Parcourir…">
+<!ENTITY chooseFolderWin.accesskey    "P">
+<!ENTITY chooseFolderMac.label        "Choisir…">
+<!ENTITY chooseFolderMac.accesskey    "C">
+
+
+<!ENTITY fileTypes.label              "Actions sur le téléchargement">
+<!ENTITY configureActions.label       "Voir &amp; Modifier les actions...">
+<!ENTITY configureActions.accesskey   "V">
+<!ENTITY fileTypesDescription.label   "&brandShortName; peut sauver ou ouvrir automatiquement certains documents attachés.">
+
+<!ENTITY fileTypeColName.label        "Type de fichier">
+<!ENTITY fileHandlerColName.label     "Application">
+<!ENTITY editFileHandler.label        "Changer l'action...">
+<!ENTITY editFileHandler.accesskey    "a">
+<!ENTITY removeFileHandler.label      "Supprimer">
+<!ENTITY removeFileHandler.accesskey  "r">

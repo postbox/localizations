@@ -1,0 +1,8 @@
+<!ENTITY aboutDialog.title      "À propos de &brandFullName;">
+<!ENTITY credits.label          "Crédits">
+<!ENTITY credits.accesskey      "C">
+<!ENTITY aboutLink.label        "&lt; À propos de &brandFullName;">
+<!ENTITY aboutLink.accesskey    "p">
+<!ENTITY aboutVersion           "version">
+<!ENTITY copyrightText          "&#169;2007-2009 Postbox, Inc. et les contributeurs. Tous droits réservés. Postbox
+                                 est développé et maintenu par Postbox, Inc.">

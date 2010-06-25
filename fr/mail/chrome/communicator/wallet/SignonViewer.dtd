@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label               "Gestionnaire de mot de passe">
+<!ENTITY      windowalttitle.label            "Gestionnaire de formulaire : Sites">
+<!ENTITY      tab.signonsstored.label         "Mots de passe sauvegardés">
+<!ENTITY      tab.signonsnotstored.label      "Mots de passe jamais sauvegardés">
+<!ENTITY      tab.nopreview.label             "Formulaires jamais prévisualisés">
+<!ENTITY      tab.nocapture.label             "Formulaires jamais sauvegardés">
+
+<!ENTITY      spiel.signonsstored.label       "Le gestionnaire de mot de passe a sauvegardé les informations de connexion pour les sites suivants :">
+<!ENTITY      spiel.signonsnotstored.label    "Le gestionnaire de mot de passe ne sauvegardera jamais les informations de connexion pour les sites suivants :">
+<!ENTITY      spiel.nopreview.label           "Le gestionnaire de formulaire ne prévisualisera jamais les formulaires des sites suivants avant de les pré-remplir pour vous :">
+<!ENTITY      spiel.nocapture.label           "Le gestionnaire de formulaire ne vous demandera jamais de sauvegarder les formulaires de sites suivants :">
+
+<!ENTITY      treehead.site.label             "Site">
+<!ENTITY      treehead.username.label         "Nom d'utilisateur">
+<!ENTITY      treehead.password.label         "Mot de passe">
+<!ENTITY      remove.label                    "Supprimer">
+<!ENTITY      removeall.label                 "Tout supprimer">

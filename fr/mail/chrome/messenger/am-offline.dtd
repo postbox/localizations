@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Pour économiser de l'espace disque, ne pas télécharger :">
+<!ENTITY offlineNewFolder.label "Quand je créé de nouveaux dossiers, les sélectionner pour une utilisation hors connexion">
+<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY offlineNotDownload.label "Les messages dont la taille dépasse">
+<!ENTITY offlineNotDownload.accesskey "t">
+<!ENTITY kb.label "Ko">
+<!ENTITY days.label "jours">
+<!ENTITY daysOld.label "jours">
+<!ENTITY message.label "plus récents">
+<!ENTITY nntpNotDownloadRead.label "Les messages lus">
+<!ENTITY nntpNotDownloadRead.accesskey "L">
+<!ENTITY nntpDownloadMsg.label "Les messages ayant plus de">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement.">
+<!ENTITY retentionKeepMsg.label "Supprimer les messages ayant plus de">
+<!ENTITY retentionKeepMsg.accesskey "S">
+<!ENTITY retentionKeepAll.label "Ne supprimer aucun message">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepNew.label "Supprimer tout sauf le dernier">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "Toujours supprimer les messages lus">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "Seuls les corps de message de moins de">
+<!ENTITY nntpRemoveBody.accesskey "o">
+<!ENTITY offlineSelectNntp.label "Sélection groupes pour utilisation hors connexion…">
+<!ENTITY offlineSelectImap.label "Sélectionnez les dossiers pour une utilisation hors connexion...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "Vous pouvez télécharger des messages localement afin qu'ils soient disponibles lorsque vous travaillez hors connexion.">
+<!ENTITY makeInboxMsgsAvailable.label "Rendre les messages dans ma boîte de réception disponible lorsque je travaille hors connexion">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Hors connexion">
+<!ENTITY diskspaceGroupTitle.label "Espace disque ">
+<!ENTITY ftiGroupTitle.label "Recherche globale">
+<!ENTITY fti.indexMsgs.label "Index des messages">

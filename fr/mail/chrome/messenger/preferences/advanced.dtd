@@ -1,0 +1,93 @@
+<!ENTITY itemGeneral.label       "Général">
+<!ENTITY itemUpdate.label        "Mise à jour">
+<!ENTITY itemNetworking.label    "Réseau et espace disque">
+<!ENTITY itemCertificates.label  "Certificats">
+<!ENTITY itemWebServices.label   "Services Web">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "N'afficher que le nom pour les personnes se trouvant dans le carnet d'adresses">
+<!ENTITY showCondensedAddresses.accesskey "N">
+
+<!ENTITY autoMarkAsRead.label          "Marquer automatiquement les messages comme lus">
+<!ENTITY autoMarkAsRead.accesskey      "M">
+<!ENTITY markAsReadNoDelay.label       "Dès l'affichage">
+<!ENTITY markAsReadNoDelay.accesskey   "D">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Après un délai de">
+<!ENTITY markAsReadDelay.accesskey     "A">
+<!ENTITY secondsLabel.label            "secondes">
+<!ENTITY showFolderColumns.label       "Afficher les colonnes élargies dans la liste des dossiers">
+<!ENTITY showFolderColumns.accesskey   "l">
+<!ENTITY rememberLastMsg.label         "Se souvenir du dernier message sélectionné">
+<!ENTITY rememberLastMsg.accesskey     "S">
+<!ENTITY openMsgIn1.label              "les nouveaux messages doivent être ouverts dans:">
+<!ENTITY openMsgInNewTab.label          "un nouvel onglet">
+<!ENTITY openMsgInNewTab.accesskey      "v">
+<!ENTITY openMsgInNewWindow.label       "une nouvelle fenêtre">
+<!ENTITY openMsgInNewWindow.accesskey   "u">
+<!ENTITY openMsgInExistingWindow.label  "une fenêtre existante">
+<!ENTITY openMsgInExistingWindow.accesskey "x">
+<!ENTITY connectionTimeout.label       "Délai de connexion dépassé: ">
+<!ENTITY connectionTimeout.accesskey   "c">
+<!ENTITY connectionSeconds.label       "secondes">
+<!ENTITY configEditDesc.label          "Configuration avancée">
+<!ENTITY configEdit.label              "Éditeur de configuration…">
+<!ENTITY configEdit.accesskey          "d">
+<!ENTITY returnReceiptsInfo.label      "Gestion des accusés de réception dans &brandShortName;">
+<!ENTITY showReturnReceipts.label      "Accusés de réception…">
+<!ENTITY showReturnReceipts.accesskey  "A">
+<!ENTITY macEnableSpotlight.label      "Autoriser l'intégration de Spotlight">
+<!ENTITY macEnableSpotlight.accesskey  "s">
+<!-- Update -->
+<!ENTITY autoCheck.label                "Rechercher automatiquement des mises à jour pour :">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "b">
+<!ENTITY enableAddonsUpdate.label       "les modules installés">
+<!ENTITY enableAddonsUpdate.accesskey   "m">
+<!ENTITY checkNow.label                 "Vérifier maintenant">
+<!ENTITY whenUpdatesFound.label         "Quand des mises à jour pour &brandShortName; sont disponibles :">
+<!ENTITY modeAskMe.label                "demander ce qu'il faut faire">
+<!ENTITY modeAskMe.accesskey            "d">
+<!ENTITY modeAutomatic.label            "télécharger et installer automatiquement les mises à jour">
+<!ENTITY modeAutomatic.accesskey        "c">
+<!ENTITY modeAutoAddonWarn.label        "avertir si cela désactive des modules">
+<!ENTITY modeAutoAddonWarn.accesskey    "v">
+<!ENTITY showUpdates.label              "Afficher l'historique des mises à jour">
+<!ENTITY showUpdates.accesskey          "A">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Connexion...">
+<!ENTITY showConnections.accesskey     "n">
+<!ENTITY proxiesInfo.label             "Déterminer comment &brandShortName; se connecte à Internet.">
+<!ENTITY connectionsInfo.caption       "Connexion">
+<!ENTITY offlineInfo.caption           "Hors connexion">
+<!ENTITY offlineInfo.label             "Configurer les paramètres hors connexion">
+<!ENTITY showOffline.label             "Hors connexion…">
+<!ENTITY showOffline.accesskey         "H">
+
+<!ENTITY Diskspace "Espace disque">
+<!ENTITY offlineCompact.label "Compacter les dossiers quand cela économise au moins">
+<!ENTITY offlineCompact.accesskey "C">
+<!ENTITY kb.label "Ko">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certs.auto                      "Select one automatically">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Ask me every time">
+<!ENTITY certs.ask.accesskey             "A">
+
+<!ENTITY viewCertificates.label         "Voir les certificats">
+<!ENTITY viewCertificates.accesskey     "o">
+<!ENTITY viewCRLs.label                 "Listes de révocation">
+<!ENTITY viewCRLs.accesskey             "L">
+<!ENTITY viewOCSP.label                 "Vérification">
+<!ENTITY viewOCSP.accesskey             "f">
+<!ENTITY viewSecurityDevices.label      "Périphériques de sécurité">
+<!ENTITY viewSecurityDevices.accesskey  "P">
+
+<!-- Web Services -->
+<!ENTITY webservicesInfo.label          "Configurer les services Web intégrés à Postbox.">

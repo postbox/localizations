@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "Courrier en HTML">
+
+<!ENTITY recipient.label "Certains destinataires semblent ne pas pouvoir accepter de courrier au format HTML.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "Votre message peut être converti en texte simple sans perdre d'information.">
+<!ENTITY convertibleAltering.label "Votre message peut être converti en texte simple sans perdre d'information importante. Toutefois, la version texte simple peut être différente de ce que vous voyez.">
+<!ENTITY convertibleNo.label "Toutefois, la mise en forme utilisée (les couleurs par exemple) ne sera pas convertie en texte simple.">
+
+<!ENTITY question.label "Voulez-vous convertir votre message en texte normal ou le laisser en HTML ?">
+
+<!ENTITY plainTextAndHtml.label "Envoyer en texte et en HTML">
+<!ENTITY plainTextOnly.label "Envoyer en texte normal seulement">
+<!ENTITY htmlOnly.label "Envoyer en HTML seulement">
+
+<!ENTITY plainTextAndHtmlRecommended.label "Envoi en texte simple et HTML (recommandé)">
+<!ENTITY plainTextOnlyRecommended.label "Envoi en texte simple seulement (recommandé)">
+<!ENTITY htmlOnlyRecommended.label "Envoi en HTML seulement (recommandé)">
+<!ENTITY recommended.label "(recommandé)">
+
+<!ENTITY send.label "Envoyer">
+<!ENTITY cancel.label "Annuler">
+<!ENTITY recipients.label "Destinataires...">
+<!ENTITY help.label "Aide">

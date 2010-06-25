@@ -1,0 +1,28 @@
+<!ENTITY safeb.palm.warning.title "Soupçonné de contrefaçon">
+
+<!ENTITY safeb.palm.message.p1 "Cette page a été signalé comme un site contrefait conçu pour inciter les utilisateurs à partager des informations personnelles ou financières. Saisir des informations personnelles sur cette page pourrait vous exposer à un vol d'identité ou à d'autres fraudes. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Lire la suite &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Lire la suite &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Ces types de sites contrefaits sont utilisés dans des escroqueries connues sous le nom d'attaque d'hameçonnage, dans lesquels des pages web et e-mails frauduleux sont utilisés pour imiter les sites auxquels vous faites confiance. Vous pouvez en savoir plus sur ">
+<!ENTITY safeb.palm.message.p2.linkText "comment &brandShortName; vous protège">
+<!ENTITY safeb.palm.message.p2.end " d'attaques de type phishing.">
+
+<!ENTITY safeb.palm.accept.label "Sortez-moi de là !">
+<!ENTITY safeb.palm.accept.statustext "Naviguer vers ma page d'accueil">
+<!ENTITY safeb.palm.decline.label "Ignorer cet avertissement">
+<!ENTITY safeb.palm.decline.statustext "Fermer l'avertissement" >
+<!ENTITY safeb.palm.notforgery.label2 "Ce n'est pas un site contrefait...">
+<!ENTITY safeb.palm.report.label "Pourquoi ce site a été bloqué?">
+
+<!ENTITY safeb.urlbaricon.tooltip "Cette page peut être dangereuse; cliquez pour plus de détails.">
+
+<!ENTITY safeb.blocked.malware.title "Signalé comme un site malveillant !">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malware.shortDesc "Le site à l'adresse <span id='malware_sitename'/> a été signalé comme un site malveillant et a été bloqué en fonction de vos préférences de sécurité.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Les sites attaquants essayent d'installer des logiciels qui volent vos informations privées, utilisent votre ordinateur pour attaquer d'autres personnes, ou endommagent votre système.</p><p>Certains sites attaquants distribuent intentionnellement des logiciels dangereux, mais beaucoup d'entre eux sont compromis sans que leur propriétaire en ai donné l'autorisation ou la permission.</p>">
+
+<!ENTITY safeb.blocked.phishing.title "Site contrefait signalé !">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishing.shortDesc "Le site à l'adresse <span id='phishing_sitename'/> a été signalé comme site contrefait et a été bloqué en fonction de vos préférences de sécurité.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Les sites contrefaits sont conçus pour vous pousser à révéler des informations personnelles ou financières en imitant des sites auxquels vous faites confiance.</p><p>Saisir des informations sur cette page web pourrait vous exposer à un vol d'identité ou à d'autres fraudes.</p>">

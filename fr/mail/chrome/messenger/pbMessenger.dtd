@@ -1,0 +1,255 @@
+<!-- File Menu -->
+<!ENTITY pbLocalesMenu.label "Langue">
+<!ENTITY pbLocalesMenu.accesskey "g">
+<!ENTITY pbLocalesMenu_getMore.label "Obtenir plus...">
+<!ENTITY pbLocalesMenu_getMore.accesskey "O">
+
+<!-- Tools Menu -->
+<!ENTITY pbIndexingMenu.label "Indexation">
+<!ENTITY pbIndexingMenu.accesskey "x">
+<!ENTITY indexAllMessages.label "Indexation de tous les dossiers...">
+<!ENTITY indexAllMessages.accesskey "I">
+<!ENTITY indexMessagesInFolder.label "Indexation de ce dossier...">
+<!ENTITY indexMessagesInFolder.accesskey "I">
+<!ENTITY resetIndexAllMessages.label "Réinitialiser tous les dossiers...">
+<!ENTITY resetIndexAllMessages.accesskey "R">
+<!ENTITY resetIndexMessagesInFolder.label "Réinitialiser ce dossier...">
+<!ENTITY resetIndexMessagesInFolder.accesskey "e">
+<!ENTITY webServices.label "Services Web...">
+<!ENTITY webServices.accesskey "W">
+
+<!-- Mail Toolbar -->
+<!ENTITY tagButton.label "Assigner une étiquette">
+<!ENTITY kindFocusToolbarItem.title "Genre">
+<!ENTITY focusPaneMessages.label        "Tout afficher">
+<!ENTITY focusPaneText.label            "Recherche">
+<!ENTITY focusPaneAttachments.label     "Pièces jointes">
+<!ENTITY focusPaneEvents.label          "Événements">
+<!ENTITY focusPaneImages.label          "Images">
+<!ENTITY focusPaneURLs.label            "Liens">
+<!ENTITY focusPaneContacts.label        "Contacts">
+<!ENTITY tagButton.tooltip "Ajouter une étiquette aux messages">
+<!ENTITY newTaskButton.tooltip "Créer une nouvelle chose à faire">
+<!ENTITY newTaskButton.label "Nouvelle chose à faire">
+<!ENTITY pbToolbarButton-home.label "Accueil">
+<!ENTITY pbToolbarButton-home.tooltip "Me ramener à ma boîte de réception et effacer tous les critères de recherche">
+<!ENTITY pbToolbarButton-promote.label   "Publier">
+<!ENTITY pbToolbarButton-promote.tooltip   "Publier un message sur le Web">
+<!ENTITY pbToolbarButton-promote-twitter.label "Twitter">
+<!ENTITY pbToolbarButton-promote-twitter.accesskey "T">
+<!ENTITY pbToolbarButton-promote-facebook.label "Facebook">
+<!ENTITY pbToolbarButton-promote-facebook.accesskey "F">
+<!ENTITY pbToolbarButton-promote-friendfeed.label "FriendFeed">
+<!ENTITY pbToolbarButton-promote-friendfeed.accesskey "r">
+<!ENTITY pbToolbarButton-promote-linkedin.label "LinkedIn">
+<!ENTITY pbToolbarButton-promote-linkedin.accesskey "L">
+
+<!-- Tags Menu Popup -->
+<!ENTITY applyTag.label "Étiqueter le message">
+<!ENTITY addNewTag.label "Nouvelle étiquette…">
+<!ENTITY addNewTag.accesskey "t">
+<!ENTITY removeTag.label "Supprimer étiquette">
+<!ENTITY removeAllTag.label "Tout supprimer...">
+<!ENTITY removeAllTag.accesskey "T">
+
+<!-- search menu -->
+<!ENTITY pbFullTextSearchCmd.label "Recherche avancée dans les messages">
+<!ENTITY pbFullTextSearchCmd.accesskey "m">
+
+<!-- search result popup -->
+<!ENTITY searchResultPopup-imageZoom.label      "Zoomer sur l'image">
+<!ENTITY searchResultPopup-imageZoom.accesskey  "i">
+<!ENTITY searchResultPopup-openAttachment.label      "Ouvrir">
+<!ENTITY searchResultPopup-openAttachment.accesskey  "O">
+<!ENTITY searchResultPopup-openMessage.label         "Ouvrir le message">
+<!ENTITY searchResultPopup-openMessage.accesskey     "m">
+<!ENTITY searchResultPopup-openFolder.label          "Ouvrir le dossier du message">
+<!ENTITY searchResultPopup-openFolder.accesskey      "O">
+<!ENTITY searchResultPopup-quickLookMac.label           "Coup d'oeil...">
+<!ENTITY searchResultPopup-quickLookMac.accesskey       "C">
+<!ENTITY searchResultPopup-quickLook.label           "Aperçu...">
+<!ENTITY searchResultPopup-quickLook.accesskey       "A">
+<!ENTITY searchResultPopup-attachTo.label            "Attacher à">
+<!ENTITY searchResultPopup-attachTo.accesskey        "A">
+<!ENTITY searchResultPopup-editResult.label      "Modifier…">
+<!ENTITY searchResultPopup-editResult.accesskey  "e">
+<!ENTITY searchResultPopup-deleteResult.label      "Supprimer">
+<!ENTITY searchResultPopup-deleteResult.accesskey  "S">
+<!ENTITY pbSearchResultPopup-send.label              "Envoyer...">
+<!ENTITY pbSearchResultPopup-send.accesskey          "E">
+<!ENTITY pbSearchResultPopup-save.label              "Sauvegarder...">
+<!ENTITY pbSearchResultPopup-save.accesskey          "S">
+<!ENTITY pbSearchResultPopup-upload.label            "Envoyer vers">
+<!ENTITY pbSearchResultPopup-upload.accesskey        "E">
+<!ENTITY pbSearchResultPopup-addUrlToGoogle.label          "Google">
+<!ENTITY pbSearchResultPopup-addUrlToGoogle.accesskey      "l">
+<!ENTITY pbSearchResultPopup-addUrlToDelicious.label       "del.icio.us">
+<!ENTITY pbSearchResultPopup-addUrlToDelicious.accesskey   "d">
+<!ENTITY pbSearchResultPopup-addUrlToFacebook.label        "Facebook">
+<!ENTITY pbSearchResultPopup-addUrlToFacebook.accesskey    "F">
+<!ENTITY pbSearchResultPopup-addUrlToFriendFeed.label      "FriendFeed">
+<!ENTITY pbSearchResultPopup-addUrlToFriendFeed.accesskey  "r">
+<!ENTITY pbSearchResultPopup-addUrlToTwitter.label         "Twitter">
+<!ENTITY pbSearchResultPopup-addUrlToTwitter.accesskey     "T">
+<!ENTITY pbSearchResultPopup-addUrlToLinkedIn.label        "LinkedIn">
+<!ENTITY pbSearchResultPopup-addUrlToLinkedIn.accesskey    "L">
+<!ENTITY searchResultPopup-systemPhotoImportMac.label      "Add to iPhoto">
+<!ENTITY searchResultPopup-systemPhotoImportMac.accesskey  "h">
+
+<!-- inline edit subject bar -->
+<!ENTITY msgAnnotation.title                         "Twitter">
+<!ENTITY saveMessageEditing.button.label             "Enregistrer">
+<!ENTITY saveMessageEditing.button.accesskey         "s">
+<!ENTITY saveMessageEditingAsCopy.button.label       "Enregistrer une copie">
+<!ENTITY saveMessageEditingAsCopy.button.accesskey   "E">
+<!ENTITY cancelMessageEditing.button.label           "Annuler">
+<!ENTITY cancelMessageEditing.button.accesskey       "A">
+
+<!-- inline message editing toolbar -->
+<!ENTITY boldEditMsgToolbarCmd.tooltip               "Gras">
+<!ENTITY italicEditMsgToolbarCmd.tooltip             "Italique">
+<!ENTITY underlineEditMsgToolbarCmd.tooltip          "Souligné">
+<!ENTITY strikethroughEditMsgToolbarCmd.tooltip      "Barré">
+<!ENTITY cropTextEditMsgToolbarCmd.tooltip           "Rogner le texte">
+<!ENTITY insertLinkEditMsgToolbarCmd.tooltip         "Insérer un nouveau lien ou modifier les propriétés du lien sélectionné">
+<!ENTITY buletListEditMsgToolbarCmd.tooltip          "Appliquer ou enlever une liste">
+<!ENTITY numberListEditMsgToolbarCmd.tooltip         "Appliquer ou enlever une liste numérotée">
+
+<!-- inline message editing context menu -->
+<!ENTITY spellAddToDictionary.label                  "Ajouter au dictionnaire">
+<!ENTITY spellAddToDictionary.accesskey              "o">
+<!ENTITY spellNoSuggestions.label                    "(pas de mot suggéré)">
+<!ENTITY spellCheckIgnoreWord.label                  "Ignorer le mot">
+<!ENTITY spellCheckIgnoreWord.accesskey              "I">
+<!ENTITY spellCheckEnable.label                      "Vérification de l'orthographe">
+<!ENTITY spellCheckEnable.accesskey                  "V">
+<!ENTITY spellDictionaries.label                     "Langues">
+<!ENTITY spellDictionaries.accesskey                 "L">
+
+<!-- indexer progress dialog -->
+<!ENTITY indexerProgress.title                       "Indexation des messages">
+<!ENTITY indexerProgressMessages.label               "Messages :">
+<!ENTITY indexerProgressFolders.label                "Dossiers :">
+<!ENTITY indexerProgress.status                      "Statut :">
+<!ENTITY stopIndexingButton.label                    "Arrêter">
+<!ENTITY indexerProgressTitle.label                  "Indexation des messages...">
+
+<!-- rich search bar -->
+<!ENTITY searchbar-defaultSearchText.label      "Recherche">
+<!ENTITY searchbar-caption.label                "Appuyez sur Ctrl-↵ pour un aperçu de texte">
+<!ENTITY searchbar-captionMac.label             "Appuyez sur ⌘-↵ pour un aperçu texte">
+
+<!-- advanced search panel -->
+<!ENTITY searchOptionsPanelTitle.label          "Options de recherche">
+<!ENTITY searchContainsField.label              "Contient">
+<!ENTITY searchFromField.label                  "De ">
+<!ENTITY searchToField.label                    "À">
+<!ENTITY searchSubjectField.label               "Sujet">
+<!ENTITY searchTopicField.label                 "Étiquette">
+<!ENTITY searchBeforeField.label                "Avant">
+<!ENTITY searchAfterField.label                 "Après">
+<!-- The number of characters that can be displayed in the search field textboxes -->
+<!ENTITY searchField.size                       "30">
+<!ENTITY searchBar-options.tooltip              "Montrer les options de recherche">
+<!ENTITY searchButton.label                     "Rechercher">
+<!ENTITY cancelButton.label                     "Annuler">
+
+<!-- message pane progress text -->
+<!ENTITY messagePaneProgressText.label          "Chargement...">
+
+<!-- pbEditorPanel.inc -->
+<!ENTITY todoPanelSave.label                    "Enregistrer">
+<!ENTITY todoPanelCancel.label                  "Annuler">
+
+<!-- pbSharePanel.inc -->
+<!ENTITY sharePanelShare.label                   "Mettre à jour">
+<!ENTITY sharePanelCancel.label                  "Annuler">
+
+<!-- content URL context menu -->
+<!ENTITY pbContentURLContextMenu-bookmarkURL.accesskey    "B">
+<!ENTITY pbContentURLContextMenu-otherActions.label       "Autres actions">
+<!ENTITY pbContentURLContextMenu-otherActionsURL.accesskey "h">
+<!ENTITY pbContentURLContextMenu-openURL.label            "Ouvrir dans le navigateur">
+<!ENTITY pbContentURLContextMenu-openURL.accesskey        "O">
+<!ENTITY pbContentURLContextMenu-copyURL.label            "Copier">
+<!ENTITY pbContentURLContextMenu-copyURL.accesskey        "C">
+<!ENTITY pbContentURLContextMenu-sendURL.label            "Envoyer le lien...">
+<!ENTITY pbContentURLContextMenu-sendURL.accesskey        "E">
+<!ENTITY pbContentURLContextMenu-addToGoogle.label        "Ajouter à Google">
+<!ENTITY pbContentURLContextMenu-addToGoogle.accesskey    "G">
+<!ENTITY pbContentURLContextMenu-addToDelicious.label     "Ajouter à del.icio.us">
+<!ENTITY pbContentURLContextMenu-addToDelicious.accesskey "A">
+<!ENTITY pbContentURLContextMenu-addToFacebook.label      "Publier sur Facebook...">
+<!ENTITY pbContentURLContextMenu-addToFacebook.accesskey  "F">
+<!ENTITY pbContentURLContextMenu-addToFriendFeed.label    "Publier sur FriendFeed...">
+<!ENTITY pbContentURLContextMenu-addToFriendFeed.accesskey "r">
+<!ENTITY pbContentURLContextMenu-addToTwitter.label       "Publier sur Twitter...">
+<!ENTITY pbContentURLContextMenu-addToTwitter.accesskey   "w">
+<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Post to LinkedIn...">
+<!ENTITY pbContentURLContextMenu-addToLinkedIn.accesskey  "L">
+
+<!-- text context menu -->
+<!ENTITY pbContentTextContextMenu-websearch.accesskey    "S">
+<!ENTITY pbContentTextContextMenu-research.accesskey     "R">
+<!ENTITY pbContentTextContextMenu-review.accesskey       "e">
+<!ENTITY pbContentTextContextMenu-otherActions.label     "Autres actions">
+<!ENTITY pbContentTextContextMenu-otherActions.accesskey "o">
+<!ENTITY pbContentTextContextMenu-map.accesskey          "M">
+<!ENTITY pbContentTextContextMenu-phone.label            "Numéro de téléphone">
+<!ENTITY pbContentTextContextMenu-phone.accesskey        "N">
+<!ENTITY pbContentTextContextMenu-systemSearchMac.label      "Search in Spotlight">
+<!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
+<!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Look Up in Dictionary">
+<!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "L">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New To-Do with Selection as Note">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
+<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New To-Do with Selection as Title">
+<!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
+<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Send to Inbox">
+<!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
+
+<!-- topic context menu -->
+<!ENTITY pbTopicContextMenu-edit.label         "Renommer">
+<!ENTITY pbTopicContextMenu-edit.accesskey     "e">
+<!ENTITY pbTopicContextMenu-favorite.label     "Étiquette préférée">
+<!ENTITY pbTopicContextMenu-favorite.accesskey "f">
+<!ENTITY pbTopicContextMenu-remove.label       "Supprimer">
+<!ENTITY pbTopicContextMenu-remove.accesskey   "r">
+<!ENTITY pbTopicContextMenu-editAll.label      "Modifier les étiquettes...">
+<!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
+
+<!-- account tree context menu -->
+<!ENTITY pbAccountTreeContextMenu-settings.label "Paramètres...">
+<!ENTITY pbAccountTreeContextMenu-settings.accesskey "P">
+
+<!-- thread pane -->
+<!ENTITY threadPaneNoMatchesFound.desc "Aucun message ne correspond à votre recherche.">
+<!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Essayez de rechercher dans tous les dossiers.">
+<!ENTITY threadPaneNoMatchesSuggestionAllTopics.desc "Essayez de rechercher dans toutes les étiquettes.">
+<!ENTITY threadPaneAddTextToSearch.desc "Commencez à taper dans la barre de recherche pour commencer votre recherche.">
+
+<!ENTITY pbSignatureEditor.title "Nouvelle signature">
+<!ENTITY pbSignatureEditor.name "Nom">
+<!ENTITY pbSignatureEditor.body "Signature">
+
+<!-- pbSearchBox.xml -->
+<!ENTITY pbSearchScopePanel-location.label "Emplacement">
+<!ENTITY pbSearchScopePanel-recent.label "Historique de recherche">
+
+<!-- facebook extension login.xul and auth.xul -->
+<!ENTITY login.window.title "Se connecter à Facebook">
+<!ENTITY login.wait "Merci de patienter pendant que nous nous préparons à vous connecter...">
+<!ENTITY login.close "Fermer la fenêtre de connexion">
+<!ENTITY auth.window.title "Autoriser les mises à jour de statut depuis Postbox">
+<!ENTITY auth.close "Fermer la fenêtre">
+
+<!-- pbLanguageProgress.xul -->
+<!ENTITY downloadLanguage.title "Download Language">
+
+<!-- thread pane context menu -->
+<!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Send to Inbox">
+<!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "i">
+
+<!-- message pane context menu -->
+<!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Send to Inbox">
+<!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">

@@ -1,0 +1,5 @@
+<!-- folder pane context menu item -->
+<!ENTITY folderContextRSSSubscribe.label    "Index des messages">
+<!ENTITY folderContextRSSSubscribe.accesskey   "I">
+
+
