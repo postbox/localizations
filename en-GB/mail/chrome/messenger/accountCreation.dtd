@@ -1,0 +1,101 @@
+<!ENTITY autoconfigWizard.title          "Mail Account Setup">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "First Last">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY password.label                  "Password:">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.emptytext              "Password">
+<!ENTITY password.text                   "Optional, will only be used to validate the user name">
+
+<!ENTITY accountInformation.label        "Account Information">
+<!ENTITY outgoing.label                  "Outgoing:">
+<!ENTITY noEncryption.label              "None">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY manualSetup.label               "Manual Setup…">
+<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY cancel.label                    "Cancel">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "Continue">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY startOver.label                 "Start over">
+<!ENTITY startOver.accesskey             "o">
+<!ENTITY stop.label                      "Stop">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Re-test Configuration">
+<!ENTITY retest.accesskey                "R">
+<!ENTITY edit.label                      "Edit">
+<!ENTITY edit.accesskey                  "E">
+
+<!ENTITY rememberPassword.label          "Remember password">
+<!ENTITY rememberPassword.accesskey      "m">
+
+<!ENTITY warning.label                   "Warning!">
+<!ENTITY incomingSettings.label          "Incoming settings:">
+<!ENTITY outgoingSettings.label          "Outgoing settings:">
+<!ENTITY technicaldetails.label          "Technical Details">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "I understand the risks.">
+<!ENTITY confirmWarning.accesskey        "u">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Create Account">
+<!ENTITY createAccount.accesskey         "C">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Change Settings">
+<!ENTITY changeSettings.accesskey        "S">
+
+<!ENTITY pb.contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections.">
+
+<!ENTITY insecureServer.tooltip.title    "Warning! This is an insecure server.">
+<!ENTITY insecureServer.tooltip.details  "Click circle for more details.">
+
+<!ENTITY insecureUnencrypted.description "Your email and authentication are sent unencrypted, so your password (and your message) could easily be read by other people. &brandShortName; will let you get to your mail, but you should contact your email provider about configuring the server with a secure connection.">
+<!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
+<!ENTITY secureServer.description        "Congratulations! This is a secure server.">
+
+<!ENTITY pb.identity.title "Identity">
+<!ENTITY pb.name.label    "Your Name">
+<!ENTITY pb.email.label   "Email Address">
+<!ENTITY pb.password.label "Password">
+<!ENTITY pb.serverinfo.title "Server Information">
+<!ENTITY pb.username.label   "User Name">
+<!ENTITY pb.incoming.label "Incoming Server">
+<!ENTITY pb.servername.label "Server Name">
+<!ENTITY pb.servertype.label "Type">
+<!ENTITY pb.serverport.label "Port">
+<!ENTITY pb.serversecurity.label "Security">
+<!ENTITY pb.outgoing.label "Outgoing Server">
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     creation wizard, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY pb.emailWizard.size "width: 82ch;">
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     creation wizard, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY pb.macEmailWizard.size "width: 63ch;">
