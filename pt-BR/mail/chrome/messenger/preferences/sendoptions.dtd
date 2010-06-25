@@ -1,0 +1,39 @@
+<!ENTITY dialog.title                 "Formato de envio">
+<!ENTITY sendMail.title               "Mensagens com formatação">
+<!ENTITY sendMaildesc.label           "Ao enviar mensagens com formatação (HTML) e um destinatário não estiver definido para receber nesse formato:">
+<!ENTITY askMe.label                  "Perguntar qual é o formato desejado">
+<!ENTITY askMe.accesskey              "P">
+<!ENTITY convertPlain.label           "Enviar só uma versão sem formatação">
+<!ENTITY convertPlain.accesskey       "v">
+<!ENTITY sendHTML.label               "Enviar só no formato original HTML">
+<!ENTITY sendHTML.accesskey           "E">
+<!ENTITY sendBoth.label               "Enviar junto uma versão sem formatação">
+<!ENTITY sendBoth.accesskey           "n">
+<!ENTITY receiveHTML.label            "If you know a particular recipient can receive HTML mail, uncheck the 'Send email as plain text (no HTML)' checkbox on the recipient's Address Book card.">
+<!ENTITY override.label               "Nota: especifique o formato de cada destinatário através do catálogo de endereços.">
+
+<!ENTITY domaindesc.label             "Ao enviar uma mensagem para um endereço com um dos domínios abaixo, o &brandShortName; automaticamente envia a mensagem no formato correto.">
+<!ENTITY HTMLTab.label                "Enviar em HTML">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Enviar como texto sem formatação">
+<!ENTITY PlainTextTab.accesskey       "t">
+<!ENTITY AddButton.label              "Add...">
+<!ENTITY AddHtmlDomain.accesskey      "a">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteButton.label           "Delete">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeletePlainText.accesskey    "t">
+
+<!ENTITY add.htmltitle                "Adicionar um domínio">
+<!ENTITY add.htmldomain               "Domínio de HTML:">
+<!ENTITY add.htmldomain.accesskey     "D">
+<!ENTITY add.plaintexttitle           "Adicionar um domínio">
+<!ENTITY add.plaintextdomain          "Domínio de texto sem formatação:">
+<!ENTITY add.plaintext.accesskey      "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "Domain Name Error">
+<!ENTITY duplicationError.label       "The domain name @string@ already exists in this list.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "A domain name cannot appear in both the HTML and Plain Text lists. The domain name @string@ already exists.">

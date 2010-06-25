@@ -1,0 +1,79 @@
+<!ENTITY  fontsAndEncodingsDialog.title           "Fontes e codificações">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
+
+<!ENTITY  language.label                          "Fontes padrão para:">
+<!ENTITY  language.accesskey                      "F">
+
+<!ENTITY  typefaces.label                         "Typeface">
+<!ENTITY  sizes.label                             "Size (pixels)">
+<!ENTITY  proportionalSize.accesskey              "T">
+<!ENTITY  monospaceSize.accesskey                 "x">
+
+<!ENTITY  proportional.label                      "Proporcional:">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "Com serifa:">
+<!ENTITY  serif.accesskey                         "C">
+<!ENTITY  sans-serif.label                        "Sem serifa:">
+<!ENTITY  sans-serif.accesskey                    "S">
+<!ENTITY  monospace.label                         "Monoespaçada:">
+<!ENTITY  monospace.accesskey                     "o">
+
+<!ENTITY  fontsize.units                          "pixels">
+
+<!ENTITY  font.langGroup.latin1                   "Ocidental">
+<!ENTITY  font.langGroup.latin2                   "Europeu central">
+<!ENTITY  font.langGroup.japanese                 "Japonês">
+<!ENTITY  font.langGroup.trad-chinese             "Chinês tradicional (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Chinês simplificado">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Chinês tradicional (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Coreano">
+<!ENTITY  font.langGroup.cyrillic                 "Cirílico">
+<!ENTITY  font.langGroup.baltic                   "Báltico">
+<!ENTITY  font.langGroup.el                       "Grego">
+<!ENTITY  font.langGroup.turkish                  "Turco">
+<!ENTITY  font.langGroup.unicode                  "Outros idiomas">
+<!ENTITY  font.langGroup.user-def                 "Definido pelo usuário">
+<!ENTITY  font.langGroup.thai                     "Tailandês">
+<!ENTITY  font.langGroup.hebrew                   "Hebraico">
+<!ENTITY  font.langGroup.arabic                   "Árabe">
+<!ENTITY  font.langGroup.devanagari               "Devanágari">
+<!ENTITY  font.langGroup.tamil                    "Tâmil">
+<!ENTITY  font.langGroup.armenian                 "Armênio">
+<!ENTITY  font.langGroup.bengali                  "Bengalês">
+<!ENTITY  font.langGroup.canadian                 "Silabário do Canadá unificado">
+<!ENTITY  font.langGroup.ethiopic                 "Etíope">
+<!ENTITY  font.langGroup.georgian                 "Georgiano">
+<!ENTITY  font.langGroup.gujarati                 "Guzerate">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmuqui">
+<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.malayalam                "Malaiala">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Tamanho mínimo permitido:">
+<!ENTITY minSize.accesskey                        "m">
+<!ENTITY minSize.none                             "Nenhum">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Com serifa">
+<!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
+
+<!ENTITY  newLanguages.label                      "New languages can be configured using the Languages Panel.">
+
+<!ENTITY  useDocumentFonts.label                  "Mensagens podem usar outras fontes">
+<!ENTITY  useDocumentFonts.accesskey              "n">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Para mensagens enviadas:">
+<!ENTITY sendDefaultCharset.accesskey     "r">
+<!ENTITY languagesTitle1.label            "Codificações padrão">
+<!ENTITY composingDescription.label       "Defina as codificações padrão para receber e enviar mensagens.">
+
+<!ENTITY viewDefaultCharsetList.label     "Para mensagens recebidas:">
+<!ENTITY viewDefaultCharsetList.accesskey  "e">
+<!ENTITY forceCharsetOverride.label       "Apply the default character encoding to all incoming messages">
+<!ENTITY forceCharsetOverride.accesskey   "A">
+<!ENTITY replyInDefaultCharset.label      "Use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset.accesskey  "h">

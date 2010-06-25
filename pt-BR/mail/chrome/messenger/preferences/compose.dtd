@@ -1,0 +1,63 @@
+<!ENTITY itemGeneral.label                   "Geral">
+<!ENTITY itemAutoComplete.label              "Endereçar">
+<!ENTITY itemSpellCheck.label                "Ortografia">
+<!ENTITY itemSendFormat.label                "Send Format">
+
+<!ENTITY forwardReply.label                   "Forwarding Messages">
+<!ENTITY forwardMsg.label                     "Encaminhar como:">
+<!ENTITY forwardMsg.accesskey                 "h">
+<!ENTITY inline.label                         "Texto na mensagem">
+<!ENTITY inline.accesskey                     "T">
+<!ENTITY asAttachment.label                   "Anexo">
+<!ENTITY asAttachment.accesskey               "A">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Fonte:">
+<!ENTITY font.accesskey                       "F">
+<!ENTITY size.label                           "Tamanho:">
+<!ENTITY size.accesskey                       "T">
+<!ENTITY fontColor.label                      "Cor do texto:">
+<!ENTITY fontColor.accesskey                  "C">
+<!ENTITY bgColor.label                        "Cor do plano de fundo:">
+<!ENTITY bgColor.accesskey                    "u">
+<!ENTITY restoreHTMLDefaults.label            "Restaurar o padrão">
+<!ENTITY restoreHTMLDefaults.accesskey        "R">
+
+<!ENTITY sendingMessagesHeader.label          "Composing Messages">
+<!ENTITY spellCheck.label                     "Verificar ortografia antes de enviar">
+<!ENTITY spellCheck.accesskey                 "e">
+<!ENTITY spellCheckInline.label               "Verificar ortografia ao digitar">
+<!ENTITY spellCheckInline1.accesskey           "V">
+<!ENTITY languagePopup.label                  "Idioma:">
+<!ENTITY languagePopup.accessKey              "I">
+<!ENTITY downloadDictionaries.label           "Mais dicionários">
+
+<!ENTITY useMIME.label                        "For messages that contain 8-bit characters, use 'quoted printable' MIME encoding">
+<!ENTITY useMIME.accesskey                    "o">
+<!ENTITY warnOnSendAccelKey.label             "Confirmar ao usar um atalho do teclado para enviar mensagens">
+<!ENTITY warnOnSendAccelKey.accesskey         "o">
+<!ENTITY autoSave.label                       "Salvar automaticamente a cada">
+<!ENTITY autoSave.accesskey                   "S">
+<!ENTITY autoSaveEnd.label                    "minutos">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "Wrap plain text messages at">
+<!ENTITY wrapOutMsg.accesskey                 "l">
+<!ENTITY char.label                           "characters">
+
+<!ENTITY emailCollectionPicker.label           "Ao enviar emails, criar contatos dos destinatários em:">
+<!ENTITY emailCollectionPicker.accesskey       "A">
+<!ENTITY addressingTitle.label                 "Autocompletar endereços">
+<!ENTITY autocompleteText.label                "Ao endereçar mensagens, procurar por contatos em:">
+<!ENTITY addressingEnable.label                "Catálogos de endereços locais">
+<!ENTITY addressingEnable.accesskey            "C">
+<!ENTITY directories.label                     "Servidor de diretório:">
+<!ENTITY directories.accesskey                 "S">
+<!ENTITY editDirectories.label                 "Editar diretórios…">
+<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY matchText.label                       "If there is a match in your local address books:">
+<!ENTITY skipDirectory.label                   "Do not search in the directory">
+
+<!ENTITY sendOptionsCaption.label              "Send and HTML Options">
+<!ENTITY sendOptionsDescription.label          "Configure o comportamento do formato de texto.">
+<!ENTITY sendOptions.label                     "Formato de envio…">
+<!ENTITY sendOptions.accesskey                 "m">

@@ -1,0 +1,14 @@
+
+<!ENTITY  prefWindow.titleWin     "Opções">
+<!ENTITY  prefWindow.titleGNOME   "Preferências do &brandShortName;">
+<!ENTITY  prefWindow.styleWindows "width:48em; min-height:38.5em;">
+<!ENTITY  prefWindow.styleMac     "width:47em;">
+<!ENTITY  prefWindow.styleUnix    "width: 42em;">
+
+<!ENTITY paneGeneral.title        "Geral">
+<!ENTITY paneDisplay.title        "Aparência">
+<!ENTITY paneTags.title           "Topics">
+<!ENTITY paneComposition.title    "Edição">
+<!ENTITY paneAttachments.title    "Anexos">
+<!ENTITY panePrivacy.title        "Privacy">
+<!ENTITY paneAdvanced.title       "Avançado">

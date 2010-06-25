@@ -1,0 +1,39 @@
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Account-specific junk mail settings can be configured in Account Settings.">
+<!ENTITY manualMark.label "When I mark messages as junk:">
+<!ENTITY manualMark.accesskey "W">
+<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Delete them">
+<!ENTITY manualMarkModeDelete.accesskey "t">
+<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY markAsReadOnSpam.accesskey "k">
+<!ENTITY enableJunkLogging.label "Enable junk filter logging">
+<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY openJunkLog.label "Show log">
+<!ENTITY openJunkLog.accesskey "h">
+<!ENTITY resetTrainingData.label "Reset Training Data">
+<!ENTITY resetTrainingData.accesskey "D">
+<!ENTITY junkMail.label         "Junk Mail">
+
+<!-- Phishing Detector -->
+<!ENTITY enablePhishingDetector1.label    "Block reported e-mail scams">
+<!ENTITY enablePhishingDetector1.accesskey "B">
+
+<!-- Passwords -->
+<!ENTITY useMasterPassword.label              "Use a master password">
+<!ENTITY useMasterPassword.accesskey          "s">
+<!ENTITY changeMasterPassword.label           "Change Master Password...">
+<!ENTITY changeMasterPassword.accesskey       "M">
+<!ENTITY savedPasswords.label                 "Saved Passwords...">
+<!ENTITY savedPasswords.accesskey             "S">
+<!ENTITY passwords.label                       "Passwords">
+
+<!-- Anonymous Access -->
+<!ENTITY enableAnonymousStatistics.label       "Help make &brandShortName; better by automatically sending anonymous usage statistics.">
+<!ENTITY enableAnonymousStatistics.accesskey   "H">
+
+<!-- Remote images -->
+<!ENTITY disableImageInMailNews.label  "Block loading of remote images in mail messages">
+<!ENTITY disableImageInMailNews.accesskey "r">
+

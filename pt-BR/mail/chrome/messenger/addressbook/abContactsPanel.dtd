@@ -1,0 +1,17 @@
+<!ENTITY addressbookContactTitle.label      "Contacts">
+<!ENTITY addressbookPicker.label            "Catálogo:">
+<!ENTITY addressbookPicker.accesskey        "t">
+<!ENTITY searchInput.label                  "Localizar:">
+<!ENTITY searchInput.accesskey              "z">
+<!ENTITY SearchNameOrEmail.label            "Nome ou email">
+
+<!ENTITY addtoToFieldMenu.label             "Adicionar ao Para">
+<!ENTITY addtoCcFieldMenu.label             "Adicionar ao Cc">
+<!ENTITY addtoBccFieldMenu.label            "Adicionar ao Cco">
+
+<!ENTITY toButton.label                     "Adicionar ao Para:">
+<!ENTITY toButton.accesskey                 "P">
+<!ENTITY ccButton.label                     "Adicionar ao Cc:">
+<!ENTITY ccButton.accesskey                 "c">
+<!ENTITY bccButton.label                    "Adicionar ao Cco:">
+<!ENTITY bccButton.accesskey                "n">
