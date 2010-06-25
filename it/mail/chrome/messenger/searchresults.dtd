@@ -1,0 +1,78 @@
+<!-- rich search results -->
+<!ENTITY searchresults.showthumbnail.label         "Show Thumbnails">
+<!ENTITY searchresults.showthumbnail.accesskey     "S">
+<!ENTITY viewByRelevance.label                     "Sorted By Relevance">
+<!ENTITY viewByDate.label                          "Sorted By Date">
+<!ENTITY searchresults.viewByRelevance.label       "Sort By Relevance">
+<!ENTITY searchresults.viewByDate.label            "Sort By Date">
+<!ENTITY addToCalendar.label                       "Add to Calendar">
+<!ENTITY prevNextResults.label                     "Prev / Next">
+<!ENTITY searchResultsNoMatchesFound.desc          "No items matched your search.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Try searching in All Folders.">
+<!ENTITY searchResultsNoMatchesSuggestionAllTopics.desc          "Try searching in All Topics.">
+<!ENTITY showSearchOptions.label                   "Show search options">
+
+<!-- attachments -->
+<!ENTITY searchresults.upload.label                   "Upload">
+<!ENTITY searchresults.uploadToGoogleDocs.label       "Google Docs">
+<!ENTITY searchresults.uploadToGoogleDocs.accesskey   "G">
+<!ENTITY attachmentInfo.label                         "Document Info">
+<!ENTITY attachmentActions.label                      "Document Actions">
+
+<!-- images -->
+<!-- XX Localization note - Service names do not need to be translated -->
+<!ENTITY searchresults.uploadPhotoToPicasa.label       "Picasa">
+<!ENTITY searchresults.uploadPhotoToPicasa.accesskey   "P">
+<!ENTITY searchresults.uploadPhotoToPhotobucket.label       "Photobucket">
+<!ENTITY searchresults.uploadPhotoToPhotobucket.accesskey   "b">
+<!ENTITY imageInfo.label                               "Image Info">
+<!ENTITY imageActions.label                            "Image Actions">
+
+<!-- urls -->
+<!-- XXX start localization note: Do not translate these service names -->
+<!ENTITY searchresults.addUrlToGoogle.label        "Google">
+<!ENTITY searchresults.addUrlToGoogle.accesskey    "G">
+<!ENTITY searchresults.addUrlToDelicious.label     "del.icio.us">
+<!ENTITY searchresults.addUrlToDelicious.accesskey "d">
+<!ENTITY searchresults.addUrlToFacebook.label      "Facebook">
+<!ENTITY searchresults.addUrlToFacebook.accesskey  "F">
+<!ENTITY searchresults.addUrlToFriendFeed.label      "FriendFeed">
+<!ENTITY searchresults.addUrlToFriendFeed.accesskey  "r">
+<!ENTITY searchresults.addUrlToTwitter.label      "Twitter">
+<!ENTITY searchresults.addUrlToTwitter.accesskey  "T">
+<!ENTITY searchresults.addUrlToLinkedIn.label      "LinkedIn">
+<!ENTITY searchresults.addUrlToLinkedIn.accesskey  "L">
+<!-- XXX end localization note: Do not translate these service names -->
+
+<!-- action buttons -->
+<!ENTITY searchresults.saveButton.label            "Salva">
+<!ENTITY searchresults.sendButton.label            "Send">
+<!-- XXX localization note: should "Quick Look" be translated? -->
+<!ENTITY searchresults.quickLookButton.label       "Quick Look">
+<!ENTITY searchresults.importPhotoButtonMac.label  "iPhoto">
+<!ENTITY searchresults.addResultButton.label       "Add Signature...">
+
+<!ENTITY searchBar-options.tooltip                 "Show search options">
+<!ENTITY location.label                            "Near:">
+<!ENTITY location.emptytext                        "City, State or ZIP">
+<!ENTITY flickr.private.tooltip                    "Only you can see this photo on flickr.com">
+
+<!-- for rich search in compose -->
+<!ENTITY attachments.label "Allegati">
+<!ENTITY dictionary.label "Dictionary">
+<!ENTITY thesaurus.label "Thesaurus">
+<!ENTITY documents.label "Allegati">
+<!ENTITY images.label "Immagini">
+<!ENTITY urls.label "Collegamenti">
+<!ENTITY signatures.label "Signatures">
+<!ENTITY contacts.label "Contatti">
+
+<!-- XXX start localization note: Do not translate these service names -->
+<!ENTITY google.label "Google">
+<!ENTITY googleMaps.label "Google">
+<!ENTITY wikipedia.label "Wikipedia">
+<!ENTITY yelp.label "Yelp">
+<!ENTITY flickr.label "Flickr">
+<!ENTITY picasa.label "Picasa Web Albums">
+<!ENTITY photobucket.label "My Photobucket">
+<!-- XXX end localization note: Do not translate these service names -->

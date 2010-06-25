@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label "Sicurezza">
+<!ENTITY securityMenu.accesskey "e">
+
+<!ENTITY menu_securityEncryptIfPossible.label "Encrypt if Possible">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "p">
+
+<!ENTITY menu_securityEncryptRequire.label "Cifra questo messaggio">
+<!ENTITY menu_securityEncryptRequire.accesskey "r">
+
+<!ENTITY menu_securityNoEncryption.label "Do Not Encrypt This Message">
+<!ENTITY menu_securityNoEncryption.accesskey "N">
+
+<!ENTITY menu_securitySign.label "Apponi firma digitale">
+<!ENTITY menu_securitySign.accesskey "A">
+
+<!ENTITY menu_securityStatus.label "Sicurezza messaggio">
+<!ENTITY menu_securityStatus.accesskey "S">
+
+<!ENTITY securityButton.label "Sicurezza">
+<!ENTITY securityButton.tooltip "Visualizza o modifica le impostazioni di sicurezza">
+
+<!ENTITY menu_viewSecurityStatus.label "Informazioni sicurezza messaggio">
+<!ENTITY menu_viewSecurityStatus.accesskey "I">

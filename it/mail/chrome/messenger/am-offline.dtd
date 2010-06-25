@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Al fine di risparmiare spazio su disco, non scaricare:">
+<!ENTITY offlineNewFolder.label "When I create new folders, select them for offline use">
+<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY offlineNotDownload.label "Messaggi più grandi di">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "kB">
+<!ENTITY days.label "giorni">
+<!ENTITY daysOld.label "giorni">
+<!ENTITY message.label "messaggi più recenti">
+<!ENTITY nntpNotDownloadRead.label "Messaggi già letti">
+<!ENTITY nntpNotDownloadRead.accesskey "g">
+<!ENTITY nntpDownloadMsg.label "Messaggi più vecchi di">
+<!ENTITY nntpDownloadMsg.accesskey "v">
+<!ENTITY retentionCleanup.label "Per recuperare spazio su disco è possibile eliminare definitivamente i vecchi messaggi.">
+<!ENTITY retentionKeepMsg.label "Elimina i messaggi più vecchi di">
+<!ENTITY retentionKeepMsg.accesskey "h">
+<!ENTITY retentionKeepAll.label "Non eliminare alcun messaggio">
+<!ENTITY retentionKeepAll.accesskey "c">
+<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "Always delete read messages">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "Only message bodies less than">
+<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY offlineSelectNntp.label "Selezionare i gruppi di discussione per uso non in linea…">
+<!ENTITY offlineSelectImap.label "Select folders for offline use...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "You can download your messages locally so that they are available when you are working offline.">
+<!ENTITY makeInboxMsgsAvailable.label "Make the messages in my Inbox available when I am working offline">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Non in linea">
+<!ENTITY diskspaceGroupTitle.label "Spazio su disco">
+<!ENTITY ftiGroupTitle.label "Global Search">
+<!ENTITY fti.indexMsgs.label "Index Messages">

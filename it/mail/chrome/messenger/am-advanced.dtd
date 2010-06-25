@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Impostazioni server (SMTP) in uscita">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Nonostante sia possibile specificare più di un server di posta in uscita (SMTP), questa operazione è consigliata solo ad utenti esperti. Specificare più di un server di posta in uscita può causare errori durante l'invio del messaggio.">
+
+<!ENTITY smtpListAdd.label  "Aggiungi…">
+<!ENTITY smtpListAdd.accesskey  "g">
+<!ENTITY smtpListEdit.label "Modifica…">
+<!ENTITY smtpListEdit.accesskey "M">
+<!ENTITY smtpListDelete.label "Elimina">
+<!ENTITY smtpListDelete.accesskey "n">
+<!ENTITY smtpListSetDefault.label "Imposta predefinito">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "Descrizione: ">
+<!ENTITY serverName.label "Nome server: ">
+<!ENTITY serverPort.label "Porta: ">
+<!ENTITY userName.label   "Nome utente: ">
+<!ENTITY useSecureConnection.label   "Secure Connection: ">
+<!ENTITY useSecureAuthentication.label   "Autenticazione sicura: ">

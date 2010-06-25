@@ -1,0 +1,43 @@
+<!ENTITY systemDefaults.label              "System Defaults">
+<!ENTITY alwaysCheckDefault.label          "Always check to see if &brandShortName; is the default mail client on startup">
+<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "Controlla adesso">
+<!ENTITY checkNow.accesskey         "n">
+
+<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.accesskey          "w">
+
+<!ENTITY messengerStartPage.label         "Pagina iniziale di &brandShortName;">
+<!ENTITY location.label                   "Posizione:">
+<!ENTITY location1.accesskey               "n">
+<!ENTITY useDefault.label                 "Ripristina predefinita">
+<!ENTITY useDefault.accesskey             "R">
+
+<!ENTITY bounceSystemDockIcon.label       "Anima l'icona nel dock">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+<!ENTITY newMessagesArrive.label          "All'arrivo di un messaggio:">
+<!ENTITY playSound.label                  "Riproduci un suono">
+<!ENTITY playSound1.accesskey              "o">
+<!ENTITY showAnimatedAlert.label          "Mostra un avviso">
+<!ENTITY showAnimatedAlert.accesskey      "M">
+<!ENTITY customizeMailAlert.label         "Personalizza…">
+<!ENTITY customizeMailAlert.accesskey     "z">
+
+<!ENTITY soundNotification1.caption       "Suono">
+<!ENTITY play.label                       "Ascolta">
+<!ENTITY play.accesskey                   "A">
+<!ENTITY systemsound.label                "Suono predefinito di sistema per nuova posta">
+<!ENTITY systemsoundMac.label             "Suono di avviso predefinito">
+<!ENTITY systemsoundMac.accesskey         "p">
+<!ENTITY systemsound.accesskey            "p">
+<!ENTITY customsound.label                "Utilizza questo file audio">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "Sfoglia…">
+<!ENTITY browse.accesskey                 "S">

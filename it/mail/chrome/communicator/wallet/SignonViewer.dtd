@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label               "Gestore Password">
+<!ENTITY      windowalttitle.label            "Gestore Form: Siti">
+<!ENTITY      tab.signonsstored.label         "Password Salvate">
+<!ENTITY      tab.signonsnotstored.label      "Password Mai Salvate">
+<!ENTITY      tab.nopreview.label             "Form Mai Visualizzate">
+<!ENTITY      tab.nocapture.label             "Form Mai Salvate">
+
+<!ENTITY      spiel.signonsstored.label       "Password Manager ha salvato le informazioni di accesso per i siti seguenti:">
+<!ENTITY      spiel.signonsnotstored.label    "Password Manager non salverà le informazioni di accesso per i siti seguenti:">
+<!ENTITY      spiel.nopreview.label           "Il Gestore delle Form non visualizzerà mai le form dai seguenti siti prima di riempirli automaticamente:">
+<!ENTITY      spiel.nocapture.label           "Il gestore delle form non chiederà mai di registrare le form dai seguenti siti:">
+
+<!ENTITY      treehead.site.label             "Sito">
+<!ENTITY      treehead.username.label         "Nome utente">
+<!ENTITY      treehead.password.label         "Password">
+<!ENTITY      remove.label                    "Remove">
+<!ENTITY      removeall.label                 "Rimuovi tutto">

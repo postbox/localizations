@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Sicurezza">
+<!ENTITY securityHeading.label "Per poter inviare e ricevere messaggi firmati o cifrati, devono essere specificati un certificato per la firma digitale ed un certificato per la cifratura.">
+<!ENTITY encryptionGroupTitle.label "Cifratura">
+<!ENTITY encryptionChoiceLabel.label "Impostazioni cifratura predefinite per l'invio dei messaggi:">
+<!ENTITY neverEncrypt.label "Mai (non cifrare)">
+<!ENTITY alwaysEncryptMessage.label "Sempre (impedisce l'invio se tutti i destinatari non possiedono un certificato)">
+<!ENTITY encryptionCert.message "Utilizza il seguente certificato per cifrare o decifrare i messaggi ricevuti:">
+<!ENTITY encryptionCert.notselected "No certificate set">
+<!ENTITY certificate.button "Seleziona…">
+<!ENTITY certificate_clear.button "Clear">
+<!ENTITY signingGroupTitle.label "Firma digitale">
+<!ENTITY signMessage.label "Apponi una firma digitale ai messaggi">
+<!ENTITY signingCert.message "Utilizza il seguente certificato per firmare digitalmente i messaggi inviati:">
+<!ENTITY signingCert.notselected "No certificate set">
+
+<!ENTITY certificates.label     "Certificati">
+<!ENTITY managecerts.label      "Mostra certificati">
+<!ENTITY managecerts.accesskey  "M">
+<!ENTITY managedevices.label    "Dispositivi di sicurezza">
+<!ENTITY managedevices.accesskey "s">

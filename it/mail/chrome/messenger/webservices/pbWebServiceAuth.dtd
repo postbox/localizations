@@ -1,0 +1,3 @@
+<!ENTITY auth.loading.label      "Authorizing, please wait...">
+<!ENTITY auth.done.label         "Ok">
+<!ENTITY auth.cancel.label       "Annulla">
