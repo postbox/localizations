@@ -1,0 +1,75 @@
+<!-- Data Pane Headers -->
+<!ENTITY dataPaneImage.label          "Imágenes">
+<!ENTITY dataPaneDocument.label       "Adjuntos">
+<!ENTITY dataPaneDates.label          "Fechas">
+<!ENTITY dataPaneEvent.label          "Eventos">
+<!ENTITY dataPaneURL.label            "Enlaces">
+<!ENTITY dataPaneAddresses.label      "Direcciones">
+<!ENTITY dataPaneImageMac.label       "IMAGENES">
+<!ENTITY dataPaneDocumentMac.label    "ADJUNTOS">
+<!ENTITY dataPaneDatesMac.label       "FECHAS">
+<!ENTITY dataPaneEventMac.label       "EVENTOS">
+<!ENTITY dataPaneURLMac.label         "ENLACES">
+<!ENTITY dataPaneAddressesMac.label   "DIRECCIONES">
+<!ENTITY dataPaneFindRecent.label     "Búsqueda reciente:">
+
+<!-- data pane attachment popup -->
+<!-- XX Localisation note: Do not translate service names -->
+<!ENTITY dataPaneContext.uploadTo.label               "Subir a...">
+<!ENTITY dataPaneContext.uploadToPicasa.label         "Picasa">
+<!ENTITY dataPaneContext.uploadToPicasa.accesskey     "P">
+<!ENTITY dataPaneContext.uploadToPhotobucket.label    "Photobucket">
+<!ENTITY dataPaneContext.uploadToPhotobucket.accesskey "b">
+<!ENTITY dataPaneContext.uploadToGoogleDocs.label     "Google Docs">
+<!ENTITY dataPaneContext.uploadToGoogleDocs.accesskey "G">
+<!ENTITY dataPaneContext.openAttachment.label         "Abrir">
+<!ENTITY dataPaneContext.openAttachment.accesskey     "A">
+<!ENTITY dataPaneContext.saveAsAttachment.label       "Guardar como…">
+<!ENTITY dataPaneContext.saveAsAttachment.accesskey   "a">
+<!ENTITY dataPaneContext.quickLookAttachmentMac.label     "Vista rápida...">
+<!ENTITY dataPaneContext.quickLookAttachmentMac.accesskey "V">
+<!ENTITY dataPaneContext.quickLookAttachment.label    "Vista previa...">
+<!ENTITY dataPaneContext.quickLookAttachment.accesskey "r">
+<!ENTITY dataPaneContext.detachAttachment.label       "Separar adjuntos…">
+<!ENTITY dataPaneContext.deleteAttachment.label       "Eliminar">
+<!ENTITY dataPaneContext.saveAll.label                "Guardar todo…">
+<!ENTITY dataPaneContext.saveAll.accesskey           "G">
+<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Add to iPhoto">
+<!ENTITY dataPaneContext.systemPhotoImportMac.accesskey  "i">
+
+<!-- contact panel -->
+<!ENTITY contactPanel-name.label  "nombre:">
+<!ENTITY contactPanel-title.label "título:">
+<!ENTITY contactPanel-company.label  "compañía:">
+
+<!ENTITY contactPanel-phone.label "teléfono:">
+<!ENTITY contactPanel-work.label "(trabajo)">
+<!ENTITY contactPanel-home.label "(casa)">
+<!ENTITY contactPanel-mobile.label "(móvil)">
+
+<!ENTITY contactPanel-email.label "email:">
+<!ENTITY contactPanel-homeAddress.label "casa:">
+<!ENTITY contactPanel-workAddress.label "trabajo:">
+<!ENTITY contactPanel-onlineStatus.label "MI:">
+<!ENTITY contactPanel-facebook.label     "Facebook:">
+<!ENTITY contactPanel-twitter.label      "twitter:">
+
+<!ENTITY contactPanel-actions.label "acciones:">
+<!ENTITY contactPanel-find.label    "buscar reciente:">
+<!ENTITY contactPanel-findMessages.label "mensajes">
+<!ENTITY contactPanel-findDocuments.label "adjuntos">
+<!ENTITY contactPanel-findImages.label "imágenes">
+<!ENTITY contactPanel-findURLs.label "enlaces">
+<!ENTITY contactPanel-copyContact.label "copiar correo">
+<!ENTITY contactPanel-sendContact.label "enviar vcard">
+<!ENTITY contactPanel-createFilter.label "crear filtro...">
+
+<!-- action contact panel -->
+<!ENTITY contactActionPanel-sendMail.label "Enviar correo...">
+<!ENTITY contactActionPanel-copyAddress.label "Copiar dirección de correo">
+
+<!-- data pane address popup -->
+<!ENTITY dataPaneContext.searchGoogleMaps.label         "Mapa en Google">
+<!ENTITY dataPaneContext.searchGoogleMaps.accesskey     "G">
+<!ENTITY dataPaneContext.searchYahooMaps.label          "Mapa en Yahoo!">
+<!ENTITY dataPaneContext.searchYahooMaps.accesskey      "Y">

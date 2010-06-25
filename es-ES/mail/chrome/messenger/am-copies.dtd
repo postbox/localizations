@@ -1,0 +1,41 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Configuración de carpetas y copias">
+<!ENTITY sendingPrefix.label "Al enviar mensajes, automáticamente: ">
+<!ENTITY fccMailFolder.label "Poner una copia en:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "Colocar respuestas en la carpeta del mensaje al que se responde">
+<!ENTITY fccReplyFollowsParent.accesskey "C">
+<!ENTITY chooseFolderButton.label "Elija carpeta...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bcc a estas direcciones:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Carpetas especiales">
+<!ENTITY draftMailFolder.label "Guardar los borradores de mensajes en:">
+<!ENTITY templateMailFolder.label "Guardar las plantillas de mensajes en:">
+<!ENTITY saveMessageDlg.label "Mostrar diálogo de confirmación cuando se guarden los mensajes">
+<!ENTITY saveMessageDlg.accesskey "M">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Carpeta &quot;Enviados&quot; en:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "Otro:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Carpeta &quot;Borradores&quot; en:">
+<!ENTITY draftsFolderOn.accesskey "d">
+<!ENTITY draftInOtherFolder.label "Otro:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "Carpeta &quot;Archivos&quot; en:">
+<!ENTITY archivesFolderOn.accesskey "a">
+<!ENTITY archiveInOtherFolder.label "Otro:">
+<!ENTITY archiveInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Carpeta &quot;Plantillas&quot; en:">
+<!ENTITY templatesFolderOn.accesskey "n">
+<!ENTITY templateInOtherFolder.label "Otro:">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "Borradores, archivos y plantillas">
+<!ENTITY keepDrafts.label "Guardar los borradores de mensajes en:">
+<!ENTITY keepArchives.label "Guardar archivos de mensajes en:">
+<!ENTITY keepTempltes.label "Guardar las plantillas de mensajes en:">

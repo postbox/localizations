@@ -1,0 +1,63 @@
+<!ENTITY itemGeneral.label                   "General">
+<!ENTITY itemAutoComplete.label              "Destinatario">
+<!ENTITY itemSpellCheck.label                "Ortografía">
+<!ENTITY itemSendFormat.label                "Formato de envío">
+
+<!ENTITY forwardReply.label                   "Reenvío de mensajes">
+<!ENTITY forwardMsg.label                     "Reenviar mensajes:">
+<!ENTITY forwardMsg.accesskey                 "m">
+<!ENTITY inline.label                         "Incorporado">
+<!ENTITY inline.accesskey                     "I">
+<!ENTITY asAttachment.label                   "Como adjunto">
+<!ENTITY asAttachment.accesskey               "a">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Tipo de letra:">
+<!ENTITY font.accesskey                       "T">
+<!ENTITY size.label                           "Tamaño:">
+<!ENTITY size.accesskey                       "T">
+<!ENTITY fontColor.label                      "Color del texto:">
+<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY bgColor.label                        "Color de fondo:">
+<!ENTITY bgColor.accesskey                    "C">
+<!ENTITY restoreHTMLDefaults.label            "Restaurar valores por omisión">
+<!ENTITY restoreHTMLDefaults.accesskey        "R">
+
+<!ENTITY sendingMessagesHeader.label          "Escribiendo mensajes">
+<!ENTITY spellCheck.label                     "Comprobar la ortografía antes de enviar">
+<!ENTITY spellCheck.accesskey                 "f">
+<!ENTITY spellCheckInline.label               "Activar corrección ortogr. al escribir">
+<!ENTITY spellCheckInline1.accesskey           "v">
+<!ENTITY languagePopup.label                  "Idioma:">
+<!ENTITY languagePopup.accessKey              "I">
+<!ENTITY downloadDictionaries.label           "Descargar más diccionarios">
+
+<!ENTITY useMIME.label                        "Para mensajes que contienen carácteres de 8-bits, usar la codificación MIME 'citado para imprimir'">
+<!ENTITY useMIME.accesskey                    "o">
+<!ENTITY warnOnSendAccelKey.label             "Confirmar al usar el atajo de teclado para envío de mensajes">
+<!ENTITY warnOnSendAccelKey.accesskey         "n">
+<!ENTITY autoSave.label                       "Guardar automáticamente cada">
+<!ENTITY autoSave.accesskey                   "G">
+<!ENTITY autoSaveEnd.label                    "minutos">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "Concatenar mensajes con texto plano en">
+<!ENTITY wrapOutMsg.accesskey                 "l">
+<!ENTITY char.label                           "carácteres">
+
+<!ENTITY emailCollectionPicker.label           "Añadir automáticamente las direcciones de correo saliente a mi:">
+<!ENTITY emailCollectionPicker.accesskey       "d">
+<!ENTITY addressingTitle.label                 "Autocompletado de direcciones">
+<!ENTITY autocompleteText.label                "Al enviar mensajes, buscar entradas coincidentes en:">
+<!ENTITY addressingEnable.label                "Libretas de direcciones locales">
+<!ENTITY addressingEnable.accesskey            "L">
+<!ENTITY directories.label                     "Servidor de directorio:">
+<!ENTITY directories.accesskey                 "S">
+<!ENTITY editDirectories.label                 "Editar directorios…">
+<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY matchText.label                       "Si hay coincidencia en tu libreta de direcciones local:">
+<!ENTITY skipDirectory.label                   "No buscar en el directorio">
+
+<!ENTITY sendOptionsCaption.label              "Enviar y opciones HTML">
+<!ENTITY sendOptionsDescription.label          "Configurar comportamiento del formato de texto">
+<!ENTITY sendOptions.label                     "Opciones de envío…">
+<!ENTITY sendOptions.accesskey                 "O">

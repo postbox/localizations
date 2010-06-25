@@ -1,0 +1,78 @@
+<!-- rich search results -->
+<!ENTITY searchresults.showthumbnail.label         "Mostrar miniaturas">
+<!ENTITY searchresults.showthumbnail.accesskey     "s">
+<!ENTITY viewByRelevance.label                     "Ordenado por relevancia">
+<!ENTITY viewByDate.label                          "Ordenado por fecha">
+<!ENTITY searchresults.viewByRelevance.label       "Ordenar por relevancia">
+<!ENTITY searchresults.viewByDate.label            "Ordenar por fecha">
+<!ENTITY addToCalendar.label                       "Añadir al calendario">
+<!ENTITY prevNextResults.label                     "Ant / Sig">
+<!ENTITY searchResultsNoMatchesFound.desc          "Ningún elemento coincide con su búsqueda.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Intentar la búsqueda en todas las carpetas.">
+<!ENTITY searchResultsNoMatchesSuggestionAllTopics.desc          "Intentar la búsqueda en todas las etiquetas.">
+<!ENTITY showSearchOptions.label                   "Mostrar opciones de búsqueda">
+
+<!-- attachments -->
+<!ENTITY searchresults.upload.label                   "Subir">
+<!ENTITY searchresults.uploadToGoogleDocs.label       "Google Docs">
+<!ENTITY searchresults.uploadToGoogleDocs.accesskey   "G">
+<!ENTITY attachmentInfo.label                         "Información de documento">
+<!ENTITY attachmentActions.label                      "Acciones de documento">
+
+<!-- images -->
+<!-- XX Localization note - Service names do not need to be translated -->
+<!ENTITY searchresults.uploadPhotoToPicasa.label       "Picasa">
+<!ENTITY searchresults.uploadPhotoToPicasa.accesskey   "P">
+<!ENTITY searchresults.uploadPhotoToPhotobucket.label       "Photobucket">
+<!ENTITY searchresults.uploadPhotoToPhotobucket.accesskey   "b">
+<!ENTITY imageInfo.label                               "Información de imagen">
+<!ENTITY imageActions.label                            "Acciones de imagen">
+
+<!-- urls -->
+<!-- XXX start localization note: Do not translate these service names -->
+<!ENTITY searchresults.addUrlToGoogle.label        "Google">
+<!ENTITY searchresults.addUrlToGoogle.accesskey    "G">
+<!ENTITY searchresults.addUrlToDelicious.label     "del.icio.us">
+<!ENTITY searchresults.addUrlToDelicious.accesskey "d">
+<!ENTITY searchresults.addUrlToFacebook.label      "Facebook">
+<!ENTITY searchresults.addUrlToFacebook.accesskey  "F">
+<!ENTITY searchresults.addUrlToFriendFeed.label      "FriendFeed">
+<!ENTITY searchresults.addUrlToFriendFeed.accesskey  "r">
+<!ENTITY searchresults.addUrlToTwitter.label      "Twitter">
+<!ENTITY searchresults.addUrlToTwitter.accesskey  "T">
+<!ENTITY searchresults.addUrlToLinkedIn.label      "LinkedIn">
+<!ENTITY searchresults.addUrlToLinkedIn.accesskey  "L">
+<!-- XXX end localization note: Do not translate these service names -->
+
+<!-- action buttons -->
+<!ENTITY searchresults.saveButton.label            "Guardar">
+<!ENTITY searchresults.sendButton.label            "Enviar">
+<!-- XXX localization note: should "Quick Look" be translated? -->
+<!ENTITY searchresults.quickLookButton.label       "Vista previa">
+<!ENTITY searchresults.importPhotoButtonMac.label  "iPhoto">
+<!ENTITY searchresults.addResultButton.label       "Añadir firma...">
+
+<!ENTITY searchBar-options.tooltip                 "Mostrar opciones de búsqueda">
+<!ENTITY location.label                            "Cerca:">
+<!ENTITY location.emptytext                        "Ciudad, estado o CP">
+<!ENTITY flickr.private.tooltip                    "Sólo tú puedes ver esta foto en flickr.com">
+
+<!-- for rich search in compose -->
+<!ENTITY attachments.label "Adjuntos">
+<!ENTITY dictionary.label "Diccionario">
+<!ENTITY thesaurus.label "Tesauro">
+<!ENTITY documents.label "Adjuntos">
+<!ENTITY images.label "Imágenes">
+<!ENTITY urls.label "Enlaces">
+<!ENTITY signatures.label "Firmas">
+<!ENTITY contacts.label "Contactos">
+
+<!-- XXX start localization note: Do not translate these service names -->
+<!ENTITY google.label "Google">
+<!ENTITY googleMaps.label "Google">
+<!ENTITY wikipedia.label "Wikipedia">
+<!ENTITY yelp.label "Yelp">
+<!ENTITY flickr.label "Flickr">
+<!ENTITY picasa.label "Albumes web Picasa">
+<!ENTITY photobucket.label "Mi Photobucket">
+<!-- XXX end localization note: Do not translate these service names -->

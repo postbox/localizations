@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "Notificación de estado de entrega">
+<!ENTITY useGlobalPrefs.label       "Usar mis preferencias globales de notificación de entrega para esta cuenta">
+<!ENTITY useGlobalPrefs.accesskey   "U">
+<!ENTITY useCustomPrefs.label       "Personalizar preferencias de entrega para esta cuenta">
+<!ENTITY useCustomPrefs.accesskey   "c">
+<!ENTITY requestAlways.label        "Cuando envíe mensajes, requerir siempre una notificación de entrega">
+<!ENTITY requestAlways.accesskey    "C">
+<!ENTITY optionTitle.label          "Pedir notificación en :">
+<!ENTITY requestOnSucess.label      "Entrega correcta">
+<!ENTITY requestOnSucess.accesskey  "E">
+<!ENTITY requestOnFailure.label     "Entrega fallida">
+<!ENTITY requestOnFailure.accesskey "f">
+<!ENTITY requestOnDelay.label       "Retraso en la entrega">
+<!ENTITY requestOnDelay.accesskey   "R">
+<!ENTITY requestNever.label         "Nunca recibir notificación de entrega">
+<!ENTITY requestNever.accesskey     "N">

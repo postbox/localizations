@@ -1,0 +1,39 @@
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Los parámetros específicos de correo basura se pueden configurar en Ajustes de cuenta.">
+<!ENTITY manualMark.label "Cuando marque mensajes como basura:">
+<!ENTITY manualMark.accesskey "C">
+<!ENTITY manualMarkModeMove.label "Moverlos a la carpeta &quot;Basura&quot; de la cuenta">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Borrarlos">
+<!ENTITY manualMarkModeDelete.accesskey "B">
+<!ENTITY markAsReadOnSpam.label "Marcar mensajes basura como leídos">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableJunkLogging.label "Activar registro de filtros de basura">
+<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY openJunkLog.label "Mostrar registro">
+<!ENTITY openJunkLog.accesskey "M">
+<!ENTITY resetTrainingData.label "Reiniciar los datos de práctica">
+<!ENTITY resetTrainingData.accesskey "d">
+<!ENTITY junkMail.label         "Correo basura">
+
+<!-- Phishing Detector -->
+<!ENTITY enablePhishingDetector1.label    "Bloquear los mensajes marcados como fraudulentos">
+<!ENTITY enablePhishingDetector1.accesskey "B">
+
+<!-- Passwords -->
+<!ENTITY useMasterPassword.label              "Utilizar una contraseña maestra">
+<!ENTITY useMasterPassword.accesskey          "s">
+<!ENTITY changeMasterPassword.label           "Cambiar contraseña maestra...">
+<!ENTITY changeMasterPassword.accesskey       "m">
+<!ENTITY savedPasswords.label                 "Contraseñas guardadas...">
+<!ENTITY savedPasswords.accesskey             "s">
+<!ENTITY passwords.label                       "Contraseñas">
+
+<!-- Anonymous Access -->
+<!ENTITY enableAnonymousStatistics.label       "Ayude a mejorar &brandShortName; permitiendo el envío automático de estadísticas de uso.">
+<!ENTITY enableAnonymousStatistics.accesskey   "A">
+
+<!-- Remote images -->
+<!ENTITY disableImageInMailNews.label  "Bloquear la carga de imágenes remotas en los mensajes de correo">
+<!ENTITY disableImageInMailNews.accesskey "r">
+

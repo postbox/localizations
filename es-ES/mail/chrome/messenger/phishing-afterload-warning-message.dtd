@@ -1,0 +1,28 @@
+<!ENTITY safeb.palm.warning.title "Sitio web sospechoso de falsificación">
+
+<!ENTITY safeb.palm.message.p1 "Esta página ha sido identificada como una web falsa, diseñada para engañar a los usuarios para que proporcionen información personal o financiera. Teclear cualquier información en ella puede provocar robo de identidad u otro fraude. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Leer más &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Leer más &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Estos tipos de suplantaciones de identidad son conocidos como ataques de phishing, donde páginas web y correos electrónicos fraudulentos se usan para imitar fuentes de confianza. Puede obtener más iformación ">
+<!ENTITY safeb.palm.message.p2.linkText "cómo &brandShortName; te protege">
+<!ENTITY safeb.palm.message.p2.end " de los ataques de phishing.">
+
+<!ENTITY safeb.palm.accept.label "Sácame de aquí!">
+<!ENTITY safeb.palm.accept.statustext "Navegar a mi página de inicio">
+<!ENTITY safeb.palm.decline.label "Ignorar esta advertencia">
+<!ENTITY safeb.palm.decline.statustext "Cerrar advertencia" >
+<!ENTITY safeb.palm.notforgery.label2 "No se trata de una web falsa...">
+<!ENTITY safeb.palm.report.label "¿Por qué se ha bloqueado este sitio?">
+
+<!ENTITY safeb.urlbaricon.tooltip "Esta página podría ser peligrosa; haga clic para ver los detalles.">
+
+<!ENTITY safeb.blocked.malware.title "Sitio web atacante!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malware.shortDesc "La web <span id='malware_sitename'/> ha sido identificada como sitio atacante y se ha bloqueado en base a sus preferencias de seguridad.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Los sitios atacantes intentan instalar programas que roban información privada, usan su ordenador para atacar a otros o dañan su sistema.</p><p>Algunos sitios atacanten distribuyen intencionadamente programas dañinos, pero muchos lo hacen sin el consentimiento o permiso de sus propietarios.</p>">
+
+<!ENTITY safeb.blocked.phishing.title "Sitio web reportado como falso!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishing.shortDesc "El sitio web <span id='phishing_sitename'/> ha sido reportado como una falsificación y se ha bloqueado en base a sus preferencias de seguridad.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Las webs falsas pretenden engañarle para que revele información personal o financiera imitando fuentes de confianza.</p><p>Introducir cualquier información en esta página puede suponer un robo de identidad o cualquier otro fraude.</p>">

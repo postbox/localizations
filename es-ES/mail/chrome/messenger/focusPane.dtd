@@ -1,0 +1,35 @@
+<!-- strings used in both the focus pane and the full text search focus pane -->
+<!ENTITY focusPaneFilterByTags.label    "Etiquetas favoritas">
+<!ENTITY focusPaneAllTags.label         "Todos">
+<!ENTITY focusPaneNoTags.label          "Ninguno">
+
+<!-- strings used only in the full text search focus pane -->
+<!ENTITY focusPaneSearchScopeTitle.label       "Buscar">
+<!ENTITY focusPaneSearchScopeTitleMac.label    "BUSCAR">
+<!ENTITY focusPaneSearchScopeEverywhere.label  "Todas las cuentas">
+<!ENTITY focusPaneSearchAttribute.label        "Atributos">
+<!ENTITY focusPaneSearchAttributeMac.label     "ATRIBUTOS">
+<!ENTITY focusPaneAllAttribute.label           "Todos">
+<!ENTITY focusPaneSubjectAttribute.label       "Asunto">
+<!ENTITY focusPaneSenderAttribute.label        "Remitente">
+<!ENTITY focusPaneRecipientsAttribute.label    "Destinatarios">
+<!ENTITY focusPaneFilterByDate.label    "Fecha">
+<!ENTITY focusPaneFilterByDateMac.label "FECHA">
+<!ENTITY focusPaneAnyDate.label         "Cualquier fecha">
+<!ENTITY focusPaneToday.label           "Hoy">
+<!ENTITY focusPaneThisWeek.label        "Esta semana">
+<!ENTITY focusPaneThisMonth.label       "Este mes">
+
+<!-- focus pane topics context menus -->
+<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Renombrar">
+<!ENTITY pbFavoriteTopicsContextMenu-edit.accesskey     "n">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Borrar de favoritos">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.accesskey "r">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Eliminar">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.accesskey   "E">
+<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Crear nueva etiqueta favorita">
+<!ENTITY pbFavoriteTopicsContextMenu-add.accesskey      "C">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Editar etiquetas...">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.accesskey  "t">
+
+

@@ -1,0 +1,22 @@
+<!ENTITY newsblogTitle.label "Ajustes de cuenta RSS">
+
+<!ENTITY indexMsgs.label "Indexar mensajes">
+<!ENTITY indexMsgs.accesskey "I">
+
+<!ENTITY biffStart.label "Buscar mensajes nuevos cada ">
+<!ENTITY biffStart.accesskey "B">
+<!ENTITY biffEnd.label "minutos">
+
+<!ENTITY loginAtStartup.label "Comprobar si hay mensajes nuevos al iniciar"> 
+<!ENTITY loginAtStartup.accesskey "C">
+
+<!ENTITY useQuickMode.label "Mostrar de forma predeterminada el resumen de artículos en vez de cargar la página web"> 
+<!ENTITY useQuickMode.accesskey "M">
+
+<!ENTITY manageSubscriptions.label "Administrar suscripciones…"> 
+<!ENTITY manageSubscriptions.accesskey "A">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "Noticias y Blogs">
+<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardLongName         "Noticias RSS y Blogs">

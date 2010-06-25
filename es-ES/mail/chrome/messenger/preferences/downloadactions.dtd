@@ -1,0 +1,32 @@
+<!ENTITY  downloadactionsWindow.title         "Acciones de descarga">
+<!ENTITY  window.width                         "480">
+<!ENTITY  window.height                        "310">
+
+<!ENTITY  fileTypesDescription.label          "Siempre hacer automáticamente la acción seleccionada con cada uno de los siguientes tipos de fichero:">
+
+<!ENTITY  fileHandlerColumn.label             "Acción">
+<!ENTITY  fileHandlerColumn.accesskey         "A">
+<!ENTITY  fileTypeColumn.label                "Tipo de fichero">
+<!ENTITY  fileTypeColumn.accesskey            "T">
+<!ENTITY  fileMIMETypeColumn.label            "Tipo MIME">
+<!ENTITY  fileMIMETypeColumn.accesskey        "M">
+<!ENTITY  fileExtensionColumn.label           "Extensión">
+<!ENTITY  fileExtensionColumn.accesskey       "E">
+
+<!ENTITY  remove.label                        "Eliminar acción">
+<!ENTITY  remove.accesskey                    "r">
+<!ENTITY  edit.label                          "Cambiar acción...">
+<!ENTITY  edit.accesskey                      "C">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "Buscar:">
+<!ENTITY  filter.accesskey                    "s">
+<!ENTITY  clear.label                         "Limpiar">
+<!ENTITY  clear.accesskey                     "L">
+
+<!ENTITY  button.close.label                  "Cerrar">
+<!ENTITY  button.close.accesskey              "C">
+

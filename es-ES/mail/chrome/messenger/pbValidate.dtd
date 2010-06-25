@@ -1,0 +1,26 @@
+<!ENTITY licenseKey.label "Código de licencia:">
+<!ENTITY name.label "Nombre:">
+<!ENTITY enterLicense.label "Teclee el código de licencia">
+<!ENTITY enterLicenseTitle.label "Teclee el código de licencia de Postbox">
+<!ENTITY enterLicenseInfo.label "Por favor, a continuación teclee su nombre y el código de licencia:">
+<!ENTITY invalidLicense.label "Casi... por favor teclee su nombre y código de licencia exactamente a como aparece en su correo de licencia.">
+
+<!ENTITY changeLicenseTitle.label "Código de licencia Postbox">
+<!ENTITY changeLicenseInfo.label "Esta copia de Postbox pertenece a:">
+<!ENTITY changeLicense.label "Cambiar código de licencia">
+
+<!ENTITY referFriend.label "Get Referral Code">
+
+<!ENTITY licenseConfirmed.label "Código de licencia confirmado!">
+
+<!ENTITY thanksTitle.label "Gracias por comprar Postbox!">
+
+<!ENTITY thanksInfo2a.label "Manténgase informado de noticias, modificaciones y promociones especiales de Postbox al suscribirse a nuestro ">
+<!ENTITY PostboxNewsletter.label "boletín de noticias">
+<!ENTITY thanksInfo2b.label ".">
+
+<!ENTITY thanksInfo3a.label "Para las últimas novedades, visite nuestro ">
+<!ENTITY PostboxBlog.label "Blog">
+<!ENTITY thanksInfo3b.label " o síganos en ">
+<!ENTITY PostboxTwitter.label "Twitter">
+<!ENTITY thanksInfo3c.label ".">

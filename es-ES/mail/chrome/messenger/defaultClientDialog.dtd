@@ -1,0 +1,12 @@
+<!ENTITY defaultClient.title  "Cliente por defecto">
+<!ENTITY defaultClient.intro  "Utilizar &brandShortName; como el cliente predeterminado para:">
+
+<!ENTITY email.label "E-Mail">
+<!ENTITY newsgroups.label "Grupos de noticias">
+<!ENTITY rss.label "Lector RSS">
+
+<!ENTITY checkOnStartup.label "Comprobar siempre cuando se inicia &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "a">
+
+<!ENTITY pb.defaultClient.OSX.desc "Note: &brandShortName; must be set as your default mail client to interoperate with iCal, iPhoto, and Safari. ">
+<!ENTITY pb.macDefaultClientDialog.size "width: 35em;">
