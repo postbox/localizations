@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "HTML-Mail-Frage">
+
+<!ENTITY recipient.label "Einer oder mehrere der Empfänger sind laut Liste nicht fähig, HTML-Nachrichten zu empfangen.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "Ihre Nachricht kann ohne Informationsverlust in Reintext umgewandelt werden.">
+<!ENTITY convertibleAltering.label "Ihre Nachricht kann ohne Verlust wichtiger Informationen in Reintext umgewandelt werden. Die Nachricht kann dennoch anders aussehen als im Composer.">
+<!ENTITY convertibleNo.label "Sie haben Formatierungen (z.B. Farben) verwendet, die nicht in reinen Text umgewandelt werden.">
+
+<!ENTITY question.label "Wollen Sie die Nachricht in reinen Text umwandeln oder als HTML senden?">
+
+<!ENTITY plainTextAndHtml.label "Als reinen Text und HTML senden">
+<!ENTITY plainTextOnly.label "Nur als reinen Text senden">
+<!ENTITY htmlOnly.label "Nur als HTML senden">
+
+<!ENTITY plainTextAndHtmlRecommended.label "Als reinen Text und HTML senden (empfohlen)">
+<!ENTITY plainTextOnlyRecommended.label "Nur als reinen Text schicken (empfohlen)">
+<!ENTITY htmlOnlyRecommended.label "Nur als HTML versenden (empfohlen)">
+<!ENTITY recommended.label "(empfohlen)">
+
+<!ENTITY send.label "Senden">
+<!ENTITY cancel.label "Abbrechen">
+<!ENTITY recipients.label "Empfänger...">
+<!ENTITY help.label "Hilfe">

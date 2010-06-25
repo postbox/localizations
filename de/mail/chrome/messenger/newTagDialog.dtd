@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "Neues Schlagwort erstellen">
+<!ENTITY name.label              "Schlagwort und zugeordnete Farbe:">
+<!ENTITY name.accesskey          "S">

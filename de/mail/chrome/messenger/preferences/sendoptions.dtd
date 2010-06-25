@@ -1,0 +1,40 @@
+<!ENTITY dialog.title                 "Sende-Optionen">
+<!ENTITY sendMail.title               "Textformat">
+<!ENTITY sendMaildesc.label           "Beim Senden von Nachrichten im HTML-Format an Empfänger, die laut Liste HTML nicht empfangen können oder wollen:">
+<!ENTITY askMe.label                  "Fragen, wie gesendet werden soll">
+<!ENTITY askMe.accesskey              "F">
+<!ENTITY convertPlain.label           "Nachrichten in reinen Text konvertieren">
+<!ENTITY convertPlain.accesskey       "N">
+<!ENTITY sendHTML.label               "Nachrichten trotzdem als HTML senden">
+<!ENTITY sendHTML.accesskey           "a">
+<!ENTITY sendBoth.label               "Nachrichten als Reintext und HTML senden">
+<!ENTITY sendBoth.accesskey           "c">
+<!ENTITY receiveHTML.label            "Wenn Sie wissen, dass ein bestimmter Empfänger Nachrichten im HTML-Format empfangen kann, deaktivieren Sie das Kontrollkästchen 'Mail als reinen Text (kein HTML) schicken' im Adressbucheintrag des Empfängers.">
+<!ENTITY override.label               "Hinweis: 
+Nutzen Sie das Adressbuch, um das bevorzugte Format für einzelne Empfänger anzugeben.">
+
+<!ENTITY domaindesc.label             "Wenn Sie eine Nachricht an eine Adresse mit einem der folgenden Domainnamen senden, sendet &brandShortName; die Nachricht automatisch im richtigen Format.">
+<!ENTITY HTMLTab.label                "HTML-Domains">
+<!ENTITY HTMLTab.accesskey            "M">
+<!ENTITY PlainTextTab.label           "Reintext-Domains">
+<!ENTITY PlainTextTab.accesskey       "R">
+<!ENTITY AddButton.label              "Hinzufügen…">
+<!ENTITY AddHtmlDomain.accesskey      "a">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteButton.label           "Löschen">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeletePlainText.accesskey    "t">
+
+<!ENTITY add.htmltitle                "HTML-Domain hinzufügen">
+<!ENTITY add.htmldomain               "HTML-Domainname:">
+<!ENTITY add.htmldomain.accesskey     "D">
+<!ENTITY add.plaintexttitle           "Reintext-Domain hinzufügen">
+<!ENTITY add.plaintextdomain          "Reintext-Domainname:">
+<!ENTITY add.plaintext.accesskey      "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "Domainnamen-Fehler">
+<!ENTITY duplicationError.label       "Der Domainname @string@ ist bereits in der Liste enthalten.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "Ein Domainname kann nicht zugleich in HTML- und einfachen Textlisten stehen. Der Domainname @string@ existiert bereits.">

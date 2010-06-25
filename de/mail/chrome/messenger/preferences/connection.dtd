@@ -1,0 +1,37 @@
+<!ENTITY  connectionsDialog.title       "Verbindungs-Einstellungen">
+<!ENTITY  window.width                   "41em">
+
+<!ENTITY  proxyTitle.label              "Proxies für den Zugriff auf das Internet konfigurieren">
+<!ENTITY  noProxyTypeRadio.label        "Kein Proxy">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Proxy Einstellungen des Systems benutzen">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "Die Proxy-Einstellungen für dieses Netzwerk automatisch erkennen">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "Manuelle Proxy-Konfiguration:">
+<!ENTITY  manualTypeRadio.accesskey     "M">
+<!ENTITY  autoTypeRadio.label           "Automatische Proxy-Konfigurations-URL:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "Neu laden">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  http.label                    "HTTP-Proxy:">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "SSL-Proxy:">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "SOCKS-Host">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "Port:">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.label                 "Port:">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Port:">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Kein Proxy für:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Beispiel: .mozilla.org, .net.de, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Für alle Protokolle diesen Proxy verwenden">
+<!ENTITY  shareproxy.accesskey          "x">
