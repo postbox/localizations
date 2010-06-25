@@ -1,0 +1,29 @@
+<!ENTITY window.title "Filterregel">
+<!ENTITY nameColumn.label "Namn på filterregeln">
+<!ENTITY activeColumn.label "Aktiv">
+<!ENTITY newButton.label "Ny…">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Redigera…">
+<!ENTITY editButton.accesskey "R">
+<!ENTITY deleteButton.label "Ta bort">
+<!ENTITY deleteButton.accesskey "T">
+<!ENTITY reorderUpButton.label "Flytta upp">
+<!ENTITY reorderUpButton.accesskey "u">
+<!ENTITY reorderDownButton.label "Flytta ner">
+<!ENTITY reorderDownButton.accesskey "y">
+<!ENTITY filterHeader.label "Aktiva filterregler körs i följande ordning.">
+<!ENTITY filtersForPrefix.label "Filterregler för:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Filterlogg">
+<!ENTITY viewLogButton.accesskey "l">
+<!ENTITY runFilters.label "Kör nu">
+<!ENTITY runFilters.accesskey "K">
+<!ENTITY stopFilters.label "Stopp">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "Kör markerade filter på:">
+<!ENTITY folderPickerPrefix.accesskey "K">
+<!ENTITY choosethis.label "välj denna mapp">
+<!ENTITY choosethisnewsserver.label "välj denna diskussionsgrupp-server">
+<!ENTITY helpButton.label "Hjälp">
+<!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "W"> 

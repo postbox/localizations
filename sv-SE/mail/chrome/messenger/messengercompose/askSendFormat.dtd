@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "Meddelandeformat">
+
+<!ENTITY recipient.label "Någon av mottagarna är inte registrerad som kapabel att ta emot meddelanden i HTML-format.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "Your message can be converted to plain text without losing information.">
+<!ENTITY convertibleAltering.label "Your message can be converted to plain text without losing important information. However, the plain text version might look different from what you saw in the composer.">
+<!ENTITY convertibleNo.label "However, you used formatting (e.g. colors) that will not be converted to plain text.">
+
+<!ENTITY question.label "Vill du konvertera meddelandet till oformaterad text, eller vill du skicka det kodat som HTML ändå?">
+
+<!ENTITY plainTextAndHtml.label "Skicka både som oformaterad text och kodat som HTML">
+<!ENTITY plainTextOnly.label "Skicka bara som oformaterad text">
+<!ENTITY htmlOnly.label "Skicka bara kodat som HTML">
+
+<!ENTITY plainTextAndHtmlRecommended.label "Send in Plain Text and HTML (recommended)">
+<!ENTITY plainTextOnlyRecommended.label "Send in Plain Text Only (recommended)">
+<!ENTITY htmlOnlyRecommended.label "Send in HTML Only (recommended)">
+<!ENTITY recommended.label "(recommended)">
+
+<!ENTITY send.label "Skicka">
+<!ENTITY cancel.label "Avbryt">
+<!ENTITY recipients.label "Recipients...">
+<!ENTITY help.label "Hjälp">

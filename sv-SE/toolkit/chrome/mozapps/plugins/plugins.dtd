@@ -1,0 +1,25 @@
+<!ENTITY pluginWizard.title                                  "Söktjänsten för insticksmoduler">
+<!ENTITY pluginWizard.firstPage.title                        "Välkommen till &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; söker nu efter tillgängliga insticksmoduler…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Tillgängliga insticksmoduler">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Följande insticksmoduler finns tillgängliga:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Klicka på Nästa för att installera dessa insticksmoduler.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Vissa insticksmoduler kan behöva ytterligare information från dig under installationen.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Licenser för insticksmoduler">
+<!ENTITY pluginWizard.licensePage.accept.label               "Jag samtycker.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Jag samtycker inte (insticksmodulen kommer inte att installeras).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Installerar insticksmoduler">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; installerar insticksmoduler…">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; har slutfört installationen av saknade insticksmoduler:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Mer info om insticksmoduler, eller sök själv efter saknade insticksmoduler.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; måste startas om för att insticksmodulerna ska fungera.">
+  
+<!ENTITY missingPlugin.label                                 "Klicka här för att hämta insticksmodulen.">
+<!ENTITY disabledPlugin.label                                "Insticksmodulen för den här typen av innehåll har avaktiverats. Klicka här för att hantera dina insticksmoduler.">
+<!ENTITY blockedPlugin.label                                 "Den här insticksmodulen är blockerad av säkerhetsskäl.">

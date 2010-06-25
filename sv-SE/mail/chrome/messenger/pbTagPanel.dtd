@@ -1,0 +1,9 @@
+<!ENTITY editTagPanel.title             "Favorite Topics:">
+<!ENTITY editTagPanelAssignTopic.label  "Tilldela ämne">
+<!ENTITY editTagPanelMakeFavorite.label "Make this topic a favorite">
+<!ENTITY editTagPanelAddTopic.label     "OK">
+<!ENTITY editTagPanelCancel.label       "Avbryt">
+<!ENTITY showTopicsCmd.key              "t">
+<!ENTITY tagPanel.width                 "300">
+<!ENTITY tagpanel.expanderDown.tooltip  "Show favorite topics">
+<!ENTITY tagpanel.expanderUp.tooltip    "Hide favorite topics">

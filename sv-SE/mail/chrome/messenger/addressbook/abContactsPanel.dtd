@@ -1,0 +1,17 @@
+<!ENTITY addressbookContactTitle.label      "Adress">
+<!ENTITY addressbookPicker.label            "Adressbok:">
+<!ENTITY addressbookPicker.accesskey        "d">
+<!ENTITY searchInput.label                  "Sök efter:">
+<!ENTITY searchInput.accesskey              "S">
+<!ENTITY SearchNameOrEmail.label            "Namn eller e-post">
+
+<!ENTITY addtoToFieldMenu.label             "Lägg till i Till-fältet">
+<!ENTITY addtoCcFieldMenu.label             "Lägg till i Kopia-fältet">
+<!ENTITY addtoBccFieldMenu.label            "Lägg till i Dold kopia-fältet">
+
+<!ENTITY toButton.label                     ">> Till:">
+<!ENTITY toButton.accesskey                 "T">
+<!ENTITY ccButton.label                     ">> Kopia:">
+<!ENTITY ccButton.accesskey                 "K">
+<!ENTITY bccButton.label                    ">> Dold kopia:">
+<!ENTITY bccButton.accesskey                "o">

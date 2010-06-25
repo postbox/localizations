@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Inställning av meddelande-vyer">
+<!ENTITY mailViewHeading.label "Namn på meddelande-vy:">
+<!ENTITY mailViewHeading.accesskey "N">
+<!ENTITY searchTermCaption.label "När denna vy är vald, visa endast meddelanden som:">
+

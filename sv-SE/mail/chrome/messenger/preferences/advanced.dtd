@@ -1,0 +1,93 @@
+<!ENTITY itemGeneral.label       "Allmänt">
+<!ENTITY itemUpdate.label        "Uppdateringar">
+<!ENTITY itemNetworking.label    "Nätverk &amp; diskutrymme">
+<!ENTITY itemCertificates.label  "Certifikat">
+<!ENTITY itemWebServices.label   "Web Services">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "Visa endast kortnamnen för personer som finns i adressboken">
+<!ENTITY showCondensedAddresses.accesskey "V">
+
+<!ENTITY autoMarkAsRead.label          "Märk automatiskt meddelanden som lästa">
+<!ENTITY autoMarkAsRead.accesskey      "M">
+<!ENTITY markAsReadNoDelay.label       "Omedelbart vid visning">
+<!ENTITY markAsReadNoDelay.accesskey   "O">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Efter att ha visats i">
+<!ENTITY markAsReadDelay.accesskey     "E">
+<!ENTITY secondsLabel.label            "sekunder">
+<!ENTITY showFolderColumns.label       "Show expanded columns in the folder pane">
+<!ENTITY showFolderColumns.accesskey   "l">
+<!ENTITY rememberLastMsg.label         "Remember the last selected message">
+<!ENTITY rememberLastMsg.accesskey     "b">
+<!ENTITY openMsgIn1.label              "New messages should be opened in:">
+<!ENTITY openMsgInNewTab.label          "en ny flik">
+<!ENTITY openMsgInNewTab.accesskey      "n">
+<!ENTITY openMsgInNewWindow.label       "a new window">
+<!ENTITY openMsgInNewWindow.accesskey   "i">
+<!ENTITY openMsgInExistingWindow.label  "an existing window">
+<!ENTITY openMsgInExistingWindow.accesskey "x">
+<!ENTITY connectionTimeout.label       "Connection timeout: ">
+<!ENTITY connectionTimeout.accesskey   "C">
+<!ENTITY connectionSeconds.label       "sekunder">
+<!ENTITY configEditDesc.label          "Avancerade inställningar">
+<!ENTITY configEdit.label              "Konfigurationsredigerare…">
+<!ENTITY configEdit.accesskey          "K">
+<!ENTITY returnReceiptsInfo.label      "Ange hur &brandShortName; ska hantera mottagningskvitto">
+<!ENTITY showReturnReceipts.label      "Mottagningskvitton…">
+<!ENTITY showReturnReceipts.accesskey  "M">
+<!ENTITY macEnableSpotlight.label      "Enable Spotlight Integration">
+<!ENTITY macEnableSpotlight.accesskey  "S">
+<!-- Update -->
+<!ENTITY autoCheck.label                "Sök automatiskt efter uppdateringar till:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "P">
+<!ENTITY enableAddonsUpdate.label       "Tillägg">
+<!ENTITY enableAddonsUpdate.accesskey   "T">
+<!ENTITY checkNow.label                 "Kontrollera nu">
+<!ENTITY whenUpdatesFound.label         "När det finns uppdateringar till &brandShortName;:">
+<!ENTITY modeAskMe.label                "Fråga vad jag vill göra">
+<!ENTITY modeAskMe.accesskey            "F">
+<!ENTITY modeAutomatic.label            "Hämta och installera uppdateringen automatiskt">
+<!ENTITY modeAutomatic.accesskey        "H">
+<!ENTITY modeAutoAddonWarn.label        "Varna om tillägg kommer att inaktiveras">
+<!ENTITY modeAutoAddonWarn.accesskey    "o">
+<!ENTITY showUpdates.label              "Visa tidigare uppdateringar">
+<!ENTITY showUpdates.accesskey          "V">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Connection...">
+<!ENTITY showConnections.accesskey     "n">
+<!ENTITY proxiesInfo.label             "Determine how &brandShortName; connects to the Internet.">
+<!ENTITY connectionsInfo.caption       "Anslutning">
+<!ENTITY offlineInfo.caption           "Nedkopplat läge">
+<!ENTITY offlineInfo.label             "Ange inställningar för nedkopplat läge">
+<!ENTITY showOffline.label             "Nedkopplat läge…">
+<!ENTITY showOffline.accesskey         "N">
+
+<!ENTITY Diskspace "Diskutrymme">
+<!ENTITY offlineCompact.label "Komprimera mappar när det kan spara över">
+<!ENTITY offlineCompact.accesskey "K">
+<!ENTITY kb.label "kB">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certs.auto                      "Select one automatically">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Ask me every time">
+<!ENTITY certs.ask.accesskey             "A">
+
+<!ENTITY viewCertificates.label         "Visa certifikat">
+<!ENTITY viewCertificates.accesskey     "c">
+<!ENTITY viewCRLs.label                 "Spärrlistor">
+<!ENTITY viewCRLs.accesskey             "S">
+<!ENTITY viewOCSP.label                 "Verification">
+<!ENTITY viewOCSP.accesskey             "f">
+<!ENTITY viewSecurityDevices.label      "Säkerhetsenheter">
+<!ENTITY viewSecurityDevices.accesskey  "k">
+
+<!-- Web Services -->
+<!ENTITY webservicesInfo.label          "Configure the Web services used within Postbox.">

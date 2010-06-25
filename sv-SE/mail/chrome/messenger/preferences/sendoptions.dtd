@@ -1,0 +1,39 @@
+<!ENTITY dialog.title                 "Format på meddelanden">
+<!ENTITY sendMail.title               "Textformat">
+<!ENTITY sendMaildesc.label           "När du skickar meddelanden i HTML-format och någon av mottagarna inte är registrerad som kapabel att ta emot HTML:">
+<!ENTITY askMe.label                  "Fråga mig">
+<!ENTITY askMe.accesskey              "F">
+<!ENTITY convertPlain.label           "Konvertera meddelandet till oformaterad text">
+<!ENTITY convertPlain.accesskey       "K">
+<!ENTITY sendHTML.label               "Skicka ändå meddelandet i HTML">
+<!ENTITY sendHTML.accesskey           "S">
+<!ENTITY sendBoth.label               "Skicka meddelandet både som vanlig text och i HTML">
+<!ENTITY sendBoth.accesskey           "x">
+<!ENTITY receiveHTML.label            "If you know a particular recipient can receive HTML mail, uncheck the 'Send email as plain text (no HTML)' checkbox on the recipient's Address Book card.">
+<!ENTITY override.label               "Notera: Använd Adressboken för att specificera textformat för olika mottagare.">
+
+<!ENTITY domaindesc.label             "När meddelanden skickas till adresser med någon av nedanstående domännamn kommer &brandShortName; att automatiskt skicka meddelandet i rätt format.">
+<!ENTITY HTMLTab.label                "HTML-domäner">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Vanlig text-domäner">
+<!ENTITY PlainTextTab.accesskey       "V">
+<!ENTITY AddButton.label              "Lägg till…">
+<!ENTITY AddHtmlDomain.accesskey      "a">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteButton.label           "Ta bort">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeletePlainText.accesskey    "t">
+
+<!ENTITY add.htmltitle                "Lägg till domännamn för HTML">
+<!ENTITY add.htmldomain               "HTML domännamn">
+<!ENTITY add.htmldomain.accesskey     "d">
+<!ENTITY add.plaintexttitle           "Lägg till domännamn för vanlig text">
+<!ENTITY add.plaintextdomain          "Vanlig text domännamn:">
+<!ENTITY add.plaintext.accesskey      "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "Domännamnsfel">
+<!ENTITY duplicationError.label       "The domain name @string@ already exists in this list.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "A domain name cannot appear in both the HTML and Plain Text lists. The domain name @string@ already exists.">

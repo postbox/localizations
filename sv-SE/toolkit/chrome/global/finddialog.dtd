@@ -1,0 +1,18 @@
+<!-- extracted from finddialog.xul -->
+
+<!ENTITY findDialog.title "Sök på den här sidan">
+<!ENTITY findField.label "Sök efter:">
+<!ENTITY findField.accesskey "S">
+<!ENTITY caseSensitiveCheckbox.label "Matcha VERSALER/gemener">
+<!ENTITY caseSensitiveCheckbox.accesskey "c">
+<!ENTITY wrapCheckbox.label "Hela dokumentet">
+<!ENTITY wrapCheckbox.accesskey "H">
+<!ENTITY findButton.label "Sök nästa">
+<!ENTITY findButton.accesskey "S">
+<!ENTITY cancelButton.label "Avbryt">
+<!ENTITY closeButton.label "Stäng">
+<!ENTITY up.label "Uppåt">
+<!ENTITY up.accesskey "U">
+<!ENTITY down.label "Nedåt">
+<!ENTITY down.accesskey "N">
+<!ENTITY direction.label "Riktning">

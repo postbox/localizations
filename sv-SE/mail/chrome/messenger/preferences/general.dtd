@@ -1,0 +1,43 @@
+<!ENTITY systemDefaults.label              "System Defaults">
+<!ENTITY alwaysCheckDefault.label          "Always check to see if &brandShortName; is the default mail client on startup">
+<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "Check Now">
+<!ENTITY checkNow.accesskey         "N">
+
+<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.accesskey          "w">
+
+<!ENTITY messengerStartPage.label         "Startsida">
+<!ENTITY location.label                   "Adress:">
+<!ENTITY location1.accesskey               "A">
+<!ENTITY useDefault.label                 "Återställ standard">
+<!ENTITY useDefault.accesskey             "t">
+
+<!ENTITY bounceSystemDockIcon.label       "Animera dock-ikonen">
+<!ENTITY bounceSystemDockIcon.accesskey   "m">
+
+<!ENTITY newMessagesArrive.label          "När ny e-post kommer:">
+<!ENTITY playSound.label                  "Spela upp ett ljud">
+<!ENTITY playSound1.accesskey              "u">
+<!ENTITY showAnimatedAlert.label          "Visa en meddelanderuta">
+<!ENTITY showAnimatedAlert.accesskey      "V">
+<!ENTITY customizeMailAlert.label         "Anpassa…">
+<!ENTITY customizeMailAlert.accesskey     "n">
+
+<!ENTITY soundNotification1.caption       "Ljud">
+<!ENTITY play.label                       "Spela upp">
+<!ENTITY play.accesskey                   "e">
+<!ENTITY systemsound.label                "Systemets standardljud">
+<!ENTITY systemsoundMac.label             "Systemets standardljud">
+<!ENTITY systemsoundMac.accesskey         "S">
+<!ENTITY systemsound.accesskey            "S">
+<!ENTITY customsound.label                "Använd följande ljudfil">
+<!ENTITY customsound.accesskey            "d">
+<!ENTITY browse.label                     "Bläddra…">
+<!ENTITY browse.accesskey                 "B">

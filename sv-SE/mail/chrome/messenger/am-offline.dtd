@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "För att spara diskutrymme, hämta inte:">
+<!ENTITY offlineNewFolder.label "When I create new folders, select them for offline use">
+<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY offlineNotDownload.label "Meddelanden större än">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "kB">
+<!ENTITY days.label "dagar">
+<!ENTITY daysOld.label "dagar">
+<!ENTITY message.label "meddelandena">
+<!ENTITY nntpNotDownloadRead.label "Lästa meddelanden">
+<!ENTITY nntpNotDownloadRead.accesskey "s">
+<!ENTITY nntpDownloadMsg.label "Meddelanden äldre än">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "För att spara diskutrymme kan gamla meddelanden tas bort.">
+<!ENTITY retentionKeepMsg.label "Ta bort meddelanden äldre än">
+<!ENTITY retentionKeepMsg.accesskey "o">
+<!ENTITY retentionKeepAll.label "Ta inte bort några meddelanden">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "Always delete read messages">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "Only message bodies less than">
+<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY offlineSelectNntp.label "Välj diskussionsgrupper för nedkopplad användning…">
+<!ENTITY offlineSelectImap.label "Select folders for offline use...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "You can download your messages locally so that they are available when you are working offline.">
+<!ENTITY makeInboxMsgsAvailable.label "Make the messages in my Inbox available when I am working offline">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Nedkopplat läge">
+<!ENTITY diskspaceGroupTitle.label "Diskutrymme">
+<!ENTITY ftiGroupTitle.label "Global Search">
+<!ENTITY fti.indexMsgs.label "Index Messages">

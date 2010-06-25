@@ -1,0 +1,101 @@
+<!ENTITY autoconfigWizard.title          "Lägg till nytt konto">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "Förnamn Efternamn">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "email@example.se">
+<!ENTITY password.label                  "Lösenord:">
+<!ENTITY password.accesskey              "L">
+<!ENTITY password.emptytext              "Lösenord">
+<!ENTITY password.text                   "Frivilligt, kommer endast användas för att bekräfta användarnamnet">
+
+<!ENTITY accountInformation.label        "Kontoinformation">
+<!ENTITY outgoing.label                  "Utgående:">
+<!ENTITY noEncryption.label              "Ingen">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY manualSetup.label               "Manuell inställning…">
+<!ENTITY manualSetup.accesskey           "M">
+<!ENTITY cancel.label                    "Avbryt">
+<!ENTITY cancel.accesskey                "A">
+<!ENTITY continue.label                  "Fortsätt">
+<!ENTITY continue.accesskey              "F">
+<!ENTITY startOver.label                 "Börja om">
+<!ENTITY startOver.accesskey             "B">
+<!ENTITY stop.label                      "Stoppa">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Testa konfigurationen igen">
+<!ENTITY retest.accesskey                "T">
+<!ENTITY edit.label                      "Redigera">
+<!ENTITY edit.accesskey                  "R">
+
+<!ENTITY rememberPassword.label          "Kom ihåg lösenord">
+<!ENTITY rememberPassword.accesskey      "K">
+
+<!ENTITY warning.label                   "Varning!">
+<!ENTITY incomingSettings.label          "Inställningar för inkommande:">
+<!ENTITY outgoingSettings.label          "Inställningar för utgående:">
+<!ENTITY technicaldetails.label          "Tekniska detaljer">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Jag förstår riskerna.">
+<!ENTITY confirmWarning.accesskey        "J">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Skapa konto">
+<!ENTITY createAccount.accesskey         "S">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Ändra inställningarna">
+<!ENTITY changeSettings.accesskey        "n">
+
+<!ENTITY pb.contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections.">
+
+<!ENTITY insecureServer.tooltip.title    "Varning! Det här är en osäker server.">
+<!ENTITY insecureServer.tooltip.details  "Klicka på cirkeln för fler detaljer.">
+
+<!ENTITY insecureUnencrypted.description "E-posten och inloggningsuppgifterna skickas i klartext, så lösenord och meddelanden kan enkelt läsas av obehöriga. &brandShortName; låter dig komma åt din e-post men du bör försöka få din e-postleverantör att konfigurera servern för en säker anslutning.">
+<!ENTITY insecureSelfSigned.description  "Servern använder ett certifikat som inte är betrott, så vi kan inte vara säkra på ingen avlyssnar trafiken mellan &brandShortName; och servern. &brandShortName; låter dig komma åt din e-post men du bör försöka få din e-postleverantör att konfigurera servern med ett betrott certifikat.">
+<!ENTITY secureServer.description        "Gratulerar! Det här är en säker server.">
+
+<!ENTITY pb.identity.title "Identitet">
+<!ENTITY pb.name.label    "Your Name">
+<!ENTITY pb.email.label   "E-postadress">
+<!ENTITY pb.password.label "Lösenord">
+<!ENTITY pb.serverinfo.title "Serverinformation">
+<!ENTITY pb.username.label   "User Name">
+<!ENTITY pb.incoming.label "Incoming Server">
+<!ENTITY pb.servername.label "Server Name">
+<!ENTITY pb.servertype.label "Typ">
+<!ENTITY pb.serverport.label "Port">
+<!ENTITY pb.serversecurity.label "Säkerhet">
+<!ENTITY pb.outgoing.label "Outgoing Server">
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     creation wizard, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY pb.emailWizard.size "width: 82ch;">
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     creation wizard, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY pb.macEmailWizard.size "width: 63ch;">

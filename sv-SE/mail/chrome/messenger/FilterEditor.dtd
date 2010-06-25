@@ -1,0 +1,53 @@
+<!ENTITY window.title "Filterregler">
+<!ENTITY subject.label "subject">
+<!ENTITY sender.label "sender">
+<!ENTITY date.label "date">
+<!ENTITY anyText.label "any text">
+<!ENTITY keyword.label "keyword">
+<!ENTITY age.label "age in days">
+<!ENTITY to.label "till">
+
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+<!ENTITY cc.label "Kopia">
+
+<!ENTITY status.label "status">
+<!ENTITY priority.label "priority">
+<!ENTITY body.label "body">
+<!ENTITY contains.label "innehåller">
+<!ENTITY nocontains.label "innehåller inte">
+<!ENTITY filterName.label "Namn på filterregeln:">
+<!ENTITY filterName.accesskey "N">
+
+<!ENTITY junk.label "Skräp">
+<!ENTITY notJunk.label "Ej skräp">
+
+<!ENTITY lowestPriorityCmd.label "Lägsta">
+<!ENTITY lowPriorityCmd.label "Låg">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY highPriorityCmd.label "Hög">
+<!ENTITY highestPriorityCmd.label "Högsta">
+
+<!ENTITY conditionDesc.label "For incoming messages which:">
+<!ENTITY filterActionDesc.label "Gör följande:">
+<!ENTITY filterActionDesc.accesskey "G">
+
+<!ENTITY newFolderButton.label "New Folder...">
+<!ENTITY newFolderButton.accesskey "N">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Flytta meddelande till">
+<!ENTITY copyMessage.label "Kopiera meddelande till">
+<!ENTITY forwardTo.label "Vidarebefordra meddelande till">
+<!ENTITY replyWithTemplate.label "Svara med mall">
+<!ENTITY markMessageRead.label "Märk som läst">
+<!ENTITY markMessageStarred.label "Lägg till märke">
+<!ENTITY labelMessage.label "Label Message As">
+<!ENTITY setPriority.label "Sätt prioritet till">
+<!ENTITY addTag.label "Sätt en etikett på meddelandet">
+<!ENTITY setJunkScore.label "Sätt skräpstatus till">
+<!ENTITY deleteMessage.label "Ta bort meddelandet">
+<!ENTITY deleteFromPOP.label "Ta bort från POP-server">
+<!ENTITY fetchFromPOP.label "Hämta från POP-server">
+<!ENTITY ignoreThread.label "Ignorera tråd">
+<!ENTITY watchThread.label "Bevaka tråd">
+<!ENTITY stopExecution.label "Avbryt filterkörning">
