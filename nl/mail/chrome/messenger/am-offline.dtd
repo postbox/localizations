@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Om schijfruimte te besparen, niet downloaden:">
+<!ENTITY offlineNewFolder.label "Als ik nieuwe mappen aanmaak, deze instellen voor offline gebruik">
+<!ENTITY offlineNewFolder.accesskey "A">
+<!ENTITY offlineNotDownload.label "Berichten groter dan">
+<!ENTITY offlineNotDownload.accesskey "r">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "dagen">
+<!ENTITY daysOld.label "dagen">
+<!ENTITY message.label "berichten">
+<!ENTITY nntpNotDownloadRead.label "Gelezen berichten">
+<!ENTITY nntpNotDownloadRead.accesskey "G">
+<!ENTITY nntpDownloadMsg.label "Berichten ouder dan">
+<!ENTITY nntpDownloadMsg.accesskey "o">
+<!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd.">
+<!ENTITY retentionKeepMsg.label "Berichten verwijderen die ouder zijn dan">
+<!ENTITY retentionKeepMsg.accesskey "u">
+<!ENTITY retentionKeepAll.label "Geen berichten verwijderen">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepNew.label "Allen behalve de laatste Verwijderen">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "Gelezen berichten altijd verwijderen">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "Alleen berichtinhoud kleiner dan">
+<!ENTITY nntpRemoveBody.accesskey "o">
+<!ENTITY offlineSelectNntp.label "Nieuwsgroepen voor offlinegebruik selecteren…">
+<!ENTITY offlineSelectImap.label "Geef mappen aan voor offline gebruik...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "U kunt uw berichten lokaal opslaan zodat deze beschikbaar zijn wanneer u offline werkt.">
+<!ENTITY makeInboxMsgsAvailable.label "Maak de berichten in mijn Inbox beschikbaar voor offline gebruik">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Offline">
+<!ENTITY diskspaceGroupTitle.label "Schijfruimte">
+<!ENTITY ftiGroupTitle.label "Globaal Zoeken">
+<!ENTITY fti.indexMsgs.label "Indexeer berichten">

@@ -1,0 +1,8 @@
+<!ENTITY aboutDialog.title      "Over &brandFullName;">
+<!ENTITY credits.label          "Dankbetuigingen">
+<!ENTITY credits.accesskey      "D">
+<!ENTITY aboutLink.label        "&lt; Over &brandFullName;">
+<!ENTITY aboutLink.accesskey    "O">
+<!ENTITY aboutVersion           "versie">
+<!ENTITY copyrightText          "&#169;2007-2009 Postbox, Inc. en Belanghebbenden. Alle rechten voorbehouden. Postbox
+                                 wordt ontwikkeld en onderhouden door Postbox, Inc.">

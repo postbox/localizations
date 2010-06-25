@@ -1,0 +1,4 @@
+<!-- Web services Prefs panel (binding) -->
+<!ENTITY webservice.login.label         "aanmelden">
+<!ENTITY webservice.logout.label        "afmelden">
+<!ENTITY webservice.account.label       "Maak een account">

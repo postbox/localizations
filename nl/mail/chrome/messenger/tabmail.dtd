@@ -1,0 +1,12 @@
+<!ENTITY  untitledTab              "(Zonder Titel)">
+<!ENTITY  newTab.label             "Nieuwe Tab">
+<!ENTITY  newTab.accesskey         "N">
+<!ENTITY  closeTab.label           "Tabblad sluiten">
+<!ENTITY  closeTab.accesskey       "T">
+<!ENTITY  closeOtherTabs.accesskey "A">
+<!ENTITY  closeOtherTabs.label     "Andere tabbladen sluiten">
+<!ENTITY  reloadAllTabs.label      "Alle Tabbladen Herladen">
+<!ENTITY  reloadAllTabs.accesskey  "A">
+<!ENTITY  reloadTab.label          "Tabblad Herladen">
+<!ENTITY  reloadTab.accesskey      "r">
+<!ENTITY  listAllTabs.label        "Alle tabbladtitels weergeven">

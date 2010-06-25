@@ -1,0 +1,12 @@
+<!ENTITY defaultClient.title  "Standaard Client">
+<!ENTITY defaultClient.intro  "Gebruik &brandShortName; als de standaard client voor:">
+
+<!ENTITY email.label "E-Mail">
+<!ENTITY newsgroups.label "Nieuwsgroepen">
+<!ENTITY rss.label "RSS-feeds">
+
+<!ENTITY checkOnStartup.label "Deze controle altijd uitvoeren bij het starten &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "a">
+
+<!ENTITY pb.defaultClient.OSX.desc "Opmerking: &brandShortName; moet als uw standaard e-mail programma zijn ingesteld om te kunnen werken met iCal, iPhoto en Safari. ">
+<!ENTITY pb.macDefaultClientDialog.size "width: 35em;">

@@ -1,0 +1,11 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Wikipedia</ShortName>
+  <Description>Wikipedia</Description>
+<Image width="16" height="16">data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUDAwMYGBgoKCg7OztHR0dYWFhqamp7e3uDg4OYmJioqKi6urrHx8fZ2dno6Oj9/f34pRgPAAAAc0lEQVQI12P4DwUMmIyt3r/c75feTWX4of3f6V7nv0yGv2LvJ67J/5fP8D/w/BWN9b/XM/zf2P+T9f+L/Qz/v/j+Nfl/Haj9B9dfo/0zQeaovkrO7wMxmquua/aDGIu0fiudBzG++P5PAtv1+/z/20iWAgCSoWURjfnvaQAAAABJRU5ErkJggg==</Image>
+  <Developer>Basil Hashem for Wikipedia</Developer>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Url type="text/html" method="get" template="http://en.wikipedia.org/w/index.php?title=Special:Search&amp;search={searchTerms}"/>
+  <Url type="application/x-suggestions+json" template="http://en.wikipedia.org/w/api.php?action=opensearch&amp;search={searchTerms}"/>
+  <moz:SearchForm>http://en.wikipedia.org</moz:SearchForm>
+  <moz:UpdateInterval>7</moz:UpdateInterval>
+</OpenSearchDescription>

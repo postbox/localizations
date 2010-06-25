@@ -1,0 +1,93 @@
+<!ENTITY itemGeneral.label       "Algemeen">
+<!ENTITY itemUpdate.label        "Bijwerken">
+<!ENTITY itemNetworking.label    "Netwerk &amp; schijfruimte">
+<!ENTITY itemCertificates.label  "Certificaten">
+<!ENTITY itemWebServices.label   "Webservices">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "Van personen in mijn adresboek alleen weergavenaam tonen">
+<!ENTITY showCondensedAddresses.accesskey "V">
+
+<!ENTITY autoMarkAsRead.label          "Berichten automatisch als gelezen markeren">
+<!ENTITY autoMarkAsRead.accesskey      "B">
+<!ENTITY markAsReadNoDelay.label       "Direct zichtbaar">
+<!ENTITY markAsReadNoDelay.accesskey   "D">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Na">
+<!ENTITY markAsReadDelay.accesskey     "N">
+<!ENTITY secondsLabel.label            "seconden weergeven">
+<!ENTITY showFolderColumns.label       "Toon uitgebreide kolommen in deelvenster van de map">
+<!ENTITY showFolderColumns.accesskey   "l">
+<!ENTITY rememberLastMsg.label         "Onthoud het laatst geselecteerde bericht">
+<!ENTITY rememberLastMsg.accesskey     "b">
+<!ENTITY openMsgIn1.label              "New messages should be opened in:">
+<!ENTITY openMsgInNewTab.label          "Een nieuw tabblad">
+<!ENTITY openMsgInNewTab.accesskey      "t">
+<!ENTITY openMsgInNewWindow.label       "een nieuw venster">
+<!ENTITY openMsgInNewWindow.accesskey   "i">
+<!ENTITY openMsgInExistingWindow.label  "een bestaand venster">
+<!ENTITY openMsgInExistingWindow.accesskey "e">
+<!ENTITY connectionTimeout.label       "Verbindings Time-out: ">
+<!ENTITY connectionTimeout.accesskey   "V">
+<!ENTITY connectionSeconds.label       "seconden">
+<!ENTITY configEditDesc.label          "Uitgebreide configuratie">
+<!ENTITY configEdit.label              "Configuratie-editor…">
+<!ENTITY configEdit.accesskey          "C">
+<!ENTITY returnReceiptsInfo.label      "Bepalen hoe &brandShortName; omgaat met leesbevestigingen">
+<!ENTITY showReturnReceipts.label      "Leesbevestigingen…">
+<!ENTITY showReturnReceipts.accesskey  "L">
+<!ENTITY macEnableSpotlight.label      "Schakel Spotlight Integratie In">
+<!ENTITY macEnableSpotlight.accesskey  "S">
+<!-- Update -->
+<!ENTITY autoCheck.label                "Automatisch controleren op updates voor:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "P">
+<!ENTITY enableAddonsUpdate.label       "Geïnstalleerde add-ons">
+<!ENTITY enableAddonsUpdate.accesskey   "G">
+<!ENTITY checkNow.label                 "Nu controleren">
+<!ENTITY whenUpdatesFound.label         "Als er updates voor &brandShortName; worden gevonden:">
+<!ENTITY modeAskMe.label                "Mij vragen wat ik wil doen">
+<!ENTITY modeAskMe.accesskey            "M">
+<!ENTITY modeAutomatic.label            "Automatisch de update downloaden en installeren">
+<!ENTITY modeAutomatic.accesskey        "A">
+<!ENTITY modeAutoAddonWarn.label        "Mij waarschuwen als dit een van mijn add-ons zal uitschakelen">
+<!ENTITY modeAutoAddonWarn.accesskey    "w">
+<!ENTITY showUpdates.label              "Updategeschiedenis tonen">
+<!ENTITY showUpdates.accesskey          "U">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Verbinding...">
+<!ENTITY showConnections.accesskey     "n">
+<!ENTITY proxiesInfo.label             "Bepaal hoe &brandShortName; verbinding maakt met het internet.">
+<!ENTITY connectionsInfo.caption       "Verbinding">
+<!ENTITY offlineInfo.caption           "Offline">
+<!ENTITY offlineInfo.label             "Offline-instellingen configureren">
+<!ENTITY showOffline.label             "Offline…">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY Diskspace "Schijfruimte">
+<!ENTITY offlineCompact.label "Mappen comprimeren als het meer bespaart dan">
+<!ENTITY offlineCompact.accesskey "M">
+<!ENTITY kb.label "KB">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certs.auto                      "Select one automatically">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Ask me every time">
+<!ENTITY certs.ask.accesskey             "A">
+
+<!ENTITY viewCertificates.label         "Certificaten bekijken">
+<!ENTITY viewCertificates.accesskey     "C">
+<!ENTITY viewCRLs.label                 "Intrekkingslijsten">
+<!ENTITY viewCRLs.accesskey             "I">
+<!ENTITY viewOCSP.label                 "Verificatie">
+<!ENTITY viewOCSP.accesskey             "f">
+<!ENTITY viewSecurityDevices.label      "Beveiligingsapparaten">
+<!ENTITY viewSecurityDevices.accesskey  "B">
+
+<!-- Web Services -->
+<!ENTITY webservicesInfo.label          "Configure the Web services used within Postbox.">

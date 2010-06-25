@@ -1,0 +1,26 @@
+<!ENTITY licenseKey.label "Licentie Sleutel:">
+<!ENTITY name.label "Naam:">
+<!ENTITY enterLicense.label "Geef nu de Licentiesleutel op">
+<!ENTITY enterLicenseTitle.label "Geef Postbox Licentiesleutel op">
+<!ENTITY enterLicenseInfo.label "Voer hieronder uw naam en licentiesleutel in:">
+<!ENTITY invalidLicense.label "Bijna klaar... Voer uw naam en licentiesleutel exact in zoals deze in de licentiemail vermeld staan.">
+
+<!ENTITY changeLicenseTitle.label "Postbox Licentie Sleutel">
+<!ENTITY changeLicenseInfo.label "Deze kopie van Postbox is gelicenceerd aan:">
+<!ENTITY changeLicense.label "Verander Licentie Sleutel">
+
+<!ENTITY referFriend.label "Get Referral Code">
+
+<!ENTITY licenseConfirmed.label "Licentiesleutel bevestigd!">
+
+<!ENTITY thanksTitle.label "Bedankt voor het aanschaffen van Postbox!">
+
+<!ENTITY thanksInfo2a.label "Blijf geïnformeerd over Postbox nieuws, updates en speciale promoties door u te abonneren op onze ">
+<!ENTITY PostboxNewsletter.label "nieuwsbrief">
+<!ENTITY thanksInfo2b.label ".">
+
+<!ENTITY thanksInfo3a.label "Voor het aller laatste nieuws, bezoek onze ">
+<!ENTITY PostboxBlog.label "Blog">
+<!ENTITY thanksInfo3b.label " of volg ons op ">
+<!ENTITY PostboxTwitter.label "Twitter">
+<!ENTITY thanksInfo3c.label ".">

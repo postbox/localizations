@@ -1,0 +1,41 @@
+<!ENTITY credit.title     "&brandFullName; credits">
+<!ENTITY credit.leads     "&brandFullName; Team">
+<!ENTITY credit.core      "Hoofd ontwikkelings team">
+<!ENTITY credit.gecko     "Gecko Rendering-Engine">
+<!ENTITY credit.thanks    "Speciale dank aan">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Nederlandse vertaling</h3>
+          <ul><li>Gert-Paul van der Beek</li>
+            <li>Samir Boulema</li>
+            <li>Tim Maks van den Broek</li>
+            <li>Arjan Eerden</li>
+            <li>Ton Kensen</li>
+            <li>Hendrik Maryns</li>
+            <li>Paul Oranje</li>
+            <li>Martijn Ras</li>
+            <li>René van Roon</li>
+            <li>Julius Schwartzenberg</li>
+            <li>Paul Wagenaars</li>
+          </ul>">
+
+<!ENTITY credit.visuals     "Visuele Layout Coördinator">
+<!ENTITY credit.theme       "Thema design">
+<!ENTITY credit.brand       "Merk-identiteit">
+<!ENTITY credit.web         "Webdesign">
+<!ENTITY credit.update      "Mozilla Update">
+<!ENTITY credit.qalead      "Hoofd Kwaliteitcontrole">
+<!ENTITY credit.qa          "Kwaliteitscontrole">
+<!ENTITY credit.build       "Build en Release">
+<!ENTITY credit.infra       "Ondersteuning Infrastructuur">
+<!ENTITY credit.support     "Support Bronnen">
+<!ENTITY credit.manage      "Projectmanagement">
+<!ENTITY credit.marketleads "Hoofd Marketing">
+<!ENTITY credit.market      "Marketing">
+<!ENTITY credit.creators    "Gemaakt Door">
+<!ENTITY credit.memory      "In dierbare herinnering aan">
+<!ENTITY credit.poweredByGecko "Aangedreven door Gecko&trade;">

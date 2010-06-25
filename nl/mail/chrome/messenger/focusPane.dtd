@@ -1,0 +1,35 @@
+<!-- strings used in both the focus pane and the full text search focus pane -->
+<!ENTITY focusPaneFilterByTags.label    "Favoriete labels">
+<!ENTITY focusPaneAllTags.label         "Alle">
+<!ENTITY focusPaneNoTags.label          "Geen">
+
+<!-- strings used only in the full text search focus pane -->
+<!ENTITY focusPaneSearchScopeTitle.label       "Zoeken">
+<!ENTITY focusPaneSearchScopeTitleMac.label    "ZOEKEN">
+<!ENTITY focusPaneSearchScopeEverywhere.label  "Alle Accounts">
+<!ENTITY focusPaneSearchAttribute.label        "Eigenschappen">
+<!ENTITY focusPaneSearchAttributeMac.label     "EIGENSCHAPPEN">
+<!ENTITY focusPaneAllAttribute.label           "Alle">
+<!ENTITY focusPaneSubjectAttribute.label       "Onderwerp">
+<!ENTITY focusPaneSenderAttribute.label        "Afzender">
+<!ENTITY focusPaneRecipientsAttribute.label    "Ontvangers">
+<!ENTITY focusPaneFilterByDate.label    "Datum">
+<!ENTITY focusPaneFilterByDateMac.label "DATUM">
+<!ENTITY focusPaneAnyDate.label         "Elke datum">
+<!ENTITY focusPaneToday.label           "Vandaag">
+<!ENTITY focusPaneThisWeek.label        "Deze week">
+<!ENTITY focusPaneThisMonth.label       "Deze maand">
+
+<!-- focus pane topics context menus -->
+<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Naam wijzigen">
+<!ENTITY pbFavoriteTopicsContextMenu-edit.accesskey     "N">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Verwijderen uit favorieten">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.accesskey "r">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Verwijderen">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.accesskey   "d">
+<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Maak een nieuw favoriet label">
+<!ENTITY pbFavoriteTopicsContextMenu-add.accesskey      "M">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Labels bewerken...">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.accesskey  "L">
+
+

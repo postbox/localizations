@@ -1,0 +1,24 @@
+<!ENTITY askOnSave.label              "Bijlagen Folder">
+<!ENTITY alwaysAsk.label              "Vraag me waar elk bestand op te slaan">
+<!ENTITY alwaysAsk.accesskey          "a">
+<!ENTITY neverAsk.label               "Bewaar alle bijlagen in deze map:">
+<!ENTITY neverAsk.accesskey           "B">
+<!ENTITY desktop.label                "Bureaublad">
+<!ENTITY downloads.label              "Mijn downloads">
+<!ENTITY chooseFolderWin.label        "Bladeren…">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "Kiezen…">
+<!ENTITY chooseFolderMac.accesskey    "K">
+
+
+<!ENTITY fileTypes.label              "Download Acties">
+<!ENTITY configureActions.label       "View &amp; Edit Actions...">
+<!ENTITY configureActions.accesskey   "V">
+<!ENTITY fileTypesDescription.label   "&brandShortName; kan bepaalde soorten bijlagen opslaan of openen.">
+
+<!ENTITY fileTypeColName.label        "Bestandstype">
+<!ENTITY fileHandlerColName.label     "Applicatie">
+<!ENTITY editFileHandler.label        "Wijzig Actie...">
+<!ENTITY editFileHandler.accesskey    "A">
+<!ENTITY removeFileHandler.label      "Verwijderen">
+<!ENTITY removeFileHandler.accesskey  "r">
