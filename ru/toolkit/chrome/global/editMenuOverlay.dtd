@@ -1,0 +1,31 @@
+<!ENTITY editMenu.label            "Правка">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label             "Отменить">
+<!ENTITY undoCmd.key               "Z">
+<!ENTITY undoCmd.accesskey         "U">
+<!ENTITY redoCmd.label             "Повторить">
+<!ENTITY redoCmd.key               "Y">
+<!ENTITY redoCmd.accesskey         "R">
+<!ENTITY cutCmd.label              "Вырезать">
+<!ENTITY cutCmd.key                "X">
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label             "Копировать">
+<!ENTITY copyCmd.key               "C">
+<!ENTITY copyCmd.accesskey         "C">
+<!ENTITY pasteCmd.label            "Вставить">
+<!ENTITY pasteCmd.key              "V">
+<!ENTITY pasteCmd.accesskey        "P">
+<!ENTITY deleteCmd.label           "Удалить">
+<!ENTITY deleteCmd.accesskey       "D">
+<!ENTITY selectAllCmd.label        "Выделить всё">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey    "A">
+<!ENTITY findCmd.label             "Найти">
+<!ENTITY findCmd.key               "F">
+<!ENTITY findCmd.accesskey         "F">
+<!ENTITY findAgainCmd.label        "Найти ещё раз">
+<!ENTITY findAgainCmd.key          "G">
+<!ENTITY findAgainCmd.key2         "VK_F3">
+<!ENTITY findAgainCmd.accesskey    "g">
+<!ENTITY findPreviousCmd.label     "Найти предыдущее совпадение">
+<!ENTITY findPreviousCmd.accesskey "v">

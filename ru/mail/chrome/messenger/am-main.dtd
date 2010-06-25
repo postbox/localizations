@@ -1,0 +1,40 @@
+<!-- extracted from am-main.xul -->
+
+<!ENTITY accountTitle.label "Параметры учётной записи">
+<!ENTITY accountName.label "Имя учётной записи:">
+<!ENTITY accountName.accesskey "n">
+<!ENTITY accountNameDesc.label "The account name is used to identify each account">
+<!ENTITY identityTitle.label "Личные данные">
+<!ENTITY identityDesc.label "Для каждой учётной записи имеются персональные данные, которые смогут увидеть читающие ваши письма адресаты.">
+<!ENTITY name.label "Имя отправителя:">
+<!ENTITY name.accesskey "Y">
+<!ENTITY email.label "Адрес электронной почты:">
+<!ENTITY email.accesskey "E">
+<!ENTITY replyTo.label "Адрес для ответа:">
+<!ENTITY replyTo.accesskey "s">
+<!ENTITY organization.label "Организация:">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signature.label "Attach this signature:">
+<!ENTITY signature.accesskey "t">
+<!ENTITY edit.label "Изменить…">
+<!ENTITY choose.label "Выбрать…">
+<!ENTITY choose.accesskey "C">
+<!ENTITY editVCard.label "Редактировать визитную карточку…">
+<!ENTITY editVCard.accesskey "d">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+<!ENTITY attachVCard.label "Прикреплять визитную карточку к сообщениям">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY manageIdentities.label "Дополнительные адреса электронной почты …">
+<!ENTITY manageIdentities.accesskey "M">
+
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+<!ENTITY smtpName.label "Сервер исходящей почты (SMTP)">
+<!ENTITY smtpName.accesskey "S">
+<!ENTITY smtpDefaultServer.label "Использовать сервер по умолчанию">
+
+<!ENTITY pbNoSignature.label "Нет">
+<!ENTITY pbEditSignature.label "Изменить подпись...">
+<!ENTITY pbEditSignature.accesskey "i">
+<!ENTITY pbChooseSignature.label "Choose Signature">
+<!ENTITY pbChooseSignature.accesskey "g">

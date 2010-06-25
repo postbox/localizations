@@ -1,0 +1,14 @@
+<!ENTITY virtualFolderProperties.title "Новая виртуальная папка">
+<!ENTITY name.label                 "Имя:">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "Создать как вложенную папку:">
+<!ENTITY description.accesskey      "C">
+
+<!ENTITY searchTermCaption.label "Настройте критерии поиска сообщений используемые для этой виртуальной папки:">
+
+<!ENTITY folderSelectionCaption.label "Выберите папки в которых будет производится поиск:">
+<!ENTITY chooseFoldersButton.label "Выбрать…">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY searchOnline.label "Поиск онлайн (дает актуальные результаты для папок IMAP и групп новостей, но увеличивает время открытия папки)">
+<!ENTITY searchOnline.accesskey "I">

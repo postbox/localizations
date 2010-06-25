@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Параметры сервера исходящей почты (SMTP)">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Несмотря на то, что возможно использование нескольких SMTP-серверов, это рекомендуется делать только опытным пользователям. Настройка множества серверов может повлечь за собой ошибки при отправке почты.">
+
+<!ENTITY smtpListAdd.label  "Добавить…">
+<!ENTITY smtpListAdd.accesskey  "d">
+<!ENTITY smtpListEdit.label "Изменить…">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Удалить">
+<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "По умолчанию">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "Описание:">
+<!ENTITY serverName.label "Имя сервера">
+<!ENTITY serverPort.label "Порт:">
+<!ENTITY userName.label   "Имя пользователя:">
+<!ENTITY useSecureConnection.label   "Безопасное соединение: ">
+<!ENTITY useSecureAuthentication.label   "Защищённая аутентификация:">

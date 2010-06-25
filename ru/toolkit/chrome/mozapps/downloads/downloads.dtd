@@ -1,0 +1,48 @@
+<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more downloads in the list -->
+<!ENTITY window.width2                    "485">
+<!ENTITY window.height                    "300"> 
+
+<!ENTITY starting.label                   "Начинаю…">
+<!ENTITY scanning.label                   "Идёт сканирование на вирусы…">
+
+<!ENTITY downloads.title                  "Загрузки">
+
+<!ENTITY cmd.pause.label                  "Приостановить">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "Возобновить">
+<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.cancel.label                 "Отменить">
+<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.show.label                   "Открыть папку содержащую файл">
+<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.showMac.label                "Показать в Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.open.label                   "Открыть">
+<!ENTITY cmd.open.accesskey               "O">
+<!ENTITY cmd.openWith.label               "Открыть в…">
+<!ENTITY cmd.openWith.accesskey           "h">
+<!ENTITY cmd.retry.label                  "Повторить попытку">
+<!ENTITY cmd.retry.accesskey              "R">
+<!ENTITY cmd.goToDownloadPage.label       "Перейти к странице загрузки">
+<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.copyDownloadLink.label       "Копировать ссылку на загрузку">
+<!ENTITY cmd.copyDownloadLink.accesskey   "l">
+<!ENTITY cmd.removeFromList.label         "Удалить из списка">
+<!ENTITY cmd.removeFromList.accesskey     "e">
+
+<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY cmd.close2.commandKey            "j">
+<!ENTITY cmd.close2Unix.commandKey        "y">
+<!ENTITY cmd.clearList.label              "Очистить список">
+<!ENTITY cmd.clearList.tooltip            "Удаляет из списка завершённые, отменённые и неудавшиеся загрузки">
+<!ENTITY cmd.clearList.accesskey          "C">
+<!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
+
+<!ENTITY closeWhenDone.label              "Закрыть после завершения загрузок">
+<!ENTITY closeWhenDone.tooltip            "Закрыть окно со списком загрузок после загрузки всех файлов">
+
+<!ENTITY showFolder.label                 "Открыть эту папку">
+<!ENTITY searchBox.label                  "Поиск…">

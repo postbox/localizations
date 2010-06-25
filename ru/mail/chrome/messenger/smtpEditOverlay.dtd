@@ -1,0 +1,25 @@
+<!ENTITY settings.caption "Настройки">
+<!ENTITY security.caption "Защита и аутентификация">
+<!ENTITY serverName.label "Имя сервера:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "Описание:">
+<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverPort.label "Порт:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "Использовать имя и пароль">
+<!ENTITY alwaysUseUsername.accesskey "U">
+<!ENTITY userName.label "Имя пользователя:">
+<!ENTITY userName.accesskey "m">
+<!ENTITY useSecAuth.label "Использовать защищённую аутентификацию">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY isSecure.label "Использовать безопасное соединение:">
+<!ENTITY neverSecure.label "Нет">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, если возможно">
+<!ENTITY sometimesSTARTTLS.accesskey "A">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY smtpEditTitle.label "SMTP сервер">
+<!ENTITY serverPortDefault.label "По умолчанию:">

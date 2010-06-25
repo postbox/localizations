@@ -1,0 +1,42 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label          "Составление и адресация">
+<!ENTITY addressingGroupTitle.label "Адресация">
+<!ENTITY addressingText.label      "При подборе адресов:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label           "Использовать для этой учётной записи глобальные настройки LDAP-сервера ">
+<!ENTITY useGlobal.accesskey       "L">
+<!ENTITY editDirectories.label     "Изменить сервер каталогов…">
+<!ENTITY editDirectories.accesskey "E">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label         "Использовать другой LDAP-сервер:">
+<!ENTITY directories.accesskey     "L">
+
+<!-- am-addressing.xul -->
+
+<!ENTITY compositionGroupTitle.label "Составление">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "Составлять сообщения в формате HTML">
+<!ENTITY useHtml.accesskey                    "H">
+<!ENTITY autoQuote.label                      "При ответе автоматически цитировать текст исходного сообщения">
+<!ENTITY autoQuote.accesskey                  "q">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label                           "Затем:">
+<!ENTITY then.accesskey                       "T">
+<!ENTITY aboveQuote.label                     "поместить курсор перед цитируемым текстом">
+<!ENTITY belowQuote.label                     "поместить курсор после цитируемого текста">
+<!ENTITY selectAndQuote.label                 "выделить цитируемый текст">
+<!ENTITY place.label                          "и ставить подпись">
+<!ENTITY place.accesskey                      "p">
+<!ENTITY belowText.label                      "после цитируемого текста (рекомендуется)">
+<!ENTITY aboveText.label                      "после моего ответа (перед цитируемым текстом)">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY includeSigOnReply.label              "Include signature for replies">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Include signature for forwards">
+<!ENTITY includeSigOnForward.accesskey        "w">

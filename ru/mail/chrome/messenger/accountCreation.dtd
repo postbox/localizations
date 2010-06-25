@@ -1,0 +1,101 @@
+<!ENTITY autoconfigWizard.title          "Настройка учётной записи почты">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "Имя Фамилия">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "email@example.ru">
+<!ENTITY password.label                  "Пароль:">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.emptytext              "Пароль">
+<!ENTITY password.text                   "Необязательно, будет использоваться только для проверки имени пользователя">
+
+<!ENTITY accountInformation.label        "Информация учётной записи">
+<!ENTITY outgoing.label                  "Исходящая:">
+<!ENTITY noEncryption.label              "Нет">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY manualSetup.label               "Настройка вручную…">
+<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY cancel.label                    "Отмена">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "Продолжить">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY startOver.label                 "Начать заново">
+<!ENTITY startOver.accesskey             "o">
+<!ENTITY stop.label                      "Стоп">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Перепроверить конфигурацию">
+<!ENTITY retest.accesskey                "R">
+<!ENTITY edit.label                      "Изменить">
+<!ENTITY edit.accesskey                  "E">
+
+<!ENTITY rememberPassword.label          "Запомнить пароль">
+<!ENTITY rememberPassword.accesskey      "m">
+
+<!ENTITY warning.label                   "Предупреждение!">
+<!ENTITY incomingSettings.label          "Параметры входящей почты:">
+<!ENTITY outgoingSettings.label          "Параметры исходящей почты:">
+<!ENTITY technicaldetails.label          "Технические детали">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Я понимаю риск.">
+<!ENTITY confirmWarning.accesskey        "u">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Создать учётную запись">
+<!ENTITY createAccount.accesskey         "C">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Изменить настройки">
+<!ENTITY changeSettings.accesskey        "S">
+
+<!ENTITY pb.contactYourProvider.description "&brandShortName; может помочь вам получить доступ к вашей почте, используя предоставленные конфигурации. Однако, вам следует связаться с вашим системнным администратором или провайдеру электронной почты, чтобы они устранили проблему с подключением.">
+
+<!ENTITY insecureServer.tooltip.title    "Предупреждение! Это незащищённый сервер.">
+<!ENTITY insecureServer.tooltip.details  "Для получения подробностей щёлкните по кружку.">
+
+<!ENTITY insecureUnencrypted.description "Ваши письма и данные аутентификации будут отправляться в незашифрованном виде, так что ваш пароль (и ваши сообщения) могут быть легко прочтены другими людьми. &brandShortName; позволит вам работать с вашей почтой, но мы настоятельно советуем вам попросить своего провайдера электронной почты настроить почтовый сервер на работу по защищённому соединению.">
+<!ENTITY insecureSelfSigned.description  "Сервер использует сертификат, которому мы не можем доверять, так что мы не можем быть уверены, что кто-то не перехватывает трафик между &brandShortName; и вашим сервером. &brandShortName; позволит вам работать с вашей почтой, но мы настоятельно советуем вам попросить своего провайдера электронной почты настроить почтовый сервер на работу с доверенным сертификатом.">
+<!ENTITY secureServer.description        "Поздравляем! Это защищённый сервер.">
+
+<!ENTITY pb.identity.title "Персональные данные">
+<!ENTITY pb.name.label    "Ваше имя">
+<!ENTITY pb.email.label   "Электронная почта">
+<!ENTITY pb.password.label "Пароль">
+<!ENTITY pb.serverinfo.title "Информация о сервере">
+<!ENTITY pb.username.label   "Имя пользователя">
+<!ENTITY pb.incoming.label "Входящий сервер">
+<!ENTITY pb.servername.label "Имя сервера">
+<!ENTITY pb.servertype.label "Тип">
+<!ENTITY pb.serverport.label "Порт">
+<!ENTITY pb.serversecurity.label "Защита">
+<!ENTITY pb.outgoing.label "Сервер исходящей почты">
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     creation wizard, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY pb.emailWizard.size "width: 82ch;">
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     creation wizard, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY pb.macEmailWizard.size "width: 63ch;">

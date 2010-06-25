@@ -1,0 +1,75 @@
+<!-- Data Pane Headers -->
+<!ENTITY dataPaneImage.label          "Изображения">
+<!ENTITY dataPaneDocument.label       "Вложения">
+<!ENTITY dataPaneDates.label          "Даты">
+<!ENTITY dataPaneEvent.label          "События">
+<!ENTITY dataPaneURL.label            "Ссылки">
+<!ENTITY dataPaneAddresses.label      "Адреса">
+<!ENTITY dataPaneImageMac.label       "ИЗОБРАЖЕНИЯ">
+<!ENTITY dataPaneDocumentMac.label    "ВЛОЖЕНИЯ">
+<!ENTITY dataPaneDatesMac.label       "ДАТЫ">
+<!ENTITY dataPaneEventMac.label       "СОБЫТИЯ">
+<!ENTITY dataPaneURLMac.label         "ССЫЛКИ">
+<!ENTITY dataPaneAddressesMac.label   "АДРЕСА">
+<!ENTITY dataPaneFindRecent.label     "Find recent:">
+
+<!-- data pane attachment popup -->
+<!-- XX Localisation note: Do not translate service names -->
+<!ENTITY dataPaneContext.uploadTo.label               "Загрузить на...">
+<!ENTITY dataPaneContext.uploadToPicasa.label         "Picasa">
+<!ENTITY dataPaneContext.uploadToPicasa.accesskey     "P">
+<!ENTITY dataPaneContext.uploadToPhotobucket.label    "Photobucket">
+<!ENTITY dataPaneContext.uploadToPhotobucket.accesskey "b">
+<!ENTITY dataPaneContext.uploadToGoogleDocs.label     "Документы Google">
+<!ENTITY dataPaneContext.uploadToGoogleDocs.accesskey "G">
+<!ENTITY dataPaneContext.openAttachment.label         "Открыть">
+<!ENTITY dataPaneContext.openAttachment.accesskey     "O">
+<!ENTITY dataPaneContext.saveAsAttachment.label       "Save As...">
+<!ENTITY dataPaneContext.saveAsAttachment.accesskey   "a">
+<!ENTITY dataPaneContext.quickLookAttachmentMac.label     "Quick Look...">
+<!ENTITY dataPaneContext.quickLookAttachmentMac.accesskey "Q">
+<!ENTITY dataPaneContext.quickLookAttachment.label    "Preview...">
+<!ENTITY dataPaneContext.quickLookAttachment.accesskey "r">
+<!ENTITY dataPaneContext.detachAttachment.label       "Отделить…">
+<!ENTITY dataPaneContext.deleteAttachment.label       "Удалить">
+<!ENTITY dataPaneContext.saveAll.label                "Сохранить все…">
+<!ENTITY dataPaneContext.saveAll.accesskey           "v">
+<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Добавить в iPhoto">
+<!ENTITY dataPaneContext.systemPhotoImportMac.accesskey  "i">
+
+<!-- contact panel -->
+<!ENTITY contactPanel-name.label  "имя:">
+<!ENTITY contactPanel-title.label "название:">
+<!ENTITY contactPanel-company.label  "компания:">
+
+<!ENTITY contactPanel-phone.label "телефон:">
+<!ENTITY contactPanel-work.label "(работа)">
+<!ENTITY contactPanel-home.label "(дом)">
+<!ENTITY contactPanel-mobile.label "(мобильный)">
+
+<!ENTITY contactPanel-email.label "электронная почта:">
+<!ENTITY contactPanel-homeAddress.label "дом:">
+<!ENTITY contactPanel-workAddress.label "работа:">
+<!ENTITY contactPanel-onlineStatus.label "IM:">
+<!ENTITY contactPanel-facebook.label     "Facebook:">
+<!ENTITY contactPanel-twitter.label      "twitter:">
+
+<!ENTITY contactPanel-actions.label "действия:">
+<!ENTITY contactPanel-find.label    "find recent:">
+<!ENTITY contactPanel-findMessages.label "сообщений">
+<!ENTITY contactPanel-findDocuments.label "вложения">
+<!ENTITY contactPanel-findImages.label "изображения">
+<!ENTITY contactPanel-findURLs.label "ссылки">
+<!ENTITY contactPanel-copyContact.label "copy email">
+<!ENTITY contactPanel-sendContact.label "send vcard">
+<!ENTITY contactPanel-createFilter.label "создать фильтр...">
+
+<!-- action contact panel -->
+<!ENTITY contactActionPanel-sendMail.label "Send Mail...">
+<!ENTITY contactActionPanel-copyAddress.label "Копировать адрес электронной почты">
+
+<!-- data pane address popup -->
+<!ENTITY dataPaneContext.searchGoogleMaps.label         "Map to Google">
+<!ENTITY dataPaneContext.searchGoogleMaps.accesskey     "G">
+<!ENTITY dataPaneContext.searchYahooMaps.label          "Map to Yahoo!">
+<!ENTITY dataPaneContext.searchYahooMaps.accesskey      "Y">

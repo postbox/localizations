@@ -1,0 +1,9 @@
+<!ENTITY editTagPanel.title             "Любимые метки:">
+<!ENTITY editTagPanelAssignTopic.label  "Назначение метки">
+<!ENTITY editTagPanelMakeFavorite.label "Сделать эту метку любимой">
+<!ENTITY editTagPanelAddTopic.label     "ОК">
+<!ENTITY editTagPanelCancel.label       "Отмена">
+<!ENTITY showTopicsCmd.key              "t">
+<!ENTITY tagPanel.width                 "300">
+<!ENTITY tagpanel.expanderDown.tooltip  "Показать любимые метки">
+<!ENTITY tagpanel.expanderUp.tooltip    "Скрыть любимые метки">

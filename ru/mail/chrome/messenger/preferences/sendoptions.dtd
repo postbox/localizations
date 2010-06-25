@@ -1,0 +1,39 @@
+<!ENTITY dialog.title                 "Параметры отправки">
+<!ENTITY sendMail.title               "Текстовый формат">
+<!ENTITY sendMaildesc.label           "При отправке сообщений в формате HTML, если указано, что один или более адресатов не могут получать почту в формате HTML:">
+<!ENTITY askMe.label                  "Спрашивать, что делать">
+<!ENTITY askMe.accesskey              "k">
+<!ENTITY convertPlain.label           "Преобразовать сообщение в простой текст">
+<!ENTITY convertPlain.accesskey       "C">
+<!ENTITY sendHTML.label               "Отправлять сообщения в HTML">
+<!ENTITY sendHTML.accesskey           "H">
+<!ENTITY sendBoth.label               "Отправлять сообщение в виде как простого текста, так и HTML">
+<!ENTITY sendBoth.accesskey           "H">
+<!ENTITY receiveHTML.label            "Если вы знаете, что конкретный получатель может получать почту в виде HTML, снимите флажок 'Отправить письмо как простой текст (без HTML)' в карточке получателя в адресной книге.">
+<!ENTITY override.label               "Примечание: предпочтительные форматы можно указывать в адресной книге.">
+
+<!ENTITY domaindesc.label             "При отправке сообщения на адрес, доменная часть которого находится в одном из списков ниже, &brandShortName; автоматически посылает сообщение в правильном формате.">
+<!ENTITY HTMLTab.label                "Домены, поддерживающие HTML">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Домены, поддерживающие простой текст">
+<!ENTITY PlainTextTab.accesskey       "P">
+<!ENTITY AddButton.label              "Добавить…">
+<!ENTITY AddHtmlDomain.accesskey      "a">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteButton.label           "Удалить">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeletePlainText.accesskey    "t">
+
+<!ENTITY add.htmltitle                "Добавить имя в список «Поддержка HTML»">
+<!ENTITY add.htmldomain               "Имя домена:">
+<!ENTITY add.htmldomain.accesskey     "d">
+<!ENTITY add.plaintexttitle           "Добавить имя в список «Поддержка простого текста»">
+<!ENTITY add.plaintextdomain          "Имя домена:">
+<!ENTITY add.plaintext.accesskey      "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "Ошибка в имени домена">
+<!ENTITY duplicationError.label       "Доменное имя @string@ уже есть в этом списке.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "Доменное имя не может появиться в виде HTML или обычного текста. Доменное имя @string@ уже существует.">

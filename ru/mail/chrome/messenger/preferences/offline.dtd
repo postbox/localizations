@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title       "Параметры автономной работы">
+
+<!ENTITY textStartUp   "При запуске:">
+<!ENTITY radioRememberPrevState "Remember previous online state">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe "Ask me for online state at startup">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline "Always start up online">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "Отправить неотправленные сообщения при подключении?">
+<!ENTITY radioAutoSend "Да">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend "Нет">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "Спрашивать">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Загружать сообщения для использования в автономном режиме при отключении?">
+<!ENTITY radioAutoDownload "Да">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioNotDownload "Нет">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload "Спрашивать">
+<!ENTITY radioAskDownload.accesskey "A">

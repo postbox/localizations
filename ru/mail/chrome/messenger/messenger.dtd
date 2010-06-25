@@ -1,0 +1,710 @@
+<!ENTITY messengerWindow.title "Почта и группы новостей">
+<!ENTITY titledefault.label    "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
+
+<!-- File Menu -->
+<!ENTITY newFolderCmd.label "Папку…">
+<!ENTITY newFolderCmd.accesskey "F">
+<!ENTITY newTabCmd.label "Новая вкладка">
+<!ENTITY newTabCmd.accesskey "T">
+<!ENTITY closeTabCmd.label "Закрыть вкладку">
+<!ENTITY closeTabCmd.accesskey "e">
+<!ENTITY newVirtualFolderCmd.label "Виртуальную папку…">
+<!ENTITY newVirtualFolderCmd.accesskey "S">
+<!ENTITY newOtherAccountsCmd.label "Другие учётные записи…">
+<!ENTITY newOtherAccountsCmd.accesskey "O">
+<!ENTITY newEmailAccountCmd.label "Учётная запись почты…">
+<!ENTITY newEmailAccountCmd.accesskey "a">
+<!ENTITY newTaskCmd.label "Звёздочка">
+<!ENTITY newTaskCmd.accesskey "T">
+<!ENTITY newTaskCmd.key "n">
+<!ENTITY openMessageMenu.label "Открыть">
+<!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
+<!ENTITY openMessageFileCmd.accesskey "O">
+<!ENTITY openAttachmentCmd.label "Вложения">
+<!ENTITY openAttachmentCmd.accesskey "A">
+<!ENTITY saveAsMenu.label "Сохранить как">
+<!ENTITY saveAsMenu.accesskey "S">
+<!ENTITY saveAsFileCmd.label "Файл">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsTemplateCmd.label "Шаблон">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY getNewMsgCmd.label "Получить новые сообщения">
+<!ENTITY getNewMsgCmd.accesskey "G">
+<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgForCmd.label "Получить новые сообщения для…">
+<!ENTITY getNewMsgForCmd.accesskey "w">
+<!ENTITY getAllNewMsgCmd.label "Все новые сообщения">
+<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getNextNMsgCmd.label "Получить следующие 500 новостных сообщений">
+<!ENTITY getNextNMsgCmd.accesskey "5">
+<!ENTITY sendUnsentCmd.label "Отправить неотправленные сообщения">
+<!ENTITY sendUnsentCmd.accesskey "d">
+<!ENTITY subscribeCmd.label "Подписаться…">
+<!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY renameFolder.label "Переименовать папку…">
+<!ENTITY renameFolder.accesskey "R">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "Сжать папки">
+<!ENTITY compactFolder.accesskey    "F">
+<!ENTITY emptyTrashCmd.label "Очистить корзину">
+<!ENTITY emptyTrashCmd.accesskey    "y">
+<!ENTITY importCmd.label "Импорт…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY offlineMenu.label "Автономная работа">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineGoOfflineCmd.label "Работать автономно">
+<!ENTITY offlineGoOfflineCmd.accesskey "W">
+<!ENTITY synchronizeOfflineCmd.label "Загрузить/синхронизировать сейчас…">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd.label "Параметры автономной работы…">
+<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "Получить выделенные">
+<!ENTITY downloadSelectedCmd.accesskey "l">
+<!ENTITY downloadStarredCmd.label "Получить сообщения со звёздочкой">
+<!ENTITY downloadStarredCmd.accesskey "t">
+<!ENTITY printCmd.label "Печать…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.key "p">
+<!ENTITY printPreviewCmd.label "Предварительный просмотр">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.key "v">
+<!ENTITY printSetupCmd.label "Параметры страницы…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY renameCmd.label "Переименовать">
+
+<!-- Edit Menu -->
+<!ENTITY deleteMsgCmd.label "Удалить сообщение">
+<!ENTITY deleteMsgCmd.accesskey "D">
+<!ENTITY undeleteMsgCmd.label "Восстановить сообщение">
+<!ENTITY undeleteMsgCmd.accesskey "d">
+<!ENTITY cancelNewsMsgCmd.label "Отменить сообщение">
+<!ENTITY cancelNewsMsgCmd.accesskey "M">
+<!ENTITY deleteMsgsCmd.label "Удалить выбранные сообщения">
+<!ENTITY deleteMsgsCmd.accesskey "D">
+<!ENTITY undeleteMsgsCmd.label "Восстановить выбранные сообщения">
+<!ENTITY undeleteMsgsCmd.accesskey "d">
+<!ENTITY cancelNewsMsgsCmd.label "Отменить выбранные сообщения">
+<!ENTITY cancelNewsMsgsCmd.accesskey "n">
+<!ENTITY deleteFolderCmd.label "Удалить папку">
+<!ENTITY deleteFolderCmd.accesskey "D">
+<!ENTITY unsubscribeNewsgroupCmd.label "Отписаться">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
+<!ENTITY selectMenu.label "Выделить">
+<!ENTITY selectMenu.accesskey "S">
+<!ENTITY all.label "Все сообщения">
+<!ENTITY all.accesskey "A">
+<!ENTITY selectThreadCmd.label "Обсуждение">
+<!ENTITY selectThreadCmd.accesskey "T">
+<!ENTITY selectThreadCmd.key "a">
+<!ENTITY menuFavoriteFolder.label "Избранная папка">
+<!ENTITY menuFavoriteFolder.accesskey "a">
+<!ENTITY folderPropsCmd.label "Свойства…">
+<!ENTITY folderPropsFolderCmd.label "Свойства папки…">
+<!ENTITY folderPropsNewsgroupCmd.label "Свойства группы новостей…">
+<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY accountManagerCmd.label "Параметры учётной записи…">
+<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmdUnix.accesskey "м">
+<!ENTITY undoDeleteMsgCmd.label "Отменить удаление сообщения">
+<!ENTITY redoDeleteMsgCmd.label "Повторить удаление сообщения">
+<!ENTITY undoMoveMsgCmd.label "Отменить перемещение сообщения">
+<!ENTITY redoMoveMsgCmd.label "Повторить перемещение сообщения">
+<!ENTITY undoCopyMsgCmd.label "Отменить копирование сообщения">
+<!ENTITY redoCopyMsgCmd.label "Повторить копирование сообщения">
+<!ENTITY undoDefaultCmd.label "Отменить">
+<!ENTITY undoDefaultCmd.accesskey "U">
+<!ENTITY redoDefaultCmd.label "Повторить">
+<!ENTITY redoDefaultCmd.accesskey "R">
+<!ENTITY enterLicenseCode.label "Лицензия...">
+<!ENTITY enterLicenseCode.accesskey "e">
+  
+<!-- View Menu -->
+<!ENTITY customizeToolbar.label "Настроить…">
+<!ENTITY customizeToolbar.accesskey "o">
+<!ENTITY pinStarredMessages.label "Pin To-Dos">
+<!ENTITY pinStarredMessages.accesskey "P">
+<!ENTITY showConversations.label "Показать разговоры">
+<!ENTITY showConversations.accesskey "h">
+<!ENTITY viewMenuShowAttachments.label "Вложения">
+<!ENTITY viewMenuShowAttachments.accesskey "t">
+<!ENTITY key_showAttachments.key         "a">
+<!ENTITY viewMenuShowImages.label        "Изображения">
+<!ENTITY viewMenuShowImages.accesskey    "m">
+<!ENTITY key_showImages.key              "i">
+<!ENTITY viewMenuShowLinks.label         "Ссылки">
+<!ENTITY viewMenuShowLinks.accesskey     "L">
+<!ENTITY key_showLinks.key               "l">
+<!ENTITY viewMenuShowContacts.label      "Контакты">
+<!ENTITY viewMenuShowContacts.accesskey  "n">
+<!ENTITY key_showContacts.key            "c">
+<!ENTITY messagePaneLayoutStyle.label "Разбивка окна">
+<!ENTITY messagePaneLayoutStyle.accesskey "y">
+<!ENTITY messagePaneClassic.label "Классический вид">
+<!ENTITY messagePaneClassic.accesskey "C">
+<!ENTITY messagePaneVertical.label "Вертикальный вид">
+<!ENTITY messagePaneVertical.accesskey "V">
+
+
+<!-- Sort Menu -->
+<!ENTITY sortMenu.label "Сортировка">
+<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortByDateCmd.label "по дате отправки">
+<!ENTITY sortByDateCmd.accesskey "e">
+<!ENTITY sortByReceivedCmd.label "по дате получения">
+<!ENTITY sortByReceivedCmd.accesskey "v">
+<!ENTITY sortByStarCmd.label "по звёздочке">
+<!ENTITY sortByStarCmd.accesskey "S">
+<!ENTITY sortByAttachmentsCmd.label "по вложениям">
+<!ENTITY sortByAttachmentsCmd.accesskey "A">
+<!ENTITY sortByPriorityCmd.label "по важности">
+<!ENTITY sortByPriorityCmd.accesskey "P">
+<!ENTITY sortBySizeCmd.label "по размеру">
+<!ENTITY sortBySizeCmd.accesskey "z">
+<!ENTITY sortByStatusCmd.label "по состоянию">
+<!ENTITY sortByStatusCmd.accesskey "u">
+<!ENTITY sortByTagsCmd.label "по метке">
+<!ENTITY sortByTagsCmd.accesskey "i">
+<!ENTITY sortByJunkStatusCmd.label "по метке спама">
+<!ENTITY sortByJunkStatusCmd.accesskey "J">
+<!ENTITY sortBySubjectCmd.label "по теме">
+<!ENTITY sortBySubjectCmd.accesskey "b">
+<!ENTITY sortByFromCmd.label "по автору">
+<!ENTITY sortByFromCmd.accesskey "F">
+<!ENTITY sortByRecipientCmd.label "по адресату">
+<!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByUnreadCmd.label "по прочитанным">
+<!ENTITY sortByUnreadCmd.accesskey "R">
+<!ENTITY sortByOrderReceivedCmd.label "по порядку получения">
+<!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortAscending.label "По возрастанию">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "По убыванию">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY sortThreaded.label "По обсуждениям">
+<!ENTITY sortThreaded.accesskey "T">
+<!ENTITY sortUnthreaded.label "Не по обсуждениям">
+<!ENTITY sortUnthreaded.accesskey "h">
+<!ENTITY groupBySort.label "Группировать по методу сортировки">
+<!ENTITY groupBySort.accesskey "G">
+<!ENTITY groupBySortCmd.key "G">
+<!ENTITY msgsMenu.label "Сообщения">
+<!ENTITY msgsMenu.accesskey "M">
+<!ENTITY threads.label "Обсуждения">
+<!ENTITY threads.accesskey "e">
+<!ENTITY allMsgsCmd.label "Все">
+<!ENTITY allMsgsCmd.accesskey "A">
+<!ENTITY expandOrCollapseMenu.label "Развернуть/свернуть">
+<!ENTITY expandOrCollapseMenu.accesskey "x">
+<!ENTITY expandAllThreadsCmd.label "Развернуть все">
+<!ENTITY expandAllThreadsCmd.accesskey "E">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Свернуть все">
+<!ENTITY collapseAllThreadsCmd.accesskey "C">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "Непрочитанные">
+<!ENTITY unreadMsgsCmd.accesskey "U">
+<!ENTITY threadsWithUnreadCmd.label "С непрочитанными сообщениями">
+<!ENTITY threadsWithUnreadCmd.accesskey "T">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Отслеживаемые с непрочитанными сообщениями">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
+<!ENTITY ignoredThreadsCmd.label "Пропущенные">
+<!ENTITY ignoredThreadsCmd.accesskey "I">
+<!ENTITY headersMenu.label "Заголовки">
+<!ENTITY headersMenu.accesskey "H">
+<!ENTITY headersAllCmd.label "Все">
+<!ENTITY headersAllCmd.accesskey "A">
+<!ENTITY headersNormalCmd.label "Обычные">
+<!ENTITY headersNormalCmd.accesskey "N">
+<!ENTITY bodyMenu.label "Тело сообщения в виде">
+<!ENTITY bodyMenu.accesskey "B">
+<!ENTITY bodyAllowHTML.label "Исходного HTML">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "Упрощённого HTML">
+<!ENTITY bodySanitized.accesskey "H">
+<!ENTITY bodyAsPlaintext.label "Простого текста">
+<!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY viewAttachmentsInlineCmd.label "Показывать вложения в теле сообщения">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "a">
+<!ENTITY reloadCmd.label "Обновить">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY stopCmd.label "Остановить">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY textZoomEnlargeCmd.label "Увеличить">
+<!ENTITY textZoomEnlargeCmd.accesskey "I">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY textZoomReduceCmd.label "Уменьшить">
+<!ENTITY textZoomReduceCmd.accesskey "D">
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY textZoomResetCmd.label     "Обычный">
+<!ENTITY textZoomResetCmd.accesskey "N">
+<!ENTITY textSize.label             "Размер шрифта">
+<!ENTITY textSize.accesskey             "x">
+
+<!ENTITY pageSourceCmd.label "Исходный текст">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.key "u">
+
+<!-- Search Menu -->
+<!ENTITY searchMenu.label "Поиск">
+<!ENTITY searchMenu.accesskey "S">
+
+<!ENTITY findMenu.label "Найти">
+<!ENTITY findMenu.accesskey "F">
+<!ENTITY findCmd.label "Найти в этом сообщении…">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.key "f">
+<!ENTITY findAgainCmd.label "Найти ещё раз">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "Поиск сообщений…">
+<!ENTITY searchMailCmd.accesskey "A">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "Поиск адресов…">
+<!ENTITY searchAddressesCmd.accesskey "S">
+
+<!-- Go Menu -->
+<!ENTITY goMenu.label "Переход">
+<!ENTITY goMenu.accesskey "G">
+<!ENTITY nextMenu.label "Следующее…">
+<!ENTITY nextMenu.accesskey "N">
+<!ENTITY nextMsgCmd.label "сообщение">
+<!ENTITY nextMsgCmd.accesskey "M">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "непрочитанное сообщение">
+<!ENTITY nextUnreadMsgCmd.accesskey "U">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextStarredMsgCmd.label "отмеченное звёздочкой сообщение">
+<!ENTITY nextStarredMsgCmd.accesskey "o">
+<!ENTITY nextUnreadThread.label "непрочитанное обсуждение">
+<!ENTITY nextUnreadThreadCmd.accesskey "T">
+<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY prevMenu.label "Предыдущее…">
+<!ENTITY prevMenu.accesskey "P">
+<!ENTITY prevMsgCmd.label "сообщение">
+<!ENTITY prevMsgCmd.accesskey "M">
+<!ENTITY previousMsgCmd.key "b">
+<!ENTITY previousMsgCmd.accesskey "M">
+<!ENTITY prevUnreadMsgCmd.label "непрочитанное сообщение">
+<!ENTITY prevUnreadMsgCmd.accesskey "U">
+<!ENTITY previousUnreadMsgCmd.key "p">
+<!ENTITY previousUnreadMsgCmd.accesskey "U">
+<!ENTITY goForwardCmd.label "Вперёд">
+<!ENTITY goForwardCmd.accesskey "F">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "Назад">
+<!ENTITY goBackCmd.accesskey "B">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY prevStarredMsgCmd.label "отмеченное звёздочкой сообщение">
+<!ENTITY prevStarredMsgCmd.accesskey "o">
+<!ENTITY startPageCmd1.label "Дом">
+<!ENTITY startPageCmd1.accesskey "H">
+<!ENTITY msgMenu.label "Сообщение">
+<!ENTITY msgMenu.accesskey "M">
+<!ENTITY newMsgCmd.label "Создать">
+<!ENTITY newMsgCmd.accesskey "N">
+<!ENTITY newNewMsgCmd.label "Сообщение">
+<!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY replyMsgCmd.label "Ответить">
+<!ENTITY replyMsgCmd.accesskey "R">
+<!ENTITY replyMsgCmd.key  "r">
+<!ENTITY replySenderCmd.label "Ответить отправителю">
+<!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replyNewsgroupCmd.label "Ответить в группу новостей">
+<!ENTITY replyNewsgroupCmd.accesskey  "y">
+<!ENTITY replyToAllMsgCmd.label "Ответить всем">
+<!ENTITY replyToAllMsgCmd.accesskey  "p">
+<!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY forwardMsgCmd.label "Переслать">
+<!ENTITY forwardMsgCmd.accesskey "F">
+<!ENTITY forwardMsgCmd.key  "l">
+<!ENTITY forwardAsMenu.label "Переслать как">
+<!ENTITY forwardAsMenu.accesskey "w">
+<!ENTITY forwardAsInline.label "Часть сообщения">
+<!ENTITY forwardAsInline.accesskey "I">
+<!ENTITY forwardAsAttachmentCmd.label "Вложение">
+<!ENTITY forwardAsAttachmentCmd.accesskey "A">
+<!ENTITY editMsgCmd.label "Правка">
+<!ENTITY editMsgCmd.accesskey "E">
+<!ENTITY editMsgCmd.key "e">
+<!ENTITY editMsgAsNewCmd1.label "Отправить заново">
+<!ENTITY editMsgAsNewCmd1.accesskey "d">
+<!ENTITY createFilter.label "Создать фильтр…">
+<!ENTITY createFilter.accesskey "i">
+<!ENTITY archiveMsgMenu.label "Архивировать">
+<!ENTITY archiveMsgMenu.accesskey "A">
+<!ENTITY moveMsgMenu.label "Move">
+<!ENTITY moveMsgMenu.accesskey "M">
+<!ENTITY moveCopyMsgRecentMenu.label "Недавно открытые">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY copyMessageLocation.label "Копировать адрес сообщения">
+<!ENTITY copyMessageLocation.accesskey "M">
+<!ENTITY copyMsgMenu.label "Копировать">
+<!ENTITY copyMsgMenu.accesskey "C">
+<!ENTITY moveToFolderAgain.label "Повторить перемещение">
+<!ENTITY moveToFolderAgain.accesskey "i">
+<!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "Пропустить обсуждение">
+<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Отслеживать обсуждение">
+<!ENTITY watchThreadMenu.accesskey "W">
+<!ENTITY watchThreadMenu.key "w">
+<!ENTITY fileHereMenu.label "Поместить сюда">
+<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY copyHereMenu.label "Копировать сюда">
+<!ENTITY copyHereMenu.accesskey "C">
+<!ENTITY tagMenu.label "Присвоить метку">
+<!ENTITY tagMenu.accesskey "T">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "Отметить">
+<!ENTITY markMenu.accesskey "k">
+<!ENTITY markAsReadCmd.label "Как прочитанное">
+<!ENTITY markAsReadCmd.accesskey "R">
+<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Пометить как непрочитанное">
+<!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markThreadAsReadCmd.label "Обсуждение как прочитанное">
+<!ENTITY markThreadAsReadCmd.accesskey "T">
+<!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markReadByDateCmd.label "Как прочитанные по дате…">
+<!ENTITY markReadByDateCmd.accesskey "d">
+<!ENTITY markReadByDateCmd.key "c">
+<!ENTITY markAllReadCmd.label "Все как прочитанные">
+<!ENTITY markAllReadCmd.accesskey "A">
+<!ENTITY markAllReadCmd.key "c">
+<!ENTITY markStarredCmd.label "Звёздочкой">
+<!ENTITY markStarredCmd.accesskey "T">
+<!-- keep as s, because t is taken by topic/tag -->
+<!ENTITY markStarredCmd.key "S">
+<!ENTITY markAsJunkCmd.label "Как спам">
+<!ENTITY markAsJunkCmd.accesskey "J">
+<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "Как не спам">
+<!ENTITY markAsNotJunkCmd.accesskey "N">
+<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Запустить анти-спам фильтры">
+<!ENTITY recalculateJunkScoreCmd.accesskey "-">
+<!ENTITY openMessageWindowCmd.label "Открыть">
+<!ENTITY openMessageWindowCmd.accesskey "n">
+<!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY archiveMsgCmd.key "a">
+
+<!-- Windows Menu -->
+<!ENTITY windowMenu.label "Окно">
+<!ENTITY windowMenu.accesskey "W">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Инструменты">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY addons.label "Дополнения">
+<!ENTITY addons.accesskey "d">
+<!ENTITY messengerCmd.label "Почта и группы новостей">
+<!ENTITY messengerCmd.accesskey "M">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Адресная книга">
+<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY junkMailCmd.label "Junk Mail Controls...">
+<!ENTITY junkMailCmd.accesskey "J">
+<!ENTITY runJunkControls.label "Запустить в папке анти-спам фильтры">
+<!ENTITY runJunkControls.accesskey "-">
+<!ENTITY deleteJunk.label "Удалить сообщения помеченные как спам">
+<!ENTITY deleteJunk.accesskey "l">
+<!ENTITY errorConsoleCmd.label "Консоль ошибок">
+<!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY filtersCmd.label "Фильтры сообщений…">
+<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersApply.label "Применить фильтры к папке">
+<!ENTITY filtersApply.accesskey "R">
+
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "Справка">
+<!ENTITY helpMenu.accesskey "H">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Справка">
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY releaseCmd.label "Примечания к выпуску">
+<!ENTITY releaseCmd.accesskey "R">
+<!ENTITY guideCmd.label "Quickstart Guide">
+<!ENTITY guideCmd.accesskey "r">
+<!ENTITY hintsAndTips.label "Справка &brandFullName;">
+<!ENTITY hintsAndTipsMac.commandkey "?">
+<!ENTITY hintsAndTips.accesskey "H">
+<!ENTITY updateCmd.label      "Проверить наличие обновлений…">
+<!ENTITY updateCmd.accesskey  "o">
+<!ENTITY aboutCmd.label "О &brandFullName;">
+<!ENTITY aboutCmd.accesskey "b">
+
+<!-- Mail Toolbar -->
+<!ENTITY getMsgButton.label "Получить">
+<!ENTITY newMsgButton.label "Создать">
+<!ENTITY replyButton.label "Ответить">
+<!ENTITY replyAllButton.label "Ответить всем">
+<!ENTITY sendButton.label "Отправить">
+<!ENTITY forwardButton.label "Переслать">
+<!ENTITY archiveButton.label "Архивировать">
+<!ENTITY fileButton.label "Поместить">
+<!ENTITY nextButton.label "Следующее">
+<!ENTITY previousButton.label "Предыдущее">
+<!ENTITY backButton1.label "Назад">
+<!ENTITY goForwardButton1.label "Вперёд">
+<!ENTITY deleteButton.label "Удалить">
+<!ENTITY markButton.label "Отметить">
+<!ENTITY printButton.label "Печать">
+<!ENTITY stopButton.label "Остановить">
+<!ENTITY throbberItem.title "Индикатор активности">
+<!ENTITY updatesItem.title  "Обновления">
+<!ENTITY junkButton.label "Спам">
+<!ENTITY notJunkButton.label "Не спам">
+<!ENTITY addressBookButton.label "Адресная книга">
+<!ENTITY searchItem.title "Быстрый поиск">
+<!ENTITY mailViewsToolbarItem.title "Режимы просмотра сообщений">
+<!ENTITY folderLocationToolbarItem.title "Выбор папки">
+
+<!-- Mail Toolbar Tooltips-->
+<!ENTITY advancedButton.tooltip "Расширенный режим поиска">
+<!ENTITY clearButton.tooltip "Clear the search criteria and show all messages">
+<!ENTITY getMsgButton.tooltip "Получить новые сообщения">
+<!ENTITY newMsgButton.tooltip "Создать сообщение">
+<!ENTITY replyButton.tooltip "Ответить на сообщение">
+<!ENTITY replyAllButton.tooltip "Ответить отправителю и всем адресатам">
+<!ENTITY sendButton.tooltip "Send selected message">
+<!ENTITY forwardButton.tooltip "Переслать выбранное сообщение">
+<!ENTITY archiveButton.tooltip "Архивировать выделенные сообщения">
+<!ENTITY fileButton.tooltip "Поместить выбранное сообщение в нужную папку">
+<!ENTITY nextButton.tooltip "Перейти к следующему непрочитанному сообщению">
+<!ENTITY previousButton.tooltip "Перейти к предыдущему непрочитанному сообщению">
+<!ENTITY goForwardButton.tooltip "Перейти к следующему сообщению">
+<!ENTITY goBackButton.tooltip "Перейти к предыдущему сообщению">
+<!ENTITY deleteButton.tooltip "Удалить выбранное сообщение или папку">
+<!ENTITY markButton.tooltip "Отметить сообщения">
+<!ENTITY printButton.tooltip "Распечатать это сообщение">
+<!ENTITY stopButton.tooltip "Остановить текущую передачу данных">
+<!ENTITY junkButton.tooltip "Отметить выбранные сообщения как спам">
+<!ENTITY notJunkButton.tooltip "Отметить выбранные сообщение как не спам">
+<!ENTITY addressBookButton.tooltip "Открыть адресную книгу">
+
+<!-- Folder Pane -->
+<!ENTITY accountTree.label    "Учётные записи">
+<!ENTITY folderTree.label     "Папки">
+<!ENTITY folderColumn.label "Имя">
+<!ENTITY folderSizeColumn.label "Размер">
+
+<!-- Folder Pane Context Menu -->
+<!ENTITY folderContextGetMessages.label "Получить сообщения">
+<!ENTITY folderContextGetMessages.accesskey "G">
+<!ENTITY folderContextOpenNewWindow.label "Открыть в новом окне">
+<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenNewTab.label "Открыть в новой вкладке">
+<!ENTITY folderContextOpenNewTab.accesskey "T">
+<!ENTITY folderContextNew.label "Новая папка…">
+<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextRename.label "Переименовать">
+<!ENTITY folderContextRename.accesskey "R">
+<!ENTITY folderContextRemove.label "Удалить">
+<!ENTITY folderContextRemove.accesskey "D">
+<!ENTITY folderContextCompact.label "Сжать">
+<!ENTITY folderContextCompact.accesskey "C">
+<!ENTITY folderContextEmptyTrash.label "Очистить корзину">
+<!ENTITY folderContextEmptyTrash.accesskey "y">
+<!ENTITY folderContextEmptyJunk.label "Удалить спам">
+<!ENTITY folderContextEmptyJunk.accesskey "J">
+<!ENTITY folderContextSendUnsentMessages.label "Отправить неотправленные сообщения">
+<!ENTITY folderContextSendUnsentMessages.accesskey "d">
+<!ENTITY folderContextUnsubscribe.label "Отписаться">
+<!ENTITY folderContextUnsubscribe.accesskey "U">
+<!ENTITY folderContextMarkNewsgroupRead.label "Отметить группу новостей как прочитанную">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
+<!ENTITY folderContextMarkMailFolderRead.label "Отметить папку как прочитанную">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "k">
+<!ENTITY folderContextSubscribe.label "Подписаться…">
+<!ENTITY folderContextSubscribe.accesskey "b">
+<!ENTITY folderContextSearchMessages.label "Поиск…">
+<!ENTITY folderContextSearchMessages.accesskey "S">
+<!ENTITY folderContextProperties.label "Свойства…">
+<!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextFavoriteFolder.label "Избранная папка">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "Имя или e-mail адрес содержат:">
+<!ENTITY SearchNameOrEmail.accesskey "e">
+<!ENTITY clearButton.label "Очистить">
+<!ENTITY clearButton.accesskey "C">
+
+<!-- Quick Search Menu Bar -->
+<!ENTITY searchSubjectMenu.label "Тема">
+<!ENTITY searchFromMenu.label "От">
+<!ENTITY searchSubjectOrFromMenu.label "Тема или Автор">
+<!ENTITY searchRecipient.label "Кому или Копия">
+<!ENTITY searchMessageBody.label "Сообщение целиком">
+<!ENTITY saveAsVirtualFolderMenu.label "Сохранить результаты поиска как папку…">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Обсуждение">
+<!ENTITY fromColumn.label "От">
+<!ENTITY recipientColumn.label "Адресат">
+<!ENTITY subjectColumn.label "Тема">
+<!ENTITY dateColumn.label "Дата">
+<!ENTITY priorityColumn.label "Важность">
+<!ENTITY tagsColumn.label "Метка">
+<!ENTITY accountColumn.label "Учётная запись">
+<!ENTITY statusColumn.label "Состояние">
+<!ENTITY sizeColumn.label "Размер">
+<!ENTITY junkStatusColumn.label "Спам">
+<!ENTITY linesColumn.label "Строк">
+<!ENTITY unreadColumn.label "Не прочитано">
+<!ENTITY totalColumn.label "Всего">
+<!ENTITY readColumn.label "Прочитано">
+<!ENTITY receivedColumn.label "Получено">
+<!ENTITY starredColumn.label "Звёздочка">
+<!ENTITY locationColumn.label "Расположение">
+<!ENTITY idColumn.label "Порядок получения">
+<!ENTITY attachmentColumn.label "Вложения">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Нажмите, чтобы выбрать колонки для отображения">
+<!ENTITY threadColumn.tooltip "Нажмите здесь, чтобы просмотреть обсуждения">
+<!ENTITY fromColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по автору">
+<!ENTITY recipientColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по адресату">
+<!ENTITY subjectColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по теме">
+<!ENTITY dateColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате отправки">
+<!ENTITY priorityColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по важности">
+<!ENTITY tagsColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по метке">
+<!ENTITY accountColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по учётной записи">
+<!ENTITY statusColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по состоянию">
+<!ENTITY sizeColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по размеру">
+<!ENTITY junkStatusColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по метке спама">
+<!ENTITY unreadColumn.tooltip "Количество непрочитанных сообщений в обсуждении">
+<!ENTITY totalColumn.tooltip "Общее число сообщений в обсуждении">
+<!ENTITY readColumn.tooltip "Нажмите здесь, чтобы отсортировать прочитанные сообщения">
+<!ENTITY receivedColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате получения">
+<!ENTITY starredColumn2.tooltip "Click to toggle pinning To-Dos">
+<!ENTITY locationColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по их расположению">
+<!ENTITY idColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по порядку получения">
+<!ENTITY attachmentColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по наличию вложений">
+
+<!-- Thread Pane Context Menu -->
+<!ENTITY contextOpenNewWindow.label "Открыть в новом окне">
+<!ENTITY contextOpenNewWindow.accesskey "w">
+<!ENTITY contextOpenNewTab.label "Открыть в новой вкладке">
+<!ENTITY contextOpenNewTab.accesskey "g">
+<!ENTITY contextEditMsg.label "Изменить…">
+<!ENTITY contextEditMsg.accesskey "i">
+<!ENTITY contextEditAsNew1.label "Resend...">
+<!ENTITY contextEditAsNew1.accesskey "e">
+<!ENTITY contextReplySender.label "Ответить отправителю">
+<!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplyNewsgroup.label "Ответить в группу новостей">
+<!ENTITY contextReplyNewsgroup.accesskey "N">
+<!ENTITY contextReplyAll.label "Ответить всем">
+<!ENTITY contextReplyAll.accesskey "y">
+<!ENTITY contextForward.label "Переслать">
+<!ENTITY contextForward.accesskey "F">
+<!ENTITY contextForwardAsAttachment.label "Переслать как вложения">
+<!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextArchiveMsg.label "Архивировать">
+<!ENTITY contextArchiveMsg.accesskey "A">
+<!ENTITY contextMoveMsgMenu.label "Переместить в папку">
+<!ENTITY contextMoveMsgMenu.accesskey "M">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Недавно открытые">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextCopyMsgMenu.label "Копировать в папку">
+<!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextSaveAs.label "Сохранить как…">
+<!ENTITY contextSaveAs.accesskey "S">
+<!ENTITY contextPrint.label "Распечатать…">
+<!ENTITY contextPrint.accesskey "P">
+<!ENTITY contextPrintPreview.label "Предварительный просмотр">
+<!ENTITY contextPrintPreview.accesskey "v">
+<!ENTITY contextDelete.label "Удалить">
+<!ENTITY contextDelete.accesskey "D">
+<!ENTITY contextAddSenderToAddressBook.label "Добавить отправителя в адресную книгу">
+<!ENTITY contextAddSenderToAddressBook.accesskey "B">
+<!ENTITY contextAddAllToAddressBook.label "Добавить всех в адресную книгу">
+<!ENTITY contextAddAllToAddressBook.accesskey "A">
+
+<!ENTITY junkInfoButton.label "?">
+
+<!-- Remote Content Blocker Options -->
+<!ENTITY remoteContentPopupAllow.label "Загружать удаленные изображения только для этого сообщения">
+<!ENTITY remoteContentPopupAllow.accesskey "a">
+
+<!-- Message Header Button Box (to show hidden email addresses) -->
+<!ENTITY more.label "ещё">
+
+<!-- Quick Search Bar -->
+<!ENTITY quickSearchCmd.key "k">
+<!ENTITY fullTextSearchCmd.key "/">
+
+<!-- Message Header Context Menu -->
+<!ENTITY AddToAddressBook.label "Добавить в адресную книгу…">
+<!ENTITY AddToAddressBook.accesskey "B">
+<!ENTITY SendMailTo.label "Compose Mail To">
+<!ENTITY SendMailTo.accesskey "s">
+<!ENTITY CopyEmailAddress.label "Копировать адрес электронной почты">
+<!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CreateFilter.label "Создать фильтр для сообщения...">
+<!ENTITY CreateFilter.accesskey "F">
+<!ENTITY reportPhishingURL.label "Сообщить о мошенническом письме">
+<!ENTITY reportPhishingURL.accesskey "o">
+
+<!-- Content Pane Context Menu -->
+<!ENTITY saveLinkCmd.label "Save Link Target">
+<!ENTITY saveLinkCmd.accesskey "r">
+<!ENTITY saveImageCmd.label "Сохранение изображения">
+<!ENTITY saveImageCmd.accesskey "v">
+<!ENTITY copyCmd.label "Копировать">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Выделить всё">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY copyLinkCmd.label "Копировать ссылку">
+<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyImageCmd.label "Копировать изображение">
+<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyEmailCmd.label "Копировать адрес электронной почты">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY contextSearchWeb.accesskey "S">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label "Готово">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.label "Убрать в Dock">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Все окна — на передний план">
+<!ENTITY zoomWindow.label "Изменить масштаб">
+
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac.label        "Настройки…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Службы">
+<!ENTITY hideThisAppCmdMac.label        "Скрыть &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Скрыть остальные">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Показать все">
+
+<!-- Lightning Specific String -->
+<!ENTITY pbLightningQuickView.label "Quick View">
+<!ENTITY lightning.calendar.label "Calendar">
+<!ENTITY lightning.tasks.label "Tasks">

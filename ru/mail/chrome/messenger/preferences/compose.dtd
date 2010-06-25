@@ -1,0 +1,63 @@
+<!ENTITY itemGeneral.label                   "Основные">
+<!ENTITY itemAutoComplete.label              "Адресация">
+<!ENTITY itemSpellCheck.label                "Орфография">
+<!ENTITY itemSendFormat.label                "Формат отправки">
+
+<!ENTITY forwardReply.label                   "Пересылаемые сообщения">
+<!ENTITY forwardMsg.label                     "Пересылать сообщения:">
+<!ENTITY forwardMsg.accesskey                 "F">
+<!ENTITY inline.label                         "Внутри сообщения">
+<!ENTITY inline.accesskey                     "I">
+<!ENTITY asAttachment.label                   "Как вложение">
+<!ENTITY asAttachment.accesskey               "A">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Шрифт:">
+<!ENTITY font.accesskey                       "n">
+<!ENTITY size.label                           "Размер:">
+<!ENTITY size.accesskey                       "z">
+<!ENTITY fontColor.label                      "Цвет текста:">
+<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY bgColor.label                        "Цвет фона:">
+<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY restoreHTMLDefaults.label            "Восстановить значения по умолчанию">
+<!ENTITY restoreHTMLDefaults.accesskey        "R">
+
+<!ENTITY sendingMessagesHeader.label          "Составление сообщений">
+<!ENTITY spellCheck.label                     "Проверять орфографию перед отправкой сообщения">
+<!ENTITY spellCheck.accesskey                 "C">
+<!ENTITY spellCheckInline.label               "Проверять орфографию при наборе текста">
+<!ENTITY spellCheckInline1.accesskey           "н">
+<!ENTITY languagePopup.label                  "Язык:">
+<!ENTITY languagePopup.accessKey              "з">
+<!ENTITY downloadDictionaries.label           "Загрузить дополнительные словари">
+
+<!ENTITY useMIME.label                        "For messages that contain 8-bit characters, use 'quoted printable' MIME encoding">
+<!ENTITY useMIME.accesskey                    "o">
+<!ENTITY warnOnSendAccelKey.label             "Запрашивать подтверждение при использовании клавиатурных сокращений для отправки сообщений">
+<!ENTITY warnOnSendAccelKey.accesskey         "i">
+<!ENTITY autoSave.label                       "Автоматически сохранять сообщение каждые">
+<!ENTITY autoSave.accesskey                   "u">
+<!ENTITY autoSaveEnd.label                    "минут">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "Wrap plain text messages at">
+<!ENTITY wrapOutMsg.accesskey                 "l">
+<!ENTITY char.label                           "символы">
+
+<!ENTITY emailCollectionPicker.label           "Автоматически добавлять адреса из исходящих писем в адресную книгу:">
+<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY addressingTitle.label                 "Автодополнение адресов">
+<!ENTITY autocompleteText.label                "При вводе адреса искать подходящие почтовые адреса в:">
+<!ENTITY addressingEnable.label                "Локальных адресных книгах">
+<!ENTITY addressingEnable.accesskey            "a">
+<!ENTITY directories.label                     "Сервере каталогов:">
+<!ENTITY directories.accesskey                 "D">
+<!ENTITY editDirectories.label                 "Изменить каталоги…">
+<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY matchText.label                       "If there is a match in your local address books:">
+<!ENTITY skipDirectory.label                   "Do not search in the directory">
+
+<!ENTITY sendOptionsCaption.label              "Send and HTML Options">
+<!ENTITY sendOptionsDescription.label          "Текстовый формат:">
+<!ENTITY sendOptions.label                     "Параметры отправки…">
+<!ENTITY sendOptions.accesskey                 "S">

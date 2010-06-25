@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "Рассылки RSS">
+<!ENTITY subscriptionDesc.label "Примечание: Удаление или изменение папки ленты новостей не повлияет на ранее загруженные новости.">
+<!ENTITY feedTitle.label "Заголовок:">
+<!ENTITY location.label  "Адрес:">
+
+<!ENTITY button.addFeed.label       "Добавить">
+<!ENTITY button.addFeed.accesskey   "A">
+<!ENTITY button.editFeed.label      "Изменить">
+<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.removeFeed.label "Удалить">
+<!ENTITY button.removeFeed.accesskey   "R">
+<!ENTITY button.importOPML.label "Импортировать">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Экспортировать">
+<!ENTITY button.exportOPML.accesskey   "x">
+
+<!ENTITY cmd.close.commandKey             "w">

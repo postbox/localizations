@@ -1,0 +1,35 @@
+<!-- strings used in both the focus pane and the full text search focus pane -->
+<!ENTITY focusPaneFilterByTags.label    "Любимые метки">
+<!ENTITY focusPaneAllTags.label         "Все">
+<!ENTITY focusPaneNoTags.label          "Нет">
+
+<!-- strings used only in the full text search focus pane -->
+<!ENTITY focusPaneSearchScopeTitle.label       "Поиск">
+<!ENTITY focusPaneSearchScopeTitleMac.label    "ПОИСК">
+<!ENTITY focusPaneSearchScopeEverywhere.label  "Все учётные записи">
+<!ENTITY focusPaneSearchAttribute.label        "Атрибуты">
+<!ENTITY focusPaneSearchAttributeMac.label     "АТРИБУТЫ">
+<!ENTITY focusPaneAllAttribute.label           "Все">
+<!ENTITY focusPaneSubjectAttribute.label       "Тема">
+<!ENTITY focusPaneSenderAttribute.label        "Отправитель">
+<!ENTITY focusPaneRecipientsAttribute.label    "Recipients">
+<!ENTITY focusPaneFilterByDate.label    "Дата">
+<!ENTITY focusPaneFilterByDateMac.label "ДАТА">
+<!ENTITY focusPaneAnyDate.label         "Any Date">
+<!ENTITY focusPaneToday.label           "Сегодня">
+<!ENTITY focusPaneThisWeek.label        "Эта неделя">
+<!ENTITY focusPaneThisMonth.label       "Этот месяц">
+
+<!-- focus pane topics context menus -->
+<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Переименовать">
+<!ENTITY pbFavoriteTopicsContextMenu-edit.accesskey     "n">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Удалить из любимых">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.accesskey "R">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Удалить">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.accesskey   "D">
+<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Создать новую любимую метку">
+<!ENTITY pbFavoriteTopicsContextMenu-add.accesskey      "C">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Редактировать метки...">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.accesskey  "t">
+
+

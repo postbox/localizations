@@ -1,0 +1,36 @@
+<!-- extracted from AccountManager.xul -->
+
+<!ENTITY accountManagerTitle.label "Параметры учётной записи">
+
+<!ENTITY accountActionsButton.label "Действия с учётной записью">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Добавить учётную запись почты…">
+<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addOtherAccountButton.label "Добавить другую учётную запись…">
+<!ENTITY addOtherAccountButton.accesskey "O">
+<!ENTITY setDefaultButton.label "Установить по умолчанию">
+<!ENTITY setDefaultButton.accesskey "f">
+<!ENTITY removeButton.label "Удалить учётную запись">
+<!ENTITY removeButton.accesskey "R">
+
+<!-- AccountManager.xul -->
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     setting dialog, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY accountManager.size "width: 112ch; height: 49em;">
+
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     setting dialog, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY macAccountManager.size "width: 96ch; height: 50em;">
+<!ENTITY accountTree.width "width: 33ch;">

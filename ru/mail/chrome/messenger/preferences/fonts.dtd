@@ -1,0 +1,79 @@
+<!ENTITY  fontsAndEncodingsDialog.title           "Шрифты и кодировки">
+<!ENTITY  window.width                            "54em">
+<!ENTITY  window.macWidth                         "58em">
+<!ENTITY  window.unixWidth                        "56em">
+
+<!ENTITY  language.label                          "Шрифты для набора символов:">
+<!ENTITY  language.accesskey                      "t">
+
+<!ENTITY  typefaces.label                         "Typeface">
+<!ENTITY  sizes.label                             "Размер (в пикселях)">
+<!ENTITY  proportionalSize.accesskey              "м">
+<!ENTITY  monospaceSize.accesskey                 "x">
+
+<!ENTITY  proportional.label                      "Пропорциональный:">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "С засечками:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Без засечек:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Моноширинный:">
+<!ENTITY  monospace.accesskey                     "M">
+
+<!ENTITY  fontsize.units                          "пикселов">
+
+<!ENTITY  font.langGroup.latin1                   "Западноевропейский">
+<!ENTITY  font.langGroup.latin2                   "Центральноевропейский">
+<!ENTITY  font.langGroup.japanese                 "Японский">
+<!ENTITY  font.langGroup.trad-chinese             "Традиционный китайский (Тайвань)">
+<!ENTITY  font.langGroup.simpl-chinese            "Упрощённый китайский">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Традиционный китайский (Гонконг)">
+<!ENTITY  font.langGroup.korean                   "Корейский">
+<!ENTITY  font.langGroup.cyrillic                 "Кириллица">
+<!ENTITY  font.langGroup.baltic                   "Прибалтийский">
+<!ENTITY  font.langGroup.el                       "Греческий">
+<!ENTITY  font.langGroup.turkish                  "Турецкий">
+<!ENTITY  font.langGroup.unicode                  "Другие языки">
+<!ENTITY  font.langGroup.user-def                 "Определяется пользователем">
+<!ENTITY  font.langGroup.thai                     "Тайский">
+<!ENTITY  font.langGroup.hebrew                   "Иврит">
+<!ENTITY  font.langGroup.arabic                   "Арабский">
+<!ENTITY  font.langGroup.devanagari               "Деванагари">
+<!ENTITY  font.langGroup.tamil                    "Тамильский">
+<!ENTITY  font.langGroup.armenian                 "Армянский">
+<!ENTITY  font.langGroup.bengali                  "Бенгальский">
+<!ENTITY  font.langGroup.canadian                 "Общеканадский слоговой">
+<!ENTITY  font.langGroup.ethiopic                 "Эфиопский">
+<!ENTITY  font.langGroup.georgian                 "Грузинский">
+<!ENTITY  font.langGroup.gujarati                 "Гуджарати">
+<!ENTITY  font.langGroup.gurmukhi                 "Гурмуки">
+<!ENTITY  font.langGroup.khmer                    "Кхмерский">
+<!ENTITY  font.langGroup.malayalam                "Малайялам">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Наименьший размер шрифта:">
+<!ENTITY minSize.accesskey                        "z">
+<!ENTITY minSize.none                             "Нет">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "С засечками">
+<!ENTITY  useDefaultFontSansSerif.label           "Без засечек">
+
+<!ENTITY  newLanguages.label                      "Новые языки могут быть настроены через Панель языков.">
+
+<!ENTITY  useDocumentFonts.label                  "Разрешить сообщениям использовать другие шрифты">
+<!ENTITY  useDocumentFonts.accesskey              "o">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Исходящие сообщения:">
+<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY languagesTitle1.label            "Кодировки">
+<!ENTITY composingDescription.label       "Установить кодировку по умолчанию для входящих и исходящих сообщений">
+
+<!ENTITY viewDefaultCharsetList.label     "Входящие сообщения:">
+<!ENTITY viewDefaultCharsetList.accesskey  "I">
+<!ENTITY forceCharsetOverride.label       "Apply the default character encoding to all incoming messages">
+<!ENTITY forceCharsetOverride.accesskey   "A">
+<!ENTITY replyInDefaultCharset.label      "Use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset.accesskey  "h">

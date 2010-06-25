@@ -1,0 +1,39 @@
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Account-specific junk mail settings can be configured in Account Settings.">
+<!ENTITY manualMark.label "Когда я помечаю сообщения как спам:">
+<!ENTITY manualMark.accesskey "W">
+<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Удалить их">
+<!ENTITY manualMarkModeDelete.accesskey "t">
+<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY markAsReadOnSpam.accesskey "k">
+<!ENTITY enableJunkLogging.label "Включить журнал спам-фильтров">
+<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY openJunkLog.label "Показать журнал">
+<!ENTITY openJunkLog.accesskey "h">
+<!ENTITY resetTrainingData.label "Reset Training Data">
+<!ENTITY resetTrainingData.accesskey "D">
+<!ENTITY junkMail.label         "Junk Mail">
+
+<!-- Phishing Detector -->
+<!ENTITY enablePhishingDetector1.label    "Block reported e-mail scams">
+<!ENTITY enablePhishingDetector1.accesskey "B">
+
+<!-- Passwords -->
+<!ENTITY useMasterPassword.label              "Использовать мастер-пароль">
+<!ENTITY useMasterPassword.accesskey          "s">
+<!ENTITY changeMasterPassword.label           "Изменить Мастер-пароль...">
+<!ENTITY changeMasterPassword.accesskey       "M">
+<!ENTITY savedPasswords.label                 "Сохранённые пароли...">
+<!ENTITY savedPasswords.accesskey             "S">
+<!ENTITY passwords.label                       "Пароли">
+
+<!-- Anonymous Access -->
+<!ENTITY enableAnonymousStatistics.label       "Помочь сделать &brandShortName; лучше, разрешив отправку анонимных сведений.">
+<!ENTITY enableAnonymousStatistics.accesskey   "H">
+
+<!-- Remote images -->
+<!ENTITY disableImageInMailNews.label  "Блокировать загрузку изображений в сообщениях">
+<!ENTITY disableImageInMailNews.accesskey "r">
+

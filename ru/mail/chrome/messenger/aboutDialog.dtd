@@ -1,0 +1,8 @@
+<!ENTITY aboutDialog.title      "О &brandFullName;">
+<!ENTITY credits.label          "Авторы">
+<!ENTITY credits.accesskey      "C">
+<!ENTITY aboutLink.label        "&lt; О &brandFullName;">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutVersion           "версия">
+<!ENTITY copyrightText          "&#169;2007-2009 Postbox, Inc. и участники проекта. Все права защищены. Postbox
+                                 разработан и поддерживается Postbox, Inc.">

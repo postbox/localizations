@@ -1,0 +1,26 @@
+<!ENTITY licenseKey.label "Код лицензии:">
+<!ENTITY name.label "Имя:">
+<!ENTITY enterLicense.label "Ввести код лицензии сейчас">
+<!ENTITY enterLicenseTitle.label "Введите код лицензии Postbox">
+<!ENTITY enterLicenseInfo.label "Пожалуйста, введите свое имя и код лицензии в поля ниже:">
+<!ENTITY invalidLicense.label "Почти готово... Пожалуйста, введите ваше имя и код лицензии так, как они отображены в вашем письме с лицензией.">
+
+<!ENTITY changeLicenseTitle.label "Код лицензии Postbox">
+<!ENTITY changeLicenseInfo.label "Эта копия Postbox зарегистрирована на:">
+<!ENTITY changeLicense.label "Изменить код лицензии">
+
+<!ENTITY referFriend.label "Get Referral Code">
+
+<!ENTITY licenseConfirmed.label "Код лицензии подтверждён!">
+
+<!ENTITY thanksTitle.label "Спасибо за приобретение Postbox!">
+
+<!ENTITY thanksInfo2a.label "Вы можете получить информацию о новостях, обновлениях и специальных акциях Postbox, подписавшись на нашу ">
+<!ENTITY PostboxNewsletter.label "рассылку">
+<!ENTITY thanksInfo2b.label ".">
+
+<!ENTITY thanksInfo3a.label "For up to the minute news, please visit our ">
+<!ENTITY PostboxBlog.label "Блог">
+<!ENTITY thanksInfo3b.label " or follow us on ">
+<!ENTITY PostboxTwitter.label "Твиттер">
+<!ENTITY thanksInfo3c.label ".">

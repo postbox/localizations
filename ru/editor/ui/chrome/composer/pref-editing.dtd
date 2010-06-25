@@ -1,0 +1,28 @@
+<!ENTITY  pref.editing.title        "Настройки для новой страницы">
+
+<!ENTITY  authorName.label          "Автор:">
+<!ENTITY  authorName.accesskey      "u">
+<!ENTITY  pageColorHeader           "Оформление по умолчанию">
+
+<!ENTITY defaultColors.label        "Цвета пользователя по умолчанию (не устанавливать цвета на странице)">
+<!ENTITY defaultColors.accesskey    "d">
+<!ENTITY customColors.label         "Использовать цвета:">
+<!ENTITY customColors.accesskey     "c">
+
+<!ENTITY normalText.label           "Обычный текст">
+<!ENTITY normalText.accesskey       "N">
+<!ENTITY linkText.label             "Текст ссылки">
+<!ENTITY linkText.accesskey         "L">
+<!ENTITY activeLinkText.label       "Активная ссылка">
+<!ENTITY activeLinkText.accesskey   "A">
+<!ENTITY visitedLinkText.label      "Просмотренная ссылка">
+<!ENTITY visitedLinkText.accesskey  "V">
+<!ENTITY background.label           "Фон:">
+<!ENTITY background.accesskey       "B">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "Фоновое изображение:">
+<!ENTITY backgroundImage.accesskey  "m">
+<!ENTITY chooseFile.label           "Выбрать файл…">
+<!ENTITY chooseFile.accesskey       "o">
+

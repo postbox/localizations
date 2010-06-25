@@ -1,0 +1,22 @@
+<!ENTITY newsblogTitle.label "Параметры учётной записи RSS">
+
+<!ENTITY indexMsgs.label "Индексация сообщений">
+<!ENTITY indexMsgs.accesskey "I">
+
+<!ENTITY biffStart.label "Проверять наличие новых статей каждые">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "минут">
+
+<!ENTITY loginAtStartup.label "Проверять наличие новых статей при запуске"> 
+<!ENTITY loginAtStartup.accesskey "C">
+
+<!ENTITY useQuickMode.label "По умолчанию показывать краткое описание статьи вместо загрузки веб-страницы"> 
+<!ENTITY useQuickMode.accesskey "-">
+
+<!ENTITY manageSubscriptions.label "Управление подписками…"> 
+<!ENTITY manageSubscriptions.accesskey "M">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "Новости и блоги">
+<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardLongName         "RSS-новости и блоги">

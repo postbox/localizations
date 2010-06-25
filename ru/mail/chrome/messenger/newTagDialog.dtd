@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "Создание новой метки">
+<!ENTITY name.label              "Имя метки:">
+<!ENTITY name.accesskey          "T">

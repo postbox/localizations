@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "Дополнительные параметры учётной записи">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "Advanced IMAP Server Settings">
+<!ENTITY serverDirectory.label "Каталог IMAP-сервера:">
+<!ENTITY serverDirectory.accesskey "I">
+<!ENTITY usingSubscription.label "Показывать только папки на которые вы подписаны">
+<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY dualUseFolders.label "Сервер поддерживает папки, содержащие вложенные папки и сообщения">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY useIdle.label "Использовать команду IDLE, если её поддерживает сервер">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Максимальное число кэшируемых соединений">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "Эти настройки определяют пространства имён на вашем IMAP-сервере">
+<!ENTITY personalNamespace.label "Личное пространство имён:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "Общее (совместно используемое):">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY otherUsersNamespace.label "Другие пользователи:">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "Разрешить серверу перекрывать эти пространства имён">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "При получении почты c данного сервера POP3, помещать её в следующую папку:" >
+<!ENTITY folderStorage.label "Where to store mail">
+<!ENTITY globalInbox.label "Общая папка «Входящие» (находится в «Локальных папках»)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "«Входящие» для данной учётной записи">
+<!ENTITY accountDirectory.accesskey "s">
+<!ENTITY deferToServer.label "«Входящие» для другой учётной записи">
+<!ENTITY deferToServer.accesskey "d">
+<!ENTITY deferGetNewMail.label "Загружать почту с данного сервера">
+<!ENTITY deferGetNewMail.accesskey "I">

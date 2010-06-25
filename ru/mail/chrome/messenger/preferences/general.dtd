@@ -1,0 +1,43 @@
+<!ENTITY systemDefaults.label              "Системные умолчания">
+<!ENTITY alwaysCheckDefault.label          "Всегда проверять при запуске, является ли &brandShortName; почтовым клиентом по умолчанию">
+<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "Проверить сейчас">
+<!ENTITY checkNow.accesskey         "N">
+
+<!ENTITY allowSpotlight.label              "Позволить Spotlight производить поиск сообщений">
+<!ENTITY allowSpotlight.accesskey          "S">
+
+<!ENTITY messengerStartPage.label         "Стартовая страница &brandShortName;">
+<!ENTITY location.label                   "Адрес:">
+<!ENTITY location1.accesskey               "д">
+<!ENTITY useDefault.label                 "Восстановить">
+<!ENTITY useDefault.accesskey             "R">
+
+<!ENTITY bounceSystemDockIcon.label       "Анимация значка в Dock">
+<!ENTITY bounceSystemDockIcon.accesskey   "D">
+
+<!ENTITY newMessagesArrive.label          "При появлении новых сообщений:">
+<!ENTITY playSound.label                  "Подавать звуковой сигнал">
+<!ENTITY playSound1.accesskey              "в">
+<!ENTITY showAnimatedAlert.label          "Показывать уведомление">
+<!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY customizeMailAlert.label         "Настроить…">
+<!ENTITY customizeMailAlert.accesskey     "C">
+
+<!ENTITY soundNotification1.caption       "Звук">
+<!ENTITY play.label                       "Прослушать">
+<!ENTITY play.accesskey                   "P">
+<!ENTITY systemsound.label                "Системный звуковой сигнал о приходе почты">
+<!ENTITY systemsoundMac.label             "Системный звуковой сигнал оповещения">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "Использовать следующий звуковой файл">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "Обзор…">
+<!ENTITY browse.accesskey                 "B">

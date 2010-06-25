@@ -1,0 +1,93 @@
+<!ENTITY itemGeneral.label       "Основные">
+<!ENTITY itemUpdate.label        "Обновления">
+<!ENTITY itemNetworking.label    "Сеть и дисковое пространство">
+<!ENTITY itemCertificates.label  "Сертификаты">
+<!ENTITY itemWebServices.label   "Веб-сервисы">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "Показывать только имя для людей, находящихся в моей адресной книге">
+<!ENTITY showCondensedAddresses.accesskey "p">
+
+<!ENTITY autoMarkAsRead.label          "Автоматически отмечать сообщения как прочитанные">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "Немедленно при просмотре">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "После просмотра в течение">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "сек.">
+<!ENTITY showFolderColumns.label       "Show expanded columns in the folder pane">
+<!ENTITY showFolderColumns.accesskey   "l">
+<!ENTITY rememberLastMsg.label         "Помнить последнее выбранное сообщение">
+<!ENTITY rememberLastMsg.accesskey     "b">
+<!ENTITY openMsgIn1.label              "Открывать новые сообщения в:">
+<!ENTITY openMsgInNewTab.label          "новой вкладке">
+<!ENTITY openMsgInNewTab.accesskey      "a">
+<!ENTITY openMsgInNewWindow.label       "новом окне">
+<!ENTITY openMsgInNewWindow.accesskey   "i">
+<!ENTITY openMsgInExistingWindow.label  "в существующем окне">
+<!ENTITY openMsgInExistingWindow.accesskey "x">
+<!ENTITY connectionTimeout.label       "Connection timeout: ">
+<!ENTITY connectionTimeout.accesskey   "C">
+<!ENTITY connectionSeconds.label       "сек.">
+<!ENTITY configEditDesc.label          "Дополнительные настройки">
+<!ENTITY configEdit.label              "Редактор настроек…">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "Определите, как &brandShortName; должен обрабатывать уведомления о прочтении">
+<!ENTITY showReturnReceipts.label      "Уведомления о прочтении…">
+<!ENTITY showReturnReceipts.accesskey  "R">
+<!ENTITY macEnableSpotlight.label      "Включить интеграцию со Spotlight">
+<!ENTITY macEnableSpotlight.accesskey  "S">
+<!-- Update -->
+<!ENTITY autoCheck.label                "Автоматически проверять наличие обновлений для:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "P">
+<!ENTITY enableAddonsUpdate.label       "Установленных дополнений">
+<!ENTITY enableAddonsUpdate.accesskey   "t">
+<!ENTITY checkNow.label                 "Проверить сейчас">
+<!ENTITY whenUpdatesFound.label         "Если для &brandShortName; найдены обновления:">
+<!ENTITY modeAskMe.label                "Спросить меня что делать">
+<!ENTITY modeAskMe.accesskey            "k">
+<!ENTITY modeAutomatic.label            "Автоматически загружать и устанавливать обновления">
+<!ENTITY modeAutomatic.accesskey        "m">
+<!ENTITY modeAutoAddonWarn.label        "Предупреждать, если при данном действии будут отключены какие-либо дополнения">
+<!ENTITY modeAutoAddonWarn.accesskey    "-">
+<!ENTITY showUpdates.label              "Показать журнал обновлений">
+<!ENTITY showUpdates.accesskey          "y">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Соединение...">
+<!ENTITY showConnections.accesskey     "n">
+<!ENTITY proxiesInfo.label             "Determine how &brandShortName; connects to the Internet.">
+<!ENTITY connectionsInfo.caption       "Соединение">
+<!ENTITY offlineInfo.caption           "Автономная работа">
+<!ENTITY offlineInfo.label             "Настройка параметров автономной работы">
+<!ENTITY showOffline.label             "Автономная работа…">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY Diskspace "Дисковое пространство">
+<!ENTITY offlineCompact.label "Сжимать папки, если при этом высвободится более">
+<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY kb.label "КБ">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certs.auto                      "Select one automatically">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Ask me every time">
+<!ENTITY certs.ask.accesskey             "A">
+
+<!ENTITY viewCertificates.label         "Просмотр сертификатов">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCRLs.label                 "Списки отзыва сертификатов">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY viewOCSP.label                 "Подтверждение">
+<!ENTITY viewOCSP.accesskey             "f">
+<!ENTITY viewSecurityDevices.label      "Устройства защиты">
+<!ENTITY viewSecurityDevices.accesskey  "u">
+
+<!-- Web Services -->
+<!ENTITY webservicesInfo.label          "Настройка веб-сервисов для использования через Postbox.">

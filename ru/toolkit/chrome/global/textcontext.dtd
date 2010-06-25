@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "Вырезать">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Копировать">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Вставить">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY undoCmd.label "Отменить">
+<!ENTITY undoCmd.accesskey "U">
+<!ENTITY selectAllCmd.label "Выделить всё">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY deleteCmd.label "Удалить">
+<!ENTITY deleteCmd.accesskey "D">
+
+<!ENTITY spellAddToDictionary.label "Добавить в словарь">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellCheckEnable.label "Проверка правописания">
+<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellNoSuggestions.label "(предположений не найдено)">
+<!ENTITY spellDictionaries.label "Языки">
+<!ENTITY spellDictionaries.accesskey "L">

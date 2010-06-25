@@ -1,0 +1,41 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Копии и папки">
+<!ENTITY sendingPrefix.label "При отправлении сообщений автоматически:">
+<!ENTITY fccMailFolder.label "Поместить копию сообщения в:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "Сохранять ответы в папке оригинала">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "Выбрать папку...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Отправлять скрытые копии по адресам:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Специальные папки">
+<!ENTITY draftMailFolder.label "Хранить черновики сообщений в:">
+<!ENTITY templateMailFolder.label "Хранить шаблоны сообщений в:">
+<!ENTITY saveMessageDlg.label "Запрашивать подтверждение при сохранении сообщений">
+<!ENTITY saveMessageDlg.accesskey "S">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "папку «Отправленные» в:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "Другую папку:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "папке «Черновики» в:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "Другой папке:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "папке «Архивы» в:">
+<!ENTITY archivesFolderOn.accesskey "n">
+<!ENTITY archiveInOtherFolder.label "Другой папке:">
+<!ENTITY archiveInOtherFolder.accesskey "h">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "папке «Шаблоны» в:">
+<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templateInOtherFolder.label "Другой папке:">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "Черновики, архивы и шаблоны">
+<!ENTITY keepDrafts.label "Хранить черновики сообщений в:">
+<!ENTITY keepArchives.label "Хранить архивированные сообщения в:">
+<!ENTITY keepTempltes.label "Хранить шаблоны сообщений в:">

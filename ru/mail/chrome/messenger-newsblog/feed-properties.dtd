@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title             "Свойства подписки на ленту новостей">
+
+<!ENTITY feedFolder.label         "Хранить статьи в:">
+<!ENTITY feedFolder.accesskey     "S">
+
+<!ENTITY feedLocation.label       "Адрес ленты новостей:">
+<!ENTITY feedLocation.accesskey   "F">
+
+<!ENTITY choosethisfolder.label   "выбрать эту папку">
+
+<!ENTITY quickMode.label          "Показывать краткое описание статьи вместо загрузки веб-страницы">
+<!ENTITY quickMode.accesskey      "-">
+
+<!ENTITY copyLinkCmd.label        "Копировать ссылку">
+<!ENTITY copyLinkCmd.accesskey    "C">
+
+<!ENTITY pasteLinkCmd.label       "Вставить">
+<!ENTITY pasteLinkCmd.accesskey   "P">

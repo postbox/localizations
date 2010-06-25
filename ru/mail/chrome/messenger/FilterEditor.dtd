@@ -1,0 +1,53 @@
+<!ENTITY window.title "Правила фильтрации">
+<!ENTITY subject.label "тема">
+<!ENTITY sender.label "отправитель">
+<!ENTITY date.label "дата">
+<!ENTITY anyText.label "any text">
+<!ENTITY keyword.label "ключевое слово">
+<!ENTITY age.label "возраст в днях">
+<!ENTITY to.label "для">
+
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+<!ENTITY cc.label "Копия">
+
+<!ENTITY status.label "статус">
+<!ENTITY priority.label "priority">
+<!ENTITY body.label "body">
+<!ENTITY contains.label "содержит">
+<!ENTITY nocontains.label "не содержит">
+<!ENTITY filterName.label "Имя фильтра:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "Спам">
+<!ENTITY notJunk.label "Не спам">
+
+<!ENTITY lowestPriorityCmd.label "самую низкую">
+<!ENTITY lowPriorityCmd.label "низкую">
+<!ENTITY normalPriorityCmd.label "обычную">
+<!ENTITY highPriorityCmd.label "высокую">
+<!ENTITY highestPriorityCmd.label "самую высокую">
+
+<!ENTITY conditionDesc.label "For incoming messages which:">
+<!ENTITY filterActionDesc.label "Выполнять следующие действия:">
+<!ENTITY filterActionDesc.accesskey "P">
+
+<!ENTITY newFolderButton.label "Создать папку…">
+<!ENTITY newFolderButton.accesskey "N">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Переместить сообщение в">
+<!ENTITY copyMessage.label "Копировать сообщение в">
+<!ENTITY forwardTo.label "Переслать сообщение на">
+<!ENTITY replyWithTemplate.label "Ответить по шаблону">
+<!ENTITY markMessageRead.label "Отметить как прочитанное">
+<!ENTITY markMessageStarred.label "Отметить звёздочкой">
+<!ENTITY labelMessage.label "Пометить сообщение как">
+<!ENTITY setPriority.label "Изменить важность на">
+<!ENTITY addTag.label "Присвоить сообщению метку">
+<!ENTITY setJunkScore.label "Установить метку спама">
+<!ENTITY deleteMessage.label "Удалить сообщение">
+<!ENTITY deleteFromPOP.label "Удалить с сервера POP">
+<!ENTITY fetchFromPOP.label "Загрузить с сервера POP">
+<!ENTITY ignoreThread.label "Пропустить обсуждение">
+<!ENTITY watchThread.label "Отслеживать обсуждение">
+<!ENTITY stopExecution.label "Остановить выполнение фильтра">

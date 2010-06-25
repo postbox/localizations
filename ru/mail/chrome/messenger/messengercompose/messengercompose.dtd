@@ -1,0 +1,317 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Создание сообщения: (без темы)">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label "Файл"> 
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY newMenu.label "Создать">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newMessage.label "Сообщение">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "M">
+<!ENTITY newCard.label "Address Book Card...">
+<!ENTITY newCard.accesskey "C">
+<!ENTITY emptyAttachmentBucket.label "Добавить файлы...">
+<!ENTITY attachMenu.label "Вложить">
+<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachFileCmd.label "Файл(ы)…">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachPageCmd.label "Веб-страницу…">
+<!ENTITY attachPageCmd.accesskey "-">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Визитную карточку (vCard)">
+<!ENTITY attachVCardCmd.accesskey "v">
+<!ENTITY closeCmd.label "Закрыть">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY saveCmd.label "Сохранить">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveAsCmd.label "Сохранить как">
+<!ENTITY saveAsCmd.accesskey "a">
+<!ENTITY saveAsFileCmd.label "Файл…">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "Черновик">
+<!ENTITY saveAsDraftCmd.accesskey "D">
+<!ENTITY saveAsTemplateCmd.label "Шаблон">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY sendNowCmd.label "Отправить">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendCmdMac.keycode "D">
+<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendLaterCmd.label "Отправить позже">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY printSetupCmd.label "Параметры страницы…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printCmd.label "Печать…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY quitApplicationCmdWin.label                    "Выход"> 
+<!ENTITY quitApplicationCmdWin.accesskey                "x">
+<!ENTITY quitApplicationCmd.label                       "Выход"> 
+<!ENTITY quitApplicationCmd.accesskey                   "Q">
+<!ENTITY quitApplicationCmd.key "Q"> 
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label "Правка"> 
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY undoCmd.label "Отменить">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "U"> 
+<!ENTITY redoCmd.label "Повторить">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "R"> 
+<!ENTITY cutCmd.label "Вырезать">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t"> 
+<!ENTITY copyCmd.label "Копировать">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "C"> 
+<!ENTITY pasteCmd.label "Вставить">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY editRewrapCmd.label "Переформатировать">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY deleteCmd.label "Удалить">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "D">
+<!ENTITY selectAllCmd.label "Выделить всё">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "A"> 
+<!ENTITY findCmd.label "Найти и заменить…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "Найти ещё раз">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Найти предыдущее">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "v"> 
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label "Вид"> 
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY customizeToolbar.label "Настроить…">
+<!ENTITY customizeToolbar.accesskey "t">
+<!ENTITY showFormatToolbarCmd.label "Панель форматирования">
+<!ENTITY showFormatToolbarCmd.accesskey "F">
+
+<!-- Format Menu -->
+<!ENTITY formatMenu.label "Формат">
+<!ENTITY formatMenu.accesskey "o">
+
+<!-- Options Menu -->
+<!ENTITY optionsMenu.label "Настройки">
+<!ENTITY optionsMenu.accesskey "p">
+<!ENTITY checkSpellingCmd.label "Проверка орфографии...">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.key2 "VK_F7">
+<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY enableInlineSpellChecker.label "Проверка орфографии при наборе текста">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY quoteCmd.label "Цитировать сообщение">
+<!ENTITY quoteCmd.accesskey "Q">
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCard.label "Вложить визитную карточку (vCard)">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY returnReceiptMenu.label "Уведомление о прочтении">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "Уведомление о доставке">
+<!ENTITY dsnMenu.accesskey "N">
+<!ENTITY outputFormatMenu.label "Формат">
+<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY autoFormatCmd.label "Автоопределение">
+<!ENTITY autoFormatCmd.accesskey "A">
+<!ENTITY plainTextFormatCmd.label "Только простой текст">
+<!ENTITY plainTextFormatCmd.accesskey "P">
+<!ENTITY htmlFormatCmd.label "Форматированный текст (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "H">
+<!ENTITY bothFormatCmd.label "Обычный текст и HTML">
+<!ENTITY bothFormatCmd.accesskey "H">
+<!ENTITY priorityMenu.label "Важность">
+<!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityButton.label "Важность:">
+<!ENTITY lowestPriorityCmd.label "Самая низкая">
+<!ENTITY lowestPriorityCmd.accesskey "L">
+<!ENTITY lowPriorityCmd.label "Низкая">
+<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY normalPriorityCmd.label "Обычная">
+<!ENTITY normalPriorityCmd.accesskey "N">
+<!ENTITY highPriorityCmd.label "Высокая">
+<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highestPriorityCmd.label "Самая высокая">
+<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY fileCarbonCopyCmd.label "Поместить копию в папку">
+<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileHereMenu.label "Поместить сюда">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Инструменты">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY messengerCmd.label "Почта и группы новостей">
+<!ENTITY messengerCmd.accesskey "M">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Адресная книга">
+<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY accountManagerCmd.label "Параметры учётной записи…">
+<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmdUnix.accesskey "м">
+<!ENTITY preferencesCmd.label "Настройки…">
+<!ENTITY preferencesCmd.key "O">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label       "Настройки">
+<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Убрать в Dock">
+<!ENTITY bringAllToFront.label "Все окна — на передний план">
+<!ENTITY zoomWindow.label "Изменить масштаб"> 
+<!ENTITY windowMenu.label "Окно"> 
+
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "Справка">
+<!ENTITY helpMenu.accesskey "H"> 
+<!ENTITY releaseCmd.label "Примечания к выпуску">
+<!ENTITY releaseCmd.accesskey "R"> 
+<!ENTITY hintsAndTips.label "Справка &brandShortName;">
+<!ENTITY hintsAndTips.accesskey "H"> 
+<!ENTITY hintsAndTipsMac.commandkey "?">
+<!ENTITY aboutCmd.label "О &brandShortName;">
+<!ENTITY aboutCmd.accesskey "A">
+
+<!-- Mail Toolbar -->
+<!ENTITY sendButton.label "Отправить">
+<!ENTITY quoteButton.label "Цитата">
+<!ENTITY addressButton.label "Адрес">
+<!ENTITY attachButton.label "Вложить">
+<!ENTITY spellingButton.label "Орфография">
+<!ENTITY saveButton.label "Сохранить">
+<!ENTITY tagButton.label "Назначить метку">
+<!ENTITY throbberItem.title "Индикатор активности">
+
+<!-- Mail Toolbar Tooltips -->
+<!ENTITY sendButton.tooltip "Отправить это сообщение сейчас"> 
+<!ENTITY sendlaterButton.tooltip "Отправить это сообщение позже"> 
+<!ENTITY quoteButton.tooltip "Цитировать предыдущее сообщение"> 
+<!ENTITY addressButton.tooltip "Выбрать адресата из адресной книги"> 
+<!ENTITY attachButton.tooltip "Вложить файл в это сообщение"> 
+<!ENTITY saveButton.tooltip "Сохранить это сообщение"> 
+<!ENTITY cutButton.tooltip              "Вырезать">
+<!ENTITY copyButton.tooltip             "Копировать">
+<!ENTITY pasteButton.tooltip            "Вставить">
+<!ENTITY tagButton.tooltip "Добавить метку(и) для сообщения">
+
+<!-- Headers -->
+<!ENTITY fromHeader.label "От">
+<!ENTITY fromHeader.accesskey "r">
+<!ENTITY subjectHeader.label "Тема">
+<!ENTITY subjectHeader.accesskey "S">
+<!ENTITY toAddr.label "Кому:"> 
+<!ENTITY ccAddr.label "Копия:"> 
+<!ENTITY bccAddr.label "Скрытая копия:"> 
+<!ENTITY replyAddr.label "Обратный адрес:"> 
+<!ENTITY newsgroupsAddr.label "Группа новостей:"> 
+<!ENTITY followupAddr.label "Ответ в группу новостей:"> 
+<!ENTITY attachmentsHeader.label "Вложения">
+<!ENTITY attachmentsHeader.accesskey "e">
+<!ENTITY tagHeader.label "Метки">
+<!ENTITY tagHeader.accesskey "o">
+<!ENTITY tagMessageButton.tooltip     "Добавить метку(и) к этому сообщению.">
+<!ENTITY compose.todo.label "Звёздочка">
+<!ENTITY compose.todo.tooltip "Make this message a To-Do">
+<!ENTITY compose.addresses.label "Адреса">
+
+<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+<!ENTITY SmileButton.tooltip "Вставить смайлик">
+<!ENTITY smiley1Cmd.label "Улыбка">
+<!ENTITY smiley2Cmd.label "Нахмуриться">
+<!ENTITY smiley3Cmd.label "Подмигивание">
+<!ENTITY smiley4Cmd.label "Язык">
+<!ENTITY smiley5Cmd.label "Смех">
+<!ENTITY smiley6Cmd.label "Смущение">
+<!ENTITY smiley7Cmd.label "Нерешительность">
+<!ENTITY smiley8Cmd.label "Сюрприз">
+<!ENTITY smiley9Cmd.label "Поцелуй">
+<!ENTITY smiley10Cmd.label "Вопль">
+<!ENTITY smiley11Cmd.label "Класс">
+<!ENTITY smiley12Cmd.label "Денежки">
+<!ENTITY smiley13Cmd.label "В рот мне ноги">
+<!ENTITY smiley14Cmd.label "Невинность">
+<!ENTITY smiley15Cmd.label "Плач">
+<!ENTITY smiley16Cmd.label "Рот на замке">
+
+<!-- Message Pane Context Menu -->
+<!ENTITY spellAddToDictionary.label                  "Добавить в словарь">
+<!ENTITY spellAddToDictionary.accesskey              "o">
+<!ENTITY spellNoSuggestions.label                    "(предположений не найдено)">
+<!ENTITY spellCheckEnable.label                      "Проверка правописания">
+<!ENTITY spellCheckEnable.accesskey                  "S">
+<!ENTITY spellDictionaries.label                     "Языки">
+<!ENTITY spellDictionaries.accesskey                 "L">
+<!ENTITY spellCheckIgnoreWord.label "Пропустить слово">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY undo.label "Отменить">
+<!ENTITY undo.accesskey "U">
+<!ENTITY cut.label "Вырезать">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copy.label "Копировать">
+<!ENTITY copy.accesskey "C">
+<!ENTITY paste.label "Вставить">
+<!ENTITY paste.accesskey "P">
+<!ENTITY pasteQuote.label "Вставить как цитату">
+<!ENTITY pasteQuote.accesskey "Q">
+
+<!ENTITY openAttachment.label "Открыть">
+<!ENTITY openAttachment.accesskey "O">
+<!ENTITY delete.label "Удалить">
+<!ENTITY delete.accesskey "D">
+<!ENTITY selectAll.label "Выделить всё">
+<!ENTITY selectAll.accesskey "A">
+<!ENTITY attachFile.label "Вложить файл(ы)…">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachPage.label "Вложить веб-страницу…">
+<!ENTITY attachPage.accesskey "-">
+
+<!-- Title for the address picker panel -->
+<!ENTITY addressesSidebarTitle.label "Контакты">
+
+<!-- for rich search in compose -->
+<!ENTITY contactsButton.tooltip                 "Поиск контактов">
+<!ENTITY imagesButton.tooltip                   "Поиск изображений">
+<!ENTITY attachmentsButton.tooltip              "Поиск вложений">
+<!ENTITY linksButton.tooltip                    "Поиск ссылок">
+<!ENTITY placesButton.tooltip                   "Find places">
+<!ENTITY researchButton.tooltip                 "Find references">
+<!ENTITY signaturesButton.tooltip               "Поиск подписей">
+
+<!-- this is an entity because it can vary by locale, and which type has the most kinds on the locale 
+     for en-US, it is "Research", which has "Wikipedia" + "Dictionary" + "Thesaurus" -->
+<!ENTITY compose-alley-default-width            "260">
+
+<!-- topic context menu -->
+<!ENTITY pbTopicContextMenu-edit.label         "Изменить">
+<!ENTITY pbTopicContextMenu-edit.accesskey     "E">
+<!ENTITY pbTopicContextMenu-favorite.label     "Любимая">
+<!ENTITY pbTopicContextMenu-favorite.accesskey "F">
+<!ENTITY pbTopicContextMenu-remove.label       "Удалить">
+<!ENTITY pbTopicContextMenu-remove.accesskey   "R">
+<!ENTITY pbTopicContextMenu-editAll.label      "Редактировать метки...">
+<!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
+
+<!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
+
+<!ENTITY pbComposeSidebar.label "Боковая панель">
+<!ENTITY pbComposeSidebar.accesskey "S">

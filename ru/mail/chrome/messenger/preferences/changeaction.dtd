@@ -1,0 +1,23 @@
+<!ENTITY  changeAction.title                  "Изменить действие">
+<!ENTITY  window.width                         "48em">
+
+<!ENTITY  whenDownloading.label               "When downloading files like this:">
+
+<!ENTITY  openDefault.label                   "Открывать их в программе по умолчанию:">
+<!ENTITY  openDefault.accesskey               "O">
+<!ENTITY  openApplication.label               "Открывать их в этом приложении:">
+<!ENTITY  openApplication.accesskey           "e">
+<!ENTITY  changeApp.label                     "Обзор…">
+<!ENTITY  changeApp.accesskey                 "B">
+<!ENTITY  saveToDisk.label                    "Save them on my computer">
+<!ENTITY  saveToDisk.accesskey                "S">
+<!ENTITY  saveToDefaultFolder.label           "в папку для загрузок по умолчанию">
+<!ENTITY  saveToDefaultFolder.accesskey       "d">
+<!ENTITY  saveToThisFolder.label              "в этой папке:">
+<!ENTITY  saveToThisFolder.accesskey          "h">
+<!ENTITY  chooseFolder.label                  "Обзор…">
+<!ENTITY  chooseFolder.accesskey              "w">
+<!ENTITY  saveToAskMe.label                   "спрашивать меня, куда сохранять файл">
+<!ENTITY  saveToAskMe.accesskey               "a">
+<!ENTITY  usePlugin.label                     "Использовать этот плагин:">
+<!ENTITY  usePlugin.accesskey                 "P">

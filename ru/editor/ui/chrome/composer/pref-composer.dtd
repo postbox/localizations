@@ -1,0 +1,25 @@
+<!-- extracted from content/pref-composer.xul -->
+
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+<!ENTITY  pref.composer.title           "Компоновщик">
+<!ENTITY  recentFiles.title             "Последние открытые страницы">
+<!ENTITY  documentsInMenu.label         "Наибольшее число страниц в списке:">
+<!ENTITY  documentsInMenu.accesskey     "n">
+<!ENTITY  savingFiles.title             "При сохранении файлов">
+<!ENTITY  preserveExisting.label        "Сохранять исходное форматирование">
+<!ENTITY  preserveExisting.accesskey    "P">
+<!ENTITY  preserveExisting.tooltip      "Сохраняет переносы и исходную структуру страницы">
+<!ENTITY  saveAssociatedFiles.label     "Сохранять изображения и другие связанные файлы при сохранении страниц">
+<!ENTITY  saveAssociatedFiles.accesskey "S">
+<!ENTITY  showPublishDialog.label       "Всегда показывать окно «Публикация» при публикации страниц">
+<!ENTITY  showPublishDialog.accesskey   "A">
+<!ENTITY  composerEditing.label         "Редактирование">
+<!ENTITY  maintainStructure.label       "Сохранять общую схему таблицы при вставке или удалении ячеек">
+<!ENTITY  maintainStructure.tooltip     "Предотвращает сжатие границ при удалении одной или более ячеек">
+<!ENTITY  maintainStructure.accesskey   "M">
+<!ENTITY  useCSS.label                  "Использовать стили CSS вместо HTML-элементов и атрибутов">
+<!ENTITY  useCSS.accesskey              "C">
+<!ENTITY  crInPCreatesNewP.label        "Нажатие клавиши «Enter» в параграфе приводит к автоматическому созданию нового параграфа">
+<!ENTITY  crInPCreatesNewP.accesskey    "E">

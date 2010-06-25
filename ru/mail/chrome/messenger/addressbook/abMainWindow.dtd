@@ -1,0 +1,236 @@
+<!ENTITY addressbookWindow.title                        "Адресная книга">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label                                 "Файл">
+<!ENTITY fileMenu.accesskey                             "F">
+<!ENTITY newMenu.label                                  "Создать">
+<!ENTITY newMenu.accesskey                              "N">
+<!ENTITY newCard.label                                  "Address Book Card...">
+<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newCard.accesskey                              "C">
+<!ENTITY newCard.key                                    "N">
+<!ENTITY newListCmd.label                               "Список рассылки…">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newListCmd.accesskey                           "l">
+<!ENTITY newAddressBookCmd.label                        "Адресную книгу…">
+<!ENTITY newAddressBookCmd.accesskey                    "B">
+<!ENTITY newLDAPDirectoryCmd.label                      "Каталог LDAP…">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newMessageCmd.label                            "Сообщение">
+<!ENTITY newMessageCmd.key                              "M">
+<!ENTITY newMessageCmd.accesskey                        "M">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Использовать адресную книгу Mac OS X">
+<!ENTITY osxAddressBook.accesskey                       "O">
+<!ENTITY closeCmd.label                                 "Закрыть">
+<!ENTITY closeCmd.key                                   "W">
+<!ENTITY closeCmd.accesskey                             "C">
+<!ENTITY printSetupCmd.label                            "Параметры страницы…">
+<!ENTITY printSetupCmd.accesskey                        "u">
+<!ENTITY printPreviewCardViewCmd.label                  "Print Preview Card">
+<!ENTITY printPreviewCardViewCmd.accesskey              "v">
+<!ENTITY printPreviewAddressBook.label                  "Предварительный просмотр адресной книги">
+<!ENTITY printPreviewAddressBook.accesskey              "B">
+<!ENTITY printCardViewCmd.label                         "Print Card...">
+<!ENTITY printCardViewCmd.accesskey                     "P">
+<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
+<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printAddressBook.label                         "Печать адресной книги…">
+<!ENTITY printAddressBook.accesskey                     "A">
+
+<!ENTITY quitApplicationCmdWin.label                    "Выход"> 
+<!ENTITY quitApplicationCmdWin.accesskey                "x">
+<!ENTITY quitApplicationCmd.label                       "Выход"> 
+<!ENTITY quitApplicationCmd.accesskey                   "Q">
+<!ENTITY quitApplicationCmd.key "Q">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label                                 "Правка">
+<!ENTITY editMenu.accesskey                             "E">
+<!ENTITY undoCmd.label                                  "Отменить">
+<!ENTITY undoCmd.key                                    "Z">
+<!ENTITY undoCmd.accesskey                              "U">
+<!ENTITY redoCmd.label                                  "Повторить">
+<!ENTITY redoCmd.key                                    "Y">
+<!ENTITY redoCmd.accesskey                              "R">
+<!ENTITY cutCmd.label                                   "Вырезать">
+<!ENTITY cutCmd.key                                     "X">
+<!ENTITY cutCmd.accesskey                               "t">
+<!ENTITY copyCmd.label                                  "Копировать">
+<!ENTITY copyCmd.key                                    "C">
+<!ENTITY copyCmd.accesskey                              "C">
+<!ENTITY pasteCmd.label                                 "Вставить">
+<!ENTITY pasteCmd.key                                   "V">
+<!ENTITY pasteCmd.accesskey                             "P">
+<!ENTITY deleteCmd.label                                "Удалить">
+<!ENTITY deleteCmd.key                                  "D">
+<!ENTITY deleteCmd.accesskey                            "D">
+<!ENTITY deleteAbCmd.label                              "Удалить адресную книгу">
+<!ENTITY deleteCardCmd.label                            "Delete Card">
+<!ENTITY deleteCardsCmd.label                           "Delete Selected Cards">
+<!ENTITY selectAllCmd.label                             "Выделить всё">
+<!ENTITY selectAllCmd.key                               "A">
+<!ENTITY searchAddressesCmd.key                         "f">
+<!ENTITY selectAllCmd.accesskey                         "A">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Поменять местами имя и фамилию">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesCmd.label                            "Свойства…">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY propertiesCmd.accesskey                        "i">
+<!ENTITY propertiesCmd.key                              "i">
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label                                 "Вид">
+<!ENTITY viewMenu.accesskey                             "V">
+<!ENTITY viewToolbarsMenu.label                         "Панели инструментов">
+<!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY customizeToolbar.label                         "Настроить…">
+<!ENTITY customizeToolbar.accesskey                     "o">
+<!ENTITY showCardPane.label                             "Card Summary Pane">
+<!ENTITY showCardPane.accesskey                         "C">
+<!ENTITY menu_ShowNameAs.label                          "Показывать имя как">
+<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY firstLastCmd.label                             "Имя, Фамилия">
+<!ENTITY firstLastCmd.accesskey                         "F"> 
+<!ENTITY lastFirstCmd.label                             "Фамилия, Имя">
+<!ENTITY lastFirstCmd.accesskey                         "L">
+<!ENTITY displayNameCmd.label                           "Отображаемое имя">
+<!ENTITY displayNameCmd.accesskey                       "D">
+<!ENTITY sortMenu.label                                 "Сортировка">
+<!ENTITY sortMenu.accesskey                             "S">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label                                "Инструменты">
+<!ENTITY tasksMenu.accesskey                            "T">
+<!ENTITY messengerCmd.label                             "Почта и группы новостей">
+<!ENTITY messengerCmd.accesskey                         "M">
+<!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY searchAddressesCmd.label                       "Поиск адресов…">
+<!ENTITY searchAddressesCmd.accesskey                   "S">
+<!ENTITY importCmd.label                                "Импорт…">
+<!ENTITY importCmd.accesskey                            "I">
+<!ENTITY exportCmd.label                                "Экспорт…">
+<!ENTITY exportCmd.accesskey                            "E">
+<!ENTITY preferencesCmd.label                           "Настройки…">
+<!ENTITY preferencesCmd.key                             "O">
+<!ENTITY preferencesCmd.accesskey                       "O">
+<!ENTITY preferencesCmdUnix.label                       "Настройки">
+<!ENTITY preferencesCmdUnix.accesskey                   "n"> 
+
+<!-- Help Menu -->
+<!ENTITY helpMenu.label                                 "Справка">
+<!ENTITY helpMenu.accesskey                             "H">
+<!ENTITY releaseCmd.label                               "Примечания к выпуску">
+<!ENTITY releaseCmd.accesskey                           "R">
+<!ENTITY hintsAndTips.label                             "Справка &brandShortName;">
+<!ENTITY hintsAndTips.accesskey                         "H">
+<!ENTITY hintsAndTipsMac.commandkey                     "?">
+<!ENTITY aboutCmd.label                                 "О &brandShortName;">
+<!ENTITY aboutCmd.accesskey                             "A">
+
+<!-- Address Book Toolbar and Context Menus -->  
+<!ENTITY newcardButton.label                            "Создать контакт">
+<!ENTITY newcardButton.accesskey                        "C">
+<!ENTITY newlistButton.label                            "Создать список">
+<!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY editButton.label                               "Свойства">
+<!ENTITY editButton.accesskey                           "P">
+<!ENTITY newmsgButton.label                             "Создать сообщение">
+<!ENTITY newmsgButton.accesskey                         "W">
+<!ENTITY newIM.label                                    "Мгновенное сообщение">
+<!ENTITY newIM.accesskey                                "I">
+<!ENTITY deleteButton.label                             "Удалить">
+<!ENTITY deleteButton.accesskey                         "D">
+<!ENTITY throbberItem.title                             "Индикатор активности">
+
+<!-- Address Book Toolbar Tooltips -->
+<!ENTITY newcardButton.tooltip                          "Create a new address book card">
+<!ENTITY newlistButton.tooltip                          "Создание нового списка рассылки">
+<!ENTITY editButton.tooltip                             "Edit the selected card">
+<!ENTITY newmsgButton.tooltip                           "Создание сообщения">
+<!ENTITY newIM.tooltip                                  "Отправить мгновенное сообщение или начать беседу">
+<!ENTITY deleteButton.tooltip                           "Delete selected card or address book">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Адресные книги">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label                        "Имя или e-mail адрес">
+<!ENTITY SearchNameOrEmail.accesskey                    "e">
+<!ENTITY advancedButton.tooltip                         "Расширенный режим поиска адресов">
+<!ENTITY quickSearchCmd.key                             "k">
+<!ENTITY searchItem.title "Быстрый поиск">
+
+<!-- Results Pane -->
+<!ENTITY GeneratedName.label                            "Имя">
+<!ENTITY GeneratedName.accesskey                        "N">
+<!ENTITY PrimaryEmail.label                             "Электронная почта">
+<!ENTITY PrimaryEmail.accesskey                         "E">
+<!ENTITY ScreenName.label                               "Интернет-пейджер">
+<!ENTITY ScreenName.accesskey                           "-">
+<!ENTITY Company.label                                  "Организация">
+<!ENTITY Company.accesskey                              "z">
+<!ENTITY NickName.label                                 "Псевдоним:">
+<!ENTITY NickName.accesskey                             "i">
+<!ENTITY SecondEmail.label                              "Доп. адрес электронной почты">
+<!ENTITY SecondEmail.accesskey                          "l">
+<!ENTITY Department.label                               "Отдел">
+<!ENTITY Department.accesskey                           "r">
+<!ENTITY JobTitle.label                                 "Должность">
+<!ENTITY JobTitle.accesskey                             "T">
+<!ENTITY CellularNumber.label                           "Мобильный">
+<!ENTITY CellularNumber.accesskey                       "M">
+<!ENTITY PagerNumber.label                              "Пейджер">
+<!ENTITY PagerNumber.accesskey                          "P">
+<!ENTITY FaxNumber.label                                "Факс">
+<!ENTITY FaxNumber.accesskey                            "F">
+<!ENTITY HomePhone.label                                "Домашний телефон">
+<!ENTITY HomePhone.accesskey                            "H">
+<!ENTITY WorkPhone.label                                "Рабочий телефон">
+<!ENTITY WorkPhone.accesskey                            "W">
+<!ENTITY sortAscending.label                            "По возрастанию">
+<!ENTITY sortAscending.accesskey                        "A">
+<!ENTITY sortDescending.label                           "По убыванию">
+<!ENTITY sortDescending.accesskey                       "D">
+<!ENTITY _PhoneticName.label                            "Произносится как">
+<!ENTITY _PhoneticName.accesskey                        "o">
+
+<!-- Results pane context menu -->
+<!ENTITY composeEmail.label                             "Compose Email To">
+<!ENTITY composeEmail.accesskey                         "C">
+<!ENTITY deleteAddrBookCard.label                       "Удалить">
+<!ENTITY deleteAddrBookCard.accesskey                   "D">
+<!ENTITY newAddrBookCard.label                          "Создать контакт...">
+<!ENTITY newAddrBookCard.accesskey                      "N">
+<!ENTITY newAddrBookMailingList.label                   "New Mailing List...">
+<!ENTITY newAddrBookMailingList.accesskey               "M">
+<!ENTITY addrBookCardProperties.label                   "Свойства">
+<!ENTITY addrBookCardProperties.accesskey               "P">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "Контакт">
+<!ENTITY home.heading                                   "Дом">
+<!ENTITY other.heading                                  "Другие">
+<!ENTITY phone.heading                                  "Телефон">
+<!ENTITY work.heading                                   "Рабочий">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Описание">
+<!ENTITY addresses.heading                              "Адреса">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Показать на карте">
+<!ENTITY mapIt.tooltip                                  "Показать адрес на карте в Интернете">
+
+<!-- Status Bar -->
+<!ENTITY statusText.label "">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label "Окно">
+<!ENTITY minimizeWindow.label "Убрать в Dock">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Все окна — на передний план">
+<!ENTITY zoomWindow.label "Изменить масштаб">
