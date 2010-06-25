@@ -1,0 +1,101 @@
+<!ENTITY autoconfigWizard.title          "Setarea contului de email">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "Prenume Nume">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "email@exemplu.ro">
+<!ENTITY password.label                  "Parola:">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.emptytext              "Parolă">
+<!ENTITY password.text                   "Opțional, se va folosi doar pentru a valida numele de utilizator">
+
+<!ENTITY accountInformation.label        "Informații despre cont">
+<!ENTITY outgoing.label                  "Trimitere:">
+<!ENTITY noEncryption.label              "Fără">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY manualSetup.label               "Setare manuală…">
+<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY cancel.label                    "Renunță">
+<!ENTITY cancel.accesskey                "R">
+<!ENTITY continue.label                  "Continuă">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY startOver.label                 "Începe de la început">
+<!ENTITY startOver.accesskey             "n">
+<!ENTITY stop.label                      "Oprește">
+<!ENTITY stop.accesskey                  "O">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Testează din nou configurația">
+<!ENTITY retest.accesskey                "r">
+<!ENTITY edit.label                      "Editează">
+<!ENTITY edit.accesskey                  "E">
+
+<!ENTITY rememberPassword.label          "Memorează parola">
+<!ENTITY rememberPassword.accesskey      "M">
+
+<!ENTITY warning.label                   "Avertisment!">
+<!ENTITY incomingSettings.label          "Setări pentru primire:">
+<!ENTITY outgoingSettings.label          "Setări pentru trimitere:">
+<!ENTITY technicaldetails.label          "Detalii tehnice">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Înțeleg riscurile.">
+<!ENTITY confirmWarning.accesskey        "u">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Creează cont">
+<!ENTITY createAccount.accesskey         "C">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Schimbă setările">
+<!ENTITY changeSettings.accesskey        "S">
+
+<!ENTITY pb.contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections.">
+
+<!ENTITY insecureServer.tooltip.title    "Avertisment! Acesta este un server nesecurizat.">
+<!ENTITY insecureServer.tooltip.details  "Clic pe cerc pentru mai multe detalii.">
+
+<!ENTITY insecureUnencrypted.description "Adresa dumneavoastră de email și datele de autentificare sunt trimise fără a fi criptate, ca urmare parola și mesajul dumneavoastră pot fi citite de alte persoane. &brandShortName; vă va permite să vă citiți mesajele, dar vă recomandăm să vă contactați furnizorul de email în legătură cu configurarea serverului pentru o conexiune securizată.">
+<!ENTITY insecureSelfSigned.description  "Serverul folosește un certificat în care nu aveți încredere, așadar nu puteți fi sigur că cineva nu interceptează traficul dintre &brandShortName; și server. &brandShortName; vă va permite să accesați emailul chiar și în acest mod, dar vă sugerăm să recomandați furnizorului de email să configureze serverul cu un certificat de încredere.">
+<!ENTITY secureServer.description        "Felicitări! Aveți de a face cu un server securizat.">
+
+<!ENTITY pb.identity.title "Identity">
+<!ENTITY pb.name.label    "Your Name">
+<!ENTITY pb.email.label   "Email Address">
+<!ENTITY pb.password.label "Password">
+<!ENTITY pb.serverinfo.title "Server Information">
+<!ENTITY pb.username.label   "User Name">
+<!ENTITY pb.incoming.label "Incoming Server">
+<!ENTITY pb.servername.label "Server Name">
+<!ENTITY pb.servertype.label "Type">
+<!ENTITY pb.serverport.label "Port">
+<!ENTITY pb.serversecurity.label "Security">
+<!ENTITY pb.outgoing.label "Outgoing Server">
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     creation wizard, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY pb.emailWizard.size "width: 82ch;">
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     creation wizard, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY pb.macEmailWizard.size "width: 63ch;">

@@ -1,0 +1,93 @@
+<!ENTITY itemGeneral.label       "Generale">
+<!ENTITY itemUpdate.label        "Actualizare">
+<!ENTITY itemNetworking.label    "Rețea și spațiu pe disc">
+<!ENTITY itemCertificates.label  "Certificate">
+<!ENTITY itemWebServices.label   "Web Services">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "Arată numai numele pentru cei din agenda mea de contacte">
+<!ENTITY showCondensedAddresses.accesskey "d">
+
+<!ENTITY autoMarkAsRead.label          "Marchează automat mesajele ca citite">
+<!ENTITY autoMarkAsRead.accesskey      "a">
+<!ENTITY markAsReadNoDelay.label       "Imediat la afișare">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "După ce sunt afișate">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "secunde">
+<!ENTITY showFolderColumns.label       "Show expanded columns in the folder pane">
+<!ENTITY showFolderColumns.accesskey   "l">
+<!ENTITY rememberLastMsg.label         "Remember the last selected message">
+<!ENTITY rememberLastMsg.accesskey     "b">
+<!ENTITY openMsgIn1.label              "New messages should be opened in:">
+<!ENTITY openMsgInNewTab.label          "O filă nouă">
+<!ENTITY openMsgInNewTab.accesskey      "O">
+<!ENTITY openMsgInNewWindow.label       "a new window">
+<!ENTITY openMsgInNewWindow.accesskey   "i">
+<!ENTITY openMsgInExistingWindow.label  "an existing window">
+<!ENTITY openMsgInExistingWindow.accesskey "x">
+<!ENTITY connectionTimeout.label       "Connection timeout: ">
+<!ENTITY connectionTimeout.accesskey   "C">
+<!ENTITY connectionSeconds.label       "seconds">
+<!ENTITY configEditDesc.label          "Configurare avansată">
+<!ENTITY configEdit.label              "Editor de configurație…">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "Configurați gestionarea confirmărilor de primire">
+<!ENTITY showReturnReceipts.label      "Confirmări de primire…">
+<!ENTITY showReturnReceipts.accesskey  "r">
+<!ENTITY macEnableSpotlight.label      "Enable Spotlight Integration">
+<!ENTITY macEnableSpotlight.accesskey  "S">
+<!-- Update -->
+<!ENTITY autoCheck.label                "Caută automat actualizări pentru:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "P">
+<!ENTITY enableAddonsUpdate.label       "Suplimente instalate">
+<!ENTITY enableAddonsUpdate.accesskey   "t">
+<!ENTITY checkNow.label                 "Verifică acum…">
+<!ENTITY whenUpdatesFound.label         "Când sunt găsite actualizări pentru Thundebird,">
+<!ENTITY modeAskMe.label                "Întreabă-mă ce vreau să fac">
+<!ENTITY modeAskMe.accesskey            "n">
+<!ENTITY modeAutomatic.label            "Descarcă și instalează actualizarea automat">
+<!ENTITY modeAutomatic.accesskey        "m">
+<!ENTITY modeAutoAddonWarn.label        "Avertizează-mă dacă asta va duce la dezactivarea unora dintre suplimentele mele">
+<!ENTITY modeAutoAddonWarn.accesskey    "-">
+<!ENTITY showUpdates.label              "Arată istoricul actualizărilor">
+<!ENTITY showUpdates.accesskey          "A">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Connection...">
+<!ENTITY showConnections.accesskey     "n">
+<!ENTITY proxiesInfo.label             "Determine how &brandShortName; connects to the Internet.">
+<!ENTITY connectionsInfo.caption       "Conexiune">
+<!ENTITY offlineInfo.caption           "Deconectat">
+<!ENTITY offlineInfo.label             "Configurează preferințele pentru modul deconectat">
+<!ENTITY showOffline.label             "Offline...">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY Diskspace "Spațiu pe disc">
+<!ENTITY offlineCompact.label "Compactează dosarele dacă asta economisește peste">
+<!ENTITY offlineCompact.accesskey "C">
+<!ENTITY kb.label "KO">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certs.auto                      "Select one automatically">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Ask me every time">
+<!ENTITY certs.ask.accesskey             "A">
+
+<!ENTITY viewCertificates.label         "Vizualizare certificate">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCRLs.label                 "Liste de revocare">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY viewOCSP.label                 "Verification">
+<!ENTITY viewOCSP.accesskey             "f">
+<!ENTITY viewSecurityDevices.label      "Dispozitive de securitate">
+<!ENTITY viewSecurityDevices.accesskey  "u">
+
+<!-- Web Services -->
+<!ENTITY webservicesInfo.label          "Configure the Web services used within Postbox.">

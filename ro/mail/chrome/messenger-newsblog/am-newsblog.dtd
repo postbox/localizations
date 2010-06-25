@@ -1,0 +1,22 @@
+<!ENTITY newsblogTitle.label "RSS Account Settings">
+
+<!ENTITY indexMsgs.label "Index Messages">
+<!ENTITY indexMsgs.accesskey "I">
+
+<!ENTITY biffStart.label "Verifică disponibilitatea articolelor noi la fiecare">
+<!ENTITY biffStart.accesskey "V">
+<!ENTITY biffEnd.label "minute">
+
+<!ENTITY loginAtStartup.label "Verifică disponibilitatea articolelor noi la pornire"> 
+<!ENTITY loginAtStartup.accesskey "c">
+
+<!ENTITY useQuickMode.label "În mod implicit arată sumarul articolului în loc să încarci pagina web"> 
+<!ENTITY useQuickMode.accesskey "b">
+
+<!ENTITY manageSubscriptions.label "Gestionare abonamente…"> 
+<!ENTITY manageSubscriptions.accesskey "m">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "News &amp; Blogs">
+<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardLongName         "RSS News &amp; Blogs">

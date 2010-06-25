@@ -1,0 +1,53 @@
+<!ENTITY window.title "Reguli filtrare">
+<!ENTITY subject.label "subject">
+<!ENTITY sender.label "sender">
+<!ENTITY date.label "date">
+<!ENTITY anyText.label "any text">
+<!ENTITY keyword.label "keyword">
+<!ENTITY age.label "age in days">
+<!ENTITY to.label "to">
+
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+<!ENTITY cc.label "Cc">
+
+<!ENTITY status.label "status">
+<!ENTITY priority.label "priority">
+<!ENTITY body.label "body">
+<!ENTITY contains.label "contains">
+<!ENTITY nocontains.label "doesn't contain">
+<!ENTITY filterName.label "Nume filtru:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "Nesolicitat">
+<!ENTITY notJunk.label "Nu e nesolicitat">
+
+<!ENTITY lowestPriorityCmd.label "Cea mai mică">
+<!ENTITY lowPriorityCmd.label "Mică">
+<!ENTITY normalPriorityCmd.label "Normală">
+<!ENTITY highPriorityCmd.label "Mare">
+<!ENTITY highestPriorityCmd.label "Cea mai mare">
+
+<!ENTITY conditionDesc.label "For incoming messages which:">
+<!ENTITY filterActionDesc.label "Efectuează următoarele acțiuni:">
+<!ENTITY filterActionDesc.accesskey "E">
+
+<!ENTITY newFolderButton.label "New Folder...">
+<!ENTITY newFolderButton.accesskey "N">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Mută mesajul în">
+<!ENTITY copyMessage.label "Copiază mesajul în">
+<!ENTITY forwardTo.label "Înaintează mesajul către">
+<!ENTITY replyWithTemplate.label "Răspunde cu un șablon">
+<!ENTITY markMessageRead.label "Marchează ca citit">
+<!ENTITY markMessageStarred.label "Adaugă steluță">
+<!ENTITY labelMessage.label "Label Message As">
+<!ENTITY setPriority.label "Schimbă prioritatea în">
+<!ENTITY addTag.label "Etichetează mesaj">
+<!ENTITY setJunkScore.label "Setează starea de nesolicitare la">
+<!ENTITY deleteMessage.label "Șterge mesajul">
+<!ENTITY deleteFromPOP.label "Șterge de pe serverul POP">
+<!ENTITY fetchFromPOP.label "Adu de pe serverul POP">
+<!ENTITY ignoreThread.label "Ignoră conversația">
+<!ENTITY watchThread.label "Urmărește conversația">
+<!ENTITY stopExecution.label "Oprește executarea filtrului">

@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Pentru a economisi spațiul pe disc, nu descărca:">
+<!ENTITY offlineNewFolder.label "When I create new folders, select them for offline use">
+<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY offlineNotDownload.label "Mesaje mai mari de">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KO">
+<!ENTITY days.label "days">
+<!ENTITY daysOld.label "zile">
+<!ENTITY message.label "mesaje">
+<!ENTITY nntpNotDownloadRead.label "Mesaje citite">
+<!ENTITY nntpNotDownloadRead.accesskey "c">
+<!ENTITY nntpDownloadMsg.label "Mesaje mai vechi de">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Pentru a câștiga spațiu pe disc, mesajele vechi pot fi șterse pentru totdeauna.">
+<!ENTITY retentionKeepMsg.label "Șterge mesajele mai vechi de">
+<!ENTITY retentionKeepMsg.accesskey "g">
+<!ENTITY retentionKeepAll.label "Nu șterge nici un mesaj">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "Always delete read messages">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "Only message bodies less than">
+<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY offlineSelectNntp.label "Alegeți grupurile de news pentru utilizare în mod deconectat…">
+<!ENTITY offlineSelectImap.label "Select folders for offline use...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "You can download your messages locally so that they are available when you are working offline.">
+<!ENTITY makeInboxMsgsAvailable.label "Make the messages in my Inbox available when I am working offline">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Offline">
+<!ENTITY diskspaceGroupTitle.label "Spațiu pe disc">
+<!ENTITY ftiGroupTitle.label "Global Search">
+<!ENTITY fti.indexMsgs.label "Index Messages">

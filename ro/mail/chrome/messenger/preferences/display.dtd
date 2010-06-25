@@ -1,0 +1,80 @@
+<!ENTITY itemFormatting.label             "Formatare">
+<!ENTITY itemTags.label                   "Etichete">
+<!ENTITY itemFonts.label                  "Fonts">
+
+<!ENTITY textBegin.label                  "Quoted plain text appearance">
+<!ENTITY style.label                      "Stil">
+<!ENTITY style.accesskey                  "S">
+<!ENTITY regularStyle.label               "Normal">
+<!ENTITY bold.label                       "Îngroșat">
+<!ENTITY italic.label                     "Înclinat">
+<!ENTITY boldItalic.label                 "Îngroșat și înclinat">
+<!ENTITY size.label                       "Mărime:">
+<!ENTITY size.accesskey                   "M">
+<!ENTITY regularSize.label                "Normal">
+<!ENTITY bigger.label                     "Mai mare">
+<!ENTITY smaller.label                    "Mai mic">
+<!ENTITY color.label                      "Culoare:">
+<!ENTITY color.accesskey                  "C">
+<!ENTITY displayWidth.label               "Mesaje text">
+<!ENTITY plainText.label                  "Use the following font:">
+<!ENTITY displayText.label                "Pentru afișarea mesajelor text citate:">
+<!ENTITY viewingPlainText.label            "When displaying plain text messages:">
+<!ENTITY fixedWidth.label                 "Fixed width font">
+<!ENTITY fixedWidth.accesskey             "x">
+<!ENTITY variableWidth.label              "Variable width font">
+<!ENTITY variableWidth.accesskey          "V">
+<!ENTITY readingMessagesHeader.label      "For incoming messages">
+<!ENTITY colors.label                     "Culori">
+<!ENTITY overrideColors.label             "Culori folosite la afișarea mesajelor:">
+<!ENTITY textColor.label                  "Culoare text:">
+<!ENTITY textColor.accesskey              "t">
+<!ENTITY backgroundColor.label            "Culoare fundal:">
+<!ENTITY backgroundColor.accesskey        "C">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label        "Arată simbolurile emotive ca imagini">
+<!ENTITY convertEmoticons.accesskey    "A">
+
+<!-- tags -->
+<!ENTITY tagColumn.label "Topic">
+<!ENTITY tagActiveColumn.label    "Favorite">
+<!ENTITY displayTagsText.label    "Etichetele pot fi folosite pentru a organiza mesajele dumneavoastră pe categorii și după priorități. ">
+<!ENTITY addTagButton.label       "Adaugă">
+<!ENTITY addTagButton.accesskey   "A">
+<!ENTITY editTagButton.label      "Modifică">
+<!ENTITY editTagButton.accesskey   "M">
+<!ENTITY removeTagButton.label    "Șterge">
+<!ENTITY removeTagButton.accesskey "t">
+<!ENTITY moveTagUpButton.label    "Move Up">
+<!ENTITY moveTagUpButton.accesskey "U">
+<!ENTITY moveTagDownButton.label    "Move Down">
+<!ENTITY moveTagDownButton.accesskey "o">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label  "Configure the fonts and encodings used by &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label      "Fonts &amp; Encodings">
+<!ENTITY fontOptions.accesskey   "F">
+<!ENTITY fontOptions.label       "Fonturi…">
+
+<!-- message list font size -->
+<!ENTITY pb.messagelist.fontsize.label "Use a large font for the message list pane">
+<!ENTITY pb.messagelist.fontsize.accesskey "p">
+
+<!ENTITY pb.messagelist.colortagrow.label "Apply the topic color to the entire row in the message list pane">
+<!ENTITY pb.messagelist.colortagrow.accesskey "g">
+
+<!-- conversation preferences -->
+<!ENTITY pb.itemConversation.label        "Conversations">
+<!ENTITY pb.conversations.sortorder.description "Display messages in conversations with:">
+<!ENTITY pb.conversations.sortoldest.label "Oldest messages first">
+<!ENTITY pb.conversations.sortoldest.accesskey "e">
+<!ENTITY pb.conversations.sortnewest.label "Newest messages first">
+<!ENTITY pb.conversations.sortnewest.accesskey "w">
+<!ENTITY pb.conversations.description.label "When displaying a conversation, include messages: ">
+<!ENTITY pb.conversations.folderonly.label "Only from the current folder">
+<!ENTITY pb.conversations.folderonly.accesskey "r">
+<!ENTITY pb.conversations.all.label "From every folder">
+<!ENTITY pb.conversations.all.accesskey "m">
+<!ENTITY pb.conversations.photos.label "Include contact photos for each participant in the conversation">
+<!ENTITY pb.conversations.photos.accesskey "I">

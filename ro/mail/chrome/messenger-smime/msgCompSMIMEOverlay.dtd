@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label "Security">
+<!ENTITY securityMenu.accesskey "e">
+
+<!ENTITY menu_securityEncryptIfPossible.label "Encrypt if Possible">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "p">
+
+<!ENTITY menu_securityEncryptRequire.label "Criptează mesajul">
+<!ENTITY menu_securityEncryptRequire.accesskey "C">
+
+<!ENTITY menu_securityNoEncryption.label "Do Not Encrypt This Message">
+<!ENTITY menu_securityNoEncryption.accesskey "N">
+
+<!ENTITY menu_securitySign.label "Semnează electronic mesajul">
+<!ENTITY menu_securitySign.accesskey "S">
+
+<!ENTITY menu_securityStatus.label "Informații securitate">
+<!ENTITY menu_securityStatus.accesskey "o">
+
+<!ENTITY securityButton.label "Securitate">
+<!ENTITY securityButton.tooltip "Vedeți sau schimbați setările de securitate">
+
+<!ENTITY menu_viewSecurityStatus.label "Informații securitate mesaj">
+<!ENTITY menu_viewSecurityStatus.accesskey "I">
