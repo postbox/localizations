@@ -1,0 +1,44 @@
+<!-- strings used in both the focus pane and the full text search focus pane -->
+<!ENTITY focusPaneFilterByTags.label    "Favorite Topics">
+<!ENTITY focusPaneFilterByTagsMac.label "FAVORITE TOPICS">
+<!ENTITY focusPaneAllTags.label         "All">
+<!ENTITY focusPaneNoTags.label          "None">
+
+<!-- strings used only in the full text search focus pane -->
+<!ENTITY focusPaneSearchScopeTitle.label       "Search">
+<!ENTITY focusPaneSearchScopeTitleMac.label    "SEARCH">
+<!ENTITY focusPaneSearchScopeEverywhere.label  "All Accounts">
+<!ENTITY focusPaneSearchAttribute.label        "Attributes">
+<!ENTITY focusPaneSearchAttributeMac.label     "ATTRIBUTES">
+<!ENTITY focusPaneHasAttachmentAttribute.label           "Has Attachment">
+<!ENTITY focusPaneFilterByDate.label    "Date">
+<!ENTITY focusPaneFilterByDateMac.label "DATE">
+<!ENTITY focusPaneAnyDate.label         "Any Date">
+<!ENTITY focusPaneToday.label           "Today">
+<!ENTITY focusPaneYesterday.label       "Yesterday">
+<!ENTITY focusPaneThisWeek.label        "Past Week">
+<!ENTITY focusPaneThisMonth.label       "Past Month">
+<!ENTITY focusPaneFilterByContact.label    "Favorite Contacts">
+<!ENTITY focusPaneFilterByContactMac.label "FAVORITE CONTACTS">
+
+<!-- focus pane topics context menus -->
+<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Rename">
+<!ENTITY pbFavoriteTopicsContextMenu-edit.accesskey     "n">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Remove From Favorites">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.accesskey "R">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Delete">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.accesskey   "D">
+<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Create New Favorite Topic">
+<!ENTITY pbFavoriteTopicsContextMenu-add.accesskey      "C">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Edit Topics...">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.accesskey  "t">
+
+<!-- focus pane favorite contacts context menus -->
+<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Remove From Favorites">
+<!ENTITY pbFavoriteContactsContactsMenu-delete.accesskey "R">
+<!ENTITY pbFavoriteContactsContextMenu-email.label       "Email Contact">
+<!ENTITY pbFavoriteContactsContactsMenu-email.accesskey  "e">
+<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Edit Contact...">
+<!ENTITY pbFavoriteContactsContactsMenu-edit.accesskey   "d">
+<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Create Filter...">
+<!ENTITY pbFavoriteContactsContactsMenu-createfilter.accesskey "C">

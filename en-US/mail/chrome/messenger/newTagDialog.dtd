@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "Create New Topic">
+<!ENTITY name.label              "Topic Name:">
+<!ENTITY name.accesskey          "T">
