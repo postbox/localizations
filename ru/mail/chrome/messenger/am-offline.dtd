@@ -32,3 +32,10 @@
 <!ENTITY diskspaceGroupTitle.label "Дисковое пространство">
 <!ENTITY ftiGroupTitle.label "Глобальный поиск">
 <!ENTITY fti.indexMsgs.label "Индексация сообщений">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY fti.indexMsgBodies.label "Index message bodies">

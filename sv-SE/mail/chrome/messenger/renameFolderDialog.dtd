@@ -39,3 +39,11 @@
 <!ENTITY renameFolderDialog.title          "Byt namn på mapp">
 <!ENTITY rename.label                      "Ange nytt namn på mappen:">
 <!ENTITY rename.accesskey                  "n">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY accept.accesskey                  "R">
+<!ENTITY accept.label                      "Rename">

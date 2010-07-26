@@ -78,3 +78,14 @@
 <!ENTITY pb.conversations.all.accesskey "m">
 <!ENTITY pb.conversations.photos.label "Schließe Fotos aller Teilnehmer der Unterhaltung mit ein">
 <!ENTITY pb.conversations.photos.accesskey "i">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY defaultSize.accesskey   "S">
+<!ENTITY defaultSize.label       "Size:">
+<!ENTITY defaultFont.label       "Default font:">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY fontsAndColors.label    "Fonts">

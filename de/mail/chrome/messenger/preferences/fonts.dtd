@@ -77,3 +77,15 @@
 <!ENTITY forceCharsetOverride.accesskey   "a">
 <!ENTITY replyInDefaultCharset.label      "Den Standard-Zeichensatz für Antworten verwenden">
 <!ENTITY replyInDefaultCharset.accesskey  "h">
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY  sizeMono.accesskey                      "i">
+<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
+<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY  size.label                              "Size:">
+<!ENTITY  fontControl.label                       "Font Control">
+<!ENTITY replyInDefaultCharset2.label     "When possible, use the default character encoding in replies">

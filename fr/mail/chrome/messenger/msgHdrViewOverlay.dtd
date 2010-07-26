@@ -94,3 +94,31 @@
 <!ENTITY pbMsgHdrView.conversationMsgReply.label "répondre">
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "répondre à tous">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "transférer">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbInReplyToField.label "In-Reply-To:">
+<!ENTITY messageHeader.reply.tooltip "Reply to the message.">
+<!ENTITY pbReferencesField.label "References:">
+<!ENTITY pbToField.label "To:">
+<!ENTITY pbFromField.label "From:">
+<!ENTITY pbFollowupToField.label "Followup-To:">
+<!ENTITY messageHeader.replyAll.label "Reply All">
+<!ENTITY pbBccField.label "Bcc:">
+<!ENTITY messageHeader.reply.label "Reply">
+<!ENTITY pbOriginalWebsite.label "Website:">
+<!ENTITY pbDateField.label "Date:">
+<!ENTITY pbCcField.label "Cc:">
+<!ENTITY pbLinkField.label "Link:">
+<!ENTITY pbSenderField.label "Sender:">
+<!ENTITY pbNewsgroupsField.label "Newsgroups:">
+<!ENTITY pbReplyToField.label "Reply-To:">
+<!ENTITY messageHeader.forward.label "Forward">
+<!ENTITY pbUserAgentField.label "User-Agent:">
+<!ENTITY pbTagsHdr.label "Topics:">
+<!ENTITY pbOrganizationField.label "Organization:">
+<!ENTITY pbMessageIdField.label "Message-ID:">
+<!ENTITY pbParticipantsField.label "Participants:">

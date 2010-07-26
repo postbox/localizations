@@ -61,3 +61,13 @@
 <!ENTITY sendOptionsDescription.label          "Anpassa valet av textformat:">
 <!ENTITY sendOptions.label                     "Anpassa…">
 <!ENTITY sendOptions.accesskey                 "A">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY attachmentReminderOptions.accesskey   "K">
+<!ENTITY attachmentReminder.label              "Check for missing attachments">
+<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminderOptions.label       "Keywords…">

@@ -76,3 +76,10 @@
 <!ENTITY picasa.label "Picasa Webalben">
 <!ENTITY photobucket.label "Mein Photobucket">
 <!-- XXX end localization note: Do not translate these service names -->
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Try setting your Focus to All.">

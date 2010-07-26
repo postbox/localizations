@@ -46,3 +46,11 @@
 <!ENTITY folderRestriction2.label   "Permettre à votre nouveau dossier de contenir :">
 <!ENTITY foldersOnly.label          "des dossiers seulement">
 <!ENTITY messagesOnly.label         "des messages seulement">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY accept.label               "Create Folder">
+<!ENTITY accept.accesskey           "r">

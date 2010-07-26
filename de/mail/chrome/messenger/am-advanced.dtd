@@ -21,3 +21,11 @@
 <!ENTITY userName.label   "Benutzername: ">
 <!ENTITY useSecureConnection.label   "Sichere Verbindung: ">
 <!ENTITY useSecureAuthentication.label   "Sichere Authentifizierung: ">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY connectionSecurity.label "Connection Security: ">
+<!ENTITY authMethod.label   "Authentication: ">

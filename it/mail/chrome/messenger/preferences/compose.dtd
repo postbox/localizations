@@ -61,3 +61,13 @@
 <!ENTITY sendOptionsDescription.label          "Configura la formattazione del testo:">
 <!ENTITY sendOptions.label                     "Opzioni di invio…">
 <!ENTITY sendOptions.accesskey                 "d">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY attachmentReminderOptions.accesskey   "K">
+<!ENTITY attachmentReminder.label              "Check for missing attachments">
+<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminderOptions.label       "Keywords…">

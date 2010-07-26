@@ -39,3 +39,11 @@
 <!ENTITY renameFolderDialog.title          "Ordner umbenennen">
 <!ENTITY rename.label                      "Neuen Namen für den Ordner eingeben:">
 <!ENTITY rename.accesskey                  "N">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY accept.accesskey                  "R">
+<!ENTITY accept.label                      "Rename">

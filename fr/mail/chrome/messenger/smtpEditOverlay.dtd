@@ -23,3 +23,17 @@
 <!ENTITY alwaysSMTPOverSSL.accesskey "L">
 <!ENTITY smtpEditTitle.label "Serveur SMTP">
 <!ENTITY serverPortDefault.label "Défaut :">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY authMethod.accesskey "i">
+<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurity.accesskey "n">
+<!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY authMethod.label "Authentication:">

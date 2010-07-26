@@ -46,3 +46,11 @@
 <!ENTITY folderRestriction2.label   "Consenti alla nuova cartella di contenere:">
 <!ENTITY foldersOnly.label          "Solo cartelle">
 <!ENTITY messagesOnly.label         "Solo messaggi">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY accept.label               "Create Folder">
+<!ENTITY accept.accesskey           "r">

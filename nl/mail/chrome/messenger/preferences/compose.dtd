@@ -61,3 +61,13 @@
 <!ENTITY sendOptionsDescription.label          "Tekstopmaakgedrag configureren">
 <!ENTITY sendOptions.label                     "Verzendopties…">
 <!ENTITY sendOptions.accesskey                 "V">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY attachmentReminderOptions.accesskey   "K">
+<!ENTITY attachmentReminder.label              "Check for missing attachments">
+<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminderOptions.label       "Keywords…">

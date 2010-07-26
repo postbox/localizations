@@ -39,3 +39,11 @@
 <!ENTITY renameFolderDialog.title          "Переименование папки">
 <!ENTITY rename.label                      "Введите новое имя папки:">
 <!ENTITY rename.accesskey                  "E">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY accept.accesskey                  "R">
+<!ENTITY accept.label                      "Rename">

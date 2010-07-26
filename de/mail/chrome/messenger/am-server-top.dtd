@@ -95,3 +95,17 @@
 <!ENTITY browseNewsrc.label "Durchsuchen…">
 <!ENTITY browseNewsrc.accesskey "D">
 
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.accesskey "i">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">

@@ -78,3 +78,14 @@
 <!ENTITY pb.conversations.all.accesskey "D">
 <!ENTITY pb.conversations.photos.label "Incluir fotografías de contacto de cada uno de los miembros en la conversación">
 <!ENTITY pb.conversations.photos.accesskey "I">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY defaultSize.accesskey   "S">
+<!ENTITY defaultSize.label       "Size:">
+<!ENTITY defaultFont.label       "Default font:">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY fontsAndColors.label    "Fonts">

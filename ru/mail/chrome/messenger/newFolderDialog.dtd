@@ -46,3 +46,11 @@
 <!ENTITY folderRestriction2.label   "Разрешить новой папке содержать:">
 <!ENTITY foldersOnly.label          "Папки">
 <!ENTITY messagesOnly.label         "Сообщения">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY accept.label               "Create Folder">
+<!ENTITY accept.accesskey           "r">

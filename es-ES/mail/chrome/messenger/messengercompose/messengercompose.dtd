@@ -315,3 +315,10 @@
 
 <!ENTITY pbComposeSidebar.label "Barra lateral">
 <!ENTITY pbComposeSidebar.accesskey "B">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY addressBookCmd.key "B">

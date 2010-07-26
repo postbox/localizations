@@ -39,3 +39,11 @@
 <!ENTITY renameFolderDialog.title          "Renommer un dossier">
 <!ENTITY rename.label                      "Saisissez le nouveau nom de votre dossier :">
 <!ENTITY rename.accesskey                  "e">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY accept.accesskey                  "R">
+<!ENTITY accept.label                      "Rename">

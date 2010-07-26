@@ -21,3 +21,11 @@
 <!ENTITY userName.label   "Gebruikersnaam: ">
 <!ENTITY useSecureConnection.label   "Beveiligde verbinding: ">
 <!ENTITY useSecureAuthentication.label   "Beveiligde authenticatie: ">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY connectionSecurity.label "Connection Security: ">
+<!ENTITY authMethod.label   "Authentication: ">
