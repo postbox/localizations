@@ -1,0 +1,16 @@
+<!ENTITY findDialog.title "Buscar en esta página">
+<!ENTITY findField.label "Buscar el texto:">
+<!ENTITY findField.accesskey "t">
+<!ENTITY caseSensitiveCheckbox.label "Coincidencia de mayúsculas/minúsculas">
+<!ENTITY caseSensitiveCheckbox.accesskey "C">
+<!ENTITY wrapCheckbox.label "Buscar en todo">
+<!ENTITY wrapCheckbox.accesskey "s">
+<!ENTITY findButton.label "Buscar siguiente">
+<!ENTITY findButton.accesskey "B">
+<!ENTITY cancelButton.label "Cancelar">
+<!ENTITY closeButton.label "Cerrar">
+<!ENTITY up.label "Arriba">
+<!ENTITY up.accesskey "r">
+<!ENTITY down.label "Abajo">
+<!ENTITY down.accesskey "A">
+<!ENTITY direction.label "Dirección">

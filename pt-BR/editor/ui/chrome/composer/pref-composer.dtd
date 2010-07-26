@@ -1,0 +1,25 @@
+<!-- extracted from content/pref-composer.xul -->
+
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+<!ENTITY  pref.composer.title           "Composer">
+<!ENTITY  recentFiles.title             "Menu de páginas recentes">
+<!ENTITY  documentsInMenu.label         "Número máximo de páginas listadas:">
+<!ENTITY  documentsInMenu.accesskey     "x">
+<!ENTITY  savingFiles.title             "Ao salvar ou publicar páginas">
+<!ENTITY  preserveExisting.label        "Preservar a formatação original do código">
+<!ENTITY  preserveExisting.accesskey    "P">
+<!ENTITY  preserveExisting.tooltip      "Preservar quebras de linha e formatação original da página">
+<!ENTITY  saveAssociatedFiles.label     "Salvar imagens e outros arquivos associados ao salvar páginas">
+<!ENTITY  saveAssociatedFiles.accesskey "S">
+<!ENTITY  showPublishDialog.label       "Sempre exibir a janela de publicação quando publicar páginas">
+<!ENTITY  showPublishDialog.accesskey   "A">
+<!ENTITY  composerEditing.label         "Edição">
+<!ENTITY  maintainStructure.label       "Manter layout da tabela ao inserir ou excluir células">
+<!ENTITY  maintainStructure.tooltip     "Adicionar automaticamente células para preservar formato retangular da tabela após inserir ou excluir células">
+<!ENTITY  maintainStructure.accesskey   "M">
+<!ENTITY  useCSS.label                  "Usar estilos CSS em vez de elementos e atributos HTML">
+<!ENTITY  useCSS.accesskey              "U">
+<!ENTITY  crInPCreatesNewP.label        "Ao teclar Enter em um parágrafo sempre criar um novo parágrafo.">
+<!ENTITY  crInPCreatesNewP.accesskey    "t">
