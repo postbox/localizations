@@ -1,13 +1,13 @@
-<!ENTITY  typeColumn.label        "Typ av innehåll">
-<!ENTITY  typeColumn.accesskey    "T">
+<!ENTITY  typeColumn.label            "Typ av innehåll">
+<!ENTITY  typeColumn.accesskey        "T">
 
-<!ENTITY  actionColumn2.label     "Åtgärd">
-<!ENTITY  actionColumn2.accesskey "Å">
+<!ENTITY  actionColumn2.label         "Åtgärd">
+<!ENTITY  actionColumn2.accesskey     "t">
 
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext        "Sök">
+<!ENTITY  filter.emptytext            "Sök">
 
 <!ENTITY saveTo.label                 "Spara filer till">
 <!ENTITY saveTo.accesskey             "S">

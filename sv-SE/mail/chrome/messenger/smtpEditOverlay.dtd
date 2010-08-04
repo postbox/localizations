@@ -6,34 +6,15 @@
 <!ENTITY serverDescription.accesskey "B">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Använd namn och lösenord">
-<!ENTITY alwaysUseUsername.accesskey "v">
 <!ENTITY userName.label "Användarnamn:">
 <!ENTITY userName.accesskey "A">
-<!ENTITY useSecAuth.label "Använd säker autentisering">
-<!ENTITY useSecAuth.accesskey "A">
-<!ENTITY isSecure.label "Use secure connection:">
-<!ENTITY neverSecure.label "No">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS, if available">
-<!ENTITY sometimesSTARTTLS.accesskey "A">
-<!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY alwaysSTARTTLS.accesskey "T">
-<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
-<!ENTITY alwaysSMTPOverSSL.accesskey "L">
-<!ENTITY smtpEditTitle.label "Server för utgående e-post (SMTP)">
-<!ENTITY serverPortDefault.label "Standard:">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY authMethod.accesskey "i">
 <!ENTITY connectionSecurity.label "Connection security:">
-<!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
-<!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY smtpEditTitle.label "Server för utgående e-post (SMTP)">
+<!ENTITY serverPortDefault.label "Standard:">
 <!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.accesskey "i">

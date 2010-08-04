@@ -1,11 +1,8 @@
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Kontoinställningar">
-<!ENTITY accountName.label "Kontonamn:">
-<!ENTITY accountName.accesskey "K">
+
 <!ENTITY accountNameDesc.label "The account name is used to identify each account">
-<!ENTITY identityTitle.label "Standardidentitet">
-<!ENTITY identityDesc.label "Varje konto har en egen identitet som andra ser och identifierar dig med när du skickar meddelanden.">
 <!ENTITY name.label "Ditt namn:">
 <!ENTITY name.accesskey "n">
 <!ENTITY email.label "E-postadress:">
@@ -19,8 +16,8 @@
 <!ENTITY edit.label "Redigera…">
 <!ENTITY choose.label "Välj…">
 <!ENTITY choose.accesskey "V">
-<!ENTITY editVCard.label "Redigera kort…">
-<!ENTITY editVCard.accesskey "R">
+<!ENTITY editVCard1.label "Edit...">
+<!ENTITY editVCard1.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Bifoga visitkort (vCard)">
 <!ENTITY attachVCard.accesskey "C">
@@ -28,28 +25,14 @@
 <!ENTITY manageIdentities.label "Hantera identiteter…">
 <!ENTITY manageIdentities.accesskey "a">
 
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Utgående server (SMTP):">
-<!ENTITY smtpName.accesskey "U">
+<!ENTITY smtpName1.label "Outgoing Server:">
+<!ENTITY smtpName1.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Använd standardservern">
 
 <!ENTITY pbNoSignature.label "None">
-<!ENTITY pbEditSignature.label "Edit Signature...">
-<!ENTITY pbEditSignature.accesskey "i">
-<!ENTITY pbChooseSignature.label "Choose Signature">
-<!ENTITY pbChooseSignature.accesskey "g">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY editVCard1.accesskey "d">
-<!ENTITY pbIdentityTitle.label "Identity">
-<!ENTITY pbChooseSignature1.label "Signature:">
-<!ENTITY smtpName1.accesskey "u">
-<!ENTITY pbChooseSignature1.accesskey "g">
-<!ENTITY editVCard1.label "Edit...">
-<!ENTITY pbEditSignature1.accesskey "i">
 <!ENTITY pbEditSignature1.label "Edit...">
-<!ENTITY smtpName1.label "Outgoing Server:">
+<!ENTITY pbEditSignature1.accesskey "i">
+<!ENTITY pbChooseSignature1.label "Signature:">
+<!ENTITY pbChooseSignature1.accesskey "g">
+
+<!ENTITY pbIdentityTitle.label "Identity">

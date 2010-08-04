@@ -46,11 +46,5 @@
 <!ENTITY folderRestriction2.label   "Tillåt din nya mapp att innehålla:">
 <!ENTITY foldersOnly.label          "Endast mappar">
 <!ENTITY messagesOnly.label         "Endast meddelanden">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY accept.label               "Create Folder">
 <!ENTITY accept.accesskey           "r">
