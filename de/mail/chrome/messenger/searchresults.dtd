@@ -9,7 +9,7 @@
 <!ENTITY prevNextResults.label                     "Zurück / Vor">
 <!ENTITY searchResultsNoMatchesFound.desc          "Ihre Suche ergab keine Treffer.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Versuchen Sie, in allen Ordnern zu suchen.">
-<!ENTITY searchResultsNoMatchesSuggestionAllTopics.desc          "Versuchen Sie, in allen Themen zu suchen.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Try setting your Focus to All.">
 <!ENTITY showSearchOptions.label                   "Zeige Suchoptionen">
 
 <!-- attachments -->
@@ -63,7 +63,6 @@
 <!ENTITY thesaurus.label "Thesaurus">
 <!ENTITY documents.label "Anhänge">
 <!ENTITY images.label "Bilder">
-<!ENTITY urls.label "Links">
 <!ENTITY signatures.label "Signaturen">
 <!ENTITY contacts.label "Kontakte">
 
@@ -76,10 +75,3 @@
 <!ENTITY picasa.label "Picasa Webalben">
 <!ENTITY photobucket.label "Mein Photobucket">
 <!-- XXX end localization note: Do not translate these service names -->
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Try setting your Focus to All.">

@@ -122,29 +122,14 @@
 <!-- View Menu -->
 <!ENTITY customizeToolbar.label "Anpassen…">
 <!ENTITY customizeToolbar.accesskey "A">
-<!ENTITY pinStarredMessages.label "Aufgaben ankleben">
-<!ENTITY pinStarredMessages.accesskey "A">
-<!ENTITY showConversations.label "Zeige Unterhaltungen">
-<!ENTITY showConversations.accesskey "Z">
-<!ENTITY viewMenuShowAttachments.label "Anhänge">
-<!ENTITY viewMenuShowAttachments.accesskey "A">
-<!ENTITY key_showAttachments.key         "a">
-<!ENTITY viewMenuShowImages.label        "Bilder">
-<!ENTITY viewMenuShowImages.accesskey    "B">
-<!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowLinks.label         "Links">
-<!ENTITY viewMenuShowLinks.accesskey     "L">
-<!ENTITY key_showLinks.key               "l">
-<!ENTITY viewMenuShowContacts.label      "Kontakte">
-<!ENTITY viewMenuShowContacts.accesskey  "n">
-<!ENTITY key_showContacts.key            "c">
 <!ENTITY messagePaneLayoutStyle.label "Fensterlayout">
 <!ENTITY messagePaneLayoutStyle.accesskey "F">
 <!ENTITY messagePaneClassic.label "Klassische Ansicht">
 <!ENTITY messagePaneClassic.accesskey "K">
 <!ENTITY messagePaneVertical.label "3-Spalten-Ansicht">
 <!ENTITY messagePaneVertical.accesskey "S">
-
+<!ENTITY showMessageCmd.label "Message Pane">
+<!ENTITY showMessageCmd.accesskey "M">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortieren nach">
@@ -303,7 +288,7 @@
 <!ENTITY prevStarredMsgCmd.label "Gekennzeichnete Nachricht">
 <!ENTITY prevStarredMsgCmd.accesskey "G">
 <!ENTITY startPageCmd1.label "Home">
-<!ENTITY startPageCmd1.accesskey "S">
+<!ENTITY startPageCmd1.accesskey "H">
 <!ENTITY msgMenu.label "Nachricht">
 <!ENTITY msgMenu.accesskey "N">
 <!ENTITY newMsgCmd.label "Neue Nachricht">
@@ -415,10 +400,9 @@
 <!ENTITY addons.accesskey "E">
 <!ENTITY messengerCmd.label "Nachrichten &amp; Newsgruppen">
 <!ENTITY messengerCmd.accesskey "N">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adressbuch">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY junkMailCmd.label "Spam-Einstellungen...">
 <!ENTITY junkMailCmd.accesskey "S">
 <!ENTITY runJunkControls.label "Junk-Filter auf Ordner anwenden">
@@ -708,12 +692,3 @@
 <!ENTITY pbLightningQuickView.label "Schnellansicht">
 <!ENTITY lightning.calendar.label "Calendar">
 <!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY showMessageCmd.label "Message Pane">
-<!ENTITY addressBookCmd.key "B">
-<!ENTITY showMessageCmd.accesskey "M">

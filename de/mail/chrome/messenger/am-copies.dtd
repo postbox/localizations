@@ -1,7 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Kopien &amp; Ordner">
-<!ENTITY sendingPrefix.label "Beim Senden von Nachrichten automatisch ">
 <!ENTITY fccMailFolder.label "Eine Kopie speichern unter:">
 <!ENTITY fccMailFolder.accesskey "o">
 <!ENTITY fccReplyFollowsParent.label "Antworten im Ordner der ursprünglichen Nachricht speichern">
@@ -15,45 +14,31 @@
 <!ENTITY templateMailFolder.label "Vorlagen speichern unter:">
 <!ENTITY saveMessageDlg.label "Bestätigungsdialog beim Speichern von Nachrichten anzeigen">
 <!ENTITY saveMessageDlg.accesskey "s">
-<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Ordner &quot;Gesendet&quot; in:">
-<!ENTITY sentFolderOn.accesskey "G">
+<!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY sentFolderOn1.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Anderer Ordner:">
 <!ENTITY sentInOtherFolder.accesskey "A">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Ordner &quot;Entwürfe&quot; in:">
-<!ENTITY draftsFolderOn.accesskey "e">
+<!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn1.label "Drafts:">
+<!ENTITY draftsFolderOn1.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Anderer Ordner:">
 <!ENTITY draftInOtherFolder.accesskey "n">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Ordner &quot;Archiv&quot; in:">
-<!ENTITY archivesFolderOn.accesskey "h">
+<!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn1.label "Archive:">
+<!ENTITY archivesFolderOn1.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Anderer Ordner:">
 <!ENTITY archiveInOtherFolder.accesskey "d">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Ordner &quot;Vorlagen&quot; in:">
-<!ENTITY templatesFolderOn.accesskey "V">
+<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY templatesFolderOn1.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Anderer Ordner:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-<!ENTITY specialFoldersTitle.label "Entwürfe, Archiv und Vorlagen">
 <!ENTITY keepDrafts.label "Entwürfe speichern unter:">
 <!ENTITY keepArchives.label "Archiv speichern unter:">
 <!ENTITY keepTempltes.label "Vorlagen speichern unter:">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY templatesFolderOn1.accesskey "m">
-<!ENTITY draftsFolderOn1.accesskey "D">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
 <!ENTITY pbSentSettings.label "Sent">
 <!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY sentFolderOn1.label "Sent:">
-<!ENTITY draftsFolderOn1.label "Drafts:">
-<!ENTITY sentFolderOn1.accesskey "e">
-<!ENTITY archivesFolderOn1.accesskey "n">
-<!ENTITY archivesFolderOn1.label "Archive:">
-<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY pbArchiveSettings.label "Archive">
+<!ENTITY pbTemplatesSettings.label "Templates">

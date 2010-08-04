@@ -25,17 +25,9 @@
 <!ENTITY offlineSelectNntp.label "Newsgruppen zum Offline-Lesen wählen…">
 <!ENTITY offlineSelectImap.label "Ordner zum Offline-Lesen auswählen...">
 <!ENTITY offlineSelect.accesskey "S">
-<!ENTITY offlineDesc.label "Sie können Ihre Nachrichten herunterladen, damit diese auch ohne Internetverbindung verfügbar sind.">
 <!ENTITY makeInboxMsgsAvailable.label "Make the messages in my Inbox available when I am working offline">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
 <!ENTITY offlineGroupTitle.label "Offline">
 <!ENTITY diskspaceGroupTitle.label "Speicherplatz">
 <!ENTITY ftiGroupTitle.label "Globale Suche">
-<!ENTITY fti.indexMsgs.label "Indiziere Nachrichten">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY fti.indexMsgBodies.label "Index message bodies">

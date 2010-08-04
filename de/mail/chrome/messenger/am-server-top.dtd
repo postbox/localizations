@@ -1,6 +1,5 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Sicherheit und Authentifizierung">
 <!ENTITY serverSettings.label "Server-Einstellungen">
 <!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
 <!ENTITY popServer.label "POP">
@@ -26,19 +25,14 @@
 <!ENTITY biffStart.label "Alle ">
 <!ENTITY biffStart.accesskey "A">
 <!ENTITY biffEnd.label "Minuten auf neue Nachrichten prüfen">
-<!ENTITY isSecure.label "Verschlüsselte Verbindung (SSL) verwenden">
-<!ENTITY isSecure.accesskey "u">
-<!ENTITY socketType.label "Verschlüsselte Verbindung benutzen:">
-<!ENTITY neverSecure.label "Never">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, falls verfügbar">
-<!ENTITY sometimesSecure.accesskey "a">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Sichere Authentifizierung verwenden">
-<!ENTITY useSecAuth.accesskey "u">
+<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Nachrichten auf dem Server belassen">
 <!ENTITY leaveOnServer.accesskey "i">
 <!ENTITY headersOnly.label "Nur die Kopfzeilen herunterladen">
@@ -87,7 +81,7 @@
 <!ENTITY abbreviateOff.label "Abgekürzten Namen (zum Beispiel &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Erweitert…">
 <!ENTITY advancedButton.accesskey "w">
-<!ENTITY serverDefaultCharset.label "Standard-Zeichenkodierung:">
+<!ENTITY serverDefaultCharset1.label "Encoding:">
 <!ENTITY localFolderPicker.label "Lokales Verzeichnis wählen:">
 <!ENTITY browseFolder.label "Verzeichnis wählen…">
 <!ENTITY browseFolder.accesskey "z">
@@ -95,26 +89,5 @@
 <!ENTITY browseNewsrc.label "Durchsuchen…">
 <!ENTITY browseNewsrc.accesskey "D">
 
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY authMethod.label "Authentication:">
-<!ENTITY authMethod.accesskey "i">
-<!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY connectionSecurity.accesskey "u">
-<!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-2.label "STARTTLS">
-<!ENTITY connectionSecurity.label "Connection security:">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY accountName.label "Account Name:">
-<!ENTITY serverDefaultCharset1.label "Encoding:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "n">

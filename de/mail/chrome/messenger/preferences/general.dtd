@@ -1,19 +1,12 @@
-<!ENTITY systemDefaults.label              "System Voreinstellungen">
 <!ENTITY alwaysCheckDefault.label          "Beim Start immer überprüfen ob &brandShortName; der Standard E-Mail Client ist">
 <!ENTITY alwaysCheckDefault.accesskey      "l">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
+
 <!ENTITY checkNow.label             "Jetzt prüfen">
 <!ENTITY checkNow.accesskey         "n">
 
 <!ENTITY allowSpotlight.label              "Spotlight erlauben Nachrichten zu durchsuchen">
 <!ENTITY allowSpotlight.accesskey          "S">
 
-<!ENTITY messengerStartPage.label         "&brandShortName;-Startseite">
 <!ENTITY location.label                   "Adresse:">
 <!ENTITY location1.accesskey               "r">
 <!ENTITY useDefault.label                 "Standard wiederherstellen">
@@ -42,10 +35,6 @@
 <!ENTITY browse.label                     "Durchsuchen…">
 <!ENTITY browse.accesskey                 "u">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pb.messagelist.fontsize.accesskey "p">
+<!-- message list font size -->
 <!ENTITY pb.messagelist.fontsize.label "Use a large font for the message list pane">
+<!ENTITY pb.messagelist.fontsize.accesskey "p">

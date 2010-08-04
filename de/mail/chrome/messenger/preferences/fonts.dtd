@@ -6,10 +6,9 @@
 <!ENTITY  language.label                          "Schriftarten für">
 <!ENTITY  language.accesskey                      "S">
 
-<!ENTITY  typefaces.label                         "Schriftart">
-<!ENTITY  sizes.label                             "Größe (Pixel)">
+<!ENTITY  size.label                              "Size:">
 <!ENTITY  proportionalSize.accesskey              "G">
-<!ENTITY  monospaceSize.accesskey                 "x">
+<!ENTITY  sizeMono.accesskey                      "i">
 
 <!ENTITY  proportional.label                      "Proportional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -20,8 +19,6 @@
 <!ENTITY  sans-serif.accesskey                    "a">
 <!ENTITY  monospace.label                         "Feste Breite:">
 <!ENTITY  monospace.accesskey                     "F">
-
-<!ENTITY  fontsize.units                          "Pixel">
 
 <!ENTITY  font.langGroup.latin1                   "Westlich">
 <!ENTITY  font.langGroup.latin2                   "Mitteleuropäisch">
@@ -60,40 +57,12 @@
 <!ENTITY  useDefaultFontSerif.label               "Serifenschrift">
 <!ENTITY  useDefaultFontSansSerif.label           "Serifenlose Schrift">
 
-<!ENTITY  newLanguages.label                      "Neue Sprachen können in den Spracheinstellungen konfiguriert werden.">
-
+<!-- fonts in message -->
+<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
+<!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Nachrichten das Verwenden eigener statt der oben gewählten Schriftarten erlauben">
 <!ENTITY  useDocumentFonts.accesskey              "N">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "Ausgehende Nachrichten:">
-<!ENTITY sendDefaultCharset.accesskey     "h">
-<!ENTITY languagesTitle1.label            "Zeichenkodierungen">
-<!ENTITY composingDescription.label       "Standard-Zeichenkodierungen für ein- und ausgehende Nachrichten">
-
-<!ENTITY viewDefaultCharsetList.label     "Eingehende Nachrichten:">
-<!ENTITY viewDefaultCharsetList.accesskey  "i">
-<!ENTITY forceCharsetOverride.label       "Den Standard-Zeichensatz auf alle eintreffenden Nachrichten anwenden">
-<!ENTITY forceCharsetOverride.accesskey   "a">
-<!ENTITY replyInDefaultCharset.label      "Den Standard-Zeichensatz für Antworten verwenden">
-<!ENTITY replyInDefaultCharset.accesskey  "h">
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY  sizeMono.accesskey                      "i">
-<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
-<!ENTITY  fixedWidth.accesskey                    "x">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY  size.label                              "Size:">
-<!ENTITY  fontControl.label                       "Font Control">
-<!ENTITY replyInDefaultCharset2.label     "When possible, use the default character encoding in replies">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY viewDefaultCharsetList1.label     "Character encoding:">
 <!ENTITY viewDefaultCharsetList1.accesskey  "C">
