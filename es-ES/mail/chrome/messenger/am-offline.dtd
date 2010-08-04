@@ -25,17 +25,9 @@
 <!ENTITY offlineSelectNntp.label "Seleccionar grupos de noticias para su uso sin conexión…">
 <!ENTITY offlineSelectImap.label "Seleccionar carpetas para el uso sin conexión...">
 <!ENTITY offlineSelect.accesskey "S">
-<!ENTITY offlineDesc.label "Puede descargar sus mensajes localmente para que estén disponibles cuando esté trabajando sin conexión.">
 <!ENTITY makeInboxMsgsAvailable.label "Hacer que los mensajes en mi bandeja de entrada estén disponibles cuando esté trabajando sin conexión">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
 <!ENTITY offlineGroupTitle.label "Sin conexión">
 <!ENTITY diskspaceGroupTitle.label "Espacio en disco">
 <!ENTITY ftiGroupTitle.label "Búsqueda global">
-<!ENTITY fti.indexMsgs.label "Indexar mensajes">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY fti.indexMsgBodies.label "Index message bodies">

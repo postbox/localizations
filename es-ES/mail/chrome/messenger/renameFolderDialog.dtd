@@ -39,11 +39,5 @@
 <!ENTITY renameFolderDialog.title          "Renombrar carpeta">
 <!ENTITY rename.label                      "Introduzca el nuevo nombre de la carpeta:">
 <!ENTITY rename.accesskey                  "e">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY accept.accesskey                  "R">
 <!ENTITY accept.label                      "Rename">
+<!ENTITY accept.accesskey                  "R">

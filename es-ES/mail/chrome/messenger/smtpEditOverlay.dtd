@@ -6,34 +6,15 @@
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "Puerto:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Utilizar nombre y contraseña">
-<!ENTITY alwaysUseUsername.accesskey "U">
 <!ENTITY userName.label "Nombre de usuario:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY useSecAuth.label "Usar identificación segura">
-<!ENTITY useSecAuth.accesskey "i">
-<!ENTITY isSecure.label "Utilizar conexión segura:">
-<!ENTITY neverSecure.label "No">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSTARTTLS.label "STARTTSL, si está disponible">
-<!ENTITY sometimesSTARTTLS.accesskey "A">
-<!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY alwaysSTARTTLS.accesskey "T">
-<!ENTITY alwaysSMTPOverSSL.label "SMTP sobre SSL">
-<!ENTITY alwaysSMTPOverSSL.accesskey "L">
-<!ENTITY smtpEditTitle.label "Servidor SMTP">
-<!ENTITY serverPortDefault.label "Predeterminado:">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY authMethod.accesskey "i">
 <!ENTITY connectionSecurity.label "Connection security:">
-<!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
-<!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY smtpEditTitle.label "Servidor SMTP">
+<!ENTITY serverPortDefault.label "Predeterminado:">
 <!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.accesskey "i">

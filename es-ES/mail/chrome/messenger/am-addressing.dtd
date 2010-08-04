@@ -30,12 +30,6 @@
 <!ENTITY place.accesskey                      "f">
 <!ENTITY belowText.label                      "bajo el texto citado (recomendado)">
 <!ENTITY aboveText.label                      "Bajo mi respuesta (sobre el texto citado)">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY includeSigOnReply.label              "Include signature for replies">
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Include signature for forwards">

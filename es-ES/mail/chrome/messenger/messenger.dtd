@@ -122,29 +122,14 @@
 <!-- View Menu -->
 <!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "P">
-<!ENTITY pinStarredMessages.label "Marcar Tareas">
-<!ENTITY pinStarredMessages.accesskey "M">
-<!ENTITY showConversations.label "Mostrar conversaciones">
-<!ENTITY showConversations.accesskey "M">
-<!ENTITY viewMenuShowAttachments.label "Adjuntos">
-<!ENTITY viewMenuShowAttachments.accesskey "t">
-<!ENTITY key_showAttachments.key         "a">
-<!ENTITY viewMenuShowImages.label        "Imagenes">
-<!ENTITY viewMenuShowImages.accesskey    "m">
-<!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowLinks.label         "Enlaces">
-<!ENTITY viewMenuShowLinks.accesskey     "l">
-<!ENTITY key_showLinks.key               "l">
-<!ENTITY viewMenuShowContacts.label      "Contactos">
-<!ENTITY viewMenuShowContacts.accesskey  "n">
-<!ENTITY key_showContacts.key            "c">
 <!ENTITY messagePaneLayoutStyle.label "Disposición">
 <!ENTITY messagePaneLayoutStyle.accesskey "D">
 <!ENTITY messagePaneClassic.label "Vista clásica">
 <!ENTITY messagePaneClassic.accesskey "c">
 <!ENTITY messagePaneVertical.label "Vista vertical">
 <!ENTITY messagePaneVertical.accesskey "V">
-
+<!ENTITY showMessageCmd.label "Message Pane">
+<!ENTITY showMessageCmd.accesskey "M">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
@@ -415,10 +400,9 @@
 <!ENTITY addons.accesskey "m">
 <!ENTITY messengerCmd.label "Correo y noticias">
 <!ENTITY messengerCmd.accesskey "o">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Libreta de direcciones">
 <!ENTITY addressBookCmd.accesskey "b">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY junkMailCmd.label "Controles de correo basura...">
 <!ENTITY junkMailCmd.accesskey "C">
 <!ENTITY runJunkControls.label "Ejecutar controles de correo basura en la carpeta">
@@ -708,12 +692,3 @@
 <!ENTITY pbLightningQuickView.label "Vista previa">
 <!ENTITY lightning.calendar.label "Calendar">
 <!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY showMessageCmd.label "Message Pane">
-<!ENTITY addressBookCmd.key "B">
-<!ENTITY showMessageCmd.accesskey "M">
