@@ -160,7 +160,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Carnet d'adresses">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "Paramètres des comptes…">
 <!ENTITY accountManagerCmd.accesskey "m">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
@@ -292,7 +292,6 @@
 <!ENTITY contactsButton.tooltip                 "Trouver contacts">
 <!ENTITY imagesButton.tooltip                   "Trouver les images">
 <!ENTITY attachmentsButton.tooltip              "Trouver les pièces jointes">
-<!ENTITY linksButton.tooltip                    "Trouver les liens">
 <!ENTITY placesButton.tooltip                   "Trouver les lieux">
 <!ENTITY researchButton.tooltip                 "Trouver les références">
 <!ENTITY signaturesButton.tooltip               "Trouver les signatures">
@@ -315,10 +314,3 @@
 
 <!ENTITY pbComposeSidebar.label "Sidebar">
 <!ENTITY pbComposeSidebar.accesskey "S">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY addressBookCmd.key "B">

@@ -1,7 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Copies et dossiers">
-<!ENTITY sendingPrefix.label "Lors de l'envoi de messages, automatiquement :">
 <!ENTITY fccMailFolder.label "Placer une copie dans :">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Placer les réponses dans le dossier du message auquel il a été répondu">
@@ -15,45 +14,31 @@
 <!ENTITY templateMailFolder.label "Conserver les modèles dans :">
 <!ENTITY saveMessageDlg.label "Demander une confirmation quand les messages sont enregistrés">
 <!ENTITY saveMessageDlg.accesskey "m">
-<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Dossier « Envoyés » de :">
-<!ENTITY sentFolderOn.accesskey "v">
+<!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY sentFolderOn1.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Autre dossier :">
 <!ENTITY sentInOtherFolder.accesskey "A">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Dossier « Brouillons » de :">
-<!ENTITY draftsFolderOn.accesskey "r">
+<!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn1.label "Drafts:">
+<!ENTITY draftsFolderOn1.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Autre dossier :">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Dossiers « Archives » de :">
-<!ENTITY archivesFolderOn.accesskey "o">
+<!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn1.label "Archive:">
+<!ENTITY archivesFolderOn1.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Autre dossier :">
 <!ENTITY archiveInOtherFolder.accesskey "u">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Dossier « Modèles » de :">
-<!ENTITY templatesFolderOn.accesskey "l">
+<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY templatesFolderOn1.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Autre dossier :">
 <!ENTITY templateInOtherFolder.accesskey "e">
-<!ENTITY specialFoldersTitle.label "Brouillons, archives et modèles">
 <!ENTITY keepDrafts.label "Conserver les brouillons dans :">
 <!ENTITY keepArchives.label "Conserver les archives dans :">
 <!ENTITY keepTempltes.label "Conserver les modèles dans :">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY templatesFolderOn1.accesskey "m">
-<!ENTITY draftsFolderOn1.accesskey "D">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
 <!ENTITY pbSentSettings.label "Sent">
 <!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY sentFolderOn1.label "Sent:">
-<!ENTITY draftsFolderOn1.label "Drafts:">
-<!ENTITY sentFolderOn1.accesskey "e">
-<!ENTITY archivesFolderOn1.accesskey "n">
-<!ENTITY archivesFolderOn1.label "Archive:">
-<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY pbArchiveSettings.label "Archive">
+<!ENTITY pbTemplatesSettings.label "Templates">

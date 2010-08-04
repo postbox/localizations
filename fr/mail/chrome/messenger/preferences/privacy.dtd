@@ -1,5 +1,4 @@
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Pour configurer les paramètres pour les indésirables pour un compte particulier, se rendre dans le menu &quot;Paramètres des Comptes&quot;.">
 <!ENTITY manualMark.label "Quand je marque des messages comme indésirables:">
 <!ENTITY manualMark.accesskey "Q">
 <!ENTITY manualMarkModeMove.label "Les déplacer dans le dossier &quot;Junk&quot;">
@@ -14,7 +13,7 @@
 <!ENTITY openJunkLog.accesskey "h">
 <!ENTITY resetTrainingData.label "Réinitialiser les données d'apprentissage">
 <!ENTITY resetTrainingData.accesskey "d">
-<!ENTITY junkMail.label         "Message Indésirable">
+
 
 <!-- Phishing Detector -->
 <!ENTITY enablePhishingDetector1.label    "Bloquer les e-mails signalés comme frauduleux">
@@ -27,24 +26,16 @@
 <!ENTITY changeMasterPassword.accesskey       "m">
 <!ENTITY savedPasswords.label                 "Mots de passe sauvegardés...">
 <!ENTITY savedPasswords.accesskey             "s">
-<!ENTITY passwords.label                       "Mots de passe">
 
 <!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics.label       "Aider &brandShortName; à s'améliorer en envoyant automatiquement des données anonymes à usage statistique.">
-<!ENTITY enableAnonymousStatistics.accesskey   "A">
+<!ENTITY enableAnonymousStatistics2.label      "Help make &brandShortName; better by sending anonymous usage statistics.">
+<!ENTITY enableAnonymousStatistics.accesskey   "H">
 
 <!-- Remote images -->
 <!ENTITY disableImageInMailNews.label  "Bloquer le chargement d'images distantes dans les courriels">
 <!ENTITY disableImageInMailNews.accesskey "r">
 
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in Account Settings.">
 <!ENTITY pbPrivacy.label "Privacy:">
 <!ENTITY pbJunkMail.label "Junk:">
-<!ENTITY enableAnonymousStatistics2.label      "Help make &brandShortName; better by sending anonymous usage statistics.">
 <!ENTITY pbPasswords.label "Passwords:">
+<!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in Account Settings.">

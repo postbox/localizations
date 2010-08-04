@@ -25,17 +25,9 @@
 <!ENTITY offlineSelectNntp.label "Sélection groupes pour utilisation hors connexion…">
 <!ENTITY offlineSelectImap.label "Sélectionnez les dossiers pour une utilisation hors connexion...">
 <!ENTITY offlineSelect.accesskey "S">
-<!ENTITY offlineDesc.label "Vous pouvez télécharger des messages localement afin qu'ils soient disponibles lorsque vous travaillez hors connexion.">
 <!ENTITY makeInboxMsgsAvailable.label "Rendre les messages dans ma boîte de réception disponible lorsque je travaille hors connexion">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
 <!ENTITY offlineGroupTitle.label "Hors connexion">
 <!ENTITY diskspaceGroupTitle.label "Espace disque ">
 <!ENTITY ftiGroupTitle.label "Recherche globale">
-<!ENTITY fti.indexMsgs.label "Index des messages">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY fti.indexMsgBodies.label "Index message bodies">

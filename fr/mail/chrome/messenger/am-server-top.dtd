@@ -1,6 +1,5 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Paramètres de sécurité">
 <!ENTITY serverSettings.label "Paramètres du serveur">
 <!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
 <!ENTITY popServer.label "Serveur de courrier POP">
@@ -26,19 +25,14 @@
 <!ENTITY biffStart.label "Vérifier les nouveaux messages toutes les ">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutes">
-<!ENTITY isSecure.label "Utiliser une connexion chiffrée (SSL)">
-<!ENTITY isSecure.accesskey "U">
-<!ENTITY socketType.label "Utiliser une connexion sécurisée:">
-<!ENTITY neverSecure.label "Jamais">
-<!ENTITY neverSecure.accesskey "J">
-<!ENTITY sometimesSecure.label "TLS, si disponible">
-<!ENTITY sometimesSecure.accesskey "T">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Utiliser une authentification sécurisée">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Laisser les messages sur le serveur">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Télécharger uniquement les en-têtes">
@@ -87,7 +81,7 @@
 <!ENTITY abbreviateOff.label "des noms abrégés (par exemple « m.d.a.thunderbird »)">
 <!ENTITY advancedButton.label "Avancés…">
 <!ENTITY advancedButton.accesskey "s">
-<!ENTITY serverDefaultCharset.label "Encodage de caractères par défaut :">
+<!ENTITY serverDefaultCharset1.label "Encoding:">
 <!ENTITY localFolderPicker.label "Sélection du répertoire local">
 <!ENTITY browseFolder.label "Parcourir…">
 <!ENTITY browseFolder.accesskey "P">
@@ -95,26 +89,5 @@
 <!ENTITY browseNewsrc.label "Parcourir…">
 <!ENTITY browseNewsrc.accesskey "a">
 
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY authMethod.label "Authentication:">
-<!ENTITY authMethod.accesskey "i">
-<!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY connectionSecurity.accesskey "u">
-<!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-2.label "STARTTLS">
-<!ENTITY connectionSecurity.label "Connection security:">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY accountName.label "Account Name:">
-<!ENTITY serverDefaultCharset1.label "Encoding:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "n">

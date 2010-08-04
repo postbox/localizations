@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Formatage">
 <!ENTITY itemTags.label                   "Étiquettes">
-<!ENTITY itemFonts.label                  "Polices">
 
-<!ENTITY textBegin.label                  "Apparence du texte simple cité">
 <!ENTITY style.label                      "Style :">
 <!ENTITY style.accesskey                  "S">
 <!ENTITY regularStyle.label               "Normal">
@@ -14,52 +12,30 @@
 <!ENTITY regularSize.label                "Normale">
 <!ENTITY bigger.label                     "Plus grande">
 <!ENTITY smaller.label                    "Plus petite">
-<!ENTITY color.label                      "Couleur :">
-<!ENTITY color.accesskey                  "u">
-<!ENTITY displayWidth.label               "Messages en texte simple">
-<!ENTITY plainText.label                  "Choisir la police suivante:">
-<!ENTITY displayText.label                "Lors de l'affichage de citations en texte simple :">
-<!ENTITY viewingPlainText.label            "Lors de l'affichage de messages en texte simple:">
-<!ENTITY fixedWidth.label                 "Fixed width font">
-<!ENTITY fixedWidth.accesskey             "x">
-<!ENTITY variableWidth.label              "Variable width font">
-<!ENTITY variableWidth.accesskey          "V">
-<!ENTITY readingMessagesHeader.label      "Pour les messages reçus">
-<!ENTITY colors.label                     "Couleurs">
-<!ENTITY overrideColors.label             "Lors de l'affichage des messages, utiliser les couleurs suivantes :">
 <!ENTITY textColor.label                  "Couleur de texte :">
 <!ENTITY textColor.accesskey              "C">
 <!ENTITY backgroundColor.label            "Couleur de fond :">
 <!ENTITY backgroundColor.accesskey        "o">
 
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label        "Afficher les émoticônes sous forme graphique">
-<!ENTITY convertEmoticons.accesskey    "A">
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Étiquette">
 <!ENTITY tagActiveColumn.label    "Favoris">
-<!ENTITY displayTagsText.label    "Les étiquettes peuvent être utilisées pour classer en catégories et donner un ordre de priorité à vos messages">
 <!ENTITY addTagButton.label       "Ajouter">
 <!ENTITY addTagButton.accesskey   "A">
 <!ENTITY editTagButton.label      "Modifier">
 <!ENTITY editTagButton.accesskey   "M">
 <!ENTITY removeTagButton.label    "Supprimer">
 <!ENTITY removeTagButton.accesskey "S">
-<!ENTITY moveTagUpButton.label    "Monter">
-<!ENTITY moveTagUpButton.accesskey "M">
-<!ENTITY moveTagDownButton.label    "Descendre">
-<!ENTITY moveTagDownButton.accesskey "D">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "Configurer les polices de caractères et les options d'encodages utilisées par &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label      "Polices et encodages">
+<!ENTITY fontsAndColors.label    "Fonts">
+<!ENTITY defaultFont.label       "Default font:">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "Size:">
+<!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "Avancé…">
-
-<!-- message list font size -->
-<!ENTITY pb.messagelist.fontsize.label "Utiliser une grande police de caractères pour la liste des messages">
-<!ENTITY pb.messagelist.fontsize.accesskey "p">
 
 <!ENTITY pb.messagelist.colortagrow.label "Appliquer la couleur du sujet à toute la colonne de la liste des messages">
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">
@@ -78,14 +54,3 @@
 <!ENTITY pb.conversations.all.accesskey "D">
 <!ENTITY pb.conversations.photos.label "Inclure la photo de chaque participant dans la conversation">
 <!ENTITY pb.conversations.photos.accesskey "I">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY defaultSize.accesskey   "S">
-<!ENTITY defaultSize.label       "Size:">
-<!ENTITY defaultFont.label       "Default font:">
-<!ENTITY defaultFont.accesskey   "D">
-<!ENTITY fontsAndColors.label    "Fonts">
