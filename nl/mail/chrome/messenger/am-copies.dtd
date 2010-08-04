@@ -1,7 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Kopieën &amp; mappen">
-<!ENTITY sendingPrefix.label "Bij het verzenden van berichten, automatisch:">
 <!ENTITY fccMailFolder.label "Een kopie plaatsen in:">
 <!ENTITY fccMailFolder.accesskey "k">
 <!ENTITY fccReplyFollowsParent.label "Antwoorden plaatsen in de map van het bericht waarop wordt geantwoord">
@@ -15,45 +14,31 @@
 <!ENTITY templateMailFolder.label "Berichtsjablonen bewaren in:">
 <!ENTITY saveMessageDlg.label "Bevestiging weergeven als berichten zijn opgeslagen">
 <!ENTITY saveMessageDlg.accesskey "w">
-<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Map “Verzonden” in:">
-<!ENTITY sentFolderOn.accesskey "V">
+<!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY sentFolderOn1.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Anders:">
 <!ENTITY sentInOtherFolder.accesskey "A">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Map “Concepten” in:">
-<!ENTITY draftsFolderOn.accesskey "C">
+<!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn1.label "Drafts:">
+<!ENTITY draftsFolderOn1.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Anders:">
 <!ENTITY draftInOtherFolder.accesskey "n">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Map “Archieven” in:">
-<!ENTITY archivesFolderOn.accesskey "r">
+<!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn1.label "Archive:">
+<!ENTITY archivesFolderOn1.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Anders:">
 <!ENTITY archiveInOtherFolder.accesskey "e">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Map “Sjablonen” in:">
-<!ENTITY templatesFolderOn.accesskey "S">
+<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY templatesFolderOn1.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Anders:">
 <!ENTITY templateInOtherFolder.accesskey "d">
-<!ENTITY specialFoldersTitle.label "Concepten, archieven en sjablonen">
 <!ENTITY keepDrafts.label "Berichtconcepten bewaren in:">
 <!ENTITY keepArchives.label "Berichtarchieven bewaren in:">
 <!ENTITY keepTempltes.label "Berichtsjablonen bewaren in:">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY templatesFolderOn1.accesskey "m">
-<!ENTITY draftsFolderOn1.accesskey "D">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
 <!ENTITY pbSentSettings.label "Sent">
 <!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY sentFolderOn1.label "Sent:">
-<!ENTITY draftsFolderOn1.label "Drafts:">
-<!ENTITY sentFolderOn1.accesskey "e">
-<!ENTITY archivesFolderOn1.accesskey "n">
-<!ENTITY archivesFolderOn1.label "Archive:">
-<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY pbArchiveSettings.label "Archive">
+<!ENTITY pbTemplatesSettings.label "Templates">

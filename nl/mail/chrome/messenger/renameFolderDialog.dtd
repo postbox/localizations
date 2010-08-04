@@ -39,11 +39,5 @@
 <!ENTITY renameFolderDialog.title          "Mapnaam wijzigen">
 <!ENTITY rename.label                      "Voer een nieuwe naam in voor de map:">
 <!ENTITY rename.accesskey                  "V">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY accept.accesskey                  "R">
 <!ENTITY accept.label                      "Rename">
+<!ENTITY accept.accesskey                  "R">

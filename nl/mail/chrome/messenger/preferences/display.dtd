@@ -1,8 +1,6 @@
 <!ENTITY itemFormatting.label             "Opmaak">
 <!ENTITY itemTags.label                   "Labels">
-<!ENTITY itemFonts.label                  "Lettertypes">
 
-<!ENTITY textBegin.label                  "Geciteerde platte tekst weergave">
 <!ENTITY style.label                      "Stijl:">
 <!ENTITY style.accesskey                  "S">
 <!ENTITY regularStyle.label               "Normaal">
@@ -14,52 +12,30 @@
 <!ENTITY regularSize.label                "Normaal">
 <!ENTITY bigger.label                     "Groter">
 <!ENTITY smaller.label                    "Kleiner">
-<!ENTITY color.label                      "Kleur:">
-<!ENTITY color.accesskey                  "K">
-<!ENTITY displayWidth.label               "Plattetekstberichten">
-<!ENTITY plainText.label                  "Gebruik het volgende lettertype:">
-<!ENTITY displayText.label                "Geciteerde tekst in plattetekstberichten weergeven als:">
-<!ENTITY viewingPlainText.label            "Bij het weergeven van platte tekst berichten:">
-<!ENTITY fixedWidth.label                 "Lettertype met vaste breedte">
-<!ENTITY fixedWidth.accesskey             "L">
-<!ENTITY variableWidth.label              "Lettertype met variabele breedte">
-<!ENTITY variableWidth.accesskey          "v">
-<!ENTITY readingMessagesHeader.label      "Voor inkomende berichten">
-<!ENTITY colors.label                     "Kleuren">
-<!ENTITY overrideColors.label             "Bij het weergeven van berichten de volgende kleuren gebruiken:">
 <!ENTITY textColor.label                  "Tekstkleur:">
 <!ENTITY textColor.accesskey              "T">
 <!ENTITY backgroundColor.label            "Achtergrondkleur:">
 <!ENTITY backgroundColor.accesskey        "A">
 
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label        "Emoticons weergeven als afbeeldingen">
-<!ENTITY convertEmoticons.accesskey    "E">
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Label">
 <!ENTITY tagActiveColumn.label    "Favoriet">
-<!ENTITY displayTagsText.label    "Labels kunnen worden gebruikt voor het categoriseren van uw berichten.">
 <!ENTITY addTagButton.label       "Toevoegen">
 <!ENTITY addTagButton.accesskey   "T">
 <!ENTITY editTagButton.label      "Bewerken">
 <!ENTITY editTagButton.accesskey   "B">
 <!ENTITY removeTagButton.label    "Verwijderen">
 <!ENTITY removeTagButton.accesskey "V">
-<!ENTITY moveTagUpButton.label    "Omhoog verplaatsen">
-<!ENTITY moveTagUpButton.accesskey "O">
-<!ENTITY moveTagDownButton.label    "Omlaag verplaatsen">
-<!ENTITY moveTagDownButton.accesskey "O">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "Configureer de lettertypen en coderingen gebruikt door &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label      "Lettertypen &amp; tekensets">
+<!ENTITY fontsAndColors.label    "Fonts">
+<!ENTITY defaultFont.label       "Default font:">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "Size:">
+<!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "c">
 <!ENTITY fontOptions.label       "Geavanceerd…">
-
-<!-- message list font size -->
-<!ENTITY pb.messagelist.fontsize.label "Gebruik een groot lettertype voor de berichtenlijst paneel">
-<!ENTITY pb.messagelist.fontsize.accesskey "p">
 
 <!ENTITY pb.messagelist.colortagrow.label "Pas de label-kleur toe op de hele rij in de berichtenlijst">
 <!ENTITY pb.messagelist.colortagrow.accesskey "P">
@@ -78,14 +54,3 @@
 <!ENTITY pb.conversations.all.accesskey "m">
 <!ENTITY pb.conversations.photos.label "Voeg contact foto's toe van iedere deelnemer in de conversatie">
 <!ENTITY pb.conversations.photos.accesskey "i">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY defaultSize.accesskey   "S">
-<!ENTITY defaultSize.label       "Size:">
-<!ENTITY defaultFont.label       "Default font:">
-<!ENTITY defaultFont.accesskey   "D">
-<!ENTITY fontsAndColors.label    "Fonts">

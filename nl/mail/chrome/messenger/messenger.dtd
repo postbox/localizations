@@ -122,29 +122,14 @@
 <!-- View Menu -->
 <!ENTITY customizeToolbar.label "Aanpassen…">
 <!ENTITY customizeToolbar.accesskey "A">
-<!ENTITY pinStarredMessages.label "To-Do's vastzetten">
-<!ENTITY pinStarredMessages.accesskey "T">
-<!ENTITY showConversations.label "Conversaties weergeven">
-<!ENTITY showConversations.accesskey "C">
-<!ENTITY viewMenuShowAttachments.label "Bijlagen">
-<!ENTITY viewMenuShowAttachments.accesskey "B">
-<!ENTITY key_showAttachments.key         "a">
-<!ENTITY viewMenuShowImages.label        "Afbeeldingen">
-<!ENTITY viewMenuShowImages.accesskey    "A">
-<!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowLinks.label         "Links">
-<!ENTITY viewMenuShowLinks.accesskey     "L">
-<!ENTITY key_showLinks.key               "l">
-<!ENTITY viewMenuShowContacts.label      "Adresboek">
-<!ENTITY viewMenuShowContacts.accesskey  "A">
-<!ENTITY key_showContacts.key            "c">
 <!ENTITY messagePaneLayoutStyle.label "Vormgeving">
 <!ENTITY messagePaneLayoutStyle.accesskey "V">
 <!ENTITY messagePaneClassic.label "Klassiek beeld">
 <!ENTITY messagePaneClassic.accesskey "K">
 <!ENTITY messagePaneVertical.label "Verticaal beeld">
 <!ENTITY messagePaneVertical.accesskey "V">
-
+<!ENTITY showMessageCmd.label "Message Pane">
+<!ENTITY showMessageCmd.accesskey "M">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorteren op">
@@ -415,10 +400,9 @@
 <!ENTITY addons.accesskey "P">
 <!ENTITY messengerCmd.label "E-mail &amp; nieuwsgroepen">
 <!ENTITY messengerCmd.accesskey "E">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY junkMailCmd.label "Beheer Ongewenste E-mail...">
 <!ENTITY junkMailCmd.accesskey "B">
 <!ENTITY runJunkControls.label "Ongewensteberichtenverwerking uitvoeren op map">
@@ -708,12 +692,3 @@
 <!ENTITY pbLightningQuickView.label "Snelvoorbeeld">
 <!ENTITY lightning.calendar.label "Calendar">
 <!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY showMessageCmd.label "Message Pane">
-<!ENTITY addressBookCmd.key "B">
-<!ENTITY showMessageCmd.accesskey "M">

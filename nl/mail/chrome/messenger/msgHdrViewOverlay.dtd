@@ -35,36 +35,36 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "Aan">
-<!ENTITY fromField.label "Van">
-<!ENTITY senderField.label "Afzender">
-<!ENTITY organizationField.label "Organisatie">
-<!ENTITY replyToField.label "Antwoord-naar">
+<!ENTITY pbToField.label "To:">
+<!ENTITY pbFromField.label "From:">
+<!ENTITY pbSenderField.label "Sender:">
+<!ENTITY pbOrganizationField.label "Organization:">
+<!ENTITY pbReplyToField.label "Reply-To:">
 
 <!ENTITY subjectField.label "Onderwerp: ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Cc">
-<!ENTITY bccField.label "Bcc">
-<!ENTITY newsgroupsField.label "Nieuwsgroepen">
-<!ENTITY followupToField.label "Reacties-naar">
-<!ENTITY linkField.label "Koppeling">
-<!ENTITY tagsHdr.label "Labels">
-<!ENTITY dateField.label "Datum">
-<!ENTITY userAgentField.label "User-agent">
-<!ENTITY referencesField.label "Referenties">
-<!ENTITY messageIdField.label "Bericht-ID">
-<!ENTITY inReplyToField.label "Als-Antwoord-Op">
-<!ENTITY originalWebsite.label "Website">
-<!ENTITY participantsField.label "Deelnemers">
+<!ENTITY pbCcField.label "Cc:">
+<!ENTITY pbBccField.label "Bcc:">
+<!ENTITY pbNewsgroupsField.label "Newsgroups:">
+<!ENTITY pbFollowupToField.label "Followup-To:">
+<!ENTITY pbLinkField.label "Link:">
+<!ENTITY pbTagsHdr.label "Topics:">
+<!ENTITY pbDateField.label "Date:">
+<!ENTITY pbUserAgentField.label "User-Agent:">
+<!ENTITY pbReferencesField.label "References:">
+<!ENTITY pbMessageIdField.label "Message-ID:">
+<!ENTITY pbInReplyToField.label "In-Reply-To:">
+<!ENTITY pbOriginalWebsite.label "Website:">
+<!ENTITY pbParticipantsField.label "Participants:">
 <!ENTITY saveAll.label "Alle Opslaan..">
 
 <!ENTITY messageHeader.editMessageButton.label      "Bewerken">
-<!ENTITY messageHeader.editMessageButton.tooltip    "Bewerk het bericht.">
 <!ENTITY messageHeader.gatherMessageButton.label    "Toon alles">
-<!ENTITY messageHeader.gatherMessageButton.tooltip  "Geef alle berichten van deze conversatie weer, uit alle mappen.">
 <!ENTITY messageHeader.tagMessageButton.tooltip     "Label(s) toewijzen aan bericht.">
-<!ENTITY messageHeader.todo.label "To-Do">
-<!ENTITY messageHeader.todo.tooltip "Maak van dit bericht een To-Do">
+<!ENTITY messageHeader.reply.label "Reply">
+<!ENTITY messageHeader.reply.tooltip "Reply to the message.">
+<!ENTITY messageHeader.replyAll.label "Reply All">
+<!ENTITY messageHeader.forward.label "Forward">
 
 <!ENTITY openAttachmentCmd.label    "Openen">
 <!ENTITY openAttachmentCmd.accesskey    "O">
@@ -94,31 +94,3 @@
 <!ENTITY pbMsgHdrView.conversationMsgReply.label "antwoorden">
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "alle antwoorden">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "doorsturen">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbInReplyToField.label "In-Reply-To:">
-<!ENTITY messageHeader.reply.tooltip "Reply to the message.">
-<!ENTITY pbReferencesField.label "References:">
-<!ENTITY pbToField.label "To:">
-<!ENTITY pbFromField.label "From:">
-<!ENTITY pbFollowupToField.label "Followup-To:">
-<!ENTITY messageHeader.replyAll.label "Reply All">
-<!ENTITY pbBccField.label "Bcc:">
-<!ENTITY messageHeader.reply.label "Reply">
-<!ENTITY pbOriginalWebsite.label "Website:">
-<!ENTITY pbDateField.label "Date:">
-<!ENTITY pbCcField.label "Cc:">
-<!ENTITY pbLinkField.label "Link:">
-<!ENTITY pbSenderField.label "Sender:">
-<!ENTITY pbNewsgroupsField.label "Newsgroups:">
-<!ENTITY pbReplyToField.label "Reply-To:">
-<!ENTITY messageHeader.forward.label "Forward">
-<!ENTITY pbUserAgentField.label "User-Agent:">
-<!ENTITY pbTagsHdr.label "Topics:">
-<!ENTITY pbOrganizationField.label "Organization:">
-<!ENTITY pbMessageIdField.label "Message-ID:">
-<!ENTITY pbParticipantsField.label "Participants:">

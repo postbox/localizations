@@ -25,17 +25,9 @@
 <!ENTITY offlineSelectNntp.label "Nieuwsgroepen voor offlinegebruik selecteren…">
 <!ENTITY offlineSelectImap.label "Geef mappen aan voor offline gebruik...">
 <!ENTITY offlineSelect.accesskey "S">
-<!ENTITY offlineDesc.label "U kunt uw berichten lokaal opslaan zodat deze beschikbaar zijn wanneer u offline werkt.">
 <!ENTITY makeInboxMsgsAvailable.label "Maak de berichten in mijn Inbox beschikbaar voor offline gebruik">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
 <!ENTITY offlineGroupTitle.label "Offline">
 <!ENTITY diskspaceGroupTitle.label "Schijfruimte">
 <!ENTITY ftiGroupTitle.label "Globaal Zoeken">
-<!ENTITY fti.indexMsgs.label "Indexeer berichten">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY fti.indexMsgBodies.label "Index message bodies">

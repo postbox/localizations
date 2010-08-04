@@ -1,5 +1,6 @@
 <!-- strings used in both the focus pane and the full text search focus pane -->
 <!ENTITY focusPaneFilterByTags.label    "Favoriete labels">
+<!ENTITY focusPaneFilterByTagsMac.label "FAVORITE TOPICS">
 <!ENTITY focusPaneAllTags.label         "Alle">
 <!ENTITY focusPaneNoTags.label          "Geen">
 
@@ -9,16 +10,16 @@
 <!ENTITY focusPaneSearchScopeEverywhere.label  "Alle Accounts">
 <!ENTITY focusPaneSearchAttribute.label        "Eigenschappen">
 <!ENTITY focusPaneSearchAttributeMac.label     "EIGENSCHAPPEN">
-<!ENTITY focusPaneAllAttribute.label           "Alle">
-<!ENTITY focusPaneSubjectAttribute.label       "Onderwerp">
-<!ENTITY focusPaneSenderAttribute.label        "Afzender">
-<!ENTITY focusPaneRecipientsAttribute.label    "Ontvangers">
+<!ENTITY focusPaneHasAttachmentAttribute.label           "Has Attachment">
 <!ENTITY focusPaneFilterByDate.label    "Datum">
 <!ENTITY focusPaneFilterByDateMac.label "DATUM">
 <!ENTITY focusPaneAnyDate.label         "Elke datum">
 <!ENTITY focusPaneToday.label           "Vandaag">
+<!ENTITY focusPaneYesterday.label       "Yesterday">
 <!ENTITY focusPaneThisWeek.label        "Deze week">
 <!ENTITY focusPaneThisMonth.label       "Deze maand">
+<!ENTITY focusPaneFilterByContact.label    "Favorite Contacts">
+<!ENTITY focusPaneFilterByContactMac.label "FAVORITE CONTACTS">
 
 <!-- focus pane topics context menus -->
 <!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Naam wijzigen">
@@ -32,30 +33,14 @@
 <!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Labels bewerken...">
 <!ENTITY pbFavoriteTopicsContextMenu-editAll.accesskey  "L">
 
-
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbFavoriteContactsContactsMenu-edit.accesskey   "d">
-<!ENTITY pbFavoriteContactsContactsMenu-delete.accesskey "R">
-<!ENTITY focusPaneHasAttachmentAttribute.label           "Has Attachment">
-<!ENTITY focusPaneFilterByContact.label    "Favorite Contacts">
-<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Create Filter...">
-<!ENTITY pbFavoriteContactsContextMenu-email.label       "Email Contact">
+<!-- focus pane favorite contacts context menus -->
 <!ENTITY pbFavoriteContactsContextMenu-delete.label     "Remove From Favorites">
+<!ENTITY pbFavoriteContactsContactsMenu-delete.accesskey "R">
+<!ENTITY pbFavoriteContactsContextMenu-email.label       "Email Contact">
 <!ENTITY pbFavoriteContactsContactsMenu-email.accesskey  "e">
 <!ENTITY pbFavoriteContactsContextMenu-edit.label        "Edit Contact...">
-<!ENTITY focusPaneFilterByContactMac.label "FAVORITE CONTACTS">
-<!ENTITY focusPaneYesterday.label       "Yesterday">
+<!ENTITY pbFavoriteContactsContactsMenu-edit.accesskey   "d">
+<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Create Filter...">
 <!ENTITY pbFavoriteContactsContactsMenu-createfilter.accesskey "C">
-<!ENTITY focusPaneFilterByTagsMac.label "FAVORITE TOPICS">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
 
 <!ENTITY pbFavoriteContacts.DragLabel "Drag your favorite contacts here">

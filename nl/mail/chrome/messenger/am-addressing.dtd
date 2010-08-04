@@ -30,12 +30,6 @@
 <!ENTITY place.accesskey                      "o">
 <!ENTITY belowText.label                      "onder de geciteerde tekst (aanbevolen)">
 <!ENTITY aboveText.label                      "onder mijn antwoord (boven de geciteerde tekst)">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY includeSigOnReply.label              "Include signature for replies">
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Include signature for forwards">

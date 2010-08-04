@@ -1,6 +1,5 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Beveiligingsinstellingen">
 <!ENTITY serverSettings.label "Serverinstellingen">
 <!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
 <!ENTITY popServer.label "POP-mailserver">
@@ -26,19 +25,14 @@
 <!ENTITY biffStart.label "Op nieuwe berichten controleren om de">
 <!ENTITY biffStart.accesskey "c">
 <!ENTITY biffEnd.label "minuten">
-<!ENTITY isSecure.label "Beveiligde verbinding (SSL) gebruiken">
-<!ENTITY isSecure.accesskey "u">
-<!ENTITY socketType.label "Gebruik beveiligde verbinding:">
-<!ENTITY neverSecure.label "Nooit">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, als beschikbaar">
-<!ENTITY sometimesSecure.accesskey "a">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Beveiligde authenticatie gebruiken">
-<!ENTITY useSecAuth.accesskey "d">
+<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Berichten op de server laten">
 <!ENTITY leaveOnServer.accesskey "r">
 <!ENTITY headersOnly.label "Alleen berichtkoppen ophalen">
@@ -87,7 +81,7 @@
 <!ENTITY abbreviateOff.label "Afgekorte namen (bijvoorbeeld ‘n.p.m.mail-news’)">
 <!ENTITY advancedButton.label "Geavanceerd…">
 <!ENTITY advancedButton.accesskey "G">
-<!ENTITY serverDefaultCharset.label "Standaard tekenset:">
+<!ENTITY serverDefaultCharset1.label "Encoding:">
 <!ENTITY localFolderPicker.label "Lokale map selecteren">
 <!ENTITY browseFolder.label "Bladeren…">
 <!ENTITY browseFolder.accesskey "B">
@@ -95,26 +89,5 @@
 <!ENTITY browseNewsrc.label "Bladeren…">
 <!ENTITY browseNewsrc.accesskey "e">
 
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY authMethod.label "Authentication:">
-<!ENTITY authMethod.accesskey "i">
-<!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY connectionSecurity.accesskey "u">
-<!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-2.label "STARTTLS">
-<!ENTITY connectionSecurity.label "Connection security:">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY accountName.label "Account Name:">
-<!ENTITY serverDefaultCharset1.label "Encoding:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "n">
