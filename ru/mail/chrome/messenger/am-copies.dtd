@@ -39,3 +39,21 @@
 <!ENTITY keepDrafts.label "Хранить черновики сообщений в:">
 <!ENTITY keepArchives.label "Хранить архивированные сообщения в:">
 <!ENTITY keepTempltes.label "Хранить шаблоны сообщений в:">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY templatesFolderOn1.accesskey "m">
+<!ENTITY draftsFolderOn1.accesskey "D">
+<!ENTITY pbArchiveSettings.label "Archive">
+<!ENTITY pbTemplatesSettings.label "Templates">
+<!ENTITY pbSentSettings.label "Sent">
+<!ENTITY pbDraftsSettings.label "Drafts">
+<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY draftsFolderOn1.label "Drafts:">
+<!ENTITY sentFolderOn1.accesskey "e">
+<!ENTITY archivesFolderOn1.accesskey "n">
+<!ENTITY archivesFolderOn1.label "Archive:">
+<!ENTITY templatesFolderOn1.label "Templates:">

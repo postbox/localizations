@@ -89,3 +89,11 @@ entities below were automatically added by l10nmerge
 <!ENTITY  size.label                              "Size:">
 <!ENTITY  fontControl.label                       "Font Control">
 <!ENTITY replyInDefaultCharset2.label     "When possible, use the default character encoding in replies">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY viewDefaultCharsetList1.label     "Character encoding:">
+<!ENTITY viewDefaultCharsetList1.accesskey  "C">

@@ -37,3 +37,14 @@
 <!ENTITY disableImageInMailNews.label  "Bloquer le chargement d'images distantes dans les courriels">
 <!ENTITY disableImageInMailNews.accesskey "r">
 
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in Account Settings.">
+<!ENTITY pbPrivacy.label "Privacy:">
+<!ENTITY pbJunkMail.label "Junk:">
+<!ENTITY enableAnonymousStatistics2.label      "Help make &brandShortName; better by sending anonymous usage statistics.">
+<!ENTITY pbPasswords.label "Passwords:">

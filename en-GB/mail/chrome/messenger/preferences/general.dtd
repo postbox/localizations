@@ -41,3 +41,11 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Browse…">
 <!ENTITY browse.accesskey                 "B">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pb.messagelist.fontsize.accesskey "p">
+<!ENTITY pb.messagelist.fontsize.label "Use a large font for the message list pane">

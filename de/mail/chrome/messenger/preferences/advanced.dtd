@@ -91,3 +91,30 @@
 
 <!-- Web Services -->
 <!ENTITY webservicesInfo.label          "Konfiguriere die in Postbox verwendeten Web Services.">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioNotSend "No">
+<!ENTITY radioNotDownload "No">
+<!ENTITY textStartUp   "When starting up:">
+<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
+<!ENTITY radioAskUnsent "Ask me">
+<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY radioAutoDownload "Yes">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOnline "Send unsent messages when going online?">
+<!ENTITY radioAutoSend "Yes">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe "Ask me for online state at startup">
+<!ENTITY radioRememberPrevState "Remember previous online state">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioAlwaysOnline "Always start up online">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAskDownload "Ask me">

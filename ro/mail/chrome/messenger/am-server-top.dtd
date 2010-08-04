@@ -109,3 +109,12 @@ entities below were automatically added by l10nmerge
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurity.label "Connection security:">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY accountName.label "Account Name:">
+<!ENTITY serverDefaultCharset1.label "Encoding:">
+<!ENTITY accountName.accesskey "N">

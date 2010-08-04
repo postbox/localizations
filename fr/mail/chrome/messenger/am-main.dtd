@@ -38,3 +38,18 @@
 <!ENTITY pbEditSignature.accesskey "i">
 <!ENTITY pbChooseSignature.label "Choisir une signature">
 <!ENTITY pbChooseSignature.accesskey "g">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY editVCard1.accesskey "d">
+<!ENTITY pbIdentityTitle.label "Identity">
+<!ENTITY pbChooseSignature1.label "Signature:">
+<!ENTITY smtpName1.accesskey "u">
+<!ENTITY pbChooseSignature1.accesskey "g">
+<!ENTITY editVCard1.label "Edit...">
+<!ENTITY pbEditSignature1.accesskey "i">
+<!ENTITY pbEditSignature1.label "Edit...">
+<!ENTITY smtpName1.label "Outgoing Server:">

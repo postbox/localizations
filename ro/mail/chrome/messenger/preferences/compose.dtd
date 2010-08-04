@@ -71,3 +71,12 @@ entities below were automatically added by l10nmerge
 <!ENTITY attachmentReminder.label              "Check for missing attachments">
 <!ENTITY attachmentReminder.accesskey          "m">
 <!ENTITY attachmentReminderOptions.label       "Keywords…">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
