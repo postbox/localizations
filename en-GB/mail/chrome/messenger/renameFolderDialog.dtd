@@ -39,11 +39,5 @@
 <!ENTITY renameFolderDialog.title          "Rename Folder">
 <!ENTITY rename.label                      "Enter the new name for your folder:">
 <!ENTITY rename.accesskey                  "E">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY accept.accesskey                  "R">
 <!ENTITY accept.label                      "Rename">
+<!ENTITY accept.accesskey                  "R">
