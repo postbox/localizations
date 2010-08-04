@@ -42,3 +42,5 @@
 <!ENTITY pbFavoriteContactsContactsMenu-edit.accesskey   "d">
 <!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Create Filter...">
 <!ENTITY pbFavoriteContactsContactsMenu-createfilter.accesskey "C">
+
+<!ENTITY pbFavoriteContacts.DragLabel "Drag your favorite contacts here">

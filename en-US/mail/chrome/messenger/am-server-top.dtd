@@ -1,6 +1,5 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Security Settings">
 <!ENTITY serverSettings.label "Server Settings">
 <!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
 <!ENTITY popServer.label "POP Mail Server">
@@ -9,8 +8,8 @@
 <!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
 <!ENTITY newsServer.label "News Server (NNTP)">
 <!ENTITY webmail.label "WebMail account">
-<!ENTITY serverType.label "Server Type:">
-<!ENTITY serverName.label "Server Name:">
+<!ENTITY serverType.label "Account Type:">
+<!ENTITY serverName.label "Incoming Server:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "User Name:">
 <!ENTITY userName.accesskey "N">
@@ -26,7 +25,7 @@
 <!ENTITY biffStart.label "Check for new messages every ">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "minutes">
-<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.label "Connection Security:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "None">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
@@ -82,7 +81,7 @@
 <!ENTITY abbreviateOff.label "Abbreviate names (For example, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Advanced...">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset.label "Default Character Encoding:">
+<!ENTITY serverDefaultCharset1.label "Encoding:">
 <!ENTITY localFolderPicker.label "Select Local Directory">
 <!ENTITY browseFolder.label "Browse...">
 <!ENTITY browseFolder.accesskey "B">
@@ -90,3 +89,5 @@
 <!ENTITY browseNewsrc.label "Browse...">
 <!ENTITY browseNewsrc.accesskey "e">
 
+<!ENTITY accountName.label "Account Name:">
+<!ENTITY accountName.accesskey "N">

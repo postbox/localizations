@@ -11,7 +11,6 @@
 <!ENTITY asAttachment.label                   "As Attachment">
 <!ENTITY asAttachment.accesskey               "A">
 
-<!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "n">
 <!ENTITY size.label                           "Size:">
@@ -32,15 +31,12 @@
 <!ENTITY languagePopup.accessKey              "g">
 <!ENTITY downloadDictionaries.label           "Download More Dictionaries">
 
-<!ENTITY warnOnSendAccelKey.label             "Confirm when using keyboard shortcut to send message">
-<!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!ENTITY autoSave.label                       "Auto Save every">
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "minutes">
 
-<!ENTITY emailCollectionPicker.label           "Automatically add outgoing e-mail addresses to my:">
+<!ENTITY emailCollectionPicker.label           "Add outgoing e-mail addresses to my:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
-<!ENTITY addressingTitle.label                 "Address Autocompletion">
 <!ENTITY autocompleteText.label                "When addressing messages, look for matching entries in:">
 <!ENTITY addressingEnable.label                "Local Address Books">
 <!ENTITY addressingEnable.accesskey            "A">
@@ -51,8 +47,6 @@
 <!ENTITY matchText.label                       "If there is a match in your local address books:">
 <!ENTITY skipDirectory.label                   "Do not search in the directory">
 
-<!ENTITY sendOptionsCaption.label              "Send and HTML Options">
-<!ENTITY sendOptionsDescription.label          "Configure text format behavior">
 <!ENTITY sendOptions.label                     "Send Options...">
 <!ENTITY sendOptions.accesskey                 "S">
 
@@ -60,3 +54,7 @@
 <!ENTITY attachmentReminder.accesskey          "m">
 <!ENTITY attachmentReminderOptions.label       "Keywords…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">
+
+<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY composeLanguagesTitle.label            "Character Encoding:">

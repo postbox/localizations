@@ -61,14 +61,7 @@
 <!-- Networking and Disk Space -->
 <!ENTITY showConnections.label         "Connection...">
 <!ENTITY showConnections.accesskey     "n">
-<!ENTITY proxiesInfo.label             "Determine how &brandShortName; connects to the Internet.">
-<!ENTITY connectionsInfo.caption       "Connection">
-<!ENTITY offlineInfo.caption           "Offline">
-<!ENTITY offlineInfo.label             "Configure offline settings">
-<!ENTITY showOffline.label             "Offline...">
-<!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace "Disk Space">
 <!ENTITY offlineCompact.label "Compact folders when it will save over">
 <!ENTITY offlineCompact.accesskey "v">
 <!ENTITY kb.label "KB">
@@ -91,3 +84,26 @@
 
 <!-- Web Services -->
 <!ENTITY webservicesInfo.label          "Configure the Web services used within &brandShortName;.">
+
+<!ENTITY textStartUp   "When starting up:">
+<!ENTITY radioRememberPrevState "Remember previous online state">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe "Ask me for online state at startup">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline "Always start up online">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "Send unsent messages when going online?">
+<!ENTITY radioAutoSend "Yes">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend "No">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "Ask me">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
+<!ENTITY radioAutoDownload "Yes">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioNotDownload "No">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload "Ask me">
+<!ENTITY radioAskDownload.accesskey "a">
