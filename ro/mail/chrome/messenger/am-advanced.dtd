@@ -19,13 +19,5 @@
 <!ENTITY serverName.label "Nume server:">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY userName.label   "Nume utilizator:">
-<!ENTITY useSecureConnection.label   "Secure Connection: ">
-<!ENTITY useSecureAuthentication.label   "Autentificare securizată: ">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY connectionSecurity.label "Connection Security: ">
 <!ENTITY authMethod.label   "Authentication: ">

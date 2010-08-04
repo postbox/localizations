@@ -3,6 +3,8 @@
 <!ENTITY pbLocalesMenu.accesskey "g">
 <!ENTITY pbLocalesMenu_getMore.label "Get More...">
 <!ENTITY pbLocalesMenu_getMore.accesskey "G">
+<!ENTITY newAccountGroupCmd.label "Account Group...">
+<!ENTITY newAccountGroupCmd.accesskey "G">
 
 <!-- Tools Menu -->
 <!ENTITY pbIndexingMenu.label "Indexing">
@@ -18,16 +20,34 @@
 <!ENTITY webServices.label "Web Services...">
 <!ENTITY webServices.accesskey "W">
 
+<!-- View Menu -->
+<!ENTITY pinStarredMessages.label "Pin To-Dos">
+<!ENTITY pinStarredMessages.accesskey "P">
+<!ENTITY showConversations.label "Show Conversations">
+<!ENTITY showConversations.accesskey "h">
+<!ENTITY viewMenuShowMessages.label        "Messages">
+<!ENTITY viewMenuShowMessages.accesskey    "M">
+<!ENTITY key_showMessages.key              "m">
+<!ENTITY viewMenuShowAttachments.label "Attachments">
+<!ENTITY viewMenuShowAttachments.accesskey "t">
+<!ENTITY key_showAttachments.key         "a">
+<!ENTITY viewMenuShowImages.label        "Images">
+<!ENTITY viewMenuShowImages.accesskey    "m">
+<!ENTITY key_showImages.key              "i">
+<!ENTITY showFocusPaneCmd.label "Focus Pane">
+<!ENTITY showFocusPaneCmd.accesskey "F">
+<!ENTITY showInspectorPaneCmd.label "Inspector Pane">
+<!ENTITY showInspectorPaneCmd.accesskey "I">
+
 <!-- Mail Toolbar -->
 <!ENTITY tagButton.label "Assign Topic">
 <!ENTITY kindFocusToolbarItem.title "Kind">
-<!ENTITY focusPaneMessages.label        "View All">
 <!ENTITY focusPaneText.label            "Search">
 <!ENTITY focusPaneAttachments.label     "Attachments">
 <!ENTITY focusPaneEvents.label          "Events">
 <!ENTITY focusPaneImages.label          "Images">
-<!ENTITY focusPaneURLs.label            "Links">
-<!ENTITY focusPaneContacts.label        "Contacts">
+<!ENTITY focusPaneMessages.label        "View All">
+<!ENTITY viewButtons.label              "View">
 <!ENTITY tagButton.tooltip "Add topic to messages">
 <!ENTITY newTaskButton.tooltip "Create a new To-Do item">
 <!ENTITY newTaskButton.label "New To-Do">
@@ -41,6 +61,8 @@
 <!ENTITY pbToolbarButton-promote-facebook.accesskey "F">
 <!ENTITY pbToolbarButton-promote-friendfeed.label "FriendFeed">
 <!ENTITY pbToolbarButton-promote-friendfeed.accesskey "r">
+<!ENTITY pbToolbarButton-promote-linkedin.label "LinkedIn">
+<!ENTITY pbToolbarButton-promote-linkedin.accesskey "L">
 
 <!-- Tags Menu Popup -->
 <!ENTITY applyTag.label "Add Topic">
@@ -89,6 +111,10 @@
 <!ENTITY pbSearchResultPopup-addUrlToFriendFeed.accesskey  "r">
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.label         "Twitter">
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.accesskey     "T">
+<!ENTITY pbSearchResultPopup-addUrlToLinkedIn.label        "LinkedIn">
+<!ENTITY pbSearchResultPopup-addUrlToLinkedIn.accesskey    "L">
+<!ENTITY searchResultPopup-systemPhotoImportMac.label      "Add to iPhoto">
+<!ENTITY searchResultPopup-systemPhotoImportMac.accesskey  "h">
 
 <!-- inline edit subject bar -->
 <!ENTITY msgAnnotation.title                         "Edit">
@@ -160,7 +186,6 @@
 <!ENTITY sharePanelCancel.label                  "Cancel">
 
 <!-- content URL context menu -->
-<!ENTITY pbContentURLContextMenu-shareURL.accesskey       "r">
 <!ENTITY pbContentURLContextMenu-bookmarkURL.accesskey    "B">
 <!ENTITY pbContentURLContextMenu-otherActions.label       "Other Actions">
 <!ENTITY pbContentURLContextMenu-otherActionsURL.accesskey "h">
@@ -180,6 +205,8 @@
 <!ENTITY pbContentURLContextMenu-addToFriendFeed.accesskey "r">
 <!ENTITY pbContentURLContextMenu-addToTwitter.label       "Post to Twitter...">
 <!ENTITY pbContentURLContextMenu-addToTwitter.accesskey   "w">
+<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Post to LinkedIn...">
+<!ENTITY pbContentURLContextMenu-addToLinkedIn.accesskey  "L">
 
 <!-- text context menu -->
 <!ENTITY pbContentTextContextMenu-websearch.accesskey    "S">
@@ -187,10 +214,19 @@
 <!ENTITY pbContentTextContextMenu-review.accesskey       "e">
 <!ENTITY pbContentTextContextMenu-otherActions.label     "Other Actions">
 <!ENTITY pbContentTextContextMenu-otherActions.accesskey "O">
-<!ENTITY pbContentTextContextMenu-share.accesskey        "P">
 <!ENTITY pbContentTextContextMenu-map.accesskey          "M">
 <!ENTITY pbContentTextContextMenu-phone.label            "Call Number">
 <!ENTITY pbContentTextContextMenu-phone.accesskey        "C">
+<!ENTITY pbContentTextContextMenu-systemSearchMac.label      "Search in Spotlight">
+<!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
+<!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Look Up in Dictionary">
+<!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "L">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New To-Do with Selection as Note">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
+<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New To-Do with Selection as Title">
+<!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
+<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Send to Inbox">
+<!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
 
 <!-- topic context menu -->
 <!ENTITY pbTopicContextMenu-edit.label         "Rename">
@@ -203,13 +239,19 @@
 <!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
 
 <!-- account tree context menu -->
+<!ENTITY pbAccountTreeContextMenu-newGroup.label "New Account Group...">
+<!ENTITY pbAccountTreeContextMenu-newGroup.accesskey "G">
 <!ENTITY pbAccountTreeContextMenu-settings.label "Settings...">
 <!ENTITY pbAccountTreeContextMenu-settings.accesskey "i">
+
+<!-- folder pane -->
+<!ENTITY accountTreeMac.label    "ACCOUNTS">
+<!ENTITY folderTreeMac.label     "FOLDERS">
 
 <!-- thread pane -->
 <!ENTITY threadPaneNoMatchesFound.desc "No messages matched your search.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Try looking in All Folders.">
-<!ENTITY threadPaneNoMatchesSuggestionAllTopics.desc "Try looking in All Topics.">
+<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Try setting your Focus to All.">
 <!ENTITY threadPaneAddTextToSearch.desc "Start typing in the search bar to begin your search.">
 
 <!ENTITY pbSignatureEditor.title "New Signature">
@@ -230,81 +272,26 @@
 <!-- pbLanguageProgress.xul -->
 <!ENTITY downloadLanguage.title "Download Language">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbSearchResultPopup-addUrlToLinkedIn.accesskey    "L">
-<!ENTITY pbContentURLContextMenu-addToLinkedIn.accesskey  "L">
-<!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Look Up in Dictionary">
-<!ENTITY searchResultPopup-systemPhotoImportMac.accesskey  "h">
-<!ENTITY searchResultPopup-systemPhotoImportMac.label      "Add to iPhoto">
-<!ENTITY pbToolbarButton-promote-linkedin.accesskey "L">
-<!ENTITY pbContentTextContextMenu-systemSearchMac.label      "Search in Spotlight">
-<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Post to LinkedIn...">
-<!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
-<!ENTITY pbToolbarButton-promote-linkedin.label "LinkedIn">
-<!ENTITY pbSearchResultPopup-addUrlToLinkedIn.label        "LinkedIn">
-<!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "L">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
+<!-- thread pane context menu -->
 <!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Send to Inbox">
-<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New To-Do with Selection as Title">
-<!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
 <!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "i">
-<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Send to Inbox">
+
+<!-- message pane context menu -->
 <!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Send to Inbox">
-<!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
-<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New To-Do with Selection as Note">
 <!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
-<!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY key_showImages.key              "i">
-<!ENTITY showConversations.label "Show Conversations">
-<!ENTITY showFocusPaneCmd.label "Focus Pane">
-<!ENTITY viewMenuShowImages.accesskey    "m">
-<!ENTITY newAccountGroupCmd.accesskey "G">
-<!ENTITY viewMenuShowMessages.label        "Messages">
-<!ENTITY pbStatusBarOption-deleteGroup.accesskey "D">
-<!ENTITY pbStatusBarOption-newFolder.accesskey "F">
+<!-- status bar -->
+<!ENTITY pbStatusBarOption-newAccount.label "New Account...">
+<!ENTITY pbStatusBarOption-newAccount.accesskey "N">
 <!ENTITY pbStatusBarOption-newGroup.label "New Account Group...">
-<!ENTITY pinStarredMessages.label "Pin To-Dos">
+<!ENTITY pbStatusBarOption-newGroup.accesskey "G">
+<!ENTITY pbStatusBarOption-settings.label "Account Settings...">
+<!ENTITY pbStatusBarOption-settings.accesskey "A">
+<!ENTITY pbStatusBarOption-newFolder.label "New Folder...">
+<!ENTITY pbStatusBarOption-newFolder.accesskey "F">
+<!ENTITY pbStatusBarOption-folderProperties.label "Folder Properties...">
+<!ENTITY pbStatusBarOption-folderProperties.accesskey "P">
+<!ENTITY pbStatusBarOption-subscribe.label "Subscribe...">
 <!ENTITY pbStatusBarOption-subscribe.accesskey "S">
 <!ENTITY pbStatusBarOption-deleteGroup.label "Delete Account Group">
-<!ENTITY pbStatusBarOption-newGroup.accesskey "G">
-<!ENTITY showConversations.accesskey "h">
-<!ENTITY pbStatusBarOption-newAccount.label "New Account...">
-<!ENTITY viewButtons.label              "View">
-<!ENTITY showInspectorPaneCmd.label "Inspector Pane">
-<!ENTITY pbStatusBarOption-settings.accesskey "A">
-<!ENTITY newAccountGroupCmd.label "Account Group...">
-<!ENTITY pbStatusBarOption-folderProperties.label "Folder Properties...">
-<!ENTITY key_showMessages.key              "m">
-<!ENTITY showFocusPaneCmd.accesskey "F">
-<!ENTITY viewMenuShowMessages.accesskey    "m">
-<!ENTITY pinStarredMessages.accesskey "P">
-<!ENTITY key_showAttachments.key         "a">
-<!ENTITY pbStatusBarOption-settings.label "Account Settings...">
-<!ENTITY viewMenuShowAttachments.accesskey "t">
-<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Try setting your Focus to All.">
-<!ENTITY pbAccountTreeContextMenu-newGroup.label "New Account Group...">
-<!ENTITY pbStatusBarOption-subscribe.label "Subscribe...">
-<!ENTITY pbAccountTreeContextMenu-newGroup.accesskey "G">
-<!ENTITY folderTreeMac.label     "FOLDERS">
-<!ENTITY pbStatusBarOption-newFolder.label "New Folder...">
-<!ENTITY accountTreeMac.label    "ACCOUNTS">
-<!ENTITY showInspectorPaneCmd.accesskey "I">
-<!ENTITY pbStatusBarOption-folderProperties.accesskey "P">
-<!ENTITY viewMenuShowImages.label        "Images">
-<!ENTITY pbStatusBarOption-newAccount.accesskey "N">
-<!ENTITY viewMenuShowAttachments.label "Attachments">
+<!ENTITY pbStatusBarOption-deleteGroup.accesskey "D">

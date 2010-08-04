@@ -46,11 +46,5 @@
 <!ENTITY folderRestriction2.label   "Noul dosar va conține:">
 <!ENTITY foldersOnly.label          "Doar dosare">
 <!ENTITY messagesOnly.label         "Doar mesaje">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY accept.label               "Create Folder">
 <!ENTITY accept.accesskey           "r">

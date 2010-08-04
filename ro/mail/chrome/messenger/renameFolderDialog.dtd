@@ -39,11 +39,5 @@
 <!ENTITY renameFolderDialog.title          "Redenumire dosar">
 <!ENTITY rename.label                      "Introduceți noul nume pentru dosar:">
 <!ENTITY rename.accesskey                  "e">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY accept.accesskey                  "R">
 <!ENTITY accept.label                      "Rename">
+<!ENTITY accept.accesskey                  "R">

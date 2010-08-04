@@ -1,6 +1,5 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Setări de securitate">
 <!ENTITY serverSettings.label "Setările serverului">
 <!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
 <!ENTITY popServer.label "POP Mail Server">
@@ -26,19 +25,14 @@
 <!ENTITY biffStart.label "Verifică mesaje noi la fiecare">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "Minute">
-<!ENTITY isSecure.label "Use secure connection (SSL)">
-<!ENTITY isSecure.accesskey "U">
-<!ENTITY socketType.label "Use secure connection:">
-<!ENTITY neverSecure.label "Never">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, if available">
-<!ENTITY sometimesSecure.accesskey "a">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Folosește autentificare securizată">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Păstrează mesajele pe server">
 <!ENTITY leaveOnServer.accesskey "z">
 <!ENTITY headersOnly.label "Descarcă doar antetele">
@@ -87,7 +81,7 @@
 <!ENTITY abbreviateOff.label "Nume abreviate (ex: „n.p.m.mail-news”)">
 <!ENTITY advancedButton.label "Avansat…">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset.label "Codare caractere implicită:">
+<!ENTITY serverDefaultCharset1.label "Encoding:">
 <!ENTITY localFolderPicker.label "Alegeți directorul local">
 <!ENTITY browseFolder.label "Răsfoiește…">
 <!ENTITY browseFolder.accesskey "R">
@@ -95,26 +89,5 @@
 <!ENTITY browseNewsrc.label "Răsfoiește…">
 <!ENTITY browseNewsrc.accesskey "e">
 
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY authMethod.label "Authentication:">
-<!ENTITY authMethod.accesskey "i">
-<!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY connectionSecurity.accesskey "u">
-<!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-2.label "STARTTLS">
-<!ENTITY connectionSecurity.label "Connection security:">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY accountName.label "Account Name:">
-<!ENTITY serverDefaultCharset1.label "Encoding:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "n">

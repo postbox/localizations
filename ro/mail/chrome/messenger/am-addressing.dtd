@@ -30,12 +30,6 @@
 <!ENTITY place.accesskey                      "p">
 <!ENTITY belowText.label                      "sub citat (recomandat)">
 <!ENTITY aboveText.label                      "sub răspunsul meu (deasupra citatului)">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY includeSigOnReply.label              "Include signature for replies">
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Include signature for forwards">

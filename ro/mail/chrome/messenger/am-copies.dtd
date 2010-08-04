@@ -1,7 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Copii și dosare">
-<!ENTITY sendingPrefix.label "La trimiterea unui mesaj:">
 <!ENTITY fccMailFolder.label "Plasează automat o copie în:">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Pune răspunsurile în dosarul cu mesajul la care se răspunde">
@@ -15,45 +14,31 @@
 <!ENTITY templateMailFolder.label "Keep message templates in:">
 <!ENTITY saveMessageDlg.label "Afișează dialog de confirmare la salvarea mesajelor">
 <!ENTITY saveMessageDlg.accesskey "s">
-<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Dosarul „Mesaje trimise” din:">
-<!ENTITY sentFolderOn.accesskey "D">
+<!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY sentFolderOn1.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Altul:">
 <!ENTITY sentInOtherFolder.accesskey "A">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Dosarul „Mesaje nefinalizate” din:">
-<!ENTITY draftsFolderOn.accesskey "D">
+<!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn1.label "Drafts:">
+<!ENTITY draftsFolderOn1.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Altul:">
 <!ENTITY draftInOtherFolder.accesskey "l">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Dosarul „Arhive” din:">
-<!ENTITY archivesFolderOn.accesskey "a">
+<!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn1.label "Archive:">
+<!ENTITY archivesFolderOn1.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Altul:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Dosarul „Șabloane” din:">
-<!ENTITY templatesFolderOn.accesskey "D">
+<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY templatesFolderOn1.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Altul:">
 <!ENTITY templateInOtherFolder.accesskey "t">
-<!ENTITY specialFoldersTitle.label "Mesaje nefinalizate și șabloane">
 <!ENTITY keepDrafts.label "Păstrează mesajele nefinalizate în:">
 <!ENTITY keepArchives.label "Păstrează mesajele arhivate în:">
 <!ENTITY keepTempltes.label "Păstrează șabloanele de mesaje în:">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY templatesFolderOn1.accesskey "m">
-<!ENTITY draftsFolderOn1.accesskey "D">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
 <!ENTITY pbSentSettings.label "Sent">
 <!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY sentFolderOn1.label "Sent:">
-<!ENTITY draftsFolderOn1.label "Drafts:">
-<!ENTITY sentFolderOn1.accesskey "e">
-<!ENTITY archivesFolderOn1.accesskey "n">
-<!ENTITY archivesFolderOn1.label "Archive:">
-<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY pbArchiveSettings.label "Archive">
+<!ENTITY pbTemplatesSettings.label "Templates">
