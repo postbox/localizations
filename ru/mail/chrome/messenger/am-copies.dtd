@@ -1,7 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Копии и папки">
-<!ENTITY sendingPrefix.label "При отправлении сообщений автоматически:">
 <!ENTITY fccMailFolder.label "Поместить копию сообщения в:">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Сохранять ответы в папке оригинала">
@@ -15,45 +14,31 @@
 <!ENTITY templateMailFolder.label "Хранить шаблоны сообщений в:">
 <!ENTITY saveMessageDlg.label "Запрашивать подтверждение при сохранении сообщений">
 <!ENTITY saveMessageDlg.accesskey "S">
-<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "папку «Отправленные» в:">
-<!ENTITY sentFolderOn.accesskey "e">
+<!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY sentFolderOn1.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Другую папку:">
 <!ENTITY sentInOtherFolder.accesskey "O">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "папке «Черновики» в:">
-<!ENTITY draftsFolderOn.accesskey "D">
+<!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn1.label "Drafts:">
+<!ENTITY draftsFolderOn1.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Другой папке:">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "папке «Архивы» в:">
-<!ENTITY archivesFolderOn.accesskey "n">
+<!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn1.label "Archive:">
+<!ENTITY archivesFolderOn1.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Другой папке:">
 <!ENTITY archiveInOtherFolder.accesskey "h">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "папке «Шаблоны» в:">
-<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY templatesFolderOn1.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Другой папке:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-<!ENTITY specialFoldersTitle.label "Черновики, архивы и шаблоны">
 <!ENTITY keepDrafts.label "Хранить черновики сообщений в:">
 <!ENTITY keepArchives.label "Хранить архивированные сообщения в:">
 <!ENTITY keepTempltes.label "Хранить шаблоны сообщений в:">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY templatesFolderOn1.accesskey "m">
-<!ENTITY draftsFolderOn1.accesskey "D">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
 <!ENTITY pbSentSettings.label "Sent">
 <!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY sentFolderOn1.label "Sent:">
-<!ENTITY draftsFolderOn1.label "Drafts:">
-<!ENTITY sentFolderOn1.accesskey "e">
-<!ENTITY archivesFolderOn1.accesskey "n">
-<!ENTITY archivesFolderOn1.label "Archive:">
-<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY pbArchiveSettings.label "Archive">
+<!ENTITY pbTemplatesSettings.label "Templates">

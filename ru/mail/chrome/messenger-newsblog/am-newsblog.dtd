@@ -1,7 +1,7 @@
 <!ENTITY newsblogTitle.label "Параметры учётной записи RSS">
 
-<!ENTITY indexMsgs.label "Индексация сообщений">
-<!ENTITY indexMsgs.accesskey "I">
+<!ENTITY indexMsgBodies.label "Index message bodies">
+<!ENTITY indexMsgBodies.accesskey "I">
 
 <!ENTITY biffStart.label "Проверять наличие новых статей каждые">
 <!ENTITY biffStart.accesskey "k">
@@ -20,11 +20,3 @@
 <!ENTITY rss.accountName            "Новости и блоги">
 <!ENTITY rss.wizardShortName        "RSS">  
 <!ENTITY rss.wizardLongName         "RSS-новости и блоги">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY indexMsgBodies.label "Index message bodies">
-<!ENTITY indexMsgBodies.accesskey "I">

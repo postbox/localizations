@@ -61,14 +61,7 @@
 <!-- Networking and Disk Space -->
 <!ENTITY showConnections.label         "Соединение...">
 <!ENTITY showConnections.accesskey     "n">
-<!ENTITY proxiesInfo.label             "Determine how &brandShortName; connects to the Internet.">
-<!ENTITY connectionsInfo.caption       "Соединение">
-<!ENTITY offlineInfo.caption           "Автономная работа">
-<!ENTITY offlineInfo.label             "Настройка параметров автономной работы">
-<!ENTITY showOffline.label             "Автономная работа…">
-<!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace "Дисковое пространство">
 <!ENTITY offlineCompact.label "Сжимать папки, если при этом высвободится более">
 <!ENTITY offlineCompact.accesskey "v">
 <!ENTITY kb.label "КБ">
@@ -92,29 +85,25 @@
 <!-- Web Services -->
 <!ENTITY webservicesInfo.label          "Настройка веб-сервисов для использования через Postbox.">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioNotSend "No">
-<!ENTITY radioNotDownload "No">
 <!ENTITY textStartUp   "When starting up:">
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAskUnsent "Ask me">
-<!ENTITY radioAskDownload.accesskey "a">
-<!ENTITY radioAutoDownload "Yes">
-<!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioAskUnsent.accesskey "s">
-<!ENTITY textGoingOnline "Send unsent messages when going online?">
-<!ENTITY radioAutoSend "Yes">
+<!ENTITY radioRememberPrevState "Remember previous online state">
 <!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskMe "Ask me for online state at startup">
-<!ENTITY radioRememberPrevState "Remember previous online state">
-<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioAskMe.accesskey "u">
 <!ENTITY radioAlwaysOnline "Always start up online">
 <!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "Send unsent messages when going online?">
+<!ENTITY radioAutoSend "Yes">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend "No">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "Ask me">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
+<!ENTITY radioAutoDownload "Yes">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioNotDownload "No">
+<!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload "Ask me">
+<!ENTITY radioAskDownload.accesskey "A">

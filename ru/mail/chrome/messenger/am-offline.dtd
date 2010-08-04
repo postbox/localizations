@@ -25,17 +25,9 @@
 <!ENTITY offlineSelectNntp.label "Выбрать группы новостей, доступные в автономном режиме…">
 <!ENTITY offlineSelectImap.label "Select folders for offline use...">
 <!ENTITY offlineSelect.accesskey "S">
-<!ENTITY offlineDesc.label "You can download your messages locally so that they are available when you are working offline.">
 <!ENTITY makeInboxMsgsAvailable.label "Сделать сообщения достуными в моей папке &quot;Входящие&quot;, когда я работаю автономно">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
 <!ENTITY offlineGroupTitle.label "Автономная работа">
 <!ENTITY diskspaceGroupTitle.label "Дисковое пространство">
 <!ENTITY ftiGroupTitle.label "Глобальный поиск">
-<!ENTITY fti.indexMsgs.label "Индексация сообщений">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY fti.indexMsgBodies.label "Index message bodies">

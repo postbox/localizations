@@ -1,5 +1,4 @@
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Account-specific junk mail settings can be configured in Account Settings.">
 <!ENTITY manualMark.label "Когда я помечаю сообщения как спам:">
 <!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
@@ -14,7 +13,7 @@
 <!ENTITY openJunkLog.accesskey "h">
 <!ENTITY resetTrainingData.label "Reset Training Data">
 <!ENTITY resetTrainingData.accesskey "D">
-<!ENTITY junkMail.label         "Junk Mail">
+
 
 <!-- Phishing Detector -->
 <!ENTITY enablePhishingDetector1.label    "Block reported e-mail scams">
@@ -27,24 +26,16 @@
 <!ENTITY changeMasterPassword.accesskey       "M">
 <!ENTITY savedPasswords.label                 "Сохранённые пароли...">
 <!ENTITY savedPasswords.accesskey             "S">
-<!ENTITY passwords.label                       "Пароли">
 
 <!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics.label       "Помочь сделать &brandShortName; лучше, разрешив отправку анонимных сведений.">
+<!ENTITY enableAnonymousStatistics2.label      "Help make &brandShortName; better by sending anonymous usage statistics.">
 <!ENTITY enableAnonymousStatistics.accesskey   "H">
 
 <!-- Remote images -->
 <!ENTITY disableImageInMailNews.label  "Блокировать загрузку изображений в сообщениях">
 <!ENTITY disableImageInMailNews.accesskey "r">
 
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in Account Settings.">
 <!ENTITY pbPrivacy.label "Privacy:">
 <!ENTITY pbJunkMail.label "Junk:">
-<!ENTITY enableAnonymousStatistics2.label      "Help make &brandShortName; better by sending anonymous usage statistics.">
 <!ENTITY pbPasswords.label "Passwords:">
+<!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in Account Settings.">

@@ -1,19 +1,12 @@
-<!ENTITY systemDefaults.label              "Системные умолчания">
 <!ENTITY alwaysCheckDefault.label          "Всегда проверять при запуске, является ли &brandShortName; почтовым клиентом по умолчанию">
 <!ENTITY alwaysCheckDefault.accesskey      "l">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
+
 <!ENTITY checkNow.label             "Проверить сейчас">
 <!ENTITY checkNow.accesskey         "N">
 
 <!ENTITY allowSpotlight.label              "Позволить Spotlight производить поиск сообщений">
 <!ENTITY allowSpotlight.accesskey          "S">
 
-<!ENTITY messengerStartPage.label         "Стартовая страница &brandShortName;">
 <!ENTITY location.label                   "Адрес:">
 <!ENTITY location1.accesskey               "д">
 <!ENTITY useDefault.label                 "Восстановить">
@@ -42,10 +35,6 @@
 <!ENTITY browse.label                     "Обзор…">
 <!ENTITY browse.accesskey                 "B">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pb.messagelist.fontsize.accesskey "p">
+<!-- message list font size -->
 <!ENTITY pb.messagelist.fontsize.label "Use a large font for the message list pane">
+<!ENTITY pb.messagelist.fontsize.accesskey "p">

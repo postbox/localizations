@@ -160,7 +160,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адресная книга">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "Параметры учётной записи…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "м">
@@ -292,7 +292,6 @@
 <!ENTITY contactsButton.tooltip                 "Поиск контактов">
 <!ENTITY imagesButton.tooltip                   "Поиск изображений">
 <!ENTITY attachmentsButton.tooltip              "Поиск вложений">
-<!ENTITY linksButton.tooltip                    "Поиск ссылок">
 <!ENTITY placesButton.tooltip                   "Find places">
 <!ENTITY researchButton.tooltip                 "Find references">
 <!ENTITY signaturesButton.tooltip               "Поиск подписей">
@@ -315,10 +314,3 @@
 
 <!ENTITY pbComposeSidebar.label "Боковая панель">
 <!ENTITY pbComposeSidebar.accesskey "S">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY addressBookCmd.key "B">

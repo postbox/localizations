@@ -54,12 +54,13 @@
 <!ENTITY contactPanel-facebook.label     "Facebook:">
 <!ENTITY contactPanel-twitter.label      "twitter:">
 
+<!ENTITY contactPanel-favorite.label     "favorite:">
+<!ENTITY contactPanel-favorite-checkbox.label "make this contact a favorite">
 <!ENTITY contactPanel-actions.label "действия:">
 <!ENTITY contactPanel-find.label    "find recent:">
 <!ENTITY contactPanel-findMessages.label "сообщений">
 <!ENTITY contactPanel-findDocuments.label "вложения">
 <!ENTITY contactPanel-findImages.label "изображения">
-<!ENTITY contactPanel-findURLs.label "ссылки">
 <!ENTITY contactPanel-copyContact.label "copy email">
 <!ENTITY contactPanel-sendContact.label "send vcard">
 <!ENTITY contactPanel-createFilter.label "создать фильтр...">
@@ -73,11 +74,3 @@
 <!ENTITY dataPaneContext.searchGoogleMaps.accesskey     "G">
 <!ENTITY dataPaneContext.searchYahooMaps.label          "Map to Yahoo!">
 <!ENTITY dataPaneContext.searchYahooMaps.accesskey      "Y">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY contactPanel-favorite.label     "favorite:">
-<!ENTITY contactPanel-favorite-checkbox.label "make this contact a favorite">

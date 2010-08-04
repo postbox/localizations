@@ -1,15 +1,19 @@
-<!ENTITY typeColumn.label "Тип содержимого">
-<!ENTITY typeColumn.accesskey "о">
-<!ENTITY actionColumn2.label "Действие">
-<!ENTITY actionColumn2.accesskey "е">
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
-<!ENTITY filter.emptytext "Поиск">
-<!ENTITY saveTo.label "Путь для сохранения файлов">
-<!ENTITY saveTo.accesskey "х">
-<!ENTITY alwaysAsk.label "Всегда выдавать запрос на сохранение файлов">
-<!ENTITY alwaysAsk.accesskey "п">
-<!ENTITY chooseFolderWin.label "Обзор…">
-<!ENTITY chooseFolderWin.accesskey "б">
-<!ENTITY chooseFolderMac.label "Выбрать…">
-<!ENTITY chooseFolderMac.accesskey "ы">
+<!ENTITY  typeColumn.label            "Тип содержимого">
+<!ENTITY  typeColumn.accesskey        "t">
+
+<!ENTITY  actionColumn2.label         "Действие">
+<!ENTITY  actionColumn2.accesskey     "A">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.emptytext            "Поиск">
+
+<!ENTITY saveTo.label                 "Путь для сохранения файлов">
+<!ENTITY saveTo.accesskey             "S">
+<!ENTITY alwaysAsk.label              "Всегда выдавать запрос на сохранение файлов">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY chooseFolderWin.label        "Обзор…">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "Выбрать…">
+<!ENTITY chooseFolderMac.accesskey    "C">
