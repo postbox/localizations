@@ -122,29 +122,14 @@
 <!-- View Menu -->
 <!ENTITY customizeToolbar.label "Personalizza…">
 <!ENTITY customizeToolbar.accesskey "P">
-<!ENTITY pinStarredMessages.label "Spunta come &quot;da fare&quot;">
-<!ENTITY pinStarredMessages.accesskey "p">
-<!ENTITY showConversations.label "Mostra Conversazioni">
-<!ENTITY showConversations.accesskey "M">
-<!ENTITY viewMenuShowAttachments.label "Allegati">
-<!ENTITY viewMenuShowAttachments.accesskey "t">
-<!ENTITY key_showAttachments.key         "a">
-<!ENTITY viewMenuShowImages.label        "Immagini">
-<!ENTITY viewMenuShowImages.accesskey    "m">
-<!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowLinks.label         "Collegamenti">
-<!ENTITY viewMenuShowLinks.accesskey     "l">
-<!ENTITY key_showLinks.key               "l">
-<!ENTITY viewMenuShowContacts.label      "Contatti">
-<!ENTITY viewMenuShowContacts.accesskey  "n">
-<!ENTITY key_showContacts.key            "c">
 <!ENTITY messagePaneLayoutStyle.label "Struttura">
 <!ENTITY messagePaneLayoutStyle.accesskey "r">
 <!ENTITY messagePaneClassic.label "Visualizzazione classica">
 <!ENTITY messagePaneClassic.accesskey "c">
 <!ENTITY messagePaneVertical.label "Visualizzazione verticale">
 <!ENTITY messagePaneVertical.accesskey "V">
-
+<!ENTITY showMessageCmd.label "Message Pane">
+<!ENTITY showMessageCmd.accesskey "M">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordina per">
@@ -241,7 +226,7 @@
 <!ENTITY textZoomResetCmd.label     "Normale">
 <!ENTITY textZoomResetCmd.accesskey "N">
 <!ENTITY textSize.label             "Text Size">
-<!ENTITY textSize.accesskey             "D">
+<!ENTITY textSize.accesskey             "x">
 
 <!ENTITY pageSourceCmd.label "Sorgente del messaggio">
 <!ENTITY pageSourceCmd.accesskey "t">
@@ -415,10 +400,9 @@
 <!ENTITY addons.accesskey "C">
 <!ENTITY messengerCmd.label "Posta e gruppi di discussione">
 <!ENTITY messengerCmd.accesskey "o">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Rubrica">
 <!ENTITY addressBookCmd.accesskey "R">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY junkMailCmd.label "Controllo Spam...">
 <!ENTITY junkMailCmd.accesskey "C">
 <!ENTITY runJunkControls.label "Controlla posta indesiderata nella cartella">
@@ -708,12 +692,3 @@
 <!ENTITY pbLightningQuickView.label "Vista Rapida">
 <!ENTITY lightning.calendar.label "Calendar">
 <!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY showMessageCmd.label "Message Pane">
-<!ENTITY addressBookCmd.key "B">
-<!ENTITY showMessageCmd.accesskey "M">

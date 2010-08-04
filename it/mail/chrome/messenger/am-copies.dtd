@@ -1,7 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Cartelle e copie">
-<!ENTITY sendingPrefix.label "Dopo aver effettuato l'invio: ">
 <!ENTITY fccMailFolder.label "copia il messaggio in:">
 <!ENTITY fccMailFolder.accesskey "p">
 <!ENTITY fccReplyFollowsParent.label "Salva le risposte nella cartella del messaggio a cui si è risposto">
@@ -15,45 +14,31 @@
 <!ENTITY templateMailFolder.label "Conserva i modelli dei messaggi in:">
 <!ENTITY saveMessageDlg.label "Chiedi conferma quando si salvano i messaggi">
 <!ENTITY saveMessageDlg.accesskey "h">
-<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "cartella &quot;Posta inviata&quot; su:">
-<!ENTITY sentFolderOn.accesskey "o">
+<!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY sentFolderOn1.accesskey "e">
 <!ENTITY sentInOtherFolder.label "altra:">
 <!ENTITY sentInOtherFolder.accesskey "t">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "cartella &quot;Bozze&quot; su:">
-<!ENTITY draftsFolderOn.accesskey "B">
+<!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn1.label "Drafts:">
+<!ENTITY draftsFolderOn1.accesskey "D">
 <!ENTITY draftInOtherFolder.label "altra:">
 <!ENTITY draftInOtherFolder.accesskey "l">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Cartella &quot;Archivi&quot; su:">
-<!ENTITY archivesFolderOn.accesskey "v">
+<!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn1.label "Archive:">
+<!ENTITY archivesFolderOn1.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "altra:">
 <!ENTITY archiveInOtherFolder.accesskey "a">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "cartella &quot;Modelli&quot; su:">
-<!ENTITY templatesFolderOn.accesskey "M">
+<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY templatesFolderOn1.accesskey "m">
 <!ENTITY templateInOtherFolder.label "altra:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-<!ENTITY specialFoldersTitle.label "Bozze, archivi e modelli">
 <!ENTITY keepDrafts.label "Conserva le bozze dei messaggi in:">
 <!ENTITY keepArchives.label "Conserva gli archivi dei messaggi in:">
 <!ENTITY keepTempltes.label "Conserva i modelli dei messaggi in:">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY templatesFolderOn1.accesskey "m">
-<!ENTITY draftsFolderOn1.accesskey "D">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
 <!ENTITY pbSentSettings.label "Sent">
 <!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY sentFolderOn1.label "Sent:">
-<!ENTITY draftsFolderOn1.label "Drafts:">
-<!ENTITY sentFolderOn1.accesskey "e">
-<!ENTITY archivesFolderOn1.accesskey "n">
-<!ENTITY archivesFolderOn1.label "Archive:">
-<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY pbArchiveSettings.label "Archive">
+<!ENTITY pbTemplatesSettings.label "Templates">

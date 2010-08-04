@@ -19,13 +19,5 @@
 <!ENTITY serverName.label "Nome server: ">
 <!ENTITY serverPort.label "Porta: ">
 <!ENTITY userName.label   "Nome utente: ">
-<!ENTITY useSecureConnection.label   "Secure Connection: ">
-<!ENTITY useSecureAuthentication.label   "Autenticazione sicura: ">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY connectionSecurity.label "Connection Security: ">
 <!ENTITY authMethod.label   "Authentication: ">

@@ -39,11 +39,5 @@
 <!ENTITY renameFolderDialog.title          "Rinomina cartella">
 <!ENTITY rename.label                      "Inserire un nome per la cartella:">
 <!ENTITY rename.accesskey                  "I">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY accept.accesskey                  "R">
 <!ENTITY accept.label                      "Rename">
+<!ENTITY accept.accesskey                  "R">

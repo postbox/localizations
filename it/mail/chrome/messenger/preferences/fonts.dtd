@@ -6,10 +6,9 @@
 <!ENTITY  language.label                          "Caratteri per:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  typefaces.label                         "Typeface">
-<!ENTITY  sizes.label                             "Size (pixels)">
+<!ENTITY  size.label                              "Size:">
 <!ENTITY  proportionalSize.accesskey              "D">
-<!ENTITY  monospaceSize.accesskey                 "x">
+<!ENTITY  sizeMono.accesskey                      "i">
 
 <!ENTITY  proportional.label                      "Proporzionale:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -20,8 +19,6 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Larghezza fissa:">
 <!ENTITY  monospace.accesskey                     "L">
-
-<!ENTITY  fontsize.units                          "pixel">
 
 <!ENTITY  font.langGroup.latin1                   "Occidentale">
 <!ENTITY  font.langGroup.latin2                   "Centro europeo">
@@ -60,40 +57,12 @@
 <!ENTITY  useDefaultFontSerif.label               "Con grazie">
 <!ENTITY  useDefaultFontSansSerif.label           "Senza grazie">
 
-<!ENTITY  newLanguages.label                      "New languages can be configured using the Languages Panel.">
-
+<!-- fonts in message -->
+<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
+<!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Consenti ai messaggi di usare altri caratteri">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "Posta in uscita:">
-<!ENTITY sendDefaultCharset.accesskey     "s">
-<!ENTITY languagesTitle1.label            "Codifica carattere">
-<!ENTITY composingDescription.label       "Impostare la codifica carattere predefinita per l'invio e la ricezione della posta">
-
-<!ENTITY viewDefaultCharsetList.label     "Posta in arrivo:">
-<!ENTITY viewDefaultCharsetList.accesskey  "a">
-<!ENTITY forceCharsetOverride.label       "Apply the default character encoding to all incoming messages">
-<!ENTITY forceCharsetOverride.accesskey   "A">
-<!ENTITY replyInDefaultCharset.label      "Use the default character encoding in replies">
-<!ENTITY replyInDefaultCharset.accesskey  "h">
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY  sizeMono.accesskey                      "i">
-<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
-<!ENTITY  fixedWidth.accesskey                    "x">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY  size.label                              "Size:">
-<!ENTITY  fontControl.label                       "Font Control">
-<!ENTITY replyInDefaultCharset2.label     "When possible, use the default character encoding in replies">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY viewDefaultCharsetList1.label     "Character encoding:">
 <!ENTITY viewDefaultCharsetList1.accesskey  "C">
