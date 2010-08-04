@@ -1,7 +1,7 @@
 <!ENTITY newsblogTitle.label "RSS Account Settings">
 
-<!ENTITY indexMsgs.label "Index Messages">
-<!ENTITY indexMsgs.accesskey "I">
+<!ENTITY indexMsgBodies.label "Index message bodies">
+<!ENTITY indexMsgBodies.accesskey "I">
 
 <!ENTITY biffStart.label "Verificar novos itens a cada ">
 <!ENTITY biffStart.accesskey "V">
@@ -20,11 +20,3 @@
 <!ENTITY rss.accountName            "News &amp; Blogs">
 <!ENTITY rss.wizardShortName        "RSS">  
 <!ENTITY rss.wizardLongName         "RSS News &amp; Blogs">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY indexMsgBodies.label "Index message bodies">
-<!ENTITY indexMsgBodies.accesskey "I">

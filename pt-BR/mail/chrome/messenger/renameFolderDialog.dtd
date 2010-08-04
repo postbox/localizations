@@ -39,11 +39,5 @@
 <!ENTITY renameFolderDialog.title          "Renomear pasta">
 <!ENTITY rename.label                      "Novo nome:">
 <!ENTITY rename.accesskey                  "N">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY accept.accesskey                  "R">
 <!ENTITY accept.label                      "Rename">
+<!ENTITY accept.accesskey                  "R">

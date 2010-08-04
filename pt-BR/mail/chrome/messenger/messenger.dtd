@@ -122,29 +122,14 @@
 <!-- View Menu -->
 <!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "P">
-<!ENTITY pinStarredMessages.label "Pin To-Dos">
-<!ENTITY pinStarredMessages.accesskey "P">
-<!ENTITY showConversations.label "Show Conversations">
-<!ENTITY showConversations.accesskey "h">
-<!ENTITY viewMenuShowAttachments.label "Attachments">
-<!ENTITY viewMenuShowAttachments.accesskey "t">
-<!ENTITY key_showAttachments.key         "a">
-<!ENTITY viewMenuShowImages.label        "Images">
-<!ENTITY viewMenuShowImages.accesskey    "m">
-<!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowLinks.label         "Links">
-<!ENTITY viewMenuShowLinks.accesskey     "L">
-<!ENTITY key_showLinks.key               "l">
-<!ENTITY viewMenuShowContacts.label      "Contacts">
-<!ENTITY viewMenuShowContacts.accesskey  "n">
-<!ENTITY key_showContacts.key            "c">
 <!ENTITY messagePaneLayoutStyle.label "Layout">
 <!ENTITY messagePaneLayoutStyle.accesskey "y">
 <!ENTITY messagePaneClassic.label "Clássico">
 <!ENTITY messagePaneClassic.accesskey "C">
 <!ENTITY messagePaneVertical.label "Vertical">
 <!ENTITY messagePaneVertical.accesskey "V">
-
+<!ENTITY showMessageCmd.label "Message Pane">
+<!ENTITY showMessageCmd.accesskey "M">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
@@ -415,10 +400,9 @@
 <!ENTITY addons.accesskey "C">
 <!ENTITY messengerCmd.label "Mensagens">
 <!ENTITY messengerCmd.accesskey "M">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Catálogo de endereços">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY junkMailCmd.label "Junk Mail Controls...">
 <!ENTITY junkMailCmd.accesskey "J">
 <!ENTITY runJunkControls.label "Aplicar anti-spam nesta pasta">
@@ -708,12 +692,3 @@
 <!ENTITY pbLightningQuickView.label "Quick View">
 <!ENTITY lightning.calendar.label "Calendar">
 <!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY showMessageCmd.label "Message Pane">
-<!ENTITY addressBookCmd.key "B">
-<!ENTITY showMessageCmd.accesskey "M">

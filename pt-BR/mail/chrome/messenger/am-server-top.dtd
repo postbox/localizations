@@ -1,6 +1,5 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Configurações de segurança">
 <!ENTITY serverSettings.label "Receber mensagens">
 <!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
 <!ENTITY popServer.label "POP Mail Server">
@@ -26,19 +25,14 @@
 <!ENTITY biffStart.label "Verificar novas mensagens a cada">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutos">
-<!ENTITY isSecure.label "Use secure connection (SSL)">
-<!ENTITY isSecure.accesskey "U">
-<!ENTITY socketType.label "Use secure connection:">
-<!ENTITY neverSecure.label "Never">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, if available">
-<!ENTITY sometimesSecure.accesskey "a">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Usar autenticação segura">
-<!ENTITY useSecAuth.accesskey "r">
+<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Manter mensagens no servidor">
 <!ENTITY leaveOnServer.accesskey "M">
 <!ENTITY headersOnly.label "Receber somente os cabeçalhos">
@@ -87,7 +81,7 @@
 <!ENTITY abbreviateOff.label "Nomes abreviados (exemplo: n.p.m.mail-news)">
 <!ENTITY advancedButton.label "Avançado…">
 <!ENTITY advancedButton.accesskey "A">
-<!ENTITY serverDefaultCharset.label "Codificação padrão:">
+<!ENTITY serverDefaultCharset1.label "Encoding:">
 <!ENTITY localFolderPicker.label "Selecione a localização da pasta local:">
 <!ENTITY browseFolder.label "Procurar…">
 <!ENTITY browseFolder.accesskey "P">
@@ -95,26 +89,5 @@
 <!ENTITY browseNewsrc.label "Procurar…">
 <!ENTITY browseNewsrc.accesskey "r">
 
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY authMethod.label "Authentication:">
-<!ENTITY authMethod.accesskey "i">
-<!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY connectionSecurity.accesskey "u">
-<!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-2.label "STARTTLS">
-<!ENTITY connectionSecurity.label "Connection security:">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY accountName.label "Account Name:">
-<!ENTITY serverDefaultCharset1.label "Encoding:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "n">

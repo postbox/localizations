@@ -1,7 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Cópias e pastas">
-<!ENTITY sendingPrefix.label "Ao enviar mensagens, automaticamente: ">
 <!ENTITY fccMailFolder.label "Fazer uma cópia na pasta:">
 <!ENTITY fccMailFolder.accesskey "F">
 <!ENTITY fccReplyFollowsParent.label "Colocar respostas na pasta da mensagem que foi respondida">
@@ -15,45 +14,31 @@
 <!ENTITY templateMailFolder.label "Keep message templates in:">
 <!ENTITY saveMessageDlg.label "Notificar ao salvar mensagens">
 <!ENTITY saveMessageDlg.accesskey "N">
-<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Pasta “Enviados” da conta:">
-<!ENTITY sentFolderOn.accesskey "E">
+<!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY sentFolderOn1.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Outra pasta:">
 <!ENTITY sentInOtherFolder.accesskey "O">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Pasta “Rascunhos” da conta:">
-<!ENTITY draftsFolderOn.accesskey "R">
+<!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn1.label "Drafts:">
+<!ENTITY draftsFolderOn1.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Outra pasta:">
 <!ENTITY draftInOtherFolder.accesskey "u">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Pasta “Arquivos” da conta:">
-<!ENTITY archivesFolderOn.accesskey "a">
+<!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn1.label "Archive:">
+<!ENTITY archivesFolderOn1.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Outra pasta:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Pasta “Modelos” da conta:">
-<!ENTITY templatesFolderOn.accesskey "M">
+<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY templatesFolderOn1.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Outra pasta:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-<!ENTITY specialFoldersTitle.label "Rascunhos, arquivos e modelos">
 <!ENTITY keepDrafts.label "Armazenar rascunhos na pasta:">
 <!ENTITY keepArchives.label "Armazenar arquivos de mensagens na pasta:">
 <!ENTITY keepTempltes.label "Armazenar modelos na pasta:">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY templatesFolderOn1.accesskey "m">
-<!ENTITY draftsFolderOn1.accesskey "D">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
 <!ENTITY pbSentSettings.label "Sent">
 <!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY sentFolderOn1.label "Sent:">
-<!ENTITY draftsFolderOn1.label "Drafts:">
-<!ENTITY sentFolderOn1.accesskey "e">
-<!ENTITY archivesFolderOn1.accesskey "n">
-<!ENTITY archivesFolderOn1.label "Archive:">
-<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY pbArchiveSettings.label "Archive">
+<!ENTITY pbTemplatesSettings.label "Templates">

@@ -30,12 +30,6 @@
 <!ENTITY place.accesskey                      "I">
 <!ENTITY belowText.label                      "Fim da mensagem (recomendado)">
 <!ENTITY aboveText.label                      "Início da mensagem">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY includeSigOnReply.label              "Include signature for replies">
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Include signature for forwards">

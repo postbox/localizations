@@ -11,7 +11,6 @@
 <!ENTITY asAttachment.label                   "Anexo">
 <!ENTITY asAttachment.accesskey               "A">
 
-<!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Fonte:">
 <!ENTITY font.accesskey                       "F">
 <!ENTITY size.label                           "Tamanho:">
@@ -32,21 +31,12 @@
 <!ENTITY languagePopup.accessKey              "I">
 <!ENTITY downloadDictionaries.label           "Mais dicionários">
 
-<!ENTITY useMIME.label                        "For messages that contain 8-bit characters, use 'quoted printable' MIME encoding">
-<!ENTITY useMIME.accesskey                    "o">
-<!ENTITY warnOnSendAccelKey.label             "Confirmar ao usar um atalho do teclado para enviar mensagens">
-<!ENTITY warnOnSendAccelKey.accesskey         "o">
 <!ENTITY autoSave.label                       "Salvar automaticamente a cada">
 <!ENTITY autoSave.accesskey                   "S">
 <!ENTITY autoSaveEnd.label                    "minutos">
-<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label                     "Wrap plain text messages at">
-<!ENTITY wrapOutMsg.accesskey                 "l">
-<!ENTITY char.label                           "characters">
 
 <!ENTITY emailCollectionPicker.label           "Ao enviar emails, criar contatos dos destinatários em:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
-<!ENTITY addressingTitle.label                 "Autocompletar endereços">
 <!ENTITY autocompleteText.label                "Ao endereçar mensagens, procurar por contatos em:">
 <!ENTITY addressingEnable.label                "Catálogos de endereços locais">
 <!ENTITY addressingEnable.accesskey            "C">
@@ -57,26 +47,14 @@
 <!ENTITY matchText.label                       "If there is a match in your local address books:">
 <!ENTITY skipDirectory.label                   "Do not search in the directory">
 
-<!ENTITY sendOptionsCaption.label              "Send and HTML Options">
-<!ENTITY sendOptionsDescription.label          "Configure o comportamento do formato de texto.">
 <!ENTITY sendOptions.label                     "Formato de envio…">
 <!ENTITY sendOptions.accesskey                 "m">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY attachmentReminderOptions.accesskey   "K">
 <!ENTITY attachmentReminder.label              "Check for missing attachments">
 <!ENTITY attachmentReminder.accesskey          "m">
 <!ENTITY attachmentReminderOptions.label       "Keywords…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
+<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
 <!ENTITY composeLanguagesTitle.label            "Character Encoding:">
-<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
