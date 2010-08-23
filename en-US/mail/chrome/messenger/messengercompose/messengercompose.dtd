@@ -314,3 +314,5 @@
 
 <!ENTITY pbComposeSidebar.label "Sidebar">
 <!ENTITY pbComposeSidebar.accesskey "S">
+
+<!ENTITY pbAddAttachmentCmd.keycode "A">

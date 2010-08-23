@@ -6,6 +6,10 @@
 <!ENTITY newAccountGroupCmd.label "Account Group...">
 <!ENTITY newAccountGroupCmd.accesskey "G">
 
+<!-- Messages Menu -->
+<!ENTITY quickReplyMsgCmd.label "Quick Reply">
+<!ENTITY quickReplyMsgCmd.accesskey "Q">
+
 <!-- Tools Menu -->
 <!ENTITY pbIndexingMenu.label "Indexing">
 <!ENTITY pbIndexingMenu.accesskey "x">
@@ -34,8 +38,14 @@
 <!ENTITY viewMenuShowImages.label        "Images">
 <!ENTITY viewMenuShowImages.accesskey    "m">
 <!ENTITY key_showImages.key              "i">
+<!ENTITY showFolderPaneCmd.label "Folder Pane">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showFocusPaneCmd.label "Focus Pane">
-<!ENTITY showFocusPaneCmd.accesskey "F">
+<!ENTITY showFocusPaneCmd.accesskey "o">
+<!ENTITY pbToggleFocusPane.key "P">
+<!ENTITY pbToggleFolderPane.key "M">
+<!ENTITY pbToggleInspectorPane.key "I">
+<!ENTITY pbMessagePaneMac.key "E">
 <!ENTITY showInspectorPaneCmd.label "Inspector Pane">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
 
@@ -295,3 +305,17 @@
 <!ENTITY pbStatusBarOption-subscribe.accesskey "S">
 <!ENTITY pbStatusBarOption-deleteGroup.label "Delete Account Group">
 <!ENTITY pbStatusBarOption-deleteGroup.accesskey "D">
+
+<!-- Messages Menu -->
+<!ENTITY pbMoveToFolderAgain.label "Move">
+<!ENTITY pbMoveToFolderAgain.accesskey "v">
+
+<!-- Conversation Action context menu -->
+<!ENTITY pbConversationHdrContextMenu-reply.label "Reply">
+<!ENTITY pbConversationHdrContextMenu-reply.accesskey "R">
+<!ENTITY pbConversationHdrContextMenu-replyall.label "Reply All">
+<!ENTITY pbConversationHdrContextMenu-replyall.accesskey "A">
+<!ENTITY pbConversationHdrContextMenu-forward.label "Forward">
+<!ENTITY pbConversationHdrContextMenu-forward.accesskey "F">
+<!ENTITY pbConversationHdrContextMenu-open.label "Open">
+<!ENTITY pbConversationHdrContextMenu-open.accesskey "O">

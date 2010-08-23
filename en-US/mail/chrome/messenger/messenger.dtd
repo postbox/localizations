@@ -323,13 +323,13 @@
 <!ENTITY createFilter.accesskey "i">
 <!ENTITY archiveMsgMenu.label "Archive">
 <!ENTITY archiveMsgMenu.accesskey "a">
-<!ENTITY moveMsgMenu.label "Move">
+<!ENTITY moveMsgMenu.label "Move To">
 <!ENTITY moveMsgMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "Recent">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Copy Message Location">
 <!ENTITY copyMessageLocation.accesskey "M">
-<!ENTITY copyMsgMenu.label "Copy">
+<!ENTITY copyMsgMenu.label "Copy To">
 <!ENTITY copyMsgMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Move Again">
 <!ENTITY moveToFolderAgain.accesskey "i">
@@ -344,7 +344,7 @@
 <!ENTITY fileHereMenu.accesskey "F">
 <!ENTITY copyHereMenu.label "Copy Here">
 <!ENTITY copyHereMenu.accesskey "C">
-<!ENTITY tagMenu.label "Topic">
+<!ENTITY tagMenu.label "Assign Topic">
 <!ENTITY tagMenu.accesskey "T">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
@@ -388,6 +388,7 @@
 <!ENTITY openMessageWindowCmd.accesskey "n">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY archiveMsgCmd.key "a">
+<!ENTITY quickReplyMsgCmd.key "r">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Window">
@@ -593,7 +594,7 @@
 <!ENTITY contextEditMsg.accesskey "i">
 <!ENTITY contextEditAsNew1.label "Resend...">
 <!ENTITY contextEditAsNew1.accesskey "e">
-<!ENTITY contextReplySender.label "Reply to Sender Only">
+<!ENTITY contextReplySender.label "Reply">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Reply to Newsgroup">
 <!ENTITY contextReplyNewsgroup.accesskey "N">
@@ -687,6 +688,8 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Show All">
+
+<!ENTITY pbkey_goHomeMac.key "H">
 
 <!-- Lightning Specific String -->
 <!ENTITY pbLightningQuickView.label "Quick View">
