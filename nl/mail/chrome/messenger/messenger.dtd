@@ -11,9 +11,9 @@
 <!ENTITY closeTabCmd.accesskey "s">
 <!ENTITY newVirtualFolderCmd.label "Opgeslagen zoekopdracht…">
 <!ENTITY newVirtualFolderCmd.accesskey "O">
-<!ENTITY newOtherAccountsCmd.label "Other Accounts…">
-<!ENTITY newOtherAccountsCmd.accesskey "O">
-<!ENTITY newEmailAccountCmd.label "Mail Account…">
+<!ENTITY newOtherAccountsCmd.label "Andere accounts...">
+<!ENTITY newOtherAccountsCmd.accesskey "o">
+<!ENTITY newEmailAccountCmd.label "E-mail account...">
 <!ENTITY newEmailAccountCmd.accesskey "a">
 <!ENTITY newTaskCmd.label "To-Do">
 <!ENTITY newTaskCmd.accesskey "T">
@@ -128,8 +128,8 @@
 <!ENTITY messagePaneClassic.accesskey "K">
 <!ENTITY messagePaneVertical.label "Verticaal beeld">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY showMessageCmd.label "Message Pane">
-<!ENTITY showMessageCmd.accesskey "M">
+<!ENTITY showMessageCmd.label "Berichtvenster">
+<!ENTITY showMessageCmd.accesskey "B">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorteren op">
@@ -388,6 +388,7 @@
 <!ENTITY openMessageWindowCmd.accesskey "o">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY archiveMsgCmd.key "a">
+<!ENTITY quickReplyMsgCmd.key "r">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Venster">
@@ -425,7 +426,7 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY releaseCmd.label "Versie gegevens">
 <!ENTITY releaseCmd.accesskey "r">
-<!ENTITY guideCmd.label "Quickstart Guide">
+<!ENTITY guideCmd.label "Snelstart handleiding">
 <!ENTITY guideCmd.accesskey "r">
 <!ENTITY hintsAndTips.label "&brandFullName; Help">
 <!ENTITY hintsAndTipsMac.commandkey "?">
@@ -688,15 +689,9 @@
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Toon alles">
 
+<!ENTITY pbkey_goHomeMac.key "H">
+
 <!-- Lightning Specific String -->
 <!ENTITY pbLightningQuickView.label "Snelvoorbeeld">
-<!ENTITY lightning.calendar.label "Calendar">
-<!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbkey_goHomeMac.key "H">
-<!ENTITY quickReplyMsgCmd.key "r">
+<!ENTITY lightning.calendar.label "Agenda">
+<!ENTITY lightning.tasks.label "Taken">

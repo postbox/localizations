@@ -3,8 +3,12 @@
 <!ENTITY pbLocalesMenu.accesskey "T">
 <!ENTITY pbLocalesMenu_getMore.label "Meer verkrijgen...">
 <!ENTITY pbLocalesMenu_getMore.accesskey "g">
-<!ENTITY newAccountGroupCmd.label "Account Group...">
+<!ENTITY newAccountGroupCmd.label "Account Groep...">
 <!ENTITY newAccountGroupCmd.accesskey "G">
+
+<!-- Messages Menu -->
+<!ENTITY quickReplyMsgCmd.label "Quick Reply">
+<!ENTITY quickReplyMsgCmd.accesskey "Q">
 
 <!-- Tools Menu -->
 <!ENTITY pbIndexingMenu.label "Indexeren">
@@ -21,22 +25,28 @@
 <!ENTITY webServices.accesskey "W">
 
 <!-- View Menu -->
-<!ENTITY pinStarredMessages.label "Pin To-Dos">
-<!ENTITY pinStarredMessages.accesskey "P">
-<!ENTITY showConversations.label "Show Conversations">
-<!ENTITY showConversations.accesskey "h">
-<!ENTITY viewMenuShowMessages.label        "Messages">
-<!ENTITY viewMenuShowMessages.accesskey    "M">
+<!ENTITY pinStarredMessages.label "To-Do's vastzetten">
+<!ENTITY pinStarredMessages.accesskey "T">
+<!ENTITY showConversations.label "Conversaties weergeven">
+<!ENTITY showConversations.accesskey "C">
+<!ENTITY viewMenuShowMessages.label        "Berichten">
+<!ENTITY viewMenuShowMessages.accesskey    "B">
 <!ENTITY key_showMessages.key              "m">
-<!ENTITY viewMenuShowAttachments.label "Attachments">
-<!ENTITY viewMenuShowAttachments.accesskey "t">
+<!ENTITY viewMenuShowAttachments.label "Bijlagen">
+<!ENTITY viewMenuShowAttachments.accesskey "B">
 <!ENTITY key_showAttachments.key         "a">
-<!ENTITY viewMenuShowImages.label        "Images">
-<!ENTITY viewMenuShowImages.accesskey    "m">
+<!ENTITY viewMenuShowImages.label        "Afbeeldingen">
+<!ENTITY viewMenuShowImages.accesskey    "A">
 <!ENTITY key_showImages.key              "i">
-<!ENTITY showFocusPaneCmd.label "Focus Pane">
+<!ENTITY showFolderPaneCmd.label "Folder Pane">
+<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFocusPaneCmd.label "Focus Venster">
 <!ENTITY showFocusPaneCmd.accesskey "F">
-<!ENTITY showInspectorPaneCmd.label "Inspector Pane">
+<!ENTITY pbToggleFocusPane.key "P">
+<!ENTITY pbToggleFolderPane.key "M">
+<!ENTITY pbToggleInspectorPane.key "I">
+<!ENTITY pbMessagePaneMac.key "E">
+<!ENTITY showInspectorPaneCmd.label "Inspector Venster">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
 
 <!-- Mail Toolbar -->
@@ -47,7 +57,7 @@
 <!ENTITY focusPaneEvents.label          "Gebeurtenissen">
 <!ENTITY focusPaneImages.label          "Afbeeldingen">
 <!ENTITY focusPaneMessages.label        "Alles Weergeven">
-<!ENTITY viewButtons.label              "View">
+<!ENTITY viewButtons.label              "Bekijken">
 <!ENTITY tagButton.tooltip "Wijs topic aan berichten toe">
 <!ENTITY newTaskButton.tooltip "Maak een nieuw To-do item">
 <!ENTITY newTaskButton.label "Nieuwe To-Do">
@@ -205,7 +215,7 @@
 <!ENTITY pbContentURLContextMenu-addToFriendFeed.accesskey "r">
 <!ENTITY pbContentURLContextMenu-addToTwitter.label       "Plaats op Twitter...">
 <!ENTITY pbContentURLContextMenu-addToTwitter.accesskey   "w">
-<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Post to LinkedIn...">
+<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Plaats op LinkedIn...">
 <!ENTITY pbContentURLContextMenu-addToLinkedIn.accesskey  "L">
 
 <!-- text context menu -->
@@ -221,12 +231,12 @@
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Opzoeken in woordenboek">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "O">
-<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New To-Do with Selection as Note">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: Nieuwe To-do met de huidige selectie als aantekening">
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
-<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New To-Do with Selection as Title">
+<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: Nieuwe To-do met huidige selectie als titel">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
-<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Send to Inbox">
-<!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
+<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Stuur naar Inbox">
+<!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "I">
 
 <!-- topic context menu -->
 <!ENTITY pbTopicContextMenu-edit.label         "Naam wijzigen">
@@ -239,19 +249,19 @@
 <!ENTITY pbTopicContextMenu-editAll.accesskey  "T">
 
 <!-- account tree context menu -->
-<!ENTITY pbAccountTreeContextMenu-newGroup.label "New Account Group...">
+<!ENTITY pbAccountTreeContextMenu-newGroup.label "Nieuwe Account Groep...">
 <!ENTITY pbAccountTreeContextMenu-newGroup.accesskey "G">
 <!ENTITY pbAccountTreeContextMenu-settings.label "Instellingen...">
 <!ENTITY pbAccountTreeContextMenu-settings.accesskey "I">
 
 <!-- folder pane -->
 <!ENTITY accountTreeMac.label    "ACCOUNTS">
-<!ENTITY folderTreeMac.label     "FOLDERS">
+<!ENTITY folderTreeMac.label     "MAPPEN">
 
 <!-- thread pane -->
 <!ENTITY threadPaneNoMatchesFound.desc "Geen berichten komen met de zoekopdracht overeen.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Probeer in Alle Mappen te zoeken.">
-<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Try setting your Focus to All.">
+<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Probeer het filter op Alle te zetten.">
 <!ENTITY threadPaneAddTextToSearch.desc "Begin met typen in de zoekbalk om het zoeken te starten.">
 
 <!ENTITY pbSignatureEditor.title "Nieuwe Handtekening">
@@ -273,49 +283,39 @@
 <!ENTITY downloadLanguage.title "Taal Downloaden">
 
 <!-- thread pane context menu -->
-<!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Send to Inbox">
-<!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "i">
+<!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Stuur naar Inbox">
+<!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "I">
 
 <!-- message pane context menu -->
-<!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Send to Inbox">
-<!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
+<!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Stuur naar Inbox">
+<!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "I">
 
 <!-- status bar -->
-<!ENTITY pbStatusBarOption-newAccount.label "New Account...">
+<!ENTITY pbStatusBarOption-newAccount.label "Nieuw Account...">
 <!ENTITY pbStatusBarOption-newAccount.accesskey "N">
-<!ENTITY pbStatusBarOption-newGroup.label "New Account Group...">
+<!ENTITY pbStatusBarOption-newGroup.label "Nieuwe Account Groep...">
 <!ENTITY pbStatusBarOption-newGroup.accesskey "G">
-<!ENTITY pbStatusBarOption-settings.label "Account Settings...">
+<!ENTITY pbStatusBarOption-settings.label "Accountinstellingen…">
 <!ENTITY pbStatusBarOption-settings.accesskey "A">
-<!ENTITY pbStatusBarOption-newFolder.label "New Folder...">
-<!ENTITY pbStatusBarOption-newFolder.accesskey "F">
-<!ENTITY pbStatusBarOption-folderProperties.label "Folder Properties...">
-<!ENTITY pbStatusBarOption-folderProperties.accesskey "P">
-<!ENTITY pbStatusBarOption-subscribe.label "Subscribe...">
-<!ENTITY pbStatusBarOption-subscribe.accesskey "S">
-<!ENTITY pbStatusBarOption-deleteGroup.label "Delete Account Group">
-<!ENTITY pbStatusBarOption-deleteGroup.accesskey "D">
+<!ENTITY pbStatusBarOption-newFolder.label "Nieuwe map…">
+<!ENTITY pbStatusBarOption-newFolder.accesskey "N">
+<!ENTITY pbStatusBarOption-folderProperties.label "Mapeigenschappen…">
+<!ENTITY pbStatusBarOption-folderProperties.accesskey "p">
+<!ENTITY pbStatusBarOption-subscribe.label "Abonneren…">
+<!ENTITY pbStatusBarOption-subscribe.accesskey "A">
+<!ENTITY pbStatusBarOption-deleteGroup.label "Verwijder Account Groep">
+<!ENTITY pbStatusBarOption-deleteGroup.accesskey "d">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbConversationHdrContextMenu-open.label "Open">
-<!ENTITY pbConversationHdrContextMenu-replyall.label "Reply All">
-<!ENTITY pbMoveToFolderAgain.accesskey "v">
-<!ENTITY pbMessagePaneMac.key "E">
-<!ENTITY showFolderPaneCmd.accesskey "F">
-<!ENTITY pbConversationHdrContextMenu-replyall.accesskey "A">
-<!ENTITY pbToggleInspectorPane.key "I">
+<!-- Messages Menu -->
 <!ENTITY pbMoveToFolderAgain.label "Move">
-<!ENTITY pbToggleFocusPane.key "P">
-<!ENTITY quickReplyMsgCmd.label "Quick Reply">
+<!ENTITY pbMoveToFolderAgain.accesskey "v">
+
+<!-- Conversation Action context menu -->
 <!ENTITY pbConversationHdrContextMenu-reply.label "Reply">
-<!ENTITY pbConversationHdrContextMenu-open.accesskey "O">
 <!ENTITY pbConversationHdrContextMenu-reply.accesskey "R">
-<!ENTITY showFolderPaneCmd.label "Folder Pane">
+<!ENTITY pbConversationHdrContextMenu-replyall.label "Reply All">
+<!ENTITY pbConversationHdrContextMenu-replyall.accesskey "A">
 <!ENTITY pbConversationHdrContextMenu-forward.label "Forward">
-<!ENTITY quickReplyMsgCmd.accesskey "Q">
-<!ENTITY pbToggleFolderPane.key "M">
 <!ENTITY pbConversationHdrContextMenu-forward.accesskey "F">
+<!ENTITY pbConversationHdrContextMenu-open.label "Open">
+<!ENTITY pbConversationHdrContextMenu-open.accesskey "O">
