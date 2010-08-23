@@ -314,3 +314,10 @@
 
 <!ENTITY pbComposeSidebar.label "Боковая панель">
 <!ENTITY pbComposeSidebar.accesskey "S">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbAddAttachmentCmd.keycode "A">

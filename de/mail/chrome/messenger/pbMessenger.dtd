@@ -295,3 +295,27 @@
 <!ENTITY pbStatusBarOption-subscribe.accesskey "S">
 <!ENTITY pbStatusBarOption-deleteGroup.label "Delete Account Group">
 <!ENTITY pbStatusBarOption-deleteGroup.accesskey "D">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbConversationHdrContextMenu-open.label "Open">
+<!ENTITY pbConversationHdrContextMenu-replyall.label "Reply All">
+<!ENTITY pbMoveToFolderAgain.accesskey "v">
+<!ENTITY pbMessagePaneMac.key "E">
+<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY pbConversationHdrContextMenu-replyall.accesskey "A">
+<!ENTITY pbToggleInspectorPane.key "I">
+<!ENTITY pbMoveToFolderAgain.label "Move">
+<!ENTITY pbToggleFocusPane.key "P">
+<!ENTITY quickReplyMsgCmd.label "Quick Reply">
+<!ENTITY pbConversationHdrContextMenu-reply.label "Reply">
+<!ENTITY pbConversationHdrContextMenu-open.accesskey "O">
+<!ENTITY pbConversationHdrContextMenu-reply.accesskey "R">
+<!ENTITY showFolderPaneCmd.label "Folder Pane">
+<!ENTITY pbConversationHdrContextMenu-forward.label "Forward">
+<!ENTITY quickReplyMsgCmd.accesskey "Q">
+<!ENTITY pbToggleFolderPane.key "M">
+<!ENTITY pbConversationHdrContextMenu-forward.accesskey "F">

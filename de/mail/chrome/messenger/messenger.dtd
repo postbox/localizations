@@ -692,3 +692,11 @@
 <!ENTITY pbLightningQuickView.label "Schnellansicht">
 <!ENTITY lightning.calendar.label "Calendar">
 <!ENTITY lightning.tasks.label "Tasks">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbkey_goHomeMac.key "H">
+<!ENTITY quickReplyMsgCmd.key "r">

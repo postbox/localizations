@@ -48,3 +48,12 @@
 <!ENTITY messagesOnly.label         "des messages seulement">
 <!ENTITY accept.label               "Create Folder">
 <!ENTITY accept.accesskey           "r">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbNewFolder.desc "Enter a name for the new folder and select a location.">
+<!ENTITY pbNewFolderLocatione.accesskey "L">
+<!ENTITY pbNewFolderLocation.label "Location:">
