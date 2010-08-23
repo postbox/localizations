@@ -319,3 +319,11 @@
 <!ENTITY pbConversationHdrContextMenu-forward.accesskey "F">
 <!ENTITY pbConversationHdrContextMenu-open.label "Open">
 <!ENTITY pbConversationHdrContextMenu-open.accesskey "O">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbKeyboardShortCuts.accesskey "K">
+<!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">

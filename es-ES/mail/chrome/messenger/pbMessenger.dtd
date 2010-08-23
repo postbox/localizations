@@ -319,3 +319,11 @@ entities below were automatically added by l10nmerge
 <!ENTITY quickReplyMsgCmd.accesskey "Q">
 <!ENTITY pbToggleFolderPane.key "M">
 <!ENTITY pbConversationHdrContextMenu-forward.accesskey "F">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbKeyboardShortCuts.accesskey "K">
+<!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">

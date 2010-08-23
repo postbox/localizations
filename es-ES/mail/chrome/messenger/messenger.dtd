@@ -700,3 +700,11 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY pbkey_goHomeMac.key "H">
 <!ENTITY quickReplyMsgCmd.key "r">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY goToFolderCmd.accesskey "Q">
+<!ENTITY goToFolderCmd.label "Quick Switch">
