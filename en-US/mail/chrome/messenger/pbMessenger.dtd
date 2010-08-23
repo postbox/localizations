@@ -307,7 +307,7 @@
 <!ENTITY pbStatusBarOption-deleteGroup.accesskey "D">
 
 <!-- Messages Menu -->
-<!ENTITY pbMoveToFolderAgain.label "Move">
+<!ENTITY pbMoveToFolderAgain.label "Quick Move">
 <!ENTITY pbMoveToFolderAgain.accesskey "v">
 
 <!-- Conversation Action context menu -->
@@ -319,3 +319,7 @@
 <!ENTITY pbConversationHdrContextMenu-forward.accesskey "F">
 <!ENTITY pbConversationHdrContextMenu-open.label "Open">
 <!ENTITY pbConversationHdrContextMenu-open.accesskey "O">
+
+<!-- Help Menu -->
+<!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">
+<!ENTITY pbKeyboardShortCuts.accesskey "K">

@@ -285,6 +285,8 @@
 <!ENTITY goBackCmd.label "Back">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goToFolderCmd.label "Quick Switch">
+<!ENTITY goToFolderCmd.accesskey "Q">
 <!ENTITY prevStarredMsgCmd.label "To-Do">
 <!ENTITY prevStarredMsgCmd.accesskey "o">
 <!ENTITY startPageCmd1.label "Home">
