@@ -388,6 +388,7 @@
 <!ENTITY openMessageWindowCmd.accesskey "p">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY archiveMsgCmd.key "a">
+<!ENTITY quickReplyMsgCmd.key "r">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Fönster">
@@ -688,15 +689,9 @@
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Visa alla">
 
+<!ENTITY pbkey_goHomeMac.key "H">
+
 <!-- Lightning Specific String -->
 <!ENTITY pbLightningQuickView.label "Snabbvisning">
 <!ENTITY lightning.calendar.label "Calendar">
 <!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbkey_goHomeMac.key "H">
-<!ENTITY quickReplyMsgCmd.key "r">
