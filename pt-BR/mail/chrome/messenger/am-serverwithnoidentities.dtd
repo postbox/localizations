@@ -1,8 +1,6 @@
 <!ENTITY accountTitle.label "Configurações da conta">
-<!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não há identidades associadas a ela.">
 <!ENTITY accountName.label "Nome da conta:">
 <!ENTITY accountName.accesskey "t">
-<!ENTITY messageStorage.label "Armazenamento de mensagens">
 <!ENTITY emptyTrashOnExit.label "Esvaziar a lixeira ao sair">
 <!ENTITY emptyTrashOnExit.accesskey "z">
 <!ENTITY localPath.label "Pasta local:">

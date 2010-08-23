@@ -46,14 +46,7 @@
 <!ENTITY folderRestriction2.label   "Permitir que sua nova pasta contenha:">
 <!ENTITY foldersOnly.label          "Somente pastas">
 <!ENTITY messagesOnly.label         "Somente mensagens">
-<!ENTITY accept.label               "Create Folder">
-<!ENTITY accept.accesskey           "r">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
 
 <!ENTITY pbNewFolder.desc "Enter a name for the new folder and select a location.">
-<!ENTITY pbNewFolderLocatione.accesskey "L">
 <!ENTITY pbNewFolderLocation.label "Location:">
+<!ENTITY pbNewFolderLocatione.accesskey "L">
