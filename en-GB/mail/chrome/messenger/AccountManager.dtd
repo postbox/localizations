@@ -34,3 +34,16 @@
      this window for en-US. -->
 <!ENTITY macAccountManager.size "width: 96ch; height: 50em;">
 <!ENTITY accountTree.width "width: 31ch;">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbAccountRemoveActionsButton.label "Remove">
+<!ENTITY pbAccountAddActionsButton.accesskey "A">
+<!ENTITY pbAccountAddActionsButton.label "Add…">
+<!ENTITY pbAccountTree.width "width: 25ch;">
+<!ENTITY pbAccountRemoveActionsButton.accesskey "R">
+<!ENTITY pbMacAccountManager.height "height: 45em;">
+<!ENTITY pbAccountManager.height "height: 42em;">

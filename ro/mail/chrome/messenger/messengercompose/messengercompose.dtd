@@ -321,3 +321,13 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY signatureButton.tooltip "Insert a signature">
+<!ENTITY newSignature.label "New Signature...">
+<!ENTITY editSignatures.label "Edit Signatures...">
+<!ENTITY signatureButton.label "Signatures">

@@ -94,3 +94,10 @@
 <!ENTITY pbMsgHdrView.conversationMsgReply.label "Antworten">
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "Allen antworten">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "Weiterleiten">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY messageHeader.quickreply.tooltip "Quick Reply to the message.">

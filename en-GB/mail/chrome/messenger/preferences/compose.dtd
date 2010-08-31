@@ -58,3 +58,15 @@
 <!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
 <!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY removeSignatureButton.accesskey "l">
+<!ENTITY itemSignatures.label                "Signatures">
+<!ENTITY removeSignatureButton.label    "Delete">
+<!ENTITY addSignatureButton.accesskey   "N">
+<!ENTITY editSignatureButton.label      "Edit">
+<!ENTITY editSignatureButton.accesskey   "E">
+<!ENTITY addSignatureButton.label       "New">

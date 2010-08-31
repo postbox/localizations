@@ -31,3 +31,19 @@
 <!ENTITY diskspaceGroupTitle.label "Diskutrymme">
 <!ENTITY ftiGroupTitle.label "Global Search">
 <!ENTITY fti.indexMsgBodies.label "Index message bodies">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY newsrcFilePath.label "newsrc file:">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY newsrcPicker.label "Select newsrc File">
+<!ENTITY browseFolder.label "Browse...">
+<!ENTITY localFolderPicker.label "Select Local Directory">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY browseNewsrc.accesskey "e">
+<!ENTITY localPath.label "Local directory:">
+<!ENTITY browseNewsrc.label "Browse...">
+<!ENTITY newsrcFilePath.accesskey "f">
