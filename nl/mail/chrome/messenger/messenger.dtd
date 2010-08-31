@@ -103,9 +103,6 @@
 <!ENTITY folderPropsFolderCmd.label "Mapeigenschappen…">
 <!ENTITY folderPropsNewsgroupCmd.label "Nieuwsgroepeigenschappen…">
 <!ENTITY folderPropsCmd.accesskey "E">
-<!ENTITY accountManagerCmd.label "Accountinstellingen…">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY undoDeleteMsgCmd.label "Bericht verwijderen ongedaan maken">
 <!ENTITY redoDeleteMsgCmd.label "Bericht verwijderen opnieuw uitvoeren">
 <!ENTITY undoMoveMsgCmd.label "Bericht verplaatsen ongedaan maken">
@@ -428,8 +425,6 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY releaseCmd.label "Versie gegevens">
 <!ENTITY releaseCmd.accesskey "r">
-<!ENTITY guideCmd.label "Snelstart handleiding">
-<!ENTITY guideCmd.accesskey "r">
 <!ENTITY hintsAndTips.label "&brandFullName; Help">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "H">

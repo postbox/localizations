@@ -161,9 +161,6 @@
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Accountinstellingen…">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "i">
 <!ENTITY preferencesCmd.label "Opties…">
 <!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
@@ -197,6 +194,7 @@
 <!ENTITY saveButton.label "Opslaan">
 <!ENTITY tagButton.label "Label toewijzen">
 <!ENTITY throbberItem.title "Activiteitsindicator">
+<!ENTITY signatureButton.label "Signatures">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Dit bericht nu verzenden"> 
@@ -209,6 +207,7 @@
 <!ENTITY copyButton.tooltip             "Kopiëren">
 <!ENTITY pasteButton.tooltip            "Plakken">
 <!ENTITY tagButton.tooltip "Add topic(s) to message">
+<!ENTITY signatureButton.tooltip "Insert a signature">
 
 <!-- Headers -->
 <!ENTITY fromHeader.label "Van">
@@ -284,6 +283,8 @@
 <!ENTITY attachFile.accesskey "B">
 <!ENTITY attachPage.label "Webpagina koppelen…">
 <!ENTITY attachPage.accesskey "W">
+<!ENTITY editSignatures.label "Edit Signatures...">
+<!ENTITY newSignature.label "New Signature...">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Adresboek">
@@ -316,13 +317,3 @@
 <!ENTITY pbComposeSidebar.accesskey "S">
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY signatureButton.tooltip "Insert a signature">
-<!ENTITY newSignature.label "New Signature...">
-<!ENTITY editSignatures.label "Edit Signatures...">
-<!ENTITY signatureButton.label "Signatures">

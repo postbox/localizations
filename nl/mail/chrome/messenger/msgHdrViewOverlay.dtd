@@ -62,7 +62,7 @@
 <!ENTITY messageHeader.gatherMessageButton.label    "Toon alles">
 <!ENTITY messageHeader.tagMessageButton.tooltip     "Label(s) toewijzen aan bericht.">
 <!ENTITY messageHeader.reply.label "Reply">
-<!ENTITY messageHeader.reply.tooltip "Reply to the message.">
+<!ENTITY messageHeader.quickreply.tooltip "Quick Reply to the message.">
 <!ENTITY messageHeader.replyAll.label "Reply All">
 <!ENTITY messageHeader.forward.label "Forward">
 
@@ -94,10 +94,3 @@
 <!ENTITY pbMsgHdrView.conversationMsgReply.label "antwoorden">
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "alle antwoorden">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "doorsturen">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY messageHeader.quickreply.tooltip "Quick Reply to the message.">

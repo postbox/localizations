@@ -21,8 +21,6 @@
 <!ENTITY resetIndexAllMessages.accesskey "R">
 <!ENTITY resetIndexMessagesInFolder.label "Reset deze map...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY webServices.label "Web Diensten...">
-<!ENTITY webServices.accesskey "W">
 
 <!-- View Menu -->
 <!ENTITY pinStarredMessages.label "To-Do's vastzetten">
@@ -101,10 +99,6 @@
 <!ENTITY searchResultPopup-quickLook.accesskey       "V">
 <!ENTITY searchResultPopup-attachTo.label            "Koppelen Aan">
 <!ENTITY searchResultPopup-attachTo.accesskey        "K">
-<!ENTITY searchResultPopup-editResult.label      "Bewerken…">
-<!ENTITY searchResultPopup-editResult.accesskey  "e">
-<!ENTITY searchResultPopup-deleteResult.label      "Verwijderen">
-<!ENTITY searchResultPopup-deleteResult.accesskey  "d">
 <!ENTITY pbSearchResultPopup-send.label              "Versturen...">
 <!ENTITY pbSearchResultPopup-send.accesskey          "e">
 <!ENTITY pbSearchResultPopup-save.label              "Opslaan...">
@@ -216,7 +210,7 @@
 <!ENTITY pbContentURLContextMenu-addToTwitter.label       "Plaats op Twitter...">
 <!ENTITY pbContentURLContextMenu-addToTwitter.accesskey   "w">
 <!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Plaats op LinkedIn...">
-<!ENTITY pbContentURLContextMenu-addToLinkedIn.accesskey  "L">
+<!ENTITY pbContentURLContextMenu-addToLinkedIn.accesskey  "l">
 
 <!-- text context menu -->
 <!ENTITY pbContentTextContextMenu-websearch.accesskey    "S">
@@ -236,7 +230,7 @@
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: Nieuwe To-do met huidige selectie als titel">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Stuur naar Inbox">
-<!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "I">
+<!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
 
 <!-- topic context menu -->
 <!ENTITY pbTopicContextMenu-edit.label         "Naam wijzigen">
@@ -284,11 +278,11 @@
 
 <!-- thread pane context menu -->
 <!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Stuur naar Inbox">
-<!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "I">
+<!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "i">
 
 <!-- message pane context menu -->
 <!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Stuur naar Inbox">
-<!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "I">
+<!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
 
 <!-- status bar -->
 <!ENTITY pbStatusBarOption-newAccount.label "Nieuw Account...">
@@ -323,11 +317,5 @@
 <!-- Help Menu -->
 <!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">
 <!ENTITY pbKeyboardShortCuts.accesskey "K">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY guideCmd.accesskey "r">
 <!ENTITY guideCmd.label "Quickstart Guide">
+<!ENTITY guideCmd.accesskey "r">
