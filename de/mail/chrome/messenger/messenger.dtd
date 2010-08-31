@@ -285,6 +285,8 @@
 <!ENTITY goBackCmd.label "Zurück">
 <!ENTITY goBackCmd.accesskey "Z">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goToFolderCmd.label "Quick Switch">
+<!ENTITY goToFolderCmd.accesskey "Q">
 <!ENTITY prevStarredMsgCmd.label "Gekennzeichnete Nachricht">
 <!ENTITY prevStarredMsgCmd.accesskey "G">
 <!ENTITY startPageCmd1.label "Home">
@@ -695,11 +697,3 @@
 <!ENTITY pbLightningQuickView.label "Schnellansicht">
 <!ENTITY lightning.calendar.label "Calendar">
 <!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY goToFolderCmd.accesskey "Q">
-<!ENTITY goToFolderCmd.label "Quick Switch">
