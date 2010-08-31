@@ -62,7 +62,7 @@
 <!ENTITY messageHeader.gatherMessageButton.label    "Показать все">
 <!ENTITY messageHeader.tagMessageButton.tooltip     "Добавить метку(s) к этому сообщению.">
 <!ENTITY messageHeader.reply.label "Reply">
-<!ENTITY messageHeader.reply.tooltip "Reply to the message.">
+<!ENTITY messageHeader.quickreply.tooltip "Quick Reply to the message.">
 <!ENTITY messageHeader.replyAll.label "Reply All">
 <!ENTITY messageHeader.forward.label "Forward">
 
@@ -94,10 +94,3 @@
 <!ENTITY pbMsgHdrView.conversationMsgReply.label "ответить">
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "ответить всем">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "вперёд">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY messageHeader.quickreply.tooltip "Quick Reply to the message.">

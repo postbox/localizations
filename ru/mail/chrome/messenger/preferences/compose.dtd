@@ -2,6 +2,7 @@
 <!ENTITY itemAutoComplete.label              "Адресация">
 <!ENTITY itemSpellCheck.label                "Орфография">
 <!ENTITY itemSendFormat.label                "Формат отправки">
+<!ENTITY itemSignatures.label                "Signatures">
 
 <!ENTITY forwardReply.label                   "Пересылаемые сообщения">
 <!ENTITY forwardMsg.label                     "Пересылать сообщения:">
@@ -59,14 +60,10 @@
 <!ENTITY replyInDefaultCharset2.accesskey "h">
 <!ENTITY composeLanguagesTitle.label            "Character Encoding:">
 
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY removeSignatureButton.accesskey "l">
-<!ENTITY itemSignatures.label                "Signatures">
-<!ENTITY removeSignatureButton.label    "Delete">
+<!-- signatures -->
+<!ENTITY addSignatureButton.label       "New">
 <!ENTITY addSignatureButton.accesskey   "N">
 <!ENTITY editSignatureButton.label      "Edit">
 <!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY addSignatureButton.label       "New">
+<!ENTITY removeSignatureButton.label    "Delete">
+<!ENTITY removeSignatureButton.accesskey "l">

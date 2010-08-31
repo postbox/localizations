@@ -103,9 +103,6 @@
 <!ENTITY folderPropsFolderCmd.label "Свойства папки…">
 <!ENTITY folderPropsNewsgroupCmd.label "Свойства группы новостей…">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "Параметры учётной записи…">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "м">
 <!ENTITY undoDeleteMsgCmd.label "Отменить удаление сообщения">
 <!ENTITY redoDeleteMsgCmd.label "Повторить удаление сообщения">
 <!ENTITY undoMoveMsgCmd.label "Отменить перемещение сообщения">
@@ -428,8 +425,6 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY releaseCmd.label "Примечания к выпуску">
 <!ENTITY releaseCmd.accesskey "R">
-<!ENTITY guideCmd.label "Quickstart Guide">
-<!ENTITY guideCmd.accesskey "r">
 <!ENTITY hintsAndTips.label "Справка &brandFullName;">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "H">
