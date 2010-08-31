@@ -103,9 +103,6 @@
 <!ENTITY folderPropsFolderCmd.label "Propriétés du dossier…">
 <!ENTITY folderPropsNewsgroupCmd.label "Propriétés du groupe…">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "Paramètres des comptes…">
-<!ENTITY accountManagerCmd.accesskey "m">
-<!ENTITY accountManagerCmdUnix.accesskey "a">
 <!ENTITY undoDeleteMsgCmd.label "Annuler l'effacement">
 <!ENTITY redoDeleteMsgCmd.label "Restaurer le message effacé">
 <!ENTITY undoMoveMsgCmd.label "Annuler le déplacement de message">
@@ -428,8 +425,6 @@
 <!ENTITY helpMenuWin.accesskey    "A">
 <!ENTITY releaseCmd.label "Notes de version">
 <!ENTITY releaseCmd.accesskey "r">
-<!ENTITY guideCmd.label "Quickstart Guide">
-<!ENTITY guideCmd.accesskey "r">
 <!ENTITY hintsAndTips.label "Aide &brandFullName;">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "A">
