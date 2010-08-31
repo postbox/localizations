@@ -2,6 +2,7 @@
 <!ENTITY itemAutoComplete.label              "Addressing">
 <!ENTITY itemSpellCheck.label                "Spelling">
 <!ENTITY itemSendFormat.label                "Send Format">
+<!ENTITY itemSignatures.label                "Signatures">
 
 <!ENTITY forwardReply.label                   "Forwarding Messages">
 <!ENTITY forwardMsg.label                     "Forward messages:">
@@ -59,14 +60,10 @@
 <!ENTITY replyInDefaultCharset2.accesskey "h">
 <!ENTITY composeLanguagesTitle.label            "Character Encoding:">
 
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY removeSignatureButton.accesskey "l">
-<!ENTITY itemSignatures.label                "Signatures">
-<!ENTITY removeSignatureButton.label    "Delete">
+<!-- signatures -->
+<!ENTITY addSignatureButton.label       "New">
 <!ENTITY addSignatureButton.accesskey   "N">
 <!ENTITY editSignatureButton.label      "Edit">
 <!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY addSignatureButton.label       "New">
+<!ENTITY removeSignatureButton.label    "Delete">
+<!ENTITY removeSignatureButton.accesskey "l">
