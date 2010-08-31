@@ -72,22 +72,12 @@
 <!ENTITY maxMessagesEnd.label "mensagens">
 <!ENTITY alwaysAuthenticate.label "Sempre solicitar autenticação ao conectar-se a este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "m">
-<!ENTITY newsrcFilePath.label "Arquivo newsrc:">
-<!ENTITY newsrcFilePath.accesskey "A">
-<!ENTITY localPath.label "Pasta local:">
-<!ENTITY localPath.accesskey "l">
 <!ENTITY abbreviate.label "Exibir nomes de newsgroups na área de pastas como:">
 <!ENTITY abbreviateOn.label "Nome completo (exemplo: netscape.public.mozilla.mail-news)">
 <!ENTITY abbreviateOff.label "Nomes abreviados (exemplo: n.p.m.mail-news)">
 <!ENTITY advancedButton.label "Avançado…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset1.label "Encoding:">
-<!ENTITY localFolderPicker.label "Selecione a localização da pasta local:">
-<!ENTITY browseFolder.label "Procurar…">
-<!ENTITY browseFolder.accesskey "P">
-<!ENTITY newsrcPicker.label "Selecionar o arquivo newsrc">
-<!ENTITY browseNewsrc.label "Procurar…">
-<!ENTITY browseNewsrc.accesskey "r">
 
 <!ENTITY accountName.label "Account Name:">
 <!ENTITY accountName.accesskey "n">
