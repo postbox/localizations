@@ -1,6 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY serverSettings.label "Server Settings">
+<!ENTITY serverSettings.label "Account Settings">
 <!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
 <!ENTITY popServer.label "POP Mail Server">
 <!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
@@ -72,22 +72,12 @@
 <!ENTITY maxMessagesEnd.label "messages">
 <!ENTITY alwaysAuthenticate.label "Always request authentication when connecting to this server">
 <!ENTITY alwaysAuthenticate.accesskey "w">
-<!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Local directory:">
-<!ENTITY localPath.accesskey "L">
 <!ENTITY abbreviate.label "Show newsgroup names in the Mail Folder pane as:">
 <!ENTITY abbreviateOn.label "Full names (For example, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Abbreviate names (For example, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Advanced...">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset1.label "Encoding:">
-<!ENTITY localFolderPicker.label "Select Local Directory">
-<!ENTITY browseFolder.label "Browse...">
-<!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Select newsrc File">
-<!ENTITY browseNewsrc.label "Browse...">
-<!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY accountName.label "Account Name:">
 <!ENTITY accountName.accesskey "N">

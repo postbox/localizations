@@ -62,7 +62,7 @@
 <!ENTITY messageHeader.gatherMessageButton.label    "Show All">
 <!ENTITY messageHeader.tagMessageButton.tooltip     "Assign topic(s) to the message.">
 <!ENTITY messageHeader.reply.label "Reply">
-<!ENTITY messageHeader.reply.tooltip "Reply to the message.">
+<!ENTITY messageHeader.quickreply.tooltip "Quick Reply to the message.">
 <!ENTITY messageHeader.replyAll.label "Reply All">
 <!ENTITY messageHeader.forward.label "Forward">
 

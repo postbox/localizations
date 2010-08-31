@@ -21,8 +21,6 @@
 <!ENTITY resetIndexAllMessages.accesskey "r">
 <!ENTITY resetIndexMessagesInFolder.label "Reset This Folder...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY webServices.label "Web Services...">
-<!ENTITY webServices.accesskey "W">
 
 <!-- View Menu -->
 <!ENTITY pinStarredMessages.label "Pin To-Dos">
@@ -101,10 +99,6 @@
 <!ENTITY searchResultPopup-quickLook.accesskey       "w">
 <!ENTITY searchResultPopup-attachTo.label            "Attach To">
 <!ENTITY searchResultPopup-attachTo.accesskey        "A">
-<!ENTITY searchResultPopup-editResult.label      "Edit...">
-<!ENTITY searchResultPopup-editResult.accesskey  "E">
-<!ENTITY searchResultPopup-deleteResult.label      "Delete">
-<!ENTITY searchResultPopup-deleteResult.accesskey  "D">
 <!ENTITY pbSearchResultPopup-send.label              "Send...">
 <!ENTITY pbSearchResultPopup-send.accesskey          "e">
 <!ENTITY pbSearchResultPopup-save.label              "Save...">
@@ -171,13 +165,13 @@
 
 <!-- advanced search panel -->
 <!ENTITY searchOptionsPanelTitle.label          "Search Options">
-<!ENTITY searchContainsField.label              "Contains">
-<!ENTITY searchFromField.label                  "From">
-<!ENTITY searchToField.label                    "To">
-<!ENTITY searchSubjectField.label               "Subject">
-<!ENTITY searchTopicField.label                 "Topic">
-<!ENTITY searchBeforeField.label                "Before">
-<!ENTITY searchAfterField.label                 "After">
+<!ENTITY searchContainsField.label              "contains">
+<!ENTITY searchFromField.label                  "from">
+<!ENTITY searchToField.label                    "to">
+<!ENTITY searchSubjectField.label               "subject">
+<!ENTITY searchTopicField.label                 "topic">
+<!ENTITY searchBeforeField.label                "before">
+<!ENTITY searchAfterField.label                 "after">
 <!-- The number of characters that can be displayed in the search field textboxes -->
 <!ENTITY searchField.size                       "30">
 <!ENTITY searchBar-options.tooltip              "Show search options">
@@ -323,3 +317,5 @@
 <!-- Help Menu -->
 <!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">
 <!ENTITY pbKeyboardShortCuts.accesskey "K">
+<!ENTITY guideCmd.label "Quickstart Guide">
+<!ENTITY guideCmd.accesskey "r">

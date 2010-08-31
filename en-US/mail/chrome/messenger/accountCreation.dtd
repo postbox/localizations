@@ -33,7 +33,7 @@
      taking into account the settings the user has changed. -->
 <!ENTITY retest.label                    "Re-test Configuration">
 <!ENTITY retest.accesskey                "R">
-<!ENTITY edit.label                      "Edit">
+<!ENTITY edit.label                      "Edit Settings">
 <!ENTITY edit.accesskey                  "E">
 
 <!ENTITY rememberPassword.label          "Remember password">

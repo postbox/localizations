@@ -161,9 +161,6 @@
 <!ENTITY addressBookCmd.label "Address Book">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Account Settings...">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Options...">
 <!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
@@ -197,6 +194,7 @@
 <!ENTITY saveButton.label "Save">
 <!ENTITY tagButton.label "Assign Topic">
 <!ENTITY throbberItem.title "Activity Indicator">
+<!ENTITY signatureButton.label "Signatures">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Send this message now"> 
@@ -209,6 +207,7 @@
 <!ENTITY copyButton.tooltip             "Copy">
 <!ENTITY pasteButton.tooltip            "Paste">
 <!ENTITY tagButton.tooltip "Add topic(s) to message">
+<!ENTITY signatureButton.tooltip "Insert a signature">
 
 <!-- Headers -->
 <!ENTITY fromHeader.label "From">
@@ -284,6 +283,8 @@
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "Attach Web Page...">
 <!ENTITY attachPage.accesskey "W">
+<!ENTITY editSignatures.label "Edit Signatures...">
+<!ENTITY newSignature.label "New Signature...">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contacts">

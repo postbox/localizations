@@ -31,3 +31,14 @@
 <!ENTITY diskspaceGroupTitle.label "Disk Space">
 <!ENTITY ftiGroupTitle.label "Global Search">
 <!ENTITY fti.indexMsgBodies.label "Index message bodies">
+<!ENTITY newsrcFilePath.label "newsrc file:">
+<!ENTITY newsrcFilePath.accesskey "f">
+<!ENTITY localPath.label "Local directory:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY localFolderPicker.label "Select Local Directory">
+<!ENTITY browseFolder.label "Browse...">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY newsrcPicker.label "Select newsrc File">
+<!ENTITY browseNewsrc.label "Browse...">
+<!ENTITY browseNewsrc.accesskey "e">
+
