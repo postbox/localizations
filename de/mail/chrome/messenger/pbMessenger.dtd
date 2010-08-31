@@ -21,8 +21,6 @@
 <!ENTITY resetIndexAllMessages.accesskey "r">
 <!ENTITY resetIndexMessagesInFolder.label "Diesen Ordner zurücksetzen...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY webServices.label "Web Services...">
-<!ENTITY webServices.accesskey "W">
 
 <!-- View Menu -->
 <!ENTITY pinStarredMessages.label "Pin To-Dos">
@@ -101,10 +99,6 @@
 <!ENTITY searchResultPopup-quickLook.accesskey       "V">
 <!ENTITY searchResultPopup-attachTo.label            "Anhängen an">
 <!ENTITY searchResultPopup-attachTo.accesskey        "A">
-<!ENTITY searchResultPopup-editResult.label      "Bearbeiten…">
-<!ENTITY searchResultPopup-editResult.accesskey  "e">
-<!ENTITY searchResultPopup-deleteResult.label      "Löschen">
-<!ENTITY searchResultPopup-deleteResult.accesskey  "L">
 <!ENTITY pbSearchResultPopup-send.label              "Versenden...">
 <!ENTITY pbSearchResultPopup-send.accesskey          "e">
 <!ENTITY pbSearchResultPopup-save.label              "Speichern...">
@@ -323,11 +317,5 @@
 <!-- Help Menu -->
 <!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">
 <!ENTITY pbKeyboardShortCuts.accesskey "K">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY guideCmd.accesskey "r">
 <!ENTITY guideCmd.label "Quickstart Guide">
+<!ENTITY guideCmd.accesskey "r">

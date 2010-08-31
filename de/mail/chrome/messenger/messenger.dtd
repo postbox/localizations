@@ -103,9 +103,6 @@
 <!ENTITY folderPropsFolderCmd.label "Ordner-Eigenschaften…">
 <!ENTITY folderPropsNewsgroupCmd.label "Newsgruppen-Eigenschaften…">
 <!ENTITY folderPropsCmd.accesskey "n">
-<!ENTITY accountManagerCmd.label "Konten-Einstellungen…">
-<!ENTITY accountManagerCmd.accesskey "K">
-<!ENTITY accountManagerCmdUnix.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Rückgängig: Nachricht löschen">
 <!ENTITY redoDeleteMsgCmd.label "Wiederherstellen: Nachricht löschen">
 <!ENTITY undoMoveMsgCmd.label "Rückgängig: Nachricht verschieben">
@@ -428,8 +425,6 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY releaseCmd.label "Versionshinweise">
 <!ENTITY releaseCmd.accesskey "r">
-<!ENTITY guideCmd.label "Quickstart Guide">
-<!ENTITY guideCmd.accesskey "r">
 <!ENTITY hintsAndTips.label "&brandFullName; Hilfe">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "H">

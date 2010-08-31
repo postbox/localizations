@@ -62,7 +62,7 @@
 <!ENTITY messageHeader.gatherMessageButton.label    "Alle einblenden">
 <!ENTITY messageHeader.tagMessageButton.tooltip     "Weise dieser Nachricht Begriffe zu.">
 <!ENTITY messageHeader.reply.label "Reply">
-<!ENTITY messageHeader.reply.tooltip "Reply to the message.">
+<!ENTITY messageHeader.quickreply.tooltip "Quick Reply to the message.">
 <!ENTITY messageHeader.replyAll.label "Reply All">
 <!ENTITY messageHeader.forward.label "Forward">
 
@@ -94,10 +94,3 @@
 <!ENTITY pbMsgHdrView.conversationMsgReply.label "Antworten">
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "Allen antworten">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "Weiterleiten">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY messageHeader.quickreply.tooltip "Quick Reply to the message.">
