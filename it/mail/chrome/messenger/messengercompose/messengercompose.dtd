@@ -161,9 +161,6 @@
 <!ENTITY addressBookCmd.label "Rubrica">
 <!ENTITY addressBookCmd.accesskey "R">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Impostazioni account…">
-<!ENTITY accountManagerCmd.accesskey "n">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Opzioni…">
 <!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
@@ -197,6 +194,7 @@
 <!ENTITY saveButton.label "Salva">
 <!ENTITY tagButton.label "Assegna Discussione">
 <!ENTITY throbberItem.title "Indicatore di attività">
+<!ENTITY signatureButton.label "Signatures">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Invia il messaggio ora"> 
@@ -209,6 +207,7 @@
 <!ENTITY copyButton.tooltip             "Copia">
 <!ENTITY pasteButton.tooltip            "Incolla">
 <!ENTITY tagButton.tooltip "Add topic(s) to message">
+<!ENTITY signatureButton.tooltip "Insert a signature">
 
 <!-- Headers -->
 <!ENTITY fromHeader.label "From">
@@ -284,6 +283,8 @@
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Allega pagina web…">
 <!ENTITY attachPage.accesskey "w">
+<!ENTITY editSignatures.label "Edit Signatures...">
+<!ENTITY newSignature.label "New Signature...">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contatti">
@@ -316,13 +317,3 @@
 <!ENTITY pbComposeSidebar.accesskey "S">
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY signatureButton.tooltip "Insert a signature">
-<!ENTITY newSignature.label "New Signature...">
-<!ENTITY editSignatures.label "Edit Signatures...">
-<!ENTITY signatureButton.label "Signatures">

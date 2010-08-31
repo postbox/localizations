@@ -103,9 +103,6 @@
 <!ENTITY folderPropsFolderCmd.label "Proprietà della cartella…">
 <!ENTITY folderPropsNewsgroupCmd.label "Proprietà del gruppo di discussione…">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "Impostazioni account…">
-<!ENTITY accountManagerCmd.accesskey "u">
-<!ENTITY accountManagerCmdUnix.accesskey "u">
 <!ENTITY undoDeleteMsgCmd.label "Annulla elimina messaggio">
 <!ENTITY redoDeleteMsgCmd.label "Ripeti elimina messaggio">
 <!ENTITY undoMoveMsgCmd.label "Annulla sposta messaggio">
@@ -428,8 +425,6 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY releaseCmd.label "Note di Versione">
 <!ENTITY releaseCmd.accesskey "r">
-<!ENTITY guideCmd.label "Quickstart Guide">
-<!ENTITY guideCmd.accesskey "r">
 <!ENTITY hintsAndTips.label "&brandFullName; Help">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "H">

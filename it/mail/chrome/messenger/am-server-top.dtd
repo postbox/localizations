@@ -72,22 +72,12 @@
 <!ENTITY maxMessagesEnd.label "messaggi">
 <!ENTITY alwaysAuthenticate.label "Chiedi sempre l'autenticazione alla connessione a questo server">
 <!ENTITY alwaysAuthenticate.accesskey "h">
-<!ENTITY newsrcFilePath.label "File newsrc:">
-<!ENTITY newsrcFilePath.accesskey "F">
-<!ENTITY localPath.label "Cartella locale:">
-<!ENTITY localPath.accesskey "l">
 <!ENTITY abbreviate.label "Mostra nome del gruppo di discussione nel pannello della posta così:">
 <!ENTITY abbreviateOn.label "Nomi completi (Per esempio, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nomi abbreviati (Per esempio, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzate…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset1.label "Encoding:">
-<!ENTITY localFolderPicker.label "Scegliere la cartella locale">
-<!ENTITY browseFolder.label "Sfoglia…">
-<!ENTITY browseFolder.accesskey "S">
-<!ENTITY newsrcPicker.label "Seleziona il file newsrc">
-<!ENTITY browseNewsrc.label "Sfoglia…">
-<!ENTITY browseNewsrc.accesskey "o">
 
 <!ENTITY accountName.label "Account Name:">
 <!ENTITY accountName.accesskey "n">
