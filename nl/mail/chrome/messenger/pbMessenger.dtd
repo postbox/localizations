@@ -57,7 +57,7 @@
 <!ENTITY focusPaneEvents.label          "Gebeurtenissen">
 <!ENTITY focusPaneImages.label          "Afbeeldingen">
 <!ENTITY focusPaneMessages.label        "Alles Weergeven">
-<!ENTITY viewButtons.label              "Bekijken">
+<!ENTITY viewButtons.label              "Weergave">
 <!ENTITY tagButton.tooltip "Wijs topic aan berichten toe">
 <!ENTITY newTaskButton.tooltip "Maak een nieuw To-do item">
 <!ENTITY newTaskButton.label "Nieuwe To-Do">
@@ -320,10 +320,6 @@
 <!ENTITY pbConversationHdrContextMenu-open.label "Open">
 <!ENTITY pbConversationHdrContextMenu-open.accesskey "O">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbKeyboardShortCuts.accesskey "K">
+<!-- Help Menu -->
 <!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">
+<!ENTITY pbKeyboardShortCuts.accesskey "K">
