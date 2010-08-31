@@ -50,7 +50,6 @@
 <!-- XXX localization note: should "Quick Look" be translated? -->
 <!ENTITY searchresults.quickLookButton.label       "Quick Look">
 <!ENTITY searchresults.importPhotoButtonMac.label  "iPhoto">
-<!ENTITY searchresults.addResultButton.label       "Add Signature...">
 
 <!ENTITY searchBar-options.tooltip                 "Show search options">
 <!ENTITY location.label                            "Near:">

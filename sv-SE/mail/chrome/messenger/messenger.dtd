@@ -103,9 +103,6 @@
 <!ENTITY folderPropsFolderCmd.label "Mappegenskaper">
 <!ENTITY folderPropsNewsgroupCmd.label "Diskussionsgruppegenskaper">
 <!ENTITY folderPropsCmd.accesskey "E">
-<!ENTITY accountManagerCmd.label "Kontoinställningar…">
-<!ENTITY accountManagerCmd.accesskey "n">
-<!ENTITY accountManagerCmdUnix.accesskey "ä">
 <!ENTITY undoDeleteMsgCmd.label "Ångra borttagning av meddelande">
 <!ENTITY redoDeleteMsgCmd.label "Gör om borttagning av meddelande">
 <!ENTITY undoMoveMsgCmd.label "Ångra flytt av meddelande">
@@ -428,8 +425,6 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY releaseCmd.label "Release Notes">
 <!ENTITY releaseCmd.accesskey "R">
-<!ENTITY guideCmd.label "Quickstart Guide">
-<!ENTITY guideCmd.accesskey "r">
 <!ENTITY hintsAndTips.label "&brandFullName; Help">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "H">
