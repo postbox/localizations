@@ -11,6 +11,7 @@
 <!ENTITY focusPaneSearchAttribute.label        "Eigenschappen">
 <!ENTITY focusPaneSearchAttributeMac.label     "EIGENSCHAPPEN">
 <!ENTITY focusPaneHasAttachmentAttribute.label           "Has Attachment">
+<!ENTITY focusPaneUnreadAttribute.label           "Unread">
 <!ENTITY focusPaneFilterByDate.label    "Datum">
 <!ENTITY focusPaneFilterByDateMac.label "DATUM">
 <!ENTITY focusPaneAnyDate.label         "Elke datum">
@@ -44,10 +45,3 @@
 <!ENTITY pbFavoriteContactsContactsMenu-createfilter.accesskey "C">
 
 <!ENTITY pbFavoriteContacts.DragLabel "Drag your favorite contacts here">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY focusPaneUnreadAttribute.label           "Unread">
