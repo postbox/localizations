@@ -52,13 +52,7 @@
 <!ENTITY pb.conversations.folderonly.accesskey "r">
 <!ENTITY pb.conversations.all.label "De chaque dossier">
 <!ENTITY pb.conversations.all.accesskey "D">
+<!ENTITY pb.conversations.read.label "When displaying a converation, mark its messages as read">
+<!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Inclure la photo de chaque participant dans la conversation">
 <!ENTITY pb.conversations.photos.accesskey "I">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pb.conversations.read.accesskey "c">
-<!ENTITY pb.conversations.read.label "When displaying a converation, mark its messages as read">
