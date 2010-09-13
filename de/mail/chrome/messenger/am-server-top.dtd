@@ -66,12 +66,12 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Abfrage vor Download von mehr als">
-<!ENTITY maxMessagesStart.accesskey "m">
+<!ENTITY maxMessagesStart1.label "Ask when downloading more than">
+<!ENTITY maxMessagesStart1.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "Nachrichten">
-<!ENTITY alwaysAuthenticate.label "Beim Verbinden mit diesem Server immer Authentifizierung verlangen">
-<!ENTITY alwaysAuthenticate.accesskey "i">
+<!ENTITY alwaysAuthenticate1.label "Always request authentication">
+<!ENTITY alwaysAuthenticate1.accesskey "w">
 <!ENTITY abbreviate.label "Newsgruppen in der Ordner-Liste anzeigen mit:">
 <!ENTITY abbreviateOn.label "Vollen Namen (zum Beispiel &quot;netscape.public.mozilla.mail-news&quot;)">
 <!ENTITY abbreviateOff.label "Abgekürzten Namen (zum Beispiel &quot;n.p.m.mail-news&quot;)">
@@ -81,13 +81,3 @@
 
 <!ENTITY accountName.label "Account Name:">
 <!ENTITY accountName.accesskey "n">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY maxMessagesStart1.accesskey "m">
-<!ENTITY maxMessagesStart1.label "Ask when downloading more than">
-<!ENTITY alwaysAuthenticate1.label "Always request authentication">
-<!ENTITY alwaysAuthenticate1.accesskey "w">
