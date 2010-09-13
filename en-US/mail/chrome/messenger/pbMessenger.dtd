@@ -5,6 +5,10 @@
 <!ENTITY pbLocalesMenu_getMore.accesskey "G">
 <!ENTITY newAccountGroupCmd.label "Account Group...">
 <!ENTITY newAccountGroupCmd.accesskey "G">
+<!ENTITY closeTab.label "Close Tab">
+<!ENTITY closeTab.accesskey "C">
+<!ENTITY closeWindow.label "Close Window">
+<!ENTITY closeWindow.accesskey "e">
 
 <!-- Messages Menu -->
 <!ENTITY quickReplyMsgCmd.label "Quick Reply">
@@ -36,6 +40,9 @@
 <!ENTITY viewMenuShowImages.label        "Images">
 <!ENTITY viewMenuShowImages.accesskey    "m">
 <!ENTITY key_showImages.key              "i">
+<!ENTITY viewMenuShowTodos.label "To-Dos">
+<!ENTITY viewMenuShowTodos.accesskey "d">
+<!ENTITY key_showTodos.key           "o">
 <!ENTITY showFolderPaneCmd.label "Folder Pane">
 <!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showFocusPaneCmd.label "Focus Pane">
@@ -46,6 +53,14 @@
 <!ENTITY pbMessagePaneMac.key "E">
 <!ENTITY showInspectorPaneCmd.label "Inspector Pane">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
+<!ENTITY pbViewConverationsMenu.label "Conversations">
+<!ENTITY pbViewConverationsMenu.accesskey "v">
+<!ENTITY pbExpandConversationMsgs.label "Expand Conversation">
+<!ENTITY pbExpandConversationMsgs.accesskey "x">
+<!ENTITY pbExpandConversationMsgs.key "o">
+<!ENTITY pbCollapseConversationMsgs.label "Collapse Conversation">
+<!ENTITY pbCollapseConversationMsgs.accesskey "n">
+<!ENTITY pbCollapseConversationMsgs.key "o">
 
 <!-- Mail Toolbar -->
 <!ENTITY tagButton.label "Assign Topic">
@@ -56,6 +71,7 @@
 <!ENTITY focusPaneImages.label          "Images">
 <!ENTITY focusPaneMessages.label        "Messages">
 <!ENTITY viewButtons.label              "View">
+<!ENTITY focusPaneTodos.label           "To-Dos">
 <!ENTITY tagButton.tooltip "Add topic to messages">
 <!ENTITY newTaskButton.tooltip "Create a new To-Do item">
 <!ENTITY newTaskButton.label "New To-Do">

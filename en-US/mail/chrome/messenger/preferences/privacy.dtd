@@ -38,4 +38,4 @@
 <!ENTITY pbPrivacy.label "Privacy:">
 <!ENTITY pbJunkMail.label "Junk:">
 <!ENTITY pbPasswords.label "Passwords:">
-<!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in Account Settings.">
+<!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in the settings for the account.">

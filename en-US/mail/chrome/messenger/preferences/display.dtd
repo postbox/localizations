@@ -52,5 +52,7 @@
 <!ENTITY pb.conversations.folderonly.accesskey "r">
 <!ENTITY pb.conversations.all.label "From every folder">
 <!ENTITY pb.conversations.all.accesskey "m">
+<!ENTITY pb.conversations.read.label "When displaying a converation, mark its messages as read">
+<!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Include contact photos for each participant in the conversation">
 <!ENTITY pb.conversations.photos.accesskey "I">

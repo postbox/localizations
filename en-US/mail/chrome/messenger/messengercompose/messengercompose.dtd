@@ -212,7 +212,7 @@
 <!-- Headers -->
 <!ENTITY fromHeader.label "From">
 <!ENTITY fromHeader.accesskey "r">
-<!ENTITY subjectHeader.label "Subject:">
+<!ENTITY subjectHeader.label "Subject">
 <!ENTITY subjectHeader.accesskey "S">
 <!ENTITY toAddr.label "To"> 
 <!ENTITY ccAddr.label "Cc"> 
@@ -222,12 +222,12 @@
 <!ENTITY followupAddr.label "Followup-To"> 
 <!ENTITY attachmentsHeader.label "Attachments">
 <!ENTITY attachmentsHeader.accesskey "e">
-<!ENTITY tagHeader.label "Topics:">
+<!ENTITY tagHeader.label "Topics">
 <!ENTITY tagHeader.accesskey "o">
 <!ENTITY tagMessageButton.tooltip     "Assign topic(s) to the message.">
 <!ENTITY compose.todo.label "To-Do">
 <!ENTITY compose.todo.tooltip "Make this message a To-Do">
-<!ENTITY compose.addresses.label "Addresses:">
+<!ENTITY compose.addresses.label "Addresses">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->

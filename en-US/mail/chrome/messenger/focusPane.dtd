@@ -11,6 +11,7 @@
 <!ENTITY focusPaneSearchAttribute.label        "Attributes">
 <!ENTITY focusPaneSearchAttributeMac.label     "ATTRIBUTES">
 <!ENTITY focusPaneHasAttachmentAttribute.label           "Has Attachment">
+<!ENTITY focusPaneUnreadAttribute.label           "Unread">
 <!ENTITY focusPaneFilterByDate.label    "Date">
 <!ENTITY focusPaneFilterByDateMac.label "DATE">
 <!ENTITY focusPaneAnyDate.label         "Any Date">
