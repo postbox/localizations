@@ -10,6 +10,7 @@
 <!ENTITY searchResultsNoMatchesFound.desc          "No items matched your search.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Try searching in All Folders.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Try setting your Focus to All.">
+<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
 <!ENTITY showSearchOptions.label                   "Show search options">
 
 <!-- attachments -->

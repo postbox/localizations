@@ -272,6 +272,7 @@
 <!ENTITY threadPaneNoMatchesFound.desc "No messages matched your search.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Try looking in All Folders.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Try setting your Focus to All.">
+<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
 <!ENTITY threadPaneAddTextToSearch.desc "Start typing in the search bar to begin your search.">
 
 <!ENTITY pbSignatureEditor.title "New Signature">
