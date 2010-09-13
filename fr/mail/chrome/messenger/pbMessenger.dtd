@@ -335,3 +335,9 @@
 <!ENTITY pbKeyboardShortCuts.accesskey "K">
 <!ENTITY guideCmd.label "Quickstart Guide">
 <!ENTITY guideCmd.accesskey "r">
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
