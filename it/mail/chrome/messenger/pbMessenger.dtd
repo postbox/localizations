@@ -5,6 +5,10 @@
 <!ENTITY pbLocalesMenu_getMore.accesskey "G">
 <!ENTITY newAccountGroupCmd.label "Account Group...">
 <!ENTITY newAccountGroupCmd.accesskey "G">
+<!ENTITY closeTab.label "Close Tab">
+<!ENTITY closeTab.accesskey "C">
+<!ENTITY closeWindow.label "Close Window">
+<!ENTITY closeWindow.accesskey "e">
 
 <!-- Messages Menu -->
 <!ENTITY quickReplyMsgCmd.label "Quick Reply">
@@ -36,6 +40,9 @@
 <!ENTITY viewMenuShowImages.label        "Images">
 <!ENTITY viewMenuShowImages.accesskey    "m">
 <!ENTITY key_showImages.key              "i">
+<!ENTITY viewMenuShowTodos.label "To-Dos">
+<!ENTITY viewMenuShowTodos.accesskey "D">
+<!ENTITY key_showTodos.key           "o">
 <!ENTITY showFolderPaneCmd.label "Folder Pane">
 <!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showFocusPaneCmd.label "Focus Pane">
@@ -46,6 +53,14 @@
 <!ENTITY pbMessagePaneMac.key "E">
 <!ENTITY showInspectorPaneCmd.label "Inspector Pane">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
+<!ENTITY pbViewConverationsMenu.label "Conversations">
+<!ENTITY pbViewConverationsMenu.accesskey "v">
+<!ENTITY pbExpandConversationMsgs.label "Expand Conversation">
+<!ENTITY pbExpandConversationMsgs.accesskey "x">
+<!ENTITY pbExpandConversationMsgs.key "o">
+<!ENTITY pbCollapseConversationMsgs.label "Collapse Conversation">
+<!ENTITY pbCollapseConversationMsgs.accesskey "n">
+<!ENTITY pbCollapseConversationMsgs.key "o">
 
 <!-- Mail Toolbar -->
 <!ENTITY tagButton.label "Assegna Discussione">
@@ -56,6 +71,7 @@
 <!ENTITY focusPaneImages.label          "Immagini">
 <!ENTITY focusPaneMessages.label        "Visualizza Tutto">
 <!ENTITY viewButtons.label              "View">
+<!ENTITY focusPaneTodos.label           "To-Dos">
 <!ENTITY tagButton.tooltip "Aggiungi un argomento ai messaggi">
 <!ENTITY newTaskButton.tooltip "Crea una nuova attività">
 <!ENTITY newTaskButton.label "Nuova Attività">
@@ -319,24 +335,3 @@
 <!ENTITY pbKeyboardShortCuts.accesskey "K">
 <!ENTITY guideCmd.label "Quickstart Guide">
 <!ENTITY guideCmd.accesskey "r">
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbViewConverationsMenu.accesskey "v">
-<!ENTITY closeWindow.label "Close Window">
-<!ENTITY closeWindow.accesskey "e">
-<!ENTITY pbCollapseConversationMsgs.accesskey "n">
-<!ENTITY pbExpandConversationMsgs.key "o">
-<!ENTITY key_showTodos.key           "o">
-<!ENTITY viewMenuShowTodos.label "To-Dos">
-<!ENTITY pbViewConverationsMenu.label "Conversations">
-<!ENTITY pbCollapseConversationMsgs.label "Collapse Conversation">
-<!ENTITY focusPaneTodos.label           "To-Dos">
-<!ENTITY closeTab.label "Close Tab">
-<!ENTITY viewMenuShowTodos.accesskey "d">
-<!ENTITY pbExpandConversationMsgs.label "Expand Conversation">
-<!ENTITY pbCollapseConversationMsgs.key "o">
-<!ENTITY pbExpandConversationMsgs.accesskey "x">
-<!ENTITY closeTab.accesskey "C">
