@@ -58,6 +58,8 @@
 <!ENTITY pbParticipantsField.label "Participants:">
 <!ENTITY saveAll.label "Сохранить всё..">
 
+<!ENTITY messageHeader.expand.label                 "Expand">
+<!ENTITY messageHeader.collapse.label               "Collapse">
 <!ENTITY messageHeader.editMessageButton.label      "Редактировать">
 <!ENTITY messageHeader.gatherMessageButton.label    "Показать все">
 <!ENTITY messageHeader.tagMessageButton.tooltip     "Добавить метку(s) к этому сообщению.">
@@ -94,11 +96,3 @@
 <!ENTITY pbMsgHdrView.conversationMsgReply.label "ответить">
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "ответить всем">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "вперёд">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY messageHeader.expand.label                 "Expand">
-<!ENTITY messageHeader.collapse.label               "Collapse">
