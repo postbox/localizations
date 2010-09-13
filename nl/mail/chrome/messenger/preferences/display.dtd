@@ -54,3 +54,11 @@
 <!ENTITY pb.conversations.all.accesskey "m">
 <!ENTITY pb.conversations.photos.label "Voeg contact foto's toe van iedere deelnemer in de conversatie">
 <!ENTITY pb.conversations.photos.accesskey "i">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pb.conversations.read.accesskey "c">
+<!ENTITY pb.conversations.read.label "When displaying a converation, mark its messages as read">

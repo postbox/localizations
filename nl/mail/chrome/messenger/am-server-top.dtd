@@ -81,3 +81,13 @@
 
 <!ENTITY accountName.label "Account Name:">
 <!ENTITY accountName.accesskey "n">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY maxMessagesStart1.accesskey "m">
+<!ENTITY maxMessagesStart1.label "Ask when downloading more than">
+<!ENTITY alwaysAuthenticate1.label "Always request authentication">
+<!ENTITY alwaysAuthenticate1.accesskey "w">

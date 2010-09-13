@@ -94,3 +94,11 @@
 <!ENTITY pbMsgHdrView.conversationMsgReply.label "Antworten">
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "Allen antworten">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "Weiterleiten">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY messageHeader.expand.label                 "Expand">
+<!ENTITY messageHeader.collapse.label               "Collapse">
