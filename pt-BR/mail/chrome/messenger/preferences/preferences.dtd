@@ -1,8 +1,8 @@
 
 <!ENTITY  prefWindow.titleWin     "Opções">
 <!ENTITY  prefWindow.titleGNOME   "Preferências do &brandShortName;">
-<!ENTITY  prefWindow.styleWindows "width:52em; min-height:38.5em;">
-<!ENTITY  prefWindow.styleMac     "width:48em;">
+<!ENTITY  prefWindow.styleWindows "width:48em; min-height:38.5em;">
+<!ENTITY  prefWindow.styleMac     "width:47em;">
 <!ENTITY  prefWindow.styleUnix    "width: 42em;">
 
 <!ENTITY paneGeneral.title        "Geral">
