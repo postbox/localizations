@@ -36,8 +36,8 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pbToField.label "To:">
-<!ENTITY pbFromField.label "From:">
-<!ENTITY pbSenderField.label "Sender:">
+<!ENTITY pbFromField.label "Von:">
+<!ENTITY pbSenderField.label "Absender:">
 <!ENTITY pbOrganizationField.label "Organization:">
 <!ENTITY pbReplyToField.label "Reply-To:">
 
@@ -49,13 +49,13 @@
 <!ENTITY pbFollowupToField.label "Followup-To:">
 <!ENTITY pbLinkField.label "Link:">
 <!ENTITY pbTagsHdr.label "Topics:">
-<!ENTITY pbDateField.label "Date:">
+<!ENTITY pbDateField.label "Datum:">
 <!ENTITY pbUserAgentField.label "User-Agent:">
 <!ENTITY pbReferencesField.label "References:">
 <!ENTITY pbMessageIdField.label "Message-ID:">
 <!ENTITY pbInReplyToField.label "In-Reply-To:">
 <!ENTITY pbOriginalWebsite.label "Website:">
-<!ENTITY pbParticipantsField.label "Participants:">
+<!ENTITY pbParticipantsField.label "Teilnehmer:">
 <!ENTITY saveAll.label "Alle speichern..">
 
 <!ENTITY messageHeader.editMessageButton.label      "Bearbeiten">

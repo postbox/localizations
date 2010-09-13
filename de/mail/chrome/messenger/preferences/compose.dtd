@@ -2,7 +2,7 @@
 <!ENTITY itemAutoComplete.label              "Adressieren">
 <!ENTITY itemSpellCheck.label                "Rechtschreibung">
 <!ENTITY itemSendFormat.label                "Sendeformat">
-<!ENTITY itemSignatures.label                "Signatures">
+<!ENTITY itemSignatures.label                "Signaturen">
 
 <!ENTITY forwardReply.label                   "Mitteilungen weiterleiten">
 <!ENTITY forwardMsg.label                     "Nachrichten weiterleiten:">
@@ -51,10 +51,10 @@
 <!ENTITY sendOptions.label                     "Sende-Optionen…">
 <!ENTITY sendOptions.accesskey                 "O">
 
-<!ENTITY attachmentReminder.label              "Check for missing attachments">
-<!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Keywords…">
-<!ENTITY attachmentReminderOptions.accesskey   "K">
+<!ENTITY attachmentReminder.label              "Auf fehlende Anhänge prüfen">
+<!ENTITY attachmentReminder.accesskey          "A">
+<!ENTITY attachmentReminderOptions.label       "Schlüsselwörter…">
+<!ENTITY attachmentReminderOptions.accesskey   "S">
 
 <!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
 <!ENTITY replyInDefaultCharset2.accesskey "h">

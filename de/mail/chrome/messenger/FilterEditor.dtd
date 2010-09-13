@@ -2,17 +2,17 @@
 <!ENTITY subject.label "Betreff">
 <!ENTITY sender.label "Absender">
 <!ENTITY date.label "Datum">
-<!ENTITY anyText.label "any text">
+<!ENTITY anyText.label "irgendein Text">
 <!ENTITY keyword.label "Schlüsselwort">
-<!ENTITY age.label "age in days">
-<!ENTITY to.label "to">
+<!ENTITY age.label "Alter in Tagen">
+<!ENTITY to.label "An">
 
 <!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
 <!ENTITY cc.label "CC">
 
 <!ENTITY status.label "Status">
 <!ENTITY priority.label "Priorität">
-<!ENTITY body.label "body">
+<!ENTITY body.label "Inhalt">
 <!ENTITY contains.label "enthält">
 <!ENTITY nocontains.label "enthält nicht">
 <!ENTITY filterName.label "Filter-Name:">

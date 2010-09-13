@@ -32,7 +32,7 @@
 <!ENTITY pbNoSignature.label "Keine">
 <!ENTITY pbEditSignature1.label "Edit...">
 <!ENTITY pbEditSignature1.accesskey "i">
-<!ENTITY pbChooseSignature1.label "Signature:">
+<!ENTITY pbChooseSignature1.label "Signatur:">
 <!ENTITY pbChooseSignature1.accesskey "g">
 
-<!ENTITY pbIdentityTitle.label "Identity">
+<!ENTITY pbIdentityTitle.label "Identität">

@@ -29,9 +29,9 @@
 <!ENTITY removeTagButton.accesskey "L">
 
 <!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Fonts">
-<!ENTITY defaultFont.label       "Default font:">
-<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY fontsAndColors.label    "Schriftarten">
+<!ENTITY defaultFont.label       "Standard Font:">
+<!ENTITY defaultFont.accesskey   "d">
 <!ENTITY defaultSize.label       "Size:">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "E">

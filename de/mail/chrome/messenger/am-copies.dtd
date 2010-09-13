@@ -25,20 +25,20 @@
 <!ENTITY draftInOtherFolder.label "Anderer Ordner:">
 <!ENTITY draftInOtherFolder.accesskey "n">
 <!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn1.label "Archive:">
+<!ENTITY archivesFolderOn1.label "Archiv:">
 <!ENTITY archivesFolderOn1.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Anderer Ordner:">
 <!ENTITY archiveInOtherFolder.accesskey "d">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn1.label "Templates:">
-<!ENTITY templatesFolderOn1.accesskey "m">
+<!ENTITY templatesFolderOn1.label "Vorlagen:">
+<!ENTITY templatesFolderOn1.accesskey "V">
 <!ENTITY templateInOtherFolder.label "Anderer Ordner:">
 <!ENTITY templateInOtherFolder.accesskey "r">
 <!ENTITY keepDrafts.label "Entwürfe speichern unter:">
 <!ENTITY keepArchives.label "Archiv speichern unter:">
 <!ENTITY keepTempltes.label "Vorlagen speichern unter:">
 
-<!ENTITY pbSentSettings.label "Sent">
-<!ENTITY pbDraftsSettings.label "Drafts">
+<!ENTITY pbSentSettings.label "Gesendet">
+<!ENTITY pbDraftsSettings.label "Entwürfe">
 <!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
+<!ENTITY pbTemplatesSettings.label "Vorlagen">

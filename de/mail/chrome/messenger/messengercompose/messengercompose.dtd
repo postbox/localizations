@@ -194,7 +194,7 @@
 <!ENTITY saveButton.label "Speichern">
 <!ENTITY tagButton.label "Thema zuweisen">
 <!ENTITY throbberItem.title "Aktivitätsindikator">
-<!ENTITY signatureButton.label "Signatures">
+<!ENTITY signatureButton.label "Signaturen">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Diese Nachricht jetzt senden"> 
@@ -225,7 +225,7 @@
 <!ENTITY tagHeader.label "Schlagwörter">
 <!ENTITY tagHeader.accesskey "S">
 <!ENTITY tagMessageButton.tooltip     "Weise dieser Nachricht Begriffe zu.">
-<!ENTITY compose.todo.label "To-Do">
+<!ENTITY compose.todo.label "Aufgabe">
 <!ENTITY compose.todo.tooltip "Nachricht als ToDo markieren">
 <!ENTITY compose.addresses.label "Adresse">
 
@@ -253,11 +253,11 @@
 <!ENTITY smiley16Cmd.label "Lippen verschlossen">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellAddToDictionary.label                  "Add to Dictionary">
-<!ENTITY spellAddToDictionary.accesskey              "o">
+<!ENTITY spellAddToDictionary.label                  "Zu Wörterbuch hinzufügen">
+<!ENTITY spellAddToDictionary.accesskey              "Z">
 <!ENTITY spellNoSuggestions.label                    "(Keine Korrekturvorschläge)">
-<!ENTITY spellCheckEnable.label                      "Check Spelling">
-<!ENTITY spellCheckEnable.accesskey                  "S">
+<!ENTITY spellCheckEnable.label                      "Rechtschreibung prüfen">
+<!ENTITY spellCheckEnable.accesskey                  "s">
 <!ENTITY spellDictionaries.label                     "Sprachen">
 <!ENTITY spellDictionaries.accesskey                 "S">
 <!ENTITY spellCheckIgnoreWord.label "Ignoriere dieses Wort">
@@ -313,7 +313,7 @@
 
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML-Optionen">
 
-<!ENTITY pbComposeSidebar.label "Sidebar">
+<!ENTITY pbComposeSidebar.label "Seitenleiste">
 <!ENTITY pbComposeSidebar.accesskey "S">
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">

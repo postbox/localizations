@@ -690,5 +690,5 @@
 
 <!-- Lightning Specific String -->
 <!ENTITY pbLightningQuickView.label "Schnellansicht">
-<!ENTITY lightning.calendar.label "Calendar">
-<!ENTITY lightning.tasks.label "Tasks">
+<!ENTITY lightning.calendar.label "Kalender">
+<!ENTITY lightning.tasks.label "Aufgaben">

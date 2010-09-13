@@ -2,7 +2,7 @@
 <!ENTITY migrationWizard.title          "Import-Assistent">
 
 <!ENTITY importFrom.label               "Import Options, Account Settings, Address Book and other data from:">
-<!ENTITY importFromUnix.label           "Import Preferences, Account Settings, Address Book and other data from:">
+<!ENTITY importFromUnix.label           "Einstellungen, Konto Einstellungen, Adressbuch und andere Daten importieren von:">
 
 <!ENTITY importFromThunderbird.label    "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">

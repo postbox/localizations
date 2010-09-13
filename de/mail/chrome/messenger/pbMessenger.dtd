@@ -3,8 +3,8 @@
 <!ENTITY pbLocalesMenu.accesskey "S">
 <!ENTITY pbLocalesMenu_getMore.label "Weitere...">
 <!ENTITY pbLocalesMenu_getMore.accesskey "W">
-<!ENTITY newAccountGroupCmd.label "Account Group...">
-<!ENTITY newAccountGroupCmd.accesskey "G">
+<!ENTITY newAccountGroupCmd.label "Kontengruppe...">
+<!ENTITY newAccountGroupCmd.accesskey "g">
 
 <!-- Messages Menu -->
 <!ENTITY quickReplyMsgCmd.label "Quick Reply">
@@ -229,7 +229,7 @@
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New To-Do with Selection as Title">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
-<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Send to Inbox">
+<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: An Posteingang senden">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
 
 <!-- topic context menu -->
@@ -243,14 +243,14 @@
 <!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
 
 <!-- account tree context menu -->
-<!ENTITY pbAccountTreeContextMenu-newGroup.label "New Account Group...">
-<!ENTITY pbAccountTreeContextMenu-newGroup.accesskey "G">
+<!ENTITY pbAccountTreeContextMenu-newGroup.label "Neue Kontengruppe...">
+<!ENTITY pbAccountTreeContextMenu-newGroup.accesskey "g">
 <!ENTITY pbAccountTreeContextMenu-settings.label "Einstellungen...">
 <!ENTITY pbAccountTreeContextMenu-settings.accesskey "i">
 
 <!-- folder pane -->
-<!ENTITY accountTreeMac.label    "ACCOUNTS">
-<!ENTITY folderTreeMac.label     "FOLDERS">
+<!ENTITY accountTreeMac.label    "KONTEN">
+<!ENTITY folderTreeMac.label     "VERZEICHNISSE">
 
 <!-- thread pane -->
 <!ENTITY threadPaneNoMatchesFound.desc "Keine der Suche entsprechenden Nachrichten gefunden.">
@@ -285,7 +285,7 @@
 <!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
 
 <!-- status bar -->
-<!ENTITY pbStatusBarOption-newAccount.label "New Account...">
+<!ENTITY pbStatusBarOption-newAccount.label "Neues Konto...">
 <!ENTITY pbStatusBarOption-newAccount.accesskey "N">
 <!ENTITY pbStatusBarOption-newGroup.label "New Account Group...">
 <!ENTITY pbStatusBarOption-newGroup.accesskey "G">
@@ -309,10 +309,10 @@
 <!ENTITY pbConversationHdrContextMenu-reply.accesskey "R">
 <!ENTITY pbConversationHdrContextMenu-replyall.label "Reply All">
 <!ENTITY pbConversationHdrContextMenu-replyall.accesskey "A">
-<!ENTITY pbConversationHdrContextMenu-forward.label "Forward">
-<!ENTITY pbConversationHdrContextMenu-forward.accesskey "F">
-<!ENTITY pbConversationHdrContextMenu-open.label "Open">
-<!ENTITY pbConversationHdrContextMenu-open.accesskey "O">
+<!ENTITY pbConversationHdrContextMenu-forward.label "Weiterleiten">
+<!ENTITY pbConversationHdrContextMenu-forward.accesskey "W">
+<!ENTITY pbConversationHdrContextMenu-open.label "Öffnen">
+<!ENTITY pbConversationHdrContextMenu-open.accesskey "f">
 
 <!-- Help Menu -->
 <!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">
