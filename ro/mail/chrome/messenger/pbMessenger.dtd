@@ -364,3 +364,10 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbToggleFolderPaneMac.key "M">
