@@ -48,7 +48,8 @@
 <!ENTITY showFocusPaneCmd.label "Focus Pane">
 <!ENTITY showFocusPaneCmd.accesskey "o">
 <!ENTITY pbToggleFocusPane.key "P">
-<!ENTITY pbToggleFolderPane.key "M">
+<!ENTITY pbToggleFolderPaneMac.key "M">
+<!ENTITY pbToggleFolderPane.key "L">
 <!ENTITY pbToggleInspectorPane.key "I">
 <!ENTITY pbMessagePaneMac.key "E">
 <!ENTITY showInspectorPaneCmd.label "Inspector Pane">
