@@ -27,11 +27,11 @@
 <!ENTITY biffEnd.label "minuten">
 <!ENTITY connectionSecurity.label "Connection security:">
 <!ENTITY connectionSecurity.accesskey "u">
-<!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-0.label "Geen">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, als beschikbaar">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.label "Authenticatie:">
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Berichten op de server laten">
 <!ENTITY leaveOnServer.accesskey "r">
@@ -66,18 +66,18 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart1.label "Ask when downloading more than">
+<!ENTITY maxMessagesStart1.label "Vragen wanneer meer wordt gedownload dan">
 <!ENTITY maxMessagesStart1.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "berichten">
-<!ENTITY alwaysAuthenticate1.label "Always request authentication">
-<!ENTITY alwaysAuthenticate1.accesskey "w">
+<!ENTITY alwaysAuthenticate1.label "Altijd authenticatie verzoeken">
+<!ENTITY alwaysAuthenticate1.accesskey "A">
 <!ENTITY abbreviate.label "Nieuwsgroepnamen in het berichtenmapvenster tonen als:">
 <!ENTITY abbreviateOn.label "Volledige namen (bijvoorbeeld ‘netscape.public.mozilla.mail-news’)">
 <!ENTITY abbreviateOff.label "Afgekorte namen (bijvoorbeeld ‘n.p.m.mail-news’)">
 <!ENTITY advancedButton.label "Geavanceerd…">
 <!ENTITY advancedButton.accesskey "G">
-<!ENTITY serverDefaultCharset1.label "Encoding:">
+<!ENTITY serverDefaultCharset1.label "Codering:">
 
-<!ENTITY accountName.label "Account Name:">
+<!ENTITY accountName.label "Accountnaam:">
 <!ENTITY accountName.accesskey "n">

@@ -30,7 +30,7 @@
 <!ENTITY place.accesskey                      "o">
 <!ENTITY belowText.label                      "onder de geciteerde tekst (aanbevolen)">
 <!ENTITY aboveText.label                      "onder mijn antwoord (boven de geciteerde tekst)">
-<!ENTITY includeSigOnReply.label              "Include signature for replies">
+<!ENTITY includeSigOnReply.label              "Handtekening bijvoegen in beantwoordde mails">
 <!ENTITY includeSigOnReply.accesskey          "s">
-<!ENTITY includeSigOnForward.label            "Include signature for forwards">
-<!ENTITY includeSigOnForward.accesskey        "w">
+<!ENTITY includeSigOnForward.label            "Handtekening bijvoegen in doorgestuurde mails">
+<!ENTITY includeSigOnForward.accesskey        "H">

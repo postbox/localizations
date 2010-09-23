@@ -16,8 +16,8 @@
 <!ENTITY edit.label "Bewerken…">
 <!ENTITY choose.label "Kiezen…">
 <!ENTITY choose.accesskey "K">
-<!ENTITY editVCard1.label "Edit...">
-<!ENTITY editVCard1.accesskey "d">
+<!ENTITY editVCard1.label "Bewerken…">
+<!ENTITY editVCard1.accesskey "B">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "vCard aan berichten koppelen">
 <!ENTITY attachVCard.accesskey "v">
@@ -25,14 +25,14 @@
 <!ENTITY manageIdentities.label "Identiteiten beheren…">
 <!ENTITY manageIdentities.accesskey "h">
 
-<!ENTITY smtpName1.label "Outgoing Server:">
-<!ENTITY smtpName1.accesskey "u">
+<!ENTITY smtpName1.label "Uitgaande server:">
+<!ENTITY smtpName1.accesskey "U">
 <!ENTITY smtpDefaultServer.label "Standaardserver gebruiken">
 
 <!ENTITY pbNoSignature.label "Geen">
-<!ENTITY pbEditSignature1.label "Edit...">
-<!ENTITY pbEditSignature1.accesskey "i">
-<!ENTITY pbChooseSignature1.label "Signature:">
+<!ENTITY pbEditSignature1.label "Bewerken…">
+<!ENTITY pbEditSignature1.accesskey "B">
+<!ENTITY pbChooseSignature1.label "Handtekening:">
 <!ENTITY pbChooseSignature1.accesskey "g">
 
-<!ENTITY pbIdentityTitle.label "Identity">
+<!ENTITY pbIdentityTitle.label "Identiteit">

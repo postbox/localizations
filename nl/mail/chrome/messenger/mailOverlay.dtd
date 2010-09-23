@@ -2,6 +2,6 @@
 <!ENTITY  newMessageCmd.label             "Bericht">
 <!ENTITY  newMessageCmd.accesskey         "B">
  
-<!ENTITY  newCardCmd.label                "Address Book Card...">
-<!ENTITY  newCardCmd.accesskey            "C">
+<!ENTITY  newCardCmd.label                "Kaart in Adresboek...">
+<!ENTITY  newCardCmd.accesskey            "K">
  

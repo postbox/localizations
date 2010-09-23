@@ -29,11 +29,11 @@
 <!ENTITY removeTagButton.accesskey "V">
 
 <!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Fonts">
-<!ENTITY defaultFont.label       "Default font:">
-<!ENTITY defaultFont.accesskey   "D">
-<!ENTITY defaultSize.label       "Size:">
-<!ENTITY defaultSize.accesskey   "S">
+<!ENTITY fontsAndColors.label    "Lettertypes">
+<!ENTITY defaultFont.label       "Standaardlettertype:">
+<!ENTITY defaultFont.accesskey   "d">
+<!ENTITY defaultSize.label       "Grootte:">
+<!ENTITY defaultSize.accesskey   "G">
 <!ENTITY fontOptions.accesskey   "c">
 <!ENTITY fontOptions.label       "Geavanceerd…">
 
@@ -52,7 +52,7 @@
 <!ENTITY pb.conversations.folderonly.accesskey "A">
 <!ENTITY pb.conversations.all.label "Van elke map">
 <!ENTITY pb.conversations.all.accesskey "m">
-<!ENTITY pb.conversations.read.label "When displaying a converation, mark its messages as read">
+<!ENTITY pb.conversations.read.label "Als een conversatie wordt weergegeven, diens berichten als gelezen markeren">
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Voeg contact foto's toe van iedere deelnemer in de conversatie">
 <!ENTITY pb.conversations.photos.accesskey "i">

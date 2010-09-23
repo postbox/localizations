@@ -55,7 +55,7 @@
 <!ENTITY contactPanel-twitter.label      "twitter:">
 
 <!ENTITY contactPanel-favorite.label     "favorite:">
-<!ENTITY contactPanel-favorite-checkbox.label "make this contact a favorite">
+<!ENTITY contactPanel-favorite-checkbox.label "maak van dit contact een favoriet">
 <!ENTITY contactPanel-actions.label "acties:">
 <!ENTITY contactPanel-find.label    "Vind recentelijk:">
 <!ENTITY contactPanel-findMessages.label "berichten">

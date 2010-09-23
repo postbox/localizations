@@ -36,5 +36,5 @@
 <!ENTITY browse.accesskey                 "B">
 
 <!-- message list font size -->
-<!ENTITY pb.messagelist.fontsize.label "Use a large font for the message list pane">
+<!ENTITY pb.messagelist.fontsize.label "Gebruik een groot lettertype voor het berichtenlijst-venster">
 <!ENTITY pb.messagelist.fontsize.accesskey "p">

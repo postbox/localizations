@@ -8,13 +8,13 @@
 <!ENTITY serverPort.accesskey "P">
 <!ENTITY userName.label "Gebruikersnaam:">
 <!ENTITY userName.accesskey "e">
-<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.label "Beveiliging van verbinding:">
 <!ENTITY connectionSecurity.accesskey "n">
-<!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-0.label "Geen">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, als beschikbaar">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP-server">
 <!ENTITY serverPortDefault.label "Standaard:">
-<!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.label "Authenticatie:">
 <!ENTITY authMethod.accesskey "i">

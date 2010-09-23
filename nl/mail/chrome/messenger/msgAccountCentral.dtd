@@ -16,5 +16,5 @@
 <!ENTITY junkSettings.label           "Ongewensteberichtenfilters instellen">
 <!ENTITY offlineLink.label            "Offline-instellingen">
 
-<!ENTITY rssSectionHdr.label          "RSS News &amp; Blogs"> 
-<!ENTITY subscibeRSS.label            "Manage subscriptions">
+<!ENTITY rssSectionHdr.label          "RSS Nieuws &amp; Blogs"> 
+<!ENTITY subscibeRSS.label            "Abonnementen beheren">

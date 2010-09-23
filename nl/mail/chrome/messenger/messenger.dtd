@@ -282,8 +282,8 @@
 <!ENTITY goBackCmd.label "Terug">
 <!ENTITY goBackCmd.accesskey "e">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goToFolderCmd.label "Quick Switch">
-<!ENTITY goToFolderCmd.accesskey "Q">
+<!ENTITY goToFolderCmd.label "Snel Omschakelen">
+<!ENTITY goToFolderCmd.accesskey "S">
 <!ENTITY prevStarredMsgCmd.label "Bericht met ster">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY startPageCmd1.label "Startpagina">

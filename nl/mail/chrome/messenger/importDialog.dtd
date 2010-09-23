@@ -76,4 +76,4 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDialog.homeTitle  "Startpagina">
 <!ENTITY importDialog.workTitle  "Werk">
 
-<!ENTITY pbSelect.label             "Select the type of material to import:">
+<!ENTITY pbSelect.label             "Geeft u het type te importeren materiaal op:">

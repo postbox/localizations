@@ -12,7 +12,7 @@
 <!ENTITY newMessage.accesskey "B">
 <!ENTITY newCard.label "Kaart in Adresboek...">
 <!ENTITY newCard.accesskey "K">
-<!ENTITY emptyAttachmentBucket.label "Add files...">
+<!ENTITY emptyAttachmentBucket.label "Bestanden toevoegen...">
 <!ENTITY attachMenu.label "Bijlage">
 <!ENTITY attachMenu.accesskey "B">
 <!ENTITY attachFileCmd.label "Bestand(en)…">
@@ -108,10 +108,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opties">
 <!ENTITY optionsMenu.accesskey "O">
-<!ENTITY checkSpellingCmd.label "Check Spelling...">
+<!ENTITY checkSpellingCmd.label "Controleer spelling...">
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY checkSpellingCmd.accesskey "C">
 <!ENTITY enableInlineSpellChecker.label "Spellingcontrole tijdens typen">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "Bericht citeren">
@@ -194,7 +194,7 @@
 <!ENTITY saveButton.label "Opslaan">
 <!ENTITY tagButton.label "Label toewijzen">
 <!ENTITY throbberItem.title "Activiteitsindicator">
-<!ENTITY signatureButton.label "Signatures">
+<!ENTITY signatureButton.label "Handtekeningen">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Dit bericht nu verzenden"> 
@@ -206,7 +206,7 @@
 <!ENTITY cutButton.tooltip              "Knippen">
 <!ENTITY copyButton.tooltip             "Kopiëren">
 <!ENTITY pasteButton.tooltip            "Plakken">
-<!ENTITY tagButton.tooltip "Add topic(s) to message">
+<!ENTITY tagButton.tooltip "Voeg label(s) toe aan bericht">
 <!ENTITY signatureButton.tooltip "Insert a signature">
 
 <!-- Headers -->
@@ -226,7 +226,7 @@
 <!ENTITY tagHeader.accesskey "L">
 <!ENTITY tagMessageButton.tooltip     "Label(s) toewijzen aan bericht.">
 <!ENTITY compose.todo.label "To-Do">
-<!ENTITY compose.todo.tooltip "Make this message a To-Do">
+<!ENTITY compose.todo.tooltip "Maak van dit bericht een To-do">
 <!ENTITY compose.addresses.label "Adressen">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -290,12 +290,12 @@
 <!ENTITY addressesSidebarTitle.label "Adresboek">
 
 <!-- for rich search in compose -->
-<!ENTITY contactsButton.tooltip                 "Find contacts">
-<!ENTITY imagesButton.tooltip                   "Find images">
-<!ENTITY attachmentsButton.tooltip              "Find attachments">
-<!ENTITY placesButton.tooltip                   "Find places">
-<!ENTITY researchButton.tooltip                 "Find references">
-<!ENTITY signaturesButton.tooltip               "Find signatures">
+<!ENTITY contactsButton.tooltip                 "Zoek contacten">
+<!ENTITY imagesButton.tooltip                   "Zoek afbeeldingen">
+<!ENTITY attachmentsButton.tooltip              "Zoek bijlagen">
+<!ENTITY placesButton.tooltip                   "Zoek plaatsen">
+<!ENTITY researchButton.tooltip                 "Zoek referenties">
+<!ENTITY signaturesButton.tooltip               "Zoek handtekeningen">
 
 <!-- this is an entity because it can vary by locale, and which type has the most kinds on the locale 
      for en-US, it is "Research", which has "Wikipedia" + "Dictionary" + "Thesaurus" -->
@@ -313,7 +313,7 @@
 
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
 
-<!ENTITY pbComposeSidebar.label "Sidebar">
-<!ENTITY pbComposeSidebar.accesskey "S">
+<!ENTITY pbComposeSidebar.label "Zijpaneel">
+<!ENTITY pbComposeSidebar.accesskey "Z">
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">

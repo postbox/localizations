@@ -127,7 +127,7 @@
 
 <!ENTITY Social.tab                    "Sociaal">
 <!ENTITY twitter.label                 "Twitter">
-<!ENTITY facebook.label                "Facebook">
+<!ENTITY facebook.label                "Facebook:">
 <!ENTITY linkedin.label                "LinkedIn">
 
 <!ENTITY Other.tab                      "Overig">

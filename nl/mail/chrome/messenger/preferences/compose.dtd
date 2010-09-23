@@ -2,7 +2,7 @@
 <!ENTITY itemAutoComplete.label              "Adressering">
 <!ENTITY itemSpellCheck.label                "Spelling">
 <!ENTITY itemSendFormat.label                "Verzendingsformaat">
-<!ENTITY itemSignatures.label                "Signatures">
+<!ENTITY itemSignatures.label                "Handtekeningen">
 
 <!ENTITY forwardReply.label                   "Berichten aan het doorsturen">
 <!ENTITY forwardMsg.label                     "Berichten doorsturen:">
@@ -51,19 +51,19 @@
 <!ENTITY sendOptions.label                     "Verzendopties…">
 <!ENTITY sendOptions.accesskey                 "V">
 
-<!ENTITY attachmentReminder.label              "Check for missing attachments">
-<!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Keywords…">
-<!ENTITY attachmentReminderOptions.accesskey   "K">
+<!ENTITY attachmentReminder.label              "Controleer op ontbrekende bijlage(n)">
+<!ENTITY attachmentReminder.accesskey          "C">
+<!ENTITY attachmentReminderOptions.label       "Sleutelwoorden…">
+<!ENTITY attachmentReminderOptions.accesskey   "S">
 
-<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+<!ENTITY replyInDefaultCharset2.label     "Gebruik de standaard tekenset in antwoorden">
+<!ENTITY replyInDefaultCharset2.accesskey "G">
+<!ENTITY composeLanguagesTitle.label            "Tekenset:">
 
 <!-- signatures -->
-<!ENTITY addSignatureButton.label       "New">
+<!ENTITY addSignatureButton.label       "Nieuw">
 <!ENTITY addSignatureButton.accesskey   "N">
-<!ENTITY editSignatureButton.label      "Edit">
-<!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY removeSignatureButton.label    "Delete">
-<!ENTITY removeSignatureButton.accesskey "l">
+<!ENTITY editSignatureButton.label      "Bewerken">
+<!ENTITY editSignatureButton.accesskey   "e">
+<!ENTITY removeSignatureButton.label    "Verwijderen">
+<!ENTITY removeSignatureButton.accesskey "V">

@@ -44,7 +44,7 @@
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatisch controleren op updates voor:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "P">
+<!ENTITY enableAppUpdate.accesskey      "b">
 <!ENTITY enableAddonsUpdate.label       "Geïnstalleerde add-ons">
 <!ENTITY enableAddonsUpdate.accesskey   "G">
 <!ENTITY checkNow.label                 "Nu controleren">
@@ -67,11 +67,11 @@
 <!ENTITY kb.label "KB">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "When a server requests my personal certificate:">
-<!ENTITY certs.auto                      "Select one automatically">
+<!ENTITY certSelection.description       "Als een server om mijn persoonlijke certificaat verzoekt:">
+<!ENTITY certs.auto                      "Selecteer er automatisch een">
 <!ENTITY certs.auto.accesskey            "m">
-<!ENTITY certs.ask                       "Ask me every time">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certs.ask                       "Mij telkens vragen">
+<!ENTITY certs.ask.accesskey             "a">
 
 <!ENTITY viewCertificates.label         "Certificaten bekijken">
 <!ENTITY viewCertificates.accesskey     "C">
@@ -85,25 +85,25 @@
 <!-- Web Services -->
 <!ENTITY webservicesInfo.label          "Configure the Web services used within Postbox.">
 
-<!ENTITY textStartUp   "When starting up:">
-<!ENTITY radioRememberPrevState "Remember previous online state">
-<!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe "Ask me for online state at startup">
+<!ENTITY textStartUp   "Bij het opstarten:">
+<!ENTITY radioRememberPrevState "Herinner de vorige online status">
+<!ENTITY radioRememberPrevState.accesskey "r">
+<!ENTITY radioAskMe "Vraag de online status bij het opstarten">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline "Always start up online">
+<!ENTITY radioAlwaysOnline "Altijd online opstarten">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline "Send unsent messages when going online?">
-<!ENTITY radioAutoSend "Yes">
-<!ENTITY radioAutoSend.accesskey "Y">
-<!ENTITY radioNotSend "No">
+<!ENTITY textGoingOnline "Wilt u niet-verzonden berichten verzenden als u online gaat?">
+<!ENTITY radioAutoSend "Ja">
+<!ENTITY radioAutoSend.accesskey "J">
+<!ENTITY radioNotSend "Nee">
 <!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent "Ask me">
-<!ENTITY radioAskUnsent.accesskey "s">
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload "Yes">
-<!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload "No">
-<!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload "Ask me">
-<!ENTITY radioAskDownload.accesskey "A">
+<!ENTITY radioAskUnsent "Mij vragen">
+<!ENTITY radioAskUnsent.accesskey "M">
+<!ENTITY textGoingOffline "Wilt u berichten downloaden voor offlinegebruik voordat u offline gaat?">
+<!ENTITY radioAutoDownload "Ja">
+<!ENTITY radioAutoDownload.accesskey "J">
+<!ENTITY radioNotDownload "Nee">
+<!ENTITY radioNotDownload.accesskey "N">
+<!ENTITY radioAskDownload "Mij vragen">
+<!ENTITY radioAskDownload.accesskey "a">

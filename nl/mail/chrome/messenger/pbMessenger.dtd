@@ -5,14 +5,14 @@
 <!ENTITY pbLocalesMenu_getMore.accesskey "g">
 <!ENTITY newAccountGroupCmd.label "Account Groep...">
 <!ENTITY newAccountGroupCmd.accesskey "G">
-<!ENTITY closeTab.label "Close Tab">
-<!ENTITY closeTab.accesskey "C">
-<!ENTITY closeWindow.label "Close Window">
+<!ENTITY closeTab.label "Tabblad sluiten">
+<!ENTITY closeTab.accesskey "T">
+<!ENTITY closeWindow.label "Sluit venster">
 <!ENTITY closeWindow.accesskey "e">
 
 <!-- Messages Menu -->
-<!ENTITY quickReplyMsgCmd.label "Quick Reply">
-<!ENTITY quickReplyMsgCmd.accesskey "Q">
+<!ENTITY quickReplyMsgCmd.label "Snel Reageren">
+<!ENTITY quickReplyMsgCmd.accesskey "S">
 
 <!-- Tools Menu -->
 <!ENTITY pbIndexingMenu.label "Indexeren">
@@ -40,25 +40,26 @@
 <!ENTITY viewMenuShowImages.label        "Afbeeldingen">
 <!ENTITY viewMenuShowImages.accesskey    "A">
 <!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowTodos.label "To-Dos">
-<!ENTITY viewMenuShowTodos.accesskey "D">
+<!ENTITY viewMenuShowTodos.label "To-do's">
+<!ENTITY viewMenuShowTodos.accesskey "d">
 <!ENTITY key_showTodos.key           "o">
-<!ENTITY showFolderPaneCmd.label "Folder Pane">
-<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneCmd.label "Mappenvenster">
+<!ENTITY showFolderPaneCmd.accesskey "M">
 <!ENTITY showFocusPaneCmd.label "Focus Venster">
 <!ENTITY showFocusPaneCmd.accesskey "F">
 <!ENTITY pbToggleFocusPane.key "P">
+<!ENTITY pbToggleFolderPaneMac.key "M">
 <!ENTITY pbToggleFolderPane.key "M">
 <!ENTITY pbToggleInspectorPane.key "I">
 <!ENTITY pbMessagePaneMac.key "E">
 <!ENTITY showInspectorPaneCmd.label "Inspector Venster">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
-<!ENTITY pbViewConverationsMenu.label "Conversations">
+<!ENTITY pbViewConverationsMenu.label "Conversaties">
 <!ENTITY pbViewConverationsMenu.accesskey "v">
-<!ENTITY pbExpandConversationMsgs.label "Expand Conversation">
-<!ENTITY pbExpandConversationMsgs.accesskey "x">
+<!ENTITY pbExpandConversationMsgs.label "Conversatie uitvouwen">
+<!ENTITY pbExpandConversationMsgs.accesskey "C">
 <!ENTITY pbExpandConversationMsgs.key "o">
-<!ENTITY pbCollapseConversationMsgs.label "Collapse Conversation">
+<!ENTITY pbCollapseConversationMsgs.label "Conversatie inklappen">
 <!ENTITY pbCollapseConversationMsgs.accesskey "n">
 <!ENTITY pbCollapseConversationMsgs.key "o">
 
@@ -71,7 +72,7 @@
 <!ENTITY focusPaneImages.label          "Afbeeldingen">
 <!ENTITY focusPaneMessages.label        "Alles Weergeven">
 <!ENTITY viewButtons.label              "Weergave">
-<!ENTITY focusPaneTodos.label           "To-Dos">
+<!ENTITY focusPaneTodos.label           "To-do's">
 <!ENTITY tagButton.tooltip "Wijs topic aan berichten toe">
 <!ENTITY newTaskButton.tooltip "Maak een nieuw To-do item">
 <!ENTITY newTaskButton.label "Nieuwe To-Do">
@@ -272,6 +273,7 @@
 <!ENTITY threadPaneNoMatchesFound.desc "Geen berichten komen met de zoekopdracht overeen.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Probeer in Alle Mappen te zoeken.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Probeer het filter op Alle te zetten.">
+<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
 <!ENTITY threadPaneAddTextToSearch.desc "Begin met typen in de zoekbalk om het zoeken te starten.">
 
 <!ENTITY pbSignatureEditor.title "Nieuwe Handtekening">
@@ -321,30 +323,17 @@
 <!ENTITY pbMoveToFolderAgain.accesskey "v">
 
 <!-- Conversation Action context menu -->
-<!ENTITY pbConversationHdrContextMenu-reply.label "Reply">
-<!ENTITY pbConversationHdrContextMenu-reply.accesskey "R">
-<!ENTITY pbConversationHdrContextMenu-replyall.label "Reply All">
+<!ENTITY pbConversationHdrContextMenu-reply.label "Beantwoorden">
+<!ENTITY pbConversationHdrContextMenu-reply.accesskey "r">
+<!ENTITY pbConversationHdrContextMenu-replyall.label "Allen beantwoorden">
 <!ENTITY pbConversationHdrContextMenu-replyall.accesskey "A">
-<!ENTITY pbConversationHdrContextMenu-forward.label "Forward">
-<!ENTITY pbConversationHdrContextMenu-forward.accesskey "F">
-<!ENTITY pbConversationHdrContextMenu-open.label "Open">
+<!ENTITY pbConversationHdrContextMenu-forward.label "Doorsturen">
+<!ENTITY pbConversationHdrContextMenu-forward.accesskey "D">
+<!ENTITY pbConversationHdrContextMenu-open.label "Openen">
 <!ENTITY pbConversationHdrContextMenu-open.accesskey "O">
 
 <!-- Help Menu -->
-<!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">
-<!ENTITY pbKeyboardShortCuts.accesskey "K">
-<!ENTITY guideCmd.label "Quickstart Guide">
+<!ENTITY pbKeyboardShortCuts.label "Sneltoetsen">
+<!ENTITY pbKeyboardShortCuts.accesskey "S">
+<!ENTITY guideCmd.label "Snelstart handleiding">
 <!ENTITY guideCmd.accesskey "r">
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbToggleFolderPaneMac.key "M">

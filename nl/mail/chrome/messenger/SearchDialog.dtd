@@ -12,7 +12,7 @@
 <!ENTITY deleteButton.label          "Verwijderen">
 <!ENTITY deleteButton.accesskey      "V">
 <!ENTITY searchDialogTitle.label     "Berichten zoeken">
-<!ENTITY conditionDesc.label         "Search for messages that match:">
+<!ENTITY conditionDesc.label         "Zoek naar berichten die overeenkomen met:">
 <!ENTITY conditions.label            "Criteria">
 <!ENTITY results.label               "Resultaten">
 <!ENTITY fileHereMenu.label          "Hier opslaan">

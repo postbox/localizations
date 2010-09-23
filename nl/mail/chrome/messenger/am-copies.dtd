@@ -15,30 +15,30 @@
 <!ENTITY saveMessageDlg.label "Bevestiging weergeven als berichten zijn opgeslagen">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY sentFolderOn1.label "Verzonden:">
 <!ENTITY sentFolderOn1.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Anders:">
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn1.label "Drafts:">
-<!ENTITY draftsFolderOn1.accesskey "D">
+<!ENTITY draftsFolderOn1.label "Concepten:">
+<!ENTITY draftsFolderOn1.accesskey "C">
 <!ENTITY draftInOtherFolder.label "Anders:">
 <!ENTITY draftInOtherFolder.accesskey "n">
 <!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn1.label "Archive:">
+<!ENTITY archivesFolderOn1.label "Archief:">
 <!ENTITY archivesFolderOn1.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Anders:">
 <!ENTITY archiveInOtherFolder.accesskey "e">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn1.label "Templates:">
-<!ENTITY templatesFolderOn1.accesskey "m">
+<!ENTITY templatesFolderOn1.label "Sjablonen:">
+<!ENTITY templatesFolderOn1.accesskey "S">
 <!ENTITY templateInOtherFolder.label "Anders:">
 <!ENTITY templateInOtherFolder.accesskey "d">
 <!ENTITY keepDrafts.label "Berichtconcepten bewaren in:">
 <!ENTITY keepArchives.label "Berichtarchieven bewaren in:">
 <!ENTITY keepTempltes.label "Berichtsjablonen bewaren in:">
 
-<!ENTITY pbSentSettings.label "Sent">
-<!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
+<!ENTITY pbSentSettings.label "Verzonden">
+<!ENTITY pbDraftsSettings.label "Concepten">
+<!ENTITY pbArchiveSettings.label "Archief">
+<!ENTITY pbTemplatesSettings.label "Sjablonen">

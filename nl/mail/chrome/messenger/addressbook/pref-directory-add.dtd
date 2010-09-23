@@ -51,7 +51,7 @@
 <!ENTITY advancedOptionsButton.label       "Geavanceerde Instellingen">
 <!ENTITY advancedOptionsButton.accesskey   "a">
 <!ENTITY General.tab                       "Algemeen">
-<!ENTITY Offline.tab                       "Offline">
+<!ENTITY Offline.tab                       "Niet verbonden">
 <!ENTITY Advanced.tab                      "Geavanceerd">
 <!ENTITY advancedOptionsTitle.label        "Geavanceerde Instellingen">
 <!ENTITY portNumber.label                  "Poortnummer: ">

@@ -1,6 +1,6 @@
 <!-- strings used in both the focus pane and the full text search focus pane -->
 <!ENTITY focusPaneFilterByTags.label    "Favoriete labels">
-<!ENTITY focusPaneFilterByTagsMac.label "FAVORITE TOPICS">
+<!ENTITY focusPaneFilterByTagsMac.label "FAVORIETE LABELS">
 <!ENTITY focusPaneAllTags.label         "Alle">
 <!ENTITY focusPaneNoTags.label          "Geen">
 
@@ -10,17 +10,17 @@
 <!ENTITY focusPaneSearchScopeEverywhere.label  "Alle Accounts">
 <!ENTITY focusPaneSearchAttribute.label        "Eigenschappen">
 <!ENTITY focusPaneSearchAttributeMac.label     "EIGENSCHAPPEN">
-<!ENTITY focusPaneHasAttachmentAttribute.label           "Has Attachment">
-<!ENTITY focusPaneUnreadAttribute.label           "Unread">
+<!ENTITY focusPaneHasAttachmentAttribute.label           "Heeft bijlage">
+<!ENTITY focusPaneUnreadAttribute.label           "Ongelezen">
 <!ENTITY focusPaneFilterByDate.label    "Datum">
 <!ENTITY focusPaneFilterByDateMac.label "DATUM">
 <!ENTITY focusPaneAnyDate.label         "Elke datum">
 <!ENTITY focusPaneToday.label           "Vandaag">
-<!ENTITY focusPaneYesterday.label       "Yesterday">
+<!ENTITY focusPaneYesterday.label       "Gisteren">
 <!ENTITY focusPaneThisWeek.label        "Deze week">
 <!ENTITY focusPaneThisMonth.label       "Deze maand">
-<!ENTITY focusPaneFilterByContact.label    "Favorite Contacts">
-<!ENTITY focusPaneFilterByContactMac.label "FAVORITE CONTACTS">
+<!ENTITY focusPaneFilterByContact.label    "Favoriete Contacten">
+<!ENTITY focusPaneFilterByContactMac.label "FAVORIETE CONTACTEN">
 
 <!-- focus pane topics context menus -->
 <!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Naam wijzigen">
@@ -35,13 +35,13 @@
 <!ENTITY pbFavoriteTopicsContextMenu-editAll.accesskey  "L">
 
 <!-- focus pane favorite contacts context menus -->
-<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Remove From Favorites">
+<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Verwijderen uit favorieten">
 <!ENTITY pbFavoriteContactsContactsMenu-delete.accesskey "R">
 <!ENTITY pbFavoriteContactsContextMenu-email.label       "Email Contact">
 <!ENTITY pbFavoriteContactsContactsMenu-email.accesskey  "e">
-<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Edit Contact...">
+<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Contact bewerken...">
 <!ENTITY pbFavoriteContactsContactsMenu-edit.accesskey   "d">
-<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Create Filter...">
+<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Filter aanmaken...">
 <!ENTITY pbFavoriteContactsContactsMenu-createfilter.accesskey "C">
 
-<!ENTITY pbFavoriteContacts.DragLabel "Drag your favorite contacts here">
+<!ENTITY pbFavoriteContacts.DragLabel "Sleep uw favoriete contacten hier naar toe">

@@ -1,41 +1,41 @@
 <!-- Junk Mail Controls -->
 <!ENTITY manualMark.label "Wanneer ik berichten markeer als ongewenst:">
 <!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
-<!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Delete them">
-<!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY manualMarkModeMove.label "Verplaats ze naar de map &quot;Ongewenste e-mail&quot; van dit account">
+<!ENTITY manualMarkModeMove.accesskey "O">
+<!ENTITY manualMarkModeDelete.label "Verwijder ze">
+<!ENTITY manualMarkModeDelete.accesskey "V">
+<!ENTITY markAsReadOnSpam.label "Markeer als ongewenst beschouwde berichten als gelezen">
 <!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Enable junk filter logging">
+<!ENTITY enableJunkLogging.label "Zet Ongewenste e-mail logboek aan">
 <!ENTITY enableJunkLogging.accesskey "g">
-<!ENTITY openJunkLog.label "Show log">
-<!ENTITY openJunkLog.accesskey "h">
-<!ENTITY resetTrainingData.label "Reset Training Data">
-<!ENTITY resetTrainingData.accesskey "D">
+<!ENTITY openJunkLog.label "Geef logboek weer">
+<!ENTITY openJunkLog.accesskey "G">
+<!ENTITY resetTrainingData.label "Training data resetten">
+<!ENTITY resetTrainingData.accesskey "d">
 
 
 <!-- Phishing Detector -->
-<!ENTITY enablePhishingDetector1.label    "Block reported e-mail scams">
+<!ENTITY enablePhishingDetector1.label    "Blokkeer gerapporteerde aanvals e-mails">
 <!ENTITY enablePhishingDetector1.accesskey "B">
 
 <!-- Passwords -->
-<!ENTITY useMasterPassword.label              "Use a master password">
-<!ENTITY useMasterPassword.accesskey          "s">
-<!ENTITY changeMasterPassword.label           "Change Master Password...">
-<!ENTITY changeMasterPassword.accesskey       "M">
-<!ENTITY savedPasswords.label                 "Saved Passwords...">
-<!ENTITY savedPasswords.accesskey             "S">
+<!ENTITY useMasterPassword.label              "Gebruik een hoofdwachtwoord">
+<!ENTITY useMasterPassword.accesskey          "G">
+<!ENTITY changeMasterPassword.label           "Verander hoofdwachtwoord...">
+<!ENTITY changeMasterPassword.accesskey       "V">
+<!ENTITY savedPasswords.label                 "Opgeslagen wachtwoorden...">
+<!ENTITY savedPasswords.accesskey             "s">
 
 <!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics2.label      "Help make &brandShortName; better by sending anonymous usage statistics.">
+<!ENTITY enableAnonymousStatistics2.label      "Help mee om &brandShortName; te verbeteren door anoniem gebuiksstatistieken te versturen.">
 <!ENTITY enableAnonymousStatistics.accesskey   "H">
 
 <!-- Remote images -->
-<!ENTITY disableImageInMailNews.label  "Block loading of remote images in mail messages">
+<!ENTITY disableImageInMailNews.label  "Blokkeer het laden van niet-geïntegreerde afbeeldingen in e-mails">
 <!ENTITY disableImageInMailNews.accesskey "r">
 
 <!ENTITY pbPrivacy.label "Privacy:">
 <!ENTITY pbJunkMail.label "Junk:">
-<!ENTITY pbPasswords.label "Passwords:">
+<!ENTITY pbPasswords.label "Wachtwoorden:">
 <!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in Account Settings.">
