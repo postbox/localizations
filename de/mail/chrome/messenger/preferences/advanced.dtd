@@ -100,7 +100,7 @@
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent "Ask me">
 <!ENTITY radioAskUnsent.accesskey "s">
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
+<!ENTITY textGoingOffline "Beim Wechsel in den Offline-Modus Nachrichten zum Offline-Lesen herunterladen:">
 <!ENTITY radioAutoDownload "Yes">
 <!ENTITY radioAutoDownload.accesskey "e">
 <!ENTITY radioNotDownload "No">

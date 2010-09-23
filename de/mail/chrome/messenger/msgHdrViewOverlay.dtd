@@ -58,8 +58,8 @@
 <!ENTITY pbParticipantsField.label "Teilnehmer:">
 <!ENTITY saveAll.label "Alle speichern..">
 
-<!ENTITY messageHeader.expand.label                 "Expand">
-<!ENTITY messageHeader.collapse.label               "Collapse">
+<!ENTITY messageHeader.expand.label                 "Ausklappen">
+<!ENTITY messageHeader.collapse.label               "Einklappen">
 <!ENTITY messageHeader.editMessageButton.label      "Bearbeiten">
 <!ENTITY messageHeader.gatherMessageButton.label    "Alle einblenden">
 <!ENTITY messageHeader.tagMessageButton.tooltip     "Weise dieser Nachricht Begriffe zu.">
