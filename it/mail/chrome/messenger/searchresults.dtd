@@ -10,6 +10,7 @@
 <!ENTITY searchResultsNoMatchesFound.desc          "No items matched your search.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Try searching in All Folders.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Try setting your Focus to All.">
+<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
 <!ENTITY showSearchOptions.label                   "Show search options">
 
 <!-- attachments -->
@@ -74,10 +75,3 @@
 <!ENTITY picasa.label "Picasa Web Albums">
 <!ENTITY photobucket.label "My Photobucket">
 <!-- XXX end localization note: Do not translate these service names -->
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
