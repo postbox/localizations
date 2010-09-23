@@ -48,6 +48,7 @@
 <!ENTITY showFocusPaneCmd.label "Focus Pane">
 <!ENTITY showFocusPaneCmd.accesskey "o">
 <!ENTITY pbToggleFocusPane.key "P">
+<!ENTITY pbToggleFolderPaneMac.key "M">
 <!ENTITY pbToggleFolderPane.key "M">
 <!ENTITY pbToggleInspectorPane.key "I">
 <!ENTITY pbMessagePaneMac.key "E">
@@ -272,6 +273,7 @@
 <!ENTITY threadPaneNoMatchesFound.desc "No messages matched your search.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Try looking in All Folders.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Try setting your Focus to All.">
+<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
 <!ENTITY threadPaneAddTextToSearch.desc "Start typing in the search bar to begin your search.">
 
 <!ENTITY pbSignatureEditor.title "New Signature">
@@ -335,16 +337,3 @@
 <!ENTITY pbKeyboardShortCuts.accesskey "K">
 <!ENTITY guideCmd.label "Quickstart Guide">
 <!ENTITY guideCmd.accesskey "r">
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbToggleFolderPaneMac.key "M">
