@@ -4,6 +4,7 @@
 <!ENTITY enterLicenseTitle.label "Geef Postbox Licentiesleutel op">
 <!ENTITY enterLicenseInfo.label "Voer hieronder uw naam en licentiesleutel in:">
 <!ENTITY invalidLicense.label "Bijna klaar... Voer uw naam en licentiesleutel exact in zoals deze in de licentiemail vermeld staan.">
+<!ENTITY invalidLicenseVersion.label "This license key will not work with this version of Postbox.  Please upgrade to the most current version.">
 
 <!ENTITY changeLicenseTitle.label "Postbox Licentie Sleutel">
 <!ENTITY changeLicenseInfo.label "Deze kopie van Postbox is gelicenceerd aan:">
@@ -24,10 +25,3 @@
 <!ENTITY thanksInfo3b.label " of volg ons op ">
 <!ENTITY PostboxTwitter.label "Twitter">
 <!ENTITY thanksInfo3c.label ".">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY invalidLicenseVersion.label "This license key will not work with this version of Postbox.  Please upgrade to the most current version.">

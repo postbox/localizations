@@ -33,9 +33,9 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 <!ENTITY pbMacAccountManager.height "height: 45em;">
-<!ENTITY pbAccountTree.width "width: 25ch;">
+<!ENTITY pbAccountTree.width "width: 24ch;">
 
-<!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Add…">
-<!ENTITY pbAccountRemoveActionsButton.label "Remove">
-<!ENTITY pbAccountRemoveActionsButton.accesskey "R">
+<!ENTITY pbAccountAddActionsButton.accesskey "T">
+<!ENTITY pbAccountAddActionsButton.label "Toevoegen...">
+<!ENTITY pbAccountRemoveActionsButton.label "Verwijderen">
+<!ENTITY pbAccountRemoveActionsButton.accesskey "r">

@@ -10,7 +10,7 @@
 <!ENTITY searchResultsNoMatchesFound.desc          "Uw zoekopdracht gaf geen resultaat.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Probeer te zoeken in Alle Mappen.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Probeer het filter op Alle te zetten.">
-<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
+<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Probeer de Berichten-weergave te kiezen.">
 <!ENTITY showSearchOptions.label                   "Geef Zoek Opties weer">
 
 <!-- attachments -->

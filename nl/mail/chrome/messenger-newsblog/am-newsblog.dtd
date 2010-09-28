@@ -1,6 +1,6 @@
 <!ENTITY newsblogTitle.label "RSS Gebruikers instellingen">
 
-<!ENTITY indexMsgBodies.label "Index message bodies">
+<!ENTITY indexMsgBodies.label "Indexeer berichttext">
 <!ENTITY indexMsgBodies.accesskey "I">
 
 <!ENTITY biffStart.label "Op nieuwe artikelen controleren na elke">

@@ -207,7 +207,7 @@
 <!ENTITY copyButton.tooltip             "Kopiëren">
 <!ENTITY pasteButton.tooltip            "Plakken">
 <!ENTITY tagButton.tooltip "Voeg label(s) toe aan bericht">
-<!ENTITY signatureButton.tooltip "Insert a signature">
+<!ENTITY signatureButton.tooltip "Handtekening invoegen">
 
 <!-- Headers -->
 <!ENTITY fromHeader.label "Van">
@@ -283,8 +283,8 @@
 <!ENTITY attachFile.accesskey "B">
 <!ENTITY attachPage.label "Webpagina koppelen…">
 <!ENTITY attachPage.accesskey "W">
-<!ENTITY editSignatures.label "Edit Signatures...">
-<!ENTITY newSignature.label "New Signature...">
+<!ENTITY editSignatures.label "Handtekeningen bewerken...">
+<!ENTITY newSignature.label "Nieuwe Handtekening...">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Adresboek">

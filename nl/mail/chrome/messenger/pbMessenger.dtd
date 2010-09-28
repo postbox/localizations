@@ -273,7 +273,7 @@
 <!ENTITY threadPaneNoMatchesFound.desc "Geen berichten komen met de zoekopdracht overeen.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Probeer in Alle Mappen te zoeken.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Probeer het filter op Alle te zetten.">
-<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
+<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Probeer de Berichten-weergave te kiezen.">
 <!ENTITY threadPaneAddTextToSearch.desc "Begin met typen in de zoekbalk om het zoeken te starten.">
 
 <!ENTITY pbSignatureEditor.title "Nieuwe Handtekening">

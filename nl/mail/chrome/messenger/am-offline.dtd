@@ -30,7 +30,7 @@
 <!ENTITY offlineGroupTitle.label "Niet verbonden">
 <!ENTITY diskspaceGroupTitle.label "Schijfruimte">
 <!ENTITY ftiGroupTitle.label "Globaal Zoeken">
-<!ENTITY fti.indexMsgBodies.label "Index message bodies">
+<!ENTITY fti.indexMsgBodies.label "Indexeer berichttext">
 <!ENTITY newsrcFilePath.label "newsrc-bestand:">
 <!ENTITY newsrcFilePath.accesskey "n">
 <!ENTITY localPath.label "Lokale map:">
