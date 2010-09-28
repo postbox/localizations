@@ -272,7 +272,7 @@
 <!-- thread pane -->
 <!ENTITY threadPaneNoMatchesFound.desc "Keine der Suche entsprechenden Nachrichten gefunden.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Suche in allen Ordnern.">
-<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Starten Sie einen weiteren Versuch mit der Auswahl "Alle".">
+<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Starten Sie einen weiteren Versuch mit der Auswahl Alle.">
 <!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
 <!ENTITY threadPaneAddTextToSearch.desc "Fang in der Suchleiste an zu tippen, um die Suche zu starten.">
 
