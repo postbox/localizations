@@ -24,3 +24,10 @@
 <!ENTITY thanksInfo3b.label " of volg ons op ">
 <!ENTITY PostboxTwitter.label "Twitter">
 <!ENTITY thanksInfo3c.label ".">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY invalidLicenseVersion.label "This license key will not work with this version of Postbox.  Please upgrade to the most current version.">

@@ -26,3 +26,10 @@
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishing.shortDesc "De website <span id='phishing_sitename'/> staat geregistreerd als webvervalsing en is op basis van uw beveiligingsinstellingen geblokkeerd.">
 <!ENTITY safeb.blocked.phishing.longDesc "<p>Webvervalsingen zijn ontworpen om u te misleiden en u persoonlijke of financiële informatie afhandig te maken door bronnen te imiteren die u wellicht vertrouwd.</p><p>Het invoeren van informatie op deze website kan leiden tot identiteitsdiefstal of andere vormen van fraude.</p>">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY safeb.palm.message.p2.start "These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust. You can find out more about ">
