@@ -4,6 +4,7 @@
 <!ENTITY enterLicenseTitle.label "Введите код лицензии Postbox">
 <!ENTITY enterLicenseInfo.label "Пожалуйста, введите свое имя и код лицензии в поля ниже:">
 <!ENTITY invalidLicense.label "Почти готово... Пожалуйста, введите ваше имя и код лицензии так, как они отображены в вашем письме с лицензией.">
+<!ENTITY invalidLicenseVersion.label "This license key will not work with this version of Postbox.  Please upgrade to the most current version.">
 
 <!ENTITY changeLicenseTitle.label "Код лицензии Postbox">
 <!ENTITY changeLicenseInfo.label "Эта копия Postbox зарегистрирована на:">
@@ -24,10 +25,3 @@
 <!ENTITY thanksInfo3b.label " or follow us on ">
 <!ENTITY PostboxTwitter.label "Твиттер">
 <!ENTITY thanksInfo3c.label ".">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY invalidLicenseVersion.label "This license key will not work with this version of Postbox.  Please upgrade to the most current version.">
