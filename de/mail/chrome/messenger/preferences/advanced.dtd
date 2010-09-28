@@ -44,7 +44,7 @@
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatisch auf Updates überprüfen für:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "P">
+<!ENTITY enableAppUpdate.accesskey      "b">
 <!ENTITY enableAddonsUpdate.label       "Add-ons">
 <!ENTITY enableAddonsUpdate.accesskey   "A">
 <!ENTITY checkNow.label                 "Jetzt prüfen">
@@ -86,24 +86,24 @@
 <!ENTITY webservicesInfo.label          "Konfiguriere die in Postbox verwendeten Web Services.">
 
 <!ENTITY textStartUp   "Beim Programmstart:">
-<!ENTITY radioRememberPrevState "Remember previous online state">
-<!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe "Ask me for online state at startup">
+<!ENTITY radioRememberPrevState "Vorherigen Verbindungsstatus merken">
+<!ENTITY radioRememberPrevState.accesskey "r">
+<!ENTITY radioAskMe "Frage nach dem Verbindungsstatus beim Start">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline "Always start up online">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOnline "Immer verbunden starten">
+<!ENTITY radioAlwaysOnline.accesskey "I">
 
-<!ENTITY textGoingOnline "Send unsent messages when going online?">
-<!ENTITY radioAutoSend "Yes">
-<!ENTITY radioAutoSend.accesskey "Y">
-<!ENTITY radioNotSend "No">
+<!ENTITY textGoingOnline "Postausgang senden, sobald man im Online-Modus ist:">
+<!ENTITY radioAutoSend "Ja">
+<!ENTITY radioAutoSend.accesskey "J">
+<!ENTITY radioNotSend "Nein">
 <!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent "Ask me">
-<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY radioAskUnsent "Nachfragen">
+<!ENTITY radioAskUnsent.accesskey "N">
 <!ENTITY textGoingOffline "Beim Wechsel in den Offline-Modus Nachrichten zum Offline-Lesen herunterladen:">
-<!ENTITY radioAutoDownload "Yes">
-<!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload "No">
-<!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload "Ask me">
-<!ENTITY radioAskDownload.accesskey "A">
+<!ENTITY radioAutoDownload "Ja">
+<!ENTITY radioAutoDownload.accesskey "J">
+<!ENTITY radioNotDownload "Nein">
+<!ENTITY radioNotDownload.accesskey "N">
+<!ENTITY radioAskDownload "Nachfragen">
+<!ENTITY radioAskDownload.accesskey "a">

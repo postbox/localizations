@@ -5,13 +5,13 @@
 <!ENTITY dataPaneEvent.label          "Ereignisse">
 <!ENTITY dataPaneURL.label            "Links">
 <!ENTITY dataPaneAddresses.label      "Adresse">
-<!ENTITY dataPaneImageMac.label       "IMAGES">
+<!ENTITY dataPaneImageMac.label       "Bilder">
 <!ENTITY dataPaneDocumentMac.label    "Anhänge">
-<!ENTITY dataPaneDatesMac.label       "DATES">
+<!ENTITY dataPaneDatesMac.label       "Datum">
 <!ENTITY dataPaneEventMac.label       "EREIGNISSE">
-<!ENTITY dataPaneURLMac.label         "LINKS">
+<!ENTITY dataPaneURLMac.label         "Links">
 <!ENTITY dataPaneAddressesMac.label   "ADRESSEN">
-<!ENTITY dataPaneFindRecent.label     "Find recent:">
+<!ENTITY dataPaneFindRecent.label     "Finde kürzliche:">
 
 <!-- data pane attachment popup -->
 <!-- XX Localisation note: Do not translate service names -->
@@ -55,7 +55,7 @@
 <!ENTITY contactPanel-twitter.label      "twitter:">
 
 <!ENTITY contactPanel-favorite.label     "favorite:">
-<!ENTITY contactPanel-favorite-checkbox.label "make this contact a favorite">
+<!ENTITY contactPanel-favorite-checkbox.label "Diesen Kontakt als Favoriten speichern">
 <!ENTITY contactPanel-actions.label "Aktionen:">
 <!ENTITY contactPanel-find.label    "find recent:">
 <!ENTITY contactPanel-findMessages.label "Nachrichten">

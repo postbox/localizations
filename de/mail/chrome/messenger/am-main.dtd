@@ -16,8 +16,8 @@
 <!ENTITY edit.label "Bearbeiten…">
 <!ENTITY choose.label "Durchsuchen…">
 <!ENTITY choose.accesskey "D">
-<!ENTITY editVCard1.label "Edit...">
-<!ENTITY editVCard1.accesskey "d">
+<!ENTITY editVCard1.label "Bearbeiten…">
+<!ENTITY editVCard1.accesskey "B">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Visitenkarte an Nachrichten anhängen">
 <!ENTITY attachVCard.accesskey "V">
@@ -25,12 +25,12 @@
 <!ENTITY manageIdentities.label "Weitere Identitäten…">
 <!ENTITY manageIdentities.accesskey "W">
 
-<!ENTITY smtpName1.label "Outgoing Server:">
+<!ENTITY smtpName1.label "Postausgang-Server (SMTP):">
 <!ENTITY smtpName1.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Standard-Server verwenden">
 
 <!ENTITY pbNoSignature.label "Keine">
-<!ENTITY pbEditSignature1.label "Edit...">
+<!ENTITY pbEditSignature1.label "Bearbeiten…">
 <!ENTITY pbEditSignature1.accesskey "i">
 <!ENTITY pbChooseSignature1.label "Signatur:">
 <!ENTITY pbChooseSignature1.accesskey "g">

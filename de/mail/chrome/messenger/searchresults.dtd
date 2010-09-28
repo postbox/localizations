@@ -9,7 +9,7 @@
 <!ENTITY prevNextResults.label                     "Zurück / Vor">
 <!ENTITY searchResultsNoMatchesFound.desc          "Ihre Suche ergab keine Treffer.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Versuchen Sie, in allen Ordnern zu suchen.">
-<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Try setting your Focus to All.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Starten Sie einen weiteren Versuch mit der Auswahl "Alle".">
 <!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
 <!ENTITY showSearchOptions.label                   "Zeige Suchoptionen">
 

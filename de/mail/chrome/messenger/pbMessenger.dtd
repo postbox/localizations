@@ -5,14 +5,14 @@
 <!ENTITY pbLocalesMenu_getMore.accesskey "W">
 <!ENTITY newAccountGroupCmd.label "Kontengruppe...">
 <!ENTITY newAccountGroupCmd.accesskey "g">
-<!ENTITY closeTab.label "Close Tab">
-<!ENTITY closeTab.accesskey "C">
-<!ENTITY closeWindow.label "Close Window">
+<!ENTITY closeTab.label "Tab schließen">
+<!ENTITY closeTab.accesskey "c">
+<!ENTITY closeWindow.label "Fenster schließen">
 <!ENTITY closeWindow.accesskey "e">
 
 <!-- Messages Menu -->
-<!ENTITY quickReplyMsgCmd.label "Quick Reply">
-<!ENTITY quickReplyMsgCmd.accesskey "Q">
+<!ENTITY quickReplyMsgCmd.label "Schnellantwort">
+<!ENTITY quickReplyMsgCmd.accesskey "S">
 
 <!-- Tools Menu -->
 <!ENTITY pbIndexingMenu.label "Indexerstellung">
@@ -27,39 +27,39 @@
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
 
 <!-- View Menu -->
-<!ENTITY pinStarredMessages.label "Pin To-Dos">
-<!ENTITY pinStarredMessages.accesskey "P">
-<!ENTITY showConversations.label "Show Conversations">
+<!ENTITY pinStarredMessages.label "Aufgaben oben anheften">
+<!ENTITY pinStarredMessages.accesskey "A">
+<!ENTITY showConversations.label "Zeige Unterhaltungen">
 <!ENTITY showConversations.accesskey "h">
-<!ENTITY viewMenuShowMessages.label        "Messages">
-<!ENTITY viewMenuShowMessages.accesskey    "M">
+<!ENTITY viewMenuShowMessages.label        "Nachrichten">
+<!ENTITY viewMenuShowMessages.accesskey    "N">
 <!ENTITY key_showMessages.key              "m">
-<!ENTITY viewMenuShowAttachments.label "Attachments">
-<!ENTITY viewMenuShowAttachments.accesskey "t">
+<!ENTITY viewMenuShowAttachments.label "Anhänge">
+<!ENTITY viewMenuShowAttachments.accesskey "A">
 <!ENTITY key_showAttachments.key         "a">
-<!ENTITY viewMenuShowImages.label        "Images">
-<!ENTITY viewMenuShowImages.accesskey    "m">
+<!ENTITY viewMenuShowImages.label        "Bilder">
+<!ENTITY viewMenuShowImages.accesskey    "B">
 <!ENTITY key_showImages.key              "i">
 <!ENTITY viewMenuShowTodos.label "To-Dos">
 <!ENTITY viewMenuShowTodos.accesskey "D">
 <!ENTITY key_showTodos.key           "o">
-<!ENTITY showFolderPaneCmd.label "Folder Pane">
-<!ENTITY showFolderPaneCmd.accesskey "F">
-<!ENTITY showFocusPaneCmd.label "Focus Pane">
+<!ENTITY showFolderPaneCmd.label "Ordner-Panel">
+<!ENTITY showFolderPaneCmd.accesskey "O">
+<!ENTITY showFocusPaneCmd.label "Fokus-Panel">
 <!ENTITY showFocusPaneCmd.accesskey "o">
 <!ENTITY pbToggleFocusPane.key "P">
 <!ENTITY pbToggleFolderPaneMac.key "M">
 <!ENTITY pbToggleFolderPane.key "M">
 <!ENTITY pbToggleInspectorPane.key "I">
 <!ENTITY pbMessagePaneMac.key "E">
-<!ENTITY showInspectorPaneCmd.label "Inspector Pane">
+<!ENTITY showInspectorPaneCmd.label "Inspektor-Panel">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
-<!ENTITY pbViewConverationsMenu.label "Conversations">
-<!ENTITY pbViewConverationsMenu.accesskey "v">
-<!ENTITY pbExpandConversationMsgs.label "Expand Conversation">
-<!ENTITY pbExpandConversationMsgs.accesskey "x">
+<!ENTITY pbViewConverationsMenu.label "Unterhaltungen">
+<!ENTITY pbViewConverationsMenu.accesskey "U">
+<!ENTITY pbExpandConversationMsgs.label "Unterhaltung aufklappen">
+<!ENTITY pbExpandConversationMsgs.accesskey "U">
 <!ENTITY pbExpandConversationMsgs.key "o">
-<!ENTITY pbCollapseConversationMsgs.label "Collapse Conversation">
+<!ENTITY pbCollapseConversationMsgs.label "Unterhaltung einklappen">
 <!ENTITY pbCollapseConversationMsgs.accesskey "n">
 <!ENTITY pbCollapseConversationMsgs.key "o">
 
@@ -71,8 +71,8 @@
 <!ENTITY focusPaneEvents.label          "Ereignisse">
 <!ENTITY focusPaneImages.label          "Bilder">
 <!ENTITY focusPaneMessages.label        "Alle zeigen">
-<!ENTITY viewButtons.label              "View">
-<!ENTITY focusPaneTodos.label           "To-Dos">
+<!ENTITY viewButtons.label              "Ansicht">
+<!ENTITY focusPaneTodos.label           "Kennzeichnung">
 <!ENTITY tagButton.tooltip "Begriff der Nachricht hinzufügen">
 <!ENTITY newTaskButton.tooltip "Neue Aufgabe erstellen">
 <!ENTITY newTaskButton.label "Neue Aufgabe">
@@ -106,8 +106,8 @@
 <!ENTITY searchResultPopup-imageZoom.accesskey  "i">
 <!ENTITY searchResultPopup-openAttachment.label      "Öffnen">
 <!ENTITY searchResultPopup-openAttachment.accesskey  "f">
-<!ENTITY searchResultPopup-openMessage.label         "Open Message">
-<!ENTITY searchResultPopup-openMessage.accesskey     "M">
+<!ENTITY searchResultPopup-openMessage.label         "Öffnen">
+<!ENTITY searchResultPopup-openMessage.accesskey     "f">
 <!ENTITY searchResultPopup-openFolder.label          "Öffne Nachrichtenordner">
 <!ENTITY searchResultPopup-openFolder.accesskey      "f">
 <!ENTITY searchResultPopup-quickLookMac.label           "Quick Look...">
@@ -157,13 +157,13 @@
 <!ENTITY numberListEditMsgToolbarCmd.tooltip         "&quot;Nummerierte Liste&quot; anwenden oder entfernen">
 
 <!-- inline message editing context menu -->
-<!ENTITY spellAddToDictionary.label                  "Add to Dictionary">
-<!ENTITY spellAddToDictionary.accesskey              "o">
+<!ENTITY spellAddToDictionary.label                  "Zu Wörterbuch hinzufügen">
+<!ENTITY spellAddToDictionary.accesskey              "Z">
 <!ENTITY spellNoSuggestions.label                    "(Keine Korrekturvorschläge)">
 <!ENTITY spellCheckIgnoreWord.label                  "Wort ignorieren">
 <!ENTITY spellCheckIgnoreWord.accesskey              "i">
-<!ENTITY spellCheckEnable.label                      "Check Spelling">
-<!ENTITY spellCheckEnable.accesskey                  "S">
+<!ENTITY spellCheckEnable.label                      "Rechtschreibung prüfen">
+<!ENTITY spellCheckEnable.accesskey                  "s">
 <!ENTITY spellDictionaries.label                     "Sprachen">
 <!ENTITY spellDictionaries.accesskey                 "S">
 
@@ -226,7 +226,7 @@
 <!ENTITY pbContentURLContextMenu-addToFriendFeed.accesskey "r">
 <!ENTITY pbContentURLContextMenu-addToTwitter.label       "Zu Twitter hinzufügen...">
 <!ENTITY pbContentURLContextMenu-addToTwitter.accesskey   "w">
-<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Post to LinkedIn...">
+<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "An LinkedIn senden...">
 <!ENTITY pbContentURLContextMenu-addToLinkedIn.accesskey  "L">
 
 <!-- text context menu -->
@@ -242,7 +242,7 @@
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Im Wörterbuch nachschlagen">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "l">
-<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New To-Do with Selection as Note">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Dinge: Neu - To-Do mit der Auswahl als Zeichen">
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New To-Do with Selection as Title">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
@@ -272,7 +272,7 @@
 <!-- thread pane -->
 <!ENTITY threadPaneNoMatchesFound.desc "Keine der Suche entsprechenden Nachrichten gefunden.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Suche in allen Ordnern.">
-<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Try setting your Focus to All.">
+<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Starten Sie einen weiteren Versuch mit der Auswahl "Alle".">
 <!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
 <!ENTITY threadPaneAddTextToSearch.desc "Fang in der Suchleiste an zu tippen, um die Suche zu starten.">
 
@@ -295,37 +295,37 @@
 <!ENTITY downloadLanguage.title "Sprache herunterladen">
 
 <!-- thread pane context menu -->
-<!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Send to Inbox">
+<!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: An Posteingang senden">
 <!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "i">
 
 <!-- message pane context menu -->
-<!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Send to Inbox">
+<!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: An Posteingang senden">
 <!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
 
 <!-- status bar -->
 <!ENTITY pbStatusBarOption-newAccount.label "Neues Konto...">
 <!ENTITY pbStatusBarOption-newAccount.accesskey "N">
-<!ENTITY pbStatusBarOption-newGroup.label "New Account Group...">
-<!ENTITY pbStatusBarOption-newGroup.accesskey "G">
-<!ENTITY pbStatusBarOption-settings.label "Account Settings...">
-<!ENTITY pbStatusBarOption-settings.accesskey "A">
-<!ENTITY pbStatusBarOption-newFolder.label "New Folder...">
-<!ENTITY pbStatusBarOption-newFolder.accesskey "F">
-<!ENTITY pbStatusBarOption-folderProperties.label "Folder Properties...">
-<!ENTITY pbStatusBarOption-folderProperties.accesskey "P">
-<!ENTITY pbStatusBarOption-subscribe.label "Subscribe...">
-<!ENTITY pbStatusBarOption-subscribe.accesskey "S">
-<!ENTITY pbStatusBarOption-deleteGroup.label "Delete Account Group">
-<!ENTITY pbStatusBarOption-deleteGroup.accesskey "D">
+<!ENTITY pbStatusBarOption-newGroup.label "Neue Kontengruppe...">
+<!ENTITY pbStatusBarOption-newGroup.accesskey "g">
+<!ENTITY pbStatusBarOption-settings.label "Konten-Einstellungen…">
+<!ENTITY pbStatusBarOption-settings.accesskey "K">
+<!ENTITY pbStatusBarOption-newFolder.label "Neuer Ordner…">
+<!ENTITY pbStatusBarOption-newFolder.accesskey "N">
+<!ENTITY pbStatusBarOption-folderProperties.label "Ordner-Eigenschaften…">
+<!ENTITY pbStatusBarOption-folderProperties.accesskey "O">
+<!ENTITY pbStatusBarOption-subscribe.label "Abonnieren…">
+<!ENTITY pbStatusBarOption-subscribe.accesskey "A">
+<!ENTITY pbStatusBarOption-deleteGroup.label "Kontogruppe löschen">
+<!ENTITY pbStatusBarOption-deleteGroup.accesskey "K">
 
 <!-- Messages Menu -->
 <!ENTITY pbMoveToFolderAgain.label "Move">
 <!ENTITY pbMoveToFolderAgain.accesskey "v">
 
 <!-- Conversation Action context menu -->
-<!ENTITY pbConversationHdrContextMenu-reply.label "Reply">
-<!ENTITY pbConversationHdrContextMenu-reply.accesskey "R">
-<!ENTITY pbConversationHdrContextMenu-replyall.label "Reply All">
+<!ENTITY pbConversationHdrContextMenu-reply.label "Antworten">
+<!ENTITY pbConversationHdrContextMenu-reply.accesskey "r">
+<!ENTITY pbConversationHdrContextMenu-replyall.label "Allen antworten">
 <!ENTITY pbConversationHdrContextMenu-replyall.accesskey "A">
 <!ENTITY pbConversationHdrContextMenu-forward.label "Weiterleiten">
 <!ENTITY pbConversationHdrContextMenu-forward.accesskey "W">
@@ -333,7 +333,7 @@
 <!ENTITY pbConversationHdrContextMenu-open.accesskey "f">
 
 <!-- Help Menu -->
-<!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">
-<!ENTITY pbKeyboardShortCuts.accesskey "K">
-<!ENTITY guideCmd.label "Quickstart Guide">
+<!ENTITY pbKeyboardShortCuts.label "Tastaturkürzel">
+<!ENTITY pbKeyboardShortCuts.accesskey "k">
+<!ENTITY guideCmd.label "Kurzanleitung">
 <!ENTITY guideCmd.accesskey "r">

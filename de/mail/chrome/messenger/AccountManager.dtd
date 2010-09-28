@@ -35,7 +35,7 @@
 <!ENTITY pbMacAccountManager.height "height: 45em;">
 <!ENTITY pbAccountTree.width "width: 25ch;">
 
-<!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Add…">
-<!ENTITY pbAccountRemoveActionsButton.label "Remove">
-<!ENTITY pbAccountRemoveActionsButton.accesskey "R">
+<!ENTITY pbAccountAddActionsButton.accesskey "H">
+<!ENTITY pbAccountAddActionsButton.label "Hinzufügen…">
+<!ENTITY pbAccountRemoveActionsButton.label "Entfernen">
+<!ENTITY pbAccountRemoveActionsButton.accesskey "r">

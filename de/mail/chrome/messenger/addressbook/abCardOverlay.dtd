@@ -35,8 +35,8 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY chooseAddressBook.label                "Add to: ">
-<!ENTITY chooseAddressBook.accesskey            "A">
+<!ENTITY chooseAddressBook.label                "Hinzufügen zu: ">
+<!ENTITY chooseAddressBook.accesskey            "H">
 
 <!ENTITY Contact.tab                     "Kontakt"> 
 <!ENTITY Name.box                        "Name"> 
@@ -125,7 +125,7 @@
 <!ENTITY chooseButton.label             "Durchsuchen…">
 <!ENTITY chooseFile.accessKey           "C">
 
-<!ENTITY Social.tab                    "Social">
+<!ENTITY Social.tab                    "Sozial">
 <!ENTITY twitter.label                 "Twitter">
 <!ENTITY facebook.label                "Facebook">
 <!ENTITY linkedin.label                "LinkedIn">

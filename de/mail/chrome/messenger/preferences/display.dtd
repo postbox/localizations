@@ -32,8 +32,8 @@
 <!ENTITY fontsAndColors.label    "Schriftarten">
 <!ENTITY defaultFont.label       "Standard Font:">
 <!ENTITY defaultFont.accesskey   "d">
-<!ENTITY defaultSize.label       "Size:">
-<!ENTITY defaultSize.accesskey   "S">
+<!ENTITY defaultSize.label       "Größe:">
+<!ENTITY defaultSize.accesskey   "G">
 <!ENTITY fontOptions.accesskey   "E">
 <!ENTITY fontOptions.label       "Erweitert…">
 

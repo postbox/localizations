@@ -36,5 +36,5 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY createVFDialog.title              "Suche speichern">
-<!ENTITY virtualFolder.label               "Enter the name for your saved search folder: ">
-<!ENTITY virtualFolder.accesskey           "E">
+<!ENTITY virtualFolder.label               "Geben Sie den Namen für den Ordner der gespeicherten Suche ein: ">
+<!ENTITY virtualFolder.accesskey           "e">

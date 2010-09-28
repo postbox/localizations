@@ -125,8 +125,8 @@
 <!ENTITY messagePaneClassic.accesskey "K">
 <!ENTITY messagePaneVertical.label "3-Spalten-Ansicht">
 <!ENTITY messagePaneVertical.accesskey "S">
-<!ENTITY showMessageCmd.label "Message Pane">
-<!ENTITY showMessageCmd.accesskey "M">
+<!ENTITY showMessageCmd.label "Nachrichten-Panel">
+<!ENTITY showMessageCmd.accesskey "N">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortieren nach">

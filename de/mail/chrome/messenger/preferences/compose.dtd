@@ -56,14 +56,14 @@
 <!ENTITY attachmentReminderOptions.label       "Schlüsselwörter…">
 <!ENTITY attachmentReminderOptions.accesskey   "S">
 
-<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset2.label     "Den Standard-Zeichensatz für Antworten verwenden">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+<!ENTITY composeLanguagesTitle.label            "Zeichenkodierung:">
 
 <!-- signatures -->
-<!ENTITY addSignatureButton.label       "New">
+<!ENTITY addSignatureButton.label       "Neu">
 <!ENTITY addSignatureButton.accesskey   "N">
-<!ENTITY editSignatureButton.label      "Edit">
-<!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY removeSignatureButton.label    "Delete">
-<!ENTITY removeSignatureButton.accesskey "l">
+<!ENTITY editSignatureButton.label      "Bearbeiten">
+<!ENTITY editSignatureButton.accesskey   "e">
+<!ENTITY removeSignatureButton.label    "Löschen">
+<!ENTITY removeSignatureButton.accesskey "L">

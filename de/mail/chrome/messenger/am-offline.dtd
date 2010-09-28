@@ -20,25 +20,25 @@
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "Gelesene Nachrichten immer löschen">
 <!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY nntpRemoveBody.label "Only message bodies less than">
-<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY nntpRemoveBody.label "Nur Nachrichten kürzer als">
+<!ENTITY nntpRemoveBody.accesskey "N">
 <!ENTITY offlineSelectNntp.label "Newsgruppen zum Offline-Lesen wählen…">
 <!ENTITY offlineSelectImap.label "Ordner zum Offline-Lesen auswählen...">
 <!ENTITY offlineSelect.accesskey "S">
-<!ENTITY makeInboxMsgsAvailable.label "Make the messages in my Inbox available when I am working offline">
+<!ENTITY makeInboxMsgsAvailable.label "Nachricht im Posteingang verfügbar machen, wenn ich offline bin">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
 <!ENTITY offlineGroupTitle.label "Offline">
 <!ENTITY diskspaceGroupTitle.label "Speicherplatz">
 <!ENTITY ftiGroupTitle.label "Globale Suche">
 <!ENTITY fti.indexMsgBodies.label "Nachrichtentexte indexieren">
-<!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Local directory:">
+<!ENTITY newsrcFilePath.label "newsrc-Datei:">
+<!ENTITY newsrcFilePath.accesskey "n">
+<!ENTITY localPath.label "Lokales Verzeichnis:">
 <!ENTITY localPath.accesskey "L">
 <!ENTITY localFolderPicker.label "Lokales Verzeichnis wählen:">
-<!ENTITY browseFolder.label "Browse...">
-<!ENTITY browseFolder.accesskey "B">
+<!ENTITY browseFolder.label "Verzeichnis wählen…">
+<!ENTITY browseFolder.accesskey "V">
 <!ENTITY newsrcPicker.label "newsrc-Datei auswählen">
-<!ENTITY browseNewsrc.label "Browse...">
+<!ENTITY browseNewsrc.label "Verzeichnis wählen…">
 <!ENTITY browseNewsrc.accesskey "e">
 

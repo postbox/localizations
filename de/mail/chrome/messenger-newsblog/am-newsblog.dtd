@@ -1,7 +1,7 @@
 <!ENTITY newsblogTitle.label "RSS Konto Einstellungen">
 
-<!ENTITY indexMsgBodies.label "Index message bodies">
-<!ENTITY indexMsgBodies.accesskey "I">
+<!ENTITY indexMsgBodies.label "Nachrichtentexte indexieren">
+<!ENTITY indexMsgBodies.accesskey "i">
 
 <!ENTITY biffStart.label "Neue Artikel alle">
 <!ENTITY biffStart.accesskey "N">

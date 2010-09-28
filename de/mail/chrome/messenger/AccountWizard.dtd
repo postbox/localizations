@@ -106,7 +106,7 @@
 <!ENTITY accnameTitle.label "Konten-Bezeichnung">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Geben Sie eine Bezeichnung für das Konto ein, mit der das Konto im Programm erscheinen soll (zum Beispiel &quot;Arbeits-Konto&quot;, &quot;Privat-Konto&quot; oder &quot;News-Konto&quot;).">
-<!ENTITY accnameExample.label "For example, Work Account, Home Account or News Account">
+<!ENTITY accnameExample.label "Zum Beispiel Arbeitskonto, Private E-Mails oder Newskonto">
 <!ENTITY accnameLabel.label "Konten-Bezeichnung:">
 <!ENTITY accnameLabel.accesskey "K">
 

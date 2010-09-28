@@ -15,13 +15,13 @@
 <!ENTITY saveMessageDlg.label "Bestätigungsdialog beim Speichern von Nachrichten anzeigen">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY sentFolderOn1.label "Gesendet:">
 <!ENTITY sentFolderOn1.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Anderer Ordner:">
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn1.label "Drafts:">
-<!ENTITY draftsFolderOn1.accesskey "D">
+<!ENTITY draftsFolderOn1.label "Entwürfe:">
+<!ENTITY draftsFolderOn1.accesskey "E">
 <!ENTITY draftInOtherFolder.label "Anderer Ordner:">
 <!ENTITY draftInOtherFolder.accesskey "n">
 <!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
@@ -40,5 +40,5 @@
 
 <!ENTITY pbSentSettings.label "Gesendet">
 <!ENTITY pbDraftsSettings.label "Entwürfe">
-<!ENTITY pbArchiveSettings.label "Archive">
+<!ENTITY pbArchiveSettings.label "Archivieren">
 <!ENTITY pbTemplatesSettings.label "Vorlagen">

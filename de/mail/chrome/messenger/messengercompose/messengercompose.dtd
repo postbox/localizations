@@ -207,7 +207,7 @@
 <!ENTITY copyButton.tooltip             "Kopieren">
 <!ENTITY pasteButton.tooltip            "Einfügen">
 <!ENTITY tagButton.tooltip "Begriff(e) zur Nachricht hinzufügen">
-<!ENTITY signatureButton.tooltip "Insert a signature">
+<!ENTITY signatureButton.tooltip "Eine Signatur einfügen">
 
 <!-- Headers -->
 <!ENTITY fromHeader.label "Von">
@@ -283,8 +283,8 @@
 <!ENTITY attachFile.accesskey "D">
 <!ENTITY attachPage.label "Webseite anhängen…">
 <!ENTITY attachPage.accesskey "W">
-<!ENTITY editSignatures.label "Edit Signatures...">
-<!ENTITY newSignature.label "New Signature...">
+<!ENTITY editSignatures.label "Signaturen bearbeiten...">
+<!ENTITY newSignature.label "Neue Signatur...">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakte">

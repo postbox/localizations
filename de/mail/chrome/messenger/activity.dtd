@@ -6,8 +6,8 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Aktivitäten">
 
-<!ENTITY cmd.pause.label                  "Pause">
-<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.pause.label                  "Anhalten">
+<!ENTITY cmd.pause.accesskey              "A">
 <!ENTITY cmd.resume.label                 "Fortsetzen">
 <!ENTITY cmd.resume.accesskey             "F">
 <!ENTITY cmd.cancel.label                 "Abbrechen">
