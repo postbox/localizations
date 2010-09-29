@@ -1,8 +1,8 @@
 
 <!ENTITY  prefWindow.titleWin     "Opties">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName;-voorkeuren">
-<!ENTITY  prefWindow.styleWindows "width: 61em; min-height: 38.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 56em;">
+<!ENTITY  prefWindow.styleWindows "width: 63em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 58em;">
 <!ENTITY  prefWindow.styleUnix    "width: 42em;">
 
 <!ENTITY paneGeneral.title        "Algemeen">
