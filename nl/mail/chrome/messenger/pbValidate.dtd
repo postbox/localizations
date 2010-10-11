@@ -4,7 +4,7 @@
 <!ENTITY enterLicenseTitle.label "Geef Postbox Licentiesleutel op">
 <!ENTITY enterLicenseInfo.label "Voer hieronder uw naam en licentiesleutel in:">
 <!ENTITY invalidLicense.label "Bijna klaar... Voer uw naam en licentiesleutel exact in zoals deze in de licentiemail vermeld staan.">
-<!ENTITY invalidLicenseVersion.label "This license key will not work with this version of Postbox.  Please upgrade to the most current version.">
+<!ENTITY invalidLicenseVersion.label "Deze licentiesleutel is niet geldig voor deze versie van Postbox. Voer een upgrade uit naar de nieuwste versie.">
 
 <!ENTITY changeLicenseTitle.label "Postbox Licentie Sleutel">
 <!ENTITY changeLicenseInfo.label "Deze kopie van Postbox is gelicenceerd aan:">
