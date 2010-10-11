@@ -282,8 +282,8 @@
 <!ENTITY goBackCmd.label "Zurück">
 <!ENTITY goBackCmd.accesskey "Z">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goToFolderCmd.label "Quick Switch">
-<!ENTITY goToFolderCmd.accesskey "Q">
+<!ENTITY goToFolderCmd.label "Zu Ordner wechseln">
+<!ENTITY goToFolderCmd.accesskey "O">
 <!ENTITY prevStarredMsgCmd.label "Gekennzeichnete Nachricht">
 <!ENTITY prevStarredMsgCmd.accesskey "G">
 <!ENTITY startPageCmd1.label "Home">
