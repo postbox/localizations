@@ -67,3 +67,25 @@
 <!ENTITY editSignatureButton.accesskey   "e">
 <!ENTITY removeSignatureButton.label    "Verwijderen">
 <!ENTITY removeSignatureButton.accesskey "V">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pb.quotingConversationsSortOrder.description "When summarizing on reply, quote messages:">
+<!ENTITY pb.quickreply.reply.label "Reply">
+<!ENTITY pbPhotosForConversations.label "Include contact photos for each participant when summarizing on reply">
+<!ENTITY pb.QuickReply.label "Default Quick Reply to:">
+<!ENTITY pb.quickreply.replyall.label "Reply All">
+<!ENTITY pb.quotingConversationsSortOrderNewest.accesskey "w">
+<!ENTITY pb.QuickReply.accesskey "Q">
+<!ENTITY pb.quickreply.reply.accesskey "y">
+<!ENTITY pbNumConversationsToQuote.label "Include at most">
+<!ENTITY pb.quotingConversationsSortOrderOldest.accesskey "e">
+<!ENTITY pb.quickreply.replyall.accesskey "e">
+<!ENTITY pbPhotosForConversations.accesskey "I">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing on reply">
+<!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
+<!ENTITY pbItemAdvanced.label "Advanced">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">

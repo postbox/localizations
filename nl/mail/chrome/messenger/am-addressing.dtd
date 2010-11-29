@@ -34,3 +34,14 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Handtekening bijvoegen in doorgestuurde mails">
 <!ENTITY includeSigOnForward.accesskey        "H">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
+<!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
+<!ENTITY pbSummarizeOnReply.accesskey         "y">
+<!ENTITY pbSummarizeOnReply.label             "By">
+<!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">

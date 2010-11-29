@@ -317,3 +317,23 @@
 <!ENTITY pbComposeSidebar.accesskey "S">
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbQuoteConversationButton.label  "Summarize">
+<!ENTITY pbToggleReplyQuotingMode.key   "O">
+<!ENTITY pbQuoteMessageButton.label       "Quote">
+<!ENTITY pbToggleReplyRecipients.key "R">
+<!ENTITY pbReplyButton.label       "Reply">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY quickLookAttachment.label "Quick Look">
+<!ENTITY pbReplyAllButton.tooltiptext    "Reply to all recipients for selected message">
+<!ENTITY pbReplyAllButton.label    "Reply All">
+<!ENTITY pbToggleReplyQuotingMode.accesskey   "u">
+<!ENTITY quickLookAttachment.accesskey "Q">
+<!ENTITY pbQuoteConversationButton.tooltiptext "Summarize the conversation">
+<!ENTITY pbQuoteMessageButton.tooltiptext "Quote the selected message">
+<!ENTITY pbToggleReplyRecipients.accesskey "R">
