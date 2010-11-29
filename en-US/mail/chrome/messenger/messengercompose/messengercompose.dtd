@@ -72,6 +72,7 @@
 <!ENTITY pasteCmd.label "Paste">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Rewrap">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -114,8 +115,8 @@
 <!ENTITY checkSpellingCmd.accesskey "h">
 <!ENTITY enableInlineSpellChecker.label "Spell Check As You Type">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY quoteCmd.label "Quote Message">
-<!ENTITY quoteCmd.accesskey "Q">
+<!ENTITY quoteCmd.label "Insert Selected Message">
+<!ENTITY quoteCmd.accesskey "t">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Attach Personal Card (vCard)">
@@ -187,7 +188,7 @@
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Send">
-<!ENTITY quoteButton.label "Quote">
+<!ENTITY quoteButton.label "Insert Message">
 <!ENTITY addressButton.label "Contacts">
 <!ENTITY attachButton.label "Attach">
 <!ENTITY spellingButton.label "Spelling">
@@ -199,7 +200,7 @@
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Send this message now"> 
 <!ENTITY sendlaterButton.tooltip "Send this message later"> 
-<!ENTITY quoteButton.tooltip "Quote the previous message"> 
+<!ENTITY quoteButton.tooltip "Insert the selected message"> 
 <!ENTITY addressButton.tooltip "Select a recipient from an Address Book"> 
 <!ENTITY attachButton.tooltip "Include an attachment"> 
 <!ENTITY saveButton.tooltip "Save this message"> 
@@ -225,8 +226,6 @@
 <!ENTITY tagHeader.label "Topics">
 <!ENTITY tagHeader.accesskey "o">
 <!ENTITY tagMessageButton.tooltip     "Assign topic(s) to the message.">
-<!ENTITY compose.todo.label "To-Do">
-<!ENTITY compose.todo.tooltip "Make this message a To-Do">
 <!ENTITY compose.addresses.label "Addresses">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -275,6 +274,8 @@
 
 <!ENTITY openAttachment.label "Open">
 <!ENTITY openAttachment.accesskey "O">
+<!ENTITY quickLookAttachment.label "Quick Look">
+<!ENTITY quickLookAttachment.accesskey "Q">
 <!ENTITY delete.label "Delete">
 <!ENTITY delete.accesskey "D">
 <!ENTITY selectAll.label "Select All">
@@ -317,3 +318,16 @@
 <!ENTITY pbComposeSidebar.accesskey "S">
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">
+<!ENTITY pbReplyButton.label       "Reply">
+<!ENTITY pbReplyAllButton.tooltiptext    "Reply to sender of selected message">
+<!ENTITY pbReplyAllButton.label    "Reply All">
+<!ENTITY pbReplyAllButton.tooltiptext    "Reply to all recipients for selected message">
+<!ENTITY pbToggleReplyRecipients.accesskey "R">
+<!ENTITY pbToggleReplyRecipients.key "R">
+
+<!ENTITY pbQuoteMessageButton.label       "Quote">
+<!ENTITY pbQuoteMessageButton.tooltiptext "Quote the selected message">
+<!ENTITY pbQuoteConversationButton.label  "Summarize">
+<!ENTITY pbQuoteConversationButton.tooltiptext "Summarize the conversation">
+<!ENTITY pbToggleReplyQuotingMode.accesskey   "u">
+<!ENTITY pbToggleReplyQuotingMode.key   "O">
