@@ -69,9 +69,7 @@
 <!ENTITY removeSignatureButton.accesskey "l">
 
 <!ENTITY pbItemAdvanced.label "Advanced">
-<!ENTITY pbPhotosForConversations.label "Include contact photos for each participant when summarizing on reply">
-<!ENTITY pbPhotosForConversations.accesskey "I">
-<!ENTITY pb.quotingConversationsSortOrder.description "When summarizing on reply, quote messages:">
+<!ENTITY pb.quotingConversationsSortOrder.description "When summarizing, quote messages:">
 <!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
 <!ENTITY pb.quotingConversationsSortOrderOldest.accesskey "e">
 <!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
@@ -83,4 +81,4 @@
 <!ENTITY pb.quickreply.reply.label "Reply">
 <!ENTITY pb.quickreply.reply.accesskey "y">
 <!ENTITY pbNumConversationsToQuote.label "Include at most">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing on reply">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing">

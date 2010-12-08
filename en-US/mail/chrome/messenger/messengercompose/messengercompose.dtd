@@ -188,7 +188,7 @@
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Send">
-<!ENTITY quoteButton.label "Insert Message">
+<!ENTITY quoteButton.label "Insert Quote">
 <!ENTITY addressButton.label "Contacts">
 <!ENTITY attachButton.label "Attach">
 <!ENTITY spellingButton.label "Spelling">
