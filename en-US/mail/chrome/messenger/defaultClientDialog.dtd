@@ -9,4 +9,5 @@
 <!ENTITY checkOnStartup.accesskey "A">
 
 <!ENTITY pb.defaultClient.OSX.desc "Note: &brandShortName; must be set as your default mail client to interoperate with iCal, iPhoto, and Safari. ">
+<!ENTITY pb.defaultClient.OSX.appstore.desc "Note: &brandShortName; must be set as your default mail client to interoperate with Safari. ">
 <!ENTITY pb.macDefaultClientDialog.size "width: 35em;">
