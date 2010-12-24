@@ -10,3 +10,9 @@
 
 <!ENTITY pb.defaultClient.OSX.desc "Примечание: &brandShortName; должен быть установлен в качестве почтового клиента по умолчанию для взаимодействия с iCal, iPhoto и Safari. ">
 <!ENTITY pb.macDefaultClientDialog.size "width: 35em;">
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pb.defaultClient.OSX.appstore.desc "Note: &brandShortName; must be set as your default mail client to interoperate with Safari. ">

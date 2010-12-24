@@ -10,3 +10,9 @@
 
 <!ENTITY pb.defaultClient.OSX.desc "Hinweis: &brandShortName; muss Standard-Mail-Anwendung sein, um mit iCal, iPhoto und Safari zusammenzuarbeiten. ">
 <!ENTITY pb.macDefaultClientDialog.size "width: 35em;">
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pb.defaultClient.OSX.appstore.desc "Note: &brandShortName; must be set as your default mail client to interoperate with Safari. ">
