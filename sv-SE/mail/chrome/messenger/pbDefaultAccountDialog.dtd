@@ -1,0 +1,5 @@
+<!ENTITY defaultAccount.title  "Default Account">
+<!ENTITY defaultAccount.intro  "Select your default account:">
+
+<!ENTITY defaultAccount.desc   "Postbox Free supports one email account.  Upgrade to Postbox to use multiple accounts.">
+<!ENTITY pb.macDefaultAccountDialog.size "width: 35em;">
