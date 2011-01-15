@@ -286,8 +286,8 @@
 <!ENTITY goToFolderCmd.accesskey "Q">
 <!ENTITY prevStarredMsgCmd.label "Messaggio speciale">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
-<!ENTITY startPageCmd1.label "Home">
-<!ENTITY startPageCmd1.accesskey "H">
+<!ENTITY startPageCmd1.label "Inizio">
+<!ENTITY startPageCmd1.accesskey "I">
 <!ENTITY msgMenu.label "Messaggio">
 <!ENTITY msgMenu.accesskey "e">
 <!ENTITY newMsgCmd.label "Nuovo messaggio">
@@ -338,7 +338,7 @@
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Tieni d'occhio la discussione">
 <!ENTITY watchThreadMenu.accesskey "o">
-<!ENTITY watchThreadMenu.key "O">
+<!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "Sposta qua">
 <!ENTITY fileHereMenu.accesskey "a">
 <!ENTITY copyHereMenu.label "Copia qua">
@@ -679,10 +679,10 @@
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Servizi">
 <!ENTITY hideThisAppCmdMac.label        "Nascondi &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "N">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "Nascondi gli altri">
-<!ENTITY hideOtherAppsCmdMac.commandkey "s">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Mostra tutto">
 

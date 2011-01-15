@@ -76,7 +76,7 @@
 <!ENTITY tagButton.tooltip "Aggiungi un argomento ai messaggi">
 <!ENTITY newTaskButton.tooltip "Crea una nuova attività">
 <!ENTITY newTaskButton.label "Nuova Attività">
-<!ENTITY pbToolbarButton-home.label "Casa">
+<!ENTITY pbToolbarButton-home.label "Inizio">
 <!ENTITY pbToolbarButton-home.tooltip "Riportami alla mia &quot;Posta in Arrivo&quot; ed elimina qualsiasi criterio di ricerca">
 <!ENTITY pbToolbarButton-promote.label   "Invio">
 <!ENTITY pbToolbarButton-promote.tooltip   "Pubblica un messaggio sul Web">
