@@ -14,8 +14,6 @@
 
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Size:">
-<!ENTITY size.accesskey                       "z">
 <!ENTITY fontColor.label                      "Text Color:">
 <!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "Background Color:">
@@ -82,3 +80,5 @@
 <!ENTITY pb.quickreply.reply.accesskey "y">
 <!ENTITY pbNumConversationsToQuote.label "Include at most">
 <!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing">
+
+<!ENTITY pbDefaultFonSize.label                           "default">

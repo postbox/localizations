@@ -89,3 +89,10 @@ entities below were automatically added by l10nmerge
 <!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
 <!ENTITY pbItemAdvanced.label "Advanced">
 <!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbDefaultFonSize.label                           "default">
