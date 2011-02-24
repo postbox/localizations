@@ -1,0 +1,40 @@
+<!ENTITY aboutSupport.pageTitle "Informationen zur Fehlerbehebung">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Diese Seite beinhaltet technische Informationen, die nützlich sein könnten, 
+  wenn Sie versuchen, ein Problem zu lösen. Wenn Sie nach Antworten auf häufig 
+  gestellten Fragen zu &brandShortName; suchen, besuchen Sie bitte unsere  <a id='supportLink'>Hilfeseite</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Erweiterungen">
+<!ENTITY aboutSupport.extensionName "Name">
+<!ENTITY aboutSupport.extensionEnabled "Aktiviert">
+<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Allgemeine Informationen">
+<!ENTITY aboutSupport.appBasicsName "Name">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profilordner">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivierte Plugins">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Build-Konfiguration">
+<!ENTITY aboutSupport.appBasicsUserAgent "User-Agent">
+
+<!ENTITY aboutSupport.show.label "Beinhaltenden Ordner anzeigen">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Im Finder anzeigen">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Modifizierte Einstellungen">
+<!ENTITY aboutSupport.modifiedPrefsName "Name">
+<!ENTITY aboutSupport.modifiedPrefsValue "Wert">
+
+<!ENTITY aboutSupport.graphicsTitle "Grafik">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Installations-Chronik">
+<!ENTITY aboutSupport.updateHistoryTitle "Update-Chronik">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Alles in die Zwischenablage kopieren">

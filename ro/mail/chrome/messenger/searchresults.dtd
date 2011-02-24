@@ -82,3 +82,10 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY location.placeholder                        "City, State or ZIP">

@@ -17,3 +17,10 @@
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Choose…">
 <!ENTITY chooseFolderMac.accesskey    "C">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY  filter.placeholder            "Search">
