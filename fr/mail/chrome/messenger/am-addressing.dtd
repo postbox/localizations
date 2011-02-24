@@ -37,7 +37,7 @@
 
 
 <!--
-entities below were automatically added by l10nmerge
+# entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
@@ -48,7 +48,7 @@ entities below were automatically added by l10nmerge
 
 
 <!--
-entities below were automatically added by l10nmerge
+# entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pbSummarizeOnReply.photos.label       "Include contact photos for each participant when summarizing">

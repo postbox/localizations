@@ -60,7 +60,7 @@
 <!ENTITY composeLanguagesTitle.label            "Character Encoding:">
 
 <!--
-entities below were automatically added by l10nmerge
+# entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY removeSignatureButton.accesskey "l">
@@ -73,7 +73,7 @@ entities below were automatically added by l10nmerge
 
 
 <!--
-entities below were automatically added by l10nmerge
+# entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pb.quotingConversationsSortOrder.description "When summarizing on reply, quote messages:">
@@ -95,7 +95,7 @@ entities below were automatically added by l10nmerge
 
 
 <!--
-entities below were automatically added by l10nmerge
+# entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pbDefaultFonSize.label                           "default">

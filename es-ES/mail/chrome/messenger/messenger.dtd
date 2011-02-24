@@ -695,7 +695,7 @@
 
 
 <!--
-entities below were automatically added by l10nmerge
+# entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pbkey_goHomeMac.key "H">
@@ -703,7 +703,7 @@ entities below were automatically added by l10nmerge
 
 
 <!--
-entities below were automatically added by l10nmerge
+# entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY goToFolderCmd.accesskey "Q">

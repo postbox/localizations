@@ -27,7 +27,7 @@
 
 
 <!--
-entities below were automatically added by l10nmerge
+# entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY invalidLicenseVersion.label "This license key will not work with this version of Postbox.  Please upgrade to the most current version.">
