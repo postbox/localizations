@@ -1,11 +1,11 @@
 <!ENTITY autoconfigWizard.title          "Mail Account Setup">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "First and Last Name">
+<!ENTITY name.placeholder                  "First and Last Name">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY email.placeholder                 "email@example.com">
 <!ENTITY password.label                  "Password:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.emptytext              "Password">
+<!ENTITY password.placeholder              "Password">
 <!ENTITY password.text                   "Optional, will only be used to validate the username">
 
 <!ENTITY accountInformation.label        "Account Information">

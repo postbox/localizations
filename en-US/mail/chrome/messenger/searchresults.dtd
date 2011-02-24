@@ -54,7 +54,7 @@
 
 <!ENTITY searchBar-options.tooltip                 "Show search options">
 <!ENTITY location.label                            "Near:">
-<!ENTITY location.emptytext                        "City, State or ZIP">
+<!ENTITY location.placeholder                        "City, State or ZIP">
 <!ENTITY flickr.private.tooltip                    "Only you can see this photo on flickr.com">
 
 <!-- for rich search in compose -->
