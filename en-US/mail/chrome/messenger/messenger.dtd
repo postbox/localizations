@@ -362,6 +362,10 @@
 <!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "As Unread">
 <!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markAsPendingCmd.label "As Pending">
+<!ENTITY markAsPendingCmd.accesskey "P">
+<!ENTITY markAsNotPendingCmd.label "As Not Pending">
+<!ENTITY markAsNotPendingCmd.accesskey "g">
 <!ENTITY markThreadAsReadCmd.label "Thread As Read">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -373,6 +377,9 @@
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "As To-Do">
 <!ENTITY markStarredCmd.accesskey "T">
+<!ENTITY markUnStarredCmd.label "As Not To-Do">
+<!ENTITY markUnStarredCmd.accesskey "N">
+
 <!-- keep as s, because t is taken by topic/tag -->
 <!ENTITY markStarredCmd.key "s">
 <!ENTITY markAsJunkCmd.label "As Junk">
@@ -589,7 +596,7 @@
 <!ENTITY contextOpenNewTab.accesskey "g">
 <!ENTITY contextEditMsg.label "Edit...">
 <!ENTITY contextEditMsg.accesskey "i">
-<!ENTITY contextEditAsNew1.label "Resend...">
+<!ENTITY contextEditAsNew1.label "Resend">
 <!ENTITY contextEditAsNew1.accesskey "e">
 <!ENTITY contextReplySender.label "Reply">
 <!ENTITY contextReplySender.accesskey "R">
