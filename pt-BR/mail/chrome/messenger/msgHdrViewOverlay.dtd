@@ -96,3 +96,10 @@
 <!ENTITY pbMsgHdrView.conversationMsgReply.label "reply">
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "reply all">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "forward">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbMsgHdrView.loadingMessageBody.label "Loading...">

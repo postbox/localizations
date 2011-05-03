@@ -337,3 +337,34 @@
 <!ENTITY pbQuoteConversationButton.tooltiptext "Summarize the conversation">
 <!ENTITY pbQuoteMessageButton.tooltiptext "Quote the selected message">
 <!ENTITY pbToggleReplyRecipients.accesskey "R">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbShowNewsgroupsField.accesskey "N">
+<!ENTITY pbShowBccField.accesskey "B">
+<!ENTITY pbBubbleContextMenu-edit.label        "Edit Address">
+<!ENTITY pbShowReplyField.accesskey "R">
+<!ENTITY pbShowBccField.label "Bcc Address Field">
+<!ENTITY pbShowReplyField.label "Reply-To Address Field">
+<!ENTITY pbBubbleContextMenu-copy.label        "Copy Address">
+<!ENTITY pbShowCcField.accesskey "C">
+<!ENTITY pbShowFollowupField.accesskey "o">
+<!ENTITY pbShowNewsgroupsField.label "Newsgroups Address Field">
+<!ENTITY pbShowFollowupField.label "Followup-To Address Field">
+<!ENTITY pbShowCcField.label "Cc Address Field">
+<!ENTITY pbBubbleContextMenu-remove.label      "Remove Address">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbShowCcField.key "c">
+<!ENTITY pbBubbleContextMenu-open.label        "Open in Address Book">
+<!ENTITY pbShowBccField.key "b">
+<!ENTITY pbShowReplyField.key "r">
+<!ENTITY pbBubbleContextMenu-add.label         "Add to Address Book">
+<!ENTITY compose-sidebar-default-width            "302">

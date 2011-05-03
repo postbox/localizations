@@ -337,3 +337,15 @@
 <!ENTITY pbKeyboardShortCuts.accesskey "k">
 <!ENTITY guideCmd.label "Kurzanleitung">
 <!ENTITY guideCmd.accesskey "r">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbSortDescendingContextMenuItem.accesskey "D">
+<!ENTITY pbSortDescendingContextMenuItem.label "Descending Order">
+<!ENTITY showPanes.accesskey "w">
+<!ENTITY showPanes.label "Show">
+<!ENTITY pbSortAscendingContextMenuItem.accesskey "A">
+<!ENTITY pbSortAscendingContextMenuItem.label "Ascending Order">
