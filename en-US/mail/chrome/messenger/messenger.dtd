@@ -9,7 +9,7 @@
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Close Tab">
 <!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY newVirtualFolderCmd.label "Saved Search...">
+<!ENTITY newVirtualFolderCmd.label "Smart Folder...">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "Other Accounts…">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
@@ -32,10 +32,10 @@
 <!ENTITY getNewMsgCmd.label "Get New Messages">
 <!ENTITY getNewMsgCmd.accesskey "G">
 <!ENTITY getNewMsgCmd.key "t">
-<!ENTITY getNewMsgForCmd.label "Get New Messages for">
+<!ENTITY getNewMsgForCmd.label "Download New Messages for">
 <!ENTITY getNewMsgForCmd.accesskey "w">
-<!ENTITY getAllNewMsgCmd.label "Get All New Messages">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd.label "Download All New Messages">
+<!ENTITY getAllNewMsgCmd.key "w">
 <!ENTITY getNextNMsgCmd.label "Get Next 500 News Messages">
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Send Unsent Messages">
@@ -59,9 +59,9 @@
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "Offline Settings...">
 <!ENTITY settingsOfflineCmd.accesskey "e">
-<!ENTITY downloadSelectedCmd.label "Get Selected Messages">
+<!ENTITY downloadSelectedCmd.label "Download Selected Messages">
 <!ENTITY downloadSelectedCmd.accesskey "l">
-<!ENTITY downloadStarredCmd.label "Get To-Dos">
+<!ENTITY downloadStarredCmd.label "Download To-Dos">
 <!ENTITY downloadStarredCmd.accesskey "t">
 <!ENTITY printCmd.label "Print...">
 <!ENTITY printCmd.accesskey "P">
@@ -631,9 +631,16 @@
 
 <!ENTITY junkInfoButton.label "?">
 
-<!-- Remote Content Blocker Options -->
-<!ENTITY remoteContentPopupAllow.label "Load remote images for this message only">
-<!ENTITY remoteContentPopupAllow.accesskey "A">
+<!-- Action Options -->
+<!ENTITY messageHeader.expand.label                 "Expand">
+<!ENTITY messageHeader.collapse.label               "Collapse">
+<!ENTITY messageHeader.editMessageButton.label      "Edit">
+<!ENTITY messageHeader.gatherMessageButton.label    "Show All">
+<!ENTITY messageHeader.tagMessageButton.tooltip     "Assign topic(s) to the message.">
+<!ENTITY messageHeader.reply.label                  "Reply">
+<!ENTITY messageHeader.quickreply.tooltip           "Quick Reply to the message.">
+<!ENTITY messageHeader.replyAll.label               "Reply All">
+<!ENTITY messageHeader.forward.label                "Forward">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label " more...">

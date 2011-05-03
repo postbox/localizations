@@ -101,15 +101,18 @@
 <!ENTITY customizeToolbar.accesskey "T">
 <!ENTITY showFormatToolbarCmd.label "Formatting Toolbar">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
-<!ENTITY pbShowCcField.label "Cc Address Field">
+<!ENTITY pbShowCcField.label "Cc Field">
 <!ENTITY pbShowCcField.accesskey "C">
-<!ENTITY pbShowBccField.label "Bcc Address Field">
+<!ENTITY pbShowCcField.key "c">
+<!ENTITY pbShowBccField.label "Bcc Field">
 <!ENTITY pbShowBccField.accesskey "B">
-<!ENTITY pbShowReplyField.label "Reply-To Address Field">
+<!ENTITY pbShowBccField.key "b">
+<!ENTITY pbShowReplyField.label "Reply-To Field">
 <!ENTITY pbShowReplyField.accesskey "R">
-<!ENTITY pbShowNewsgroupsField.label "Newsgroups Address Field">
+<!ENTITY pbShowReplyField.key "r">
+<!ENTITY pbShowNewsgroupsField.label "Newsgroups Field">
 <!ENTITY pbShowNewsgroupsField.accesskey "N"> 
-<!ENTITY pbShowFollowupField.label "Followup-To Address Field">
+<!ENTITY pbShowFollowupField.label "Followup-To Field">
 <!ENTITY pbShowFollowupField.accesskey "o">
 
 <!-- Format Menu -->
@@ -221,19 +224,19 @@
 <!ENTITY signatureButton.tooltip "Insert a signature">
 
 <!-- Headers -->
-<!ENTITY fromHeader.label "From">
+<!ENTITY fromHeader.label "From:">
 <!ENTITY fromHeader.accesskey "r">
-<!ENTITY subjectHeader.label "Subject">
+<!ENTITY subjectHeader.label "Subject:">
 <!ENTITY subjectHeader.accesskey "S">
-<!ENTITY toAddr.label "To"> 
-<!ENTITY ccAddr.label "Cc"> 
-<!ENTITY bccAddr.label "Bcc"> 
-<!ENTITY replyAddr.label "Reply-To"> 
-<!ENTITY newsgroupsAddr.label "Newsgroup"> 
-<!ENTITY followupAddr.label "Followup-To"> 
+<!ENTITY toAddr.label "To:"> 
+<!ENTITY ccAddr.label "Cc:"> 
+<!ENTITY bccAddr.label "Bcc:"> 
+<!ENTITY replyAddr.label "Reply-To:"> 
+<!ENTITY newsgroupsAddr.label "Newsgroup:"> 
+<!ENTITY followupAddr.label "Followup-To:"> 
 <!ENTITY attachmentsHeader.label "Attachments">
 <!ENTITY attachmentsHeader.accesskey "e">
-<!ENTITY tagHeader.label "Topics">
+<!ENTITY tagHeader.label "Topics:">
 <!ENTITY tagHeader.accesskey "o">
 <!ENTITY tagMessageButton.tooltip     "Assign topic(s) to the message.">
 <!ENTITY compose.addresses.label "Addresses">
@@ -310,7 +313,7 @@
 
 <!-- this is an entity because it can vary by locale, and which type has the most kinds on the locale 
      for en-US, it is "Research", which has "Wikipedia" + "Dictionary" + "Thesaurus" -->
-<!ENTITY compose-alley-default-width            "260">
+<!ENTITY compose-sidebar-default-width            "302">
 
 <!-- topic context menu -->
 <!ENTITY pbTopicContextMenu-edit.label         "Edit">
@@ -326,6 +329,8 @@
 <!ENTITY pbBubbleContextMenu-remove.label      "Remove Address">
 <!ENTITY pbBubbleContextMenu-copy.label        "Copy Address">
 <!ENTITY pbBubbleContextMenu-edit.label        "Edit Address">
+<!ENTITY pbBubbleContextMenu-open.label        "Open in Address Book">
+<!ENTITY pbBubbleContextMenu-add.label         "Add to Address Book">
 
 
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML">

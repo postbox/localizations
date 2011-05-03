@@ -29,8 +29,8 @@
 <!-- View Menu -->
 <!ENTITY pinStarredMessages.label "Pin To-Dos">
 <!ENTITY pinStarredMessages.accesskey "P">
-<!ENTITY showConversations.label "Show Conversations">
-<!ENTITY showConversations.accesskey "h">
+<!ENTITY showConversations.label "Organize by Thread">
+<!ENTITY showConversations.accesskey "O">
 <!ENTITY viewMenuShowMessages.label        "Messages">
 <!ENTITY viewMenuShowMessages.accesskey    "m">
 <!ENTITY key_showMessages.key              "m">
@@ -54,14 +54,14 @@
 <!ENTITY pbMessagePaneMac.key "E">
 <!ENTITY showInspectorPaneCmd.label "Inspector Pane">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
-<!ENTITY pbViewConverationsMenu.label "Conversations">
-<!ENTITY pbViewConverationsMenu.accesskey "v">
 <!ENTITY pbExpandConversationMsgs.label "Expand Conversation">
 <!ENTITY pbExpandConversationMsgs.accesskey "x">
 <!ENTITY pbExpandConversationMsgs.key "o">
 <!ENTITY pbCollapseConversationMsgs.label "Collapse Conversation">
 <!ENTITY pbCollapseConversationMsgs.accesskey "n">
 <!ENTITY pbCollapseConversationMsgs.key "o">
+<!ENTITY showPanes.label "Show">
+<!ENTITY showPanes.accesskey "w">
 
 <!-- Mail Toolbar -->
 <!ENTITY tagButton.label "Assign Topic">
@@ -298,6 +298,12 @@
 <!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Send to Inbox">
 <!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "i">
 
+<!-- Vertical view sort by context menu -->
+<!ENTITY pbSortAscendingContextMenuItem.label "Ascending Order">
+<!ENTITY pbSortAscendingContextMenuItem.accesskey "A">
+<!ENTITY pbSortDescendingContextMenuItem.label "Descending Order">
+<!ENTITY pbSortDescendingContextMenuItem.accesskey "D">
+
 <!-- message pane context menu -->
 <!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Send to Inbox">
 <!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
@@ -337,3 +343,4 @@
 <!ENTITY pbKeyboardShortCuts.accesskey "K">
 <!ENTITY guideCmd.label "Quickstart Guide">
 <!ENTITY guideCmd.accesskey "r">
+
