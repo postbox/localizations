@@ -33,3 +33,10 @@
 <!ENTITY contribute.getInvolvedLink "Get involved!">
 <!ENTITY bottomLinks.rights         "End User Rights">
 <!ENTITY update.failed.start        "Update failed. ">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY productDescription.label    "Hand-crafted, and made with love, in San Francisco, Califorrnia.">

@@ -735,3 +735,11 @@
 <!ENTITY messageHeader.forward.label                "Forward">
 <!ENTITY messageHeader.replyAll.label               "Reply All">
 <!ENTITY messageHeader.reply.label                  "Reply">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY messageHeader.showRelated.label            "Show Related">
+<!ENTITY messageHeader.assignTopic.label            "Assign Topic">
