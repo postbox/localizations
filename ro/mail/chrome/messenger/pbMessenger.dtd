@@ -383,3 +383,19 @@ entities below were automatically added by l10nmerge
 <!ENTITY showPanes.label "Show">
 <!ENTITY pbSortAscendingContextMenuItem.accesskey "A">
 <!ENTITY pbSortAscendingContextMenuItem.label "Ascending Order">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Apply or remove bulleted or numbered list">
+<!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insert HTML or edit selected HTML">
+<!ENTITY listBulletMsgToolbarCmd.label               "Bulleted">
+<!ENTITY indentEditMsgToolbarCmd.tooltip             "Indent text (move right)">
+<!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
+<!ENTITY listNumberedMsgToolbarCmd.label             "Numbered">
+<!ENTITY noneMsgToolbarCmd.label                     "None">
+<!ENTITY listbulletMsgToolbarCmd.accesskey           "b">
+<!ENTITY noneMsgToolbarCmd.accesskey                 "N">
+<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Outdent text (move left)">
