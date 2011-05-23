@@ -1,11 +1,11 @@
 <!ENTITY autoconfigWizard.title          "E-mailaccountset-up">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "Voornaam achternaam">
+<!ENTITY name.placeholder                  "Voornaam en achternaam">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.emptytext                 "email.emptytext">
+<!ENTITY email.placeholder                 "email@voorbeeld.nl">
 <!ENTITY password.label                  "Wachtwoord:">
 <!ENTITY password.accesskey              "W">
-<!ENTITY password.emptytext              "Wachtwoord">
+<!ENTITY password.placeholder              "Wachtwoord">
 <!ENTITY password.text                   "Optioneel, wordt alleen gebruikt om de gebruikersnaam te valideren">
 
 <!ENTITY accountInformation.label        "Accountinformatie">
@@ -99,12 +99,3 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 63ch;">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY name.placeholder                  "First and Last Name">
-<!ENTITY email.placeholder                 "email@example.com">
-<!ENTITY password.placeholder              "Password">

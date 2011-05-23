@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Zoeken">
+<!ENTITY  filter.placeholder            "Zoeken">
 
 <!ENTITY saveTo.label                 "Bestanden opslaan in">
 <!ENTITY saveTo.accesskey             "o">
@@ -17,10 +17,3 @@
 <!ENTITY chooseFolderWin.accesskey    "a">
 <!ENTITY chooseFolderMac.label        "Kiezen…">
 <!ENTITY chooseFolderMac.accesskey    "z">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY  filter.placeholder            "Search">

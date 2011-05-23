@@ -36,6 +36,6 @@
 <!ENTITY disableImageInMailNews.accesskey "r">
 
 <!ENTITY pbPrivacy.label "Privacy:">
-<!ENTITY pbJunkMail.label "Junk:">
+<!ENTITY pbJunkMail.label "Ongewenst:">
 <!ENTITY pbPasswords.label "Wachtwoorden:">
 <!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in Account Settings.">

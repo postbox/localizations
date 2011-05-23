@@ -58,16 +58,6 @@
 <!ENTITY pbParticipantsField.label "Deelnemers:">
 <!ENTITY saveAll.label "Alle Opslaan..">
 
-<!ENTITY messageHeader.expand.label                 "Uitvouwen">
-<!ENTITY messageHeader.collapse.label               "Samenvouwen">
-<!ENTITY messageHeader.editMessageButton.label      "Bewerken">
-<!ENTITY messageHeader.gatherMessageButton.label    "Toon alles">
-<!ENTITY messageHeader.tagMessageButton.tooltip     "Label(s) toewijzen aan bericht.">
-<!ENTITY messageHeader.reply.label "Beantwoorden">
-<!ENTITY messageHeader.quickreply.tooltip "Snel Reageren op het bericht.">
-<!ENTITY messageHeader.replyAll.label "Allen beantwoorden">
-<!ENTITY messageHeader.forward.label "Doorsturen">
-
 <!ENTITY openAttachmentCmd.label    "Openen">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Opslaan als…">
@@ -97,9 +87,4 @@
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "alle antwoorden">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "doorsturen">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbMsgHdrView.loadingMessageBody.label "Loading...">
+<!ENTITY pbMsgHdrView.loadingMessageBody.label "Laden...">

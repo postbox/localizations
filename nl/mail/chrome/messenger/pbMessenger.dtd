@@ -54,14 +54,14 @@
 <!ENTITY pbMessagePaneMac.key "E">
 <!ENTITY showInspectorPaneCmd.label "Inspector Venster">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
-<!ENTITY pbViewConverationsMenu.label "Conversaties">
-<!ENTITY pbViewConverationsMenu.accesskey "v">
 <!ENTITY pbExpandConversationMsgs.label "Conversatie uitvouwen">
 <!ENTITY pbExpandConversationMsgs.accesskey "C">
 <!ENTITY pbExpandConversationMsgs.key "o">
 <!ENTITY pbCollapseConversationMsgs.label "Conversatie inklappen">
 <!ENTITY pbCollapseConversationMsgs.accesskey "n">
 <!ENTITY pbCollapseConversationMsgs.key "o">
+<!ENTITY showPanes.label "Weergeven">
+<!ENTITY showPanes.accesskey "W">
 
 <!-- Mail Toolbar -->
 <!ENTITY tagButton.label "Topic toewijzen">
@@ -153,8 +153,16 @@
 <!ENTITY strikethroughEditMsgToolbarCmd.tooltip      "Doorhalen">
 <!ENTITY cropTextEditMsgToolbarCmd.tooltip           "Tekst bijsnijden">
 <!ENTITY insertLinkEditMsgToolbarCmd.tooltip         "Nieuwe koppeling invoegen of eigenschappen van geselecteerde koppeling bewerken">
-<!ENTITY buletListEditMsgToolbarCmd.tooltip          "Opsommingslijst toepassen of verwijderen">
-<!ENTITY numberListEditMsgToolbarCmd.tooltip         "Genummerde lijst toepassen of verwijderen">
+<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Apply or remove bulleted or numbered list">
+<!ENTITY noneMsgToolbarCmd.label                     "None">
+<!ENTITY noneMsgToolbarCmd.accesskey                 "N">
+<!ENTITY listBulletMsgToolbarCmd.label               "Bulleted">
+<!ENTITY listbulletMsgToolbarCmd.accesskey           "b">
+<!ENTITY listNumberedMsgToolbarCmd.label             "Numbered">
+<!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
+<!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insert HTML or edit selected HTML">
+<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Outdent text (move left)">
+<!ENTITY indentEditMsgToolbarCmd.tooltip             "Indent text (move right)">
 
 <!-- inline message editing context menu -->
 <!ENTITY spellAddToDictionary.label                  "Toevoegen aan woordenboek">
@@ -298,6 +306,12 @@
 <!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Stuur naar Inbox">
 <!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "i">
 
+<!-- Vertical view sort by context menu -->
+<!ENTITY pbSortAscendingContextMenuItem.label "Oplopend sorteren">
+<!ENTITY pbSortAscendingContextMenuItem.accesskey "O">
+<!ENTITY pbSortDescendingContextMenuItem.label "Aflopend sorteren">
+<!ENTITY pbSortDescendingContextMenuItem.accesskey "d">
+
 <!-- message pane context menu -->
 <!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Stuur naar Inbox">
 <!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
@@ -338,30 +352,3 @@
 <!ENTITY guideCmd.label "Snelstart handleiding">
 <!ENTITY guideCmd.accesskey "r">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbSortDescendingContextMenuItem.accesskey "D">
-<!ENTITY pbSortDescendingContextMenuItem.label "Descending Order">
-<!ENTITY showPanes.accesskey "w">
-<!ENTITY showPanes.label "Show">
-<!ENTITY pbSortAscendingContextMenuItem.accesskey "A">
-<!ENTITY pbSortAscendingContextMenuItem.label "Ascending Order">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Apply or remove bulleted or numbered list">
-<!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insert HTML or edit selected HTML">
-<!ENTITY listBulletMsgToolbarCmd.label               "Bulleted">
-<!ENTITY indentEditMsgToolbarCmd.tooltip             "Indent text (move right)">
-<!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
-<!ENTITY listNumberedMsgToolbarCmd.label             "Numbered">
-<!ENTITY noneMsgToolbarCmd.label                     "None">
-<!ENTITY listbulletMsgToolbarCmd.accesskey           "b">
-<!ENTITY noneMsgToolbarCmd.accesskey                 "N">
-<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Outdent text (move left)">

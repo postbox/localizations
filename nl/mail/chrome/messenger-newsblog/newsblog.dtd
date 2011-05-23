@@ -2,12 +2,5 @@
 <!ENTITY folderContextRSSSubscribe.label    "Abonneren…">
 <!ENTITY folderContextRSSSubscribe.accesskey   "b">
 
-
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
+<!ENTITY pbAccountTreeContextRSSSubscribe.label "Abonnementen">
 <!ENTITY pbAccountTreeContextRSSSubscribe.accesskey "b">
-<!ENTITY pbAccountTreeContextRSSSubscribe.label "Subscriptions">
