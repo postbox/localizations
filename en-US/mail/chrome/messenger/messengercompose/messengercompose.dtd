@@ -209,6 +209,7 @@
 <!ENTITY tagButton.label "Assign Topic">
 <!ENTITY throbberItem.title "Activity Indicator">
 <!ENTITY signatureButton.label "Signatures">
+<!ENTITY compose.sidebar.label "Sidebar">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Send this message now"> 
@@ -222,6 +223,7 @@
 <!ENTITY pasteButton.tooltip            "Paste">
 <!ENTITY tagButton.tooltip "Add topic(s) to message">
 <!ENTITY signatureButton.tooltip "Insert a signature">
+<!ENTITY compose.sidebar.tooltip "Open the sidebar">
 
 <!-- Headers -->
 <!ENTITY fromHeader.label "From:">
