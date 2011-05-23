@@ -153,8 +153,16 @@
 <!ENTITY strikethroughEditMsgToolbarCmd.tooltip      "Strikethrough">
 <!ENTITY cropTextEditMsgToolbarCmd.tooltip           "Crop Text">
 <!ENTITY insertLinkEditMsgToolbarCmd.tooltip         "Insert new link or edit selected link's properties">
-<!ENTITY buletListEditMsgToolbarCmd.tooltip          "Apply or remove bulleted list">
-<!ENTITY numberListEditMsgToolbarCmd.tooltip         "Apply or remove numbered list">
+<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Apply or remove bulleted or numbered list">
+<!ENTITY noneMsgToolbarCmd.label                     "None">
+<!ENTITY noneMsgToolbarCmd.accesskey                 "N">
+<!ENTITY listBulletMsgToolbarCmd.label               "Bulleted">
+<!ENTITY listbulletMsgToolbarCmd.accesskey           "b">
+<!ENTITY listNumberedMsgToolbarCmd.label             "Numbered">
+<!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
+<!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insert HTML or edit selected HTML">
+<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Outdent text (move left)">
+<!ENTITY indentEditMsgToolbarCmd.tooltip             "Indent text (move right)">
 
 <!-- inline message editing context menu -->
 <!ENTITY spellAddToDictionary.label                  "Add to Dictionary">

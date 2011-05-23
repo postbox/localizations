@@ -234,8 +234,6 @@
 <!ENTITY replyAddr.label "Reply-To:"> 
 <!ENTITY newsgroupsAddr.label "Newsgroup:"> 
 <!ENTITY followupAddr.label "Followup-To:"> 
-<!ENTITY attachmentsHeader.label "Attachments">
-<!ENTITY attachmentsHeader.accesskey "e">
 <!ENTITY tagHeader.label "Topics:">
 <!ENTITY tagHeader.accesskey "o">
 <!ENTITY tagMessageButton.tooltip     "Assign topic(s) to the message.">
@@ -332,8 +330,7 @@
 <!ENTITY pbBubbleContextMenu-open.label        "Open in Address Book">
 <!ENTITY pbBubbleContextMenu-add.label         "Add to Address Book">
 
-
-<!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
+<!ENTITY pbInsertHTMLToolbarCmd.label "Insert HTML or edit selected HTML">
 
 <!ENTITY pbComposeSidebar.label "Sidebar">
 <!ENTITY pbComposeSidebar.accesskey "S">
@@ -352,3 +349,10 @@
 <!ENTITY pbQuoteConversationButton.tooltiptext "Summarize the conversation">
 <!ENTITY pbToggleReplyQuotingMode.accesskey   "u">
 <!ENTITY pbToggleReplyQuotingMode.key   "O">
+
+<!-- Insert Link Dialog -->
+
+<!ENTITY pbInsertLink.label "Enter the Internet address (URL) for this link.">
+<!ENTITY pbInsertLink.accesskey "E">
+
+<!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">

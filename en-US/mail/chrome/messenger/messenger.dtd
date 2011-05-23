@@ -35,7 +35,7 @@
 <!ENTITY getNewMsgForCmd.label "Download New Messages for">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmd.label "Download All New Messages">
-<!ENTITY getAllNewMsgCmd.key "w">
+<!ENTITY getAllNewMsgCmd.key "d">
 <!ENTITY getNextNMsgCmd.label "Get Next 500 News Messages">
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Send Unsent Messages">

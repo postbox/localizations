@@ -213,7 +213,7 @@
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "Contact">
+<!ENTITY contact.heading                                "Email">
 <!ENTITY home.heading                                   "Home">
 <!ENTITY other.heading                                  "Other">
 <!ENTITY phone.heading                                  "Phone">

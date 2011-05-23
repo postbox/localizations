@@ -22,7 +22,7 @@
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY goToFolderButton.label      "Open Message Folder">
 <!ENTITY goToFolderButton.accesskey  "r">
-<!ENTITY saveAsVFButton.label        "Save as Search Folder">
+<!ENTITY saveAsVFButton.label        "Save as Smart Folder">
 <!ENTITY saveAsVFButton.accesskey    "v">
 
 <!-- for ABSearchDialog.xul -->
