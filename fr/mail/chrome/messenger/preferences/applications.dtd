@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Rechercher">
+<!ENTITY  filter.placeholder            "Search">
 
 <!ENTITY saveTo.label                 "Enregistrer les fichiers sous">
 <!ENTITY saveTo.accesskey             "E">
@@ -17,10 +17,3 @@
 <!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Choisir…">
 <!ENTITY chooseFolderMac.accesskey    "C">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY  filter.placeholder            "Search">

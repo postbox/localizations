@@ -54,7 +54,7 @@
 
 <!ENTITY searchBar-options.tooltip                 "Montrer les options de recherche">
 <!ENTITY location.label                            "Proche de:">
-<!ENTITY location.emptytext                        "Ville, Région ou Code Postal">
+<!ENTITY location.placeholder                        "City, State or ZIP">
 <!ENTITY flickr.private.tooltip                    "Vous pouvez visionner cette photo uniquement sur flickr.com">
 
 <!-- for rich search in compose -->
@@ -75,10 +75,3 @@
 <!ENTITY picasa.label "Picasa Web Albums">
 <!ENTITY photobucket.label "Mon Photobucket">
 <!-- XXX end localization note: Do not translate these service names -->
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY location.placeholder                        "City, State or ZIP">

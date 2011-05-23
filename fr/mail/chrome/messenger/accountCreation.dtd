@@ -1,11 +1,11 @@
 <!ENTITY autoconfigWizard.title          "Création d'un compte de courrier">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "Prénom Nom">
+<!ENTITY name.placeholder                  "First and Last Name">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.emptytext                 "adresse@exemple.fr">
+<!ENTITY email.placeholder                 "email@example.com">
 <!ENTITY password.label                  "Mot de passe :">
 <!ENTITY password.accesskey              "M">
-<!ENTITY password.emptytext              "Mot de passe">
+<!ENTITY password.placeholder              "Password">
 <!ENTITY password.text                   "Optionnel, ne sera utilisé que pour valider l'identifiant">
 
 <!ENTITY accountInformation.label        "Information de compte">
@@ -99,12 +99,3 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 67ch;">
-
-
-<!--
-# entities below were automatically added by l10nmerge
--->
-
-<!ENTITY name.placeholder                  "First and Last Name">
-<!ENTITY email.placeholder                 "email@example.com">
-<!ENTITY password.placeholder              "Password">
