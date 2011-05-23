@@ -356,3 +356,11 @@
 <!ENTITY pbInsertLink.accesskey "E">
 
 <!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY compose.sidebar.tooltip "Open the sidebar">
+<!ENTITY compose.sidebar.label "Sidebar">
