@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Sök">
+<!ENTITY  filter.placeholder            "Search">
 
 <!ENTITY saveTo.label                 "Spara filer till">
 <!ENTITY saveTo.accesskey             "S">
@@ -17,10 +17,3 @@
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Välj…">
 <!ENTITY chooseFolderMac.accesskey    "V">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY  filter.placeholder            "Search">
