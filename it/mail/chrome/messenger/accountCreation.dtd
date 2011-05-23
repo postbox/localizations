@@ -1,11 +1,11 @@
 <!ENTITY autoconfigWizard.title          "Impostazione account di posta">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "Nome cognome">
+<!ENTITY name.placeholder                  "First and Last Name">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY email.placeholder                 "email@example.com">
 <!ENTITY password.label                  "Password:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.emptytext              "Password">
+<!ENTITY password.placeholder              "Password">
 <!ENTITY password.text                   "Opzionale, verrà usata solo per validare il nome utente">
 
 <!ENTITY accountInformation.label        "Informazioni account">
@@ -99,12 +99,3 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 75ch;">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY name.placeholder                  "First and Last Name">
-<!ENTITY email.placeholder                 "email@example.com">
-<!ENTITY password.placeholder              "Password">
