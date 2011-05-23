@@ -362,6 +362,10 @@
 <!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Пометить как непрочитанное">
 <!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markAsPendingCmd.label "As Pending">
+<!ENTITY markAsPendingCmd.accesskey "P">
+<!ENTITY markAsNotPendingCmd.label "As Not Pending">
+<!ENTITY markAsNotPendingCmd.accesskey "g">
 <!ENTITY markThreadAsReadCmd.label "Обсуждение как прочитанное">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -373,6 +377,9 @@
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Звёздочкой">
 <!ENTITY markStarredCmd.accesskey "T">
+<!ENTITY markUnStarredCmd.label "As Not To-Do">
+<!ENTITY markUnStarredCmd.accesskey "N">
+
 <!-- keep as s, because t is taken by topic/tag -->
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Как спам">
@@ -624,9 +631,16 @@
 
 <!ENTITY junkInfoButton.label "?">
 
-<!-- Remote Content Blocker Options -->
-<!ENTITY remoteContentPopupAllow.label "Загружать удаленные изображения только для этого сообщения">
-<!ENTITY remoteContentPopupAllow.accesskey "a">
+<!-- Action Options -->
+<!ENTITY messageHeader.expand.label                 "Expand">
+<!ENTITY messageHeader.collapse.label               "Collapse">
+<!ENTITY messageHeader.editMessageButton.label      "Edit">
+<!ENTITY messageHeader.showRelated.label            "Show Related">
+<!ENTITY messageHeader.showRelated.label            "Show Related">
+<!ENTITY messageHeader.assignTopic.label            "Assign Topic">
+<!ENTITY messageHeader.reply.label                  "Reply">
+<!ENTITY messageHeader.replyAll.label               "Reply All">
+<!ENTITY messageHeader.forward.label                "Forward">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "ещё">
@@ -692,38 +706,3 @@
 <!ENTITY pbLightningQuickView.label "Quick View">
 <!ENTITY lightning.calendar.label "Calendar">
 <!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY markAsPendingCmd.label "As Pending">
-<!ENTITY markAsPendingCmd.accesskey "P">
-<!ENTITY markAsNotPendingCmd.accesskey "g">
-<!ENTITY markUnStarredCmd.accesskey "N">
-<!ENTITY markUnStarredCmd.label "As Not To-Do">
-<!ENTITY markAsNotPendingCmd.label "As Not Pending">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY messageHeader.tagMessageButton.tooltip     "Assign topic(s) to the message.">
-<!ENTITY messageHeader.expand.label                 "Expand">
-<!ENTITY messageHeader.gatherMessageButton.label    "Show All">
-<!ENTITY messageHeader.editMessageButton.label      "Edit">
-<!ENTITY messageHeader.quickreply.tooltip           "Quick Reply to the message.">
-<!ENTITY messageHeader.collapse.label               "Collapse">
-<!ENTITY messageHeader.forward.label                "Forward">
-<!ENTITY messageHeader.replyAll.label               "Reply All">
-<!ENTITY messageHeader.reply.label                  "Reply">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY messageHeader.showRelated.label            "Show Related">
-<!ENTITY messageHeader.assignTopic.label            "Assign Topic">

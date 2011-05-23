@@ -1,11 +1,11 @@
 <!ENTITY autoconfigWizard.title          "Настройка учётной записи почты">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "Имя Фамилия">
+<!ENTITY name.placeholder                  "First and Last Name">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.emptytext                 "email@example.ru">
+<!ENTITY email.placeholder                 "email@example.com">
 <!ENTITY password.label                  "Пароль:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.emptytext              "Пароль">
+<!ENTITY password.placeholder              "Password">
 <!ENTITY password.text                   "Необязательно, будет использоваться только для проверки имени пользователя">
 
 <!ENTITY accountInformation.label        "Информация учётной записи">
@@ -99,12 +99,3 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 63ch;">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY name.placeholder                  "First and Last Name">
-<!ENTITY email.placeholder                 "email@example.com">
-<!ENTITY password.placeholder              "Password">
