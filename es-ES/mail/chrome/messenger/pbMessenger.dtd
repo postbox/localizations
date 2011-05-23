@@ -317,7 +317,7 @@
 <!ENTITY showFolderPaneCmd.label "Folder Pane">
 <!ENTITY pbConversationHdrContextMenu-forward.label "Forward">
 <!ENTITY quickReplyMsgCmd.accesskey "Q">
-<!ENTITY pbToggleFolderPane.key "M">
+<!ENTITY pbToggleFolderPane.key "L">
 <!ENTITY pbConversationHdrContextMenu-forward.accesskey "F">
 
 
