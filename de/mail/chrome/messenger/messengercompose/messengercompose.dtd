@@ -72,6 +72,7 @@
 <!ENTITY pasteCmd.label "Einfügen">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "E">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY editRewrapCmd.label "Neu umbrechen">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "b">
@@ -100,6 +101,19 @@
 <!ENTITY customizeToolbar.accesskey "A">
 <!ENTITY showFormatToolbarCmd.label "Formatierungs-Symbolleiste">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY pbShowCcField.label "Cc Address Field">
+<!ENTITY pbShowCcField.accesskey "C">
+<!ENTITY pbShowCcField.key "c">
+<!ENTITY pbShowBccField.label "Bcc Address Field">
+<!ENTITY pbShowBccField.accesskey "B">
+<!ENTITY pbShowBccField.key "b">
+<!ENTITY pbShowReplyField.label "Reply-To Address Field">
+<!ENTITY pbShowReplyField.accesskey "R">
+<!ENTITY pbShowReplyField.key "r">
+<!ENTITY pbShowNewsgroupsField.label "Newsgroups Address Field">
+<!ENTITY pbShowNewsgroupsField.accesskey "N"> 
+<!ENTITY pbShowFollowupField.label "Followup-To Address Field">
+<!ENTITY pbShowFollowupField.accesskey "o">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formatierung">
@@ -220,13 +234,9 @@
 <!ENTITY replyAddr.label "Antwort an:"> 
 <!ENTITY newsgroupsAddr.label "Newsgruppe:"> 
 <!ENTITY followupAddr.label "Followup an:"> 
-<!ENTITY attachmentsHeader.label "Anhänge">
-<!ENTITY attachmentsHeader.accesskey "e">
 <!ENTITY tagHeader.label "Schlagwörter">
 <!ENTITY tagHeader.accesskey "S">
 <!ENTITY tagMessageButton.tooltip     "Weise dieser Nachricht Begriffe zu.">
-<!ENTITY compose.todo.label "Aufgabe">
-<!ENTITY compose.todo.tooltip "Nachricht als ToDo markieren">
 <!ENTITY compose.addresses.label "Adresse">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -275,6 +285,8 @@
 
 <!ENTITY openAttachment.label "Öffnen">
 <!ENTITY openAttachment.accesskey "f">
+<!ENTITY quickLookAttachment.label "Quick Look">
+<!ENTITY quickLookAttachment.accesskey "Q">
 <!ENTITY delete.label "Löschen">
 <!ENTITY delete.accesskey "L">
 <!ENTITY selectAll.label "Alles auswählen">
@@ -299,7 +311,7 @@
 
 <!-- this is an entity because it can vary by locale, and which type has the most kinds on the locale 
      for en-US, it is "Research", which has "Wikipedia" + "Dictionary" + "Thesaurus" -->
-<!ENTITY compose-alley-default-width            "260">
+<!ENTITY compose-sidebar-default-width            "302">
 
 <!-- topic context menu -->
 <!ENTITY pbTopicContextMenu-edit.label         "Bearbeiten">
@@ -311,69 +323,36 @@
 <!ENTITY pbTopicContextMenu-editAll.label      "Begriffe bearbeiten...">
 <!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
 
+<!-- bubble context menu XXX TODO ACCESS KEYS-->
+<!ENTITY pbBubbleContextMenu-remove.label      "Remove Address">
+<!ENTITY pbBubbleContextMenu-copy.label        "Copy Address">
+<!ENTITY pbBubbleContextMenu-edit.label        "Edit Address">
+<!ENTITY pbBubbleContextMenu-open.label        "Open in Address Book">
+<!ENTITY pbBubbleContextMenu-add.label         "Add to Address Book">
+
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML-Optionen">
 
 <!ENTITY pbComposeSidebar.label "Seitenleiste">
 <!ENTITY pbComposeSidebar.accesskey "S">
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">
-
-
-<!--
-# entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbQuoteConversationButton.label  "Summarize">
-<!ENTITY pbToggleReplyQuotingMode.key   "O">
-<!ENTITY pbQuoteMessageButton.label       "Quote">
-<!ENTITY pbToggleReplyRecipients.key "R">
 <!ENTITY pbReplyButton.label       "Reply">
-<!ENTITY pasteNoFormattingCmd.key "V">
-<!ENTITY quickLookAttachment.label "Quick Look">
-<!ENTITY pbReplyAllButton.tooltiptext    "Reply to all recipients for selected message">
+<!ENTITY pbReplyAllButton.tooltiptext    "Reply to sender of selected message">
 <!ENTITY pbReplyAllButton.label    "Reply All">
-<!ENTITY pbToggleReplyQuotingMode.accesskey   "u">
-<!ENTITY quickLookAttachment.accesskey "Q">
-<!ENTITY pbQuoteConversationButton.tooltiptext "Summarize the conversation">
-<!ENTITY pbQuoteMessageButton.tooltiptext "Quote the selected message">
+<!ENTITY pbReplyAllButton.tooltiptext    "Reply to all recipients for selected message">
 <!ENTITY pbToggleReplyRecipients.accesskey "R">
+<!ENTITY pbToggleReplyRecipients.key "R">
 
+<!ENTITY pbQuoteMessageButton.label       "Quote">
+<!ENTITY pbQuoteMessageButton.tooltiptext "Quote the selected message">
+<!ENTITY pbQuoteConversationButton.label  "Summarize">
+<!ENTITY pbQuoteConversationButton.tooltiptext "Summarize the conversation">
+<!ENTITY pbToggleReplyQuotingMode.accesskey   "u">
+<!ENTITY pbToggleReplyQuotingMode.key   "O">
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!-- Insert Link Dialog -->
 
-<!ENTITY pbShowNewsgroupsField.accesskey "N">
-<!ENTITY pbShowBccField.accesskey "B">
-<!ENTITY pbBubbleContextMenu-edit.label        "Edit Address">
-<!ENTITY pbShowReplyField.accesskey "R">
-<!ENTITY pbShowBccField.label "Bcc Address Field">
-<!ENTITY pbShowReplyField.label "Reply-To Address Field">
-<!ENTITY pbBubbleContextMenu-copy.label        "Copy Address">
-<!ENTITY pbShowCcField.accesskey "C">
-<!ENTITY pbShowFollowupField.accesskey "o">
-<!ENTITY pbShowNewsgroupsField.label "Newsgroups Address Field">
-<!ENTITY pbShowFollowupField.label "Followup-To Address Field">
-<!ENTITY pbShowCcField.label "Cc Address Field">
-<!ENTITY pbBubbleContextMenu-remove.label      "Remove Address">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbShowCcField.key "c">
-<!ENTITY pbBubbleContextMenu-open.label        "Open in Address Book">
-<!ENTITY pbShowBccField.key "b">
-<!ENTITY pbShowReplyField.key "r">
-<!ENTITY pbBubbleContextMenu-add.label         "Add to Address Book">
-<!ENTITY compose-sidebar-default-width            "302">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">
 <!ENTITY pbInsertLink.label "Enter the Internet address (URL) for this link.">
 <!ENTITY pbInsertLink.accesskey "E">
+
+<!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">

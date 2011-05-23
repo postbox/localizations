@@ -44,7 +44,7 @@
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatisch auf Updates überprüfen für:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "b">
+<!ENTITY enableAppUpdate.accesskey      "P">
 <!ENTITY enableAddonsUpdate.label       "Add-ons">
 <!ENTITY enableAddonsUpdate.accesskey   "A">
 <!ENTITY checkNow.label                 "Jetzt prüfen">

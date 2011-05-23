@@ -58,16 +58,6 @@
 <!ENTITY pbParticipantsField.label "Teilnehmer:">
 <!ENTITY saveAll.label "Alle speichern..">
 
-<!ENTITY messageHeader.expand.label                 "Ausklappen">
-<!ENTITY messageHeader.collapse.label               "Einklappen">
-<!ENTITY messageHeader.editMessageButton.label      "Bearbeiten">
-<!ENTITY messageHeader.gatherMessageButton.label    "Alle einblenden">
-<!ENTITY messageHeader.tagMessageButton.tooltip     "Weise dieser Nachricht Begriffe zu.">
-<!ENTITY messageHeader.reply.label "Antwort">
-<!ENTITY messageHeader.quickreply.tooltip "Schnellantwort auf diese Nachricht.">
-<!ENTITY messageHeader.replyAll.label "Allen antworten">
-<!ENTITY messageHeader.forward.label "Weiterleiten">
-
 <!ENTITY openAttachmentCmd.label    "Öffnen">
 <!ENTITY openAttachmentCmd.accesskey    "f">
 <!ENTITY saveAsAttachmentCmd.label    "Speichern…">
@@ -96,10 +86,5 @@
 <!ENTITY pbMsgHdrView.conversationMsgReply.label "Antworten">
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "Allen antworten">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "Weiterleiten">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
 
 <!ENTITY pbMsgHdrView.loadingMessageBody.label "Loading...">
