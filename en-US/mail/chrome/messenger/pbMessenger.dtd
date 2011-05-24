@@ -138,13 +138,13 @@
 <!ENTITY searchResultPopup-systemPhotoImportMac.accesskey  "h">
 
 <!-- inline edit subject bar -->
-<!ENTITY msgAnnotation.title                         "Edit">
-<!ENTITY saveMessageEditing.button.label             "Save">
-<!ENTITY saveMessageEditing.button.accesskey         "S">
-<!ENTITY saveMessageEditingAsCopy.button.label       "Save As Copy">
+<!ENTITY msgAnnotation.title                         "Subject:">
+<!ENTITY saveMessageEditing.button.label             "save">
+<!ENTITY saveMessageEditing.button.accesskey         "s">
+<!ENTITY saveMessageEditingAsCopy.button.label       "save as copy">
 <!ENTITY saveMessageEditingAsCopy.button.accesskey   "a">
-<!ENTITY cancelMessageEditing.button.label           "Cancel">
-<!ENTITY cancelMessageEditing.button.accesskey       "C">
+<!ENTITY cancelMessageEditing.button.label           "cancel">
+<!ENTITY cancelMessageEditing.button.accesskey       "c">
 
 <!-- inline message editing toolbar -->
 <!ENTITY boldEditMsgToolbarCmd.tooltip               "Bold">
