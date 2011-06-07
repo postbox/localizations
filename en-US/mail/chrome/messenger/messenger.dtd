@@ -318,6 +318,8 @@
 <!ENTITY editMsgCmd.key "e">
 <!ENTITY editMsgAsNewCmd1.label "Resend">
 <!ENTITY editMsgAsNewCmd1.accesskey "d">
+<!ENTITY redirectCmd.label "Redirect">
+<!ENTITY redirectCmd.key "e">
 <!ENTITY createFilter.label "Create Filter From Message...">
 <!ENTITY createFilter.accesskey "i">
 <!ENTITY archiveMsgMenu.label "Archive">
@@ -435,8 +437,6 @@
 <!ENTITY hintsAndTips.label "&brandFullName; Help">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "h">
-<!ENTITY updateCmd.label      "Check for Updates...">
-<!ENTITY updateCmd.accesskey  "o">
 <!ENTITY aboutCmd.label "About &brandFullName;">
 <!ENTITY aboutCmd.accesskey "A">
 
@@ -446,6 +446,7 @@
 <!ENTITY replyButton.label "Reply">
 <!ENTITY replyAllButton.label "Reply All">
 <!ENTITY sendButton.label "Send">
+<!ENTITY redirectButton.label "Redirect">
 <!ENTITY forwardButton.label "Forward">
 <!ENTITY archiveButton.label "Archive">
 <!ENTITY fileButton.label "File">
@@ -474,6 +475,7 @@
 <!ENTITY replyButton.tooltip "Reply to the message">
 <!ENTITY replyAllButton.tooltip "Reply to sender and all recipients">
 <!ENTITY sendButton.tooltip "Send selected message">
+<!ENTITY redirectButton.tooltip "Redirect selected message">
 <!ENTITY forwardButton.tooltip "Forward selected message">
 <!ENTITY archiveButton.tooltip "Archive selected message">
 <!ENTITY fileButton.tooltip "File selected message">
@@ -598,6 +600,7 @@
 <!ENTITY contextEditMsg.accesskey "i">
 <!ENTITY contextEditAsNew1.label "Resend">
 <!ENTITY contextEditAsNew1.accesskey "e">
+<!ENTITY contextRedirect.label "Redirect">
 <!ENTITY contextReplySender.label "Reply">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Reply to Newsgroup">

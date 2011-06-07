@@ -1,7 +1,6 @@
 
 <!ENTITY migrationWizard.title          "Welcome to &brandShortName;">
 
-<!ENTITY importFrom.label               "&brandShortName; has detected mail folders and account settings on your computer which it can import. Please choose from:">
 <!ENTITY importFromUnix.label           "Import Preferences, Account Settings, Address Book and other data from:">
 
 <!ENTITY importFromThunderbird.label    "Thunderbird">
@@ -17,7 +16,17 @@
 <!ENTITY importFromNothing.label        "Don't import anything">
 <!ENTITY importFromNothing.accesskey    "D">
 
-<!ENTITY importSource.title             "Welcome to &brandShortName;">
+<!ENTITY welcome.title                  "Welcome to &brandShortName;">
+<!ENTITY tagline.label                  "A Better Way To Do Email">
+<!ENTITY thanks.label                   "Thanks for trying out &brandShortName;!">
+<!ENTITY quickStart1.label              "See the ">
+<!ENTITY quickStart2.label              "Quickstart Guide"> 
+<!ENTITY quickStart3.label              " to learn about all the features.">
+<!ENTITY start.label                    "Start using &brandShortName;">
+    
+<!ENTITY migration.title                "Account Migration Wizard">
+<!ENTITY migrationMac.title             "Account Migration Assistant">
+<!ENTITY importOptions.title            "Import Options">
 <!ENTITY importItems.title              "Items to Import">
 <!ENTITY importItems.label              "Select which items to import:">
 
@@ -33,3 +42,18 @@
 <!ENTITY importFromAppleMail.label    "Apple Mail">
 <!ENTITY importFromAppleMail.accesskey "A">
 
+<!ENTITY tagline.left "45">
+<!ENTITY tagline.top "65">
+<!ENTITY thanks.left "35">
+<!ENTITY thanks.top "130">
+<!ENTITY title-text.left "14">
+<!ENTITY title-text.top "15">
+<!ENTITY explanation-text.left "26">
+<!ENTITY explanation-text.top "50">
+<!ENTITY radio.top "72">
+<!ENTITY import.top "86">
+<!ENTITY progress.top "140">
+<!ENTITY start.left "279">
+<!ENTITY start.top "264">
+<!ENTITY startMac.top "266">
+<!ENTITY guide.top "159">

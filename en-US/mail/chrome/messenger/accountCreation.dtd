@@ -99,3 +99,6 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 63ch;">
+
+<!ENTITY pbProfileInformation.label "Profile Information">
+<!ENTITY pbManualSetup.label "Manual Setup">

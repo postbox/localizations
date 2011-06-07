@@ -76,6 +76,8 @@
 <!ENTITY tagButton.tooltip "Add topic to messages">
 <!ENTITY newTaskButton.tooltip "Create a new To-Do item">
 <!ENTITY newTaskButton.label "New To-Do">
+<!ENTITY inspectorButton.label "Inspector">
+<!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
 <!ENTITY pbToolbarButton-home.label "Home">
 <!ENTITY pbToolbarButton-home.tooltip "Take me back to my Inbox and clear any search criteria">
 <!ENTITY pbToolbarButton-promote.label   "Post">
@@ -141,7 +143,7 @@
 <!ENTITY msgAnnotation.title                         "Subject:">
 <!ENTITY saveMessageEditing.button.label             "save">
 <!ENTITY saveMessageEditing.button.accesskey         "s">
-<!ENTITY saveMessageEditingAsCopy.button.label       "save as copy">
+<!ENTITY saveMessageEditingAsCopy.button.label       "save copy">
 <!ENTITY saveMessageEditingAsCopy.button.accesskey   "a">
 <!ENTITY cancelMessageEditing.button.label           "cancel">
 <!ENTITY cancelMessageEditing.button.accesskey       "c">
