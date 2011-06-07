@@ -5,13 +5,6 @@
 <!ENTITY dataPaneEvent.label          "Events">
 <!ENTITY dataPaneURL.label            "Länkar">
 <!ENTITY dataPaneAddresses.label      "Adresser">
-<!ENTITY dataPaneImageMac.label       "IMAGES">
-<!ENTITY dataPaneDocumentMac.label    "ATTACHMENTS">
-<!ENTITY dataPaneDatesMac.label       "DATES">
-<!ENTITY dataPaneEventMac.label       "EVENTS">
-<!ENTITY dataPaneURLMac.label         "LINKS">
-<!ENTITY dataPaneAddressesMac.label   "ADDRESSES">
-<!ENTITY dataPaneFindRecent.label     "Find recent:">
 
 <!-- data pane attachment popup -->
 <!-- XX Localisation note: Do not translate service names -->
