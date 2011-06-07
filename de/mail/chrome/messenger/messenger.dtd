@@ -318,6 +318,8 @@
 <!ENTITY editMsgCmd.key "e">
 <!ENTITY editMsgAsNewCmd1.label "Neu senden">
 <!ENTITY editMsgAsNewCmd1.accesskey "d">
+<!ENTITY redirectCmd.label "Redirect">
+<!ENTITY redirectCmd.key "e">
 <!ENTITY createFilter.label "Filter aus Nachricht erstellen…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY archiveMsgMenu.label "Archivieren">
@@ -435,8 +437,6 @@
 <!ENTITY hintsAndTips.label "&brandFullName; Hilfe">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "H">
-<!ENTITY updateCmd.label      "Nach Updates suchen…">
-<!ENTITY updateCmd.accesskey  "N">
 <!ENTITY aboutCmd.label "Über &brandFullName;">
 <!ENTITY aboutCmd.accesskey "b">
 
@@ -446,6 +446,7 @@
 <!ENTITY replyButton.label "Antworten">
 <!ENTITY replyAllButton.label "Allen antworten">
 <!ENTITY sendButton.label "Senden">
+<!ENTITY redirectButton.label "Redirect">
 <!ENTITY forwardButton.label "Weiterleiten">
 <!ENTITY archiveButton.label "Archivieren">
 <!ENTITY fileButton.label "Ablegen">
@@ -474,6 +475,7 @@
 <!ENTITY replyButton.tooltip "Auf gewählte Nachricht(en) antworten">
 <!ENTITY replyAllButton.tooltip "Auf gewählte Nachricht(en) an den Absender und alle Empfänger antworten">
 <!ENTITY sendButton.tooltip "Ausgewählte Nachricht senden">
+<!ENTITY redirectButton.tooltip "Redirect selected message">
 <!ENTITY forwardButton.tooltip "Gewählte Nachricht(en) weiterleiten">
 <!ENTITY archiveButton.tooltip "Gewählte Nachricht(en) archivieren">
 <!ENTITY fileButton.tooltip "Gewählte Nachricht(en) ablegen">
@@ -598,6 +600,7 @@
 <!ENTITY contextEditMsg.accesskey "i">
 <!ENTITY contextEditAsNew1.label "Erneut versenden...">
 <!ENTITY contextEditAsNew1.accesskey "E">
+<!ENTITY contextRedirect.label "Redirect">
 <!ENTITY contextReplySender.label "Antworten nur an Absender">
 <!ENTITY contextReplySender.accesskey "A">
 <!ENTITY contextReplyNewsgroup.label "Antworten an Newsgruppe">
@@ -706,14 +709,3 @@
 <!ENTITY pbLightningQuickView.label "Schnellansicht">
 <!ENTITY lightning.calendar.label "Kalender">
 <!ENTITY lightning.tasks.label "Aufgaben">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY redirectButton.label "Redirect">
-<!ENTITY redirectCmd.key "e">
-<!ENTITY contextRedirect.label "Redirect">
-<!ENTITY redirectButton.tooltip "Redirect selected message">
-<!ENTITY redirectCmd.label "Redirect">
