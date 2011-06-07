@@ -76,6 +76,8 @@
 <!ENTITY tagButton.tooltip "Aggiungi un argomento ai messaggi">
 <!ENTITY newTaskButton.tooltip "Crea una nuova attività">
 <!ENTITY newTaskButton.label "Nuova Attività">
+<!ENTITY inspectorButton.label "Inspector">
+<!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
 <!ENTITY pbToolbarButton-home.label "Inizio">
 <!ENTITY pbToolbarButton-home.tooltip "Riportami alla mia &quot;Posta in Arrivo&quot; ed elimina qualsiasi criterio di ricerca">
 <!ENTITY pbToolbarButton-promote.label   "Invio">
@@ -352,11 +354,3 @@
 <!ENTITY guideCmd.label "Quickstart Guide">
 <!ENTITY guideCmd.accesskey "r">
 
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
-<!ENTITY inspectorButton.label "Inspector">

@@ -1,7 +1,6 @@
 
 <!ENTITY migrationWizard.title          "Importazione guidata">
 
-<!ENTITY importFrom.label               "Import Options, Account Settings, Address Book and other data from:">
 <!ENTITY importFromUnix.label           "Import Preferences, Account Settings, Address Book and other data from:">
 
 <!ENTITY importFromThunderbird.label    "Thunderbird">
@@ -17,7 +16,17 @@
 <!ENTITY importFromNothing.label        "Non importare nulla">
 <!ENTITY importFromNothing.accesskey    "m">
 
-<!ENTITY importSource.title             "Importa impostazioni e cartelle di posta">
+<!ENTITY welcome.title                  "Welcome to &brandShortName;">
+<!ENTITY tagline.label                  "A Better Way To Do Email">
+<!ENTITY thanks.label                   "Thanks for trying out &brandShortName;!">
+<!ENTITY quickStart1.label              "See the ">
+<!ENTITY quickStart2.label              "Quickstart Guide"> 
+<!ENTITY quickStart3.label              " to learn about all the features.">
+<!ENTITY start.label                    "Start using &brandShortName;">
+    
+<!ENTITY migration.title                "Account Migration Wizard">
+<!ENTITY migrationMac.title             "Account Migration Assistant">
+<!ENTITY importOptions.title            "Import Options">
 <!ENTITY importItems.title              "Elementi da importare">
 <!ENTITY importItems.label              "Selezionare elementi da importare:">
 
@@ -33,34 +42,18 @@
 <!ENTITY importFromAppleMail.label    "Apple Mail">
 <!ENTITY importFromAppleMail.accesskey "A">
 
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY start.left "279">
-<!ENTITY migrationMac.title             "Account Migration Assistant">
-<!ENTITY explanation-text.left "26">
-<!ENTITY startMac.top "266">
-<!ENTITY thanks.label                   "Thanks for trying out &brandShortName;!">
-<!ENTITY thanks.top "130">
-<!ENTITY guide.top "159">
-<!ENTITY title-text.top "15">
-<!ENTITY import.top "86">
-<!ENTITY radio.top "72">
-<!ENTITY progress.top "140">
-<!ENTITY quickStart1.label              "See the ">
-<!ENTITY tagline.label                  "A Better Way To Do Email">
-<!ENTITY tagline.top "65">
-<!ENTITY explanation-text.top "50">
 <!ENTITY tagline.left "45">
-<!ENTITY welcome.title                  "Welcome to &brandShortName;">
-<!ENTITY quickStart2.label              "Quickstart Guide">
-<!ENTITY start.top "264">
-<!ENTITY importOptions.title            "Import Options">
-<!ENTITY migration.title                "Account Migration Wizard">
-<!ENTITY title-text.left "14">
+<!ENTITY tagline.top "65">
 <!ENTITY thanks.left "35">
-<!ENTITY quickStart3.label              " to learn about all the features.">
-<!ENTITY start.label                    "Start using &brandShortName;">
+<!ENTITY thanks.top "130">
+<!ENTITY title-text.left "14">
+<!ENTITY title-text.top "15">
+<!ENTITY explanation-text.left "26">
+<!ENTITY explanation-text.top "50">
+<!ENTITY radio.top "72">
+<!ENTITY import.top "86">
+<!ENTITY progress.top "140">
+<!ENTITY start.left "279">
+<!ENTITY start.top "264">
+<!ENTITY startMac.top "266">
+<!ENTITY guide.top "159">
