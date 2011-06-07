@@ -209,6 +209,7 @@
 <!ENTITY tagButton.label "Assign Topic">
 <!ENTITY throbberItem.title "Activity Indicator">
 <!ENTITY signatureButton.label "Signatures">
+<!ENTITY compose.sidebar.label "Sidebar">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Enviar esta mensagem agora"> 
@@ -222,6 +223,7 @@
 <!ENTITY pasteButton.tooltip            "Colar">
 <!ENTITY tagButton.tooltip "Add topic(s) to message">
 <!ENTITY signatureButton.tooltip "Insert a signature">
+<!ENTITY compose.sidebar.tooltip "Open the sidebar">
 
 <!-- Headers -->
 <!ENTITY fromHeader.label "From">
@@ -349,6 +351,7 @@
 <!ENTITY pbQuoteConversationButton.tooltiptext "Summarize the conversation">
 <!ENTITY pbToggleReplyQuotingMode.accesskey   "u">
 <!ENTITY pbToggleReplyQuotingMode.key   "O">
+<!ENTITY pbFocusIdentityPicker.key "R">
 
 <!-- Insert Link Dialog -->
 
@@ -356,18 +359,3 @@
 <!ENTITY pbInsertLink.accesskey "E">
 
 <!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY compose.sidebar.tooltip "Open the sidebar">
-<!ENTITY compose.sidebar.label "Sidebar">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbFocusIdentityPicker.key "R">

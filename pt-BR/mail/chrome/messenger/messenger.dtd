@@ -318,6 +318,8 @@
 <!ENTITY editMsgCmd.key "e">
 <!ENTITY editMsgAsNewCmd1.label "Resend">
 <!ENTITY editMsgAsNewCmd1.accesskey "d">
+<!ENTITY redirectCmd.label "Redirect">
+<!ENTITY redirectCmd.key "e">
 <!ENTITY createFilter.label "Criar filtro para o remetente…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY archiveMsgMenu.label "Archive">
@@ -435,8 +437,6 @@
 <!ENTITY hintsAndTips.label "&brandFullName; Help">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "H">
-<!ENTITY updateCmd.label      "Check for Updates...">
-<!ENTITY updateCmd.accesskey  "o">
 <!ENTITY aboutCmd.label "About &brandFullName;">
 <!ENTITY aboutCmd.accesskey "A">
 
@@ -446,6 +446,7 @@
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Re: Todos">
 <!ENTITY sendButton.label "Send">
+<!ENTITY redirectButton.label "Redirect">
 <!ENTITY forwardButton.label "Encaminhar">
 <!ENTITY archiveButton.label "Archive">
 <!ENTITY fileButton.label "Mover">
@@ -474,6 +475,7 @@
 <!ENTITY replyButton.tooltip "Responder somente ao remetente">
 <!ENTITY replyAllButton.tooltip "Responder ao remetente com cópia a todos os destinatários">
 <!ENTITY sendButton.tooltip "Send selected message">
+<!ENTITY redirectButton.tooltip "Redirect selected message">
 <!ENTITY forwardButton.tooltip "Repassar a mensagem selecionada">
 <!ENTITY archiveButton.tooltip "Archive selected message">
 <!ENTITY fileButton.tooltip "Mover para outra pasta">
@@ -598,6 +600,7 @@
 <!ENTITY contextEditMsg.accesskey "i">
 <!ENTITY contextEditAsNew1.label "Resend...">
 <!ENTITY contextEditAsNew1.accesskey "e">
+<!ENTITY contextRedirect.label "Redirect">
 <!ENTITY contextReplySender.label "Responder">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Responder ao newsgroup">
@@ -706,14 +709,3 @@
 <!ENTITY pbLightningQuickView.label "Quick View">
 <!ENTITY lightning.calendar.label "Calendar">
 <!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY redirectButton.label "Redirect">
-<!ENTITY redirectCmd.key "e">
-<!ENTITY contextRedirect.label "Redirect">
-<!ENTITY redirectButton.tooltip "Redirect selected message">
-<!ENTITY redirectCmd.label "Redirect">
