@@ -352,3 +352,11 @@
 <!ENTITY guideCmd.label "Quickstart Guide">
 <!ENTITY guideCmd.accesskey "r">
 
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
+<!ENTITY inspectorButton.label "Inspector">

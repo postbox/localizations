@@ -399,3 +399,11 @@
 <!ENTITY listbulletMsgToolbarCmd.accesskey           "b">
 <!ENTITY noneMsgToolbarCmd.accesskey                 "N">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Outdent text (move left)">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
+<!ENTITY inspectorButton.label "Inspector">

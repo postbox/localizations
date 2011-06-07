@@ -364,3 +364,10 @@
 
 <!ENTITY compose.sidebar.tooltip "Open the sidebar">
 <!ENTITY compose.sidebar.label "Sidebar">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbFocusIdentityPicker.key "R">

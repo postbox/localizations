@@ -743,3 +743,14 @@
 
 <!ENTITY messageHeader.showRelated.label            "Show Related">
 <!ENTITY messageHeader.assignTopic.label            "Assign Topic">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY redirectButton.label "Redirect">
+<!ENTITY redirectCmd.key "e">
+<!ENTITY contextRedirect.label "Redirect">
+<!ENTITY redirectButton.tooltip "Redirect selected message">
+<!ENTITY redirectCmd.label "Redirect">
