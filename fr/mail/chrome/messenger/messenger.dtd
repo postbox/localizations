@@ -318,6 +318,8 @@
 <!ENTITY editMsgCmd.key "e">
 <!ENTITY editMsgAsNewCmd1.label "Renvoyer">
 <!ENTITY editMsgAsNewCmd1.accesskey "R">
+<!ENTITY redirectCmd.label "Redirect">
+<!ENTITY redirectCmd.key "e">
 <!ENTITY createFilter.label "Créer un filtre à partir du message…">
 <!ENTITY createFilter.accesskey "i">
 <!ENTITY archiveMsgMenu.label "Archiver">
@@ -435,8 +437,6 @@
 <!ENTITY hintsAndTips.label "Aide &brandFullName;">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "A">
-<!ENTITY updateCmd.label      "Rechercher des mises à jour…">
-<!ENTITY updateCmd.accesskey  "o">
 <!ENTITY aboutCmd.label "À propos de &brandFullName;">
 <!ENTITY aboutCmd.accesskey "p">
 
@@ -446,6 +446,7 @@
 <!ENTITY replyButton.label "Répondre">
 <!ENTITY replyAllButton.label "Rép. à tous">
 <!ENTITY sendButton.label "Envoyer">
+<!ENTITY redirectButton.label "Redirect">
 <!ENTITY forwardButton.label "Transférer">
 <!ENTITY archiveButton.label "Archiver">
 <!ENTITY fileButton.label "Classer">
@@ -474,6 +475,7 @@
 <!ENTITY replyButton.tooltip "Répondre au message">
 <!ENTITY replyAllButton.tooltip "Répondre à l'expéditeur et à tous les destinataires">
 <!ENTITY sendButton.tooltip "Envoyer le message sélectionné">
+<!ENTITY redirectButton.tooltip "Redirect selected message">
 <!ENTITY forwardButton.tooltip "Transférer le message sélectionné">
 <!ENTITY archiveButton.tooltip "Archiver les messages sélectionnés">
 <!ENTITY fileButton.tooltip "Classer les messages sélectionnés">
@@ -598,6 +600,7 @@
 <!ENTITY contextEditMsg.accesskey "i">
 <!ENTITY contextEditAsNew1.label "Renvoyer...">
 <!ENTITY contextEditAsNew1.accesskey "e">
+<!ENTITY contextRedirect.label "Redirect">
 <!ENTITY contextReplySender.label "Répondre à l'expéditeur">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Répondre dans le groupe">
@@ -706,14 +709,3 @@
 <!ENTITY pbLightningQuickView.label "Coup d'oeil">
 <!ENTITY lightning.calendar.label "Calendar">
 <!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY redirectButton.label "Redirect">
-<!ENTITY redirectCmd.key "e">
-<!ENTITY contextRedirect.label "Redirect">
-<!ENTITY redirectButton.tooltip "Redirect selected message">
-<!ENTITY redirectCmd.label "Redirect">
