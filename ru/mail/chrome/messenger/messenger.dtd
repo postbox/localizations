@@ -318,6 +318,8 @@
 <!ENTITY editMsgCmd.key "e">
 <!ENTITY editMsgAsNewCmd1.label "Отправить заново">
 <!ENTITY editMsgAsNewCmd1.accesskey "d">
+<!ENTITY redirectCmd.label "Redirect">
+<!ENTITY redirectCmd.key "e">
 <!ENTITY createFilter.label "Создать фильтр…">
 <!ENTITY createFilter.accesskey "i">
 <!ENTITY archiveMsgMenu.label "Архивировать">
@@ -435,8 +437,6 @@
 <!ENTITY hintsAndTips.label "Справка &brandFullName;">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "H">
-<!ENTITY updateCmd.label      "Проверить наличие обновлений…">
-<!ENTITY updateCmd.accesskey  "o">
 <!ENTITY aboutCmd.label "О &brandFullName;">
 <!ENTITY aboutCmd.accesskey "b">
 
@@ -446,6 +446,7 @@
 <!ENTITY replyButton.label "Ответить">
 <!ENTITY replyAllButton.label "Ответить всем">
 <!ENTITY sendButton.label "Отправить">
+<!ENTITY redirectButton.label "Redirect">
 <!ENTITY forwardButton.label "Переслать">
 <!ENTITY archiveButton.label "Архивировать">
 <!ENTITY fileButton.label "Поместить">
@@ -474,6 +475,7 @@
 <!ENTITY replyButton.tooltip "Ответить на сообщение">
 <!ENTITY replyAllButton.tooltip "Ответить отправителю и всем адресатам">
 <!ENTITY sendButton.tooltip "Send selected message">
+<!ENTITY redirectButton.tooltip "Redirect selected message">
 <!ENTITY forwardButton.tooltip "Переслать выбранное сообщение">
 <!ENTITY archiveButton.tooltip "Архивировать выделенные сообщения">
 <!ENTITY fileButton.tooltip "Поместить выбранное сообщение в нужную папку">
@@ -598,6 +600,7 @@
 <!ENTITY contextEditMsg.accesskey "i">
 <!ENTITY contextEditAsNew1.label "Resend...">
 <!ENTITY contextEditAsNew1.accesskey "e">
+<!ENTITY contextRedirect.label "Redirect">
 <!ENTITY contextReplySender.label "Ответить отправителю">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Ответить в группу новостей">
@@ -706,14 +709,3 @@
 <!ENTITY pbLightningQuickView.label "Quick View">
 <!ENTITY lightning.calendar.label "Calendar">
 <!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY redirectButton.label "Redirect">
-<!ENTITY redirectCmd.key "e">
-<!ENTITY contextRedirect.label "Redirect">
-<!ENTITY redirectButton.tooltip "Redirect selected message">
-<!ENTITY redirectCmd.label "Redirect">

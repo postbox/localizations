@@ -5,13 +5,6 @@
 <!ENTITY dataPaneEvent.label          "События">
 <!ENTITY dataPaneURL.label            "Ссылки">
 <!ENTITY dataPaneAddresses.label      "Адреса">
-<!ENTITY dataPaneImageMac.label       "ИЗОБРАЖЕНИЯ">
-<!ENTITY dataPaneDocumentMac.label    "ВЛОЖЕНИЯ">
-<!ENTITY dataPaneDatesMac.label       "ДАТЫ">
-<!ENTITY dataPaneEventMac.label       "СОБЫТИЯ">
-<!ENTITY dataPaneURLMac.label         "ССЫЛКИ">
-<!ENTITY dataPaneAddressesMac.label   "АДРЕСА">
-<!ENTITY dataPaneFindRecent.label     "Find recent:">
 
 <!-- data pane attachment popup -->
 <!-- XX Localisation note: Do not translate service names -->
