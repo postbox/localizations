@@ -318,6 +318,8 @@
 <!ENTITY editMsgCmd.key "e">
 <!ENTITY editMsgAsNewCmd1.label "Opnieuw verzenden">
 <!ENTITY editMsgAsNewCmd1.accesskey "d">
+<!ENTITY redirectCmd.label "Redirect">
+<!ENTITY redirectCmd.key "e">
 <!ENTITY createFilter.label "Filter maken op basis van bericht…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY archiveMsgMenu.label "Archiveren">
@@ -435,8 +437,6 @@
 <!ENTITY hintsAndTips.label "&brandFullName; Help">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "H">
-<!ENTITY updateCmd.label      "Controleren op updates…">
-<!ENTITY updateCmd.accesskey  "o">
 <!ENTITY aboutCmd.label "Over &brandFullName;">
 <!ENTITY aboutCmd.accesskey "O">
 
@@ -446,6 +446,7 @@
 <!ENTITY replyButton.label "Beantwoorden">
 <!ENTITY replyAllButton.label "Allen beantwoorden">
 <!ENTITY sendButton.label "Verzenden">
+<!ENTITY redirectButton.label "Redirect">
 <!ENTITY forwardButton.label "Doorsturen">
 <!ENTITY archiveButton.label "Archiveren">
 <!ENTITY fileButton.label "Bewaren">
@@ -474,6 +475,7 @@
 <!ENTITY replyButton.tooltip "Het geselecteerde bericht beantwoorden">
 <!ENTITY replyAllButton.tooltip "Afzender en alle geadresseerden beantwoorden">
 <!ENTITY sendButton.tooltip "Verstuur het geselecteerde bericht">
+<!ENTITY redirectButton.tooltip "Redirect selected message">
 <!ENTITY forwardButton.tooltip "Geselecteerde bericht doorsturen">
 <!ENTITY archiveButton.tooltip "Geselecteerde bericht archiveren">
 <!ENTITY fileButton.tooltip "Geselecteerde bericht bewaren">
@@ -598,6 +600,7 @@
 <!ENTITY contextEditMsg.accesskey "B">
 <!ENTITY contextEditAsNew1.label "Opnieuw verzenden...">
 <!ENTITY contextEditAsNew1.accesskey "e">
+<!ENTITY contextRedirect.label "Redirect">
 <!ENTITY contextReplySender.label "Afzender beantwoorden">
 <!ENTITY contextReplySender.accesskey "A">
 <!ENTITY contextReplyNewsgroup.label "Nieuwsgroep beantwoorden">
@@ -706,14 +709,3 @@
 <!ENTITY pbLightningQuickView.label "Snelvoorbeeld">
 <!ENTITY lightning.calendar.label "Agenda">
 <!ENTITY lightning.tasks.label "Taken">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY redirectButton.label "Redirect">
-<!ENTITY redirectCmd.key "e">
-<!ENTITY contextRedirect.label "Redirect">
-<!ENTITY redirectButton.tooltip "Redirect selected message">
-<!ENTITY redirectCmd.label "Redirect">
