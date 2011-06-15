@@ -107,3 +107,14 @@
 <!ENTITY radioNotDownload.accesskey "N">
 <!ENTITY radioAskDownload "Mij vragen">
 <!ENTITY radioAskDownload.accesskey "a">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY textGoingOnline1 "When going online:">
+<!ENTITY radioNotSend1 "Do not send unsent messages">
+<!ENTITY radioAskUnsent1 "Ask to send unsent messages">
+<!ENTITY radioAutoSend1 "Send unsent messages">
+<!ENTITY certSelection.label "When a server requests my certificate:">

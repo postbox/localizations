@@ -99,3 +99,10 @@
 -->
 
 <!ENTITY pbDefaultFonSize.label                           "default">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
