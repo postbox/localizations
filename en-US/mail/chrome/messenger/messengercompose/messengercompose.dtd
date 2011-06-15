@@ -128,7 +128,7 @@
 <!ENTITY checkSpellingCmd.accesskey "h">
 <!ENTITY enableInlineSpellChecker.label "Spell Check As You Type">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY quoteCmd.label "Insert Selected Message">
+<!ENTITY quoteCmd.label "Selected Message">
 <!ENTITY quoteCmd.accesskey "t">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
@@ -314,6 +314,10 @@
 <!-- this is an entity because it can vary by locale, and which type has the most kinds on the locale 
      for en-US, it is "Research", which has "Wikipedia" + "Dictionary" + "Thesaurus" -->
 <!ENTITY compose-sidebar-default-width            "302">
+
+<!-- this is an entity so that we can line up the format toolbar with the addressing rows.  see bug #7715 for details -->
+<!ENTITY formatToolbarPaddingLeft    "70">
+<!ENTITY formatToolbarPaddingLeftMac "75">
 
 <!-- topic context menu -->
 <!ENTITY pbTopicContextMenu-edit.label         "Edit">

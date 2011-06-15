@@ -67,11 +67,9 @@
 <!ENTITY removeSignatureButton.accesskey "l">
 
 <!ENTITY pbItemAdvanced.label "Advanced">
-<!ENTITY pb.quotingConversationsSortOrder.description "When summarizing, quote messages:">
+<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
 <!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
-<!ENTITY pb.quotingConversationsSortOrderOldest.accesskey "e">
 <!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
-<!ENTITY pb.quotingConversationsSortOrderNewest.accesskey "w">
 <!ENTITY pb.QuickReply.label "Default Quick Reply to:">
 <!ENTITY pb.QuickReply.accesskey "Q">
 <!ENTITY pb.quickreply.replyall.label "Reply All">

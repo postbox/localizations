@@ -442,7 +442,7 @@
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Get Mail">
-<!ENTITY newMsgButton.label "New Message">
+<!ENTITY newMsgButton.label "Compose">
 <!ENTITY replyButton.label "Reply">
 <!ENTITY replyAllButton.label "Reply All">
 <!ENTITY sendButton.label "Send">
@@ -455,7 +455,7 @@
 <!ENTITY backButton1.label "Back">
 <!ENTITY goForwardButton1.label "Forward">
 <!ENTITY deleteButton.label "Delete">
-<!ENTITY markButton.label "Mark As">
+<!ENTITY markButton.label "Mark">
 <!ENTITY printButton.label "Print">
 <!ENTITY stopButton.label "Stop">
 <!ENTITY throbberItem.title "Activity Indicator">

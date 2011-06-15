@@ -42,16 +42,14 @@
 
 <!-- conversation preferences -->
 <!ENTITY pb.itemConversation.label        "Conversations">
-<!ENTITY pb.conversations.sortorder.description "Display messages in conversations with:">
+<!ENTITY pb.conversations.display.label "Include messages from:">
+<!ENTITY pb.conversations.folderonly.label1 "The current folder">
+<!ENTITY pb.conversations.all.label1 "Every folder">
+
+<!ENTITY pb.conversations.sortorder.label "Order conversations by:">
 <!ENTITY pb.conversations.sortoldest.label "Oldest messages first">
-<!ENTITY pb.conversations.sortoldest.accesskey "e">
 <!ENTITY pb.conversations.sortnewest.label "Newest messages first">
-<!ENTITY pb.conversations.sortnewest.accesskey "w">
-<!ENTITY pb.conversations.description.label "When displaying a conversation, include messages: ">
-<!ENTITY pb.conversations.folderonly.label "Only from the current folder">
-<!ENTITY pb.conversations.folderonly.accesskey "r">
-<!ENTITY pb.conversations.all.label "From every folder">
-<!ENTITY pb.conversations.all.accesskey "m">
+
 <!ENTITY pb.conversations.read.label "When displaying a conversation, mark its messages as read">
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Include contact photos for each participant in the conversation">
