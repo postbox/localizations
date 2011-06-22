@@ -337,6 +337,7 @@
 <!ENTITY pbBubbleContextMenu-add.label         "Add to Address Book">
 
 <!ENTITY pbInsertHTMLToolbarCmd.label "Insert HTML or edit selected HTML">
+<!ENTITY pbRemoveTextToolbarCmd.label "Remove text styles">
 
 <!ENTITY pbComposeSidebar.label "Sidebar">
 <!ENTITY pbComposeSidebar.accesskey "S">

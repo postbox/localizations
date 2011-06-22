@@ -3,23 +3,25 @@
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
-<!ENTITY newFolderCmd.label "Folder...">
+<!ENTITY newFolderCmd.label "Folder…">
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY newTabCmd.label "New Tab">
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Close Tab">
 <!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY newVirtualFolderCmd.label "Smart Folder...">
+<!ENTITY newVirtualFolderCmd.label "Smart Folder…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "Other Accounts…">
-<!ENTITY newOtherAccountsCmd.accesskey "O">
+<!ENTITY addRSSAccountButton.label "RSS Account…">
+<!ENTITY addRSSAccountButton.accesskey "R">
+<!ENTITY addNewsgroupAccountButton.label "Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY newEmailAccountCmd.label "Mail Account…">
 <!ENTITY newEmailAccountCmd.accesskey "A">
 <!ENTITY newTaskCmd.label "To-Do">
 <!ENTITY newTaskCmd.accesskey "T">
 <!ENTITY newTaskCmd.key "n">
 <!ENTITY openMessageMenu.label "Open">
-<!ENTITY openMessageFileCmd.label "Open Saved Message...">
+<!ENTITY openMessageFileCmd.label "Open Saved Message…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Attachments">
 <!ENTITY openAttachmentCmd.accesskey "A">

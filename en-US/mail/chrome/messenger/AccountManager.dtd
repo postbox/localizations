@@ -6,8 +6,10 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Add Mail Account…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addOtherAccountButton.label "Add Other Account…">
-<!ENTITY addOtherAccountButton.accesskey "O">
+<!ENTITY addRSSAccountButton.label "Add RSS Account…">
+<!ENTITY addRSSAccountButton.accesskey "R">
+<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Set as Default">
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Remove Account">
