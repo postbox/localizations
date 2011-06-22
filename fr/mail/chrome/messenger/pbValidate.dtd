@@ -25,3 +25,30 @@
 <!ENTITY thanksInfo3b.label " ou suivez-nous sur ">
 <!ENTITY PostboxTwitter.label "Twitter">
 <!ENTITY thanksInfo3c.label ".">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY changeLicenseKey.label "Code">
+<!ENTITY buttons.top "187">
+<!ENTITY fourthRow.top "140">
+<!ENTITY okButton.label "OK">
+<!ENTITY buttonsMac.top "179">
+<!ENTITY facebookLink.left "65">
+<!ENTITY facebook.top "100">
+<!ENTITY helpUs.label "Help us get the word out!">
+<!ENTITY licensedThroughMAS.label "This copy is licensed through the Apple Mac App Store.">
+<!ENTITY secondRow.top "100">
+<!ENTITY subtitle.top "40">
+<!ENTITY firstRow.top "80">
+<!ENTITY facebook.left "30">
+<!ENTITY title.left "20">
+<!ENTITY changeName.label "Name">
+<!ENTITY compose.label "Compose an update on ">
+<!ENTITY helpUsFacebook.label "Facebook">
+<!ENTITY twitter.top "130">
+<!ENTITY title.top "20">
+<!ENTITY helpUsTwitter.label "Twitter">
+<!ENTITY thirdRow.top "120">

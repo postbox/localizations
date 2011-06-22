@@ -414,3 +414,10 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY formatToolbarPaddingLeftMac "75">
 <!ENTITY formatToolbarPaddingLeft    "70">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbRemoveTextToolbarCmd.label "Remove text styles">

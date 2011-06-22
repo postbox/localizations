@@ -709,3 +709,13 @@
 <!ENTITY pbLightningQuickView.label "Snelvoorbeeld">
 <!ENTITY lightning.calendar.label "Agenda">
 <!ENTITY lightning.tasks.label "Taken">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY addRSSAccountButton.label "RSS Account…">
+<!ENTITY addNewsgroupAccountButton.label "Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.accesskey "N">
+<!ENTITY addRSSAccountButton.accesskey "R">

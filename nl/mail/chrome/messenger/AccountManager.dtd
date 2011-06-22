@@ -39,3 +39,12 @@
 <!ENTITY pbAccountAddActionsButton.label "Toevoegen...">
 <!ENTITY pbAccountRemoveActionsButton.label "Verwijderen">
 <!ENTITY pbAccountRemoveActionsButton.accesskey "r">
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY addRSSAccountButton.accesskey "R">
+<!ENTITY addRSSAccountButton.label "Add RSS Account…">
+<!ENTITY addNewsgroupAccountButton.accesskey "N">
+<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">

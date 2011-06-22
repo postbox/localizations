@@ -754,3 +754,13 @@ entities below were automatically added by l10nmerge
 <!ENTITY contextRedirect.label "Redirect">
 <!ENTITY redirectButton.tooltip "Redirect selected message">
 <!ENTITY redirectCmd.label "Redirect">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY addRSSAccountButton.label "RSS Account…">
+<!ENTITY addNewsgroupAccountButton.label "Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.accesskey "N">
+<!ENTITY addRSSAccountButton.accesskey "R">
