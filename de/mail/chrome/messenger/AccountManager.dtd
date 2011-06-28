@@ -6,8 +6,10 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Mail Konto hinzufügen…">
 <!ENTITY addMailAccountButton.accesskey "a">
-<!ENTITY addOtherAccountButton.label "Anderes Konto hinzufügen…">
-<!ENTITY addOtherAccountButton.accesskey "o">
+<!ENTITY addRSSAccountButton.label "Add RSS Account…">
+<!ENTITY addRSSAccountButton.accesskey "R">
+<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Als Standard festlegen">
 <!ENTITY setDefaultButton.accesskey "s">
 <!ENTITY removeButton.label "Konto entfernen">
@@ -39,12 +41,3 @@
 <!ENTITY pbAccountAddActionsButton.label "Hinzufügen…">
 <!ENTITY pbAccountRemoveActionsButton.label "Entfernen">
 <!ENTITY pbAccountRemoveActionsButton.accesskey "r">
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addRSSAccountButton.label "Add RSS Account…">
-<!ENTITY addNewsgroupAccountButton.accesskey "N">
-<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
