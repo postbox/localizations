@@ -1,3 +1,5 @@
+<!ENTITY changeLicenseKey.label "Code">
+<!ENTITY changeName.label "Name">
 <!ENTITY licenseKey.label "Код лицензии:">
 <!ENTITY name.label "Имя:">
 <!ENTITY enterLicense.label "Ввести код лицензии сейчас">
@@ -8,47 +10,30 @@
 
 <!ENTITY changeLicenseTitle.label "Код лицензии Postbox">
 <!ENTITY changeLicenseInfo.label "Эта копия Postbox зарегистрирована на:">
-<!ENTITY changeLicense.label "Изменить код лицензии">
 
-<!ENTITY referFriend.label "Get Referral Code">
+<!ENTITY licensedThroughMAS.label "This copy is licensed through the Apple Mac App Store.">
 
 <!ENTITY licenseConfirmed.label "Код лицензии подтверждён!">
 
 <!ENTITY thanksTitle.label "Спасибо за приобретение Postbox!">
-
-<!ENTITY thanksInfo2a.label "Вы можете получить информацию о новостях, обновлениях и специальных акциях Postbox, подписавшись на нашу ">
-<!ENTITY PostboxNewsletter.label "рассылку">
-<!ENTITY thanksInfo2b.label ".">
-
-<!ENTITY thanksInfo3a.label "For up to the minute news, please visit our ">
-<!ENTITY PostboxBlog.label "Блог">
-<!ENTITY thanksInfo3b.label " or follow us on ">
-<!ENTITY PostboxTwitter.label "Твиттер">
-<!ENTITY thanksInfo3c.label ".">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY changeLicenseKey.label "Code">
-<!ENTITY buttons.top "187">
-<!ENTITY fourthRow.top "140">
-<!ENTITY okButton.label "OK">
-<!ENTITY buttonsMac.top "179">
-<!ENTITY facebookLink.left "65">
-<!ENTITY facebook.top "100">
 <!ENTITY helpUs.label "Help us get the word out!">
-<!ENTITY licensedThroughMAS.label "This copy is licensed through the Apple Mac App Store.">
-<!ENTITY secondRow.top "100">
-<!ENTITY subtitle.top "40">
-<!ENTITY firstRow.top "80">
-<!ENTITY facebook.left "30">
-<!ENTITY title.left "20">
-<!ENTITY changeName.label "Name">
 <!ENTITY compose.label "Compose an update on ">
 <!ENTITY helpUsFacebook.label "Facebook">
-<!ENTITY twitter.top "130">
-<!ENTITY title.top "20">
 <!ENTITY helpUsTwitter.label "Twitter">
+<!ENTITY okButton.label "OK">
+
+<!ENTITY title.top "20">
+<!ENTITY title.left "20">
+<!ENTITY subtitle.top "40">
+<!ENTITY firstRow.top "80">
+<!ENTITY secondRow.top "100">
 <!ENTITY thirdRow.top "120">
+<!ENTITY fourthRow.top "140">
+
+<!ENTITY buttonsMac.top "179">
+<!ENTITY buttons.top "187">
+
+<!ENTITY facebook.top "100">
+<!ENTITY twitter.top "130">
+<!ENTITY facebook.left "30">
+<!ENTITY facebookLink.left "65">
