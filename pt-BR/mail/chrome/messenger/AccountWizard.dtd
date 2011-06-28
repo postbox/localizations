@@ -20,13 +20,6 @@
 <!ENTITY identityTitle.label "Identidade">
 <!ENTITY identityDesc.label "Cada conta tem sua própria identidade, que é a informação que identifica você aos destinatários das suas mensagens.">
 
-<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Forneça o nome que você quer que seja exibido no campo “De” das mensagens que você envia.">
-<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
-  1, do not translate two of "&quot;"
-  2, Use localized full name instead of "John Smith"
--->
-<!ENTITY fullnameExample.label "(exemplo: “Marcos Silva”).">
 <!ENTITY fullnameLabel.label "Nome:">
 <!ENTITY fullnameLabel.accesskey "N">
 
