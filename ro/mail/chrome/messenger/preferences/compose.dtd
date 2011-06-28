@@ -106,3 +106,11 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
+<!ENTITY pbPlaySoundOnSend.accesskey "P">

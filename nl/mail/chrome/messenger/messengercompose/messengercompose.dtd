@@ -374,3 +374,11 @@
 -->
 
 <!ENTITY pbRemoveTextToolbarCmd.label "Remove text styles">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbInsertImage.label "Enter a Internet address (URL) or local file location:">
+<!ENTITY pbInsertImage.accesskey "E">
