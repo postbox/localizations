@@ -2,7 +2,6 @@
 <!ENTITY editTagPanelAssignTopic.label  "Assigner une étiquette">
 <!ENTITY editTagPanelMakeFavorite.label "Transformer en étiquette favorite">
 <!ENTITY editTagPanelAddTopic.label     "OK">
-<!ENTITY editTagPanelCancel.label       "Annuler">
 <!ENTITY showTopicsCmd.key              "t">
 <!ENTITY tagPanel.width                 "300">
 <!ENTITY tagpanel.expanderDown.tooltip  "Montrer les étiquettes favorites">

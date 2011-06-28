@@ -11,8 +11,10 @@
 <!ENTITY closeTabCmd.accesskey "m">
 <!ENTITY newVirtualFolderCmd.label "Dossier virtuel…">
 <!ENTITY newVirtualFolderCmd.accesskey "v">
-<!ENTITY newOtherAccountsCmd.label "Autres comptes…">
-<!ENTITY newOtherAccountsCmd.accesskey "o">
+<!ENTITY addRSSAccountButton.label "RSS Account…">
+<!ENTITY addRSSAccountButton.accesskey "R">
+<!ENTITY addNewsgroupAccountButton.label "Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY newEmailAccountCmd.label "Compte de courrier…">
 <!ENTITY newEmailAccountCmd.accesskey "C">
 <!ENTITY newTaskCmd.label "À faire">
@@ -709,13 +711,3 @@
 <!ENTITY pbLightningQuickView.label "Coup d'oeil">
 <!ENTITY lightning.calendar.label "Calendar">
 <!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY addRSSAccountButton.label "RSS Account…">
-<!ENTITY addNewsgroupAccountButton.label "Newsgroup Account…">
-<!ENTITY addNewsgroupAccountButton.accesskey "N">
-<!ENTITY addRSSAccountButton.accesskey "R">

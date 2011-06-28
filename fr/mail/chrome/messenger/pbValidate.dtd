@@ -1,3 +1,5 @@
+<!ENTITY changeLicenseKey.label "Code">
+<!ENTITY changeName.label "Name">
 <!ENTITY licenseKey.label "Clé de licence :">
 <!ENTITY name.label "Nom :">
 <!ENTITY enterLicense.label "Entrez votre clé d'enregistrement maintenant">
@@ -8,47 +10,30 @@
 
 <!ENTITY changeLicenseTitle.label "Code de licence Postbox">
 <!ENTITY changeLicenseInfo.label "Cette copie de Postbox appartient à :">
-<!ENTITY changeLicense.label "Changer le code de licence">
 
-<!ENTITY referFriend.label "Get Referral Code">
+<!ENTITY licensedThroughMAS.label "This copy is licensed through the Apple Mac App Store.">
 
 <!ENTITY licenseConfirmed.label "Code de licence validé !">
 
 <!ENTITY thanksTitle.label "Merci d'avoir acheté Postbox!">
-
-<!ENTITY thanksInfo2a.label "Restez informés des nouveautés, mises à jour et promotions de Postbox en souscrivant à notre ">
-<!ENTITY PostboxNewsletter.label "lettre d'information">
-<!ENTITY thanksInfo2b.label ".">
-
-<!ENTITY thanksInfo3a.label "Pour les nouveautés de dernière minute, merci de visiter notre ">
-<!ENTITY PostboxBlog.label "Blog">
-<!ENTITY thanksInfo3b.label " ou suivez-nous sur ">
-<!ENTITY PostboxTwitter.label "Twitter">
-<!ENTITY thanksInfo3c.label ".">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY changeLicenseKey.label "Code">
-<!ENTITY buttons.top "187">
-<!ENTITY fourthRow.top "140">
-<!ENTITY okButton.label "OK">
-<!ENTITY buttonsMac.top "179">
-<!ENTITY facebookLink.left "65">
-<!ENTITY facebook.top "100">
 <!ENTITY helpUs.label "Help us get the word out!">
-<!ENTITY licensedThroughMAS.label "This copy is licensed through the Apple Mac App Store.">
-<!ENTITY secondRow.top "100">
-<!ENTITY subtitle.top "40">
-<!ENTITY firstRow.top "80">
-<!ENTITY facebook.left "30">
-<!ENTITY title.left "20">
-<!ENTITY changeName.label "Name">
 <!ENTITY compose.label "Compose an update on ">
 <!ENTITY helpUsFacebook.label "Facebook">
-<!ENTITY twitter.top "130">
-<!ENTITY title.top "20">
 <!ENTITY helpUsTwitter.label "Twitter">
+<!ENTITY okButton.label "OK">
+
+<!ENTITY title.top "20">
+<!ENTITY title.left "20">
+<!ENTITY subtitle.top "40">
+<!ENTITY firstRow.top "80">
+<!ENTITY secondRow.top "100">
 <!ENTITY thirdRow.top "120">
+<!ENTITY fourthRow.top "140">
+
+<!ENTITY buttonsMac.top "179">
+<!ENTITY buttons.top "187">
+
+<!ENTITY facebook.top "100">
+<!ENTITY twitter.top "130">
+<!ENTITY facebook.left "30">
+<!ENTITY facebookLink.left "65">
