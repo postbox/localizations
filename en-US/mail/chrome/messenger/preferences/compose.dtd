@@ -80,3 +80,6 @@
 <!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing">
 
 <!ENTITY pbDefaultFonSize.label                           "default">
+
+<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
+<!ENTITY pbPlaySoundOnSend.accesskey "P">

@@ -363,4 +363,7 @@
 <!ENTITY pbInsertLink.label "Enter the Internet address (URL) for this link.">
 <!ENTITY pbInsertLink.accesskey "E">
 
+<!ENTITY pbInsertImage.label "Enter a Internet address (URL) or local file location:">
+<!ENTITY pbInsertImage.accesskey "E">
+
 <!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">
