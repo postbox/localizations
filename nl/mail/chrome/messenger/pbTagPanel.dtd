@@ -2,7 +2,6 @@
 <!ENTITY editTagPanelAssignTopic.label  "Label toewijzen">
 <!ENTITY editTagPanelMakeFavorite.label "Maak hier een favoriet label van">
 <!ENTITY editTagPanelAddTopic.label     "OK">
-<!ENTITY editTagPanelCancel.label       "Annuleren">
 <!ENTITY showTopicsCmd.key              "t">
 <!ENTITY tagPanel.width                 "340">
 <!ENTITY tagpanel.expanderDown.tooltip  "Toon favoriete labels">

@@ -67,11 +67,9 @@
 <!ENTITY removeSignatureButton.accesskey "V">
 
 <!ENTITY pbItemAdvanced.label "Geavanceerd">
-<!ENTITY pb.quotingConversationsSortOrder.description "When summarizing on reply, quote messages:">
+<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
 <!ENTITY pb.quotingConversationsSortOrderOldest.label "Oudste berichten eerst">
-<!ENTITY pb.quotingConversationsSortOrderOldest.accesskey "e">
 <!ENTITY pb.quotingConversationsSortOrderNewest.label "Nieuwste berichten eerst">
-<!ENTITY pb.quotingConversationsSortOrderNewest.accesskey "w">
 <!ENTITY pb.QuickReply.label "Standaard snel antwoorden aan:">
 <!ENTITY pb.QuickReply.accesskey "S">
 <!ENTITY pb.quickreply.replyall.label "Allen beantwoorden">
@@ -82,17 +80,6 @@
 <!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing on reply">
 
 <!ENTITY pbDefaultFonSize.label                           "standaard">
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
 
 <!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
