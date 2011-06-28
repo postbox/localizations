@@ -315,6 +315,10 @@
      for en-US, it is "Research", which has "Wikipedia" + "Dictionary" + "Thesaurus" -->
 <!ENTITY compose-sidebar-default-width            "302">
 
+<!-- this is an entity so that we can line up the format toolbar with the addressing rows.  see bug #7715 for details -->
+<!ENTITY formatToolbarPaddingLeft    "70">
+<!ENTITY formatToolbarPaddingLeftMac "75">
+
 <!-- topic context menu -->
 <!ENTITY pbTopicContextMenu-edit.label         "Edit">
 <!ENTITY pbTopicContextMenu-edit.accesskey     "E">
@@ -333,6 +337,7 @@
 <!ENTITY pbBubbleContextMenu-add.label         "Add to Address Book">
 
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
+<!ENTITY pbRemoveTextToolbarCmd.label "Remove text styles">
 
 <!ENTITY pbComposeSidebar.label "Sidebar">
 <!ENTITY pbComposeSidebar.accesskey "S">
@@ -358,27 +363,7 @@
 <!ENTITY pbInsertLink.label "Enter the Internet address (URL) for this link.">
 <!ENTITY pbInsertLink.accesskey "E">
 
-<!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY formatToolbarPaddingLeftMac "75">
-<!ENTITY formatToolbarPaddingLeft    "70">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbRemoveTextToolbarCmd.label "Remove text styles">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
 <!ENTITY pbInsertImage.label "Enter a Internet address (URL) or local file location:">
 <!ENTITY pbInsertImage.accesskey "E">
+
+<!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">
