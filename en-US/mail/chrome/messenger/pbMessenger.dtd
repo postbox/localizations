@@ -351,6 +351,6 @@
 <!-- Help Menu -->
 <!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">
 <!ENTITY pbKeyboardShortCuts.accesskey "K">
-<!ENTITY guideCmd.label "Quickstart Guide">
+<!ENTITY guideCmd.label "User Guide">
 <!ENTITY guideCmd.accesskey "r">
 
