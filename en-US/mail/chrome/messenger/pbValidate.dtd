@@ -17,8 +17,9 @@
 
 <!ENTITY thanksTitle.label "Thank you for purchasing Postbox!">
 <!ENTITY helpUs.label "Help us get the word out!">
-<!ENTITY compose.label "Compose an update on ">
+<!ENTITY composeFacebook.label "Tell your friends on ">
 <!ENTITY helpUsFacebook.label "Facebook">
+<!ENTITY composeTwitter.label "Post an update on ">
 <!ENTITY helpUsTwitter.label "Twitter">
 <!ENTITY okButton.label "OK">
 
@@ -33,7 +34,7 @@
 <!ENTITY buttonsMac.top "179">
 <!ENTITY buttons.top "187">
 
-<!ENTITY facebook.top "100">
-<!ENTITY twitter.top "130">
+<!ENTITY facebook.top "110">
+<!ENTITY twitter.top "140">
 <!ENTITY facebook.left "30">
 <!ENTITY facebookLink.left "65">
