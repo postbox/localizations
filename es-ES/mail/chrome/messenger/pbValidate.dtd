@@ -58,3 +58,11 @@
 <!ENTITY title.top "20">
 <!ENTITY helpUsTwitter.label "Twitter">
 <!ENTITY thirdRow.top "120">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY composeTwitter.label "Post an update on ">
+<!ENTITY composeFacebook.label "Tell your friends on ">
