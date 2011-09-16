@@ -45,3 +45,12 @@
 
 <!ENTITY composeTwitter.label "Post an update on ">
 <!ENTITY composeFacebook.label "Tell your friends on ">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY invalidLicenseInvalid3.label "for immediate assistance.">
+<!ENTITY invalidLicenseInvalid2.label "Postbox Support">
+<!ENTITY invalidLicenseInvalid1.label "Please enter a valid license code, or contact us at">
