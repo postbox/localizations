@@ -10,6 +10,7 @@
 <!ENTITY searchResultsNoMatchesFound.desc          "Ningún elemento coincide con su búsqueda.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Intentar la búsqueda en todas las carpetas.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Try setting your Focus to All.">
+<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
 <!ENTITY showSearchOptions.label                   "Mostrar opciones de búsqueda">
 
 <!-- attachments -->
@@ -50,11 +51,10 @@
 <!-- XXX localization note: should "Quick Look" be translated? -->
 <!ENTITY searchresults.quickLookButton.label       "Vista previa">
 <!ENTITY searchresults.importPhotoButtonMac.label  "iPhoto">
-<!ENTITY searchresults.addResultButton.label       "Añadir firma...">
 
 <!ENTITY searchBar-options.tooltip                 "Mostrar opciones de búsqueda">
 <!ENTITY location.label                            "Cerca:">
-<!ENTITY location.emptytext                        "Ciudad, estado o CP">
+<!ENTITY location.placeholder                        "City, State or ZIP">
 <!ENTITY flickr.private.tooltip                    "Sólo tú puedes ver esta foto en flickr.com">
 
 <!-- for rich search in compose -->
@@ -75,17 +75,3 @@
 <!ENTITY picasa.label "Albumes web Picasa">
 <!ENTITY photobucket.label "Mi Photobucket">
 <!-- XXX end localization note: Do not translate these service names -->
-
-
-<!--
-# entities below were automatically added by l10nmerge
--->
-
-<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
-
-
-<!--
-# entities below were automatically added by l10nmerge
--->
-
-<!ENTITY location.placeholder                        "City, State or ZIP">

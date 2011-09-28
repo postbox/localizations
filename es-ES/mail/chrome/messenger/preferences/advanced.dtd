@@ -67,11 +67,9 @@
 <!ENTITY kb.label "KB">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certSelection.label "When a server requests my certificate:">
 <!ENTITY certs.auto                      "Select one automatically">
-<!ENTITY certs.auto.accesskey            "m">
 <!ENTITY certs.ask                       "Ask me every time">
-<!ENTITY certs.ask.accesskey             "A">
 
 <!ENTITY viewCertificates.label         "Ver certificados">
 <!ENTITY viewCertificates.accesskey     "a">
@@ -93,13 +91,11 @@
 <!ENTITY radioAlwaysOnline "Always start up online">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline "Send unsent messages when going online?">
-<!ENTITY radioAutoSend "Yes">
-<!ENTITY radioAutoSend.accesskey "Y">
-<!ENTITY radioNotSend "No">
-<!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent "Ask me">
-<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOnline1 "When going online:">
+<!ENTITY radioAutoSend1 "Send unsent messages">
+<!ENTITY radioNotSend1 "Do not send unsent messages">
+<!ENTITY radioAskUnsent1 "Ask to send unsent messages">
+
 <!ENTITY textGoingOffline "Download messages for offline use when going offline?">
 <!ENTITY radioAutoDownload "Yes">
 <!ENTITY radioAutoDownload.accesskey "e">

@@ -1,15 +1,7 @@
 <!ENTITY quickfilePanelFileMessage.label  "Move Message">
-<!ENTITY quickfilePaneFile.label          "OK">
-<!ENTITY quickfilePaneCancel.label        "Cancel">
-<!ENTITY showQuickfileCmd.key             "v">
-<!ENTITY quickfilePanel.width             "300">
-
-
-<!--
-# entities below were automatically added by l10nmerge
--->
-
-<!ENTITY quickfilePanelFile.label         "OK">
 <!ENTITY quickswitchPanelSwitch.label     "Go To Folder">
+<!ENTITY quickfilePanelFile.label         "OK">
 <!ENTITY quickfilePanelCancel.label       "Cancel">
+<!ENTITY showQuickfileCmd.key             "v">
 <!ENTITY showQuickswitchCmd.key           "g">
+<!ENTITY quickfilePanel.width             "300">

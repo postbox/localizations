@@ -58,14 +58,6 @@
 <!ENTITY pbParticipantsField.label "Participants:">
 <!ENTITY saveAll.label "Guardar todo..">
 
-<!ENTITY messageHeader.editMessageButton.label      "Editar">
-<!ENTITY messageHeader.gatherMessageButton.label    "Mostrar todo">
-<!ENTITY messageHeader.tagMessageButton.tooltip     "Asignar etiqueta(s) al mensaje.">
-<!ENTITY messageHeader.reply.label "Reply">
-<!ENTITY messageHeader.reply.tooltip "Reply to the message.">
-<!ENTITY messageHeader.replyAll.label "Reply All">
-<!ENTITY messageHeader.forward.label "Forward">
-
 <!ENTITY openAttachmentCmd.label    "Abrir">
 <!ENTITY openAttachmentCmd.accesskey    "b">
 <!ENTITY saveAsAttachmentCmd.label    "Guardar como…">
@@ -94,25 +86,5 @@
 <!ENTITY pbMsgHdrView.conversationMsgReply.label "responder">
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "responder a todos">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "reenviar">
-
-
-<!--
-# entities below were automatically added by l10nmerge
--->
-
-<!ENTITY messageHeader.quickreply.tooltip "Quick Reply to the message.">
-
-
-<!--
-# entities below were automatically added by l10nmerge
--->
-
-<!ENTITY messageHeader.expand.label                 "Expand">
-<!ENTITY messageHeader.collapse.label               "Collapse">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
 
 <!ENTITY pbMsgHdrView.loadingMessageBody.label "Loading...">

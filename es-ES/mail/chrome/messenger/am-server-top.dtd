@@ -66,38 +66,18 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Preguntarme antes de descargar más de">
-<!ENTITY maxMessagesStart.accesskey "m">
+<!ENTITY maxMessagesStart1.label "Ask when downloading more than">
+<!ENTITY maxMessagesStart1.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mensajes">
-<!ENTITY alwaysAuthenticate.label "Siempre solicitar identificación cuando se conecte con este servidor">
-<!ENTITY alwaysAuthenticate.accesskey "p">
-<!ENTITY newsrcFilePath.label "archivo newsrc:">
-<!ENTITY newsrcFilePath.accesskey "a">
-<!ENTITY localPath.label "Directorio local:">
-<!ENTITY localPath.accesskey "l">
+<!ENTITY alwaysAuthenticate1.label "Always request authentication">
+<!ENTITY alwaysAuthenticate1.accesskey "w">
 <!ENTITY abbreviate.label "Mostar los nombres de los grupos de noticas en la carpeta de correo como:">
 <!ENTITY abbreviateOn.label "Nombres completos (Por ejemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nombres abreviados (Por ejemplo,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzadas…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset1.label "Encoding:">
-<!ENTITY localFolderPicker.label "Seleccione directorio local">
-<!ENTITY browseFolder.label "Examinar…">
-<!ENTITY browseFolder.accesskey "x">
-<!ENTITY newsrcPicker.label "Seleccionar fichero newsrc">
-<!ENTITY browseNewsrc.label "Examinar…">
-<!ENTITY browseNewsrc.accesskey "E">
 
 <!ENTITY accountName.label "Account Name:">
 <!ENTITY accountName.accesskey "n">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY maxMessagesStart1.accesskey "m">
-<!ENTITY maxMessagesStart1.label "Ask when downloading more than">
-<!ENTITY alwaysAuthenticate1.label "Always request authentication">
-<!ENTITY alwaysAuthenticate1.accesskey "w">

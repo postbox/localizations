@@ -5,13 +5,6 @@
 <!ENTITY dataPaneEvent.label          "Eventos">
 <!ENTITY dataPaneURL.label            "Enlaces">
 <!ENTITY dataPaneAddresses.label      "Direcciones">
-<!ENTITY dataPaneImageMac.label       "IMAGENES">
-<!ENTITY dataPaneDocumentMac.label    "ADJUNTOS">
-<!ENTITY dataPaneDatesMac.label       "FECHAS">
-<!ENTITY dataPaneEventMac.label       "EVENTOS">
-<!ENTITY dataPaneURLMac.label         "ENLACES">
-<!ENTITY dataPaneAddressesMac.label   "DIRECCIONES">
-<!ENTITY dataPaneFindRecent.label     "Búsqueda reciente:">
 
 <!-- data pane attachment popup -->
 <!-- XX Localisation note: Do not translate service names -->
