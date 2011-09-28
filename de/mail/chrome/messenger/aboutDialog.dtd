@@ -4,7 +4,7 @@
 
 <!ENTITY aboutDialog.title          "Über &brandFullName;">
 
-<!ENTITY productDescription.label    "Hand-crafted, and made with love, in San Francisco, California.">
+<!ENTITY productDescription.label    "Hand-crafted, and made with love, in San Francisco, Califorrnia.">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Licensing Information">
