@@ -1,8 +1,3 @@
 <!ENTITY pbGetExtensions.label           "Get Extensions">
 <!ENTITY pbInstalledExtensions.label     "Installed Extensions">
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
 <!ENTITY pbGoBack.label  "Go Back">
