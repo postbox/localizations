@@ -6,3 +6,10 @@
 <!ENTITY tagPanel.width                 "300">
 <!ENTITY tagpanel.expanderDown.tooltip  "Показать любимые метки">
 <!ENTITY tagpanel.expanderUp.tooltip    "Скрыть любимые метки">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY showLabelCmd.key              "l">

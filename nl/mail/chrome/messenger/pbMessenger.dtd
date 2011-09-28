@@ -354,3 +354,19 @@
 <!ENTITY guideCmd.label "Snelstart handleiding">
 <!ENTITY guideCmd.accesskey "r">
 
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbContentTextContextMenu-evernote.label       "Add to Evernote">
+<!ENTITY fullScreenMode.label "Enter Full Screen">
+<!ENTITY pbMessagePaneContext-evernote.label     "Add to Evernote">
+<!ENTITY pbContentTextContextMenu-date.accesskey        "d">
+<!ENTITY fullScreenMode.accesskey "l">
+<!ENTITY evernoteButton.tooltip "Add to Evernote">
+<!ENTITY pbMessagePaneContext-evernote.accesskey "e">
+<!ENTITY pbContentTextContextMenu-date.label            "Add to Calendar">
+<!ENTITY pbContentTextContextMenu-evernote.accesskey  "e">
+<!ENTITY evernoteButton.label "Evernote">

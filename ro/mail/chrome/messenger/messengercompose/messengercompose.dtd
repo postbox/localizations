@@ -429,3 +429,11 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY pbInsertImage.label "Enter a Internet address (URL) or local file location:">
 <!ENTITY pbInsertImage.accesskey "E">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY sendAndArchive.label "Send and Archive">
+<!ENTITY sendLaterAndArchive.label "Send Later and Archive">

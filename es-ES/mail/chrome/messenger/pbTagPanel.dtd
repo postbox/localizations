@@ -6,3 +6,10 @@
 <!ENTITY tagPanel.width                 "300">
 <!ENTITY tagpanel.expanderDown.tooltip  "Mostrar etiquetas favoritas">
 <!ENTITY tagpanel.expanderUp.tooltip    "Esconder etiquetas favoritas">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY showLabelCmd.key              "l">

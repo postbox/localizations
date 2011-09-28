@@ -764,3 +764,16 @@ entities below were automatically added by l10nmerge
 <!ENTITY addNewsgroupAccountButton.label "Newsgroup Account…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY addRSSAccountButton.accesskey "R">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY messageHeader.assignLabel.label            "Assign Label">
+<!ENTITY filtersApplyToMessage.accesskey "s">
+<!ENTITY folderContextColor.accesskey "L">
+<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
+<!ENTITY folderContextColor.label "Label Color">
+<!ENTITY filtersApplyToSelection.accesskey "S">
+<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">

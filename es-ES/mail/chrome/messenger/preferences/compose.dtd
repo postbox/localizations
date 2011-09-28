@@ -114,3 +114,10 @@
 
 <!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbSendAndArchive.label "Enable send and archive">

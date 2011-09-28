@@ -51,3 +51,14 @@
 <!ENTITY ignoreThread.label "Ignorera tråd">
 <!ENTITY watchThread.label "Bevaka tråd">
 <!ENTITY stopExecution.label "Avbryt filterkörning">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY contextIncoming.label "Checking Mail">
+<!ENTITY contextDesc.accesskey "w">

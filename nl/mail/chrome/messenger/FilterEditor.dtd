@@ -51,3 +51,14 @@
 <!ENTITY ignoreThread.label "Conversatie negeren">
 <!ENTITY watchThread.label "Conversatie volgen">
 <!ENTITY stopExecution.label "Uitvoeren van filter stoppen">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY contextIncoming.label "Checking Mail">
+<!ENTITY contextDesc.accesskey "w">

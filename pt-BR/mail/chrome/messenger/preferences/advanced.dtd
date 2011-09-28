@@ -103,3 +103,13 @@
 <!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload "Ask me">
 <!ENTITY radioAskDownload.accesskey "A">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
+<!ENTITY useGmailShortcuts.accesskey "l">
+<!ENTITY pbUseGravatar.accesskey "g">
+<!ENTITY useGmailShortcuts.label "Use Gmail keyboard shortcuts">

@@ -6,3 +6,10 @@
 <!ENTITY tagPanel.width                 "340">
 <!ENTITY tagpanel.expanderDown.tooltip  "Toon favoriete labels">
 <!ENTITY tagpanel.expanderUp.tooltip    "Verberg favoriete labels">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY showLabelCmd.key              "l">
