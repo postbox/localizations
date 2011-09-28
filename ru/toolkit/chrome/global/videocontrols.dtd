@@ -1,5 +1,0 @@
-<!ENTITY playButton.playLabel "Воспроизвести">
-<!ENTITY playButton.pauseLabel "Приостановить">
-<!ENTITY muteButton.muteLabel "Убрать звук">
-<!ENTITY muteButton.unmuteLabel "Восстановить звук">
-<!ENTITY scrubberScale.nameFormat "прошло #1 из #2">
