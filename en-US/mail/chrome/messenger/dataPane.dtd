@@ -5,6 +5,8 @@
 <!ENTITY dataPaneEvent.label          "Events">
 <!ENTITY dataPaneURL.label            "Links">
 <!ENTITY dataPaneAddresses.label      "Addresses">
+<!ENTITY dataPaneSocial.label         "Social">
+<!ENTITY dataPaneShipping.label       "Track Packages">
 
 <!-- data pane attachment popup -->
 <!-- XX Localisation note: Do not translate service names -->

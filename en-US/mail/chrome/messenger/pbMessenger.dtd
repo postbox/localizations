@@ -62,6 +62,8 @@
 <!ENTITY pbCollapseConversationMsgs.key "o">
 <!ENTITY showPanes.label "Show">
 <!ENTITY showPanes.accesskey "w">
+<!ENTITY fullScreenMode.accesskey "l">
+<!ENTITY fullScreenMode.label "Enter Full Screen">
 
 <!-- Mail Toolbar -->
 <!ENTITY tagButton.label "Assign Topic">
@@ -78,6 +80,8 @@
 <!ENTITY newTaskButton.label "New To-Do">
 <!ENTITY inspectorButton.label "Inspector">
 <!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
+<!ENTITY evernoteButton.label "Evernote">
+<!ENTITY evernoteButton.tooltip "Add to Evernote">
 <!ENTITY pbToolbarButton-home.label "Home">
 <!ENTITY pbToolbarButton-home.tooltip "Take me back to my Inbox and clear any search criteria">
 <!ENTITY pbToolbarButton-promote.label   "Post">
@@ -86,8 +90,6 @@
 <!ENTITY pbToolbarButton-promote-twitter.accesskey "T">
 <!ENTITY pbToolbarButton-promote-facebook.label "Facebook">
 <!ENTITY pbToolbarButton-promote-facebook.accesskey "F">
-<!ENTITY pbToolbarButton-promote-friendfeed.label "FriendFeed">
-<!ENTITY pbToolbarButton-promote-friendfeed.accesskey "r">
 <!ENTITY pbToolbarButton-promote-linkedin.label "LinkedIn">
 <!ENTITY pbToolbarButton-promote-linkedin.accesskey "L">
 
@@ -130,8 +132,6 @@
 <!ENTITY pbSearchResultPopup-addUrlToDelicious.accesskey   "d">
 <!ENTITY pbSearchResultPopup-addUrlToFacebook.label        "Facebook">
 <!ENTITY pbSearchResultPopup-addUrlToFacebook.accesskey    "F">
-<!ENTITY pbSearchResultPopup-addUrlToFriendFeed.label      "FriendFeed">
-<!ENTITY pbSearchResultPopup-addUrlToFriendFeed.accesskey  "r">
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.label         "Twitter">
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.accesskey     "T">
 <!ENTITY pbSearchResultPopup-addUrlToLinkedIn.label        "LinkedIn">
@@ -218,8 +218,6 @@
 
 <!-- content URL context menu -->
 <!ENTITY pbContentURLContextMenu-bookmarkURL.accesskey    "B">
-<!ENTITY pbContentURLContextMenu-otherActions.label       "Other Actions">
-<!ENTITY pbContentURLContextMenu-otherActionsURL.accesskey "h">
 <!ENTITY pbContentURLContextMenu-openURL.label            "Open in Browser">
 <!ENTITY pbContentURLContextMenu-openURL.accesskey        "O">
 <!ENTITY pbContentURLContextMenu-copyURL.label            "Copy">
@@ -232,8 +230,6 @@
 <!ENTITY pbContentURLContextMenu-addToDelicious.accesskey "A">
 <!ENTITY pbContentURLContextMenu-addToFacebook.label      "Post to Facebook...">
 <!ENTITY pbContentURLContextMenu-addToFacebook.accesskey  "F">
-<!ENTITY pbContentURLContextMenu-addToFriendFeed.label    "Post to FriendFeed...">
-<!ENTITY pbContentURLContextMenu-addToFriendFeed.accesskey "r">
 <!ENTITY pbContentURLContextMenu-addToTwitter.label       "Post to Twitter...">
 <!ENTITY pbContentURLContextMenu-addToTwitter.accesskey   "w">
 <!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Post to LinkedIn...">
@@ -243,11 +239,12 @@
 <!ENTITY pbContentTextContextMenu-websearch.accesskey    "S">
 <!ENTITY pbContentTextContextMenu-research.accesskey     "R">
 <!ENTITY pbContentTextContextMenu-review.accesskey       "e">
-<!ENTITY pbContentTextContextMenu-otherActions.label     "Other Actions">
-<!ENTITY pbContentTextContextMenu-otherActions.accesskey "O">
 <!ENTITY pbContentTextContextMenu-map.accesskey          "M">
+<!-- C is already used for Copy -->
 <!ENTITY pbContentTextContextMenu-phone.label            "Call Number">
-<!ENTITY pbContentTextContextMenu-phone.accesskey        "C">
+<!ENTITY pbContentTextContextMenu-phone.accesskey        "N">
+<!ENTITY pbContentTextContextMenu-date.label            "Add to Calendar">
+<!ENTITY pbContentTextContextMenu-date.accesskey        "d">
 <!ENTITY pbContentTextContextMenu-systemSearchMac.label      "Search in Spotlight">
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Look Up in Dictionary">
@@ -258,6 +255,8 @@
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Send to Inbox">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
+<!ENTITY pbContentTextContextMenu-evernote.label       "Add to Evernote">
+<!ENTITY pbContentTextContextMenu-evernote.accesskey  "e">
 
 <!-- topic context menu -->
 <!ENTITY pbTopicContextMenu-edit.label         "Rename">
@@ -317,6 +316,8 @@
 <!-- message pane context menu -->
 <!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Send to Inbox">
 <!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
+<!ENTITY pbMessagePaneContext-evernote.label     "Add to Evernote">
+<!ENTITY pbMessagePaneContext-evernote.accesskey "e">
 
 <!-- status bar -->
 <!ENTITY pbStatusBarOption-newAccount.label "New Account...">

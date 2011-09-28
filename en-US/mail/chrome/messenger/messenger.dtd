@@ -441,6 +441,10 @@
 <!ENTITY hintsAndTips.accesskey "h">
 <!ENTITY aboutCmd.label "About &brandFullName;">
 <!ENTITY aboutCmd.accesskey "A">
+<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
+<!ENTITY filtersApplyToSelection.accesskey "S">
+<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
+<!ENTITY filtersApplyToMessage.accesskey "s">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Get Mail">
@@ -534,6 +538,8 @@
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Favorite Folder">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextColor.label "Label Color">
+<!ENTITY folderContextColor.accesskey "L">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Name or Email contains:">
@@ -643,6 +649,7 @@
 <!ENTITY messageHeader.showRelated.label            "Show Related">
 <!ENTITY messageHeader.showRelated.label            "Show Related">
 <!ENTITY messageHeader.assignTopic.label            "Assign Topic">
+<!ENTITY messageHeader.assignLabel.label            "Assign Label">
 <!ENTITY messageHeader.reply.label                  "Reply">
 <!ENTITY messageHeader.replyAll.label               "Reply All">
 <!ENTITY messageHeader.forward.label                "Forward">

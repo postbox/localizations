@@ -103,3 +103,9 @@
 <!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload "Ask me">
 <!ENTITY radioAskDownload.accesskey "a">
+
+<!ENTITY useGmailShortcuts.label "Use Gmail keyboard shortcuts">
+<!ENTITY useGmailShortcuts.accesskey "l">
+
+<!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
+<!ENTITY pbUseGravatar.accesskey "g">

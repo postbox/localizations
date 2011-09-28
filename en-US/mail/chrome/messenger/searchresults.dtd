@@ -37,8 +37,6 @@
 <!ENTITY searchresults.addUrlToDelicious.accesskey "d">
 <!ENTITY searchresults.addUrlToFacebook.label      "Facebook">
 <!ENTITY searchresults.addUrlToFacebook.accesskey  "F">
-<!ENTITY searchresults.addUrlToFriendFeed.label      "FriendFeed">
-<!ENTITY searchresults.addUrlToFriendFeed.accesskey  "r">
 <!ENTITY searchresults.addUrlToTwitter.label      "Twitter">
 <!ENTITY searchresults.addUrlToTwitter.accesskey  "T">
 <!ENTITY searchresults.addUrlToLinkedIn.label      "LinkedIn">

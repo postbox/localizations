@@ -6,3 +6,5 @@
 <!ENTITY tagPanel.width                 "300">
 <!ENTITY tagpanel.expanderDown.tooltip  "Show favorite topics">
 <!ENTITY tagpanel.expanderUp.tooltip    "Hide favorite topics">
+
+<!ENTITY showLabelCmd.key              "l">
