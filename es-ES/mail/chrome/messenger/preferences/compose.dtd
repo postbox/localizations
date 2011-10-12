@@ -129,3 +129,10 @@
 
 <!ENTITY pbQuoteOnQuickReply.accesskey "m">
 <!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbEnableDropbox.label "Send links when attaching files in your Dropbox folder">
