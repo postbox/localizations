@@ -121,3 +121,11 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pbSendAndArchive.label "Enable send and archive">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbQuoteOnQuickReply.accesskey "m">
+<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
