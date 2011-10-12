@@ -88,4 +88,4 @@
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
 <!ENTITY pbSendAndArchive.label "Enable send and archive">
-
+<!ENTITY pbEnableDropbox.label "Send links when attaching files in your Dropbox folder">
