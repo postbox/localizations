@@ -108,4 +108,17 @@
 <!ENTITY useGmailShortcuts.accesskey "l">
 
 <!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
-<!ENTITY pbUseGravatar.accesskey "g">
+<!ENTITY pbUseGravatar.accesskey "G">
+
+<!ENTITY pbUseGoogleCalendar.label "Use Google Calendar for detected dates.">
+<!ENTITY pbUseGoogleCalendar.accesskey "C">
+
+<!ENTITY pbSwipeLeft.label "Swipe Left:">
+<!ENTITY pbSwipeRight.label "Swipe Right:">
+<!ENTITY pbNextMessage.label "Select Next Message">
+<!ENTITY pbPreviousMessage.label "Select Previous Message">
+<!ENTITY pbDeleteMessage.label "Delete Message">
+<!ENTITY pbArchiveMessage.label "Archive Message">
+<!ENTITY pbOpenMessage.label "Open Message">
+<!ENTITY pbOpenFolderPane.label "Open Folder Pane">
+<!ENTITY pbCloseFolderPane.label "Close Folder Pane">

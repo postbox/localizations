@@ -79,6 +79,9 @@
 <!ENTITY pbNumConversationsToQuote.label "Include at most">
 <!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing">
 
+<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
+<!ENTITY pbQuoteOnQuickReply.accesskey "m">
+
 <!ENTITY pbDefaultFonSize.label                           "default">
 
 <!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">

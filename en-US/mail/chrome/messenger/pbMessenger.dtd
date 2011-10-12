@@ -187,8 +187,6 @@
 
 <!-- rich search bar -->
 <!ENTITY searchbar-defaultSearchText.label      "Search">
-<!ENTITY searchbar-caption.label                "Press Ctrl-ENTER for text preview">
-<!ENTITY searchbar-captionMac.label             "Press command-return for text preview">
 
 <!-- advanced search panel -->
 <!ENTITY searchOptionsPanelTitle.label          "Search Options">
