@@ -136,3 +136,10 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pbEnableDropbox.label "Send links when attaching files in your Dropbox folder">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY itemCannedResponses.label           "Responses">

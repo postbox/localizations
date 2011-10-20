@@ -437,3 +437,13 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY sendAndArchive.label "Send and Archive">
 <!ENTITY sendLaterAndArchive.label "Send Later and Archive">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY newResponse.label "New Response...">
+<!ENTITY editResponses.label "Edit Responses...">
+<!ENTITY responseButton.tooltip "Insert a response">
+<!ENTITY responseButton.label "Responses">

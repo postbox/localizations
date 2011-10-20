@@ -423,3 +423,12 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbContentTextContextMenu-date.label            "Add to Calendar">
 <!ENTITY pbContentTextContextMenu-evernote.accesskey  "e">
 <!ENTITY evernoteButton.label "Evernote">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY showFavoritesBarCmd.accesskey "v">
+<!ENTITY pbFolderPaneSlider.label "Hide">
+<!ENTITY showFavoritesBarCmd.label "Favorites Bar">
