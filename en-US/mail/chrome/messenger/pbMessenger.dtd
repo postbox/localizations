@@ -54,6 +54,8 @@
 <!ENTITY pbMessagePaneMac.key "E">
 <!ENTITY showInspectorPaneCmd.label "Inspector Pane">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
+<!ENTITY showFavoritesBarCmd.label "Favorites Bar">
+<!ENTITY showFavoritesBarCmd.accesskey "v">
 <!ENTITY pbExpandConversationMsgs.label "Expand Conversation">
 <!ENTITY pbExpandConversationMsgs.accesskey "x">
 <!ENTITY pbExpandConversationMsgs.key "o">
@@ -353,3 +355,4 @@
 <!ENTITY guideCmd.label "User Guide">
 <!ENTITY guideCmd.accesskey "r">
 
+<!ENTITY pbFolderPaneSlider.label "Hide">

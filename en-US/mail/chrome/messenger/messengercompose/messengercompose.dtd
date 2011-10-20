@@ -211,6 +211,7 @@
 <!ENTITY tagButton.label "Assign Topic">
 <!ENTITY throbberItem.title "Activity Indicator">
 <!ENTITY signatureButton.label "Signatures">
+<!ENTITY responseButton.label "Responses">
 <!ENTITY compose.sidebar.label "Sidebar">
 
 <!-- Mail Toolbar Tooltips -->
@@ -225,6 +226,7 @@
 <!ENTITY pasteButton.tooltip            "Paste">
 <!ENTITY tagButton.tooltip "Add topic(s) to message">
 <!ENTITY signatureButton.tooltip "Insert a signature">
+<!ENTITY responseButton.tooltip "Insert a response">
 <!ENTITY compose.sidebar.tooltip "Open the sidebar">
 
 <!-- Headers -->
@@ -301,6 +303,8 @@
 <!ENTITY attachPage.accesskey "W">
 <!ENTITY editSignatures.label "Edit Signatures...">
 <!ENTITY newSignature.label "New Signature...">
+<!ENTITY editResponses.label "Edit Responses...">
+<!ENTITY newResponse.label "New Response...">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contacts">

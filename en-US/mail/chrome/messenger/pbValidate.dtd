@@ -6,7 +6,7 @@
 <!ENTITY enterLicenseTitle.label "Enter Postbox license code">
 <!ENTITY enterLicenseInfo.label "Please enter your name and license code below:">
 <!ENTITY invalidLicense.label "Please enter your name and license code exactly as they appear in your license email.">
-<!ENTITY invalidLicenseVersion.label "This license code will not work with this version of Postbox.  Please upgrade to the most current version.">
+<!ENTITY invalidLicenseVersion.label "This license code will not work with this version of Postbox.  Please visit our store to purchase an upgrade.">
 <!ENTITY invalidLicenseInvalid1.label "Please enter a valid license code, or contact us at">
 <!ENTITY invalidLicenseInvalid2.label "Postbox Support">
 <!ENTITY invalidLicenseInvalid3.label "for immediate assistance.">

@@ -3,6 +3,7 @@
 <!ENTITY itemSpellCheck.label                "Spelling">
 <!ENTITY itemSendFormat.label                "Send Format">
 <!ENTITY itemSignatures.label                "Signatures">
+<!ENTITY itemCannedResponses.label           "Responses">
 
 <!ENTITY forwardReply.label                   "Forwarding Messages">
 <!ENTITY forwardMsg.label                     "Forward messages:">
