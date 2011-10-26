@@ -54,6 +54,8 @@
 <!ENTITY pbMessagePaneMac.key "E">
 <!ENTITY showInspectorPaneCmd.label "Inspector Venster">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
+<!ENTITY showFavoritesBarCmd.label "Favorites Bar">
+<!ENTITY showFavoritesBarCmd.accesskey "v">
 <!ENTITY pbExpandConversationMsgs.label "Conversatie uitvouwen">
 <!ENTITY pbExpandConversationMsgs.accesskey "C">
 <!ENTITY pbExpandConversationMsgs.key "o">
@@ -62,6 +64,8 @@
 <!ENTITY pbCollapseConversationMsgs.key "o">
 <!ENTITY showPanes.label "Weergeven">
 <!ENTITY showPanes.accesskey "W">
+<!ENTITY fullScreenMode.accesskey "l">
+<!ENTITY fullScreenMode.label "Enter Full Screen">
 
 <!-- Mail Toolbar -->
 <!ENTITY tagButton.label "Topic toewijzen">
@@ -78,6 +82,8 @@
 <!ENTITY newTaskButton.label "Nieuwe To-Do">
 <!ENTITY inspectorButton.label "Inspector">
 <!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
+<!ENTITY evernoteButton.label "Evernote">
+<!ENTITY evernoteButton.tooltip "Aan Evernote toevoegen">
 <!ENTITY pbToolbarButton-home.label "Startpagina">
 <!ENTITY pbToolbarButton-home.tooltip "Ga terug naar mijn Inbox en wis alle zoekvelden">
 <!ENTITY pbToolbarButton-promote.label   "Posten">
@@ -86,8 +92,6 @@
 <!ENTITY pbToolbarButton-promote-twitter.accesskey "T">
 <!ENTITY pbToolbarButton-promote-facebook.label "Facebook">
 <!ENTITY pbToolbarButton-promote-facebook.accesskey "F">
-<!ENTITY pbToolbarButton-promote-friendfeed.label "FriendFeed">
-<!ENTITY pbToolbarButton-promote-friendfeed.accesskey "r">
 <!ENTITY pbToolbarButton-promote-linkedin.label "LinkedIn">
 <!ENTITY pbToolbarButton-promote-linkedin.accesskey "L">
 
@@ -130,8 +134,6 @@
 <!ENTITY pbSearchResultPopup-addUrlToDelicious.accesskey   "d">
 <!ENTITY pbSearchResultPopup-addUrlToFacebook.label        "Facebook">
 <!ENTITY pbSearchResultPopup-addUrlToFacebook.accesskey    "F">
-<!ENTITY pbSearchResultPopup-addUrlToFriendFeed.label      "FriendFeed">
-<!ENTITY pbSearchResultPopup-addUrlToFriendFeed.accesskey  "r">
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.label         "Twitter">
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.accesskey     "T">
 <!ENTITY pbSearchResultPopup-addUrlToLinkedIn.label        "LinkedIn">
@@ -155,16 +157,16 @@
 <!ENTITY strikethroughEditMsgToolbarCmd.tooltip      "Doorhalen">
 <!ENTITY cropTextEditMsgToolbarCmd.tooltip           "Tekst bijsnijden">
 <!ENTITY insertLinkEditMsgToolbarCmd.tooltip         "Nieuwe koppeling invoegen of eigenschappen van geselecteerde koppeling bewerken">
-<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Apply or remove bulleted or numbered list">
+<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Genummerde lijst of opsommingstekens neerzetten of weghalen">
 <!ENTITY noneMsgToolbarCmd.label                     "None">
 <!ENTITY noneMsgToolbarCmd.accesskey                 "N">
-<!ENTITY listBulletMsgToolbarCmd.label               "Bulleted">
+<!ENTITY listBulletMsgToolbarCmd.label               "Opsommingstekens">
 <!ENTITY listbulletMsgToolbarCmd.accesskey           "b">
-<!ENTITY listNumberedMsgToolbarCmd.label             "Numbered">
+<!ENTITY listNumberedMsgToolbarCmd.label             "Genummerd">
 <!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
 <!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insert HTML or edit selected HTML">
-<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Outdent text (move left)">
-<!ENTITY indentEditMsgToolbarCmd.tooltip             "Indent text (move right)">
+<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Tekst laten terugspringen (verplaatsen naar links)">
+<!ENTITY indentEditMsgToolbarCmd.tooltip             "Tekst laten inspringen (verplaatsen naar rechts)">
 
 <!-- inline message editing context menu -->
 <!ENTITY spellAddToDictionary.label                  "Toevoegen aan woordenboek">
@@ -187,8 +189,6 @@
 
 <!-- rich search bar -->
 <!ENTITY searchbar-defaultSearchText.label      "Zoeken">
-<!ENTITY searchbar-caption.label                "Druk op Ctrl-Enter voor text voorbeeld">
-<!ENTITY searchbar-captionMac.label             "Druk op Command-Enter voor text voorbeeld">
 
 <!-- advanced search panel -->
 <!ENTITY searchOptionsPanelTitle.label          "Zoek Opties">
@@ -218,8 +218,6 @@
 
 <!-- content URL context menu -->
 <!ENTITY pbContentURLContextMenu-bookmarkURL.accesskey    "B">
-<!ENTITY pbContentURLContextMenu-otherActions.label       "Andere Acties">
-<!ENTITY pbContentURLContextMenu-otherActionsURL.accesskey "h">
 <!ENTITY pbContentURLContextMenu-openURL.label            "Openen in Webbrowser">
 <!ENTITY pbContentURLContextMenu-openURL.accesskey        "O">
 <!ENTITY pbContentURLContextMenu-copyURL.label            "Kopiëren">
@@ -232,8 +230,6 @@
 <!ENTITY pbContentURLContextMenu-addToDelicious.accesskey "a">
 <!ENTITY pbContentURLContextMenu-addToFacebook.label      "Plaats op Facebook...">
 <!ENTITY pbContentURLContextMenu-addToFacebook.accesskey  "F">
-<!ENTITY pbContentURLContextMenu-addToFriendFeed.label    "Plaats op FriendFeed...">
-<!ENTITY pbContentURLContextMenu-addToFriendFeed.accesskey "r">
 <!ENTITY pbContentURLContextMenu-addToTwitter.label       "Plaats op Twitter...">
 <!ENTITY pbContentURLContextMenu-addToTwitter.accesskey   "w">
 <!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Plaats op LinkedIn...">
@@ -243,11 +239,12 @@
 <!ENTITY pbContentTextContextMenu-websearch.accesskey    "S">
 <!ENTITY pbContentTextContextMenu-research.accesskey     "R">
 <!ENTITY pbContentTextContextMenu-review.accesskey       "e">
-<!ENTITY pbContentTextContextMenu-otherActions.label     "Andere Acties">
-<!ENTITY pbContentTextContextMenu-otherActions.accesskey "A">
 <!ENTITY pbContentTextContextMenu-map.accesskey          "M">
+<!-- C is already used for Copy -->
 <!ENTITY pbContentTextContextMenu-phone.label            "Bel Nummer">
 <!ENTITY pbContentTextContextMenu-phone.accesskey        "B">
+<!ENTITY pbContentTextContextMenu-date.label            "Add to Calendar">
+<!ENTITY pbContentTextContextMenu-date.accesskey        "d">
 <!ENTITY pbContentTextContextMenu-systemSearchMac.label      "Zoeken in Spotlight">
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Opzoeken in woordenboek">
@@ -258,6 +255,8 @@
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Stuur naar Inbox">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
+<!ENTITY pbContentTextContextMenu-evernote.label       "Add to Evernote">
+<!ENTITY pbContentTextContextMenu-evernote.accesskey  "E">
 
 <!-- topic context menu -->
 <!ENTITY pbTopicContextMenu-edit.label         "Naam wijzigen">
@@ -317,6 +316,8 @@
 <!-- message pane context menu -->
 <!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Stuur naar Inbox">
 <!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
+<!ENTITY pbMessagePaneContext-evernote.label     "Add to Evernote">
+<!ENTITY pbMessagePaneContext-evernote.accesskey "E">
 
 <!-- status bar -->
 <!ENTITY pbStatusBarOption-newAccount.label "Nieuw Account...">
@@ -354,35 +355,6 @@
 <!ENTITY guideCmd.label "Snelstart handleiding">
 <!ENTITY guideCmd.accesskey "r">
 
+<!ENTITY pbFolderPaneSlider.label "Verbergen">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbContentTextContextMenu-evernote.label       "Add to Evernote">
-<!ENTITY fullScreenMode.label "Enter Full Screen">
-<!ENTITY pbMessagePaneContext-evernote.label     "Add to Evernote">
-<!ENTITY pbContentTextContextMenu-date.accesskey        "d">
-<!ENTITY fullScreenMode.accesskey "l">
-<!ENTITY evernoteButton.tooltip "Add to Evernote">
-<!ENTITY pbMessagePaneContext-evernote.accesskey "e">
-<!ENTITY pbContentTextContextMenu-date.label            "Add to Calendar">
-<!ENTITY pbContentTextContextMenu-evernote.accesskey  "e">
-<!ENTITY evernoteButton.label "Evernote">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY showFavoritesBarCmd.accesskey "v">
-<!ENTITY pbFolderPaneSlider.label "Hide">
-<!ENTITY showFavoritesBarCmd.label "Favorites Bar">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbFavoritesBarContextMenu-remove.label "Remove From Favorites">
+<!ENTITY pbFavoritesBarContextMenu-remove.label "Verwijderen uit favorieten">

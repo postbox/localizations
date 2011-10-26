@@ -17,8 +17,8 @@
 <!ENTITY  serif.accesskey                         "s">
 <!ENTITY  sans-serif.label                        "Schreefloos:">
 <!ENTITY  sans-serif.accesskey                    "c">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  monospace.label                         "Vaste breedte:">
+<!ENTITY  monospace.accesskey                     "V">
 
 <!ENTITY  font.langGroup.latin1                   "Westers">
 <!ENTITY  font.langGroup.latin2                   "Centraal-Europees">

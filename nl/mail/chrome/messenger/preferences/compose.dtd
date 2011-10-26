@@ -3,6 +3,7 @@
 <!ENTITY itemSpellCheck.label                "Spelling">
 <!ENTITY itemSendFormat.label                "Verzendingsformaat">
 <!ENTITY itemSignatures.label                "Handtekeningen">
+<!ENTITY itemCannedResponses.label           "Antwoorden">
 
 <!ENTITY forwardReply.label                   "Berichten aan het doorsturen">
 <!ENTITY forwardMsg.label                     "Berichten doorsturen:">
@@ -67,7 +68,7 @@
 <!ENTITY removeSignatureButton.accesskey "V">
 
 <!ENTITY pbItemAdvanced.label "Geavanceerd">
-<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
+<!ENTITY pb.quotingConversationsSortOrder.label "Bij samenvatten, citeer:">
 <!ENTITY pb.quotingConversationsSortOrderOldest.label "Oudste berichten eerst">
 <!ENTITY pb.quotingConversationsSortOrderNewest.label "Nieuwste berichten eerst">
 <!ENTITY pb.QuickReply.label "Standaard snel antwoorden aan:">
@@ -79,36 +80,13 @@
 <!ENTITY pbNumConversationsToQuote.label "Neem maximaal">
 <!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing on reply">
 
+<!ENTITY pbQuoteOnQuickReply.label "Citeer het bericht in Snel Antwoord">
+<!ENTITY pbQuoteOnQuickReply.accesskey "C">
+
 <!ENTITY pbDefaultFonSize.label                           "standaard">
 
-<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
-<!ENTITY pbPlaySoundOnSend.accesskey "P">
+<!ENTITY pbPlaySoundOnSend.label "Speel geluid af bij verzenden van bericht">
+<!ENTITY pbPlaySoundOnSend.accesskey "p">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbSendAndArchive.label "Enable send and archive">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbQuoteOnQuickReply.accesskey "m">
-<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbEnableDropbox.label "Send links when attaching files in your Dropbox folder">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY itemCannedResponses.label           "Responses">
+<!ENTITY pbSendAndArchive.label "Activeer verstuur en archiveer">
+<!ENTITY pbEnableDropbox.label "Verstuur hyperlinks bij het toevoegen van bestanden uit uw Dropbox map">

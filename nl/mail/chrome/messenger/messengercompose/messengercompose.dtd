@@ -43,6 +43,8 @@
 <!ENTITY sendLaterCmd.label "Later verzenden">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "z">
+<!ENTITY sendAndArchive.label "Verstuur en Archiveer">
+<!ENTITY sendLaterAndArchive.label "Later verzenden en archiveren">
 <!ENTITY printSetupCmd.label "Pagina-instellingen…">
 <!ENTITY printSetupCmd.accesskey "P">
 <!ENTITY printCmd.label "Afdrukken…">
@@ -209,6 +211,7 @@
 <!ENTITY tagButton.label "Label toewijzen">
 <!ENTITY throbberItem.title "Activiteitsindicator">
 <!ENTITY signatureButton.label "Handtekeningen">
+<!ENTITY responseButton.label "Antwoorden">
 <!ENTITY compose.sidebar.label "Sidebar">
 
 <!-- Mail Toolbar Tooltips -->
@@ -223,7 +226,8 @@
 <!ENTITY pasteButton.tooltip            "Plakken">
 <!ENTITY tagButton.tooltip "Voeg label(s) toe aan bericht">
 <!ENTITY signatureButton.tooltip "Handtekening invoegen">
-<!ENTITY compose.sidebar.tooltip "Open the sidebar">
+<!ENTITY responseButton.tooltip "Antwoord invoegen">
+<!ENTITY compose.sidebar.tooltip "Open de zijbalk">
 
 <!-- Headers -->
 <!ENTITY fromHeader.label "Van">
@@ -299,6 +303,8 @@
 <!ENTITY attachPage.accesskey "W">
 <!ENTITY editSignatures.label "Handtekeningen bewerken...">
 <!ENTITY newSignature.label "Nieuwe Handtekening...">
+<!ENTITY editResponses.label "Antwoorden bewerken...">
+<!ENTITY newResponse.label "Nieuw antwoord...">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Adresboek">
@@ -337,7 +343,7 @@
 <!ENTITY pbBubbleContextMenu-add.label         "Toevoegen aan Adresboek">
 
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
-<!ENTITY pbRemoveTextToolbarCmd.label "Remove text styles">
+<!ENTITY pbRemoveTextToolbarCmd.label "Tekstopmaak verwijderen">
 
 <!ENTITY pbComposeSidebar.label "Zijpaneel">
 <!ENTITY pbComposeSidebar.accesskey "Z">
@@ -366,22 +372,4 @@
 <!ENTITY pbInsertImage.label "Enter a Internet address (URL) or local file location:">
 <!ENTITY pbInsertImage.accesskey "E">
 
-<!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY sendAndArchive.label "Send and Archive">
-<!ENTITY sendLaterAndArchive.label "Send Later and Archive">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY newResponse.label "New Response...">
-<!ENTITY editResponses.label "Edit Responses...">
-<!ENTITY responseButton.tooltip "Insert a response">
-<!ENTITY responseButton.label "Responses">
+<!ENTITY insertListButton.tooltip "Genummerde lijst of opsommingstekens neerzetten of weghalen">

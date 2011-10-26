@@ -67,7 +67,7 @@
 <!ENTITY kb.label "KB">
 
 <!-- Certificates -->
-<!ENTITY certSelection.label "When a server requests my certificate:">
+<!ENTITY certSelection.label "Wanneer een server mijn certificaat verzoekt:">
 <!ENTITY certs.auto                      "Selecteer er automatisch een">
 <!ENTITY certs.ask                       "Mij telkens vragen">
 
@@ -91,10 +91,10 @@
 <!ENTITY radioAlwaysOnline "Altijd online opstarten">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline1 "When going online:">
-<!ENTITY radioAutoSend1 "Send unsent messages">
-<!ENTITY radioNotSend1 "Do not send unsent messages">
-<!ENTITY radioAskUnsent1 "Ask to send unsent messages">
+<!ENTITY textGoingOnline1 "Als u online gaat:">
+<!ENTITY radioAutoSend1 "Niet verzonden berichten versturen">
+<!ENTITY radioNotSend1 "Niet verstuurde berichten niet verzenden">
+<!ENTITY radioAskUnsent1 "Vragen om niet verstuurde berichten te verzenden">
 
 <!ENTITY textGoingOffline "Wilt u berichten downloaden voor offlinegebruik voordat u offline gaat?">
 <!ENTITY radioAutoDownload "Ja">
@@ -104,29 +104,21 @@
 <!ENTITY radioAskDownload "Mij vragen">
 <!ENTITY radioAskDownload.accesskey "a">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
+<!ENTITY useGmailShortcuts.label "Gebruik de sneltoetsen van Gmail">
 <!ENTITY useGmailShortcuts.accesskey "l">
-<!ENTITY pbUseGravatar.accesskey "g">
-<!ENTITY useGmailShortcuts.label "Use Gmail keyboard shortcuts">
 
+<!ENTITY pbUseGravatar.label "Gebruik de Gravatar Service voor het opzoeken van contact foto's.">
+<!ENTITY pbUseGravatar.accesskey "G">
 
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbUseGoogleCalendar.label "Use Google Calendar for detected dates.">
-<!ENTITY pbNextMessage.label "Select Next Message">
-<!ENTITY pbPreviousMessage.label "Select Previous Message">
-<!ENTITY pbSwipeLeft.label "Swipe Left:">
-<!ENTITY pbCloseFolderPane.label "Close Folder Pane">
-<!ENTITY pbOpenFolderPane.label "Open Folder Pane">
-<!ENTITY pbArchiveMessage.label "Archive Message">
-<!ENTITY pbDeleteMessage.label "Delete Message">
-<!ENTITY pbOpenMessage.label "Open Message">
-<!ENTITY pbSwipeRight.label "Swipe Right:">
+<!ENTITY pbUseGoogleCalendar.label "Gebruik Google Calendar voor gedetecteerde datum.">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
+
+<!ENTITY pbSwipeLeft.label "Veeg naar links:">
+<!ENTITY pbSwipeRight.label "Veeg naar rechts:">
+<!ENTITY pbNextMessage.label "Volgende Bericht Selecteren">
+<!ENTITY pbPreviousMessage.label "Vorige Bericht selecteren">
+<!ENTITY pbDeleteMessage.label "Bericht Verwijderen">
+<!ENTITY pbArchiveMessage.label "Bericht Archiveren">
+<!ENTITY pbOpenMessage.label "Bericht Openen">
+<!ENTITY pbOpenFolderPane.label "Open Mappenpaneel">
+<!ENTITY pbCloseFolderPane.label "Sluit Mappenpaneel">

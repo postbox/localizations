@@ -5,6 +5,8 @@
 <!ENTITY dataPaneEvent.label          "Afspraken">
 <!ENTITY dataPaneURL.label            "Links">
 <!ENTITY dataPaneAddresses.label      "Adressen">
+<!ENTITY dataPaneSocial.label         "Sociaal">
+<!ENTITY dataPaneShipping.label       "Pakketten traceren">
 
 <!-- data pane attachment popup -->
 <!-- XX Localisation note: Do not translate service names -->
@@ -67,11 +69,3 @@
 <!ENTITY dataPaneContext.searchGoogleMaps.accesskey     "G">
 <!ENTITY dataPaneContext.searchYahooMaps.label          "Kaart bij Yahoo! zoeken">
 <!ENTITY dataPaneContext.searchYahooMaps.accesskey      "Y">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY dataPaneSocial.label         "Social">
-<!ENTITY dataPaneShipping.label       "Track Packages">

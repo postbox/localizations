@@ -100,5 +100,5 @@
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 63ch;">
 
-<!ENTITY pbProfileInformation.label "Profile Information">
-<!ENTITY pbManualSetup.label "Manual Setup">
+<!ENTITY pbProfileInformation.label "Profiel Informatie">
+<!ENTITY pbManualSetup.label "Handmatig Instellen">

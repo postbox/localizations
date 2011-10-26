@@ -17,16 +17,16 @@
 <!ENTITY importFromNothing.accesskey    "t">
 
 <!ENTITY welcome.title                  "Welcome to &brandShortName;">
-<!ENTITY tagline.label                  "A Better Way To Do Email">
-<!ENTITY thanks.label                   "Thanks for trying out &brandShortName;!">
-<!ENTITY quickStart1.label              "See the ">
-<!ENTITY quickStart2.label              "Quickstart Guide"> 
-<!ENTITY quickStart3.label              " to learn about all the features.">
-<!ENTITY start.label                    "Start using &brandShortName;">
+<!ENTITY tagline.label                  "Een betere manier om te e-mailen">
+<!ENTITY thanks.label                   "Bedankt voor het uitproberen van &brandShortName;!">
+<!ENTITY quickStart1.label              "Zie de ">
+<!ENTITY quickStart2.label              "Snelstart handleiding"> 
+<!ENTITY quickStart3.label              " om meer te leren over alle functies.">
+<!ENTITY start.label                    "Begin het gebruik van &brandShortName;">
     
-<!ENTITY migration.title                "Account Migration Wizard">
-<!ENTITY migrationMac.title             "Account Migration Assistant">
-<!ENTITY importOptions.title            "Import Options">
+<!ENTITY migration.title                "Accountmigratie Wizard">
+<!ENTITY migrationMac.title             "Accountmigratie Assistent">
+<!ENTITY importOptions.title            "Importeerinstellingen">
 <!ENTITY importItems.title              "Te importeren items">
 <!ENTITY importItems.label              "Selecteer de te importeren items:">
 

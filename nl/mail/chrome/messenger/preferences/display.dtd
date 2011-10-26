@@ -42,11 +42,11 @@
 
 <!-- conversation preferences -->
 <!ENTITY pb.itemConversation.label        "Conversaties">
-<!ENTITY pb.conversations.display.label "Include messages from:">
-<!ENTITY pb.conversations.folderonly.label1 "The current folder">
-<!ENTITY pb.conversations.all.label1 "Every folder">
+<!ENTITY pb.conversations.display.label "Bevat berichten van:">
+<!ENTITY pb.conversations.folderonly.label1 "De huidige map">
+<!ENTITY pb.conversations.all.label1 "Elke Map">
 
-<!ENTITY pb.conversations.sortorder.label "Order conversations by:">
+<!ENTITY pb.conversations.sortorder.label "Rangschik conversaties op:">
 <!ENTITY pb.conversations.sortoldest.label "Oudste berichten eerst">
 <!ENTITY pb.conversations.sortnewest.label "Nieuwste berichten eerst">
 
