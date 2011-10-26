@@ -356,3 +356,5 @@
 <!ENTITY guideCmd.accesskey "r">
 
 <!ENTITY pbFolderPaneSlider.label "Hide">
+
+<!ENTITY pbFavoritesBarContextMenu-remove.label "Remove From Favorites">
