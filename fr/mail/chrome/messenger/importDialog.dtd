@@ -76,4 +76,4 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDialog.homeTitle  "Domicile">
 <!ENTITY importDialog.workTitle  "Travail">
 
-<!ENTITY pbSelect.label             "Select the type of material to import:">
+<!ENTITY pbSelect.label             "Sélectionnez le type de données à importer:">

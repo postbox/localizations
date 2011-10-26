@@ -30,15 +30,15 @@
 <!ENTITY offlineGroupTitle.label "Hors connexion">
 <!ENTITY diskspaceGroupTitle.label "Espace disque ">
 <!ENTITY ftiGroupTitle.label "Recherche globale">
-<!ENTITY fti.indexMsgBodies.label "Index message bodies">
+<!ENTITY fti.indexMsgBodies.label "Indexer le corps des messages">
 <!ENTITY newsrcFilePath.label "newsrc file:">
 <!ENTITY newsrcFilePath.accesskey "f">
 <!ENTITY localPath.label "Local directory:">
 <!ENTITY localPath.accesskey "L">
-<!ENTITY localFolderPicker.label "Select Local Directory">
+<!ENTITY localFolderPicker.label "Sélection du répertoire local">
 <!ENTITY browseFolder.label "Browse...">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Select newsrc File">
+<!ENTITY newsrcPicker.label "Sélectionner un fichier newsrc">
 <!ENTITY browseNewsrc.label "Browse...">
 <!ENTITY browseNewsrc.accesskey "e">
 

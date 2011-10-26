@@ -47,6 +47,6 @@
 <!ENTITY foldersOnly.label          "des dossiers seulement">
 <!ENTITY messagesOnly.label         "des messages seulement">
 
-<!ENTITY pbNewFolder.desc "Enter a name for the new folder and select a location.">
+<!ENTITY pbNewFolder.desc "Entrez un nom pour le nouveau dossier et sélectionnez un emplacement.">
 <!ENTITY pbNewFolderLocation.label "Location:">
 <!ENTITY pbNewFolderLocatione.accesskey "L">

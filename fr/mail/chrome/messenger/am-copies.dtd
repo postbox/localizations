@@ -38,7 +38,7 @@
 <!ENTITY keepArchives.label "Conserver les archives dans :">
 <!ENTITY keepTempltes.label "Conserver les modèles dans :">
 
-<!ENTITY pbSentSettings.label "Sent">
-<!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
+<!ENTITY pbSentSettings.label "Envoyés">
+<!ENTITY pbDraftsSettings.label "Brouillons">
+<!ENTITY pbArchiveSettings.label "Archiver">
+<!ENTITY pbTemplatesSettings.label "Modèles">

@@ -320,7 +320,7 @@
 <!ENTITY editMsgCmd.key "e">
 <!ENTITY editMsgAsNewCmd1.label "Renvoyer">
 <!ENTITY editMsgAsNewCmd1.accesskey "R">
-<!ENTITY redirectCmd.label "Redirect">
+<!ENTITY redirectCmd.label "Rediriger">
 <!ENTITY redirectCmd.key "e">
 <!ENTITY createFilter.label "Créer un filtre à partir du message…">
 <!ENTITY createFilter.accesskey "i">
@@ -441,6 +441,10 @@
 <!ENTITY hintsAndTips.accesskey "A">
 <!ENTITY aboutCmd.label "À propos de &brandFullName;">
 <!ENTITY aboutCmd.accesskey "p">
+<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
+<!ENTITY filtersApplyToSelection.accesskey "s">
+<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
+<!ENTITY filtersApplyToMessage.accesskey "s">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Relever">
@@ -448,7 +452,7 @@
 <!ENTITY replyButton.label "Répondre">
 <!ENTITY replyAllButton.label "Rép. à tous">
 <!ENTITY sendButton.label "Envoyer">
-<!ENTITY redirectButton.label "Redirect">
+<!ENTITY redirectButton.label "Rediriger">
 <!ENTITY forwardButton.label "Transférer">
 <!ENTITY archiveButton.label "Archiver">
 <!ENTITY fileButton.label "Classer">
@@ -477,7 +481,7 @@
 <!ENTITY replyButton.tooltip "Répondre au message">
 <!ENTITY replyAllButton.tooltip "Répondre à l'expéditeur et à tous les destinataires">
 <!ENTITY sendButton.tooltip "Envoyer le message sélectionné">
-<!ENTITY redirectButton.tooltip "Redirect selected message">
+<!ENTITY redirectButton.tooltip "Rediriger le message sélectionné">
 <!ENTITY forwardButton.tooltip "Transférer le message sélectionné">
 <!ENTITY archiveButton.tooltip "Archiver les messages sélectionnés">
 <!ENTITY fileButton.tooltip "Classer les messages sélectionnés">
@@ -534,6 +538,8 @@
 <!ENTITY folderContextProperties.accesskey "t">
 <!ENTITY folderContextFavoriteFolder.label "Dossier préféré">
 <!ENTITY folderContextFavoriteFolder.accesskey "f">
+<!ENTITY folderContextColor.label "Label Color">
+<!ENTITY folderContextColor.accesskey "L">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Le nom ou le message contient :">
@@ -602,7 +608,7 @@
 <!ENTITY contextEditMsg.accesskey "i">
 <!ENTITY contextEditAsNew1.label "Renvoyer...">
 <!ENTITY contextEditAsNew1.accesskey "e">
-<!ENTITY contextRedirect.label "Redirect">
+<!ENTITY contextRedirect.label "Rediriger">
 <!ENTITY contextReplySender.label "Répondre à l'expéditeur">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Répondre dans le groupe">
@@ -640,11 +646,12 @@
 <!ENTITY messageHeader.expand.label                 "Expand">
 <!ENTITY messageHeader.collapse.label               "Collapse">
 <!ENTITY messageHeader.editMessageButton.label      "Edit">
-<!ENTITY messageHeader.showRelated.label            "Show Related">
-<!ENTITY messageHeader.showRelated.label            "Show Related">
+<!ENTITY messageHeader.showRelated.label            "Afficher en rapport">
+<!ENTITY messageHeader.showRelated.label            "Afficher en rapport">
 <!ENTITY messageHeader.assignTopic.label            "Assign Topic">
+<!ENTITY messageHeader.assignLabel.label            "Assign Label">
 <!ENTITY messageHeader.reply.label                  "Reply">
-<!ENTITY messageHeader.replyAll.label               "Reply All">
+<!ENTITY messageHeader.replyAll.label               "Rép. à tous">
 <!ENTITY messageHeader.forward.label                "Forward">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
@@ -709,18 +716,5 @@
 
 <!-- Lightning Specific String -->
 <!ENTITY pbLightningQuickView.label "Coup d'oeil">
-<!ENTITY lightning.calendar.label "Calendar">
-<!ENTITY lightning.tasks.label "Tasks">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY messageHeader.assignLabel.label            "Assign Label">
-<!ENTITY filtersApplyToMessage.accesskey "s">
-<!ENTITY folderContextColor.accesskey "L">
-<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
-<!ENTITY folderContextColor.label "Label Color">
-<!ENTITY filtersApplyToSelection.accesskey "S">
-<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
+<!ENTITY lightning.calendar.label "Calendrier">
+<!ENTITY lightning.tasks.label "Tâches">

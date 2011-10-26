@@ -3,6 +3,7 @@
 <!ENTITY itemSpellCheck.label                "Orthographe">
 <!ENTITY itemSendFormat.label                "Format d'envoi">
 <!ENTITY itemSignatures.label                "Signatures">
+<!ENTITY itemCannedResponses.label           "Réponses">
 
 <!ENTITY forwardReply.label                   "Transférer les messages">
 <!ENTITY forwardMsg.label                     "Transférer les messages :">
@@ -21,7 +22,7 @@
 <!ENTITY restoreHTMLDefaults.label            "Restaurer les paramètres initiaux">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY sendingMessagesHeader.label          "Composing Messages">
+<!ENTITY sendingMessagesHeader.label          "Rédiger des messages">
 <!ENTITY spellCheck.label                     "Vérifier l'orthographe avant l'envoi">
 <!ENTITY spellCheck.accesskey                 "V">
 <!ENTITY spellCheckInline.label               "Activer la vérification pendant la saisie">
@@ -56,7 +57,7 @@
 
 <!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+<!ENTITY composeLanguagesTitle.label            "Encodage des caractères:">
 
 <!-- signatures -->
 <!ENTITY addSignatureButton.label       "New">
@@ -66,49 +67,26 @@
 <!ENTITY removeSignatureButton.label    "Delete">
 <!ENTITY removeSignatureButton.accesskey "l">
 
-<!ENTITY pbItemAdvanced.label "Advanced">
-<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
-<!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
-<!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
+<!ENTITY pbItemAdvanced.label "Avancé">
+<!ENTITY pb.quotingConversationsSortOrder.label "En récapitulant, citer:">
+<!ENTITY pb.quotingConversationsSortOrderOldest.label "Messages les plus anciens en premier">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Messages les plus récents en premier">
 <!ENTITY pb.QuickReply.label "Default Quick Reply to:">
 <!ENTITY pb.QuickReply.accesskey "Q">
 <!ENTITY pb.quickreply.replyall.label "Reply All">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
 <!ENTITY pb.quickreply.reply.label "Reply">
 <!ENTITY pb.quickreply.reply.accesskey "y">
-<!ENTITY pbNumConversationsToQuote.label "Include at most">
+<!ENTITY pbNumConversationsToQuote.label "Inclure au plus">
 <!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing on reply">
 
-<!ENTITY pbDefaultFonSize.label                           "default">
+<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
+<!ENTITY pbQuoteOnQuickReply.accesskey "m">
+
+<!ENTITY pbDefaultFonSize.label                           "par défaut">
 
 <!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbSendAndArchive.label "Enable send and archive">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbQuoteOnQuickReply.accesskey "m">
-<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbEnableDropbox.label "Send links when attaching files in your Dropbox folder">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY itemCannedResponses.label           "Responses">
+<!ENTITY pbSendAndArchive.label "Activer Envoyer et archiver">
+<!ENTITY pbEnableDropbox.label "Envoyer en liens quand vous joignez des fichiers de votre repertoire Dropbox">

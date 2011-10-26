@@ -28,7 +28,7 @@
 <!ENTITY connectionSecurity.label "Connection security:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, si disponible">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Authentication:">
@@ -77,7 +77,7 @@
 <!ENTITY abbreviateOff.label "des noms abrégés (par exemple « m.d.a.thunderbird »)">
 <!ENTITY advancedButton.label "Avancés…">
 <!ENTITY advancedButton.accesskey "s">
-<!ENTITY serverDefaultCharset1.label "Encoding:">
+<!ENTITY serverDefaultCharset1.label "Encodage :">
 
 <!ENTITY accountName.label "Account Name:">
 <!ENTITY accountName.accesskey "n">

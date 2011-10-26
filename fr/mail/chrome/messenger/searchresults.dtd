@@ -9,12 +9,12 @@
 <!ENTITY prevNextResults.label                     "Préc / Suiv">
 <!ENTITY searchResultsNoMatchesFound.desc          "Aucun résultat trouvé pour votre recherche.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Essayer de chercger dans tous les dossiers.">
-<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Try setting your Focus to All.">
-<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Essayez de chercher dans Tous.">
+<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Essayez de régler votre affichage sur Messages.">
 <!ENTITY showSearchOptions.label                   "Montrer les options de recherche">
 
 <!-- attachments -->
-<!ENTITY searchresults.upload.label                   "Upload">
+<!ENTITY searchresults.upload.label                   "Charger">
 <!ENTITY searchresults.uploadToGoogleDocs.label       "Google Documents">
 <!ENTITY searchresults.uploadToGoogleDocs.accesskey   "G">
 <!ENTITY attachmentInfo.label                         "Info sur le document">
@@ -26,8 +26,8 @@
 <!ENTITY searchresults.uploadPhotoToPicasa.accesskey   "G">
 <!ENTITY searchresults.uploadPhotoToPhotobucket.label       "Photobucket">
 <!ENTITY searchresults.uploadPhotoToPhotobucket.accesskey   "b">
-<!ENTITY imageInfo.label                               "Image Info">
-<!ENTITY imageActions.label                            "Image Actions">
+<!ENTITY imageInfo.label                               "Infos de l'Image">
+<!ENTITY imageActions.label                            "Actions de l'Image">
 
 <!-- urls -->
 <!-- XXX start localization note: Do not translate these service names -->
@@ -37,8 +37,6 @@
 <!ENTITY searchresults.addUrlToDelicious.accesskey "G">
 <!ENTITY searchresults.addUrlToFacebook.label      "Facebook">
 <!ENTITY searchresults.addUrlToFacebook.accesskey  "F">
-<!ENTITY searchresults.addUrlToFriendFeed.label      "FriendFeed">
-<!ENTITY searchresults.addUrlToFriendFeed.accesskey  "r">
 <!ENTITY searchresults.addUrlToTwitter.label      "Twitter">
 <!ENTITY searchresults.addUrlToTwitter.accesskey  "T">
 <!ENTITY searchresults.addUrlToLinkedIn.label      "LinkedIn">
@@ -54,13 +52,13 @@
 
 <!ENTITY searchBar-options.tooltip                 "Montrer les options de recherche">
 <!ENTITY location.label                            "Proche de:">
-<!ENTITY location.placeholder                        "City, State or ZIP">
+<!ENTITY location.placeholder                        "Ville, Région ou Code Postal">
 <!ENTITY flickr.private.tooltip                    "Vous pouvez visionner cette photo uniquement sur flickr.com">
 
 <!-- for rich search in compose -->
 <!ENTITY attachments.label "Pièces jointes">
 <!ENTITY dictionary.label "Dictionnaire">
-<!ENTITY thesaurus.label "Thesaurus">
+<!ENTITY thesaurus.label "Dictionnaire">
 <!ENTITY documents.label "Pièces jointes">
 <!ENTITY images.label "Images">
 <!ENTITY signatures.label "Signatures">

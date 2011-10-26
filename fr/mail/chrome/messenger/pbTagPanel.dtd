@@ -7,9 +7,4 @@
 <!ENTITY tagpanel.expanderDown.tooltip  "Montrer les étiquettes favorites">
 <!ENTITY tagpanel.expanderUp.tooltip    "Masquer les étiquettes favorites">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
 <!ENTITY showLabelCmd.key              "l">

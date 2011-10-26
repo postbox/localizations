@@ -29,7 +29,7 @@
 <!ENTITY removeTagButton.accesskey "S">
 
 <!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Fonts">
+<!ENTITY fontsAndColors.label    "Polices">
 <!ENTITY defaultFont.label       "Default font:">
 <!ENTITY defaultFont.accesskey   "D">
 <!ENTITY defaultSize.label       "Size:">
@@ -42,13 +42,13 @@
 
 <!-- conversation preferences -->
 <!ENTITY pb.itemConversation.label        "Discussions">
-<!ENTITY pb.conversations.display.label "Include messages from:">
-<!ENTITY pb.conversations.folderonly.label1 "The current folder">
-<!ENTITY pb.conversations.all.label1 "Every folder">
+<!ENTITY pb.conversations.display.label "Inclure les messages de:">
+<!ENTITY pb.conversations.folderonly.label1 "Le dossier courant">
+<!ENTITY pb.conversations.all.label1 "Tous les dossiers">
 
-<!ENTITY pb.conversations.sortorder.label "Order conversations by:">
-<!ENTITY pb.conversations.sortoldest.label "Oldest messages first">
-<!ENTITY pb.conversations.sortnewest.label "Newest messages first">
+<!ENTITY pb.conversations.sortorder.label "Trier les conversations par:">
+<!ENTITY pb.conversations.sortoldest.label "Messages les plus anciens en premier">
+<!ENTITY pb.conversations.sortnewest.label "Messages les plus récents en premier">
 
 <!ENTITY pb.conversations.read.label "When displaying a converation, mark its messages as read">
 <!ENTITY pb.conversations.read.accesskey "c">

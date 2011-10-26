@@ -5,6 +5,8 @@
 <!ENTITY dataPaneEvent.label          "Événements">
 <!ENTITY dataPaneURL.label            "Liens">
 <!ENTITY dataPaneAddresses.label      "Adresses">
+<!ENTITY dataPaneSocial.label         "Réseaux sociaux">
+<!ENTITY dataPaneShipping.label       "Suivez les paquets">
 
 <!-- data pane attachment popup -->
 <!-- XX Localisation note: Do not translate service names -->
@@ -48,7 +50,7 @@
 <!ENTITY contactPanel-twitter.label      "twitter :">
 
 <!ENTITY contactPanel-favorite.label     "favorite:">
-<!ENTITY contactPanel-favorite-checkbox.label "make this contact a favorite">
+<!ENTITY contactPanel-favorite-checkbox.label "faire de ce contact un favori">
 <!ENTITY contactPanel-actions.label "actions :">
 <!ENTITY contactPanel-find.label    "trouver récents :">
 <!ENTITY contactPanel-findMessages.label "messages">
@@ -67,11 +69,3 @@
 <!ENTITY dataPaneContext.searchGoogleMaps.accesskey     "G">
 <!ENTITY dataPaneContext.searchYahooMaps.label          "Trouver la carte sur Yahoo!">
 <!ENTITY dataPaneContext.searchYahooMaps.accesskey      "Y">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY dataPaneSocial.label         "Social">
-<!ENTITY dataPaneShipping.label       "Track Packages">

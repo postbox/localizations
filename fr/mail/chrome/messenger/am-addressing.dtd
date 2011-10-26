@@ -38,8 +38,8 @@
 <!-- Postbox Summary Mode -->
 <!ENTITY pbSummarizeOnReply.label             "By">
 <!ENTITY pbSummarizeOnReply.accesskey         "y">
-<!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
-<!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
-<!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">
+<!ENTITY pbSummarizeOnReply.normal.label      "citer le message sélectionné">
+<!ENTITY pbSummarizeOnReply.summarize.label   "récapituler toute la conversation">
+<!ENTITY pbSummarizeOnReply.lastused.label    "Utiliser la dernière configuration">
 <!ENTITY pbSummarizeOnReply.photos.label       "Include contact photos for each participant when summarizing">
 <!ENTITY pbSummarizeOnReply.photos.accesskey   "I">

@@ -6,7 +6,7 @@
 <!ENTITY  language.label                          "Polices pour :">
 <!ENTITY  language.accesskey                      "o">
 
-<!ENTITY  size.label                              "Size:">
+<!ENTITY  size.label                              "Taille:">
 <!ENTITY  proportionalSize.accesskey              "T">
 <!ENTITY  sizeMono.accesskey                      "i">
 
@@ -58,7 +58,7 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans serif">
 
 <!-- fonts in message -->
-<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
+<!ENTITY  useFixedWidthForPlainText.label         "Utiliser une police à largeur fixe pour les messages au format texte">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Autoriser les messages à utiliser d'autres polices">
 <!ENTITY  useDocumentFonts.accesskey              "A">
