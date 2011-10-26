@@ -1,11 +1,11 @@
 <!ENTITY autoconfigWizard.title          "Konto einrichten">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                  "First and Last Name">
+<!ENTITY name.placeholder                  "Vorname Nachname">
 <!ENTITY email.accesskey                 "l">
 <!ENTITY email.placeholder                 "email@example.com">
 <!ENTITY password.label                  "Passwort:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.placeholder              "Password">
+<!ENTITY password.placeholder              "Passwort">
 <!ENTITY password.text                   "Freiwillig, wird zur Bestätigung des Benutzernamens verwendet">
 
 <!ENTITY accountInformation.label        "Kontenangaben">
@@ -60,7 +60,7 @@
 <!ENTITY changeSettings.label            "Einstellungen ändern">
 <!ENTITY changeSettings.accesskey        "n">
 
-<!ENTITY pb.contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections.">
+<!ENTITY pb.contactYourProvider.description "&brandShortName; kann es Ihnen mit der vorgenommenen Konfiguration ermöglichen, auf Ihre E-Mails zuzugreifen. Dennoch sollten Sie Ihren Administrator oder E-Mail-Provider wegen dieser unsachgemäßen Verbindungen ansprechen.">
 
 <!ENTITY insecureServer.tooltip.title    "Warnung! Dies ist ein unsicherer Server.">
 <!ENTITY insecureServer.tooltip.details  "Klicken Sie auf den Kreis für weitere Details.">
@@ -100,5 +100,5 @@
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 85ch;">
 
-<!ENTITY pbProfileInformation.label "Profile Information">
-<!ENTITY pbManualSetup.label "Manual Setup">
+<!ENTITY pbProfileInformation.label "Information zum Profil">
+<!ENTITY pbManualSetup.label "Manuelle Einstellungen">

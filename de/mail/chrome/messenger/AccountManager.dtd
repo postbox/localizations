@@ -6,9 +6,9 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Mail Konto hinzufügen…">
 <!ENTITY addMailAccountButton.accesskey "a">
-<!ENTITY addRSSAccountButton.label "Add RSS Account…">
+<!ENTITY addRSSAccountButton.label "RSS Konto hinzufügen…">
 <!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.label "Newsgruppen Konto hinzufügen…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Als Standard festlegen">
 <!ENTITY setDefaultButton.accesskey "s">

@@ -42,11 +42,11 @@
 
 <!-- conversation preferences -->
 <!ENTITY pb.itemConversation.label        "Unterhaltungen">
-<!ENTITY pb.conversations.display.label "Include messages from:">
-<!ENTITY pb.conversations.folderonly.label1 "The current folder">
-<!ENTITY pb.conversations.all.label1 "Every folder">
+<!ENTITY pb.conversations.display.label "Enthält Nachrichten von:">
+<!ENTITY pb.conversations.folderonly.label1 "Der aktuelle Ordner">
+<!ENTITY pb.conversations.all.label1 "Jeder Ordner">
 
-<!ENTITY pb.conversations.sortorder.label "Order conversations by:">
+<!ENTITY pb.conversations.sortorder.label "Konversation im Ordner von:">
 <!ENTITY pb.conversations.sortoldest.label "Älteste Nachrichten zuerst">
 <!ENTITY pb.conversations.sortnewest.label "Neueste Nachrichten zuerst">
 

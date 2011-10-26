@@ -37,8 +37,8 @@
 
 <!-- message list font size -->
 
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
+<!ENTITY pbChromeFontSizeSmall.label      "Schmal">
 <!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
-<!ENTITY pbChromeFontSize.accesskey       "M">
+<!ENTITY pbChromeFontSizeLarge.label      "Groß">
+<!ENTITY pbChromeFontSize.label           "Nachrichtenliste und Ordner Font größe:">
+<!ENTITY pbChromeFontSize.accesskey       "N">

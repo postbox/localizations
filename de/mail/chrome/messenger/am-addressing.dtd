@@ -36,10 +36,10 @@
 <!ENTITY includeSigOnForward.accesskey        "W">
 
 <!-- Postbox Summary Mode -->
-<!ENTITY pbSummarizeOnReply.label             "By">
-<!ENTITY pbSummarizeOnReply.accesskey         "y">
-<!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
-<!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
-<!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">
+<!ENTITY pbSummarizeOnReply.label             "Von">
+<!ENTITY pbSummarizeOnReply.accesskey         "V">
+<!ENTITY pbSummarizeOnReply.normal.label      "Zitiere die gewählte E-Mail">
+<!ENTITY pbSummarizeOnReply.summarize.label   "gesamte Konversation zusammenfassen">
+<!ENTITY pbSummarizeOnReply.lastused.label    "zuletzt benutzte Einstellung verwenden">
 <!ENTITY pbSummarizeOnReply.photos.label       "Include contact photos for each participant when summarizing">
 <!ENTITY pbSummarizeOnReply.photos.accesskey   "I">

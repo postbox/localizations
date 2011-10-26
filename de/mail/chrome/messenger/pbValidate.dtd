@@ -7,22 +7,22 @@
 <!ENTITY enterLicenseInfo.label "Bitte Namen und Lizenzschlüssel unten eingeben:">
 <!ENTITY invalidLicense.label "Beinahe fertig... Bitte Namen und Lizenzschlüssel genau wie in der Lizenzemail eingeben.">
 <!ENTITY invalidLicenseVersion.label "This license key will not work with this version of Postbox.  Please upgrade to the most current version.">
-<!ENTITY invalidLicenseInvalid1.label "Please enter a valid license code, or contact us at">
-<!ENTITY invalidLicenseInvalid2.label "Postbox Support">
-<!ENTITY invalidLicenseInvalid3.label "for immediate assistance.">
+<!ENTITY invalidLicenseInvalid1.label "Bitte geben Sie eine gültige Seriennummer ein oder kontaktieren Sie uns unter">
+<!ENTITY invalidLicenseInvalid2.label "Postbox Unterstützung">
+<!ENTITY invalidLicenseInvalid3.label "für schnelle Hilfe.">
 
 <!ENTITY changeLicenseTitle.label "Postbox Lizenz-Code">
 <!ENTITY changeLicenseInfo.label "Diese Kopie von Postbox ist lizenziert für:">
 
-<!ENTITY licensedThroughMAS.label "This copy is licensed through the Apple Mac App Store.">
+<!ENTITY licensedThroughMAS.label "Diese Software ist lizenziert über den Apple Mac App Store.">
 
 <!ENTITY licenseConfirmed.label "Lizenz-Code bestätigt!">
 
 <!ENTITY thanksTitle.label "Vielen Dank für den Kauf von Postbox!">
 <!ENTITY helpUs.label "Help us get the word out!">
-<!ENTITY composeFacebook.label "Tell your friends on ">
+<!ENTITY composeFacebook.label "Erzählen Sie Ihren Freunden auf ">
 <!ENTITY helpUsFacebook.label "Facebook">
-<!ENTITY composeTwitter.label "Post an update on ">
+<!ENTITY composeTwitter.label "Aktualisierung veröffentlichen auf ">
 <!ENTITY helpUsTwitter.label "Twitter">
 <!ENTITY okButton.label "OK">
 
@@ -32,7 +32,7 @@
 <!ENTITY firstRow.top "80">
 <!ENTITY secondRow.top "100">
 <!ENTITY thirdRow.top "120">
-<!ENTITY fourthRow.top "140">
+<!ENTITY fourthRow.top "130">
 
 <!ENTITY buttonsMac.top "179">
 <!ENTITY buttons.top "187">

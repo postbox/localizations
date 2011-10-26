@@ -11,14 +11,14 @@
 <!ENTITY closeTabCmd.accesskey "s">
 <!ENTITY newVirtualFolderCmd.label "Virtueller Ordner…">
 <!ENTITY newVirtualFolderCmd.accesskey "V">
-<!ENTITY addRSSAccountButton.label "RSS Account…">
+<!ENTITY addRSSAccountButton.label "RSS Konto…">
 <!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.label "Newsgruppen Konto…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY newEmailAccountCmd.label "E-Mail Konto…">
 <!ENTITY newEmailAccountCmd.accesskey "a">
-<!ENTITY newTaskCmd.label "To-Do">
-<!ENTITY newTaskCmd.accesskey "T">
+<!ENTITY newTaskCmd.label "Aufgaben">
+<!ENTITY newTaskCmd.accesskey "A">
 <!ENTITY newTaskCmd.key "n">
 <!ENTITY openMessageMenu.label "Öffnen">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
@@ -320,7 +320,7 @@
 <!ENTITY editMsgCmd.key "e">
 <!ENTITY editMsgAsNewCmd1.label "Neu senden">
 <!ENTITY editMsgAsNewCmd1.accesskey "d">
-<!ENTITY redirectCmd.label "Redirect">
+<!ENTITY redirectCmd.label "Umleiten">
 <!ENTITY redirectCmd.key "e">
 <!ENTITY createFilter.label "Filter aus Nachricht erstellen…">
 <!ENTITY createFilter.accesskey "F">
@@ -366,9 +366,9 @@
 <!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Als ungelesen">
 <!ENTITY markAsUnreadCmd.accesskey "u">
-<!ENTITY markAsPendingCmd.label "As Pending">
-<!ENTITY markAsPendingCmd.accesskey "P">
-<!ENTITY markAsNotPendingCmd.label "As Not Pending">
+<!ENTITY markAsPendingCmd.label "Noch nicht erledigt">
+<!ENTITY markAsPendingCmd.accesskey "N">
+<!ENTITY markAsNotPendingCmd.label "Nicht unerledigt">
 <!ENTITY markAsNotPendingCmd.accesskey "g">
 <!ENTITY markThreadAsReadCmd.label "Thema gelesen">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
@@ -381,8 +381,8 @@
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Kennzeichnung">
 <!ENTITY markStarredCmd.accesskey "K">
-<!ENTITY markUnStarredCmd.label "As Not To-Do">
-<!ENTITY markUnStarredCmd.accesskey "N">
+<!ENTITY markUnStarredCmd.label "Als nicht zu erledigen">
+<!ENTITY markUnStarredCmd.accesskey "n">
 
 <!-- keep as s, because t is taken by topic/tag -->
 <!ENTITY markStarredCmd.key "S">
@@ -441,6 +441,10 @@
 <!ENTITY hintsAndTips.accesskey "H">
 <!ENTITY aboutCmd.label "Über &brandFullName;">
 <!ENTITY aboutCmd.accesskey "b">
+<!ENTITY filtersApplyToSelection.label "Filter auf ausgewählten Nachrichten ausführen">
+<!ENTITY filtersApplyToSelection.accesskey "s">
+<!ENTITY filtersApplyToMessage.label "Filter auf Nachricht ausführen">
+<!ENTITY filtersApplyToMessage.accesskey "s">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Abrufen">
@@ -448,7 +452,7 @@
 <!ENTITY replyButton.label "Antworten">
 <!ENTITY replyAllButton.label "Allen antworten">
 <!ENTITY sendButton.label "Senden">
-<!ENTITY redirectButton.label "Redirect">
+<!ENTITY redirectButton.label "Umleiten">
 <!ENTITY forwardButton.label "Weiterleiten">
 <!ENTITY archiveButton.label "Archivieren">
 <!ENTITY fileButton.label "Ablegen">
@@ -477,7 +481,7 @@
 <!ENTITY replyButton.tooltip "Auf gewählte Nachricht(en) antworten">
 <!ENTITY replyAllButton.tooltip "Auf gewählte Nachricht(en) an den Absender und alle Empfänger antworten">
 <!ENTITY sendButton.tooltip "Ausgewählte Nachricht senden">
-<!ENTITY redirectButton.tooltip "Redirect selected message">
+<!ENTITY redirectButton.tooltip "Ausgewählte Nachricht umleiten">
 <!ENTITY forwardButton.tooltip "Gewählte Nachricht(en) weiterleiten">
 <!ENTITY archiveButton.tooltip "Gewählte Nachricht(en) archivieren">
 <!ENTITY fileButton.tooltip "Gewählte Nachricht(en) ablegen">
@@ -534,6 +538,8 @@
 <!ENTITY folderContextProperties.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favoriten-Ordner">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
+<!ENTITY folderContextColor.label "Farbe des Etiketts">
+<!ENTITY folderContextColor.accesskey "F">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Name oder E-Mail enthält:">
@@ -602,7 +608,7 @@
 <!ENTITY contextEditMsg.accesskey "i">
 <!ENTITY contextEditAsNew1.label "Erneut versenden...">
 <!ENTITY contextEditAsNew1.accesskey "E">
-<!ENTITY contextRedirect.label "Redirect">
+<!ENTITY contextRedirect.label "Umleiten">
 <!ENTITY contextReplySender.label "Antworten nur an Absender">
 <!ENTITY contextReplySender.accesskey "A">
 <!ENTITY contextReplyNewsgroup.label "Antworten an Newsgruppe">
@@ -639,13 +645,14 @@
 <!-- Action Options -->
 <!ENTITY messageHeader.expand.label                 "Expand">
 <!ENTITY messageHeader.collapse.label               "Collapse">
-<!ENTITY messageHeader.editMessageButton.label      "Edit">
-<!ENTITY messageHeader.showRelated.label            "Show Related">
-<!ENTITY messageHeader.showRelated.label            "Show Related">
-<!ENTITY messageHeader.assignTopic.label            "Assign Topic">
-<!ENTITY messageHeader.reply.label                  "Reply">
-<!ENTITY messageHeader.replyAll.label               "Reply All">
-<!ENTITY messageHeader.forward.label                "Forward">
+<!ENTITY messageHeader.editMessageButton.label      "Bearbeiten">
+<!ENTITY messageHeader.showRelated.label            "Zeige relevante">
+<!ENTITY messageHeader.showRelated.label            "Zeige relevante">
+<!ENTITY messageHeader.assignTopic.label            "Thema zuweisen">
+<!ENTITY messageHeader.assignLabel.label            "Etikett zuweisen">
+<!ENTITY messageHeader.reply.label                  "Antworten">
+<!ENTITY messageHeader.replyAll.label               "Allen antworten">
+<!ENTITY messageHeader.forward.label                "Weiterleiten">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "mehr">
@@ -711,16 +718,3 @@
 <!ENTITY pbLightningQuickView.label "Schnellansicht">
 <!ENTITY lightning.calendar.label "Kalender">
 <!ENTITY lightning.tasks.label "Aufgaben">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY messageHeader.assignLabel.label            "Assign Label">
-<!ENTITY filtersApplyToMessage.accesskey "s">
-<!ENTITY folderContextColor.accesskey "L">
-<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
-<!ENTITY folderContextColor.label "Label Color">
-<!ENTITY filtersApplyToSelection.accesskey "S">
-<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">

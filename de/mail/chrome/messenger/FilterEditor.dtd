@@ -27,7 +27,11 @@
 <!ENTITY highPriorityCmd.label "Hoch">
 <!ENTITY highestPriorityCmd.label "Sehr hoch">
 
-<!ENTITY conditionDesc.label "Für eingehende Nachrichten welche:">
+<!ENTITY contextDesc.label "Filter anwenden wenn:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "Rufe E-Mails ab">
+<!ENTITY contextManual.label "Manuell ausführen">
+<!ENTITY contextBoth.label "E-Mails abrufen oder manuell ausführen">
 <!ENTITY filterActionDesc.label "Auszuführende Aktionen:">
 <!ENTITY filterActionDesc.accesskey "A">
 
@@ -51,14 +55,3 @@
 <!ENTITY ignoreThread.label "Thema ignorieren">
 <!ENTITY watchThread.label "Thema beobachten">
 <!ENTITY stopExecution.label "Filter stoppen">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextDesc.accesskey "w">

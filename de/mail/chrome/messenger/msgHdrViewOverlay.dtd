@@ -87,4 +87,4 @@
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "Allen antworten">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "Weiterleiten">
 
-<!ENTITY pbMsgHdrView.loadingMessageBody.label "Loading...">
+<!ENTITY pbMsgHdrView.loadingMessageBody.label "Lade...">

@@ -7,9 +7,4 @@
 <!ENTITY tagpanel.expanderDown.tooltip  "Lieblingsthemen anzeigen">
 <!ENTITY tagpanel.expanderUp.tooltip    "Lieblingsthemen ausblenden">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
 <!ENTITY showLabelCmd.key              "l">

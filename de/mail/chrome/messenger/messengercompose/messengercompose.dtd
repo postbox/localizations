@@ -43,6 +43,8 @@
 <!ENTITY sendLaterCmd.label "Später senden">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "p">
+<!ENTITY sendAndArchive.label "Senden und Archivieren">
+<!ENTITY sendLaterAndArchive.label "Später senden und Archivieren">
 <!ENTITY printSetupCmd.label "Seite einrichten…">
 <!ENTITY printSetupCmd.accesskey "e">
 <!ENTITY printCmd.label "Drucken…">
@@ -209,7 +211,8 @@
 <!ENTITY tagButton.label "Thema zuweisen">
 <!ENTITY throbberItem.title "Aktivitätsindikator">
 <!ENTITY signatureButton.label "Signaturen">
-<!ENTITY compose.sidebar.label "Sidebar">
+<!ENTITY responseButton.label "Antworten">
+<!ENTITY compose.sidebar.label "Seitenleiste">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Diese Nachricht jetzt senden"> 
@@ -223,7 +226,8 @@
 <!ENTITY pasteButton.tooltip            "Einfügen">
 <!ENTITY tagButton.tooltip "Begriff(e) zur Nachricht hinzufügen">
 <!ENTITY signatureButton.tooltip "Eine Signatur einfügen">
-<!ENTITY compose.sidebar.tooltip "Open the sidebar">
+<!ENTITY responseButton.tooltip "Antwort eingeben">
+<!ENTITY compose.sidebar.tooltip "Seitenleiste öffnen">
 
 <!-- Headers -->
 <!ENTITY fromHeader.label "Von">
@@ -299,6 +303,8 @@
 <!ENTITY attachPage.accesskey "W">
 <!ENTITY editSignatures.label "Signaturen bearbeiten...">
 <!ENTITY newSignature.label "Neue Signatur...">
+<!ENTITY editResponses.label "Antworten bearbeiten...">
+<!ENTITY newResponse.label "Neue Antwort...">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakte">
@@ -330,58 +336,40 @@
 <!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
 
 <!-- bubble context menu XXX TODO ACCESS KEYS-->
-<!ENTITY pbBubbleContextMenu-remove.label      "Remove Address">
-<!ENTITY pbBubbleContextMenu-copy.label        "Copy Address">
-<!ENTITY pbBubbleContextMenu-edit.label        "Edit Address">
-<!ENTITY pbBubbleContextMenu-open.label        "Open in Address Book">
-<!ENTITY pbBubbleContextMenu-add.label         "Add to Address Book">
+<!ENTITY pbBubbleContextMenu-remove.label      "Adresse entfernen">
+<!ENTITY pbBubbleContextMenu-copy.label        "Adresse kopieren">
+<!ENTITY pbBubbleContextMenu-edit.label        "Adresse bearbeiten">
+<!ENTITY pbBubbleContextMenu-open.label        "Im Adressbuch öffnen">
+<!ENTITY pbBubbleContextMenu-add.label         "Zum Adressbuch hinzufügen">
 
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML-Optionen">
-<!ENTITY pbRemoveTextToolbarCmd.label "Remove text styles">
+<!ENTITY pbRemoveTextToolbarCmd.label "Textformatierungen entfernen">
 
 <!ENTITY pbComposeSidebar.label "Seitenleiste">
 <!ENTITY pbComposeSidebar.accesskey "S">
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">
-<!ENTITY pbReplyButton.label       "Reply">
+<!ENTITY pbReplyButton.label       "Antworten">
 <!ENTITY pbReplyAllButton.tooltiptext    "Reply to sender of selected message">
-<!ENTITY pbReplyAllButton.label    "Reply All">
-<!ENTITY pbReplyAllButton.tooltiptext    "Reply to all recipients for selected message">
+<!ENTITY pbReplyAllButton.label    "Allen antworten">
+<!ENTITY pbReplyAllButton.tooltiptext    "Antworte allen Empfängern dieser Nachricht">
 <!ENTITY pbToggleReplyRecipients.accesskey "R">
 <!ENTITY pbToggleReplyRecipients.key "R">
 
-<!ENTITY pbQuoteMessageButton.label       "Quote">
-<!ENTITY pbQuoteMessageButton.tooltiptext "Quote the selected message">
-<!ENTITY pbQuoteConversationButton.label  "Summarize">
-<!ENTITY pbQuoteConversationButton.tooltiptext "Summarize the conversation">
+<!ENTITY pbQuoteMessageButton.label       "Zitieren">
+<!ENTITY pbQuoteMessageButton.tooltiptext "Die ausgewählte Nachricht zitieren">
+<!ENTITY pbQuoteConversationButton.label  "Zusammenfassen">
+<!ENTITY pbQuoteConversationButton.tooltiptext "Konversation zusammenfassen">
 <!ENTITY pbToggleReplyQuotingMode.accesskey   "u">
 <!ENTITY pbToggleReplyQuotingMode.key   "O">
 <!ENTITY pbFocusIdentityPicker.key "R">
 
 <!-- Insert Link Dialog -->
 
-<!ENTITY pbInsertLink.label "Enter the Internet address (URL) for this link.">
-<!ENTITY pbInsertLink.accesskey "E">
+<!ENTITY pbInsertLink.label "Internetadresse (URL) für diesen Link eingeben.">
+<!ENTITY pbInsertLink.accesskey "e">
 
-<!ENTITY pbInsertImage.label "Enter a Internet address (URL) or local file location:">
-<!ENTITY pbInsertImage.accesskey "E">
+<!ENTITY pbInsertImage.label "Geben Sie eine Internetadresse (URL) oder einen lokalen Dateipfad ein:">
+<!ENTITY pbInsertImage.accesskey "e">
 
-<!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY sendAndArchive.label "Send and Archive">
-<!ENTITY sendLaterAndArchive.label "Send Later and Archive">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY newResponse.label "New Response...">
-<!ENTITY editResponses.label "Edit Responses...">
-<!ENTITY responseButton.tooltip "Insert a response">
-<!ENTITY responseButton.label "Responses">
+<!ENTITY insertListButton.tooltip "Aufzählung oder Nummerierung hinzufügen oder entfernen">

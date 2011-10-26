@@ -10,7 +10,7 @@
 <!ENTITY searchResultsNoMatchesFound.desc          "Ihre Suche ergab keine Treffer.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Versuchen Sie, in allen Ordnern zu suchen.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Starten Sie einen weiteren Versuch mit der Auswahl Alle.">
-<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
+<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Versuchen Sie die Ansicht auf Nachrichten umzustellen.">
 <!ENTITY showSearchOptions.label                   "Zeige Suchoptionen">
 
 <!-- attachments -->
@@ -37,8 +37,6 @@
 <!ENTITY searchresults.addUrlToDelicious.accesskey "d">
 <!ENTITY searchresults.addUrlToFacebook.label      "Facebook">
 <!ENTITY searchresults.addUrlToFacebook.accesskey  "F">
-<!ENTITY searchresults.addUrlToFriendFeed.label      "FriendFeed">
-<!ENTITY searchresults.addUrlToFriendFeed.accesskey  "r">
 <!ENTITY searchresults.addUrlToTwitter.label      "Twitter">
 <!ENTITY searchresults.addUrlToTwitter.accesskey  "T">
 <!ENTITY searchresults.addUrlToLinkedIn.label      "LinkedIn">
@@ -54,7 +52,7 @@
 
 <!ENTITY searchBar-options.tooltip                 "Zeige Suchoptionen">
 <!ENTITY location.label                            "Nahe bei:">
-<!ENTITY location.placeholder                        "City, State or ZIP">
+<!ENTITY location.placeholder                        "Quick Look">
 <!ENTITY flickr.private.tooltip                    "Nur Sie können das Photo auf flickr.com sehen">
 
 <!-- for rich search in compose -->

@@ -54,14 +54,18 @@
 <!ENTITY pbMessagePaneMac.key "E">
 <!ENTITY showInspectorPaneCmd.label "Inspektor-Panel">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
+<!ENTITY showFavoritesBarCmd.label "Favoriten">
+<!ENTITY showFavoritesBarCmd.accesskey "v">
 <!ENTITY pbExpandConversationMsgs.label "Unterhaltung aufklappen">
 <!ENTITY pbExpandConversationMsgs.accesskey "U">
 <!ENTITY pbExpandConversationMsgs.key "o">
 <!ENTITY pbCollapseConversationMsgs.label "Unterhaltung einklappen">
 <!ENTITY pbCollapseConversationMsgs.accesskey "n">
 <!ENTITY pbCollapseConversationMsgs.key "o">
-<!ENTITY showPanes.label "Show">
-<!ENTITY showPanes.accesskey "w">
+<!ENTITY showPanes.label "Zeige">
+<!ENTITY showPanes.accesskey "Z">
+<!ENTITY fullScreenMode.accesskey "l">
+<!ENTITY fullScreenMode.label "Vollbildschirm aktivieren">
 
 <!-- Mail Toolbar -->
 <!ENTITY tagButton.label "Thema zuweisen">
@@ -76,8 +80,10 @@
 <!ENTITY tagButton.tooltip "Begriff der Nachricht hinzufügen">
 <!ENTITY newTaskButton.tooltip "Neue Aufgabe erstellen">
 <!ENTITY newTaskButton.label "Neue Aufgabe">
-<!ENTITY inspectorButton.label "Inspector">
-<!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
+<!ENTITY inspectorButton.label "Inspektor">
+<!ENTITY inspectorButton.tooltip "Einstellungsfenster ein- oder ausblenden">
+<!ENTITY evernoteButton.label "Evernote">
+<!ENTITY evernoteButton.tooltip "Zu Evernote hinzufügen">
 <!ENTITY pbToolbarButton-home.label "Home">
 <!ENTITY pbToolbarButton-home.tooltip "Bringe mich zurück zum Posteingang und lösche alle Suchkriterien">
 <!ENTITY pbToolbarButton-promote.label   "Abschicken">
@@ -86,8 +92,6 @@
 <!ENTITY pbToolbarButton-promote-twitter.accesskey "T">
 <!ENTITY pbToolbarButton-promote-facebook.label "Facebook">
 <!ENTITY pbToolbarButton-promote-facebook.accesskey "F">
-<!ENTITY pbToolbarButton-promote-friendfeed.label "FriendFeed">
-<!ENTITY pbToolbarButton-promote-friendfeed.accesskey "r">
 <!ENTITY pbToolbarButton-promote-linkedin.label "LinkedIn">
 <!ENTITY pbToolbarButton-promote-linkedin.accesskey "L">
 
@@ -130,8 +134,6 @@
 <!ENTITY pbSearchResultPopup-addUrlToDelicious.accesskey   "d">
 <!ENTITY pbSearchResultPopup-addUrlToFacebook.label        "Facebook">
 <!ENTITY pbSearchResultPopup-addUrlToFacebook.accesskey    "F">
-<!ENTITY pbSearchResultPopup-addUrlToFriendFeed.label      "FriendFeed">
-<!ENTITY pbSearchResultPopup-addUrlToFriendFeed.accesskey  "r">
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.label         "Twitter">
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.accesskey     "T">
 <!ENTITY pbSearchResultPopup-addUrlToLinkedIn.label        "LinkedIn">
@@ -155,16 +157,16 @@
 <!ENTITY strikethroughEditMsgToolbarCmd.tooltip      "Durchgestrichen">
 <!ENTITY cropTextEditMsgToolbarCmd.tooltip           "Text kürzen">
 <!ENTITY insertLinkEditMsgToolbarCmd.tooltip         "Neuen Link einfügen oder Eigenschaften des gewählten Links bearbeiten">
-<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Apply or remove bulleted or numbered list">
-<!ENTITY noneMsgToolbarCmd.label                     "None">
-<!ENTITY noneMsgToolbarCmd.accesskey                 "N">
-<!ENTITY listBulletMsgToolbarCmd.label               "Bulleted">
+<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Aufzählung oder Nummerierung hinzufügen oder entfernen">
+<!ENTITY noneMsgToolbarCmd.label                     "Keine">
+<!ENTITY noneMsgToolbarCmd.accesskey                 "n">
+<!ENTITY listBulletMsgToolbarCmd.label               "Ungeordnet">
 <!ENTITY listbulletMsgToolbarCmd.accesskey           "b">
-<!ENTITY listNumberedMsgToolbarCmd.label             "Numbered">
+<!ENTITY listNumberedMsgToolbarCmd.label             "Nummeriert">
 <!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
 <!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insert HTML or edit selected HTML">
-<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Outdent text (move left)">
-<!ENTITY indentEditMsgToolbarCmd.tooltip             "Indent text (move right)">
+<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Texteinzug verkleinern (nach links schieben)">
+<!ENTITY indentEditMsgToolbarCmd.tooltip             "Texteinzug vergrößern (nach rechts schieben)">
 
 <!-- inline message editing context menu -->
 <!ENTITY spellAddToDictionary.label                  "Zu Wörterbuch hinzufügen">
@@ -187,8 +189,6 @@
 
 <!-- rich search bar -->
 <!ENTITY searchbar-defaultSearchText.label      "Suche">
-<!ENTITY searchbar-caption.label                "Für Vorschau Strg-Eingabe drücken">
-<!ENTITY searchbar-captionMac.label             "Für Textvorschau Kommando-Eingabe drücken">
 
 <!-- advanced search panel -->
 <!ENTITY searchOptionsPanelTitle.label          "Suchoptionen">
@@ -218,8 +218,6 @@
 
 <!-- content URL context menu -->
 <!ENTITY pbContentURLContextMenu-bookmarkURL.accesskey    "B">
-<!ENTITY pbContentURLContextMenu-otherActions.label       "Andere Aktionen">
-<!ENTITY pbContentURLContextMenu-otherActionsURL.accesskey "h">
 <!ENTITY pbContentURLContextMenu-openURL.label            "In Browser öffnen">
 <!ENTITY pbContentURLContextMenu-openURL.accesskey        "o">
 <!ENTITY pbContentURLContextMenu-copyURL.label            "Kopieren">
@@ -232,8 +230,6 @@
 <!ENTITY pbContentURLContextMenu-addToDelicious.accesskey "Z">
 <!ENTITY pbContentURLContextMenu-addToFacebook.label      "Zu Fastbook hinzufügen...">
 <!ENTITY pbContentURLContextMenu-addToFacebook.accesskey  "F">
-<!ENTITY pbContentURLContextMenu-addToFriendFeed.label    "Zu FriendFeed hinzufügen...">
-<!ENTITY pbContentURLContextMenu-addToFriendFeed.accesskey "r">
 <!ENTITY pbContentURLContextMenu-addToTwitter.label       "Zu Twitter hinzufügen...">
 <!ENTITY pbContentURLContextMenu-addToTwitter.accesskey   "w">
 <!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "An LinkedIn senden...">
@@ -243,21 +239,24 @@
 <!ENTITY pbContentTextContextMenu-websearch.accesskey    "S">
 <!ENTITY pbContentTextContextMenu-research.accesskey     "R">
 <!ENTITY pbContentTextContextMenu-review.accesskey       "e">
-<!ENTITY pbContentTextContextMenu-otherActions.label     "Andere Aktionen">
-<!ENTITY pbContentTextContextMenu-otherActions.accesskey "o">
 <!ENTITY pbContentTextContextMenu-map.accesskey          "M">
+<!-- C is already used for Copy -->
 <!ENTITY pbContentTextContextMenu-phone.label            "Nummer anrufen">
 <!ENTITY pbContentTextContextMenu-phone.accesskey        "N">
+<!ENTITY pbContentTextContextMenu-date.label            "Zum Kalender hinzufügen">
+<!ENTITY pbContentTextContextMenu-date.accesskey        "d">
 <!ENTITY pbContentTextContextMenu-systemSearchMac.label      "In Spotlight suchen">
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Im Wörterbuch nachschlagen">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "l">
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Dinge: Neu - To-Do mit der Auswahl als Zeichen">
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
-<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New To-Do with Selection as Title">
+<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: Neue Aufgabe mit Auswahl als Titel">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: An Posteingang senden">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
+<!ENTITY pbContentTextContextMenu-evernote.label       "Zu Evernote hinzufügen">
+<!ENTITY pbContentTextContextMenu-evernote.accesskey  "E">
 
 <!-- topic context menu -->
 <!ENTITY pbTopicContextMenu-edit.label         "Umbenennen">
@@ -283,7 +282,7 @@
 <!ENTITY threadPaneNoMatchesFound.desc "Keine der Suche entsprechenden Nachrichten gefunden.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Suche in allen Ordnern.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Starten Sie einen weiteren Versuch mit der Auswahl Alle.">
-<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
+<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Versuchen Sie die Ansicht auf Nachrichten umzustellen.">
 <!ENTITY threadPaneAddTextToSearch.desc "Fang in der Suchleiste an zu tippen, um die Suche zu starten.">
 
 <!ENTITY pbSignatureEditor.title "Neue Signatur">
@@ -309,14 +308,16 @@
 <!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "i">
 
 <!-- Vertical view sort by context menu -->
-<!ENTITY pbSortAscendingContextMenuItem.label "Ascending Order">
-<!ENTITY pbSortAscendingContextMenuItem.accesskey "A">
-<!ENTITY pbSortDescendingContextMenuItem.label "Descending Order">
-<!ENTITY pbSortDescendingContextMenuItem.accesskey "D">
+<!ENTITY pbSortAscendingContextMenuItem.label "Sortierung aufsteigend">
+<!ENTITY pbSortAscendingContextMenuItem.accesskey "a">
+<!ENTITY pbSortDescendingContextMenuItem.label "Sortierung absteigend">
+<!ENTITY pbSortDescendingContextMenuItem.accesskey "d">
 
 <!-- message pane context menu -->
 <!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: An Posteingang senden">
 <!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
+<!ENTITY pbMessagePaneContext-evernote.label     "Zu Evernote hinzufügen">
+<!ENTITY pbMessagePaneContext-evernote.accesskey "E">
 
 <!-- status bar -->
 <!ENTITY pbStatusBarOption-newAccount.label "Neues Konto...">
@@ -354,35 +355,6 @@
 <!ENTITY guideCmd.label "Kurzanleitung">
 <!ENTITY guideCmd.accesskey "r">
 
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbContentTextContextMenu-evernote.label       "Add to Evernote">
-<!ENTITY fullScreenMode.label "Enter Full Screen">
-<!ENTITY pbMessagePaneContext-evernote.label     "Add to Evernote">
-<!ENTITY pbContentTextContextMenu-date.accesskey        "d">
-<!ENTITY fullScreenMode.accesskey "l">
-<!ENTITY evernoteButton.tooltip "Add to Evernote">
-<!ENTITY pbMessagePaneContext-evernote.accesskey "e">
-<!ENTITY pbContentTextContextMenu-date.label            "Add to Calendar">
-<!ENTITY pbContentTextContextMenu-evernote.accesskey  "e">
-<!ENTITY evernoteButton.label "Evernote">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY showFavoritesBarCmd.accesskey "v">
-<!ENTITY pbFolderPaneSlider.label "Hide">
-<!ENTITY showFavoritesBarCmd.label "Favorites Bar">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
+<!ENTITY pbFolderPaneSlider.label "Ausblenden">
 
 <!ENTITY pbFavoritesBarContextMenu-remove.label "Remove From Favorites">

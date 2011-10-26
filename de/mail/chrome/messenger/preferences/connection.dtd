@@ -24,7 +24,7 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  HTTPport.label                "Port:">
+<!ENTITY  HTTPport.label                "Port">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.label                 "Port:">
 <!ENTITY  SSLport.accesskey             "o">

@@ -3,6 +3,7 @@
 <!ENTITY itemSpellCheck.label                "Rechtschreibung">
 <!ENTITY itemSendFormat.label                "Sendeformat">
 <!ENTITY itemSignatures.label                "Signaturen">
+<!ENTITY itemCannedResponses.label           "Antworten">
 
 <!ENTITY forwardReply.label                   "Mitteilungen weiterleiten">
 <!ENTITY forwardMsg.label                     "Nachrichten weiterleiten:">
@@ -66,49 +67,26 @@
 <!ENTITY removeSignatureButton.label    "Löschen">
 <!ENTITY removeSignatureButton.accesskey "L">
 
-<!ENTITY pbItemAdvanced.label "Advanced">
-<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
-<!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
-<!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
-<!ENTITY pb.QuickReply.label "Default Quick Reply to:">
-<!ENTITY pb.QuickReply.accesskey "Q">
-<!ENTITY pb.quickreply.replyall.label "Reply All">
+<!ENTITY pbItemAdvanced.label "Erweitert">
+<!ENTITY pb.quotingConversationsSortOrder.label "Beim Zusammenfassen zitieren:">
+<!ENTITY pb.quotingConversationsSortOrderOldest.label "Älteste Nachrichten zuerst">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Neueste Nachrichten zuerst">
+<!ENTITY pb.QuickReply.label "standardmäßige Schnellantwort an:">
+<!ENTITY pb.QuickReply.accesskey "s">
+<!ENTITY pb.quickreply.replyall.label "Allen antworten">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
-<!ENTITY pb.quickreply.reply.label "Reply">
-<!ENTITY pb.quickreply.reply.accesskey "y">
+<!ENTITY pb.quickreply.reply.label "Antworten">
+<!ENTITY pb.quickreply.reply.accesskey "A">
 <!ENTITY pbNumConversationsToQuote.label "Include at most">
 <!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing on reply">
 
+<!ENTITY pbQuoteOnQuickReply.label "Nachricht in Quick Reply zitieren">
+<!ENTITY pbQuoteOnQuickReply.accesskey "N">
+
 <!ENTITY pbDefaultFonSize.label                           "default">
 
-<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
-<!ENTITY pbPlaySoundOnSend.accesskey "P">
+<!ENTITY pbPlaySoundOnSend.label "Beim Nachrichtenversand Ton abspielen">
+<!ENTITY pbPlaySoundOnSend.accesskey "p">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbSendAndArchive.label "Enable send and archive">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbQuoteOnQuickReply.accesskey "m">
-<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbEnableDropbox.label "Send links when attaching files in your Dropbox folder">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY itemCannedResponses.label           "Responses">
+<!ENTITY pbSendAndArchive.label "Senden und archivieren aktivieren">
+<!ENTITY pbEnableDropbox.label "Links senden beim hinzufügen von Dateien zu Ihrem Dropbox-Ordner">
