@@ -432,3 +432,10 @@
 <!ENTITY showFavoritesBarCmd.accesskey "v">
 <!ENTITY pbFolderPaneSlider.label "Hide">
 <!ENTITY showFavoritesBarCmd.label "Favorites Bar">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbFavoritesBarContextMenu-remove.label "Remove From Favorites">
