@@ -718,3 +718,13 @@
 <!ENTITY pbLightningQuickView.label "Coup d'oeil">
 <!ENTITY lightning.calendar.label "Calendrier">
 <!ENTITY lightning.tasks.label "Tâches">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY helpSafeMode.label     "Trouble Shooting…">
+<!ENTITY helpTroubleshootingInfo.label     "Configuration Data">
+<!ENTITY helpSafeMode.accesskey "S">
+<!ENTITY helpTroubleshootingInfo.accesskey "C">

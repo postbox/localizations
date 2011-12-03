@@ -75,3 +75,17 @@ entities below were automatically added by l10nmerge
 <!ENTITY invalidLicenseInvalid3.label "for immediate assistance.">
 <!ENTITY invalidLicenseInvalid2.label "Postbox Support">
 <!ENTITY invalidLicenseInvalid1.label "Please enter a valid license code, or contact us at">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY enterLicenseTitle.style "">
+<!ENTITY invalidLicenseVersion.style "">
+<!ENTITY validationTitle.style "">
+<!ENTITY thanksTitle.style "">
+<!ENTITY invalidLicense.style "">
+<!ENTITY enterLicenseInfo.style "">
+<!ENTITY changeLicenseTitle.style "">
+<!ENTITY invalidLicenseInvalid1.style "">

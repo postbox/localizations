@@ -777,3 +777,13 @@ entities below were automatically added by l10nmerge
 <!ENTITY folderContextColor.label "Label Color">
 <!ENTITY filtersApplyToSelection.accesskey "S">
 <!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY helpSafeMode.label     "Trouble Shooting…">
+<!ENTITY helpTroubleshootingInfo.label     "Configuration Data">
+<!ENTITY helpSafeMode.accesskey "S">
+<!ENTITY helpTroubleshootingInfo.accesskey "C">
