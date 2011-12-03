@@ -434,11 +434,13 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Help">
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY releaseCmd.label "Release Notes">
-<!ENTITY releaseCmd.accesskey "R">
 <!ENTITY hintsAndTips.label "&brandFullName; Help">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "h">
+<!ENTITY helpSafeMode.label     "Trouble Shooting…">
+<!ENTITY helpSafeMode.accesskey "S">
+<!ENTITY helpTroubleshootingInfo.label     "Configuration Data">
+<!ENTITY helpTroubleshootingInfo.accesskey "C">
 <!ENTITY aboutCmd.label "About &brandFullName;">
 <!ENTITY aboutCmd.accesskey "A">
 <!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">

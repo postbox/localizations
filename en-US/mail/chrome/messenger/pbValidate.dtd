@@ -41,3 +41,13 @@
 <!ENTITY twitter.top "140">
 <!ENTITY facebook.left "30">
 <!ENTITY facebookLink.left "65">
+
+<!ENTITY validationTitle.style "">
+<!ENTITY enterLicenseTitle.style "">
+<!ENTITY enterLicenseInfo.style "">
+<!ENTITY invalidLicense.style "">
+<!ENTITY invalidLicenseVersion.style "">
+<!ENTITY invalidLicenseInvalid1.style "">
+<!ENTITY thanksTitle.style "">
+<!ENTITY changeLicenseTitle.style "">
+

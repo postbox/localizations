@@ -47,7 +47,7 @@
 <!ENTITY smtpServerDesc.label "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "Outgoing Server:">
 <!ENTITY smtpServerLabel.accesskey "O">
-<!ENTITY newsServerLabel.label "Newsgroup Server:">
+<!ENTITY newsServerLabel.label "News Server:">
 <!ENTITY newsServerLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
