@@ -45,3 +45,10 @@
 <!ENTITY update.downloading.start   "Lade Update herunter — ">
 <!ENTITY update.downloading.end     "">
 
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pb.safeMode.label "Running in Safe Mode">
