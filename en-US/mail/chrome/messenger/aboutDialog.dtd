@@ -46,3 +46,4 @@
 <!ENTITY update.downloading.start   "Downloading update — ">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY pb.safeMode.label "Running in Safe Mode">
