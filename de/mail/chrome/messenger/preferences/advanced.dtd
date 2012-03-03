@@ -122,3 +122,12 @@
 <!ENTITY pbOpenMessage.label "Nachricht öffnen…">
 <!ENTITY pbOpenFolderPane.label "Ordner-Fach öffnen">
 <!ENTITY pbCloseFolderPane.label "Ordner-Ablage schliessen">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY showNextMessage.label          "Next Message">
+<!ENTITY showPreviousMessage.label      "Previous Message">
+<!ENTITY deleteSelectOrder.label        "After deleting a message select the:">
