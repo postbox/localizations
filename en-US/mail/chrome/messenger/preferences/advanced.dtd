@@ -58,6 +58,10 @@
 <!ENTITY showUpdates.label              "Show Update History">
 <!ENTITY showUpdates.accesskey          "y">
 
+<!ENTITY deleteSelectOrder.label        "After deleting a message select the:">
+<!ENTITY showPreviousMessage.label      "Previous Message">
+<!ENTITY showNextMessage.label          "Next Message">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showConnections.label         "Connection...">
 <!ENTITY showConnections.accesskey     "n">
