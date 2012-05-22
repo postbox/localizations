@@ -246,9 +246,9 @@
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Search Messages…">
-<!ENTITY searchMailCmd.accesskey "M">
-<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchMailCmd.label "Advanced Search...">
+<!ENTITY searchMailCmd.accesskey "A">
+<!ENTITY searchMailCmd.key "k">
 <!ENTITY searchAddressesCmd.label "Search Addresses…">
 <!ENTITY searchAddressesCmd.accesskey "S">
 
@@ -379,8 +379,8 @@
 <!ENTITY markAllReadCmd.label "All Read">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Add Star">
-<!ENTITY markStarredCmd.accesskey "S">
+<!ENTITY markStarredCmd.label "As To-Do">
+<!ENTITY markStarredCmd.accesskey "T">
 <!ENTITY markUnStarredCmd.label "As Not To-Do">
 <!ENTITY markUnStarredCmd.accesskey "N">
 
