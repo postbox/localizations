@@ -370,6 +370,7 @@
 <!ENTITY markAsPendingCmd.accesskey "P">
 <!ENTITY markAsNotPendingCmd.label "As Not Pending">
 <!ENTITY markAsNotPendingCmd.accesskey "g">
+<!ENTITY markAsPendingCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Thread As Read">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
