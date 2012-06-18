@@ -728,3 +728,10 @@
 <!ENTITY helpTroubleshootingInfo.label     "Configuration Data">
 <!ENTITY helpSafeMode.accesskey "S">
 <!ENTITY helpTroubleshootingInfo.accesskey "C">
+
+
+<!--
+ entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY markAsPendingCmd.key "m">
