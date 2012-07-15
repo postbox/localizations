@@ -17,3 +17,7 @@
 <!ENTITY aboutSupport.pageTitle2 "Configuration Data">
 
 <!ENTITY aboutSupport.indexerTitle "Indexer">
+
+<!ENTITY aboutSupport.appBasicsLicenseName "License Name">
+<!ENTITY aboutSupport.ageInDays "Days In Use">
+<!ENTITY aboutSupport.pbState "State">
