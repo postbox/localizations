@@ -94,6 +94,8 @@
 <!ENTITY pbToolbarButton-promote-facebook.accesskey "F">
 <!ENTITY pbToolbarButton-promote-linkedin.label "LinkedIn">
 <!ENTITY pbToolbarButton-promote-linkedin.accesskey "L">
+<!ENTITY pbToolbarButton-runFiltersButton.label "Run Filters">
+<!ENTITY pbToolbarButton-runFiltersButton.tooltip "Run filters on the current folder">
 
 <!-- Tags Menu Popup -->
 <!ENTITY applyTag.label "Add Topic">
