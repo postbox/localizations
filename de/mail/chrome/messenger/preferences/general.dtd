@@ -42,3 +42,10 @@
 <!ENTITY pbChromeFontSizeLarge.label      "Groß">
 <!ENTITY pbChromeFontSize.label           "Nachrichtenliste und Ordner Font größe:">
 <!ENTITY pbChromeFontSize.accesskey       "N">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY enableNotificationCenter.label   "Use the Notification Center">

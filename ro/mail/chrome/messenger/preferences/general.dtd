@@ -48,3 +48,10 @@
 <!ENTITY pbChromeFontSizeMedium.label     "Medium">
 <!ENTITY pbChromeFontSizeLarge.label      "Large">
 <!ENTITY pbChromeFontSize.accesskey       "M">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY enableNotificationCenter.label   "Use the Notification Center">

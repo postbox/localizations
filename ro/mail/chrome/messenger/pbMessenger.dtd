@@ -439,3 +439,11 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pbFavoritesBarContextMenu-remove.label "Remove From Favorites">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbToolbarButton-runFiltersButton.label "Run Filters">
+<!ENTITY pbToolbarButton-runFiltersButton.tooltip "Run filters on the current folder">

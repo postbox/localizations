@@ -42,3 +42,10 @@
 <!ENTITY pbChromeFontSizeLarge.label      "Groot">
 <!ENTITY pbChromeFontSize.label           "Berichtenlijst en Mappen Lettertype grootte:">
 <!ENTITY pbChromeFontSize.accesskey       "M">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
