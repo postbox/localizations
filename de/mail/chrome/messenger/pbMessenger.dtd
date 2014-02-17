@@ -81,7 +81,7 @@
 <!ENTITY newTaskButton.tooltip "Neue Aufgabe erstellen">
 <!ENTITY newTaskButton.label "Neue Aufgabe">
 <!ENTITY inspectorButton.label "Inspektor">
-<!ENTITY inspectorButton.tooltip "Einstellungsfenster ein- oder ausblenden">
+<!ENTITY inspectorButton.tooltip "Inspektor">
 <!ENTITY evernoteButton.label "Evernote">
 <!ENTITY evernoteButton.tooltip "Zu Evernote hinzufügen">
 <!ENTITY pbToolbarButton-home.label "Home">
@@ -357,12 +357,11 @@
 
 <!ENTITY pbFolderPaneSlider.label "Ausblenden">
 
-<!ENTITY pbFavoritesBarContextMenu-remove.label "Remove From Favorites">
-
+<!ENTITY pbFavoritesBarContextMenu-remove.label "Aus Favoriten löschen">
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbToolbarButton-runFiltersButton.label "Run Filters">
+<!ENTITY pbToolbarButton-runFiltersButton.label "Filter anwenden">
 <!ENTITY pbToolbarButton-runFiltersButton.tooltip "Run filters on the current folder">

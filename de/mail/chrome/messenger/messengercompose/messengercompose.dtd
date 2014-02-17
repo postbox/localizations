@@ -206,7 +206,7 @@
 <!ENTITY quoteButton.label "Zitieren">
 <!ENTITY addressButton.label "Kontakte">
 <!ENTITY attachButton.label "Anhang">
-<!ENTITY spellingButton.label "Rechtschr.">
+<!ENTITY spellingButton.label "Rechtschr">
 <!ENTITY saveButton.label "Speichern">
 <!ENTITY tagButton.label "Thema zuweisen">
 <!ENTITY throbberItem.title "Aktivitätsindikator">
