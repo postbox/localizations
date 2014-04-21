@@ -5,7 +5,7 @@
 
 <!ENTITY aboutDialog.title          "À propos de &brandFullName;">
 
-<!ENTITY productDescription.label    "Hand-crafted, and made with love, in San Francisco, Califorrnia.">
+<!ENTITY productDescription.label    "Fait à la main et avec amour à San Francisco, Californie.">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Information de licence">
@@ -52,4 +52,4 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pb.safeMode.label "Running in Safe Mode">
+<!ENTITY pb.safeMode.label "Exécution en mode sécurisé">

@@ -15,9 +15,9 @@
 <!ENTITY emptyAttachmentBucket.label "Ajouter des fichiers...">
 <!ENTITY attachMenu.label "Joindre">
 <!ENTITY attachMenu.accesskey "J">
-<!ENTITY attachFileCmd.label "Fichier(s)…">
+<!ENTITY attachFileCmd.label "Fichier(s)...">
 <!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachPageCmd.label "Page Web…">
+<!ENTITY attachPageCmd.label "Page Web...">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Carte de visite (vCard)">
@@ -30,7 +30,7 @@
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "Enregistrer comme">
 <!ENTITY saveAsCmd.accesskey "c">
-<!ENTITY saveAsFileCmd.label "Fichier…">
+<!ENTITY saveAsFileCmd.label "Fichier...">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Brouillon">
 <!ENTITY saveAsDraftCmd.accesskey "B">
@@ -45,9 +45,9 @@
 <!ENTITY sendLaterCmd.accesskey "l">
 <!ENTITY sendAndArchive.label "Envoyer et Archiver">
 <!ENTITY sendLaterAndArchive.label "Envoyez plus tard et archivez">
-<!ENTITY printSetupCmd.label "Mise en page…">
+<!ENTITY printSetupCmd.label "Mise en page...">
 <!ENTITY printSetupCmd.accesskey "M">
-<!ENTITY printCmd.label "Imprimer…">
+<!ENTITY printCmd.label "Imprimer...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY quitApplicationCmdWin.label                    "Quitter"> 
@@ -84,7 +84,7 @@
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "T"> 
-<!ENTITY findCmd.label "Rechercher et remplacer…">
+<!ENTITY findCmd.label "Rechercher et remplacer...">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "h">
 <!ENTITY findAgainCmd.label "Rechercher le suivant">
@@ -99,22 +99,22 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Affichage"> 
 <!ENTITY viewMenu.accesskey "A">
-<!ENTITY customizeToolbar.label "Personnaliser…">
+<!ENTITY customizeToolbar.label "Personnaliser...">
 <!ENTITY customizeToolbar.accesskey "P">
 <!ENTITY showFormatToolbarCmd.label "Barre d'outils de mise en forme">
 <!ENTITY showFormatToolbarCmd.accesskey "f">
-<!ENTITY pbShowCcField.label "Cc Address Field">
+<!ENTITY pbShowCcField.label "Champ d'adresse Cc">
 <!ENTITY pbShowCcField.accesskey "C">
 <!ENTITY pbShowCcField.key "c">
-<!ENTITY pbShowBccField.label "Bcc Address Field">
+<!ENTITY pbShowBccField.label "Champ d'adresse Cci">
 <!ENTITY pbShowBccField.accesskey "B">
 <!ENTITY pbShowBccField.key "b">
-<!ENTITY pbShowReplyField.label "Reply-To Address Field">
+<!ENTITY pbShowReplyField.label "Champ d'adresse Répondre à">
 <!ENTITY pbShowReplyField.accesskey "R">
 <!ENTITY pbShowReplyField.key "r">
-<!ENTITY pbShowNewsgroupsField.label "Newsgroups Address Field">
+<!ENTITY pbShowNewsgroupsField.label "Champ d'adresse Groupe de discussion">
 <!ENTITY pbShowNewsgroupsField.accesskey "N"> 
-<!ENTITY pbShowFollowupField.label "Followup-To Address Field">
+<!ENTITY pbShowFollowupField.label "Champ d'adresse Suivi">
 <!ENTITY pbShowFollowupField.accesskey "o">
 
 <!-- Format Menu -->
@@ -177,7 +177,7 @@
 <!ENTITY addressBookCmd.label "Carnet d'adresses">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY preferencesCmd.label "Options…">
+<!ENTITY preferencesCmd.label "Options...">
 <!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Préférences">
@@ -291,15 +291,15 @@
 
 <!ENTITY openAttachment.label "Ouvrir">
 <!ENTITY openAttachment.accesskey "O">
-<!ENTITY quickLookAttachment.label "Quick Look">
+<!ENTITY quickLookAttachment.label "Aperçu">
 <!ENTITY quickLookAttachment.accesskey "Q">
 <!ENTITY delete.label "Supprimer">
 <!ENTITY delete.accesskey "e">
 <!ENTITY selectAll.label "Tout sélectionner">
 <!ENTITY selectAll.accesskey "T">
-<!ENTITY attachFile.label "Joindre fichier(s)…">
+<!ENTITY attachFile.label "Joindre fichier(s)...">
 <!ENTITY attachFile.accesskey "f">
-<!ENTITY attachPage.label "Joindre une page Web…">
+<!ENTITY attachPage.label "Joindre une page Web...">
 <!ENTITY attachPage.accesskey "W">
 <!ENTITY editSignatures.label "Éditer les signatures...">
 <!ENTITY newSignature.label "Nouvelle signature...">
@@ -345,7 +345,7 @@
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
 <!ENTITY pbRemoveTextToolbarCmd.label "Effacer la mise en forme du texte">
 
-<!ENTITY pbComposeSidebar.label "Sidebar">
+<!ENTITY pbComposeSidebar.label "Barre latérale">
 <!ENTITY pbComposeSidebar.accesskey "S">
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">
@@ -366,10 +366,10 @@
 
 <!-- Insert Link Dialog -->
 
-<!ENTITY pbInsertLink.label "Enter the Internet address (URL) for this link.">
+<!ENTITY pbInsertLink.label "Saisir l'adresse Internet (URL) pour ce lien.">
 <!ENTITY pbInsertLink.accesskey "E">
 
-<!ENTITY pbInsertImage.label "Enter a Internet address (URL) or local file location:">
+<!ENTITY pbInsertImage.label "Saisir l'adresse Internet (URL) ou l'emplacement du fichier local:">
 <!ENTITY pbInsertImage.accesskey "E">
 
 <!ENTITY insertListButton.tooltip "Appliquer ou retirer les listes à puces ou numérotées">

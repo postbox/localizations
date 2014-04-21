@@ -69,7 +69,7 @@
 <!-- Certificates -->
 <!ENTITY certSelection.label "Quand un serveur demande mon certificat:">
 <!ENTITY certs.auto                      "En sélectionner un automatiquement">
-<!ENTITY certs.ask                       "Ask me every time">
+<!ENTITY certs.ask                       "Toujours me demander">
 
 <!ENTITY viewCertificates.label         "Voir les certificats">
 <!ENTITY viewCertificates.accesskey     "o">
@@ -84,11 +84,11 @@
 <!ENTITY webservicesInfo.label          "Configurer les services Web intégrés à Postbox.">
 
 <!ENTITY textStartUp   "Au démarrage:">
-<!ENTITY radioRememberPrevState "Remember previous online state">
+<!ENTITY radioRememberPrevState "Se souvenir de l'état en ligne précédent">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe "Ask me for online state at startup">
+<!ENTITY radioAskMe "Me demander l'état en ligne au démarrage">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline "Always start up online">
+<!ENTITY radioAlwaysOnline "Toujours démarrer en ligne">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
 <!ENTITY textGoingOnline1 "Au passage en ligne:">
@@ -96,21 +96,21 @@
 <!ENTITY radioNotSend1 "Ne pas envoyer les messages en attente">
 <!ENTITY radioAskUnsent1 "Demander d'envoyer les messages en attente">
 
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload "Yes">
+<!ENTITY textGoingOffline "Télécharger les messages pour une utilisation hors ligne lors de la déconnexion?">
+<!ENTITY radioAutoDownload "Oui">
 <!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload "No">
+<!ENTITY radioNotDownload "Non">
 <!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload "Ask me">
+<!ENTITY radioAskDownload "Demandez-moi">
 <!ENTITY radioAskDownload.accesskey "A">
 
-<!ENTITY useGmailShortcuts.label "Use Gmail keyboard shortcuts">
+<!ENTITY useGmailShortcuts.label "Utiliser les raccourcis clavier Gmail">
 <!ENTITY useGmailShortcuts.accesskey "l">
 
-<!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
+<!ENTITY pbUseGravatar.label "Utiliser le service Gravatar pour chercher les photos des contacts">
 <!ENTITY pbUseGravatar.accesskey "G">
 
-<!ENTITY pbUseGoogleCalendar.label "Use Google Calendar for detected dates.">
+<!ENTITY pbUseGoogleCalendar.label "Utiliser Google Agenda pour les dates détectées">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
 
 <!ENTITY pbSwipeLeft.label "Glisser à gauche:">
@@ -128,6 +128,6 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY showNextMessage.label          "Next Message">
-<!ENTITY showPreviousMessage.label      "Previous Message">
-<!ENTITY deleteSelectOrder.label        "After deleting a message select the:">
+<!ENTITY showNextMessage.label          "Message suivant">
+<!ENTITY showPreviousMessage.label      "Message précédent">
+<!ENTITY deleteSelectOrder.label        "Après la suppression d'un message, sélectionner le:">

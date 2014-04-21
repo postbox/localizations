@@ -4,10 +4,10 @@
 <!ENTITY checkNow.label             "Vérifier maintenant">
 <!ENTITY checkNow.accesskey         "n">
 
-<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.label              "Autoriser Spotlight à chercher">
 <!ENTITY allowSpotlight.accesskey          "w">
 
-<!ENTITY location.label                   "Adresse :">
+<!ENTITY location.label                   "Adresse:">
 <!ENTITY location1.accesskey               "d">
 <!ENTITY useDefault.label                 "Réinitialiser">
 <!ENTITY useDefault.accesskey             "i">
@@ -15,12 +15,12 @@
 <!ENTITY bounceSystemDockIcon.label       "Animer l'icône du dock">
 <!ENTITY bounceSystemDockIcon.accesskey   "n">
 
-<!ENTITY newMessagesArrive.label          "Quand un nouveau message arrive :">
+<!ENTITY newMessagesArrive.label          "Quand un nouveau message arrive:">
 <!ENTITY playSound.label                  "Jouer un son">
 <!ENTITY playSound1.accesskey              "J">
 <!ENTITY showAnimatedAlert.label          "Afficher un avertissement">
 <!ENTITY showAnimatedAlert.accesskey      "A">
-<!ENTITY customizeMailAlert.label         "Personnaliser…">
+<!ENTITY customizeMailAlert.label         "Personnaliser...">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
 <!ENTITY soundNotification1.caption       "Son">
@@ -30,9 +30,9 @@
 <!ENTITY systemsoundMac.label             "Son d'alerte système">
 <!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
-<!ENTITY customsound.label                "Utiliser le fichier son suivant :">
+<!ENTITY customsound.label                "Utiliser le fichier son suivant:">
 <!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "Parcourir…">
+<!ENTITY browse.label                     "Parcourir...">
 <!ENTITY browse.accesskey                 "r">
 
 <!-- message list font size -->
@@ -40,7 +40,7 @@
 <!ENTITY pbChromeFontSizeSmall.label      "Petite">
 <!ENTITY pbChromeFontSizeMedium.label     "Moyenne">
 <!ENTITY pbChromeFontSizeLarge.label      "Grande">
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
+<!ENTITY pbChromeFontSize.label           "Taille de la police de messages et des dossiers:">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 
@@ -48,4 +48,4 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+<!ENTITY enableNotificationCenter.label   "Utiliser le Centre de notifications">
