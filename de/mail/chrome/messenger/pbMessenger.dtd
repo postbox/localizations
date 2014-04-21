@@ -40,7 +40,7 @@
 <!ENTITY viewMenuShowImages.label        "Bilder">
 <!ENTITY viewMenuShowImages.accesskey    "B">
 <!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowTodos.label "To-Dos">
+<!ENTITY viewMenuShowTodos.label "Kennzeichnung">
 <!ENTITY viewMenuShowTodos.accesskey "D">
 <!ENTITY key_showTodos.key           "o">
 <!ENTITY showFolderPaneCmd.label "Ordner-Panel">
@@ -249,7 +249,7 @@
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Im Wörterbuch nachschlagen">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "l">
-<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Dinge: Neu - To-Do mit der Auswahl als Zeichen">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Dinge: Neu - Kennzeichnung mit der Auswahl als Zeichen">
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: Neue Aufgabe mit Auswahl als Titel">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
