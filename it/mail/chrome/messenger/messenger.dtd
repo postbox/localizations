@@ -224,7 +224,7 @@
 <!ENTITY textZoomResetCmd.commandkey "0">
 <!ENTITY textZoomResetCmd.label     "Normale">
 <!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label             "Text Size">
+<!ENTITY textSize.label             "Dimensione del testo">
 <!ENTITY textSize.accesskey             "x">
 
 <!ENTITY pageSourceCmd.label "Sorgente del messaggio">
@@ -284,7 +284,7 @@
 <!ENTITY goBackCmd.label "Indietro">
 <!ENTITY goBackCmd.accesskey "I">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goToFolderCmd.label "Quick Switch">
+<!ENTITY goToFolderCmd.label "Cambio rapido">
 <!ENTITY goToFolderCmd.accesskey "Q">
 <!ENTITY prevStarredMsgCmd.label "Messaggio speciale">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
@@ -320,7 +320,7 @@
 <!ENTITY editMsgCmd.key "e">
 <!ENTITY editMsgAsNewCmd1.label "Ritrasmetti">
 <!ENTITY editMsgAsNewCmd1.accesskey "R">
-<!ENTITY redirectCmd.label "Redirect">
+<!ENTITY redirectCmd.label "Reindirizza">
 <!ENTITY redirectCmd.key "e">
 <!ENTITY createFilter.label "Crea un filtro dal messaggio…">
 <!ENTITY createFilter.accesskey "f">
@@ -366,9 +366,9 @@
 <!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Come non letto">
 <!ENTITY markAsUnreadCmd.accesskey "C">
-<!ENTITY markAsPendingCmd.label "As Pending">
+<!ENTITY markAsPendingCmd.label "Come in sospeso">
 <!ENTITY markAsPendingCmd.accesskey "P">
-<!ENTITY markAsNotPendingCmd.label "As Not Pending">
+<!ENTITY markAsNotPendingCmd.label "Come non in sospeso ">
 <!ENTITY markAsNotPendingCmd.accesskey "g">
 <!ENTITY markThreadAsReadCmd.label "Discussione letta">
 <!ENTITY markThreadAsReadCmd.accesskey "a">
@@ -381,7 +381,7 @@
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Aggiungi a Speciali">
 <!ENTITY markStarredCmd.accesskey "S">
-<!ENTITY markUnStarredCmd.label "As Not To-Do">
+<!ENTITY markUnStarredCmd.label "Come cosa da non fare ">
 <!ENTITY markUnStarredCmd.accesskey "N">
 
 <!-- keep as s, because t is taken by topic/tag -->
@@ -428,18 +428,18 @@
 <!ENTITY filtersApply.accesskey "E">
 
 <!-- Help Menu -->
-<!ENTITY helpMenu.label "Help">
+<!ENTITY helpMenu.label "Aiuto">
 <!ENTITY helpMenu.accesskey "H">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Help">
+<!ENTITY helpMenuWin.label        "Aiuto">
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY releaseCmd.label "Note di Versione">
 <!ENTITY releaseCmd.accesskey "r">
-<!ENTITY hintsAndTips.label "&brandFullName; Help">
+<!ENTITY hintsAndTips.label "&brandFullName; Aiuto">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "H">
-<!ENTITY aboutCmd.label "About &brandFullName;">
+<!ENTITY aboutCmd.label "Informazioni su &brandFullName;">
 <!ENTITY aboutCmd.accesskey "A">
 
 <!-- Mail Toolbar -->
@@ -448,7 +448,7 @@
 <!ENTITY replyButton.label "Rispondi">
 <!ENTITY replyAllButton.label "Rispondi a tutti">
 <!ENTITY sendButton.label "Send">
-<!ENTITY redirectButton.label "Redirect">
+<!ENTITY redirectButton.label "Reindirizza">
 <!ENTITY forwardButton.label "Inoltra">
 <!ENTITY archiveButton.label "Archivia">
 <!ENTITY fileButton.label "Sposta in">
@@ -477,7 +477,7 @@
 <!ENTITY replyButton.tooltip "Rispondi al messaggio">
 <!ENTITY replyAllButton.tooltip "Rispondi al mittente e a tutti i destinatari">
 <!ENTITY sendButton.tooltip "Invia il messaggio selezionato">
-<!ENTITY redirectButton.tooltip "Redirect selected message">
+<!ENTITY redirectButton.tooltip "Reindirizza il messaggio selezionato">
 <!ENTITY forwardButton.tooltip "Inoltra il messaggio selezionato">
 <!ENTITY archiveButton.tooltip "Archivia i messaggi selezionati">
 <!ENTITY fileButton.tooltip "Sposta il messaggio selezionato">
@@ -602,7 +602,7 @@
 <!ENTITY contextEditMsg.accesskey "i">
 <!ENTITY contextEditAsNew1.label "Reinvio...">
 <!ENTITY contextEditAsNew1.accesskey "e">
-<!ENTITY contextRedirect.label "Redirect">
+<!ENTITY contextRedirect.label "Reindirizza">
 <!ENTITY contextReplySender.label "Rispondi solo al mittente">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Rispondi al gruppo di discussione">
@@ -637,15 +637,15 @@
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Action Options -->
-<!ENTITY messageHeader.expand.label                 "Expand">
-<!ENTITY messageHeader.collapse.label               "Collapse">
-<!ENTITY messageHeader.editMessageButton.label      "Edit">
-<!ENTITY messageHeader.showRelated.label            "Show Related">
-<!ENTITY messageHeader.showRelated.label            "Show Related">
-<!ENTITY messageHeader.assignTopic.label            "Assign Topic">
-<!ENTITY messageHeader.reply.label                  "Reply">
-<!ENTITY messageHeader.replyAll.label               "Reply All">
-<!ENTITY messageHeader.forward.label                "Forward">
+<!ENTITY messageHeader.expand.label                 "Espandi">
+<!ENTITY messageHeader.collapse.label               "Riduci">
+<!ENTITY messageHeader.editMessageButton.label      "Modifica">
+<!ENTITY messageHeader.showRelated.label            "Mostra Correlati">
+<!ENTITY messageHeader.showRelated.label            "Mostra Correlati">
+<!ENTITY messageHeader.assignTopic.label            "Assegna argomento">
+<!ENTITY messageHeader.reply.label                  "Rispondi">
+<!ENTITY messageHeader.replyAll.label               "Rispondi a tutti">
+<!ENTITY messageHeader.forward.label                "Inoltra">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "altri">
@@ -717,21 +717,21 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY messageHeader.assignLabel.label            "Assign Label">
+<!ENTITY messageHeader.assignLabel.label            "Assegna etichette">
 <!ENTITY filtersApplyToMessage.accesskey "s">
 <!ENTITY folderContextColor.accesskey "L">
-<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
-<!ENTITY folderContextColor.label "Label Color">
+<!ENTITY filtersApplyToMessage.label "Attiva filtri sul messaggio">
+<!ENTITY folderContextColor.label "Colore dell'etichetta">
 <!ENTITY filtersApplyToSelection.accesskey "S">
-<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
+<!ENTITY filtersApplyToSelection.label "Esegui filtri sui messaggi selezionati ">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY helpSafeMode.label     "Trouble Shooting…">
-<!ENTITY helpTroubleshootingInfo.label     "Configuration Data">
+<!ENTITY helpSafeMode.label     "Risoluzione problemi...">
+<!ENTITY helpTroubleshootingInfo.label     "Configurazione dati">
 <!ENTITY helpSafeMode.accesskey "S">
 <!ENTITY helpTroubleshootingInfo.accesskey "C">
 

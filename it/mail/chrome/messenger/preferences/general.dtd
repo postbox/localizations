@@ -1,10 +1,10 @@
-<!ENTITY alwaysCheckDefault.label          "Always check to see if &brandShortName; is the default mail client on startup">
+<!ENTITY alwaysCheckDefault.label          "Controlla sempre per vedere se &brandShortName; è il client di posta predefinito all'avvio">
 <!ENTITY alwaysCheckDefault.accesskey      "l">
 
 <!ENTITY checkNow.label             "Controlla adesso">
 <!ENTITY checkNow.accesskey         "n">
 
-<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.label              "Permetti a Spotlight di cercare i messaggi ">
 <!ENTITY allowSpotlight.accesskey          "w">
 
 <!ENTITY location.label                   "Posizione:">
@@ -37,10 +37,10 @@
 
 <!-- message list font size -->
 
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
+<!ENTITY pbChromeFontSizeSmall.label      "Piccolo">
+<!ENTITY pbChromeFontSizeMedium.label     "Medio">
+<!ENTITY pbChromeFontSizeLarge.label      "Grande">
+<!ENTITY pbChromeFontSize.label           "Dimensione dei caratteri dell'elenco dei messaggi e delle Cartelle:">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 
@@ -48,4 +48,4 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+<!ENTITY enableNotificationCenter.label   "Utilizza Centro notifiche">

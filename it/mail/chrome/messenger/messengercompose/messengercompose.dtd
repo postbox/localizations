@@ -10,7 +10,7 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Address Book Card...">
+<!ENTITY newCard.label "Biglietto rubrica...">
 <!ENTITY newCard.accesskey "C">
 <!ENTITY emptyAttachmentBucket.label "Add files...">
 <!ENTITY attachMenu.label "Allega">
@@ -101,18 +101,18 @@
 <!ENTITY customizeToolbar.accesskey "z">
 <!ENTITY showFormatToolbarCmd.label "Barra di formattazione">
 <!ENTITY showFormatToolbarCmd.accesskey "f">
-<!ENTITY pbShowCcField.label "Cc Address Field">
+<!ENTITY pbShowCcField.label "Campo Indirizzo Cc">
 <!ENTITY pbShowCcField.accesskey "C">
 <!ENTITY pbShowCcField.key "c">
-<!ENTITY pbShowBccField.label "Bcc Address Field">
+<!ENTITY pbShowBccField.label "Campo Indirizzo Bcc">
 <!ENTITY pbShowBccField.accesskey "B">
 <!ENTITY pbShowBccField.key "b">
-<!ENTITY pbShowReplyField.label "Reply-To Address Field">
+<!ENTITY pbShowReplyField.label "Campo Indirizzo Rispondi a">
 <!ENTITY pbShowReplyField.accesskey "R">
 <!ENTITY pbShowReplyField.key "r">
-<!ENTITY pbShowNewsgroupsField.label "Newsgroups Address Field">
+<!ENTITY pbShowNewsgroupsField.label "Campo Indirizzo Newsgroup ">
 <!ENTITY pbShowNewsgroupsField.accesskey "N"> 
-<!ENTITY pbShowFollowupField.label "Followup-To Address Field">
+<!ENTITY pbShowFollowupField.label "Campo Indirizzo follow up ">
 <!ENTITY pbShowFollowupField.accesskey "o">
 
 <!-- Format Menu -->
@@ -189,7 +189,7 @@
 <!ENTITY windowMenu.label "Finestra"> 
 
 <!-- Help Menu -->
-<!ENTITY helpMenu.label "Help">
+<!ENTITY helpMenu.label "Aiuto">
 <!ENTITY helpMenu.accesskey "H"> 
 <!ENTITY releaseCmd.label "Note di Versione">
 <!ENTITY releaseCmd.accesskey "r"> 
@@ -209,7 +209,7 @@
 <!ENTITY tagButton.label "Assegna Discussione">
 <!ENTITY throbberItem.title "Indicatore di attività">
 <!ENTITY signatureButton.label "Signatures">
-<!ENTITY compose.sidebar.label "Sidebar">
+<!ENTITY compose.sidebar.label "Barra laterale">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Invia il messaggio ora"> 
@@ -221,14 +221,14 @@
 <!ENTITY cutButton.tooltip              "Taglia">
 <!ENTITY copyButton.tooltip             "Copia">
 <!ENTITY pasteButton.tooltip            "Incolla">
-<!ENTITY tagButton.tooltip "Add topic(s) to message">
-<!ENTITY signatureButton.tooltip "Insert a signature">
-<!ENTITY compose.sidebar.tooltip "Open the sidebar">
+<!ENTITY tagButton.tooltip "Aggiungi argomento(i) al messaggio">
+<!ENTITY signatureButton.tooltip "Inserisci una firma ">
+<!ENTITY compose.sidebar.tooltip "Apri la barra laterale ">
 
 <!-- Headers -->
-<!ENTITY fromHeader.label "From">
+<!ENTITY fromHeader.label "Da">
 <!ENTITY fromHeader.accesskey "r">
-<!ENTITY subjectHeader.label "Subject">
+<!ENTITY subjectHeader.label "Oggetto">
 <!ENTITY subjectHeader.accesskey "S">
 <!ENTITY toAddr.label "A:"> 
 <!ENTITY ccAddr.label "Cc:"> 
@@ -236,9 +236,9 @@
 <!ENTITY replyAddr.label "Rispondi a:"> 
 <!ENTITY newsgroupsAddr.label "Gruppo discussione:"> 
 <!ENTITY followupAddr.label "Inoltra a:"> 
-<!ENTITY tagHeader.label "Topics">
+<!ENTITY tagHeader.label "Argomenti">
 <!ENTITY tagHeader.accesskey "o">
-<!ENTITY tagMessageButton.tooltip     "Assign topic(s) to the message.">
+<!ENTITY tagMessageButton.tooltip     "Assegnare argomento(i) al messaggio.">
 <!ENTITY compose.addresses.label "Indirizzi">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -287,7 +287,7 @@
 
 <!ENTITY openAttachment.label "Apri">
 <!ENTITY openAttachment.accesskey "A">
-<!ENTITY quickLookAttachment.label "Quick Look">
+<!ENTITY quickLookAttachment.label "Visualizzazione rapida">
 <!ENTITY quickLookAttachment.accesskey "Q">
 <!ENTITY delete.label "Elimina">
 <!ENTITY delete.accesskey "E">
@@ -297,19 +297,19 @@
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Allega pagina web…">
 <!ENTITY attachPage.accesskey "w">
-<!ENTITY editSignatures.label "Edit Signatures...">
-<!ENTITY newSignature.label "New Signature...">
+<!ENTITY editSignatures.label "Modifica Firme...">
+<!ENTITY newSignature.label "Nuova firma...">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contatti">
 
 <!-- for rich search in compose -->
-<!ENTITY contactsButton.tooltip                 "Find contacts">
-<!ENTITY imagesButton.tooltip                   "Find images">
-<!ENTITY attachmentsButton.tooltip              "Find attachments">
-<!ENTITY placesButton.tooltip                   "Find places">
-<!ENTITY researchButton.tooltip                 "Find references">
-<!ENTITY signaturesButton.tooltip               "Find signatures">
+<!ENTITY contactsButton.tooltip                 "Trova contatti">
+<!ENTITY imagesButton.tooltip                   "Trova immagini">
+<!ENTITY attachmentsButton.tooltip              "Trova gli allegati">
+<!ENTITY placesButton.tooltip                   "Trova places">
+<!ENTITY researchButton.tooltip                 "Trova references">
+<!ENTITY signaturesButton.tooltip               "Trova signatures">
 
 <!-- this is an entity because it can vary by locale, and which type has the most kinds on the locale 
      for en-US, it is "Research", which has "Wikipedia" + "Dictionary" + "Thesaurus" -->
@@ -322,66 +322,66 @@
 <!-- topic context menu -->
 <!ENTITY pbTopicContextMenu-edit.label         "Modifica">
 <!ENTITY pbTopicContextMenu-edit.accesskey     "M">
-<!ENTITY pbTopicContextMenu-favorite.label     "Favorite">
+<!ENTITY pbTopicContextMenu-favorite.label     "Favorito">
 <!ENTITY pbTopicContextMenu-favorite.accesskey "F">
-<!ENTITY pbTopicContextMenu-remove.label       "Remove">
+<!ENTITY pbTopicContextMenu-remove.label       "Rimuovi">
 <!ENTITY pbTopicContextMenu-remove.accesskey   "R">
-<!ENTITY pbTopicContextMenu-editAll.label      "Edit Topics...">
+<!ENTITY pbTopicContextMenu-editAll.label      "Modifica Argomenti...">
 <!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
 
 <!-- bubble context menu XXX TODO ACCESS KEYS-->
-<!ENTITY pbBubbleContextMenu-remove.label      "Remove Address">
-<!ENTITY pbBubbleContextMenu-copy.label        "Copy Address">
-<!ENTITY pbBubbleContextMenu-edit.label        "Edit Address">
-<!ENTITY pbBubbleContextMenu-open.label        "Open in Address Book">
-<!ENTITY pbBubbleContextMenu-add.label         "Add to Address Book">
+<!ENTITY pbBubbleContextMenu-remove.label      "Rimuovi Indirizzo">
+<!ENTITY pbBubbleContextMenu-copy.label        "Copia indirizzo">
+<!ENTITY pbBubbleContextMenu-edit.label        "Modifica indirizzo ">
+<!ENTITY pbBubbleContextMenu-open.label        "Apri nella Rubrica Indirizzi">
+<!ENTITY pbBubbleContextMenu-add.label         "Aggiungi alla Rubrica">
 
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
-<!ENTITY pbRemoveTextToolbarCmd.label "Remove text styles">
+<!ENTITY pbRemoveTextToolbarCmd.label "Rimuovi stili del testo">
 
-<!ENTITY pbComposeSidebar.label "Sidebar">
+<!ENTITY pbComposeSidebar.label "Barra laterale">
 <!ENTITY pbComposeSidebar.accesskey "S">
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">
-<!ENTITY pbReplyButton.label       "Reply">
-<!ENTITY pbReplyAllButton.tooltiptext    "Reply to sender of selected message">
-<!ENTITY pbReplyAllButton.label    "Reply All">
-<!ENTITY pbReplyAllButton.tooltiptext    "Reply to all recipients for selected message">
+<!ENTITY pbReplyButton.label       "Rispondi">
+<!ENTITY pbReplyAllButton.tooltiptext    "Rispondi al mittente del messaggio selezionato">
+<!ENTITY pbReplyAllButton.label    "Rispondi a tutti">
+<!ENTITY pbReplyAllButton.tooltiptext    "Rispondi a tutti i destinatari del messaggio selezionato">
 <!ENTITY pbToggleReplyRecipients.accesskey "R">
 <!ENTITY pbToggleReplyRecipients.key "R">
 
-<!ENTITY pbQuoteMessageButton.label       "Quote">
-<!ENTITY pbQuoteMessageButton.tooltiptext "Quote the selected message">
-<!ENTITY pbQuoteConversationButton.label  "Summarize">
-<!ENTITY pbQuoteConversationButton.tooltiptext "Summarize the conversation">
+<!ENTITY pbQuoteMessageButton.label       "Cita">
+<!ENTITY pbQuoteMessageButton.tooltiptext "Cita il messaggio selezionato ">
+<!ENTITY pbQuoteConversationButton.label  "Riassumi">
+<!ENTITY pbQuoteConversationButton.tooltiptext "Riassumi la conversazione ">
 <!ENTITY pbToggleReplyQuotingMode.accesskey   "u">
 <!ENTITY pbToggleReplyQuotingMode.key   "O">
 <!ENTITY pbFocusIdentityPicker.key "R">
 
 <!-- Insert Link Dialog -->
 
-<!ENTITY pbInsertLink.label "Enter the Internet address (URL) for this link.">
+<!ENTITY pbInsertLink.label "Immetti l'indirizzo Internet (URL) per questo collegamento.">
 <!ENTITY pbInsertLink.accesskey "E">
 
-<!ENTITY pbInsertImage.label "Enter a Internet address (URL) or local file location:">
+<!ENTITY pbInsertImage.label "Inserisci un indirizzo Internet (URL) o il percorso del file locale:">
 <!ENTITY pbInsertImage.accesskey "E">
 
-<!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">
+<!ENTITY insertListButton.tooltip "Applica o rimuovi l'elenco puntato o numerato">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY sendAndArchive.label "Send and Archive">
-<!ENTITY sendLaterAndArchive.label "Send Later and Archive">
+<!ENTITY sendAndArchive.label "Invia e archivia">
+<!ENTITY sendLaterAndArchive.label "Invia più tardi e archivia">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY newResponse.label "New Response...">
-<!ENTITY editResponses.label "Edit Responses...">
-<!ENTITY responseButton.tooltip "Insert a response">
-<!ENTITY responseButton.label "Responses">
+<!ENTITY newResponse.label "Nuova risposta...">
+<!ENTITY editResponses.label "Modifica risposte...">
+<!ENTITY responseButton.tooltip "Inserisci una risposta">
+<!ENTITY responseButton.label "Risposte">
