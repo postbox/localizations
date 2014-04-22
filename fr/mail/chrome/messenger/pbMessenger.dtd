@@ -3,7 +3,7 @@
 <!ENTITY pbLocalesMenu.accesskey "g">
 <!ENTITY pbLocalesMenu_getMore.label "Obtenir plus...">
 <!ENTITY pbLocalesMenu_getMore.accesskey "O">
-<!ENTITY newAccountGroupCmd.label “Groupe de comptes...">
+<!ENTITY newAccountGroupCmd.label "Groupe de comptes...">
 <!ENTITY newAccountGroupCmd.accesskey "G">
 <!ENTITY closeTab.label "Fermer l'onglet">
 <!ENTITY closeTab.accesskey "C">
