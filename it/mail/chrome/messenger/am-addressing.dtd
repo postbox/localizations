@@ -32,7 +32,7 @@
 <!ENTITY aboveText.label                      "sotto la risposta (sopra il testo a cui si risponde)">
 <!ENTITY includeSigOnReply.label              "Include signature for replies">
 <!ENTITY includeSigOnReply.accesskey          "s">
-<!ENTITY includeSigOnForward.label            "Include signature for forwards">
+<!ENTITY includeSigOnForward.label            "Includi firma per gli inoltri">
 <!ENTITY includeSigOnForward.accesskey        "w">
 
 <!-- Postbox Summary Mode -->
@@ -41,5 +41,5 @@
 <!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
 <!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
 <!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">
-<!ENTITY pbSummarizeOnReply.photos.label       "Include contact photos for each participant when summarizing">
+<!ENTITY pbSummarizeOnReply.photos.label       "Includi la foto del contatto per ciascun partecipante al riepilogo">
 <!ENTITY pbSummarizeOnReply.photos.accesskey   "I">

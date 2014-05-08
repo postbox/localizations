@@ -41,16 +41,16 @@
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">
 
 <!-- conversation preferences -->
-<!ENTITY pb.itemConversation.label        "Conversations">
-<!ENTITY pb.conversations.display.label "Include messages from:">
-<!ENTITY pb.conversations.folderonly.label1 "The current folder">
-<!ENTITY pb.conversations.all.label1 "Every folder">
+<!ENTITY pb.itemConversation.label        "Conversazioni">
+<!ENTITY pb.conversations.display.label "Includi i messaggi da:">
+<!ENTITY pb.conversations.folderonly.label1 "La cartella corrente">
+<!ENTITY pb.conversations.all.label1 "Ogni cartella">
 
-<!ENTITY pb.conversations.sortorder.label "Order conversations by:">
-<!ENTITY pb.conversations.sortoldest.label "Oldest messages first">
-<!ENTITY pb.conversations.sortnewest.label "Newest messages first">
+<!ENTITY pb.conversations.sortorder.label "Ordina le conversazioni per:">
+<!ENTITY pb.conversations.sortoldest.label "Prima i messaggi meno recenti">
+<!ENTITY pb.conversations.sortnewest.label "Prima i messaggi più recenti">
 
-<!ENTITY pb.conversations.read.label "When displaying a converation, mark its messages as read">
+<!ENTITY pb.conversations.read.label "Quando si visualizza una conversazione, contrassegnare i suoi messaggi come già letti">
 <!ENTITY pb.conversations.read.accesskey "c">
-<!ENTITY pb.conversations.photos.label "Include contact photos for each participant in the conversation">
+<!ENTITY pb.conversations.photos.label "Includi le foto dei contatti per ogni partecipante alla conversazione">
 <!ENTITY pb.conversations.photos.accesskey "I">

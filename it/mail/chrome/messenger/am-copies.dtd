@@ -5,7 +5,7 @@
 <!ENTITY fccMailFolder.accesskey "p">
 <!ENTITY fccReplyFollowsParent.label "Salva le risposte nella cartella del messaggio a cui si è risposto">
 <!ENTITY fccReplyFollowsParent.accesskey "u">
-<!ENTITY chooseFolderButton.label "Choose Folder...">
+<!ENTITY chooseFolderButton.label "Seleziona cartella...">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Copia nascosta a questi indirizzi di posta:">
 <!ENTITY bccAddress.accesskey "n">
@@ -15,22 +15,22 @@
 <!ENTITY saveMessageDlg.label "Chiedi conferma quando si salvano i messaggi">
 <!ENTITY saveMessageDlg.accesskey "h">
 <!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY sentFolderOn1.label "Inviati:">
 <!ENTITY sentFolderOn1.accesskey "e">
 <!ENTITY sentInOtherFolder.label "altra:">
 <!ENTITY sentInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn1.label "Drafts:">
+<!ENTITY draftsFolderOn1.label "Bozza:">
 <!ENTITY draftsFolderOn1.accesskey "D">
 <!ENTITY draftInOtherFolder.label "altra:">
 <!ENTITY draftInOtherFolder.accesskey "l">
 <!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn1.label "Archive:">
+<!ENTITY archivesFolderOn1.label "Archivio:">
 <!ENTITY archivesFolderOn1.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "altra:">
 <!ENTITY archiveInOtherFolder.accesskey "a">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY templatesFolderOn1.label "Modelli:">
 <!ENTITY templatesFolderOn1.accesskey "m">
 <!ENTITY templateInOtherFolder.label "altra:">
 <!ENTITY templateInOtherFolder.accesskey "r">
@@ -38,7 +38,7 @@
 <!ENTITY keepArchives.label "Conserva gli archivi dei messaggi in:">
 <!ENTITY keepTempltes.label "Conserva i modelli dei messaggi in:">
 
-<!ENTITY pbSentSettings.label "Sent">
-<!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
+<!ENTITY pbSentSettings.label "Inviati">
+<!ENTITY pbDraftsSettings.label "Bozza">
+<!ENTITY pbArchiveSettings.label "Archivio">
+<!ENTITY pbTemplatesSettings.label "Modelli">

@@ -4,11 +4,11 @@
 
 <!ENTITY accountActionsButton.label "Account Actions">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Add Mail Account…">
+<!ENTITY addMailAccountButton.label "Aggiungi l'account di posta elettronica...">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addRSSAccountButton.label "Add RSS Account…">
+<!ENTITY addRSSAccountButton.label "Aggiungi l'account RSS...">
 <!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.label "Aggiungi l'account newsgroup...">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Imposta come predefinito">
 <!ENTITY setDefaultButton.accesskey "f">
@@ -38,6 +38,6 @@
 <!ENTITY pbAccountTree.width "width: 25ch;">
 
 <!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Add…">
-<!ENTITY pbAccountRemoveActionsButton.label "Remove">
+<!ENTITY pbAccountAddActionsButton.label "Aggiungi...">
+<!ENTITY pbAccountRemoveActionsButton.label "Rimuovi">
 <!ENTITY pbAccountRemoveActionsButton.accesskey "R">

@@ -213,7 +213,7 @@
 <!ENTITY todoPanelCancel.label                  "Abbrechen">
 
 <!-- pbSharePanel.inc -->
-<!ENTITY sharePanelShare.label                   "Führe Update">
+<!ENTITY sharePanelShare.label                   "Aktualisierungen">
 <!ENTITY sharePanelCancel.label                  "Abbrechen">
 
 <!-- content URL context menu -->
