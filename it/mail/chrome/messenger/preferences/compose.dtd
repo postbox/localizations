@@ -2,7 +2,7 @@
 <!ENTITY itemAutoComplete.label              "Indirizzi">
 <!ENTITY itemSpellCheck.label                "Ortografia">
 <!ENTITY itemSendFormat.label                "Send Format">
-<!ENTITY itemSignatures.label                "Signatures">
+<!ENTITY itemSignatures.label                "Firme">
 
 <!ENTITY forwardReply.label                   "Forwarding Messages">
 <!ENTITY forwardMsg.label                     "Inoltra i messaggi:">
@@ -41,47 +41,47 @@
 <!ENTITY addressingEnable.accesskey            "u">
 <!ENTITY directories.label                     "Rubrica remota:">
 <!ENTITY directories.accesskey                 "R">
-<!ENTITY editDirectories.label                 "Modifica cartelle…">
+<!ENTITY editDirectories.label                 "Modifica cartelle...">
 <!ENTITY editDirectories.accesskey             "M">
 <!ENTITY matchText.label                       "If there is a match in your local address books:">
 <!ENTITY skipDirectory.label                   "Do not search in the directory">
 
-<!ENTITY sendOptions.label                     "Opzioni di invio…">
+<!ENTITY sendOptions.label                     "Opzioni di invio...">
 <!ENTITY sendOptions.accesskey                 "d">
 
-<!ENTITY attachmentReminder.label              "Check for missing attachments">
+<!ENTITY attachmentReminder.label              "Verificare gli allegati mancanti">
 <!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Keywords…">
+<!ENTITY attachmentReminderOptions.label       "Parole chiave...">
 <!ENTITY attachmentReminderOptions.accesskey   "K">
 
-<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset2.label     "Utilizzare la codifica dei caratteri predefinita nelle risposte">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+<!ENTITY composeLanguagesTitle.label            "Codifica dei caratteri:">
 
 <!-- signatures -->
-<!ENTITY addSignatureButton.label       "New">
+<!ENTITY addSignatureButton.label       "Nuovo">
 <!ENTITY addSignatureButton.accesskey   "N">
-<!ENTITY editSignatureButton.label      "Edit">
+<!ENTITY editSignatureButton.label      "Modifica">
 <!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY removeSignatureButton.label    "Delete">
+<!ENTITY removeSignatureButton.label    "Cancellare">
 <!ENTITY removeSignatureButton.accesskey "l">
 
-<!ENTITY pbItemAdvanced.label "Advanced">
-<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
-<!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
-<!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
-<!ENTITY pb.QuickReply.label "Default Quick Reply to:">
+<!ENTITY pbItemAdvanced.label "Avanzato">
+<!ENTITY pb.quotingConversationsSortOrder.label "Al momento di riassumere, cita:">
+<!ENTITY pb.quotingConversationsSortOrderOldest.label "Prima i messaggi meno recenti">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Prima i messaggi più recenti">
+<!ENTITY pb.QuickReply.label "Risposta rapida predefinita:">
 <!ENTITY pb.QuickReply.accesskey "Q">
-<!ENTITY pb.quickreply.replyall.label "Reply All">
+<!ENTITY pb.quickreply.replyall.label "Rispondi a tutti">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
-<!ENTITY pb.quickreply.reply.label "Reply">
+<!ENTITY pb.quickreply.reply.label "Rispondi">
 <!ENTITY pb.quickreply.reply.accesskey "y">
-<!ENTITY pbNumConversationsToQuote.label "Include at most">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing on reply">
+<!ENTITY pbNumConversationsToQuote.label "In risposta includere al massimo">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "messaggi al riepilogo">
 
 <!ENTITY pbDefaultFonSize.label                           "default">
 
-<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
+<!ENTITY pbPlaySoundOnSend.label "Riproduci un suono durante l'invio della mail">
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
 
@@ -89,7 +89,7 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbSendAndArchive.label "Enable send and archive">
+<!ENTITY pbSendAndArchive.label "Abilita invia e archivia">
 
 
 <!--
@@ -97,18 +97,18 @@
 -->
 
 <!ENTITY pbQuoteOnQuickReply.accesskey "m">
-<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
+<!ENTITY pbQuoteOnQuickReply.label "Citare il messaggio nella risposta rapida">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbEnableDropbox.label "Send links when attaching files in your Dropbox folder">
+<!ENTITY pbEnableDropbox.label "Invia i link quando si allegano file nella cartella Dropbox">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY itemCannedResponses.label           "Responses">
+<!ENTITY itemCannedResponses.label           "Risposte">

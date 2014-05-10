@@ -25,13 +25,13 @@
 <!ENTITY biffStart.label "Controlla nuovi messaggi ogni ">
 <!ENTITY biffStart.accesskey "i">
 <!ENTITY biffEnd.label "minuti">
-<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.label "Sicurezza della connessione:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "None">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.label "Autenticazione:">
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Lascia i messaggi sul server">
 <!ENTITY leaveOnServer.accesskey "g">
@@ -77,7 +77,7 @@
 <!ENTITY abbreviateOff.label "Nomi abbreviati (Per esempio, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzate…">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset1.label "Encoding:">
+<!ENTITY serverDefaultCharset1.label "Codifica:">
 
-<!ENTITY accountName.label "Account Name:">
+<!ENTITY accountName.label "Nome account:">
 <!ENTITY accountName.accesskey "n">

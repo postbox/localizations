@@ -1,5 +1,5 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Al fine di risparmiare spazio su disco, non scaricare:">
-<!ENTITY offlineNewFolder.label "When I create new folders, select them for offline use">
+<!ENTITY offlineNewFolder.label "Quando creo nuove cartelle, selezionale per l'uso non in linea">
 <!ENTITY offlineNewFolder.accesskey "c">
 <!ENTITY offlineNotDownload.label "Messaggi più grandi di">
 <!ENTITY offlineNotDownload.accesskey "M">
@@ -23,22 +23,22 @@
 <!ENTITY nntpRemoveBody.label "Only message bodies less than">
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Selezionare i gruppi di discussione per uso non in linea…">
-<!ENTITY offlineSelectImap.label "Select folders for offline use...">
+<!ENTITY offlineSelectImap.label "Seleziona le cartelle per l'uso non in linea...">
 <!ENTITY offlineSelect.accesskey "S">
-<!ENTITY makeInboxMsgsAvailable.label "Make the messages in my Inbox available when I am working offline">
+<!ENTITY makeInboxMsgsAvailable.label "Rendi i messaggi della mia casella di posta disponibili quando lavoro non in linea">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
 <!ENTITY offlineGroupTitle.label "Non in linea">
 <!ENTITY diskspaceGroupTitle.label "Spazio su disco">
 <!ENTITY ftiGroupTitle.label "Global Search">
-<!ENTITY fti.indexMsgBodies.label "Index message bodies">
+<!ENTITY fti.indexMsgBodies.label "Indice del corpo dei messaggi">
 <!ENTITY newsrcFilePath.label "newsrc file:">
 <!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Local directory:">
+<!ENTITY localPath.label "Directory locale:">
 <!ENTITY localPath.accesskey "L">
 <!ENTITY localFolderPicker.label "Select Local Directory">
-<!ENTITY browseFolder.label "Browse...">
+<!ENTITY browseFolder.label "Scorri...">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "Select newsrc File">
-<!ENTITY browseNewsrc.label "Browse...">
+<!ENTITY browseNewsrc.label "Scorri...">
 <!ENTITY browseNewsrc.accesskey "e">
 
