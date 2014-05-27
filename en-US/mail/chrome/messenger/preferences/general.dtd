@@ -44,3 +44,5 @@
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 <!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+
+<!ENTITY useRetina.label				  "Retina Display">
