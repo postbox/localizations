@@ -3,6 +3,9 @@
 
 <!ENTITY importFromUnix.label           "Import Preferences, Account Settings, Address Book and other data from:">
 
+<!ENTITY cleanInstall.label             "Clean install (recommended)">
+<!ENTITY cleanInstall.accesskey  	"C">
+
 <!ENTITY importFromThunderbird.label    "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey2.label     "SeaMonkey, Netscape 6, 7, or Mozilla 1.x">
