@@ -49,3 +49,9 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY enableNotificationCenter.label   "Benachrichtigungszentrum verwenden">
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY useRetina.label				  "Retina Display">
