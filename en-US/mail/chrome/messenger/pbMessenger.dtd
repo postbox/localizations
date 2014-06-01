@@ -259,6 +259,8 @@
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
 <!ENTITY pbContentTextContextMenu-evernote.label       "Add to Evernote">
 <!ENTITY pbContentTextContextMenu-evernote.accesskey  "e">
+<!ENTITY pbContentTextContextMenu-postboxSearch.label      "Search in Postbox">
+<!ENTITY pbContentTextContextMenu-postboxSearch.accesskey  "P">
 
 <!-- topic context menu -->
 <!ENTITY pbTopicContextMenu-edit.label         "Rename">

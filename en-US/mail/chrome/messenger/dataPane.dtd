@@ -46,7 +46,6 @@
 <!ENTITY contactPanel-homeAddress.label "home">
 <!ENTITY contactPanel-workAddress.label "work">
 <!ENTITY contactPanel-onlineStatus.label "IM">
-<!ENTITY contactPanel-facebook.label     "Facebook">
 <!ENTITY contactPanel-twitter.label      "twitter">
 
 <!ENTITY contactPanel-favorite.label     "favorite">
