@@ -366,3 +366,11 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY pbToolbarButton-runFiltersButton.label "Exécuter filtres">
 <!ENTITY pbToolbarButton-runFiltersButton.tooltip "Appliquer les filtres sur le répertoire courant">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbContentTextContextMenu-postboxSearch.accesskey  "P">
+<!ENTITY pbContentTextContextMenu-postboxSearch.label      "Search in Postbox">

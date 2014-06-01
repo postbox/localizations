@@ -394,3 +394,11 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY pbToolbarButton-runFiltersButton.label "Attiva filtri">
 <!ENTITY pbToolbarButton-runFiltersButton.tooltip "Eseguire filtri sulla cartella corrente">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbContentTextContextMenu-postboxSearch.accesskey  "P">
+<!ENTITY pbContentTextContextMenu-postboxSearch.label      "Search in Postbox">
