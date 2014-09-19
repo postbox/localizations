@@ -438,7 +438,7 @@
 <!ENTITY hintsAndTips.label "&brandFullName; Help">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "h">
-<!ENTITY helpSafeMode.label     "Trouble Shooting…">
+<!ENTITY helpSafeMode.label     "Troubleshooting…">
 <!ENTITY helpSafeMode.accesskey "S">
 <!ENTITY helpTroubleshootingInfo.label     "Configuration Data">
 <!ENTITY helpTroubleshootingInfo.accesskey "C">

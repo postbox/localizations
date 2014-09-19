@@ -35,14 +35,4 @@
 <!ENTITY browse.label                     "Browse...">
 <!ENTITY browse.accesskey                 "B">
 
-<!-- message list font size -->
-
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
-<!ENTITY pbChromeFontSize.accesskey       "M">
-
 <!ENTITY enableNotificationCenter.label   "Use the Notification Center">
-
-<!ENTITY useRetina.label				  "Retina Display">

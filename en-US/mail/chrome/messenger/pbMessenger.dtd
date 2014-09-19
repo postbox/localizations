@@ -271,16 +271,16 @@
 <!ENTITY pbTopicContextMenu-remove.accesskey   "R">
 <!ENTITY pbTopicContextMenu-editAll.label      "Edit Topics...">
 <!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
+<!ENTITY pbTopicContextMenu-delete.label       "Delete">
+<!ENTITY pbTopicContextMenu-delete.accesskey   "d">
+<!ENTITY pbTopicContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
 
 <!-- account tree context menu -->
 <!ENTITY pbAccountTreeContextMenu-newGroup.label "New Account Group...">
 <!ENTITY pbAccountTreeContextMenu-newGroup.accesskey "G">
 <!ENTITY pbAccountTreeContextMenu-settings.label "Settings...">
 <!ENTITY pbAccountTreeContextMenu-settings.accesskey "i">
-
-<!-- folder pane -->
-<!ENTITY accountTreeMac.label    "ACCOUNTS">
-<!ENTITY folderTreeMac.label     "FOLDERS">
 
 <!-- thread pane -->
 <!ENTITY threadPaneNoMatchesFound.desc "No messages matched your search.">
