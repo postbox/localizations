@@ -45,3 +45,29 @@
 <!ENTITY pbFavoriteContactsContactsMenu-createfilter.accesskey "C">
 
 <!ENTITY pbFavoriteContacts.DragLabel "Drag your favorite contacts here">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY focusPaneSocialAttribute.label            "Social">
+<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.accesskey "N">
+<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.accesskey "N">
+<!ENTITY focusPaneNotToDoAttribute.label           "Not To-Do">
+<!ENTITY focusPaneRepliedAttribute.label           "Replied">
+<!ENTITY pbFavoriteContactsContextMenu-edit.accesskey   "d">
+<!ENTITY focusPaneToDoAttribute.label              "To-Do">
+<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY pbFavoriteContactsContextMenu-createfilter.accesskey "F">
+<!ENTITY pbFavoriteTopicsContextMenu-assignColor.accesskey "S">
+<!ENTITY focusPaneNotRepliedAttribute.label           "Not Replied">
+<!ENTITY focusPaneNotPendingAttribute.label        "Not Pending">
+<!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
+<!ENTITY focusPaneSubscriptionsAttribute.label     "Subscriptions">
+<!ENTITY focusPanePendingAttribute.label           "Pending">
+<!ENTITY focusPaneToMeOnlyAttribute.label          "To Me Only">
+<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY focusPaneReadAttribute.label           "Read">
+<!ENTITY pbFavoriteContactsContextMenu-email.accesskey  "C">
