@@ -37,7 +37,7 @@
 <!-- focus pane favorite contacts context menus -->
 <!ENTITY pbFavoriteContactsContextMenu-delete.label     "Enlever des favoris">
 <!ENTITY pbFavoriteContactsContactsMenu-delete.accesskey "R">
-<!ENTITY pbFavoriteContactsContextMenu-email.label       "Envoyer un courriel à ce contact">
+<!ENTITY pbFavoriteContactsContextMenu-email.label       "Écrire">
 <!ENTITY pbFavoriteContactsContactsMenu-email.accesskey  "e">
 <!ENTITY pbFavoriteContactsContextMenu-edit.label        "Éditer ce contact...">
 <!ENTITY pbFavoriteContactsContactsMenu-edit.accesskey   "d">
