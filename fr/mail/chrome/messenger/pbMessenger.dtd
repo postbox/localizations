@@ -374,3 +374,13 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY pbContentTextContextMenu-postboxSearch.accesskey  "P">
 <!ENTITY pbContentTextContextMenu-postboxSearch.label      "Search in Postbox">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbTopicContextMenu-delete.label       "Delete">
+<!ENTITY pbTopicContextMenu-delete.accesskey   "d">
+<!ENTITY pbTopicContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">

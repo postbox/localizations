@@ -385,3 +385,13 @@
 <!ENTITY editResponses.label "Modifica risposte...">
 <!ENTITY responseButton.tooltip "Inserisci una risposta">
 <!ENTITY responseButton.label "Risposte">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
+<!ENTITY pbTopicContextMenu-delete.label       "Delete">
+<!ENTITY pbTopicContextMenu-delete.accesskey   "d">
+<!ENTITY pbTopicContextMenu-assignColor.label  "Set Topic Color">

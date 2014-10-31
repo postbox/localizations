@@ -54,3 +54,16 @@
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Inclure la photo de chaque participant dans la conversation">
 <!ENTITY pb.conversations.photos.accesskey "I">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
+<!ENTITY useRetina.label             "Retina Display">
+<!ENTITY pbChromeFontSizeMedium.label     "Medium">
+<!ENTITY pbChromeFontSizeSmall.label      "Small">
+<!ENTITY pbChromeFontSizeLarge.label      "Large">
+<!ENTITY pb.itemGeneral.label        "General">
+<!ENTITY pbChromeFontSize.accesskey       "M">
