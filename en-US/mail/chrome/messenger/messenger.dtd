@@ -17,8 +17,8 @@
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY newEmailAccountCmd.label "Mail Account…">
 <!ENTITY newEmailAccountCmd.accesskey "A">
-<!ENTITY newTaskCmd.label "To-Do">
-<!ENTITY newTaskCmd.accesskey "T">
+<!ENTITY newTaskCmd.label "Reminder">
+<!ENTITY newTaskCmd.accesskey "d">
 <!ENTITY newTaskCmd.key "n">
 <!ENTITY openMessageMenu.label "Open">
 <!ENTITY openMessageFileCmd.label "Open Saved Message…">
@@ -63,8 +63,8 @@
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Download Selected Messages">
 <!ENTITY downloadSelectedCmd.accesskey "l">
-<!ENTITY downloadStarredCmd.label "Download To-Dos">
-<!ENTITY downloadStarredCmd.accesskey "t">
+<!ENTITY downloadStarredCmd.label "Download Reminders">
+<!ENTITY downloadStarredCmd.accesskey "d">
 <!ENTITY printCmd.label "Print...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
@@ -137,8 +137,8 @@
 <!ENTITY sortByDateCmd.accesskey "e">
 <!ENTITY sortByReceivedCmd.label "Received">
 <!ENTITY sortByReceivedCmd.accesskey "v">
-<!ENTITY sortByStarCmd.label "To-Do">
-<!ENTITY sortByStarCmd.accesskey "T">
+<!ENTITY sortByStarCmd.label "Reminder">
+<!ENTITY sortByStarCmd.accesskey "d">
 <!ENTITY sortByAttachmentsCmd.label "Attachments">
 <!ENTITY sortByAttachmentsCmd.accesskey "A">
 <!ENTITY sortByPriorityCmd.label "Priority">
@@ -263,8 +263,8 @@
 <!ENTITY nextUnreadMsgCmd.label "Unread Message">
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "To-Do">
-<!ENTITY nextStarredMsgCmd.accesskey "o">
+<!ENTITY nextStarredMsgCmd.label "Reminder">
+<!ENTITY nextStarredMsgCmd.accesskey "d">
 <!ENTITY nextUnreadThread.label "Unread Thread">
 <!ENTITY nextUnreadThreadCmd.accesskey "T">
 <!ENTITY nextUnreadThreadCmd.key "t">
@@ -286,8 +286,8 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goToFolderCmd.label "Quick Switch">
 <!ENTITY goToFolderCmd.accesskey "Q">
-<!ENTITY prevStarredMsgCmd.label "To-Do">
-<!ENTITY prevStarredMsgCmd.accesskey "o">
+<!ENTITY prevStarredMsgCmd.label "Reminder">
+<!ENTITY prevStarredMsgCmd.accesskey "d">
 <!ENTITY startPageCmd1.label "Home">
 <!ENTITY startPageCmd1.accesskey "H">
 <!ENTITY msgMenu.label "Message">
@@ -374,15 +374,12 @@
 <!ENTITY markThreadAsReadCmd.label "Thread As Read">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "As Read by Date...">
-<!ENTITY markReadByDateCmd.accesskey "D">
-<!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "All Read">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "As To-Do">
-<!ENTITY markStarredCmd.accesskey "T">
-<!ENTITY markUnStarredCmd.label "As Not To-Do">
+<!ENTITY markStarredCmd.label "As Reminder">
+<!ENTITY markStarredCmd.accesskey "d">
+<!ENTITY markUnStarredCmd.label "As Not Reminder">
 <!ENTITY markUnStarredCmd.accesskey "N">
 
 <!-- keep as s, because t is taken by topic/tag -->
@@ -575,7 +572,7 @@
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Read">
 <!ENTITY receivedColumn.label "Received">
-<!ENTITY starredColumn.label "To-Do">
+<!ENTITY starredColumn.label "Reminder">
 <!ENTITY locationColumn.label "Location">
 <!ENTITY idColumn.label "Order Received">
 <!ENTITY attachmentColumn.label "Attachments">
@@ -597,7 +594,7 @@
 <!ENTITY totalColumn.tooltip "Total number of messages in thread">
 <!ENTITY readColumn.tooltip "Click to sort by read">
 <!ENTITY receivedColumn.tooltip "Click to sort by date received">
-<!ENTITY starredColumn2.tooltip "Click to toggle pinning To-Dos">
+<!ENTITY starredColumn2.tooltip "Click to toggle pinning Reminders">
 <!ENTITY locationColumn.tooltip "Click to sort by location">
 <!ENTITY idColumn.tooltip "Click to sort by order received">
 <!ENTITY attachmentColumn.tooltip "Click to sort by attachments">

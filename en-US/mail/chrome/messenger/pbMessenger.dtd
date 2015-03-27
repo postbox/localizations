@@ -27,7 +27,7 @@
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
 
 <!-- View Menu -->
-<!ENTITY pinStarredMessages.label "Pin To-Dos">
+<!ENTITY pinStarredMessages.label "Pin Reminders">
 <!ENTITY pinStarredMessages.accesskey "P">
 <!ENTITY showConversations.label "Organize by Thread">
 <!ENTITY showConversations.accesskey "O">
@@ -40,7 +40,7 @@
 <!ENTITY viewMenuShowImages.label        "Images">
 <!ENTITY viewMenuShowImages.accesskey    "m">
 <!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowTodos.label "To-Dos">
+<!ENTITY viewMenuShowTodos.label "Reminders">
 <!ENTITY viewMenuShowTodos.accesskey "d">
 <!ENTITY key_showTodos.key           "o">
 <!ENTITY showFolderPaneCmd.label "Folder Pane">
@@ -76,10 +76,10 @@
 <!ENTITY focusPaneImages.label          "Images">
 <!ENTITY focusPaneMessages.label        "Messages">
 <!ENTITY viewButtons.label              "View">
-<!ENTITY focusPaneTodos.label           "To-Dos">
+<!ENTITY focusPaneTodos.label           "Reminders">
 <!ENTITY tagButton.tooltip "Add topic to messages">
-<!ENTITY newTaskButton.tooltip "Create a new To-Do item">
-<!ENTITY newTaskButton.label "New To-Do">
+<!ENTITY newTaskButton.tooltip "Create a new Reminder">
+<!ENTITY newTaskButton.label "Reminder">
 <!ENTITY inspectorButton.label "Inspector">
 <!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
 <!ENTITY evernoteButton.label "Evernote">
@@ -251,9 +251,9 @@
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Look Up in Dictionary">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "L">
-<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New To-Do with Selection as Note">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New Reminder with Selection as Note">
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
-<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New To-Do with Selection as Title">
+<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New Reminder with Selection as Title">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Send to Inbox">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">

@@ -41,5 +41,3 @@
 <!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
 <!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
 <!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">
-<!ENTITY pbSummarizeOnReply.photos.label       "Include contact pictures for each participant when summarizing">
-<!ENTITY pbSummarizeOnReply.photos.accesskey   "I">

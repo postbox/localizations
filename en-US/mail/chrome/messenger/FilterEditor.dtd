@@ -44,7 +44,7 @@
 <!ENTITY forwardTo.label "Forward Message to">
 <!ENTITY replyWithTemplate.label "Reply with Template">
 <!ENTITY markMessageRead.label "Mark As Read">
-<!ENTITY markMessageStarred.label "Mark as To-Do">
+<!ENTITY markMessageStarred.label "Mark as Reminder">
 <!ENTITY labelMessage.label "Label Message As">
 <!ENTITY setPriority.label "Set Priority to">
 <!ENTITY addTag.label "Add Topic">

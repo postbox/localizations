@@ -58,6 +58,8 @@
 <!-- general -->
 <!ENTITY pb.itemGeneral.label        "General">
 <!ENTITY useRetina.label             "Retina Display">
+<!ENTITY devPixelsPerPx.label        "High DPI scaling:">
+<!ENTITY devPixelsPerPx.accesskey    "D">
 
 <!-- message list font size -->
 
@@ -66,3 +68,11 @@
 <!ENTITY pbChromeFontSizeLarge.label      "Large">
 <!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
 <!ENTITY pbChromeFontSize.accesskey       "M">
+
+<!-- quoted colors -->
+<!ENTITY quotedColors.label "Quoted colors, levels 1 to 5:">
+<!ENTITY quotedColor1.label "Quoted color, level 1">
+<!ENTITY quotedColor2.label "Quoted color, level 2">
+<!ENTITY quotedColor3.label "Quoted color, level 3">
+<!ENTITY quotedColor4.label "Quoted color, level 4">
+<!ENTITY quotedColor5.label "Quoted color, level 5">

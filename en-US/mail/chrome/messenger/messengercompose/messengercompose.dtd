@@ -116,6 +116,12 @@
 <!ENTITY pbShowNewsgroupsField.accesskey "N"> 
 <!ENTITY pbShowFollowupField.label "Followup-To Field">
 <!ENTITY pbShowFollowupField.accesskey "o">
+<!ENTITY pbShowCompositionGoalsToolbarCmd.label "Goal Status Bar">
+<!ENTITY pbShowCompositionGoalsToolbarCmd.accesskey "G">
+<!ENTITY pbSourceView.label "Code View">
+<!ENTITY pbSourceView.accesskey "d">
+<!ENTITY pbSourceViewThemes.label "Theme">
+<!ENTITY pbSourceViewThemes.accesskey "T">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Format">
@@ -209,10 +215,13 @@
 <!ENTITY spellingButton.label "Spelling">
 <!ENTITY saveButton.label "Save">
 <!ENTITY tagButton.label "Assign Topic">
+<!ENTITY tagButton.key "T">
 <!ENTITY throbberItem.title "Activity Indicator">
 <!ENTITY signatureButton.label "Signatures">
 <!ENTITY responseButton.label "Responses">
 <!ENTITY compose.sidebar.label "Sidebar">
+<!ENTITY compositionGoals.label "Goals">
+<!ENTITY formattingToolbar.label "Toolbar">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Send this message now"> 
@@ -228,6 +237,8 @@
 <!ENTITY signatureButton.tooltip "Insert a signature">
 <!ENTITY responseButton.tooltip "Insert a response">
 <!ENTITY compose.sidebar.tooltip "Open the sidebar">
+<!ENTITY compositionGoals.tooltip "Show or hide the Composition Goals status bar">
+<!ENTITY formattingToolbar.tooltip "Show or hide the toolbar">
 
 <!-- Headers -->
 <!ENTITY fromHeader.label "From:">
@@ -348,6 +359,7 @@
 
 <!ENTITY pbInsertHTMLToolbarCmd.label "Insert HTML or edit selected HTML">
 <!ENTITY pbRemoveTextToolbarCmd.label "Remove text styles">
+<!ENTITY switchBetweenNormalAndCode.tooltip "Switch between Normal and Code views">
 
 <!ENTITY pbComposeSidebar.label "Sidebar">
 <!ENTITY pbComposeSidebar.accesskey "S">
@@ -377,3 +389,8 @@
 <!ENTITY pbInsertImage.accesskey "E">
 
 <!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">
+
+<!-- Statistics -->
+<!ENTITY pbStatsWords.label "words:">
+<!ENTITY pbStatsChars.label "characters:">
+<!ENTITY pbStatsTime.label "time:">

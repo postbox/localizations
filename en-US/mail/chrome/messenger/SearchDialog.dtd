@@ -51,7 +51,7 @@
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Read">
 <!ENTITY receivedColumn.label "Received">
-<!ENTITY starredColumn.label "To-Dos">
+<!ENTITY starredColumn.label "Reminders">
 <!ENTITY locationColumn.label "Location">
 <!ENTITY idColumn.label "Order Received">
 
@@ -72,6 +72,6 @@
 <!ENTITY totalColumn.tooltip "Total number of messages in thread">
 <!ENTITY readColumn.tooltip "Click to sort by read">
 <!ENTITY receivedColumn.tooltip "Click to sort by date received">
-<!ENTITY starredColumn.tooltip "Click to sort by To-Do">
+<!ENTITY starredColumn.tooltip "Click to sort by Reminder">
 <!ENTITY locationColumn.tooltip "Click to sort by location">
 <!ENTITY idColumn.tooltip "Click to sort by order received">

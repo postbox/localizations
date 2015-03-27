@@ -66,6 +66,7 @@
 <!ENTITY editSignatureButton.accesskey   "E">
 <!ENTITY removeSignatureButton.label    "Delete">
 <!ENTITY removeSignatureButton.accesskey "l">
+<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
 
 <!ENTITY pbItemAdvanced.label "Advanced">
 <!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
@@ -90,3 +91,15 @@
 
 <!ENTITY pbSendAndArchive.label "Enable send and archive">
 <!ENTITY pbEnableDropbox.label "Send links when attaching files in your Dropbox folder">
+
+<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
+<!ENTITY pbStopwatchGoal.label "Stopwatch">
+<!ENTITY pbWordsGoal.label "Word Count">
+<!ENTITY pbCharactersGoal.label "Character Count">
+<!ENTITY pbAt.label "at">
+<!ENTITY pbMinutes.label "minutes">
+<!ENTITY pbWords.label "words">
+<!ENTITY pbCharacters.label "characters">
+
+<!ENTITY sourceView.label "Code View:">
+<!ENTITY sourceView.accesskey "C">

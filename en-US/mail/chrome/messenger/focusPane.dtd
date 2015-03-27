@@ -14,8 +14,8 @@
 <!ENTITY focusPaneRepliedAttribute.label           "Replied">
 <!ENTITY focusPanePendingAttribute.label           "Pending">
 <!ENTITY focusPaneNotPendingAttribute.label        "Not Pending">
-<!ENTITY focusPaneToDoAttribute.label              "To-Do">
-<!ENTITY focusPaneNotToDoAttribute.label           "Not To-Do">
+<!ENTITY focusPaneToDoAttribute.label              "Reminders">
+<!ENTITY focusPaneNotToDoAttribute.label           "Not Reminders">
 <!ENTITY focusPaneSubscriptionsAttribute.label     "Subscriptions">
 <!ENTITY focusPaneSocialAttribute.label            "Social">
 <!ENTITY focusPaneToMeOnlyAttribute.label          "To Me Only">
