@@ -90,3 +90,20 @@
 
 <!ENTITY pbSendAndArchive.label "Activer Envoyer et archiver">
 <!ENTITY pbEnableDropbox.label "Envoyer en liens quand vous joignez des fichiers de votre repertoire Dropbox">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pbCharactersGoal.label "Character Count">
+<!ENTITY pbStopwatchGoal.label "Stopwatch">
+<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
+<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
+<!ENTITY pbWordsGoal.label "Word Count">
+<!ENTITY pbMinutes.label "minutes">
+<!ENTITY pbAt.label "at">
+<!ENTITY sourceView.label "Code View:">
+<!ENTITY pbWords.label "words">
+<!ENTITY sourceView.accesskey "C">
+<!ENTITY pbCharacters.label "characters">

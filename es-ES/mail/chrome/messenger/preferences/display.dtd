@@ -85,3 +85,17 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbChromeFontSizeLarge.label      "Large">
 <!ENTITY pb.itemGeneral.label        "General">
 <!ENTITY pbChromeFontSize.accesskey       "M">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY quotedColor2.label "Quoted color, level 2">
+<!ENTITY devPixelsPerPx.label        "High DPI scaling:">
+<!ENTITY devPixelsPerPx.accesskey    "D">
+<!ENTITY quotedColor5.label "Quoted color, level 5">
+<!ENTITY quotedColors.label "Quoted colors, levels 1 to 5:">
+<!ENTITY quotedColor1.label "Quoted color, level 1">
+<!ENTITY quotedColor3.label "Quoted color, level 3">
+<!ENTITY quotedColor4.label "Quoted color, level 4">
