@@ -116,3 +116,11 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY pbProfileInformation.label "Profile Information">
 <!ENTITY pbManualSetup.label "Manual Setup">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY important.label "IMPORTANT:">
+<!ENTITY learnMore.label "Learn more...">

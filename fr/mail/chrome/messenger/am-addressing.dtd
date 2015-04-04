@@ -43,3 +43,12 @@
 <!ENTITY pbSummarizeOnReply.lastused.label    "Utiliser la dernière configuration">
 <!ENTITY pbSummarizeOnReply.photos.label       "Include contact photos for each participant when summarizing">
 <!ENTITY pbSummarizeOnReply.photos.accesskey   "I">
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY markNotInWhitelist.label             "Mark addresses not ending with:">
+<!ENTITY markInTrustedList.accesskey          "d">
+<!ENTITY markNotInWhitelist.accesskey         "m">
+<!ENTITY markInTrustedList.label              "Mark addresses when sending to:">

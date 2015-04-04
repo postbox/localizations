@@ -102,3 +102,11 @@
 
 <!ENTITY pbProfileInformation.label "Profiel Informatie">
 <!ENTITY pbManualSetup.label "Handmatig Instellen">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY important.label "IMPORTANT:">
+<!ENTITY learnMore.label "Learn more...">

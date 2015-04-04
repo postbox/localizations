@@ -34,6 +34,10 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Include signature for forwards">
 <!ENTITY includeSigOnForward.accesskey        "w">
+<!ENTITY markNotInWhitelist.label             "Mark addresses not ending with:">
+<!ENTITY markNotInWhitelist.accesskey         "m">
+<!ENTITY markInTrustedList.label              "Mark addresses when sending to:">
+<!ENTITY markInTrustedList.accesskey          "d">
 
 <!-- Postbox Summary Mode -->
 <!ENTITY pbSummarizeOnReply.label             "By">

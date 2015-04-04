@@ -102,3 +102,7 @@
 
 <!ENTITY pbProfileInformation.label "Profile Information">
 <!ENTITY pbManualSetup.label "Manual Setup">
+
+<!-- warnings on email address -->
+<!ENTITY important.label "IMPORTANT:">
+<!ENTITY learnMore.label "Learn more...">
