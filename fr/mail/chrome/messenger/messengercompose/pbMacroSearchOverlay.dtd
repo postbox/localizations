@@ -1,0 +1,10 @@
+<!ENTITY pbMacroSearchTitle.label "Quick insertion of a Signature, Response or Topic">
+
+<!ENTITY pbMacroSearchPanelCancel.label "Cancel">
+<!ENTITY pbMacroSearchPanelOK.label "OK">
+<!ENTITY pbMacroSearchPanel.width "400">
+
+<!ENTITY insertMacro.key "t">
+<!ENTITY insertMacro.modifiers "control">
+
+<!ENTITY insertMacro.label "Signature, Response or Topic">
