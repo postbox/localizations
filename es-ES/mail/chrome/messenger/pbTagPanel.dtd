@@ -3,7 +3,7 @@
 <!ENTITY editTagPanelMakeFavorite.label "Marcar esta etiqueta como favorita">
 <!ENTITY editTagPanelAddTopic.label     "Aceptar">
 <!ENTITY showTopicsCmd.key              "t">
-<!ENTITY tagPanel.width                 "300">
+<!ENTITY tagPanel.width                 "600">
 <!ENTITY tagpanel.expanderDown.tooltip  "Mostrar etiquetas favoritas">
 <!ENTITY tagpanel.expanderUp.tooltip    "Esconder etiquetas favoritas">
 

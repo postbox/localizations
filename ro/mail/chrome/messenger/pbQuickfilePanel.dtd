@@ -2,7 +2,7 @@
 <!ENTITY quickfilePaneFile.label          "OK">
 <!ENTITY quickfilePaneCancel.label        "Cancel">
 <!ENTITY showQuickfileCmd.key             "v">
-<!ENTITY quickfilePanel.width             "300">
+<!ENTITY quickfilePanel.width             "600">
 
 
 <!--
