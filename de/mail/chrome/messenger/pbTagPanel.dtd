@@ -3,7 +3,7 @@
 <!ENTITY editTagPanelMakeFavorite.label "Dieses Thema zu einem Favoriten machen">
 <!ENTITY editTagPanelAddTopic.label     "OK">
 <!ENTITY showTopicsCmd.key              "t">
-<!ENTITY tagPanel.width                 "300">
+<!ENTITY tagPanel.width                 "600">
 <!ENTITY tagpanel.expanderDown.tooltip  "Lieblingsthemen anzeigen">
 <!ENTITY tagpanel.expanderUp.tooltip    "Lieblingsthemen ausblenden">
 

@@ -4,7 +4,7 @@
 <!ENTITY editTagPanelAddTopic.label     "OK">
 <!ENTITY editTagPanelCancel.label       "Cancel">
 <!ENTITY showTopicsCmd.key              "t">
-<!ENTITY tagPanel.width                 "300">
+<!ENTITY tagPanel.width                 "600">
 <!ENTITY tagpanel.expanderDown.tooltip  "Show favorite topics">
 <!ENTITY tagpanel.expanderUp.tooltip    "Hide favorite topics">
 

@@ -4,4 +4,4 @@
 <!ENTITY quickfilePanelCancel.label       "Annuleren">
 <!ENTITY showQuickfileCmd.key             "v">
 <!ENTITY showQuickswitchCmd.key           "g">
-<!ENTITY quickfilePanel.width             "300">
+<!ENTITY quickfilePanel.width             "600">

@@ -2,9 +2,9 @@
 
 <!ENTITY pbMacroSearchPanelCancel.label "Cancel">
 <!ENTITY pbMacroSearchPanelOK.label "OK">
-<!ENTITY pbMacroSearchPanel.width "400">
+<!ENTITY pbMacroSearchPanel.width "600">
 
-<!ENTITY insertMacro.key "t">
-<!ENTITY insertMacro.modifiers "control">
+<!ENTITY insertMacro.key " ">
+<!ENTITY insertMacro.modifiers "accel shift">
 
 <!ENTITY insertMacro.label "Signature, Response or Topic">

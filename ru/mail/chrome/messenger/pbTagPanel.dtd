@@ -3,7 +3,7 @@
 <!ENTITY editTagPanelMakeFavorite.label "Сделать эту метку любимой">
 <!ENTITY editTagPanelAddTopic.label     "ОК">
 <!ENTITY showTopicsCmd.key              "t">
-<!ENTITY tagPanel.width                 "300">
+<!ENTITY tagPanel.width                 "600">
 <!ENTITY tagpanel.expanderDown.tooltip  "Показать любимые метки">
 <!ENTITY tagpanel.expanderUp.tooltip    "Скрыть любимые метки">
 
