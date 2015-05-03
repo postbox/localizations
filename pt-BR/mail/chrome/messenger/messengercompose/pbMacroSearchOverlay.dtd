@@ -4,7 +4,7 @@
 <!ENTITY pbMacroSearchPanelOK.label "OK">
 <!ENTITY pbMacroSearchPanel.width "600">
 
-<!ENTITY insertMacro.key " ">
-<!ENTITY insertMacro.modifiers "accel shift">
+<!ENTITY insertMacro.key "l">
+<!ENTITY insertMacro.modifiers "accel">
 
 <!ENTITY insertMacro.label "Signature, Response or Topic">
