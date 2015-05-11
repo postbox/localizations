@@ -10,5 +10,5 @@
   <Param name="oe" value="utf-8"/>
   <Param name="aq" value="t"/>
 </Url>
-<SearchForm>http://www.postbox-inc.com/search/index.html</SearchForm>
+<SearchForm>https://www.postbox-inc.com/search/index.html</SearchForm>
 </SearchPlugin>
