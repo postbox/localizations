@@ -140,7 +140,7 @@
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.accesskey     "T">
 <!ENTITY pbSearchResultPopup-addUrlToLinkedIn.label        "LinkedIn">
 <!ENTITY pbSearchResultPopup-addUrlToLinkedIn.accesskey    "L">
-<!ENTITY searchResultPopup-systemPhotoImportMac.label      "Add to iPhoto">
+<!ENTITY searchResultPopup-systemPhotoImportMac.label      "Add to Photos">
 <!ENTITY searchResultPopup-systemPhotoImportMac.accesskey  "h">
 
 <!-- inline edit subject bar -->
