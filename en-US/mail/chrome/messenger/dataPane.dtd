@@ -29,7 +29,7 @@
 <!ENTITY dataPaneContext.deleteAttachment.label       "Delete">
 <!ENTITY dataPaneContext.saveAll.label                "Save All...">
 <!ENTITY dataPaneContext.saveAll.accesskey           "v">
-<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Add to iPhoto">
+<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Add to Photos">
 <!ENTITY dataPaneContext.systemPhotoImportMac.accesskey  "i">
 
 <!-- contact panel -->
