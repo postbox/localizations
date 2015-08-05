@@ -103,3 +103,5 @@
 
 <!ENTITY sourceView.label "Code View:">
 <!ENTITY sourceView.accesskey "C">
+
+<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">

@@ -10,6 +10,7 @@
 <!ENTITY aboutSupport.accountsServerName "Name">
 <!ENTITY aboutSupport.accountsConnSecurity "Connection security">
 <!ENTITY aboutSupport.accountsAuthMethod "Authentication method">
+<!ENTITY aboutSupport.filterCount "Filter Count">
 <!ENTITY aboutSupport.accountsDefault "Default?">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Send via email">
@@ -17,6 +18,8 @@
 <!ENTITY aboutSupport.pageTitle2 "Configuration Data">
 
 <!ENTITY aboutSupport.indexerTitle "Indexer">
+
+<!ENTITY aboutSupport.miscTitle "Miscellaneous">
 
 <!ENTITY aboutSupport.appBasicsLicenseName "License Name">
 <!ENTITY aboutSupport.ageInDays "Days In Use">

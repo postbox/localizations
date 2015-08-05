@@ -129,3 +129,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbWords.label "words">
 <!ENTITY sourceView.accesskey "C">
 <!ENTITY pbCharacters.label "characters">
+
+<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">

@@ -1,10 +1,9 @@
-<!ENTITY pbMacroSearchTitle.label "Quick insertion of a Signature, Response or Topic">
-
-<!ENTITY pbMacroSearchPanelCancel.label "Cancel">
-<!ENTITY pbMacroSearchPanelOK.label "OK">
 <!ENTITY pbMacroSearchPanel.width "600">
 
 <!ENTITY insertMacro.key "l">
 <!ENTITY insertMacro.modifiers "accel">
 
-<!ENTITY insertMacro.label "Signature, Response or Topic">
+<!ENTITY insertMacro.label "Quick Bar">
+
+<!ENTITY pbMacroSearchPanel.firstrunWin "When typing a URL, Postbox will autocomplete against the URLs from your emails. To disable URL autocompletion, go to Options > Composition > Advanced">
+<!ENTITY pbMacroSearchPanel.firstrunMac "When typing a URL, Postbox will autocomplete against the URLs from your emails. To disable URL autocompletion, go to Preferences > Composition > Advanced">
