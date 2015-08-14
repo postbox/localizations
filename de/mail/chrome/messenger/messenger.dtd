@@ -29,6 +29,7 @@
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Datei…">
 <!ENTITY saveAsFileCmd.accesskey "D">
+<!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Vorlage">
 <!ENTITY saveAsTemplateCmd.accesskey "V">
 <!ENTITY getNewMsgCmd.label "Neue Emails empfangen">

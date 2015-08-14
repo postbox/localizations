@@ -29,6 +29,7 @@
 <!ENTITY saveAsMenu.accesskey "l">
 <!ENTITY saveAsFileCmd.label "Arquivo…">
 <!ENTITY saveAsFileCmd.accesskey "A">
+<!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Modelo">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
 <!ENTITY getNewMsgCmd.label "Get New Messages">

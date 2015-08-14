@@ -27,6 +27,7 @@
 <!ENTITY saveAsMenu.accesskey "G">
 <!ENTITY saveAsFileCmd.label "Archivo">
 <!ENTITY saveAsFileCmd.accesskey "r">
+<!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Plantilla">
 <!ENTITY saveAsTemplateCmd.accesskey "P">
 <!ENTITY getNewMsgCmd.label "Obtener nuevos mensajes">

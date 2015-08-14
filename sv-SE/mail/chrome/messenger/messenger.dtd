@@ -29,6 +29,7 @@
 <!ENTITY saveAsMenu.accesskey "m">
 <!ENTITY saveAsFileCmd.label "Fil">
 <!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Mall">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
 <!ENTITY getNewMsgCmd.label "Get New Messages">
