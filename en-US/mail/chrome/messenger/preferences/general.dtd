@@ -36,3 +36,5 @@
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+
+<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
