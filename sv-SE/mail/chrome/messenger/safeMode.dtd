@@ -59,3 +59,5 @@ with one or more of these trouble shooting options selected:">
 <!ENTITY safeMode.label                   "Safe Mode (temporarily disables all Add-ons and custom settings)">
 <!ENTITY safeMode.accesskey               "M">
 
+<!ENTITY profileManager.label                   "Open Profile Manager on Restart">
+<!ENTITY profileManager.accesskey               "P">
