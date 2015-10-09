@@ -25,6 +25,8 @@
 <!ENTITY resetIndexAllMessages.accesskey "R">
 <!ENTITY resetIndexMessagesInFolder.label "Réinitialiser ce dossier...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
+<!ENTITY updateCmd.label "Check for Updates…">
+<!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
 <!ENTITY pinStarredMessages.label "Épingler les tâches">
@@ -33,7 +35,7 @@
 <!ENTITY showConversations.accesskey "h">
 <!ENTITY viewMenuShowMessages.label        "Les messages">
 <!ENTITY viewMenuShowMessages.accesskey    "M">
-<!ENTITY key_showMessages.key              "m">
+<!ENTITY key_showMessages.key              "t">
 <!ENTITY viewMenuShowAttachments.label "Pièces jointes">
 <!ENTITY viewMenuShowAttachments.accesskey "t">
 <!ENTITY key_showAttachments.key         "a">
@@ -165,6 +167,7 @@
 <!ENTITY listNumberedMsgToolbarCmd.label             "Numérotée">
 <!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
 <!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insérer du HTML ou éditer du HTML sélectionné">
+<!ENTITY switchBetweenNormalAndCode.tooltip          "Switch between Normal and Code views">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Diminuer le retrait (vers la gauche)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Augmenter le retrait (vers la droite)">
 

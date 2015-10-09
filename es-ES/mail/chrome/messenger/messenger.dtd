@@ -5,6 +5,8 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Carpeta…">
 <!ENTITY newFolderCmd.accesskey "C">
+<!ENTITY newSubfolderCmd.label "Subfolder…">
+<!ENTITY newSubfolderCmd.accesskey "U">
 <!ENTITY newTabCmd.label "Nueva pestaña">
 <!ENTITY newTabCmd.accesskey "t">
 <!ENTITY closeTabCmd.label "Cerrar pestaña">
@@ -498,8 +500,10 @@
 <!ENTITY folderContextOpenNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Abrir en pestaña nueva">
 <!ENTITY folderContextOpenNewTab.accesskey "b">
-<!ENTITY folderContextNew.label "Nueva subcarpeta…">
-<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextNewSubfolder.label "Nueva subcarpeta…">
+<!ENTITY folderContextNewSubfolder.accesskey "N">
+<!ENTITY folderContextNewFolder.label "New Folder...">
+<!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Renombrar">
 <!ENTITY folderContextRename.accesskey "R">
 <!ENTITY folderContextRemove.label "Eliminar">

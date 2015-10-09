@@ -5,6 +5,8 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Ny mapp…">
 <!ENTITY newFolderCmd.accesskey "p">
+<!ENTITY newSubfolderCmd.label "Subfolder…">
+<!ENTITY newSubfolderCmd.accesskey "U">
 <!ENTITY newTabCmd.label "New Tab">
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Stäng flik">
@@ -507,8 +509,10 @@
 <!ENTITY folderContextOpenNewWindow.accesskey "p">
 <!ENTITY folderContextOpenNewTab.label "Öppna i ny flik">
 <!ENTITY folderContextOpenNewTab.accesskey "n">
-<!ENTITY folderContextNew.label "Ny undermapp…">
-<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextNewSubfolder.label "Ny undermapp…">
+<!ENTITY folderContextNewSubfolder.accesskey "N">
+<!ENTITY folderContextNewFolder.label "New Folder...">
+<!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Byt namn">
 <!ENTITY folderContextRename.accesskey "B">
 <!ENTITY folderContextRemove.label "Ta bort">

@@ -19,6 +19,8 @@
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
 <!ENTITY webServices.label "Servicios web...">
 <!ENTITY webServices.accesskey "w">
+<!ENTITY updateCmd.label "Check for Updates…">
+<!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
 <!ENTITY pinStarredMessages.label "Pin To-Dos">
@@ -27,7 +29,7 @@
 <!ENTITY showConversations.accesskey "h">
 <!ENTITY viewMenuShowMessages.label        "Messages">
 <!ENTITY viewMenuShowMessages.accesskey    "M">
-<!ENTITY key_showMessages.key              "m">
+<!ENTITY key_showMessages.key              "t">
 <!ENTITY viewMenuShowAttachments.label "Attachments">
 <!ENTITY viewMenuShowAttachments.accesskey "t">
 <!ENTITY key_showAttachments.key         "a">
@@ -398,6 +400,7 @@
 <!ENTITY noneMsgToolbarCmd.label                     "None">
 <!ENTITY listbulletMsgToolbarCmd.accesskey           "b">
 <!ENTITY noneMsgToolbarCmd.accesskey                 "N">
+<!ENTITY switchBetweenNormalAndCode.tooltip          "Switch between Normal and Code views">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Outdent text (move left)">
 
 

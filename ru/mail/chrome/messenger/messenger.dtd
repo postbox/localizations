@@ -5,6 +5,8 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Папку…">
 <!ENTITY newFolderCmd.accesskey "F">
+<!ENTITY newSubfolderCmd.label "Subfolder…">
+<!ENTITY newSubfolderCmd.accesskey "U">
 <!ENTITY newTabCmd.label "Новая вкладка">
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Закрыть вкладку">
@@ -507,8 +509,10 @@
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Открыть в новой вкладке">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
-<!ENTITY folderContextNew.label "Новая папка…">
-<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextNewSubfolder.label "Новая папка…">
+<!ENTITY folderContextNewSubfolder.accesskey "N">
+<!ENTITY folderContextNewFolder.label "New Folder...">
+<!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Переименовать">
 <!ENTITY folderContextRename.accesskey "R">
 <!ENTITY folderContextRemove.label "Удалить">

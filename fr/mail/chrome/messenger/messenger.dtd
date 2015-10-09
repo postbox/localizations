@@ -5,6 +5,8 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Dossier...">
 <!ENTITY newFolderCmd.accesskey "D">
+<!ENTITY newSubfolderCmd.label "Subfolder…">
+<!ENTITY newSubfolderCmd.accesskey "U">
 <!ENTITY newTabCmd.label "Nouvel onglet">
 <!ENTITY newTabCmd.accesskey "t">
 <!ENTITY closeTabCmd.label "Fermer l'onglet">
@@ -511,8 +513,10 @@
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Ouvrir dans un nouvel onglet">
 <!ENTITY folderContextOpenNewTab.accesskey "u">
-<!ENTITY folderContextNew.label "Nouveau sous-dossier...">
-<!ENTITY folderContextNew.accesskey "v">
+<!ENTITY folderContextNewSubfolder.label "Nouveau sous-dossier...">
+<!ENTITY folderContextNewSubfolder.accesskey "v">
+<!ENTITY folderContextNewFolder.label "New Folder...">
+<!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Renommer">
 <!ENTITY folderContextRename.accesskey "R">
 <!ENTITY folderContextRemove.label "Supprimer">

@@ -5,6 +5,8 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Ordner…">
 <!ENTITY newFolderCmd.accesskey "d">
+<!ENTITY newSubfolderCmd.label "Subfolder…">
+<!ENTITY newSubfolderCmd.accesskey "U">
 <!ENTITY newTabCmd.label "Neues Tab">
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Tab schließen">
@@ -511,8 +513,10 @@
 <!ENTITY folderContextOpenNewWindow.accesskey "I">
 <!ENTITY folderContextOpenNewTab.label "In neuem Tab öffnen">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
-<!ENTITY folderContextNew.label "Neuer Unterordner…">
-<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextNewSubfolder.label "Neuer Unterordner…">
+<!ENTITY folderContextNewSubfolder.accesskey "N">
+<!ENTITY folderContextNewFolder.label "New Folder...">
+<!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Umbenennen">
 <!ENTITY folderContextRename.accesskey "U">
 <!ENTITY folderContextRemove.label "Löschen">

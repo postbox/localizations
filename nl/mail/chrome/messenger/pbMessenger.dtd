@@ -25,6 +25,8 @@
 <!ENTITY resetIndexAllMessages.accesskey "R">
 <!ENTITY resetIndexMessagesInFolder.label "Reset deze map...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
+<!ENTITY updateCmd.label "Check for Updates…">
+<!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
 <!ENTITY pinStarredMessages.label "To-Do's vastzetten">
@@ -33,7 +35,7 @@
 <!ENTITY showConversations.accesskey "C">
 <!ENTITY viewMenuShowMessages.label        "Berichten">
 <!ENTITY viewMenuShowMessages.accesskey    "B">
-<!ENTITY key_showMessages.key              "m">
+<!ENTITY key_showMessages.key              "t">
 <!ENTITY viewMenuShowAttachments.label "Bijlagen">
 <!ENTITY viewMenuShowAttachments.accesskey "B">
 <!ENTITY key_showAttachments.key         "a">
@@ -165,6 +167,7 @@
 <!ENTITY listNumberedMsgToolbarCmd.label             "Genummerd">
 <!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
 <!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insert HTML or edit selected HTML">
+<!ENTITY switchBetweenNormalAndCode.tooltip          "Switch between Normal and Code views">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Tekst laten terugspringen (verplaatsen naar links)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Tekst laten inspringen (verplaatsen naar rechts)">
 

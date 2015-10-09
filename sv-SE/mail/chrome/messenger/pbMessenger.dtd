@@ -25,6 +25,8 @@
 <!ENTITY resetIndexAllMessages.accesskey "R">
 <!ENTITY resetIndexMessagesInFolder.label "Reset This Folder...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
+<!ENTITY updateCmd.label "Check for Updates…">
+<!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
 <!ENTITY pinStarredMessages.label "Pin To-Dos">
@@ -33,7 +35,7 @@
 <!ENTITY showConversations.accesskey "h">
 <!ENTITY viewMenuShowMessages.label        "Messages">
 <!ENTITY viewMenuShowMessages.accesskey    "M">
-<!ENTITY key_showMessages.key              "m">
+<!ENTITY key_showMessages.key              "t">
 <!ENTITY viewMenuShowAttachments.label "Attachments">
 <!ENTITY viewMenuShowAttachments.accesskey "t">
 <!ENTITY key_showAttachments.key         "a">
@@ -163,6 +165,7 @@
 <!ENTITY listNumberedMsgToolbarCmd.label             "Numbered">
 <!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
 <!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insert HTML or edit selected HTML">
+<!ENTITY switchBetweenNormalAndCode.tooltip          "Switch between Normal and Code views">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Outdent text (move left)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Indent text (move right)">
 

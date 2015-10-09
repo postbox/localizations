@@ -25,6 +25,8 @@
 <!ENTITY resetIndexAllMessages.accesskey "r">
 <!ENTITY resetIndexMessagesInFolder.label "Diesen Ordner zurücksetzen...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
+<!ENTITY updateCmd.label "Check for Updates…">
+<!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
 <!ENTITY pinStarredMessages.label "Aufgaben oben anheften">
@@ -33,7 +35,7 @@
 <!ENTITY showConversations.accesskey "h">
 <!ENTITY viewMenuShowMessages.label        "Nachrichten">
 <!ENTITY viewMenuShowMessages.accesskey    "N">
-<!ENTITY key_showMessages.key              "m">
+<!ENTITY key_showMessages.key              "t">
 <!ENTITY viewMenuShowAttachments.label "Anhänge">
 <!ENTITY viewMenuShowAttachments.accesskey "A">
 <!ENTITY key_showAttachments.key         "a">
@@ -165,6 +167,7 @@
 <!ENTITY listNumberedMsgToolbarCmd.label             "Nummeriert">
 <!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
 <!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insert HTML or edit selected HTML">
+<!ENTITY switchBetweenNormalAndCode.tooltip          "Switch between Normal and Code views">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Texteinzug verkleinern (nach links schieben)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Texteinzug vergrößern (nach rechts schieben)">
 

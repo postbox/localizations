@@ -5,6 +5,8 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Pasta…">
 <!ENTITY newFolderCmd.accesskey "P">
+<!ENTITY newSubfolderCmd.label "Subfolder…">
+<!ENTITY newSubfolderCmd.accesskey "U">
 <!ENTITY newTabCmd.label "New Tab">
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Fechar aba">
@@ -507,8 +509,10 @@
 <!ENTITY folderContextOpenNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Abrir em nova aba">
 <!ENTITY folderContextOpenNewTab.accesskey "b">
-<!ENTITY folderContextNew.label "Nova pasta…">
-<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextNewSubfolder.label "Nova pasta…">
+<!ENTITY folderContextNewSubfolder.accesskey "N">
+<!ENTITY folderContextNewFolder.label "New Folder...">
+<!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Renomear">
 <!ENTITY folderContextRename.accesskey "m">
 <!ENTITY folderContextRemove.label "Excluir">

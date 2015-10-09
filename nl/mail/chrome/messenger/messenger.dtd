@@ -5,6 +5,8 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Map…">
 <!ENTITY newFolderCmd.accesskey "M">
+<!ENTITY newSubfolderCmd.label "Subfolder…">
+<!ENTITY newSubfolderCmd.accesskey "U">
 <!ENTITY newTabCmd.label "Nieuwe Tab">
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Tabblad sluiten">
@@ -511,8 +513,10 @@
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Openen in nieuw tabblad">
 <!ENTITY folderContextOpenNewTab.accesskey "t">
-<!ENTITY folderContextNew.label "Nieuwe submap…">
-<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextNewSubfolder.label "Nieuwe submap…">
+<!ENTITY folderContextNewSubfolder.accesskey "N">
+<!ENTITY folderContextNewFolder.label "New Folder...">
+<!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Naam wijzigen">
 <!ENTITY folderContextRename.accesskey "w">
 <!ENTITY folderContextRemove.label "Verwijderen">

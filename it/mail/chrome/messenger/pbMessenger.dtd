@@ -25,6 +25,8 @@
 <!ENTITY resetIndexAllMessages.accesskey "r">
 <!ENTITY resetIndexMessagesInFolder.label "Azzera questa cartella...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
+<!ENTITY updateCmd.label "Check for Updates…">
+<!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
 <!ENTITY pinStarredMessages.label "Appunta cose da fare">
@@ -33,7 +35,7 @@
 <!ENTITY showConversations.accesskey "h">
 <!ENTITY viewMenuShowMessages.label        "Messages">
 <!ENTITY viewMenuShowMessages.accesskey    "M">
-<!ENTITY key_showMessages.key              "m">
+<!ENTITY key_showMessages.key              "t">
 <!ENTITY viewMenuShowAttachments.label "Attachments">
 <!ENTITY viewMenuShowAttachments.accesskey "t">
 <!ENTITY key_showAttachments.key         "a">
@@ -163,6 +165,7 @@
 <!ENTITY listNumberedMsgToolbarCmd.label             "Numerato">
 <!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
 <!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Inserisci HTML o modifica HTML selezionato ">
+<!ENTITY switchBetweenNormalAndCode.tooltip          "Switch between Normal and Code views">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Fai rientrare il testo a sinistra (sposta a sinistra)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Fai rientrare testo a destra (spostar a destra)">
 

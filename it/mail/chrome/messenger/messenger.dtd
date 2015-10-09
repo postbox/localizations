@@ -5,6 +5,8 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Cartella…">
 <!ENTITY newFolderCmd.accesskey "C">
+<!ENTITY newSubfolderCmd.label "Subfolder…">
+<!ENTITY newSubfolderCmd.accesskey "U">
 <!ENTITY newTabCmd.label "Nuova Scheda">
 <!ENTITY newTabCmd.accesskey "N">
 <!ENTITY closeTabCmd.label "Chiudi scheda">
@@ -507,8 +509,10 @@
 <!ENTITY folderContextOpenNewWindow.accesskey "r">
 <!ENTITY folderContextOpenNewTab.label "Apri in una nuova scheda">
 <!ENTITY folderContextOpenNewTab.accesskey "A">
-<!ENTITY folderContextNew.label "Nuova sottocartella…">
-<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextNewSubfolder.label "Nuova sottocartella…">
+<!ENTITY folderContextNewSubfolder.accesskey "N">
+<!ENTITY folderContextNewFolder.label "New Folder...">
+<!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Rinomina">
 <!ENTITY folderContextRename.accesskey "R">
 <!ENTITY folderContextRemove.label "Elimina">
