@@ -394,3 +394,6 @@
 <!ENTITY pbStatsWords.label "words:">
 <!ENTITY pbStatsChars.label "characters:">
 <!ENTITY pbStatsTime.label "time:">
+
+<!ENTITY pbCreateResponse.label "Create Response...">
+<!ENTITY pbSearchGoogle.label "Search in Google">

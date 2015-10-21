@@ -478,3 +478,6 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbSourceView.label "Code View">
 <!ENTITY pbShowCompositionGoalsToolbarCmd.accesskey "G">
 <!ENTITY formattingToolbar.tooltip "Show or hide the toolbar">
+
+<!ENTITY pbCreateResponse.label "Create Response...">
+<!ENTITY pbSearchGoogle.label "Search in Google">
