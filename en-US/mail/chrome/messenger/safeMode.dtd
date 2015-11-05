@@ -61,3 +61,6 @@ with one or more of these troubleshooting options selected:">
 
 <!ENTITY profileManager.label                   "Open Profile Manager on Restart">
 <!ENTITY profileManager.accesskey               "P">
+
+<!ENTITY protocolLogging.label                   "Create Protocol Log File">
+<!ENTITY protocolLogging.accesskey               "L">
