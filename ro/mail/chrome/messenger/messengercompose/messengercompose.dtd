@@ -226,8 +226,8 @@
 <!ENTITY tagHeader.label "Topics">
 <!ENTITY tagHeader.accesskey "o">
 <!ENTITY tagMessageButton.tooltip     "Assign topic(s) to the message.">
-<!ENTITY compose.todo.label "To-Do">
-<!ENTITY compose.todo.tooltip "Make this message a To-Do">
+<!ENTITY compose.todo.label "Reminder">
+<!ENTITY compose.todo.tooltip "Make this message a Reminder">
 <!ENTITY compose.addresses.label "Addresses">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->

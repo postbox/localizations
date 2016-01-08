@@ -384,7 +384,7 @@
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Ajouter un suivi">
 <!ENTITY markStarredCmd.accesskey "v">
-<!ENTITY markUnStarredCmd.label "As Not To-Do">
+<!ENTITY markUnStarredCmd.label "As Not a Reminder">
 <!ENTITY markUnStarredCmd.accesskey "N">
 
 <!-- keep as s, because t is taken by topic/tag -->

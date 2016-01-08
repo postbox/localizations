@@ -55,10 +55,10 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Open in New Tab">
 <!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.accesskey "N">
 <!ENTITY pbFavoriteContactsContextMenu-openInNewTab.accesskey "N">
-<!ENTITY focusPaneNotToDoAttribute.label           "Not To-Do">
+<!ENTITY focusPaneNotToDoAttribute.label           "Not Reminders">
 <!ENTITY focusPaneRepliedAttribute.label           "Replied">
 <!ENTITY pbFavoriteContactsContextMenu-edit.accesskey   "d">
-<!ENTITY focusPaneToDoAttribute.label              "To-Do">
+<!ENTITY focusPaneToDoAttribute.label              "Reminders">
 <!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Open in New Tab">
 <!ENTITY pbFavoriteContactsContextMenu-createfilter.accesskey "F">
 <!ENTITY pbFavoriteTopicsContextMenu-assignColor.accesskey "S">

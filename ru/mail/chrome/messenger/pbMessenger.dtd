@@ -29,7 +29,7 @@
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
-<!ENTITY pinStarredMessages.label "Pin To-Dos">
+<!ENTITY pinStarredMessages.label "Pin Reminders">
 <!ENTITY pinStarredMessages.accesskey "P">
 <!ENTITY showConversations.label "Show Conversations">
 <!ENTITY showConversations.accesskey "h">
@@ -42,7 +42,7 @@
 <!ENTITY viewMenuShowImages.label        "Images">
 <!ENTITY viewMenuShowImages.accesskey    "m">
 <!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowTodos.label "To-Dos">
+<!ENTITY viewMenuShowTodos.label "Reminders">
 <!ENTITY viewMenuShowTodos.accesskey "D">
 <!ENTITY key_showTodos.key           "o">
 <!ENTITY showFolderPaneCmd.label "Folder Pane">
@@ -74,9 +74,9 @@
 <!ENTITY focusPaneImages.label          "Изображения">
 <!ENTITY focusPaneMessages.label        "View All">
 <!ENTITY viewButtons.label              "View">
-<!ENTITY focusPaneTodos.label           "To-Dos">
+<!ENTITY focusPaneTodos.label           "Reminders">
 <!ENTITY tagButton.tooltip "Добавить метку к сообщениям">
-<!ENTITY newTaskButton.tooltip "Create a new To-Do item">
+<!ENTITY newTaskButton.tooltip "Create a new Reminder">
 <!ENTITY newTaskButton.label "Создать звездочку">
 <!ENTITY inspectorButton.label "Inspector">
 <!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
@@ -255,9 +255,9 @@
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Посмотреть в словаре">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "L">
-<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New To-Do with Selection as Note">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New Reminder with Selection as Note">
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
-<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New To-Do with Selection as Title">
+<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New Reminder with Selection as Title">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Send to Inbox">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">

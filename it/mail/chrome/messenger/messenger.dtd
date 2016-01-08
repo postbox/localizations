@@ -19,7 +19,7 @@
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY newEmailAccountCmd.label "Mail Account…">
 <!ENTITY newEmailAccountCmd.accesskey "a">
-<!ENTITY newTaskCmd.label "To-Do">
+<!ENTITY newTaskCmd.label "Reminder">
 <!ENTITY newTaskCmd.accesskey "T">
 <!ENTITY newTaskCmd.key "n">
 <!ENTITY openMessageMenu.label "Apri">
@@ -593,7 +593,7 @@
 <!ENTITY totalColumn.tooltip "Numero totale di messaggi nella discussione">
 <!ENTITY readColumn.tooltip "Ordina per letto">
 <!ENTITY receivedColumn.tooltip "Ordina per data di ricezione">
-<!ENTITY starredColumn2.tooltip "Click to toggle pinning To-Dos">
+<!ENTITY starredColumn2.tooltip "Click to toggle pinning Reminders">
 <!ENTITY locationColumn.tooltip "Ordina per posizione">
 <!ENTITY idColumn.tooltip "Ordina per ordine ricezione">
 <!ENTITY attachmentColumn.tooltip "Ordina per allegati">

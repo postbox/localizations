@@ -19,7 +19,7 @@
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY newEmailAccountCmd.label "E-mail account...">
 <!ENTITY newEmailAccountCmd.accesskey "a">
-<!ENTITY newTaskCmd.label "To-Do">
+<!ENTITY newTaskCmd.label "Reminder">
 <!ENTITY newTaskCmd.accesskey "T">
 <!ENTITY newTaskCmd.key "n">
 <!ENTITY openMessageMenu.label "Openen">
@@ -384,7 +384,7 @@
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Ster toevoegen">
 <!ENTITY markStarredCmd.accesskey "S">
-<!ENTITY markUnStarredCmd.label "Als geen To-Do">
+<!ENTITY markUnStarredCmd.label "Als geen Reminder">
 <!ENTITY markUnStarredCmd.accesskey "n">
 
 <!-- keep as s, because t is taken by topic/tag -->
@@ -599,7 +599,7 @@
 <!ENTITY totalColumn.tooltip "Totale aantal berichten in conversatie">
 <!ENTITY readColumn.tooltip "Klik om te sorteren op gelezen">
 <!ENTITY receivedColumn.tooltip "Klik om te sorteren op ontvangstdatum">
-<!ENTITY starredColumn2.tooltip "Klik om To-Do's vast of los te zetten">
+<!ENTITY starredColumn2.tooltip "Klik om Reminder's vast of los te zetten">
 <!ENTITY locationColumn.tooltip "Klik om te sorteren op locatie">
 <!ENTITY idColumn.tooltip "Klik om te sorteren op volgorde van ontvangst">
 <!ENTITY attachmentColumn.tooltip "Klik om te sorteren op bijlagen">

@@ -723,7 +723,7 @@
 <!ENTITY markAsPendingCmd.accesskey "P">
 <!ENTITY markAsNotPendingCmd.accesskey "g">
 <!ENTITY markUnStarredCmd.accesskey "N">
-<!ENTITY markUnStarredCmd.label "As Not To-Do">
+<!ENTITY markUnStarredCmd.label "As Not a Reminder">
 <!ENTITY markAsNotPendingCmd.label "As Not Pending">
 
 

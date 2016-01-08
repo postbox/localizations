@@ -29,7 +29,7 @@
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
-<!ENTITY pinStarredMessages.label "To-Do's vastzetten">
+<!ENTITY pinStarredMessages.label "Reminder's vastzetten">
 <!ENTITY pinStarredMessages.accesskey "T">
 <!ENTITY showConversations.label "Conversaties weergeven">
 <!ENTITY showConversations.accesskey "C">
@@ -42,7 +42,7 @@
 <!ENTITY viewMenuShowImages.label        "Afbeeldingen">
 <!ENTITY viewMenuShowImages.accesskey    "A">
 <!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowTodos.label "To-do's">
+<!ENTITY viewMenuShowTodos.label "Reminder's">
 <!ENTITY viewMenuShowTodos.accesskey "d">
 <!ENTITY key_showTodos.key           "o">
 <!ENTITY showFolderPaneCmd.label "Mappenvenster">
@@ -78,10 +78,10 @@
 <!ENTITY focusPaneImages.label          "Afbeeldingen">
 <!ENTITY focusPaneMessages.label        "Alles Weergeven">
 <!ENTITY viewButtons.label              "Weergave">
-<!ENTITY focusPaneTodos.label           "To-do's">
+<!ENTITY focusPaneTodos.label           "Reminder's">
 <!ENTITY tagButton.tooltip "Wijs topic aan berichten toe">
-<!ENTITY newTaskButton.tooltip "Maak een nieuw To-do item">
-<!ENTITY newTaskButton.label "Nieuwe To-Do">
+<!ENTITY newTaskButton.tooltip "Maak een nieuw Reminder">
+<!ENTITY newTaskButton.label "Nieuwe Reminder">
 <!ENTITY inspectorButton.label "Inspector">
 <!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
 <!ENTITY evernoteButton.label "Evernote">
@@ -252,9 +252,9 @@
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Opzoeken in woordenboek">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "O">
-<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: Nieuwe To-do met de huidige selectie als aantekening">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: Nieuwe Reminder met de huidige selectie als aantekening">
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
-<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: Nieuwe To-do met huidige selectie als titel">
+<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: Nieuwe Reminder met huidige selectie als titel">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Stuur naar Inbox">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">

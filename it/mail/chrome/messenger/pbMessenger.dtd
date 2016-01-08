@@ -42,7 +42,7 @@
 <!ENTITY viewMenuShowImages.label        "Images">
 <!ENTITY viewMenuShowImages.accesskey    "m">
 <!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowTodos.label "To-Dos">
+<!ENTITY viewMenuShowTodos.label "Reminders">
 <!ENTITY viewMenuShowTodos.accesskey "D">
 <!ENTITY key_showTodos.key           "o">
 <!ENTITY showFolderPaneCmd.label "Riquadro cartella">

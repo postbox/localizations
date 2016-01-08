@@ -17,7 +17,7 @@
 <!ENTITY newOtherAccountsCmd.accesskey "O">
 <!ENTITY newEmailAccountCmd.label "Mail Account…">
 <!ENTITY newEmailAccountCmd.accesskey "a">
-<!ENTITY newTaskCmd.label "To-Do">
+<!ENTITY newTaskCmd.label "Reminder">
 <!ENTITY newTaskCmd.accesskey "T">
 <!ENTITY newTaskCmd.key "n">
 <!ENTITY openMessageMenu.label "Open">
@@ -584,7 +584,7 @@
 <!ENTITY totalColumn.tooltip "Numărul total de mesaje din conversație">
 <!ENTITY readColumn.tooltip "Clic pentru a sorta după citire">
 <!ENTITY receivedColumn.tooltip "Clic pentru sortare după data primirii">
-<!ENTITY starredColumn2.tooltip "Click to toggle pinning To-Dos">
+<!ENTITY starredColumn2.tooltip "Click to toggle pinning Reminders">
 <!ENTITY locationColumn.tooltip "Clic pentru a sorta după amplasare">
 <!ENTITY idColumn.tooltip "Clic pentru a sorta după ordinea în care au fost primite">
 <!ENTITY attachmentColumn.tooltip "Clic pentru a sorta după anexe">
@@ -723,7 +723,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY markAsPendingCmd.accesskey "P">
 <!ENTITY markAsNotPendingCmd.accesskey "g">
 <!ENTITY markUnStarredCmd.accesskey "N">
-<!ENTITY markUnStarredCmd.label "As Not To-Do">
+<!ENTITY markUnStarredCmd.label "As Not a Reminder">
 <!ENTITY markAsNotPendingCmd.label "As Not Pending">
 
 

@@ -23,7 +23,7 @@
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
-<!ENTITY pinStarredMessages.label "Pin To-Dos">
+<!ENTITY pinStarredMessages.label "Pin Reminders">
 <!ENTITY pinStarredMessages.accesskey "P">
 <!ENTITY showConversations.label "Show Conversations">
 <!ENTITY showConversations.accesskey "h">
@@ -51,8 +51,8 @@
 <!ENTITY focusPaneMessages.label        "View All">
 <!ENTITY viewButtons.label              "View">
 <!ENTITY tagButton.tooltip "Add topic to messages">
-<!ENTITY newTaskButton.tooltip "Create a new To-Do item">
-<!ENTITY newTaskButton.label "New To-Do">
+<!ENTITY newTaskButton.tooltip "Create a new Reminder">
+<!ENTITY newTaskButton.label "New Reminder">
 <!ENTITY pbToolbarButton-home.label "Home">
 <!ENTITY pbToolbarButton-home.tooltip "Take me back to my Inbox and clear any search criteria">
 <!ENTITY pbToolbarButton-promote.label   "Post">
@@ -223,9 +223,9 @@
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Look Up in Dictionary">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "L">
-<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New To-Do with Selection as Note">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New Reminder with Selection as Note">
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
-<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New To-Do with Selection as Title">
+<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New Reminder with Selection as Title">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Send to Inbox">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
@@ -349,10 +349,10 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbCollapseConversationMsgs.accesskey "n">
 <!ENTITY pbExpandConversationMsgs.key "o">
 <!ENTITY key_showTodos.key           "o">
-<!ENTITY viewMenuShowTodos.label "To-Dos">
+<!ENTITY viewMenuShowTodos.label "Reminders">
 <!ENTITY pbViewConverationsMenu.label "Conversations">
 <!ENTITY pbCollapseConversationMsgs.label "Collapse Conversation">
-<!ENTITY focusPaneTodos.label           "To-Dos">
+<!ENTITY focusPaneTodos.label           "Reminders">
 <!ENTITY closeTab.label "Close Tab">
 <!ENTITY viewMenuShowTodos.accesskey "d">
 <!ENTITY pbExpandConversationMsgs.label "Expand Conversation">

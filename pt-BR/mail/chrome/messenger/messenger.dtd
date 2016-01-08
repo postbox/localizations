@@ -19,7 +19,7 @@
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY newEmailAccountCmd.label "Mail Account…">
 <!ENTITY newEmailAccountCmd.accesskey "a">
-<!ENTITY newTaskCmd.label "To-Do">
+<!ENTITY newTaskCmd.label "Reminder">
 <!ENTITY newTaskCmd.accesskey "T">
 <!ENTITY newTaskCmd.key "n">
 <!ENTITY openMessageMenu.label "Open">
@@ -384,7 +384,7 @@
 <!ENTITY markAllReadCmd.key "C">
 <!ENTITY markStarredCmd.label "Com estrela">
 <!ENTITY markStarredCmd.accesskey "e">
-<!ENTITY markUnStarredCmd.label "As Not To-Do">
+<!ENTITY markUnStarredCmd.label "As Not a Reminder">
 <!ENTITY markUnStarredCmd.accesskey "N">
 
 <!-- keep as s, because t is taken by topic/tag -->
@@ -593,7 +593,7 @@
 <!ENTITY totalColumn.tooltip "Número de mensagens do tópico">
 <!ENTITY readColumn.tooltip "Clique para ordenar por mensagem lida">
 <!ENTITY receivedColumn.tooltip "Clique para ordenar pela data de recebimento">
-<!ENTITY starredColumn2.tooltip "Click to toggle pinning To-Dos">
+<!ENTITY starredColumn2.tooltip "Click to toggle pinning Reminders">
 <!ENTITY locationColumn.tooltip "Clique para ordenar pela pasta">
 <!ENTITY idColumn.tooltip "Clique para ordenar pela ordem de chegada">
 <!ENTITY attachmentColumn.tooltip "Clique para ordenar por anexos">

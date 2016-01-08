@@ -384,7 +384,7 @@
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Звёздочкой">
 <!ENTITY markStarredCmd.accesskey "T">
-<!ENTITY markUnStarredCmd.label "As Not To-Do">
+<!ENTITY markUnStarredCmd.label "As Not a Reminder">
 <!ENTITY markUnStarredCmd.accesskey "N">
 
 <!-- keep as s, because t is taken by topic/tag -->
@@ -593,7 +593,7 @@
 <!ENTITY totalColumn.tooltip "Общее число сообщений в обсуждении">
 <!ENTITY readColumn.tooltip "Нажмите здесь, чтобы отсортировать прочитанные сообщения">
 <!ENTITY receivedColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате получения">
-<!ENTITY starredColumn2.tooltip "Click to toggle pinning To-Dos">
+<!ENTITY starredColumn2.tooltip "Click to toggle pinning Reminders">
 <!ENTITY locationColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по их расположению">
 <!ENTITY idColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по порядку получения">
 <!ENTITY attachmentColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по наличию вложений">
