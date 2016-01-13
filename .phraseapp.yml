@@ -1,0 +1,14 @@
+phraseapp:
+  access_token: e585b959cd54814d0f8e9cf16048e10506c77d56c94c9dca3c9c9f5309e670f1
+  project_id: 06f4702e554eef68fe4410f7c36a2a59
+  file_format: mozilla_properties
+  push:
+    sources:
+    - file: ./<locale_code>.properties
+      params:
+        file_format: mozilla_properties
+  pull:
+    targets:
+    - file: ./<locale_code>.properties
+      params:
+        file_format: mozilla_properties
