@@ -4,11 +4,11 @@ phraseapp:
   file_format: mozilla_properties
   push:
     sources:
-    - file: ./<locale_code>.properties
+    - file: ./<locale_code>/**/*.properties
       params:
         file_format: mozilla_properties
   pull:
     targets:
-    - file: ./<locale_code>.properties
+    - file: ./<locale_code>/**/*.properties
       params:
         file_format: mozilla_properties
