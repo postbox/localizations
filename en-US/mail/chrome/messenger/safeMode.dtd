@@ -36,8 +36,8 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY changeAndRestartButton2.label     "Save and Restart">
-<!ENTITY changeAndRestartButton2.accesskey "S">
+<!ENTITY changeAndRestartButton2.label     "Apply and Restart">
+<!ENTITY changeAndRestartButton2.accesskey "A">
 
 
 <!ENTITY safeModeOptionsWindow.width       "width: 49em;">
@@ -53,8 +53,8 @@ with one or more of these troubleshooting options selected:">
 <!ENTITY resetToolbars.label              "Reset User Interface">
 <!ENTITY resetToolbars.accesskey          "R">
 
-<!ENTITY resetIndex.label                 "Reset Search Index">
-<!ENTITY resetIndex.accesskey             "I">
+<!ENTITY resetCacheAndIndex.label         "Reset Caches and Search Index">
+<!ENTITY resetCacheAndIndex.accesskey     "I">
 
 <!ENTITY safeMode.label                   "Safe Mode (temporarily disables all Add-ons and custom settings)">
 <!ENTITY safeMode.accesskey               "M">
@@ -64,3 +64,10 @@ with one or more of these troubleshooting options selected:">
 
 <!ENTITY protocolLogging.label                   "Create Protocol Log File">
 <!ENTITY protocolLogging.accesskey               "L">
+
+<!ENTITY safeModeDialogHeader.label       "Troubleshooting">
+
+<!ENTITY safeModeDialogHelpButton.tooltip "Display online help for this dialog">
+
+<!ENTITY resetImapFolders.label           "Reset IMAP mail database">
+<!ENTITY resetImapFolders.accesskey       "b">

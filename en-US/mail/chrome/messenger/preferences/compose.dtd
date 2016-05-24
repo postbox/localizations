@@ -105,3 +105,6 @@
 <!ENTITY sourceView.accesskey "C">
 
 <!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">
+
+<!ENTITY messageSizeWarning.label "Warn me if the message size is above">
+<!ENTITY megabytes.label "MB">

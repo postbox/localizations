@@ -80,8 +80,10 @@
 <!ENTITY viewButtons.label              "View">
 <!ENTITY focusPaneTodos.label           "Reminders">
 <!ENTITY tagButton.tooltip "Add topic to messages">
-<!ENTITY newTaskButton.tooltip "Create a new Reminder">
-<!ENTITY newTaskButton.label "Reminder">
+<!ENTITY newReminderMenuitem.label "Create a new Reminder">
+<!ENTITY reminderButton.tooltip "Mark the selected messages as reminders">
+<!ENTITY removeReminderButton.tooltip "Mark the selected messages as not reminders">
+<!ENTITY reminderButton.label "Reminder">
 <!ENTITY inspectorButton.label "Inspector">
 <!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
 <!ENTITY evernoteButton.label "Evernote">
@@ -161,6 +163,7 @@
 <!ENTITY strikethroughEditMsgToolbarCmd.tooltip      "Strikethrough">
 <!ENTITY cropTextEditMsgToolbarCmd.tooltip           "Crop Text">
 <!ENTITY insertLinkEditMsgToolbarCmd.tooltip         "Insert new link or edit selected link's properties">
+<!ENTITY insertImageEditMsgToolbarCmd.tooltip        "Insert new image or edit selected image's properties">
 <!ENTITY insertListEditMsgToolbarCmd.tooltip         "Apply or remove bulleted or numbered list">
 <!ENTITY noneMsgToolbarCmd.label                     "None">
 <!ENTITY noneMsgToolbarCmd.accesskey                 "N">

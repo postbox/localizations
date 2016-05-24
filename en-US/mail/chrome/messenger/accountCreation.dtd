@@ -5,8 +5,10 @@
 <!ENTITY email.placeholder                 "email@example.com">
 <!ENTITY password.label                  "Password:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.placeholder              "Password">
+<!ENTITY password.placeholder              "Required">
 <!ENTITY password.text                   "Optional, will only be used to validate the username">
+<!ENTITY displayname.accesskey           "D">
+<!ENTITY displayname.placeholder         "Work, Personal, etc.">
 
 <!ENTITY accountInformation.label        "Account Information">
 <!ENTITY outgoing.label                  "Outgoing:">
@@ -73,6 +75,7 @@
 <!ENTITY pb.name.label    "Your Name:">
 <!ENTITY pb.email.label   "Email Address:">
 <!ENTITY pb.password.label "Password:">
+<!ENTITY pb.displayname.label "Description:">
 <!ENTITY pb.serverinfo.title "Server Information">
 <!ENTITY pb.username.label   "User Name:">
 <!ENTITY pb.incoming.label "Incoming Server">
@@ -100,7 +103,7 @@
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 63ch;">
 
-<!ENTITY pbProfileInformation.label "Profile Information">
+<!ENTITY pbProfileInformation.label "Account Information">
 <!ENTITY pbManualSetup.label "Manual Setup">
 
 <!-- warnings on email address -->

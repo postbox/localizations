@@ -58,8 +58,11 @@
 <!-- general -->
 <!ENTITY pb.itemGeneral.label        "General">
 <!ENTITY useRetina.label             "Retina Display">
-<!ENTITY devPixelsPerPx.label        "High DPI scaling:">
+<!ENTITY devPixelsPerPx.label        "DPI scaling:">
 <!ENTITY devPixelsPerPx.accesskey    "D">
+<!ENTITY devPixelsPerPx.default      "Default">
+<!ENTITY devPixelsPerPx.lowdpi       "Low DPI">
+<!ENTITY devPixelsPerPx.highdpi      "High DPI">
 
 <!-- message list font size -->
 

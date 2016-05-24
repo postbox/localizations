@@ -35,6 +35,8 @@
 <!ENTITY filterActionDesc.label "Perform these actions:">
 <!ENTITY filterActionDesc.accesskey "P">
 
+<!ENTITY globalFilterChekbox.label "This is a global filter">
+
 <!ENTITY newFolderButton.label "New Folder...">
 <!ENTITY newFolderButton.accesskey "N">
 
@@ -45,9 +47,11 @@
 <!ENTITY replyWithTemplate.label "Reply with Template">
 <!ENTITY markMessageRead.label "Mark As Read">
 <!ENTITY markMessageStarred.label "Mark as Reminder">
-<!ENTITY labelMessage.label "Label Message As">
+<!ENTITY markMessagePending.label "Mark as Pending">
+<!ENTITY markMessageAs.label "Mark Message as">
 <!ENTITY setPriority.label "Set Priority to">
 <!ENTITY addTag.label "Add Topic">
+<!ENTITY removeTag.label "Remove Topic">
 <!ENTITY setJunkScore.label "Set Junk Status to">
 <!ENTITY deleteMessage.label "Delete Message">
 <!ENTITY deleteFromPOP.label "Delete From POP Server">
@@ -55,3 +59,19 @@
 <!ENTITY ignoreThread.label "Ignore Thread">
 <!ENTITY watchThread.label "Watch Thread">
 <!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY launchScript.label "Run AppleScript">
+
+<!ENTITY playSound.label "Play Sound">
+<!ENTITY noSoundSelected.label "Select a Sound">
+<!ENTITY systemAlertSound.label "System Alert Sound">
+
+<!ENTITY noScriptsInstalled.label "No Scripts installed">
+<!ENTITY openInFinder.label "Open in Finder">
+<!ENTITY noScriptSelected.label "Select an AppleScript">
+
+<!ENTITY readStatus.label "Read">
+<!ENTITY reminderStatus.label "Reminder">
+<!ENTITY pendingStatus.label "Pending">
+<!ENTITY unreadStatus.label "Unread">
+<!ENTITY notReminderStatus.label "Not Reminder">
+<!ENTITY notPendingStatus.label "Not Pending">
