@@ -415,3 +415,14 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbTopicContextMenu-delete.accesskey   "d">
 <!ENTITY pbTopicContextMenu-assignColor.label  "Set Topic Color">
 <!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY reminderButton.label "Reminder">
+<!ENTITY removeReminderButton.tooltip "Mark the selected messages as not reminders">
+<!ENTITY reminderButton.tooltip "Mark the selected messages as reminders">
+<!ENTITY newReminderMenuitem.label "Create a new Reminder">
+<!ENTITY insertImageEditMsgToolbarCmd.tooltip        "Insert new image or edit selected image's properties">

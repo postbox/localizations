@@ -124,3 +124,12 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY important.label "IMPORTANT:">
 <!ENTITY learnMore.label "Learn more...">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY pb.displayname.label "Description:">
+<!ENTITY displayname.placeholder         "Work, Personal, etc.">
+<!ENTITY displayname.accesskey           "D">

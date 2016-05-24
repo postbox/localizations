@@ -64,3 +64,15 @@ with one or more of these trouble shooting options selected:">
 
 <!ENTITY protocolLogging.label                   "Create Protocol Log File">
 <!ENTITY protocolLogging.accesskey               "L">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY resetImapFolders.accesskey       "b">
+<!ENTITY resetCacheAndIndex.accesskey     "I">
+<!ENTITY resetImapFolders.label           "Reset IMAP mail database">
+<!ENTITY resetCacheAndIndex.label         "Reset Caches and Search Index">
+<!ENTITY safeModeDialogHelpButton.tooltip "Display online help for this dialog">
+<!ENTITY safeModeDialogHeader.label       "Troubleshooting">

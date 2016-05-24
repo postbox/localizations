@@ -99,3 +99,12 @@ entities below were automatically added by l10nmerge
 <!ENTITY quotedColor1.label "Quoted color, level 1">
 <!ENTITY quotedColor3.label "Quoted color, level 3">
 <!ENTITY quotedColor4.label "Quoted color, level 4">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY devPixelsPerPx.default      "Default">
+<!ENTITY devPixelsPerPx.highdpi      "High DPI">
+<!ENTITY devPixelsPerPx.lowdpi       "Low DPI">

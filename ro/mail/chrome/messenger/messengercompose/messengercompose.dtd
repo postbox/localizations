@@ -481,3 +481,30 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY pbCreateResponse.label "Create Response...">
 <!ENTITY pbSearchGoogle.label "Search in Google">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY templatePlaceholderLastName.label "Last Name">
+<!ENTITY templatePlaceholderToRecipients.label "To Recipients">
+<!ENTITY templatePlaceholderCcRecipients.label "Cc Recipients">
+<!ENTITY templatePlaceholders.tooltiptext "Insert a Template Placeholder">
+<!ENTITY messageSize.label "Message size:">
+<!ENTITY templatePlaceholderFirstName.label "First Name">
+<!ENTITY templatePlaceholderEmail.label "Email Address">
+<!ENTITY templatePlaceholderMessageId.label "Message ID">
+<!ENTITY templatePlaceholderCustom.label "Custom Placeholder">
+<!ENTITY templatePlaceholderThisMessage.label "This Message">
+<!ENTITY imageSize.label "Image size:">
+<!ENTITY largeImageResize.label "Large">
+<!ENTITY templatePlaceholderMySelectedIdentity.label "My Selected Identity">
+<!ENTITY templacePlaceholderFillValues.label "Fill Values">
+<!ENTITY templatePlaceholderSourceMessage.label "Source Message">
+<!ENTITY templatePlaceholderSender.label "Sender">
+<!ENTITY mediumImageResize.label "Medium">
+<!ENTITY templatePlaceholderSubject.label "Subject">
+<!ENTITY smallImageResize.label "Small">
+<!ENTITY templatePlaceholderIdentity.label "Full Name">
+<!ENTITY templatePlaceholderDate.label "Date">

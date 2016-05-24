@@ -64,3 +64,10 @@ entities below were automatically added by l10nmerge
 <!ENTITY useRetina.label				  "Retina Display">
 
 <!ENTITY showProfileManager.label   "Show Profile Manager on startup">
+
+
+<!--
+entities below were automatically added by l10nmerge
+-->
+
+<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
