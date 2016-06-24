@@ -59,6 +59,10 @@
 <!ENTITY replyInDefaultCharset2.accesskey "h">
 <!ENTITY composeLanguagesTitle.label            "Character Encoding:">
 
+<!ENTITY imageOrientation.label "Image Orientation:">
+<!ENTITY accordingToEXIF.label "Rotate images according to EXIF data">
+<!ENTITY accordingToEXIF.accesskey "o">
+
 <!-- signatures -->
 <!ENTITY addSignatureButton.label       "New">
 <!ENTITY addSignatureButton.accesskey   "N">
@@ -108,3 +112,4 @@
 
 <!ENTITY messageSizeWarning.label "Warn me if the message size is above">
 <!ENTITY megabytes.label "MB">
+
