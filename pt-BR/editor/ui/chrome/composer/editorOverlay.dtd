@@ -187,6 +187,7 @@
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Selecionar o tamanho da fonte">
+<!ENTITY resetToDefaultFontSize.label "Reset to default">
 <!ENTITY decreaseFontSize.label "Diminuir">
 <!ENTITY decreaseFontSize.accesskey "D">
 <!ENTITY decreaseFontSize.key "-">

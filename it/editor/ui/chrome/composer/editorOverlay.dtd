@@ -171,6 +171,7 @@
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
 <!ENTITY FontSizeSelect.tooltip "Scegli la dimensione del carattere">
+<!ENTITY resetToDefaultFontSize.label "Reset to default">
 <!ENTITY decreaseFontSize.label "Diminuisci">
 <!ENTITY decreaseFontSize.accesskey "D">
 <!ENTITY decreaseFontSize.key "-">

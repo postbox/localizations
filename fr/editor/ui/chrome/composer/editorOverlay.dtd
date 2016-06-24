@@ -187,6 +187,7 @@
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Choisir la taille d'une police">
+<!ENTITY resetToDefaultFontSize.label "Reset to default">
 <!ENTITY decreaseFontSize.label "Plus petite">
 <!ENTITY decreaseFontSize.accesskey "u">
 <!ENTITY decreaseFontSize.key "-">
