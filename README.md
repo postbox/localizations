@@ -1,6 +1,5 @@
 localizations
 =============
 
-Localized Strings for Postbox
-
-Fix Postbox in your language or localize Postbox to a new language!
+For instructions on how to localize, please see:
+http://support.postbox-inc.com/hc/en-us/articles/202197590
