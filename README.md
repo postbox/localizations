@@ -47,8 +47,3 @@
 <li>In the lower left, provide a summary and description of the changes you've made, then click on the <em>Commit</em> button.</li>
 <li>Finally, click on the <em>Pull Request</em> button at the top, enter a title and/or description, then click the <em>Send Pull Request</em> button.</li>
 </ol>
-<p><span class="wysiwyg-font-size-large"><strong>FAQ</strong></span></p>
-<p><strong>Why is my language not listed?</strong></p>
-<p>We are just getting our localization process going and have picked the current set of languages to start with as we test out our system. Over time we'll be adding more locales as we all get more comfortable with the system.</p>
-<p><strong>How can I help translate the website?</strong></p>
-<p>Right now we are focused on getting the product translations up and running before tackling the website.</p>
