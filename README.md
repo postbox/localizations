@@ -17,7 +17,15 @@
 <ol>
 <li>Go to the GitHub desktop application, and from the <em>Repository</em> menu select <em>Pull</em>.</li>
 <li>Find an editor that can search through a lot of files at once. We like using <a href="https://atom.io" target="_blank">Atom</a> (it's free!).</li>
-<li>When you see an untranslated string, search your language directory for the files that contain that string. (Please be sure that you are localizing within the correct directory, as we have several languages!) <br /><br />Typically you would work out of and search through the mail directory for your language. For example, if you are Italian, you would work out of this directory:<br /><em><br />localizations directory &gt; it &gt; mail<br /><br /></em></li>
+<li>Download and install the Postbox application, install a sample email account, then go to the File menu > Languages > select your language. Then restart Postbox.</li>
+<li>Look through Postbox's:
+<ul>
+<li>main interface - all of it's windows, folder names, button names, etc.</li>
+<li>every menu and sub-menu</li>
+<li>every Preference panel and sub panel</li>
+<li>look through the localization files themselves to find untranslated texts</li>
+</ul>
+<li>Once you see an untranslated string, search your language directory for the files that contain that string. (Please be sure that you are localizing within the correct directory, as we have several languages!) <br /><br />Typically you would work out of and search through the mail directory for your language. For example, if you are Italian, you would work out of this directory:<br /><em><br />localizations directory &gt; it &gt; mail<br /><br /></em></li>
 <li>Change the string(s) and save your work in Atom.</li>
 </ol>
 <p><strong><span class="wysiwyg-font-size-large">What and What NOT To Translate</span></strong></p>
