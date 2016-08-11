@@ -50,7 +50,7 @@
 <h2>Instructions for Reviewers</h2>
 <p>Once a pull request has been submitted you can review the changes to ensure that the translations are correct.</p>
 <p>Click on the pull request tab, and then select a pull request to review.</p>
-<img src="http://postbox-images.s3.amazonaws.com/github/pull-request.png">
+<img src="http://postbox-images.s3.amazonaws.com/github/pull-request@2x.png">
 <p>In ALL CAPS, please mark the pull request as follows:
 <ul>
 <li>APPROVED</li>
