@@ -23,10 +23,9 @@
 <li>main interface - all of it's windows, folder names, button names, etc.</li>
 <li>every menu and sub-menu</li>
 <li>every Preference panel and sub panel</li>
-<li>look through the .dtd localization files themselves to find untranslated texts</li>
+<li>look through the .dtd localization files themselves to find untranslated texts. <strong>ALL LOCALIZATION FILES ARE IN .DTD FILES!</strong></li>
 </ul>
-<li><strong>ALL LOCALIZATION FILES ARE IN .DTD FILES!</strong></li>
-<LI>Once you see an untranslated string, search your language directory for the .dtd files that contain that string. (Please be sure that you are localizing within the correct directory, as we have several languages!) <br /><br />Typically you would work out of and search through the mail directory for your language. For example, if you are Italian, you would work out of this directory:<br /><em><br />localizations directory &gt; it &gt; mail<br /><br /></em></li>
+<li>Once you see an untranslated string, search your language directory for the .dtd files that contain that string. (Please be sure that you are localizing within the correct directory, as we have several languages!) <br /><br />Typically you would work out of and search through the mail directory for your language. For example, if you are Italian, you would work out of this directory:<br /><em><br />localizations directory &gt; it &gt; mail<br /><br /></em></li>
 <li>Change the string(s) and save your work in Atom.</li>
 </ol>
 <p><strong><span class="wysiwyg-font-size-large">What and What NOT To Translate</span></strong></p>
