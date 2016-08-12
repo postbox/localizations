@@ -2,7 +2,7 @@
 <!ENTITY msgComposeWindow.title "Rédaction du message">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Fichier"> 
+<!ENTITY fileMenu.label "Fichier">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Nouveau">
 <!ENTITY newMenu.accesskey "N">
@@ -50,27 +50,27 @@
 <!ENTITY printCmd.label "Imprimer...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
-<!ENTITY quitApplicationCmdWin.label                    "Quitter"> 
+<!ENTITY quitApplicationCmdWin.label                    "Quitter">
 <!ENTITY quitApplicationCmdWin.accesskey                "Q">
-<!ENTITY quitApplicationCmd.label                       "Quitter"> 
+<!ENTITY quitApplicationCmd.label                       "Quitter">
 <!ENTITY quitApplicationCmd.accesskey                   "Q">
-<!ENTITY quitApplicationCmd.key "Q"> 
+<!ENTITY quitApplicationCmd.key "Q">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Édition"> 
+<!ENTITY editMenu.label "Édition">
 <!ENTITY editMenu.accesskey "n">
 <!ENTITY undoCmd.label "Annuler">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u"> 
+<!ENTITY undoCmd.accesskey "u">
 <!ENTITY redoCmd.label "Rétablir">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R"> 
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Couper">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "C"> 
+<!ENTITY cutCmd.accesskey "C">
 <!ENTITY copyCmd.label "Copier">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "p"> 
+<!ENTITY copyCmd.accesskey "p">
 <!ENTITY pasteCmd.label "Coller">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "o">
@@ -83,7 +83,7 @@
 <!ENTITY deleteCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "T"> 
+<!ENTITY selectAllCmd.accesskey "T">
 <!ENTITY findCmd.label "Rechercher et remplacer...">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "h">
@@ -94,10 +94,10 @@
 <!ENTITY findPrevCmd.label "Rechercher le précédent">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "d"> 
+<!ENTITY findPrevCmd.accesskey "d">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Affichage"> 
+<!ENTITY viewMenu.label "Affichage">
 <!ENTITY viewMenu.accesskey "A">
 <!ENTITY customizeToolbar.label "Personnaliser...">
 <!ENTITY customizeToolbar.accesskey "P">
@@ -113,7 +113,7 @@
 <!ENTITY pbShowReplyField.accesskey "R">
 <!ENTITY pbShowReplyField.key "r">
 <!ENTITY pbShowNewsgroupsField.label "Champ d'adresse Groupe de discussion">
-<!ENTITY pbShowNewsgroupsField.accesskey "N"> 
+<!ENTITY pbShowNewsgroupsField.accesskey "N">
 <!ENTITY pbShowFollowupField.label "Champ d'adresse Suivi">
 <!ENTITY pbShowFollowupField.accesskey "o">
 
@@ -181,22 +181,22 @@
 <!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Préférences">
-<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+<!ENTITY preferencesCmdUnix.accesskey   "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "R">
 <!ENTITY minimizeWindow.label "Réduire">
 <!ENTITY bringAllToFront.label "Tout amener à l'avant-plan">
-<!ENTITY zoomWindow.label "Zoomer"> 
-<!ENTITY windowMenu.label "Fenêtre"> 
+<!ENTITY zoomWindow.label "Zoomer">
+<!ENTITY windowMenu.label "Fenêtre">
 
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "Aide">
-<!ENTITY helpMenu.accesskey "A"> 
+<!ENTITY helpMenu.accesskey "A">
 <!ENTITY releaseCmd.label "Notes de version">
-<!ENTITY releaseCmd.accesskey "r"> 
+<!ENTITY releaseCmd.accesskey "r">
 <!ENTITY hintsAndTips.label "&brandShortName; Aide">
-<!ENTITY hintsAndTips.accesskey "A"> 
+<!ENTITY hintsAndTips.accesskey "A">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY aboutCmd.label "À propos de &brandShortName;">
 <!ENTITY aboutCmd.accesskey "p">
@@ -215,12 +215,12 @@
 <!ENTITY compose.sidebar.label "Barre latérale">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Envoyer le message maintenant"> 
-<!ENTITY sendlaterButton.tooltip "Envoyer ce message plus tard"> 
-<!ENTITY quoteButton.tooltip "Citer le précédent message"> 
-<!ENTITY addressButton.tooltip "Sélectionner un destinataire du carnet d'adresses"> 
-<!ENTITY attachButton.tooltip "Inclure une pièce jointe"> 
-<!ENTITY saveButton.tooltip "Enregistrer ce message"> 
+<!ENTITY sendButton.tooltip "Envoyer le message maintenant">
+<!ENTITY sendlaterButton.tooltip "Envoyer ce message plus tard">
+<!ENTITY quoteButton.tooltip "Citer le précédent message">
+<!ENTITY addressButton.tooltip "Sélectionner un destinataire du carnet d'adresses">
+<!ENTITY attachButton.tooltip "Inclure une pièce jointe">
+<!ENTITY saveButton.tooltip "Enregistrer ce message">
 <!ENTITY cutButton.tooltip              "Couper">
 <!ENTITY copyButton.tooltip             "Copier">
 <!ENTITY pasteButton.tooltip            "Coller">
@@ -234,12 +234,12 @@
 <!ENTITY fromHeader.accesskey "D">
 <!ENTITY subjectHeader.label "Sujet">
 <!ENTITY subjectHeader.accesskey "S">
-<!ENTITY toAddr.label "Pour :"> 
-<!ENTITY ccAddr.label "Copie à :"> 
-<!ENTITY bccAddr.label "Copie cachée à :"> 
-<!ENTITY replyAddr.label "Répondre à :"> 
-<!ENTITY newsgroupsAddr.label "Groupe :"> 
-<!ENTITY followupAddr.label "Faire suivre à :"> 
+<!ENTITY toAddr.label "Pour :">
+<!ENTITY ccAddr.label "Copie à :">
+<!ENTITY bccAddr.label "Copie cachée à :">
+<!ENTITY replyAddr.label "Répondre à :">
+<!ENTITY newsgroupsAddr.label "Groupe :">
+<!ENTITY followupAddr.label "Faire suivre à :">
 <!ENTITY tagHeader.label "Étiquettes">
 <!ENTITY tagHeader.accesskey "t">
 <!ENTITY tagMessageButton.tooltip     "Assigner sujet(s) au message.">
@@ -317,7 +317,7 @@
 <!ENTITY researchButton.tooltip                 "Trouver les références">
 <!ENTITY signaturesButton.tooltip               "Trouver les signatures">
 
-<!-- this is an entity because it can vary by locale, and which type has the most kinds on the locale 
+<!-- this is an entity because it can vary by locale, and which type has the most kinds on the locale
      for en-US, it is "Research", which has "Wikipedia" + "Dictionary" + "Thesaurus" -->
 <!ENTITY compose-sidebar-default-width            "302">
 
@@ -350,7 +350,7 @@
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">
 <!ENTITY pbReplyButton.label       "Répondre">
-<!ENTITY pbReplyAllButton.tooltiptext    "Reply to sender of selected message">
+<!ENTITY pbReplyAllButton.tooltiptext    "Répondre à l'émetteur du message selectionné">
 <!ENTITY pbReplyAllButton.label    "Rép. à tous">
 <!ENTITY pbReplyAllButton.tooltiptext    "Répondre à tous les destinataires pour le message sélectionné">
 <!ENTITY pbToggleReplyRecipients.accesskey "R">
@@ -380,33 +380,33 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
-<!ENTITY pbTopicContextMenu-delete.label       "Delete">
+<!ENTITY pbTopicContextMenu-delete.label       "Supprimer">
 <!ENTITY pbTopicContextMenu-delete.accesskey   "d">
-<!ENTITY pbTopicContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbTopicContextMenu-assignColor.label  "Définir la couleur du sujet">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbStatsWords.label "words:">
+<!ENTITY pbStatsWords.label "Mots:">
 <!ENTITY pbSourceView.accesskey "d">
 <!ENTITY pbSourceViewThemes.accesskey "T">
 <!ENTITY pbStatsChars.label "characters:">
 <!ENTITY formattingToolbar.label "Toolbar">
-<!ENTITY pbShowCompositionGoalsToolbarCmd.label "Goal Status Bar">
+<!ENTITY pbShowCompositionGoalsToolbarCmd.label "Barre d'état">
 <!ENTITY pbStatsTime.label "time:">
-<!ENTITY pbSourceViewThemes.label "Theme">
-<!ENTITY compositionGoals.tooltip "Show or hide the Composition Goals status bar">
-<!ENTITY switchBetweenNormalAndCode.tooltip "Switch between Normal and Code views">
-<!ENTITY compositionGoals.label "Goals">
+<!ENTITY pbSourceViewThemes.label "Thème">
+<!ENTITY compositionGoals.tooltip "Afficher ou masquer la barre d'état">
+<!ENTITY switchBetweenNormalAndCode.tooltip "Changer entre la vue Normale et la vue Code">
+<!ENTITY compositionGoals.label "Objectifs">
 <!ENTITY tagButton.key "T">
-<!ENTITY pbSourceView.label "Code View">
+<!ENTITY pbSourceView.label "vue Code">
 <!ENTITY pbShowCompositionGoalsToolbarCmd.accesskey "G">
-<!ENTITY formattingToolbar.tooltip "Show or hide the toolbar">
+<!ENTITY formattingToolbar.tooltip "Afficher ou masquer la barre d'outils">
 
-<!ENTITY pbCreateResponse.label "Create Response...">
-<!ENTITY pbSearchGoogle.label "Search in Google">
+<!ENTITY pbCreateResponse.label "Rédiger une réponse...">
+<!ENTITY pbSearchGoogle.label "Chercher sur Google">
 
 
 <!--
