@@ -30,7 +30,7 @@
 <!ENTITY archiveInOtherFolder.label "Autre dossier :">
 <!ENTITY archiveInOtherFolder.accesskey "u">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY templatesFolderOn1.label "Modèles:">
 <!ENTITY templatesFolderOn1.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Autre dossier :">
 <!ENTITY templateInOtherFolder.accesskey "e">

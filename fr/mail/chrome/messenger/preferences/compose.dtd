@@ -50,21 +50,21 @@
 <!ENTITY sendOptions.label                     "Options d'expédition…">
 <!ENTITY sendOptions.accesskey                 "O">
 
-<!ENTITY attachmentReminder.label              "Check for missing attachments">
+<!ENTITY attachmentReminder.label              "Vérifier les pièces jointes manquantes">
 <!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Keywords…">
+<!ENTITY attachmentReminderOptions.label       "Mots-clefs…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">
 
-<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset2.label     "Utiliser l'encodage des caractères par défaut dans les réponses">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
 <!ENTITY composeLanguagesTitle.label            "Encodage des caractères:">
 
 <!-- signatures -->
-<!ENTITY addSignatureButton.label       "New">
+<!ENTITY addSignatureButton.label       "Nouveau">
 <!ENTITY addSignatureButton.accesskey   "N">
-<!ENTITY editSignatureButton.label      "Edit">
+<!ENTITY editSignatureButton.label      "Modifier">
 <!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY removeSignatureButton.label    "Delete">
+<!ENTITY removeSignatureButton.label    "Supprimer">
 <!ENTITY removeSignatureButton.accesskey "l">
 
 <!ENTITY pbItemAdvanced.label "Avancé">
@@ -73,19 +73,19 @@
 <!ENTITY pb.quotingConversationsSortOrderNewest.label "Messages les plus récents en premier">
 <!ENTITY pb.QuickReply.label "Default Quick Reply to:">
 <!ENTITY pb.QuickReply.accesskey "Q">
-<!ENTITY pb.quickreply.replyall.label "Reply All">
+<!ENTITY pb.quickreply.replyall.label "Répondre à tous">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
 <!ENTITY pb.quickreply.reply.label "Reply">
 <!ENTITY pb.quickreply.reply.accesskey "y">
 <!ENTITY pbNumConversationsToQuote.label "Inclure au plus">
 <!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing on reply">
 
-<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
+<!ENTITY pbQuoteOnQuickReply.label "Citer le message en réponse rapide">
 <!ENTITY pbQuoteOnQuickReply.accesskey "m">
 
 <!ENTITY pbDefaultFonSize.label                           "par défaut">
 
-<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
+<!ENTITY pbPlaySoundOnSend.label "Jouer un son lors de l'envoie d'un mail">
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
 <!ENTITY pbSendAndArchive.label "Activer Envoyer et archiver">
@@ -96,28 +96,28 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbCharactersGoal.label "Character Count">
-<!ENTITY pbStopwatchGoal.label "Stopwatch">
-<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
-<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
-<!ENTITY pbWordsGoal.label "Word Count">
+<!ENTITY pbCharactersGoal.label "Nombre de caractères">
+<!ENTITY pbStopwatchGoal.label "Chronomètre">
+<!ENTITY addSignatureDelimiters.label "Ajouter un séparateur au dessus de la signature">
+<!ENTITY pbSetCompositionGoals.label "Définir les objectifs de composition en utilisant">
+<!ENTITY pbWordsGoal.label "Nombre de mots">
 <!ENTITY pbMinutes.label "minutes">
-<!ENTITY pbAt.label "at">
-<!ENTITY sourceView.label "Code View:">
-<!ENTITY pbWords.label "words">
+<!ENTITY pbAt.label "à">
+<!ENTITY sourceView.label "Vue du code:">
+<!ENTITY pbWords.label "mots">
 <!ENTITY sourceView.accesskey "C">
-<!ENTITY pbCharacters.label "characters">
+<!ENTITY pbCharacters.label "caractères">
 
-<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">
+<!ENTITY pbURLAutoComplete.label "Activer l'autocomplétion d'URL">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY messageSizeWarning.label "Warn me if the message size is above">
+<!ENTITY messageSizeWarning.label "M'avertir si la taille du message excède">
 <!ENTITY megabytes.label "MB">
 
-<!ENTITY imageOrientation.label "Image Orientation:">
-<!ENTITY accordingToEXIF.label "Rotate images according to EXIF data">
+<!ENTITY imageOrientation.label "Orientation de l'image:">
+<!ENTITY accordingToEXIF.label "Pivoter l'image selon les données EXIF">
 <!ENTITY accordingToEXIF.accesskey "o">

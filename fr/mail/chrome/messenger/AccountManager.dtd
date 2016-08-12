@@ -38,6 +38,6 @@
 <!ENTITY pbAccountTree.width "width: 25ch;">
 
 <!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Add…">
-<!ENTITY pbAccountRemoveActionsButton.label "Remove">
+<!ENTITY pbAccountAddActionsButton.label "Ajouter…">
+<!ENTITY pbAccountRemoveActionsButton.label "Supprimer">
 <!ENTITY pbAccountRemoveActionsButton.accesskey "R">

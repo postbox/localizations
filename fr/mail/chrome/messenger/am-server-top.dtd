@@ -66,11 +66,11 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart1.label "Ask when downloading more than">
+<!ENTITY maxMessagesStart1.label "Demander avant de téléchager plus de">
 <!ENTITY maxMessagesStart1.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "messages.">
-<!ENTITY alwaysAuthenticate1.label "Always request authentication">
+<!ENTITY alwaysAuthenticate1.label "Toujours demander une authentification">
 <!ENTITY alwaysAuthenticate1.accesskey "w">
 <!ENTITY abbreviate.label "Afficher les noms des groupes de discussion dans le panneau des dossiers de courrier comme :">
 <!ENTITY abbreviateOn.label "des noms complets (par exemple « mozilla.dev.apps.thunderbird »)">
@@ -79,5 +79,5 @@
 <!ENTITY advancedButton.accesskey "s">
 <!ENTITY serverDefaultCharset1.label "Encodage :">
 
-<!ENTITY accountName.label "Account Name:">
+<!ENTITY accountName.label "Nom du compte:">
 <!ENTITY accountName.accesskey "n">
