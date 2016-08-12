@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY addAccountDialog.title   "Set up cloud file sharing">
-<!ENTITY addAccountDialog.menuTitle "Select an online storage service">
+<!ENTITY addAccountDialog.title   "Paramétrer le partage de fichier en ligne">
+<!ENTITY addAccountDialog.menuTitle "Selectionner un service de stockage en ligne">
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
-<!ENTITY addAccountDialog.accountName.label "Account Name:">
-<!ENTITY addAccountDialog.noAccountText "We're sorry, but the current version of &brandShortName; only allows one account from each online storage service.">
-<!ENTITY addAccountDialog.createAccountText2 "You can send links to files instead of attachments using one of several online storage services. Please either set up an existing account, or sign up for a new account.">
-<!ENTITY addAccountDialog.authorizing "Checking authorization...">
-<!ENTITY addAccountDialog.error "An error occurred while setting up the account!">
-<!ENTITY addAccountDialog.acceptButton.label "Set up Account">
-<!ENTITY addAccountDialog.learnMore "Learn more…">
+<!ENTITY addAccountDialog.accountName.label "Nom du compte:">
+<!ENTITY addAccountDialog.noAccountText "Nous sommes désolés, mais la version actuelle de &brandShortName; autorise un seul compte pour chaque service de stockage en ligne.">
+<!ENTITY addAccountDialog.createAccountText2 "Au lieu des pièces jointes, vous pouvez envoyer les liens vers les fichiers en utilisant un service de stockage en ligne. Merci de créer un compte ou d'utiliser un compte existant.">
+<!ENTITY addAccountDialog.authorizing "Verficiation de l'autorisation...">
+<!ENTITY addAccountDialog.error "Une erreur est survenur pendant le paramétrage du compte!">
+<!ENTITY addAccountDialog.acceptButton.label "Paramétrer le compte">
+<!ENTITY addAccountDialog.learnMore "En savoir plus…">
