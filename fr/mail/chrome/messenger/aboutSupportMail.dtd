@@ -21,6 +21,6 @@
 
 <!ENTITY aboutSupport.miscTitle "Miscellaneous">
 
-<!ENTITY aboutSupport.appBasicsLicenseName "License Name">
-<!ENTITY aboutSupport.ageInDays "Days In Use">
-<!ENTITY aboutSupport.pbState "State">
+<!ENTITY aboutSupport.appBasicsLicenseName "Numéro de Licence">
+<!ENTITY aboutSupport.ageInDays "Jours d'utilisation">
+<!ENTITY aboutSupport.pbState "Etat">
