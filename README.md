@@ -23,9 +23,10 @@
 <li>main interface - all of it's windows, folder names, button names, etc.</li>
 <li>every menu and sub-menu</li>
 <li>every Preference panel and sub panel</li>
-<li>look through the localization files themselves to find untranslated texts</li>
+<li>look through the .dtd localization files themselves to find untranslated texts</li>
 </ul>
-<li>Once you see an untranslated string, search your language directory for the files that contain that string. (Please be sure that you are localizing within the correct directory, as we have several languages!) <br /><br />Typically you would work out of and search through the mail directory for your language. For example, if you are Italian, you would work out of this directory:<br /><em><br />localizations directory &gt; it &gt; mail<br /><br /></em></li>
+<li><strong>ALL LOCALIZATION FILES ARE IN .DTD FILES!</strong></li>
+<LI>Once you see an untranslated string, search your language directory for the .dtd files that contain that string. (Please be sure that you are localizing within the correct directory, as we have several languages!) <br /><br />Typically you would work out of and search through the mail directory for your language. For example, if you are Italian, you would work out of this directory:<br /><em><br />localizations directory &gt; it &gt; mail<br /><br /></em></li>
 <li>Change the string(s) and save your work in Atom.</li>
 </ol>
 <p><strong><span class="wysiwyg-font-size-large">What and What NOT To Translate</span></strong></p>
@@ -40,6 +41,7 @@
 <li><strong>true / false </strong>- several entities have values like true or false - these are actually used to effect the behavior and are not strings to translate.</li>
 <li><strong>Product URLs </strong>- urls to Postbox product pages such as release notes, the start page, etc.</li>
 <li><strong>Numbers</strong> - if the string is just a number like 900 or 900ch or 900em do not translate it.</li>
+<li><strong>License Blocks at the top of .dtd files</strong> - do not translate the Mozilla license block text at the top of every .dtd file.</li>
 </ul>
 <p> <strong><span class="wysiwyg-font-size-large">How to Submit Changes</span></strong></p>
 <ol>
