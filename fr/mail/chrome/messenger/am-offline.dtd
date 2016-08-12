@@ -39,6 +39,5 @@
 <!ENTITY browseFolder.label "Browse...">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "Sélectionner un fichier newsrc">
-<!ENTITY browseNewsrc.label "Browse...">
+<!ENTITY browseNewsrc.label "Parcourir...">
 <!ENTITY browseNewsrc.accesskey "e">
-
