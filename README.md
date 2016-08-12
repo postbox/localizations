@@ -1,4 +1,4 @@
-<p><strong><span class="wysiwyg-font-size-large">Help us Translate Postbox 5! It's Easy!</span></strong></p>
+<H2><span class="wysiwyg-font-size-large">Instructions for Translators</span></h2>
 <p>We've open-sourced our translations, so that anyone can help with untranslated texts, and suggest changes to existing translations too.</p>
 <p>Languages currently being translated include: German, French, Spanish (Spain), English (British), Italian, Dutch, Portuguese (Brazilian), Russian, and Swedish.</p>
 <p><strong><span class="wysiwyg-font-size-large">Postbox 5 Translation Build</span></strong></p>
@@ -18,7 +18,7 @@
 <li>Go to the GitHub desktop application, and from the <em>Repository</em> menu select <em>Pull</em>.</li>
 <li>Find an editor that can search through a lot of files at once. We like using <a href="https://atom.io" target="_blank">Atom</a> (it's free!).</li>
 <li>Download and install the Postbox application, install a sample email account, then go to the File menu > Languages > select your language. Then restart Postbox.</li>
-<li>Look through Postbox's:
+<li><strong>Look through Postbox's:</strong>
 <ul>
 <li>main interface - all of it's windows, folder names, button names, etc.</li>
 <li>every menu and sub-menu</li>
@@ -47,3 +47,16 @@
 <li>In the lower left, provide a summary and description of the changes you've made, then click on the <em>Commit</em> button.</li>
 <li>Finally, click on the <em>Pull Request</em> button at the top, enter a title and/or description, then click the <em>Send Pull Request</em> button.</li>
 </ol>
+<h2>Instructions for Reviewers</h2>
+<p>Once a pull request has been submitted you can review the changes to ensure that the translations are correct.</p>
+<p>Click on the pull request tab, and then select a pull request to review.</p>
+<img src="http://postbox-images.s3.amazonaws.com/github/pull-request@2x.png" width="50%">
+<p>In ALL CAPS, please mark the pull request as follows:
+<ul>
+<li>APPROVED</li>
+<li>INCOMPLETE</li>
+<li>CORRECTIONS NEEDED</li>
+</ul>
+<p>If a correction is needed, please suggest the correction along with the line number.</p>
+
+
