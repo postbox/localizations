@@ -131,3 +131,5 @@
 <!ENTITY showNextMessage.label          "Folgende Nachricht">
 <!ENTITY showPreviousMessage.label      "Vorherige Nachricht">
 <!ENTITY deleteSelectOrder.label        "Nach dem Löschen einer Nachricht auswählen:">
+
+<!ENTITY itemQuickPost.label     "Quick Post">

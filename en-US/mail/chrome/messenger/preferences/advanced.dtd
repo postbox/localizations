@@ -3,6 +3,7 @@
 <!ENTITY itemNetworking.label    "Network &amp; Disk Space">
 <!ENTITY itemCertificates.label  "Certificates">
 <!ENTITY itemWebServices.label   "Web Services">
+<!ENTITY itemQuickPost.label     "Quick Post">
 
 <!-- General Settings -->
 
