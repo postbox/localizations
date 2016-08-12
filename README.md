@@ -40,7 +40,7 @@
 <li><strong>true / false </strong>- several entities have values like true or false - these are actually used to effect the behavior and are not strings to translate.</li>
 <li><strong>Product URLs </strong>- urls to Postbox product pages such as release notes, the start page, etc.</li>
 <li><strong>Numbers</strong> - if the string is just a number like 900 or 900ch or 900em do not translate it.</li>
-<li><strong>License Blocks at the top of .dtd files</strong> - do not translate the Mozilla license block text at the top of every .dtd file.</li>
+<li><strong>License Blocks at the top of .dtd files</strong> - do not translate the "Mozilla license" block text if you see any at the top of a .dtd file.</li>
 </ul>
 <p> <strong><span class="wysiwyg-font-size-large">How to Submit Changes</span></strong></p>
 <ol>
