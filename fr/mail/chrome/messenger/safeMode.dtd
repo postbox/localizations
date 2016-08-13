@@ -62,7 +62,7 @@ avec une ou plusieurs options de résolution des problèmes sélectionnées:">
 <!ENTITY profileManager.label                   "Ouvrir le gestionnaire de profil au redémarrage.">
 <!ENTITY profileManager.accesskey               "P">
 
-<!ENTITY protocolLogging.label                   "Créer un journal des protocols">
+<!ENTITY protocolLogging.label                   "Créer un journal des protocoles">
 <!ENTITY protocolLogging.accesskey               "L">
 
 
