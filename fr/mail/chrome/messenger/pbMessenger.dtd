@@ -376,16 +376,16 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pbContentTextContextMenu-postboxSearch.accesskey  "P">
-<!ENTITY pbContentTextContextMenu-postboxSearch.label      "Search in Postbox">
+<!ENTITY pbContentTextContextMenu-postboxSearch.label      "Rechercher dans Postbox">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbTopicContextMenu-delete.label       "Delete">
+<!ENTITY pbTopicContextMenu-delete.label       "Supprimer">
 <!ENTITY pbTopicContextMenu-delete.accesskey   "d">
-<!ENTITY pbTopicContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbTopicContextMenu-assignColor.label  "Définir la couleur du sujet">
 <!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
 
 
@@ -393,8 +393,8 @@ entities below were automatically added by l10nmerge
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY reminderButton.label "Reminder">
-<!ENTITY removeReminderButton.tooltip "Mark the selected messages as not reminders">
-<!ENTITY reminderButton.tooltip "Mark the selected messages as reminders">
-<!ENTITY newReminderMenuitem.label "Create a new Reminder">
-<!ENTITY insertImageEditMsgToolbarCmd.tooltip        "Insert new image or edit selected image's properties">
+<!ENTITY reminderButton.label "Rappel">
+<!ENTITY removeReminderButton.tooltip "Supprimer les rappels pour les messages selectionnés">
+<!ENTITY reminderButton.tooltip "Définir des rappels pour les messages sélectionnés">
+<!ENTITY newReminderMenuitem.label "Créer un nouveau rappel">
+<!ENTITY insertImageEditMsgToolbarCmd.tooltip        "insérer une nouvelle image ou modifier les paramètres de l'image selecitonnée">

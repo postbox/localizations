@@ -49,7 +49,7 @@
 
 <!ENTITY enterLicenseTitle.style "">
 <!ENTITY invalidLicenseVersion.style "">
-<!ENTITY validationTitle.style "font-size: 10px;">
+<!ENTITY validationTitle.style "Taille de la police: 10px;">
 <!ENTITY thanksTitle.style "">
 <!ENTITY invalidLicense.style "">
 <!ENTITY enterLicenseInfo.style "">
