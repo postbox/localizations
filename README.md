@@ -16,7 +16,7 @@
 </ol>
 <p> <strong><span class="wysiwyg-font-size-large">How to Translate</span></strong></p>
 <ol>
-<li>Go to the GitHub desktop application, and from the <em>Repository</em> menu select <em>Pull</em>.</li>
+<li>Go to the GitHub desktop application, and on Mac, select <em>Pull</em> from the <em>Repository</em> menu and on Windows click the <em>Sync</em> button.</li>
 <li>Find an editor that can search through a lot of files at once. We like using <a href="https://atom.io" target="_blank">Atom</a> (it's free!).</li>
 <li>Download and install the Postbox application, install a sample email account, then go to the File menu > Languages > select your language. Then restart Postbox.</li>
 <li><strong>Look through Postbox's:</strong>
