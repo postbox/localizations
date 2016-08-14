@@ -3,7 +3,8 @@
 <p>Languages currently being translated include: German, French, Spanish (Spain), English (British), Italian, Dutch, Portuguese (Brazilian), Russian, and Swedish.</p>
 <p><strong><span class="wysiwyg-font-size-large">Postbox 5 Translation Build</span></strong></p>
 <p>Please download and install this special Mac translation build, which contains all of the languages specified above:</p>
-<p><a href="http://postbox-downloads.s3.amazonaws.com/mac/postbox-5.0b1-mac64-translate.dmg" target="_blank">Postbox 5 Mac OS X Translation Build</a></p>
+<p><a href="http://postbox-downloads.s3.amazonaws.com/mac/postbox-5.0b1-mac64-translate.dmg" target="_blank">Mac OS X Translation Build</a><br>
+<a href="http://postbox-downloads.s3.amazonaws.com/win/postbox-5.0b3-win32.exe">Windows Translation Build</a></p>
 <p>Note: we currently do not have a Windows beta available yet.</p>
 <p><strong><span class="wysiwyg-font-size-large">Getting Started</span></strong></p>
 <ol>
@@ -48,7 +49,7 @@
 <li>In the lower left, provide a summary and description of the changes you've made, then click on the <em>Commit</em> button.</li>
 <li>When performing a Pull Request, be sure that you prefix it with the language you are localizing, for example "RU - ". This way the reviewers will know when a pull request has been made in their language.</li>
 <li>Finally, click on the <em>Pull Request</em> button at the top, enter a title and/or description, then click the <em>Send Pull Request</em> button.</li>
-</ol>
+<li>Please make one "commit" per file, and one "pull request" per day.</ol>
 <h2>Instructions for Reviewers</h2>
 <p>Once a pull request has been submitted you can review the changes to ensure that the translations are correct.</p>
 <p>Click on the pull request tab, and then select a pull request to review.</p>
