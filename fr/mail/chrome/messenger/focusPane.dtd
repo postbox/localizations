@@ -52,22 +52,22 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY focusPaneSocialAttribute.label            "Social">
-<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Ouvrir dans un nouvel onglet">
 <!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.accesskey "N">
 <!ENTITY pbFavoriteContactsContextMenu-openInNewTab.accesskey "N">
-<!ENTITY focusPaneNotToDoAttribute.label           "Not Reminders">
-<!ENTITY focusPaneRepliedAttribute.label           "Replied">
+<!ENTITY focusPaneNotToDoAttribute.label           "Supprimer le rappel">
+<!ENTITY focusPaneRepliedAttribute.label           "Répondu">
 <!ENTITY pbFavoriteContactsContextMenu-edit.accesskey   "d">
-<!ENTITY focusPaneToDoAttribute.label              "Reminders">
-<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY focusPaneToDoAttribute.label              "Rappel">
+<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Ouvrir dans un nouvel onglet">
 <!ENTITY pbFavoriteContactsContextMenu-createfilter.accesskey "F">
 <!ENTITY pbFavoriteTopicsContextMenu-assignColor.accesskey "S">
-<!ENTITY focusPaneNotRepliedAttribute.label           "Not Replied">
-<!ENTITY focusPaneNotPendingAttribute.label        "Not Pending">
+<!ENTITY focusPaneNotRepliedAttribute.label           "Non répondu">
+<!ENTITY focusPaneNotPendingAttribute.label        "Plus en attente">
 <!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
-<!ENTITY focusPaneSubscriptionsAttribute.label     "Subscriptions">
-<!ENTITY focusPanePendingAttribute.label           "Pending">
-<!ENTITY focusPaneToMeOnlyAttribute.label          "To Me Only">
-<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Set Topic Color">
-<!ENTITY focusPaneReadAttribute.label           "Read">
+<!ENTITY focusPaneSubscriptionsAttribute.label     "Abonnements">
+<!ENTITY focusPanePendingAttribute.label           "En attente">
+<!ENTITY focusPaneToMeOnlyAttribute.label          "Seulement pour moi">
+<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Définir les couleurs du sujet">
+<!ENTITY focusPaneReadAttribute.label           "Lire">
 <!ENTITY pbFavoriteContactsContextMenu-email.accesskey  "C">

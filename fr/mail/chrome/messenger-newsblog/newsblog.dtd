@@ -2,5 +2,5 @@
 <!ENTITY folderContextRSSSubscribe.label    "Index des messages">
 <!ENTITY folderContextRSSSubscribe.accesskey   "I">
 
-<!ENTITY pbAccountTreeContextRSSSubscribe.label "Subscriptions">
+<!ENTITY pbAccountTreeContextRSSSubscribe.label "Abonnements">
 <!ENTITY pbAccountTreeContextRSSSubscribe.accesskey "b">
