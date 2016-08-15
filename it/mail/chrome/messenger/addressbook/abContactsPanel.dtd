@@ -1,7 +1,7 @@
 <!ENTITY addressbookPicker.label            "Rubrica:">
-<!ENTITY addressbookPicker.accesskey        "R">
-<!ENTITY searchInput.label                  "Cerca:">
-<!ENTITY searchInput.accesskey              "e">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchInput.label                  "Ricerca:">
+<!ENTITY searchInput.accesskey              "o">
 <!ENTITY SearchNameOrEmail.label            "Nome o e-mail">
 
 <!ENTITY addtoToFieldMenu.label             "Aggiungi al campo A">
@@ -11,6 +11,6 @@
 <!ENTITY toButton.label                     "Aggiungi a A:">
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "Aggiungi a Cc:">
-<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY ccButton.accesskey                 "d">
 <!ENTITY bccButton.label                    "Aggiungi a Ccn:">
-<!ENTITY bccButton.accesskey                "n">
+<!ENTITY bccButton.accesskey                "B">

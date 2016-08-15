@@ -37,22 +37,21 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Lista di distribuzione">
+<!ENTITY mailListWindow.title           "Mailing list">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Aggiungi a: ">
 
-<!ENTITY ListName.label                 "Nome della lista: ">
-<!ENTITY ListNickName.label             "Soprannome: ">
+<!ENTITY ListName.label                 "Nome lista: ">
+<!ENTITY ListNickName.label             "Soprannome lista: ">
 <!ENTITY ListDescription.label          "Descrizione: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Inserire gli indirizzi e-mail per aggiungerli alla lista di distribuzione:">
-<!ENTITY RemoveButton.label             "Remove">
+<!ENTITY AddressTitle.label             "Inserisci gli indirizzi e-mail per aggiungerli alla mailing list:">
+<!ENTITY RemoveButton.label             "Rimuovi">
 <!ENTITY UpButton.label                 "Sposta in alto">
 <!ENTITY DownButton.label               "Sposta in basso">
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "N">
-<!ENTITY ListNickName.accesskey         "S">
-<!ENTITY ListDescription.accesskey      "D">
-
+<!ENTITY ListName.accesskey             "L">
+<!ENTITY ListNickName.accesskey         "N">
+<!ENTITY ListDescription.accesskey      "e">

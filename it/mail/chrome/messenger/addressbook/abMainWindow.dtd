@@ -5,15 +5,15 @@
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Nuovo">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newCard.label                                  "Address Book Card...">
+<!ENTITY newCard.label                                  "Contatto rubrica...">
 <!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newCard.accesskey                              "C">
 <!ENTITY newCard.key                                    "N">
-<!ENTITY newListCmd.label                               "Lista di distribuzione…">
+<!ENTITY newListCmd.label                               "Mailing list…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newListCmd.accesskey                           "L">
+<!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "Rubrica…">
-<!ENTITY newAddressBookCmd.accesskey                    "R">
+<!ENTITY newAddressBookCmd.accesskey                    "B">
 <!ENTITY newLDAPDirectoryCmd.label                      "Rubrica remota LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
@@ -26,91 +26,91 @@
 <!ENTITY closeCmd.label                                 "Chiudi">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "C">
-<!ENTITY printSetupCmd.label                            "Imposta pagina…">
-<!ENTITY printSetupCmd.accesskey                        "p">
-<!ENTITY printPreviewCardViewCmd.label                  "Print Preview Card">
+<!ENTITY printSetupCmd.label                            "Impostazioni pagina…">
+<!ENTITY printSetupCmd.accesskey                        "u">
+<!ENTITY printPreviewCardViewCmd.label                  "Anteprima di stampa contatto">
 <!ENTITY printPreviewCardViewCmd.accesskey              "v">
-<!ENTITY printPreviewAddressBook.label                  "Anteprima rubrica">
-<!ENTITY printPreviewAddressBook.accesskey              "u">
-<!ENTITY printCardViewCmd.label                         "Print Card...">
-<!ENTITY printCardViewCmd.accesskey                     "P">
+<!ENTITY printPreviewAddressBook.label                  "Anteprima di stampa rubrica">
+<!ENTITY printPreviewAddressBook.accesskey              "B">
+<!ENTITY printCardViewCmd.label                         "Stampa contatto...">
+<!ENTITY printCardViewCmd.accesskey                     "p">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
 <!ENTITY printCardViewCmd.key                           "P">
-<!ENTITY printAddressBook.label                         "Stampa rubrica indirizzi…">
-<!ENTITY printAddressBook.accesskey                     "m">
+<!ENTITY printAddressBook.label                         "Stampa rubrica…">
+<!ENTITY printAddressBook.accesskey                     "A">
 
-<!ENTITY quitApplicationCmdWin.label                    "Esci"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "E">
-<!ENTITY quitApplicationCmd.label                       "Esci"> 
-<!ENTITY quitApplicationCmd.accesskey                   "E">
+<!ENTITY quitApplicationCmdWin.label                    "Esci">
+<!ENTITY quitApplicationCmdWin.accesskey                "x">
+<!ENTITY quitApplicationCmd.label                       "Chiudi">
+<!ENTITY quitApplicationCmd.accesskey                   "Q">
 <!ENTITY quitApplicationCmd.key "Q">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Modifica">
-<!ENTITY editMenu.accesskey                             "M">
+<!ENTITY editMenu.accesskey                             "E">
 <!ENTITY undoCmd.label                                  "Annulla">
 <!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "u">
+<!ENTITY undoCmd.accesskey                              "U">
 <!ENTITY redoCmd.label                                  "Ripeti">
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "R">
 <!ENTITY cutCmd.label                                   "Taglia">
 <!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "T">
+<!ENTITY cutCmd.accesskey                               "t">
 <!ENTITY copyCmd.label                                  "Copia">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "C">
 <!ENTITY pasteCmd.label                                 "Incolla">
-<!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "I">
+<!ENTITY pasteCmd.key                                   "C">
+<!ENTITY pasteCmd.accesskey                             "C">
 <!ENTITY deleteCmd.label                                "Elimina">
 <!ENTITY deleteCmd.key                                  "D">
-<!ENTITY deleteCmd.accesskey                            "E">
-<!ENTITY deleteAbCmd.label                              "Elimina Rubrica">
-<!ENTITY deleteCardCmd.label                            "Delete Card">
-<!ENTITY deleteCardsCmd.label                           "Delete Selected Cards">
+<!ENTITY deleteCmd.accesskey                            "D">
+<!ENTITY deleteAbCmd.label                              "Elimina rubrica">
+<!ENTITY deleteCardCmd.label                            "Elimina contatto">
+<!ENTITY deleteCardsCmd.label                           "Elimina contatti selezionati">
 <!ENTITY selectAllCmd.label                             "Seleziona tutto">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Scambia Nome/Cognome">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "m">
+<!ENTITY selectAllCmd.accesskey                         "A">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Inverti Nome/Cognome">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "vero">
 <!ENTITY propertiesCmd.label                            "Proprietà…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.accesskey                        "o">
+<!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Visualizza">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Barre degli strumenti">
-<!ENTITY viewToolbarsMenu.accesskey                     "t"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "T">
 <!ENTITY customizeToolbar.label                         "Personalizza…">
-<!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showCardPane.label                             "Card Summary Pane">
+<!ENTITY customizeToolbar.accesskey                     "C">
+<!ENTITY showCardPane.label                             "Pannello di riepilogo contatto">
 <!ENTITY showCardPane.accesskey                         "C">
 <!ENTITY menu_ShowNameAs.label                          "Mostra nomi come">
-<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!ENTITY firstLastCmd.label                             "Nome, Cognome">
-<!ENTITY firstLastCmd.accesskey                         "N"> 
+<!ENTITY firstLastCmd.accesskey                         "F">
 <!ENTITY lastFirstCmd.label                             "Cognome, Nome">
-<!ENTITY lastFirstCmd.accesskey                         "C">
+<!ENTITY lastFirstCmd.accesskey                         "L">
 <!ENTITY displayNameCmd.label                           "Nome visualizzato">
-<!ENTITY displayNameCmd.accesskey                       "v">
+<!ENTITY displayNameCmd.accesskey                       "D">
 <!ENTITY sortMenu.label                                 "Ordina per">
-<!ENTITY sortMenu.accesskey                             "O">
+<!ENTITY sortMenu.accesskey                             "S">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Strumenti">
-<!ENTITY tasksMenu.accesskey                            "S">
-<!ENTITY messengerCmd.label                             "Posta e gruppi di discussione">
-<!ENTITY messengerCmd.accesskey                         "g">
+<!ENTITY tasksMenu.accesskey                            "T">
+<!ENTITY messengerCmd.label                             "E-mail e Newsgroup">
+<!ENTITY messengerCmd.accesskey                         "M">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Cerca indirizzi…">
-<!ENTITY searchAddressesCmd.accesskey                   "C">
+<!ENTITY searchAddressesCmd.label                       "Ricerca indirizzi…">
+<!ENTITY searchAddressesCmd.accesskey                   "S">
 <!ENTITY importCmd.label                                "Importa…">
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Esporta…">
@@ -119,41 +119,41 @@
 <!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferenze">
-<!ENTITY preferencesCmdUnix.accesskey                   "P"> 
+<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Help Menu -->
-<!ENTITY helpMenu.label                                 "Help">
+<!ENTITY helpMenu.label                                 "Aiuto">
 <!ENTITY helpMenu.accesskey                             "H">
-<!ENTITY releaseCmd.label                               "Note di Versione">
-<!ENTITY releaseCmd.accesskey                           "r">
-<!ENTITY hintsAndTips.label                             "&brandShortName; Help">
+<!ENTITY releaseCmd.label                               "Note di rilascio">
+<!ENTITY releaseCmd.accesskey                           "R">
+<!ENTITY hintsAndTips.label                             "Aiuto &brandShortName;">
 <!ENTITY hintsAndTips.accesskey                         "H">
 <!ENTITY hintsAndTipsMac.commandkey                     "?">
-<!ENTITY aboutCmd.label                                 "About &brandShortName;">
+<!ENTITY aboutCmd.label                                 "Su &brandShortName;">
 <!ENTITY aboutCmd.accesskey                             "A">
 
-<!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "New Card">
+<!-- Address Book Toolbar and Context Menus -->
+<!ENTITY newcardButton.label                            "Nuovo contatto">
 <!ENTITY newcardButton.accesskey                        "C">
 <!ENTITY newlistButton.label                            "Nuova lista">
-<!ENTITY newlistButton.accesskey                        "l">
+<!ENTITY newlistButton.accesskey                        "L">
 <!ENTITY editButton.label                               "Proprietà">
-<!ENTITY editButton.accesskey                           "P">
+<!ENTITY editButton.accesskey                           "W">
 <!ENTITY newmsgButton.label                             "Scrivi">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Messaggio istantaneo">
-<!ENTITY newIM.accesskey                                "M">
+<!ENTITY newIM.accesskey                                "I">
 <!ENTITY deleteButton.label                             "Elimina">
-<!ENTITY deleteButton.accesskey                         "E">
+<!ENTITY deleteButton.accesskey                         "D">
 <!ENTITY throbberItem.title                             "Indicatore di attività">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "Create a new address book card">
+<!ENTITY newcardButton.tooltip                          "Crea un nuovo contatto in rubrica">
 <!ENTITY newlistButton.tooltip                          "Crea una nuova lista">
-<!ENTITY editButton.tooltip                             "Edit the selected card">
-<!ENTITY newmsgButton.tooltip                           "Invia un messaggio di posta">
+<!ENTITY editButton.tooltip                             "Modifica il contatto selezionato">
+<!ENTITY newmsgButton.tooltip                           "Invia un messaggio e-mail">
 <!ENTITY newIM.tooltip                                  "Invia un messaggio istantaneo o avvia la chat">
-<!ENTITY deleteButton.tooltip                           "Delete selected card or address book">
+<!ENTITY deleteButton.tooltip                           "Elimina il contatto o la rubrica selezionati">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Rubriche">
@@ -161,7 +161,7 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nome o e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY advancedButton.tooltip                         "Ricerca avanzata">
+<!ENTITY advancedButton.tooltip                         "Ricerca avanzata indirizzo">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Ricerca veloce">
 
@@ -169,51 +169,51 @@
 <!ENTITY GeneratedName.label                            "Nome">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">
-<!ENTITY PrimaryEmail.accesskey                         "m">
-<!ENTITY ScreenName.label                               "Nome Instant Messenger">
-<!ENTITY ScreenName.accesskey                           "g">
+<!ENTITY PrimaryEmail.accesskey                         "E">
+<!ENTITY ScreenName.label                               "Nome da visualizzare">
+<!ENTITY ScreenName.accesskey                           "S">
 <!ENTITY Company.label                                  "Organizzazione">
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Soprannome">
-<!ENTITY NickName.accesskey                             "S">
+<!ENTITY NickName.accesskey                             "i">
 <!ENTITY SecondEmail.label                              "E-mail aggiuntiva">
-<!ENTITY SecondEmail.accesskey                          "i">
-<!ENTITY Department.label                               "Reparto">
-<!ENTITY Department.accesskey                           "R">
+<!ENTITY SecondEmail.accesskey                          "l">
+<!ENTITY Department.label                               "Ufficio">
+<!ENTITY Department.accesskey                           "r">
 <!ENTITY JobTitle.label                                 "Titolo">
 <!ENTITY JobTitle.accesskey                             "T">
 <!ENTITY CellularNumber.label                           "Cellulare">
-<!ENTITY CellularNumber.accesskey                       "e">
-<!ENTITY PagerNumber.label                              "Cerca persone">
-<!ENTITY PagerNumber.accesskey                          "p">
+<!ENTITY CellularNumber.accesskey                       "M">
+<!ENTITY PagerNumber.label                              "Cercapersone">
+<!ENTITY PagerNumber.accesskey                          "P">
 <!ENTITY FaxNumber.label                                "Fax">
 <!ENTITY FaxNumber.accesskey                            "F">
 <!ENTITY HomePhone.label                                "Telefono casa">
-<!ENTITY HomePhone.accesskey                            "a">
+<!ENTITY HomePhone.accesskey                            "H">
 <!ENTITY WorkPhone.label                                "Telefono lavoro">
-<!ENTITY WorkPhone.accesskey                            "l">
+<!ENTITY WorkPhone.accesskey                            "W">
 <!ENTITY sortAscending.label                            "Crescente">
-<!ENTITY sortAscending.accesskey                        "C">
+<!ENTITY sortAscending.accesskey                        "A">
 <!ENTITY sortDescending.label                           "Decrescente">
 <!ENTITY sortDescending.accesskey                       "D">
 <!ENTITY _PhoneticName.label                            "Nome fonetico">
 <!ENTITY _PhoneticName.accesskey                        "o">
 
 <!-- Results pane context menu -->
-<!ENTITY composeEmail.label                             "Compose Email To">
+<!ENTITY composeEmail.label                             "Scrivi e-mail a">
 <!ENTITY composeEmail.accesskey                         "C">
 <!ENTITY deleteAddrBookCard.label                       "Elimina">
-<!ENTITY deleteAddrBookCard.accesskey                   "E">
-<!ENTITY newAddrBookCard.label                          "New Card...">
+<!ENTITY deleteAddrBookCard.accesskey                   "D">
+<!ENTITY newAddrBookCard.label                          "Nuovo contatto...">
 <!ENTITY newAddrBookCard.accesskey                      "N">
-<!ENTITY newAddrBookMailingList.label                   "New Mailing List...">
+<!ENTITY newAddrBookMailingList.label                   "Nuova Mailing List...">
 <!ENTITY newAddrBookMailingList.accesskey               "M">
 <!ENTITY addrBookCardProperties.label                   "Proprietà">
-<!ENTITY addrBookCardProperties.accesskey               "P">
+<!ENTITY addrBookCardProperties.accesskey               "p">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "Contatto">
+<!ENTITY contact.heading                                "Contatti">
 <!ENTITY home.heading                                   "Casa">
 <!ENTITY other.heading                                  "Altro">
 <!ENTITY phone.heading                                  "Telefono">
@@ -222,15 +222,15 @@
 <!ENTITY description.heading                            "Descrizione">
 <!ENTITY addresses.heading                              "Indirizzi">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Mostra mappa">
-<!ENTITY mapIt.tooltip                                  "Mostra questo indirizzo sulla mappa via web">
+<!ENTITY mapItButton.label                              "Ottieni mappa">
+<!ENTITY mapIt.tooltip                                  "Mostra una mappa di questo indirizzo dal web">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label "">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Finestra">
-<!ENTITY minimizeWindow.label "Minimizza">
+<!ENTITY minimizeWindow.label "Riduci">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Portare tutto in primo piano">
+<!ENTITY bringAllToFront.label "Porta tutto in primo piano">
 <!ENTITY zoomWindow.label "Ingrandisci">

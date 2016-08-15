@@ -35,7 +35,7 @@
 <!ENTITY preferencesCmdUnix.label       "Preferenze">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
 
-<!ENTITY findTypeTextCmd.label "Trova Testo Mentre Scrivi">
+<!ENTITY findTypeTextCmd.label "Trova testo mentre digiti">
 <!ENTITY findTypeTextCmd.accesskey "T">
 
 <!ENTITY viewMenu.label          "Visualizza">
@@ -62,7 +62,7 @@
 <!ENTITY closeCmd.key      "W">
 <!ENTITY closeCmd.accesskey    "h">
 
-<!ENTITY closeWindow.label "Chiudi Finestra">
+<!ENTITY closeWindow.label "Chiudi finestra">
 
 <!ENTITY quitApplicationCmd.label  "Esci">
 <!ENTITY quitApplicationCmd.key    "Q">

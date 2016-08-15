@@ -1,4 +1,4 @@
-<!ENTITY itemFormatting.label             "Formato">
+<!ENTITY itemFormatting.label             "Formattazione">
 <!ENTITY itemTags.label                   "Etichette">
 
 <!ENTITY style.label                      "Stile:">
@@ -7,7 +7,7 @@
 <!ENTITY bold.label                       "Grassetto">
 <!ENTITY italic.label                     "Corsivo">
 <!ENTITY boldItalic.label                 "Grassetto corsivo">
-<!ENTITY size.label                       "Dimensione:">
+<!ENTITY size.label                       "Dimensioni:">
 <!ENTITY size.accesskey                   "s">
 <!ENTITY regularSize.label                "Regolare">
 <!ENTITY bigger.label                     "Più grande">
@@ -20,7 +20,7 @@
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Etichetta">
-<!ENTITY tagActiveColumn.label    "Favorite">
+<!ENTITY tagActiveColumn.label    "Preferito">
 <!ENTITY addTagButton.label       "Aggiungi">
 <!ENTITY addTagButton.accesskey   "A">
 <!ENTITY editTagButton.label      "Modifica">
@@ -29,15 +29,15 @@
 <!ENTITY removeTagButton.accesskey "E">
 
 <!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Fonts">
-<!ENTITY defaultFont.label       "Default font:">
+<!ENTITY fontsAndColors.label    "Caratteri">
+<!ENTITY defaultFont.label       "Carattere predefinito:">
 <!ENTITY defaultFont.accesskey   "D">
-<!ENTITY defaultSize.label       "Size:">
+<!ENTITY defaultSize.label       "Dimensioni:">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "z">
 <!ENTITY fontOptions.label       "Avanzate…">
 
-<!ENTITY pb.messagelist.colortagrow.label "Apply the topic color to the entire row in the message list pane">
+<!ENTITY pb.messagelist.colortagrow.label "Applica il colore argomento all'intera riga nel pannello lista messaggi">
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">
 
 <!-- conversation preferences -->
@@ -50,7 +50,7 @@
 <!ENTITY pb.conversations.sortoldest.label "Prima i messaggi meno recenti">
 <!ENTITY pb.conversations.sortnewest.label "Prima i messaggi più recenti">
 
-<!ENTITY pb.conversations.read.label "Quando si visualizza una conversazione, contrassegnare i suoi messaggi come già letti">
+<!ENTITY pb.conversations.read.label "Quando visualizzi una conversazione, contrassegnare i suoi messaggi come già letti">
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Includi le foto dei contatti per ogni partecipante alla conversazione">
 <!ENTITY pb.conversations.photos.accesskey "I">
@@ -60,12 +60,12 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
+<!ENTITY pbChromeFontSize.label           "Dimensioni caratteri Elenco messaggi e Cartelle:">
 <!ENTITY useRetina.label             "Retina Display">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pb.itemGeneral.label        "General">
+<!ENTITY pbChromeFontSizeMedium.label     "Medie">
+<!ENTITY pbChromeFontSizeSmall.label      "Piccole">
+<!ENTITY pbChromeFontSizeLarge.label      "Grandi">
+<!ENTITY pb.itemGeneral.label        "Generale">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 
@@ -73,20 +73,20 @@ entities below were automatically added by l10nmerge
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY quotedColor2.label "Quoted color, level 2">
-<!ENTITY devPixelsPerPx.label        "High DPI scaling:">
+<!ENTITY quotedColor2.label "Colore citazione, livello 2">
+<!ENTITY devPixelsPerPx.label        "Ingrandimento High DPI:">
 <!ENTITY devPixelsPerPx.accesskey    "D">
-<!ENTITY quotedColor5.label "Quoted color, level 5">
-<!ENTITY quotedColors.label "Quoted colors, levels 1 to 5:">
-<!ENTITY quotedColor1.label "Quoted color, level 1">
-<!ENTITY quotedColor3.label "Quoted color, level 3">
-<!ENTITY quotedColor4.label "Quoted color, level 4">
+<!ENTITY quotedColor5.label "Colore citazione, livello 5">
+<!ENTITY quotedColors.label "Colori citazione, livelli da 1 a 5:">
+<!ENTITY quotedColor1.label "Colore citazione, livello 1">
+<!ENTITY quotedColor3.label "Colore citazione, livello 3">
+<!ENTITY quotedColor4.label "Colore citazione, livello 4">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY devPixelsPerPx.default      "Default">
+<!ENTITY devPixelsPerPx.default      "Predefinito">
 <!ENTITY devPixelsPerPx.highdpi      "High DPI">
 <!ENTITY devPixelsPerPx.lowdpi       "Low DPI">

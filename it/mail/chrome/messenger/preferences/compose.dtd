@@ -1,10 +1,10 @@
 <!ENTITY itemGeneral.label                   "Generale">
 <!ENTITY itemAutoComplete.label              "Indirizzi">
 <!ENTITY itemSpellCheck.label                "Ortografia">
-<!ENTITY itemSendFormat.label                "Send Format">
+<!ENTITY itemSendFormat.label                "Invia formato">
 <!ENTITY itemSignatures.label                "Firme">
 
-<!ENTITY forwardReply.label                   "Forwarding Messages">
+<!ENTITY forwardReply.label                   "Inoltro messaggi">
 <!ENTITY forwardMsg.label                     "Inoltra i messaggi:">
 <!ENTITY forwardMsg.accesskey                 "I">
 <!ENTITY inline.label                         "nel corpo del messaggio">
@@ -21,7 +21,7 @@
 <!ENTITY restoreHTMLDefaults.label            "Ripristina predefiniti">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY sendingMessagesHeader.label          "Composing Messages">
+<!ENTITY sendingMessagesHeader.label          "Composizione messaggi">
 <!ENTITY spellCheck.label                     "Controlla ortografia prima di inviare">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Attiva il controllo ortografico durante la digitazione">
@@ -30,7 +30,7 @@
 <!ENTITY languagePopup.accessKey              "L">
 <!ENTITY downloadDictionaries.label           "Scarica altri dizionari">
 
-<!ENTITY autoSave.label                       "Salvataggio automatico ogni">
+<!ENTITY autoSave.label                       "Salva automaticamente ogni">
 <!ENTITY autoSave.accesskey                   "v">
 <!ENTITY autoSaveEnd.label                    "minuti">
 
@@ -39,17 +39,17 @@
 <!ENTITY autocompleteText.label                "Durante la scrittura dell'indirizzo controlla le corrispondenze in:">
 <!ENTITY addressingEnable.label                "Rubriche locali">
 <!ENTITY addressingEnable.accesskey            "u">
-<!ENTITY directories.label                     "Rubrica remota:">
+<!ENTITY directories.label                     "Cartella server:">
 <!ENTITY directories.accesskey                 "R">
 <!ENTITY editDirectories.label                 "Modifica cartelle...">
 <!ENTITY editDirectories.accesskey             "M">
-<!ENTITY matchText.label                       "If there is a match in your local address books:">
-<!ENTITY skipDirectory.label                   "Do not search in the directory">
+<!ENTITY matchText.label                       "Se è presente una corrispondenza nelle tue rubriche locali:">
+<!ENTITY skipDirectory.label                   "Non cercare nella cartella">
 
 <!ENTITY sendOptions.label                     "Opzioni di invio...">
 <!ENTITY sendOptions.accesskey                 "d">
 
-<!ENTITY attachmentReminder.label              "Verificare gli allegati mancanti">
+<!ENTITY attachmentReminder.label              "Controlla gli allegati mancanti">
 <!ENTITY attachmentReminder.accesskey          "m">
 <!ENTITY attachmentReminderOptions.label       "Parole chiave...">
 <!ENTITY attachmentReminderOptions.accesskey   "K">
@@ -63,11 +63,11 @@
 <!ENTITY addSignatureButton.accesskey   "N">
 <!ENTITY editSignatureButton.label      "Modifica">
 <!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY removeSignatureButton.label    "Cancellare">
+<!ENTITY removeSignatureButton.label    "Elimina">
 <!ENTITY removeSignatureButton.accesskey "l">
 
-<!ENTITY pbItemAdvanced.label "Avanzato">
-<!ENTITY pb.quotingConversationsSortOrder.label "Al momento di riassumere, cita:">
+<!ENTITY pbItemAdvanced.label "Avanzate">
+<!ENTITY pb.quotingConversationsSortOrder.label "Quando riassumi, cita:">
 <!ENTITY pb.quotingConversationsSortOrderOldest.label "Prima i messaggi meno recenti">
 <!ENTITY pb.quotingConversationsSortOrderNewest.label "Prima i messaggi più recenti">
 <!ENTITY pb.QuickReply.label "Risposta rapida predefinita:">
@@ -76,8 +76,8 @@
 <!ENTITY pb.quickreply.replyall.accesskey "e">
 <!ENTITY pb.quickreply.reply.label "Rispondi">
 <!ENTITY pb.quickreply.reply.accesskey "y">
-<!ENTITY pbNumConversationsToQuote.label "In risposta includere al massimo">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "messaggi al riepilogo">
+<!ENTITY pbNumConversationsToQuote.label "Includi al massimo">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "messaggi quando riassumi o rispondi">
 
 <!ENTITY pbDefaultFonSize.label                           "default">
 
@@ -97,14 +97,14 @@
 -->
 
 <!ENTITY pbQuoteOnQuickReply.accesskey "m">
-<!ENTITY pbQuoteOnQuickReply.label "Citare il messaggio nella risposta rapida">
+<!ENTITY pbQuoteOnQuickReply.label "Cita il messaggio nella Risposta rapida">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbEnableDropbox.label "Invia i link quando si allegano file nella cartella Dropbox">
+<!ENTITY pbEnableDropbox.label "Invia i link quando alleghi file nella tua cartella Dropbox">
 
 
 <!--
@@ -118,28 +118,28 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbCharactersGoal.label "Character Count">
-<!ENTITY pbStopwatchGoal.label "Stopwatch">
-<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
-<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
-<!ENTITY pbWordsGoal.label "Word Count">
-<!ENTITY pbMinutes.label "minutes">
-<!ENTITY pbAt.label "at">
-<!ENTITY sourceView.label "Code View:">
-<!ENTITY pbWords.label "words">
+<!ENTITY pbCharactersGoal.label "Conteggio caratteri">
+<!ENTITY pbStopwatchGoal.label "Cronometro">
+<!ENTITY addSignatureDelimiters.label "Aggiungi un delimitatore sopra la firma">
+<!ENTITY pbSetCompositionGoals.label "Imposta obiettivi di composizione utilizzando">
+<!ENTITY pbWordsGoal.label "Conteggio parole">
+<!ENTITY pbMinutes.label "minuti">
+<!ENTITY pbAt.label "a">
+<!ENTITY sourceView.label "Visualizzazione codice:">
+<!ENTITY pbWords.label "parole">
 <!ENTITY sourceView.accesskey "C">
-<!ENTITY pbCharacters.label "characters">
+<!ENTITY pbCharacters.label "caratteri">
 
-<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">
+<!ENTITY pbURLAutoComplete.label "Abilita autocompletamento URL">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY messageSizeWarning.label "Warn me if the message size is above">
+<!ENTITY messageSizeWarning.label "Avvisami se le dimensioni del messaggio sono sopra">
 <!ENTITY megabytes.label "MB">
 
-<!ENTITY imageOrientation.label "Image Orientation:">
-<!ENTITY accordingToEXIF.label "Rotate images according to EXIF data">
+<!ENTITY imageOrientation.label "Orientamento immagine:">
+<!ENTITY accordingToEXIF.label "Ruota immagini in base ai dati EXIF">
 <!ENTITY accordingToEXIF.accesskey "o">

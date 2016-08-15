@@ -35,25 +35,25 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label           "Proprietà rubrica remota">
+<!ENTITY newDirectoryTitle.label           "Proprietà directory server">
 <!ENTITY directoryName.label               "Nome: ">
 <!ENTITY directoryName.accesskey           "o">
 <!ENTITY directoryHostname.label           "Nome host: ">
 <!ENTITY directoryHostname.accesskey       "h">
-<!ENTITY directoryBaseDN.label             "Dominio base: ">
+<!ENTITY directoryBaseDN.label             "Base DN: ">
 <!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Trova">
 <!ENTITY findButton.accesskey              "v">
 <!ENTITY directorySecure.label             "Utilizza connessione sicura (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
-<!ENTITY directoryLogin.label              "DN associato: ">
+<!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "D">
-<!ENTITY advancedOptionsButton.label       "Advanced Options">
+<!ENTITY advancedOptionsButton.label       "Opzioni avanzate">
 <!ENTITY advancedOptionsButton.accesskey   "A">
 <!ENTITY General.tab                       "Generale">
-<!ENTITY Offline.tab                       "Non in linea">
+<!ENTITY Offline.tab                       "offline">
 <!ENTITY Advanced.tab                      "Avanzate">
-<!ENTITY advancedOptionsTitle.label        "Advanced Options">
+<!ENTITY advancedOptionsTitle.label        "Opzioni avanzate">
 <!ENTITY portNumber.label                  "Numero porta: ">
 <!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "Filtro di ricerca: ">
@@ -64,11 +64,11 @@
 <!ENTITY scopeOneLevel.accesskey           "l">
 <!ENTITY scopeSubtree.label                "Tutti i sottolivelli">
 <!ENTITY scopeSubtree.accesskey            "T">
-<!ENTITY return.label                      "Non visualizzare più di">
+<!ENTITY return.label                      "Non restituire più di">
 <!ENTITY return.accesskey                  "N">
 <!ENTITY results.label                     "risultati">
-<!ENTITY offlineText.label                 "È possibile scaricare una copia locale di questa cartella, in modo da renderla disponibile anche in modalità non in linea.">
-<!-- Localization note: this is here because the width of the dialog 
+<!ENTITY offlineText.label                 "Puoi scaricare una copia locale di questa directory, così sarà disponibile anche in modalità offline.">
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->

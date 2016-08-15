@@ -6,10 +6,10 @@
 
 <!-- General Settings -->
 
-<!ENTITY showCondensedAddresses.label  "Mostra solo il &quot;nome visualizzato&quot; per i contatti presenti nella rubrica">
+<!ENTITY showCondensedAddresses.label  "Mostra solo il &quot;nome visualizzato&quot; per i contatti presenti nella mia rubrica">
 <!ENTITY showCondensedAddresses.accesskey "o">
 
-<!ENTITY autoMarkAsRead.label          "Marca automaticamente i messaggi come letti">
+<!ENTITY autoMarkAsRead.label          "Contrassegna automaticamente i messaggi come letti">
 <!ENTITY autoMarkAsRead.accesskey      "u">
 <!ENTITY markAsReadNoDelay.label       "Appena visualizzati">
 <!ENTITY markAsReadNoDelay.accesskey   "A">
@@ -19,9 +19,9 @@
 <!ENTITY markAsReadDelay.label         "Dopo averli visualizzati per">
 <!ENTITY markAsReadDelay.accesskey     "D">
 <!ENTITY secondsLabel.label            "secondi">
-<!ENTITY showFolderColumns.label       "Mostra colonne ampliate nel riquadro delle cartelle">
+<!ENTITY showFolderColumns.label       "Mostra colonne espanse nel pannello cartelle">
 <!ENTITY showFolderColumns.accesskey   "l">
-<!ENTITY rememberLastMsg.label         "Ricorda l'ultimo messaggio selezionato ">
+<!ENTITY rememberLastMsg.label         "Ricorda l'ultimo messaggio selezionato">
 <!ENTITY rememberLastMsg.accesskey     "b">
 <!ENTITY openMsgIn1.label              "I nuovi messaggi devono essere aperti in:">
 <!ENTITY openMsgInNewTab.label          "una nuova scheda">
@@ -33,10 +33,10 @@
 <!ENTITY connectionTimeout.label       "Timeout di connessione: ">
 <!ENTITY connectionTimeout.accesskey   "C">
 <!ENTITY connectionSeconds.label       "secondi">
-<!ENTITY configEditDesc.label          "Impostazioni avanzate">
+<!ENTITY configEditDesc.label          "Configurazione avanzata">
 <!ENTITY configEdit.label              "Editor di configurazione…">
 <!ENTITY configEdit.accesskey          "o">
-<!ENTITY returnReceiptsInfo.label      "Determina come &brandShortName; gestisce le ricevute di ritorno">
+<!ENTITY returnReceiptsInfo.label      "Determina come &brandShortName; deve gestire le ricevute di ritorno">
 <!ENTITY showReturnReceipts.label      "Ricevute di ritorno…">
 <!ENTITY showReturnReceipts.accesskey  "R">
 <!ENTITY macEnableSpotlight.label      "Attiva Integrazione Spotlight">
@@ -48,12 +48,12 @@
 <!ENTITY enableAddonsUpdate.label       "Componenti aggiuntivi installati">
 <!ENTITY enableAddonsUpdate.accesskey   "C">
 <!ENTITY checkNow.label                 "Controlla ora">
-<!ENTITY whenUpdatesFound.label         "Quando viene trovato un aggiornamento per &brandShortName;:">
-<!ENTITY modeAskMe.label                "Chiedi che cosa fare">
+<!ENTITY whenUpdatesFound.label         "Quando è disponibile un aggiornamento per &brandShortName;:">
+<!ENTITY modeAskMe.label                "Chiedimi che cosa fare">
 <!ENTITY modeAskMe.accesskey            "e">
-<!ENTITY modeAutomatic.label            "Scarica ed installa automaticamente l'aggiornamento">
+<!ENTITY modeAutomatic.label            "Scarica e installa automaticamente l'aggiornamento">
 <!ENTITY modeAutomatic.accesskey        "S">
-<!ENTITY modeAutoAddonWarn.label        "Avvisa se verranno disattivati dei componenti aggiuntivi">
+<!ENTITY modeAutoAddonWarn.label        "Avvisa se verranno disattivati alcuni tra i miei componenti aggiuntivi">
 <!ENTITY modeAutoAddonWarn.accesskey    "A">
 <!ENTITY showUpdates.label              "Mostra cronologia aggiornamenti">
 <!ENTITY showUpdates.accesskey          "M">
@@ -62,31 +62,31 @@
 <!ENTITY showConnections.label         "Connessione...">
 <!ENTITY showConnections.accesskey     "n">
 
-<!ENTITY offlineCompact.label "Compatta le cartelle solo se si guadagnano più di ">
+<!ENTITY offlineCompact.label "Comprimi le cartelle se lo spazio risparmiato è maggiore di ">
 <!ENTITY offlineCompact.accesskey "C">
 <!ENTITY kb.label "kB">
 
 <!-- Certificates -->
 <!ENTITY certSelection.label "Quando un server richiede il mio certificato:">
-<!ENTITY certs.auto                      "Selezionane uno automaticamente">
+<!ENTITY certs.auto                      "Seleziona certificato automaticamente">
 <!ENTITY certs.ask                       "Chiedi ogni volta">
 
-<!ENTITY viewCertificates.label         "Mostra certificati">
+<!ENTITY viewCertificates.label         "visualizza certificati">
 <!ENTITY viewCertificates.accesskey     "M">
 <!ENTITY viewCRLs.label                 "Elenchi di revoca">
 <!ENTITY viewCRLs.accesskey             "E">
-<!ENTITY viewOCSP.label                 "Verification">
+<!ENTITY viewOCSP.label                 "Verifica">
 <!ENTITY viewOCSP.accesskey             "f">
 <!ENTITY viewSecurityDevices.label      "Dispositivi di sicurezza">
 <!ENTITY viewSecurityDevices.accesskey  "D">
 
 <!-- Web Services -->
-<!ENTITY webservicesInfo.label          "Configura i servizi web utilizzati all'interno Postbox.">
+<!ENTITY webservicesInfo.label          "Configura i servizi web utilizzati all'interno di Postbox.">
 
-<!ENTITY textStartUp   "Quando si avvia:">
+<!ENTITY textStartUp   "Durante l'avvio:">
 <!ENTITY radioRememberPrevState "Ricorda il precedente stato online">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe "Chiedimi stato online all'avvio">
+<!ENTITY radioAskMe "Chiedimi lo stato online all'avvio">
 <!ENTITY radioAskMe.accesskey "u">
 <!ENTITY radioAlwaysOnline "Avvia sempre online">
 <!ENTITY radioAlwaysOnline.accesskey "l">
@@ -94,10 +94,10 @@
 <!ENTITY textGoingOnline1 "Quando vai online:">
 <!ENTITY radioAutoSend1 "Invia i messaggi non inviati">
 <!ENTITY radioNotSend1 "Non inviare i messaggi non inviati">
-<!ENTITY radioAskUnsent1 "Chiedi di inviare messaggi non inviati">
+<!ENTITY radioAskUnsent1 "Chiedi se inviare messaggi non inviati">
 
-<!ENTITY textGoingOffline "Scarica i messaggi per l'utilizzo offline quando vai offline?">
-<!ENTITY radioAutoDownload "Si">
+<!ENTITY textGoingOffline "Scaricare i messaggi per l'utilizzo offline quando passi in modalità offline?">
+<!ENTITY radioAutoDownload "Sì">
 <!ENTITY radioAutoDownload.accesskey "e">
 <!ENTITY radioNotDownload "No">
 <!ENTITY radioNotDownload.accesskey "o">
@@ -120,15 +120,15 @@
 -->
 
 <!ENTITY pbUseGoogleCalendar.label "Utilizza Google Calendar per le date rilevate.">
-<!ENTITY pbNextMessage.label "Seleziona Prossimo messaggio">
-<!ENTITY pbPreviousMessage.label "Seleziona Messaggio precedente">
-<!ENTITY pbSwipeLeft.label "Sfoglia a sinistra:">
-<!ENTITY pbCloseFolderPane.label "Chiudi Riquadro cartella">
-<!ENTITY pbOpenFolderPane.label "Apri Riquadro cartella">
+<!ENTITY pbNextMessage.label "Seleziona messaggio successivo">
+<!ENTITY pbPreviousMessage.label "Seleziona messaggio precedente">
+<!ENTITY pbSwipeLeft.label "Swipe a sinistra:">
+<!ENTITY pbCloseFolderPane.label "Chiudi Pannello cartella">
+<!ENTITY pbOpenFolderPane.label "Apri Pannello cartella">
 <!ENTITY pbArchiveMessage.label "Archivia messaggio">
 <!ENTITY pbDeleteMessage.label "Elimina messaggio">
 <!ENTITY pbOpenMessage.label "Apri messaggio">
-<!ENTITY pbSwipeRight.label "Sfoglia a destra:">
+<!ENTITY pbSwipeRight.label "Swipe a destra:">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
 
 
@@ -136,6 +136,6 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY showNextMessage.label          "Prossimo messaggio">
+<!ENTITY showNextMessage.label          "Messaggio successivo">
 <!ENTITY showPreviousMessage.label      "Messaggio precedente">
-<!ENTITY deleteSelectOrder.label        "Dopo l'eliminazione di un messaggio seleziona il:">
+<!ENTITY deleteSelectOrder.label        "Dopo l'eliminazione di un messaggio seleziona:">
