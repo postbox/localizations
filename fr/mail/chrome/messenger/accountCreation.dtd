@@ -109,7 +109,7 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY important.label "IMPORTANT:">
-<!ENTITY learnMore.label "Learn more...">
+<!ENTITY learnMore.label "En savoir plus...">
 
 
 <!--
@@ -117,5 +117,5 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pb.displayname.label "Description:">
-<!ENTITY displayname.placeholder         "Work, Personal, etc.">
+<!ENTITY displayname.placeholder         "Travail, Personnel, etc">
 <!ENTITY displayname.accesskey           "D">

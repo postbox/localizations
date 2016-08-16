@@ -16,14 +16,14 @@
 <!ENTITY importFromNothing.label        "Ne rien importer">
 <!ENTITY importFromNothing.accesskey    "N">
 
-<!ENTITY welcome.title                  "Welcome to &brandShortName;">
+<!ENTITY welcome.title                  "Bienvenue &brandShortName;">
 <!ENTITY tagline.label                  "A Better Way To Do Email">
 <!ENTITY thanks.label                   "Merci d'avoir essayé &brandShortName;!">
 <!ENTITY quickStart1.label              "Voir le ">
-<!ENTITY quickStart2.label              "Guide de démarrage"> 
+<!ENTITY quickStart2.label              "Guide de démarrage">
 <!ENTITY quickStart3.label              " pour connaître toutes les fonctionnalités.">
 <!ENTITY start.label                    "Commencer à utiliser &brandShortName;">
-    
+
 <!ENTITY migration.title                "Assistant de migration de compte">
 <!ENTITY migrationMac.title             "Assistant de migration de compte">
 <!ENTITY importOptions.title            "Options d'importation">
@@ -64,4 +64,4 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY cleanInstall.accesskey  	"C">
-<!ENTITY cleanInstall.label             "Clean install (recommended)">
+<!ENTITY cleanInstall.label             "Installation rapide (recommandée)">
