@@ -47,7 +47,8 @@
 <ol>
 <li>Within the GitHub application, click on the <em>Changes</em> or <em>Uncommitted Changes</em> tab at the top the application window. Here you will see all of the changes that you have made.</li>
 <li>Please do ONE commit PER FILE. In the lower left, provide a summary and description of the changes you've made, then click on the <em>Commit</em> button.</li>
-<li>When performing a Pull Request, be sure that you prefix it with the language you are localizing, for example "RU - ". This way the reviewers will know when a pull request has been made in their language.</li>
+<li>Click the Sync button in the upper right to send the commit to the server</li>
+<li>When you are ready for a review, do a Pull Request, and prefix the description with the language you are localizing, for example "RU - ". This way the reviewers will know when a pull request has been made in their language.</li>
 <li>Finally, click on the <em>Pull Request</em> button at the top, enter a title and/or description, then click the <em>Send Pull Request</em> button.</li>
 <li>Please make one "commit" per file, and one "pull request" per day.</ol>
 <h2>Instructions for Reviewers</h2>
