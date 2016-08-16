@@ -20,7 +20,7 @@
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Etikett">
-<!ENTITY tagActiveColumn.label    "Favorite">
+<!ENTITY tagActiveColumn.label    "Favorit">
 <!ENTITY addTagButton.label       "Lägg till">
 <!ENTITY addTagButton.accesskey   "L">
 <!ENTITY editTagButton.label      "Redigera">
@@ -29,30 +29,30 @@
 <!ENTITY removeTagButton.accesskey "T">
 
 <!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Fonts">
-<!ENTITY defaultFont.label       "Default font:">
+<!ENTITY fontsAndColors.label    "Teckensnitt">
+<!ENTITY defaultFont.label       "Förinställt teckensnitt:">
 <!ENTITY defaultFont.accesskey   "D">
-<!ENTITY defaultSize.label       "Size:">
+<!ENTITY defaultSize.label       "Storlek:">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "Avancerat…">
 
-<!ENTITY pb.messagelist.colortagrow.label "Apply the topic color to the entire row in the message list pane">
+<!ENTITY pb.messagelist.colortagrow.label "Tillämpa ämnesfärgen på hela raden i medddelandelistans panel">
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">
 
 <!-- conversation preferences -->
-<!ENTITY pb.itemConversation.label        "Conversations">
-<!ENTITY pb.conversations.display.label "Include messages from:">
-<!ENTITY pb.conversations.folderonly.label1 "The current folder">
-<!ENTITY pb.conversations.all.label1 "Every folder">
+<!ENTITY pb.itemConversation.label        "Samtal">
+<!ENTITY pb.conversations.display.label "Inkludera meddelanden från:">
+<!ENTITY pb.conversations.folderonly.label1 "Den aktiva mappen">
+<!ENTITY pb.conversations.all.label1 "Alla mappar">
 
-<!ENTITY pb.conversations.sortorder.label "Order conversations by:">
-<!ENTITY pb.conversations.sortoldest.label "Oldest messages first">
-<!ENTITY pb.conversations.sortnewest.label "Newest messages first">
+<!ENTITY pb.conversations.sortorder.label "Sortera samtalen utifrån:">
+<!ENTITY pb.conversations.sortoldest.label "Äldsta meddelanden först">
+<!ENTITY pb.conversations.sortnewest.label "Senaste meddelanden först">
 
-<!ENTITY pb.conversations.read.label "When displaying a converation, mark its messages as read">
+<!ENTITY pb.conversations.read.label "Vid visning av ett samtal, markera dess meddelanden som lästa">
 <!ENTITY pb.conversations.read.accesskey "c">
-<!ENTITY pb.conversations.photos.label "Include contact photos for each participant in the conversation">
+<!ENTITY pb.conversations.photos.label "Inkludera bilder på kontakter för alla deltagare i samtalet">
 <!ENTITY pb.conversations.photos.accesskey "I">
 
 
@@ -60,12 +60,12 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
-<!ENTITY useRetina.label             "Retina Display">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pb.itemGeneral.label        "General">
+<!ENTITY pbChromeFontSize.label           "Teckensnittets storlek för meddelandelista och mapp:">
+<!ENTITY useRetina.label             "Retina-visning">
+<!ENTITY pbChromeFontSizeMedium.label     "Medel">
+<!ENTITY pbChromeFontSizeSmall.label      "Liten">
+<!ENTITY pbChromeFontSizeLarge.label      "Stor">
+<!ENTITY pb.itemGeneral.label        "Allmän">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 
@@ -73,20 +73,20 @@ entities below were automatically added by l10nmerge
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY quotedColor2.label "Quoted color, level 2">
-<!ENTITY devPixelsPerPx.label        "High DPI scaling:">
+<!ENTITY quotedColor2.label "Angiven färg, nivå 2">
+<!ENTITY devPixelsPerPx.label        "Hög DPI-skalning:">
 <!ENTITY devPixelsPerPx.accesskey    "D">
-<!ENTITY quotedColor5.label "Quoted color, level 5">
-<!ENTITY quotedColors.label "Quoted colors, levels 1 to 5:">
-<!ENTITY quotedColor1.label "Quoted color, level 1">
-<!ENTITY quotedColor3.label "Quoted color, level 3">
-<!ENTITY quotedColor4.label "Quoted color, level 4">
+<!ENTITY quotedColor5.label "Angiven färg, nivå 5">
+<!ENTITY quotedColors.label "Angiven färg, nivåer 1 till 5:">
+<!ENTITY quotedColor1.label "Angiven färg, nivå 1">
+<!ENTITY quotedColor3.label "Angiven färg, nivå 3">
+<!ENTITY quotedColor4.label "Angiven färg, nivå 4">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY devPixelsPerPx.default      "Default">
-<!ENTITY devPixelsPerPx.highdpi      "High DPI">
-<!ENTITY devPixelsPerPx.lowdpi       "Low DPI">
+<!ENTITY devPixelsPerPx.default      "Förinställd">
+<!ENTITY devPixelsPerPx.highdpi      "Hög DPI">
+<!ENTITY devPixelsPerPx.lowdpi       "Låg DPI">
