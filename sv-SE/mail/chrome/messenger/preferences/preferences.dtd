@@ -7,8 +7,8 @@
 
 <!ENTITY paneGeneral.title        "Allmänt">
 <!ENTITY paneDisplay.title        "Visa">
-<!ENTITY paneTags.title           "Topics">
+<!ENTITY paneTags.title           "Ämnen">
 <!ENTITY paneComposition.title    "Skriva">
 <!ENTITY paneAttachments.title    "Bilagor">
-<!ENTITY panePrivacy.title        "Privacy">
+<!ENTITY panePrivacy.title        "Integritet">
 <!ENTITY paneAdvanced.title       "Avancerat">
