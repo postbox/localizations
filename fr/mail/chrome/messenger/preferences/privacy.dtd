@@ -38,4 +38,4 @@
 <!ENTITY pbPrivacy.label "Confidentialité:">
 <!ENTITY pbJunkMail.label "Indésirables:">
 <!ENTITY pbPasswords.label "Mots de passe:">
-<!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in Account Settings.">
+<!ENTITY pbJunkMail.intro "Note: Les paramètres de spam propres au compte peuvent être configurés dans les paramètres de comptes.">
