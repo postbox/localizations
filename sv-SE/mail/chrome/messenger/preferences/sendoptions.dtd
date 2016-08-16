@@ -9,7 +9,7 @@
 <!ENTITY sendHTML.accesskey           "S">
 <!ENTITY sendBoth.label               "Skicka meddelandet både som vanlig text och i HTML">
 <!ENTITY sendBoth.accesskey           "x">
-<!ENTITY receiveHTML.label            "If you know a particular recipient can receive HTML mail, uncheck the 'Send email as plain text (no HTML)' checkbox on the recipient's Address Book card.">
+<!ENTITY receiveHTML.label            "Avmarkera kryssrutan för att 'Skicka e-post som oformaterad text (ingen HTML)' på mottagarens adressbokskort om du vet att en särskild mottagare kan ta emot HTML.">
 <!ENTITY override.label               "Notera: Använd Adressboken för att specificera textformat för olika mottagare.">
 
 <!ENTITY domaindesc.label             "När meddelanden skickas till adresser med någon av nedanstående domännamn kommer &brandShortName; att automatiskt skicka meddelandet i rätt format.">
@@ -33,7 +33,7 @@
 
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY domainnameError.title        "Domännamnsfel">
-<!ENTITY duplicationError.label       "The domain name @string@ already exists in this list.">
+<!ENTITY duplicationError.label       "Domännamnet @string@ finns redan i denna listan.">
 
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "A domain name cannot appear in both the HTML and Plain Text lists. The domain name @string@ already exists.">
+<!ENTITY dualEntryError.label         "Ett domännamn kan inte förekomma både i listan för HTML och oformaterad text. Domännamnet @string@ finns redan.">
