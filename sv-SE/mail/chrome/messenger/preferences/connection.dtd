@@ -2,9 +2,9 @@
 <!ENTITY  window.width                   "39.5em">
 
 <!ENTITY  proxyTitle.label              "Ange proxy för anslutning till Internet">
-<!ENTITY  noProxyTypeRadio.label        "No proxy">
+<!ENTITY  noProxyTypeRadio.label        "Ingen proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
+<!ENTITY  systemTypeRadio.label         "Använd systemets proxyinställningar">
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Automatisk identifiering av proxyinställningar">
 <!ENTITY  WPADTypeRadio.accesskey       "e">
