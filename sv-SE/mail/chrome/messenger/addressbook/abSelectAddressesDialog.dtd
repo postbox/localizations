@@ -36,32 +36,31 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY selectAddressWindow.title           "Select Addresses">
+<!ENTITY selectAddressWindow.title           "Välj adresser">
 
 <!-- Buttons -->
-<!ENTITY toButton.label                      "To->">
+<!ENTITY toButton.label                      "Till->">
 <!ENTITY toButton.accesskey                  "T">
 <!ENTITY ccButton.label                      "Cc->">
 <!ENTITY ccButton.accesskey                  "C">
 <!ENTITY bccButton.label                     "Bcc->">
 <!ENTITY bccButton.accesskey                 "B">
-<!ENTITY newButton.label                     "New...">
+<!ENTITY newButton.label                     "Ny...">
 <!ENTITY newButton.accesskey                 "N">
-<!ENTITY editButton.label                    "Edit...">
+<!ENTITY editButton.label                    "Redigera...">
 <!ENTITY editButton.accesskey                "E">
-<!ENTITY removeButton.label                  "Remove">
+<!ENTITY removeButton.label                  "Ta bort">
 <!ENTITY removeButton.accesskey              "R">
-<!ENTITY lookIn.label                        "Look in:">
+<!ENTITY lookIn.label                        "Leta i:">
 <!ENTITY lookIn.accesskey                    "L">
-<!ENTITY for.label                           "for:">
+<!ENTITY for.label                           "för:">
 <!ENTITY for.accesskey                       "f">
-<!ENTITY clearButton.label                   "Clear">
+<!ENTITY clearButton.label                   "Rensa">
 <!ENTITY clearButton.accesskey               "a">
-<!ENTITY stopButton.label                    "Stop">
-<!ENTITY addressMessageTo.label              "Address message to:">
+<!ENTITY stopButton.label                    "Stopp">
+<!ENTITY addressMessageTo.label              "Adressmeddelande till:">
 
 <!-- Tooltips items -->
-<!ENTITY addressPickerSearchButton.tooltip   "Search the selected address book">
-<!ENTITY addressPickerNewButton.tooltip      "Create a new address book card">
-<!ENTITY addressPickerEditButton.tooltip     "Edit the selected card">
-
+<!ENTITY addressPickerSearchButton.tooltip   "Sök i den valda adressboken">
+<!ENTITY addressPickerNewButton.tooltip      "Skapa ett nytt adressbokskort">
+<!ENTITY addressPickerEditButton.tooltip     "Redigera det valda kortet">
