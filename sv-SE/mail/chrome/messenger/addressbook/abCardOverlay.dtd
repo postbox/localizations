@@ -35,13 +35,13 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY chooseAddressBook.label                "Add to: ">
+<!ENTITY chooseAddressBook.label                "Lägg till i: ">
 <!ENTITY chooseAddressBook.accesskey            "A">
 
-<!ENTITY Contact.tab                     "Kontakt"> 
-<!ENTITY Name.box                        "Namn"> 
+<!ENTITY Contact.tab                     "Kontakt">
+<!ENTITY Name.box                        "Namn">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -50,13 +50,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName"> 
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName"> 
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Förnamn:">
 <!ENTITY NameField1.accesskey           "n">
@@ -82,10 +82,10 @@
 <!ENTITY ScreenName.label               "Skärmnamn:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "Allow remote images in HTML mail.">
+<!ENTITY allowRemoteContent.label       "Tillåt fjärrhämtade bilder i HTML-meddelanden.">
 <!ENTITY allowRemoteContent.accesskey   "g">
 
-<!ENTITY Phones.box                     "Phones">
+<!ENTITY Phones.box                     "Telefoner">
 <!ENTITY WorkPhone.label                "Arbete:">
 <!ENTITY WorkPhone.accesskey            "b">
 <!ENTITY HomePhone.label                "Hem:">
@@ -97,28 +97,28 @@
 <!ENTITY CellularNumber.label           "Mobil:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "Adress"> 
-<!ENTITY Home.box                       "Home"> 
-<!ENTITY HomeAddress.label              "Adress:"> 
-<!ENTITY HomeAddress2.label             ""> 
-<!ENTITY HomeCity.label                 "Ort:"> 
-<!ENTITY HomeState.label                "Delstat/Region:"> 
-<!ENTITY HomeZipCode.label              "Postnummer:"> 
+<!ENTITY Address.tab                    "Adress">
+<!ENTITY Home.box                       "Hem">
+<!ENTITY HomeAddress.label              "Adress:">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeCity.label                 "Ort:">
+<!ENTITY HomeState.label                "Delstat/Region:">
+<!ENTITY HomeZipCode.label              "Postnummer:">
 <!ENTITY HomeCountry.label              "Land:">
-<!ENTITY HomeWebPage.label              "Webbplats:"> 
-<!ENTITY Work.box                       "Arbete"> 
-<!ENTITY JobTitle.label                 "Titel:"> 
-<!ENTITY Department.label               "Avdelning:"> 
-<!ENTITY Company.label                  "Organisation:"> 
-<!ENTITY WorkAddress.label              "Adress:"> 
-<!ENTITY WorkAddress2.label             ""> 
-<!ENTITY WorkCity.label                 "Ort:"> 
-<!ENTITY WorkState.label                "Delstat/Region:"> 
-<!ENTITY WorkZipCode.label              "Postnummer:"> 
+<!ENTITY HomeWebPage.label              "Webbplats:">
+<!ENTITY Work.box                       "Arbete">
+<!ENTITY JobTitle.label                 "Titel:">
+<!ENTITY Department.label               "Avdelning:">
+<!ENTITY Company.label                  "Organisation:">
+<!ENTITY WorkAddress.label              "Adress:">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkCity.label                 "Ort:">
+<!ENTITY WorkState.label                "Delstat/Region:">
+<!ENTITY WorkZipCode.label              "Postnummer:">
 <!ENTITY WorkCountry.label              "Land:">
 <!ENTITY WorkWebPage.label              "Webbplats:">
 
-<!ENTITY Picture.tab                    "Picture">
+<!ENTITY Picture.tab                    "Bild">
 <!ENTITY locationEditField.label        "Bildens plats:">
 <!ENTITY locationEditField.accessKey    "L">
 <!ENTITY locationEditField.tooltip      "Ange bildens filnamn eller plats">
