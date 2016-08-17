@@ -1,9 +1,9 @@
 <!ENTITY pbMacroSearchPanel.width "600">
 
 <!ENTITY insertMacro.key "l">
-<!ENTITY insertMacro.modifiers "accel">
+<!ENTITY insertMacro.modifiers "ускоритель">
 
-<!ENTITY insertMacro.label "Quick Bar">
+<!ENTITY insertMacro.label "Панель быстрого доступа">
 
-<!ENTITY pbMacroSearchPanel.firstrunWin "When typing a URL, Postbox will autocomplete against the URLs from your emails. To disable URL autocompletion, go to Options > Composition > Advanced">
-<!ENTITY pbMacroSearchPanel.firstrunMac "When typing a URL, Postbox will autocomplete against the URLs from your emails. To disable URL autocompletion, go to Preferences > Composition > Advanced">
+<!ENTITY pbMacroSearchPanel.firstrunWin "При вводе URL-адреса программа Postbox будет автоматически дополнять его на основе адресов URL, найденных в сообщениях электронной почты. Чтобы отключить функцию автодополнения URL, выберите «Параметры > Составление > Дополнительно»">
+<!ENTITY pbMacroSearchPanel.firstrunMac "При вводе URL-адреса программа Postbox будет автоматически дополнять его на основе адресов URL, найденных в сообщениях электронной почты. Чтобы отключить функцию автодополнения URL, выберите «Настройки > Составление > Дополнительно»">
