@@ -25,7 +25,7 @@
 <!ENTITY resetIndexAllMessages.accesskey "R">
 <!ENTITY resetIndexMessagesInFolder.label "Réinitialiser ce dossier...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY updateCmd.label "Check for Updates…">
+<!ENTITY updateCmd.label "Recherche de mises à jour…">
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
@@ -167,7 +167,7 @@
 <!ENTITY listNumberedMsgToolbarCmd.label             "Numérotée">
 <!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
 <!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insérer du HTML ou éditer du HTML sélectionné">
-<!ENTITY switchBetweenNormalAndCode.tooltip          "Switch between Normal and Code views">
+<!ENTITY switchBetweenNormalAndCode.tooltip          "Alterner entre la vue normale et la vue du code">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Diminuer le retrait (vers la gauche)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Augmenter le retrait (vers la droite)">
 
