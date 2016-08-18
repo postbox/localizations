@@ -4,30 +4,30 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300">
 
-<!ENTITY activity.title                  "Activity Manager">
+<!ENTITY activity.title                  "Gerenciador de Atividades">
 
-<!ENTITY cmd.pause.label                  "Pause">
+<!ENTITY cmd.pause.label                  "Pausar">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Resume">
-<!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "Cancel">
+<!ENTITY cmd.resume.label                 "Continuar">
+<!ENTITY cmd.resume.accesskey             "n">
+<!ENTITY cmd.cancel.label                 "Cancelar">
 <!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.undo.label                   "Undo">
-<!ENTITY cmd.undo.accesskey               "U">
-<!ENTITY cmd.recover.label                "Recover">
-<!ENTITY cmd.recover.accesskey            "v">
-<!ENTITY cmd.retry.label                  "Retry">
-<!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.removeFromList.label         "Remove From List">
+<!ENTITY cmd.undo.label                   "Desfazer">
+<!ENTITY cmd.undo.accesskey               "D">
+<!ENTITY cmd.recover.label                "Recuperar">
+<!ENTITY cmd.recover.accesskey            "R">
+<!ENTITY cmd.retry.label                  "Tentar novamente">
+<!ENTITY cmd.retry.accesskey              "m">
+<!ENTITY cmd.removeFromList.label         "Remover da lista">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
-<!ENTITY cmd.clearList.label              "Clear List">
-<!ENTITY cmd.clearList.tooltip            "Removes completed, canceled, and failed items from the list">
-<!ENTITY cmd.clearList.accesskey          "C">
+<!ENTITY cmd.clearList.label              "Limpar lista">
+<!ENTITY cmd.clearList.tooltip            "Remove da lista itens completos, cancelados ou com falha">
+<!ENTITY cmd.clearList.accesskey          "L">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Search…">
+<!ENTITY searchBox.label                  "Pesquisar…">
