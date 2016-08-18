@@ -1,49 +1,49 @@
 
-<!ENTITY copyrightText          "&#169;2007-2014 Postbox, Inc. and Contributors. All Rights Reserved. Postbox
-                                 is developed and maintained by Postbox, Inc.">
+<!ENTITY copyrightText          "&#169;2007-2014 Postbox, Inc. and Contributors. Todos os direitos reservados. O Postbox
+                                 é desenvolvido e mantido pela empresa Postbox, Inc.">
 
 
 <!ENTITY aboutDialog.title          "Sobre o &brandFullName;">
 
-<!ENTITY productDescription.label    "Hand-crafted, and made with love, in San Francisco, California.">
+<!ENTITY productDescription.label    "Feito à mão e com amor em São Francisco, Califórnia.">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Licensing Information">
+<!ENTITY bottomLinks.license        "Informações de licenciamento">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Privacy Policy">
+<!ENTITY bottomLinks.privacy        "Política de Privacidade">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Checking for updates…">
+<!ENTITY update.checkingForUpdates  "Procurando atualizações…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.checkingAddonCompat "Verificando compatibilidade do Add-on…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; is up to date">
+<!ENTITY update.noUpdatesFound      "O &brandShortName; está atualizado">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Updates disabled by your system administrator">
+<!ENTITY update.adminDisabled       "Atualizações desabilitadas pelo administrador de sistema">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Update failed. ">
-<!ENTITY update.failed.linkText     "Download the latest version">
+<!ENTITY update.failed.start        "A atualização falhou ">
+<!ENTITY update.failed.linkText     "Baixe a versão mais recente">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Updates available at ">
+<!ENTITY update.manual.start        "Atualizações disponíveis em ">
 <!ENTITY update.manual.end          "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Downloading update — ">
+<!ENTITY update.downloading.start   "Baixando atualização — ">
 <!ENTITY update.downloading.end     "">
 
 
@@ -52,4 +52,4 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pb.safeMode.label "Running in Safe Mode">
+<!ENTITY pb.safeMode.label "Executando em Modo Seguro">
