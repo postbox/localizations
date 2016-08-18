@@ -2,14 +2,14 @@
 
 <!ENTITY accountManagerTitle.label "Configurar contas">
 
-<!ENTITY accountActionsButton.label "Account Actions">
+<!ENTITY accountActionsButton.label "Ações da conta">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Add Mail Account…">
+<!ENTITY addMailAccountButton.label "Adicionar conta de e-mail…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addRSSAccountButton.label "Add RSS Account…">
+<!ENTITY addRSSAccountButton.label "Adicionar conta RSS…">
 <!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
-<!ENTITY addNewsgroupAccountButton.accesskey "N">
+<!ENTITY addNewsgroupAccountButton.label "Adicionar conta de Newsgroup…">
+<!ENTITY addNewsgroupAccountButton.accesskey "n">
 <!ENTITY setDefaultButton.label "Definir como conta padrão">
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Excluir conta…">
@@ -38,6 +38,6 @@
 <!ENTITY pbAccountTree.width "width: 25ch;">
 
 <!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Add…">
-<!ENTITY pbAccountRemoveActionsButton.label "Remove">
+<!ENTITY pbAccountAddActionsButton.label "Adicionar…">
+<!ENTITY pbAccountRemoveActionsButton.label "Remover">
 <!ENTITY pbAccountRemoveActionsButton.accesskey "R">
