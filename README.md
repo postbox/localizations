@@ -11,7 +11,8 @@
 <li>Create a <a href="https://github.com" target="_blank">GitHub</a> account (if you do not already have one).</li>
 <li>Download and install the <a href="https://desktop.github.com" target="_blank">Mac</a> or <a href="https://desktop.github.com" target="_blank">Windows</a> GitHub apps, and then under <em>Settings</em>, log into your GitHub account.</li>
 <li>Visit our <a href="https://github.com/postbox/localizations" target="_blank">Postbox Localizations</a> project on GitHub, click on the <em>Fork</em> button in the upper right, then fork the repository to your account.</li>
-<li>On the <a href="https://github.com/postbox/localizations" target="_blank">Postbox Localizations</a> page, click on the <em>Clone or Download</em> button, then select <em>Open in Desktop</em>.<br /><br /><img src="http://postbox-images.s3.amazonaws.com/github/git-1.png" alt="" width="525" height="341" /><br /><br /></li>
+<li>In the upper right corner, click your profile button, and then select "Your profile", then click on the Repositories tab. Here you should see the forked repository, localizations. Click on localizations.</li>
+<li>Next, click on the <em>Clone or Download</em> button, then select <em>Open in Desktop</em>.<br /><br /><img src="http://postbox-images.s3.amazonaws.com/github/git-1.png" alt="" width="525" height="341" /><br /><br /></li>
 <li>Specify a directory to store the localization files.</li>
 </ol>
 <p> <strong><span class="wysiwyg-font-size-large">How to Translate</span></strong></p>
