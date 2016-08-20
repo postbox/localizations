@@ -30,25 +30,25 @@
 <!ENTITY place.accesskey                      "o">
 <!ENTITY belowText.label                      "efter citerad text (rekommenderas)">
 <!ENTITY aboveText.label                      "efter mitt svar (före citerad text)">
-<!ENTITY includeSigOnReply.label              "Include signature for replies">
+<!ENTITY includeSigOnReply.label              "Inkludera signatur vid svar">
 <!ENTITY includeSigOnReply.accesskey          "s">
-<!ENTITY includeSigOnForward.label            "Include signature for forwards">
+<!ENTITY includeSigOnForward.label            "Inkludera signatur vid vidarebefordringar">
 <!ENTITY includeSigOnForward.accesskey        "w">
 
 <!-- Postbox Summary Mode -->
-<!ENTITY pbSummarizeOnReply.label             "By">
+<!ENTITY pbSummarizeOnReply.label             "Genom">
 <!ENTITY pbSummarizeOnReply.accesskey         "y">
-<!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
-<!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
-<!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">
-<!ENTITY pbSummarizeOnReply.photos.label       "Include contact photos for each participant when summarizing">
+<!ENTITY pbSummarizeOnReply.normal.label      "citera valt meddelande">
+<!ENTITY pbSummarizeOnReply.summarize.label   "sammanfatta hela samtalet">
+<!ENTITY pbSummarizeOnReply.lastused.label    "använd den senaste inställningen">
+<!ENTITY pbSummarizeOnReply.photos.label       "Inkludera bilder på alla deltagare vid sammanfattning">
 <!ENTITY pbSummarizeOnReply.photos.accesskey   "I">
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY markNotInWhitelist.label             "Mark addresses not ending with:">
+<!ENTITY markNotInWhitelist.label             "Markera adresser som inte slutar med:">
 <!ENTITY markInTrustedList.accesskey          "d">
 <!ENTITY markNotInWhitelist.accesskey         "m">
-<!ENTITY markInTrustedList.label              "Mark addresses when sending to:">
+<!ENTITY markInTrustedList.label              "Markera adresser när utskick sker till:">
