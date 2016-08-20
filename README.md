@@ -15,6 +15,8 @@
 <li>Next, click on the <em>Clone or Download</em> button, then select <em>Open in Desktop</em>.<br /><br /><img src="http://postbox-images.s3.amazonaws.com/github/git-1.png" alt="" width="525" height="341" /><br /><br /></li>
 <li>Specify a directory to store the localization files.</li>
 </ol>
+<p>If you are setup correctly, your GitHub should look like this:</p>
+<img src="http://postbox-images.s3.amazonaws.com/github/fork@2x.png" width="50%">
 <p> <strong><span class="wysiwyg-font-size-large">How to Translate</span></strong></p>
 <ol>
 <li>Go to the GitHub desktop application, and on Mac, select <em>Pull</em> from the <em>Repository</em> menu and on Windows click the <em>Sync</em> button.</li>
@@ -49,7 +51,8 @@
 <ol>
 <li>Within the GitHub application, click on the <em>Changes</em> or <em>Uncommitted Changes</em> tab at the top the application window. Here you will see all of the changes that you have made.</li>
 <li>Please do ONE commit PER FILE. In the lower left, provide a summary and description of the changes you've made, then click on the <em>Commit</em> button.</li>
-<li>Click the Sync button in the upper right to send the commit to the server</li>
+<li>Click the Sync button in the upper right to send the commit to the server. You cannot do a pull request unless the files are synced.</li>
+<img src="http://postbox-images.s3.amazonaws.com/github/sync.png" width="100%">
 <li>When you are ready for a review, do a Pull Request, and prefix the description with the language you are localizing, for example "RU - ". This way the reviewers will know when a pull request has been made in their language.</li>
 <li>Finally, click on the <em>Pull Request</em> button at the top, enter a title and/or description, then click the <em>Send Pull Request</em> button.</li>
 <li>Please make one "commit" per file, and one "pull request" per day.</ol>
