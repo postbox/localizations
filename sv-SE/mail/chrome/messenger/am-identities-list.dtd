@@ -1,4 +1,4 @@
-<!ENTITY identitiesListTitle.label "Identities Associated With This Account">
+<!ENTITY identitiesListTitle.label "Identiteter som är associerade med detta konto">
 <!ENTITY identitiesListDesc.label "Stöd för flera identiteter">
 <!ENTITY identitiesListAdd.label  "Lägg till…">
 <!ENTITY identitiesListAdd.accesskey  "L">
