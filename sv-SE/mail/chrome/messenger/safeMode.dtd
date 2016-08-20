@@ -36,33 +36,33 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY changeAndRestartButton2.label     "Save and Restart">
+<!ENTITY changeAndRestartButton2.label     "Spara och starta om">
 <!ENTITY changeAndRestartButton2.accesskey "S">
 
 
 <!ENTITY safeModeOptionsWindow.width       "width: 49em;">
-<!ENTITY safeModeOptionsDialog.title       "&brandShortName; Trouble Shooting">
+<!ENTITY safeModeOptionsDialog.title       "&brandShortName; felsökning">
 
-<!ENTITY safeModeOptionsDescription2.label "If you are experiencing difficulty with Postbox, try restarting 
+<!ENTITY safeModeOptionsDescription2.label "If you are experiencing difficulty with Postbox, try restarting
 with one or more of these trouble shooting options selected:">
 
 
-<!ENTITY disableAddons.label              "Permamently Disable all Add-ons">
+<!ENTITY disableAddons.label              "Avaktivera alla tillägg permanent">
 <!ENTITY disableAddons.accesskey          "D">
 
-<!ENTITY resetToolbars.label              "Reset User Interface">
+<!ENTITY resetToolbars.label              "Återställ användargränssnitt">
 <!ENTITY resetToolbars.accesskey          "R">
 
-<!ENTITY resetIndex.label                 "Reset Search Index">
+<!ENTITY resetIndex.label                 "Återställ sökindex">
 <!ENTITY resetIndex.accesskey             "I">
 
-<!ENTITY safeMode.label                   "Safe Mode (temporarily disables all Add-ons and custom settings)">
+<!ENTITY safeMode.label                   "Säkert läge (avaktivera alla tillägg och egna inställningar temporärt)">
 <!ENTITY safeMode.accesskey               "M">
 
-<!ENTITY profileManager.label                   "Open Profile Manager on Restart">
+<!ENTITY profileManager.label                   "Öppna profilhanteraren vid omstart">
 <!ENTITY profileManager.accesskey               "P">
 
-<!ENTITY protocolLogging.label                   "Create Protocol Log File">
+<!ENTITY protocolLogging.label                   "Skapa loggfil för protokoll">
 <!ENTITY protocolLogging.accesskey               "L">
 
 
@@ -72,7 +72,7 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY resetImapFolders.accesskey       "b">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
-<!ENTITY resetImapFolders.label           "Reset IMAP mail database">
-<!ENTITY resetCacheAndIndex.label         "Reset Caches and Search Index">
-<!ENTITY safeModeDialogHelpButton.tooltip "Display online help for this dialog">
-<!ENTITY safeModeDialogHeader.label       "Troubleshooting">
+<!ENTITY resetImapFolders.label           "Återställ IMAP-databasen för e-post">
+<!ENTITY resetCacheAndIndex.label         "Återställ cachar och sökindex">
+<!ENTITY safeModeDialogHelpButton.tooltip "Visa online-hjälp för denna dialog">
+<!ENTITY safeModeDialogHeader.label       "Felsökning">
