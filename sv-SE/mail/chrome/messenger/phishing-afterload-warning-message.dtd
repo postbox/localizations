@@ -1,28 +1,28 @@
-<!ENTITY safeb.palm.warning.title "Suspected Web Forgery">
+<!ENTITY safeb.palm.warning.title "Misstänkt webbförfalskning">
 
-<!ENTITY safeb.palm.message.p1 "This page has been reported as a web forgery designed to trick users into sharing personal or financial information. Entering any personal information on this page may result in identity theft or other fraud. &#160;">
-<!ENTITY safeb.palm.message.p1.linkText "Read more &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "Read more &#133;">
+<!ENTITY safeb.palm.message.p1 "Denna sida har rapporterats som en webbförfalskning för att lura användare till att skriva in sin privata information eller bankuppgifter. Genom att skriva in privat information på denna sida så kan du råka ut för identitetsstöld eller annat bedrägeri. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Läs mer &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Läs mer &#133;">
 
-<!ENTITY safeb.palm.message.p2.start "These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust. You can find out more about ">
-<!ENTITY safeb.palm.message.p2.linkText "how &brandShortName; protects you">
-<!ENTITY safeb.palm.message.p2.end " from phishing attacks.">
+<!ENTITY safeb.palm.message.p2.start "Dessa slags webbförfalskningar används i bedrägerier kända som nätfiske, då bedrägliga hemsidor och e-postadresser används för att vinna ditt förtroende. Du kan få veta mer om ">
+<!ENTITY safeb.palm.message.p2.linkText "hur &brandShortName; skyddar dig">
+<!ENTITY safeb.palm.message.p2.end " mot nätfiske.">
 
-<!ENTITY safeb.palm.accept.label "Get me out of here!">
-<!ENTITY safeb.palm.accept.statustext "Navigate to my home page">
-<!ENTITY safeb.palm.decline.label "Ignore this warning">
-<!ENTITY safeb.palm.decline.statustext "Close warning" >
-<!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
-<!ENTITY safeb.palm.report.label "Why was this site blocked?">
+<!ENTITY safeb.palm.accept.label "Ta mig bort!">
+<!ENTITY safeb.palm.accept.statustext "Navigera till min hemsida">
+<!ENTITY safeb.palm.decline.label "Ignorera denna varning">
+<!ENTITY safeb.palm.decline.statustext "Stäng varning" >
+<!ENTITY safeb.palm.notforgery.label2 "Detta är inte en webbförfalskning…">
+<!ENTITY safeb.palm.report.label "Varför blockerades denna sida?">
 
-<!ENTITY safeb.urlbaricon.tooltip "This page might be dangerous; click for details.">
+<!ENTITY safeb.urlbaricon.tooltip "Denna sida kan vara farlig; klicka för information.">
 
-<!ENTITY safeb.blocked.malware.title "Reported Attack Site!">
+<!ENTITY safeb.blocked.malware.title "Rapporterat osäker sida!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "This web site at <span id='malware_sitename'/> has been reported as an attack site and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack sites intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+<!ENTITY safeb.blocked.malware.shortDesc "Denna hemsida har rapporterats hos <span id='malware_sitename'/> som en osäker sida och har blockerats baserat på dina säkerhetsinställningar.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Osäkra sidor kan försöka installera program som stjäl privat information, använda din enhet för att attackera andra, eller skada ditt system.</p><p>Vissa osäkra sidor distribuerar skadlig mjukvara medvetet, men många är komprometterade utan deras innehavares vetskap eller godkännande.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "Reported Web Forgery!">
+<!ENTITY safeb.blocked.phishing.title "Rapporterad webbförfalskning!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "This web site at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "Denna hemsida har rapporterats hos <span id='phishing_sitename'/> som en webbförfalskning och har blockerats baserat på dina säkerhetsinställningar.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Webbförfalskningar är utformade till att lura dig att avslöja din privata information eller bankuppgifter genom att se ut som källor du litar på.</p><p>Genom att skriva in privat information på denna sida så kan du råka ut för identitetsstöld eller annat bedrägeri.</p>">
