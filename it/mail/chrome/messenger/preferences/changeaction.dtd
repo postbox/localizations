@@ -1,23 +1,23 @@
-<!ENTITY  changeAction.title                  "Change Action">
+<!ENTITY  changeAction.title                  "Cambia azione">
 <!ENTITY  window.width                         "36em">
 
-<!ENTITY  whenDownloading.label               "When downloading files like this:">
+<!ENTITY  whenDownloading.label               "quando scarichi file come questo:">
 
-<!ENTITY  openDefault.label                   "Open them with the default application:">
+<!ENTITY  openDefault.label                   "Aprili con la applicazione predefinita:">
 <!ENTITY  openDefault.accesskey               "O">
 <!ENTITY  openApplication.label               "Open them with this application:">
 <!ENTITY  openApplication.accesskey           "e">
 <!ENTITY  changeApp.label                     "Sfoglia…">
 <!ENTITY  changeApp.accesskey                 "S">
-<!ENTITY  saveToDisk.label                    "Save them on my computer">
+<!ENTITY  saveToDisk.label                    "Salvali sul mio computer">
 <!ENTITY  saveToDisk.accesskey                "S">
-<!ENTITY  saveToDefaultFolder.label           "in the default download folder">
+<!ENTITY  saveToDefaultFolder.label           "nella cartella download predefinita">
 <!ENTITY  saveToDefaultFolder.accesskey       "d">
-<!ENTITY  saveToThisFolder.label              "in this folder:">
+<!ENTITY  saveToThisFolder.label              "in questa cartella:">
 <!ENTITY  saveToThisFolder.accesskey          "h">
 <!ENTITY  chooseFolder.label                  "Sfoglia…">
 <!ENTITY  chooseFolder.accesskey              "S">
-<!ENTITY  saveToAskMe.label                   "ask me where to save the file">
+<!ENTITY  saveToAskMe.label                   "chiedimi dove salvare il file">
 <!ENTITY  saveToAskMe.accesskey               "a">
-<!ENTITY  usePlugin.label                     "Use this Plugin:">
+<!ENTITY  usePlugin.label                     "Usa questo Plugin:">
 <!ENTITY  usePlugin.accesskey                 "P">
