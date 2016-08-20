@@ -1,6 +1,6 @@
 <!-- folder pane context menu item -->
-<!ENTITY folderContextRSSSubscribe.label    "Subscribe...">
+<!ENTITY folderContextRSSSubscribe.label    "Prenumerera...">
 <!ENTITY folderContextRSSSubscribe.accesskey   "b">
 
-<!ENTITY pbAccountTreeContextRSSSubscribe.label "Subscriptions">
+<!ENTITY pbAccountTreeContextRSSSubscribe.label "Prenumerationer">
 <!ENTITY pbAccountTreeContextRSSSubscribe.accesskey "b">
