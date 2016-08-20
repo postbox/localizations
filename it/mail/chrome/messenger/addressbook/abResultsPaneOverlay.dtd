@@ -46,7 +46,7 @@
 <!ENTITY NickName.accesskey                    "S">
 <!ENTITY SecondEmail.label                     "E-mail aggiuntiva">
 <!ENTITY SecondEmail.accesskey                 "l">
-<!ENTITY Department.label                      "Reparto">
+<!ENTITY Department.label                      "Ufficio">
 <!ENTITY Department.accesskey                  "R">
 <!ENTITY JobTitle.label                        "Titolo">
 <!ENTITY JobTitle.accesskey                    "T">
@@ -60,7 +60,7 @@
 <!ENTITY HomePhone.accesskey                   "T">
 <!ENTITY WorkPhone.label                       "Telefono lavoro">
 <!ENTITY WorkPhone.accesskey                   "l">
-<!ENTITY ScreenName.label                      "Nome Instant Messenger">
+<!ENTITY ScreenName.label                      "Nome da visualizzare">
 <!ENTITY ScreenName.accesskey                  "I">
 <!ENTITY sortAscending.label                   "Crescente">
 <!ENTITY sortAscending.accesskey               "r">
@@ -68,13 +68,13 @@
 <!ENTITY sortDescending.accesskey              "D">
 
 <!-- context menu -->
-<!ENTITY composeEmail.label                    "Compose Email To">
+<!ENTITY composeEmail.label                    "Scrivi e-mail a">
 <!ENTITY composeEmail.accesskey                "C">
 <!ENTITY deleteAddrBookCard.label              "Elimina">
 <!ENTITY deleteAddrBookCard.accesskey          "E">
-<!ENTITY newAddrBookCard.label                 "New Card...">
+<!ENTITY newAddrBookCard.label                 "Nuovo contatto...">
 <!ENTITY newAddrBookCard.accesskey             "N">
-<!ENTITY newAddrBookMailingList.label          "New Mailing List...">
+<!ENTITY newAddrBookMailingList.label          "Nuova Mailing List...">
 <!ENTITY newAddrBookMailingList.accesskey      "M">
-<!ENTITY addrBookCardProperties.label          "Properties">
+<!ENTITY addrBookCardProperties.label          "Proprietà">
 <!ENTITY addrBookCardProperties.accesskey      "P">
