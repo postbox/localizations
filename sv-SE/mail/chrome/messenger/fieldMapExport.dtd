@@ -36,6 +36,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY fieldMapExport.title "Exportera adressbok">
-<!ENTITY fieldMapExport.add    "Add Field ->">
-<!ENTITY fieldMapExport.addAll  "Add All ->">
-<!ENTITY fieldList.label   "Address Fields">
+<!ENTITY fieldMapExport.add    "Lägg till fält ->">
+<!ENTITY fieldMapExport.addAll  "Lägg till alla ->">
+<!ENTITY fieldList.label   "Adressfält">
