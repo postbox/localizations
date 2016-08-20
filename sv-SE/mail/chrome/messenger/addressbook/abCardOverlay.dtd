@@ -133,7 +133,7 @@
 <!ENTITY Other.tab                      "Övrigt">
 <!ENTITY Birthday.label                 "Födelsedag:">
 <!ENTITY Birthday.accesskey             "F">
-<!ENTITY birthdayFormat.label           "dd/mm/yyyy">
+<!ENTITY birthdayFormat.label           "dd/mm/åååå">
 <!ENTITY Custom1.label                  "Övrigt 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Övrigt 2:">
