@@ -8,13 +8,13 @@
 <!ENTITY serverPort.accesskey "P">
 <!ENTITY userName.label "Användarnamn:">
 <!ENTITY userName.accesskey "A">
-<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.label "Anslutningssäkerhet:">
 <!ENTITY connectionSecurity.accesskey "n">
-<!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-0.label "Ingen">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, om tillgängligt">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Server för utgående e-post (SMTP)">
 <!ENTITY serverPortDefault.label "Standard:">
-<!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.label "Autentisering:">
 <!ENTITY authMethod.accesskey "i">
