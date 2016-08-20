@@ -1,11 +1,11 @@
 <!ENTITY autoconfigWizard.title          "Lägg till nytt konto">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                  "First and Last Name">
+<!ENTITY name.placeholder                  "För- och efternamn">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder                 "email@example.com">
+<!ENTITY email.placeholder                 "epost@exempel.se">
 <!ENTITY password.label                  "Lösenord:">
 <!ENTITY password.accesskey              "L">
-<!ENTITY password.placeholder              "Password">
+<!ENTITY password.placeholder              "Lösenord">
 <!ENTITY password.text                   "Frivilligt, kommer endast användas för att bekräfta användarnamnet">
 
 <!ENTITY accountInformation.label        "Kontoinformation">
@@ -60,7 +60,7 @@
 <!ENTITY changeSettings.label            "Ändra inställningarna">
 <!ENTITY changeSettings.accesskey        "n">
 
-<!ENTITY pb.contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections.">
+<!ENTITY pb.contactYourProvider.description "&brandShortName; kan tillåta dig att få din e-post med försedda konfigurationer. Du bör däremot kontakta din administratör eller e-postleverantör angående dessa felaktiga anslutningar.">
 
 <!ENTITY insecureServer.tooltip.title    "Varning! Det här är en osäker server.">
 <!ENTITY insecureServer.tooltip.details  "Klicka på cirkeln för fler detaljer.">
@@ -70,17 +70,17 @@
 <!ENTITY secureServer.description        "Gratulerar! Det här är en säker server.">
 
 <!ENTITY pb.identity.title "Identitet">
-<!ENTITY pb.name.label    "Your Name">
+<!ENTITY pb.name.label    "Ditt namn">
 <!ENTITY pb.email.label   "E-postadress">
 <!ENTITY pb.password.label "Lösenord">
 <!ENTITY pb.serverinfo.title "Serverinformation">
-<!ENTITY pb.username.label   "User Name">
-<!ENTITY pb.incoming.label "Incoming Server">
-<!ENTITY pb.servername.label "Server Name">
+<!ENTITY pb.username.label   "Användarnamn">
+<!ENTITY pb.incoming.label "Inkommande server">
+<!ENTITY pb.servername.label "Servernamn">
 <!ENTITY pb.servertype.label "Typ">
 <!ENTITY pb.serverport.label "Port">
 <!ENTITY pb.serversecurity.label "Säkerhet">
-<!ENTITY pb.outgoing.label "Outgoing Server">
+<!ENTITY pb.outgoing.label "Utgående server">
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      creation wizard, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
@@ -100,22 +100,22 @@
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 63ch;">
 
-<!ENTITY pbProfileInformation.label "Profile Information">
-<!ENTITY pbManualSetup.label "Manual Setup">
+<!ENTITY pbProfileInformation.label "Profilinformation">
+<!ENTITY pbManualSetup.label "Manuell inställning">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY important.label "IMPORTANT:">
-<!ENTITY learnMore.label "Learn more...">
+<!ENTITY important.label "VIKTIGT:">
+<!ENTITY learnMore.label "Lär mer...">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pb.displayname.label "Description:">
-<!ENTITY displayname.placeholder         "Work, Personal, etc.">
+<!ENTITY pb.displayname.label "Beskrivning:">
+<!ENTITY displayname.placeholder         "Arbete, Personligt, m.m.">
 <!ENTITY displayname.accesskey           "D">
