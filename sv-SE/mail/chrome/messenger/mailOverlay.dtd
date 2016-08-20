@@ -1,7 +1,6 @@
 <!ENTITY  newMessageCmd2.key              "N">
 <!ENTITY  newMessageCmd.label             "Nytt meddelande">
 <!ENTITY  newMessageCmd.accesskey         "m">
- 
-<!ENTITY  newCardCmd.label                "Address Book Card...">
+
+<!ENTITY  newCardCmd.label                "Adressbokskort...">
 <!ENTITY  newCardCmd.accesskey            "C">
- 
