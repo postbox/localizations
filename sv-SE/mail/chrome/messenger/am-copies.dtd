@@ -5,32 +5,32 @@
 <!ENTITY fccMailFolder.accesskey "k">
 <!ENTITY fccReplyFollowsParent.label "Lägg svaret i samma mapp som det besvarade meddelandet">
 <!ENTITY fccReplyFollowsParent.accesskey "b">
-<!ENTITY chooseFolderButton.label "Choose Folder...">
+<!ENTITY chooseFolderButton.label "Välj mapp...">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Dold kopia till dessa adresser:">
 <!ENTITY bccAddress.accesskey "D">
-<!ENTITY specialFolderTitle.label "Special Folders">
+<!ENTITY specialFolderTitle.label "Särskilda mappar">
 <!ENTITY draftMailFolder.label "Spara utkast i:">
 <!ENTITY templateMailFolder.label "Spara mallar i:">
 <!ENTITY saveMessageDlg.label "Visa bekräftelse när meddelanden sparas">
 <!ENTITY saveMessageDlg.accesskey "V">
 <!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY sentFolderOn1.label "Skickat:">
 <!ENTITY sentFolderOn1.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Annan plats:">
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn1.label "Drafts:">
+<!ENTITY draftsFolderOn1.label "Utkast:">
 <!ENTITY draftsFolderOn1.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Annan plats:">
 <!ENTITY draftInOtherFolder.accesskey "n">
 <!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn1.label "Archive:">
+<!ENTITY archivesFolderOn1.label "Arkiv:">
 <!ENTITY archivesFolderOn1.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Annan plats:">
 <!ENTITY archiveInOtherFolder.accesskey "p">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY templatesFolderOn1.label "Mallar:">
 <!ENTITY templatesFolderOn1.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Annan plats:">
 <!ENTITY templateInOtherFolder.accesskey "s">
@@ -38,7 +38,7 @@
 <!ENTITY keepArchives.label "Spara meddelandearkiv i:">
 <!ENTITY keepTempltes.label "Spara mallar i:">
 
-<!ENTITY pbSentSettings.label "Sent">
-<!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
+<!ENTITY pbSentSettings.label "Skickat">
+<!ENTITY pbDraftsSettings.label "Utkast">
+<!ENTITY pbArchiveSettings.label "Arkiv">
+<!ENTITY pbTemplatesSettings.label "Mallar">
