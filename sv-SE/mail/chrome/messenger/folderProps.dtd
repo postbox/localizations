@@ -47,25 +47,25 @@
 <!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFile.label          "Återskapa index">
 <!ENTITY folderRebuildSummaryFile.accesskey      "t">
-<!ENTITY folderRebuildSummaryFileTip.label       "Återskapa sammanfattningsfil"> 
-     
+<!ENTITY folderRebuildSummaryFileTip.label       "Återskapa sammanfattningsfil">
+
 <!ENTITY retention.label "Behåll meddelanden">
-<!ENTITY retentionUseDefault.label  "Use server defaults">
+<!ENTITY retentionUseDefault.label  "Använd serverns standardinställningar">
 <!ENTITY retentionUseDefault.accesskey "d">
 <!ENTITY days.label "dagar">
 <!ENTITY daysOld.label "dagar">
 <!ENTITY message.label "meddelandena">
 <!ENTITY retentionCleanup.label "För att spara diskutrymme kan gamla meddelanden tas bort.">
-<!ENTITY retentionKeepMsg.label "Delete messages more than">
+<!ENTITY retentionKeepMsg.label "Radera meddelanden mer än">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Ta inte bort några meddelanden">
 <!ENTITY retentionKeepAll.accesskey "b">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.label "Radera alla föruom det senaste">
 <!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Always delete read messages">
+<!ENTITY retentionKeepUnread.label "Radera alltid lästa meddelanden">
 <!ENTITY retentionKeepUnread.accesskey "r">
 
-<!ENTITY folderOfflineTab.label                  "Offline">
+<!ENTITY folderOfflineTab.label                  "Nedkopplad">
 <!ENTITY folderCheckForNewMessages.label         "Kontrollera om denna mapp har nya meddelanden">
 <!ENTITY folderCheckForNewMessages.accesskey     "K">
 
@@ -76,7 +76,7 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Den här diskussionsgruppen ska kunna användas när jag arbetar nedkopplad">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "D">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Use the default from account settings ">
+<!ENTITY UseDefaultofflineNewsgroup.check.label  "Använd kontots standardinställningar ">
 <!ENTITY offlineNewsgroup.button.label           "Hämta nu">
 <!ENTITY offlineNewsgroup.button.accesskey       "H">
 
@@ -87,7 +87,7 @@
 <!ENTITY folderProps.location.accesskey          "A">
 
 <!ENTITY folderSharingTab.label                  "Delning">
-<!ENTITY privilegesDesc.label                    "Share this and other folders with network users and display and set access privileges">
+<!ENTITY privilegesDesc.label                    "Dela denna och andra mappar med nätverksanvändare, och visa och ställ in åtkomstprivilegier">
 <!ENTITY privileges.button.label                 "Privilegier">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Du har dessa privilegier:">
