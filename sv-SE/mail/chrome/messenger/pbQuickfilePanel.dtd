@@ -1,7 +1,7 @@
-<!ENTITY quickfilePanelFileMessage.label  "Move Message">
-<!ENTITY quickswitchPanelSwitch.label     "Go To Folder">
+<!ENTITY quickfilePanelFileMessage.label  "Flytta meddelande">
+<!ENTITY quickswitchPanelSwitch.label     "Gå till mapp">
 <!ENTITY quickfilePanelFile.label         "OK">
-<!ENTITY quickfilePanelCancel.label       "Cancel">
+<!ENTITY quickfilePanelCancel.label       "Ångra">
 <!ENTITY showQuickfileCmd.key             "v">
 <!ENTITY showQuickswitchCmd.key           "g">
 <!ENTITY quickfilePanel.width             "600">
