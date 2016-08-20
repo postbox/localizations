@@ -1,71 +1,71 @@
 <!-- Data Pane Headers -->
 <!ENTITY dataPaneImage.label          "Bilder">
 <!ENTITY dataPaneDocument.label       "Bilagor">
-<!ENTITY dataPaneDates.label          "Dates">
-<!ENTITY dataPaneEvent.label          "Events">
+<!ENTITY dataPaneDates.label          "Datum">
+<!ENTITY dataPaneEvent.label          "Händelser">
 <!ENTITY dataPaneURL.label            "Länkar">
 <!ENTITY dataPaneAddresses.label      "Adresser">
 
 <!-- data pane attachment popup -->
 <!-- XX Localisation note: Do not translate service names -->
-<!ENTITY dataPaneContext.uploadTo.label               "Upload to...">
+<!ENTITY dataPaneContext.uploadTo.label               "Ladda upp till...">
 <!ENTITY dataPaneContext.uploadToPicasa.label         "Picasa">
 <!ENTITY dataPaneContext.uploadToPicasa.accesskey     "P">
 <!ENTITY dataPaneContext.uploadToPhotobucket.label    "Photobucket">
 <!ENTITY dataPaneContext.uploadToPhotobucket.accesskey "b">
 <!ENTITY dataPaneContext.uploadToGoogleDocs.label     "Google Docs">
 <!ENTITY dataPaneContext.uploadToGoogleDocs.accesskey "G">
-<!ENTITY dataPaneContext.openAttachment.label         "Open">
+<!ENTITY dataPaneContext.openAttachment.label         "Öppna">
 <!ENTITY dataPaneContext.openAttachment.accesskey     "O">
-<!ENTITY dataPaneContext.saveAsAttachment.label       "Save As...">
+<!ENTITY dataPaneContext.saveAsAttachment.label       "Spara som...">
 <!ENTITY dataPaneContext.saveAsAttachment.accesskey   "a">
-<!ENTITY dataPaneContext.quickLookAttachmentMac.label     "Quick Look...">
+<!ENTITY dataPaneContext.quickLookAttachmentMac.label     "Snabbkoll...">
 <!ENTITY dataPaneContext.quickLookAttachmentMac.accesskey "Q">
-<!ENTITY dataPaneContext.quickLookAttachment.label    "Preview...">
+<!ENTITY dataPaneContext.quickLookAttachment.label    "Förhandsgranska...">
 <!ENTITY dataPaneContext.quickLookAttachment.accesskey "r">
 <!ENTITY dataPaneContext.detachAttachment.label       "Avskilj…">
 <!ENTITY dataPaneContext.deleteAttachment.label       "Ta bort">
-<!ENTITY dataPaneContext.saveAll.label                "Save All...">
+<!ENTITY dataPaneContext.saveAll.label                "Spara alla...">
 <!ENTITY dataPaneContext.saveAll.accesskey           "v">
-<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Add to iPhoto">
+<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Lägg till i iPhoto">
 <!ENTITY dataPaneContext.systemPhotoImportMac.accesskey  "i">
 
 <!-- contact panel -->
-<!ENTITY contactPanel-name.label  "name:">
-<!ENTITY contactPanel-title.label "title:">
-<!ENTITY contactPanel-company.label  "company:">
+<!ENTITY contactPanel-name.label  "namn:">
+<!ENTITY contactPanel-title.label "titel:">
+<!ENTITY contactPanel-company.label  "företag:">
 
-<!ENTITY contactPanel-phone.label "phone:">
-<!ENTITY contactPanel-work.label "(work)">
-<!ENTITY contactPanel-home.label "(home)">
-<!ENTITY contactPanel-mobile.label "(mobile)">
+<!ENTITY contactPanel-phone.label "telefon:">
+<!ENTITY contactPanel-work.label "(arbete)">
+<!ENTITY contactPanel-home.label "(hem)">
+<!ENTITY contactPanel-mobile.label "(mobil)">
 
-<!ENTITY contactPanel-email.label "email:">
-<!ENTITY contactPanel-homeAddress.label "home:">
-<!ENTITY contactPanel-workAddress.label "work:">
+<!ENTITY contactPanel-email.label "e-post:">
+<!ENTITY contactPanel-homeAddress.label "hem:">
+<!ENTITY contactPanel-workAddress.label "arbete:">
 <!ENTITY contactPanel-onlineStatus.label "IM:">
 <!ENTITY contactPanel-facebook.label     "Facebook:">
 <!ENTITY contactPanel-twitter.label      "twitter:">
 
-<!ENTITY contactPanel-favorite.label     "favorite:">
-<!ENTITY contactPanel-favorite-checkbox.label "make this contact a favorite">
-<!ENTITY contactPanel-actions.label "actions:">
-<!ENTITY contactPanel-find.label    "find recent:">
+<!ENTITY contactPanel-favorite.label     "favorit:">
+<!ENTITY contactPanel-favorite-checkbox.label "markera denna kontakt som favorit">
+<!ENTITY contactPanel-actions.label "åtgärder:">
+<!ENTITY contactPanel-find.label    "hitta senaste:">
 <!ENTITY contactPanel-findMessages.label "meddelandena">
-<!ENTITY contactPanel-findDocuments.label "attachments">
-<!ENTITY contactPanel-findImages.label "images">
-<!ENTITY contactPanel-copyContact.label "copy email">
-<!ENTITY contactPanel-sendContact.label "send vcard">
-<!ENTITY contactPanel-createFilter.label "create filter...">
+<!ENTITY contactPanel-findDocuments.label "bilagor">
+<!ENTITY contactPanel-findImages.label "bilder">
+<!ENTITY contactPanel-copyContact.label "kopiera e-post">
+<!ENTITY contactPanel-sendContact.label "skicka vcard">
+<!ENTITY contactPanel-createFilter.label "skapa filter...">
 
 <!-- action contact panel -->
-<!ENTITY contactActionPanel-sendMail.label "Send Mail...">
+<!ENTITY contactActionPanel-sendMail.label "Skicka e-post...">
 <!ENTITY contactActionPanel-copyAddress.label "Kopiera e-postadress">
 
 <!-- data pane address popup -->
-<!ENTITY dataPaneContext.searchGoogleMaps.label         "Map to Google">
+<!ENTITY dataPaneContext.searchGoogleMaps.label         "Kartlägg med Google">
 <!ENTITY dataPaneContext.searchGoogleMaps.accesskey     "G">
-<!ENTITY dataPaneContext.searchYahooMaps.label          "Map to Yahoo!">
+<!ENTITY dataPaneContext.searchYahooMaps.label          "Kartlägg med Yahoo!">
 <!ENTITY dataPaneContext.searchYahooMaps.accesskey      "Y">
 
 
@@ -74,4 +74,4 @@
 -->
 
 <!ENTITY dataPaneSocial.label         "Social">
-<!ENTITY dataPaneShipping.label       "Track Packages">
+<!ENTITY dataPaneShipping.label       "Spåra paket">
