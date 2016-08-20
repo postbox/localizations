@@ -56,12 +56,15 @@
 <p>Once a pull request has been submitted you can review the changes to ensure that the translations are correct.</p>
 <p>Click on the pull request tab, and then select a pull request to review.</p>
 <img src="http://postbox-images.s3.amazonaws.com/github/pull-request@2x.png" width="50%">
-<p>In ALL CAPS, please mark the pull request as follows:
+<p>You can then start reviewing commits. In ALL CAPS, please mark each commit request as follows:
 <ul>
 <li>APPROVED</li>
 <li>INCOMPLETE</li>
 <li>CORRECTIONS NEEDED</li>
 </ul>
-<p>If a correction is needed, please suggest the correction along with the line number.</p>
+<p>If a correction is needed, you can add a comment directly on the line, by hovering over the line number and clicking the blue button.</p>
+<img src="http://postbox-images.s3.amazonaws.com/github/line-number@2x.png" width="50%">
+<p>Then enter a comment on the line. If a correction is needed, please state what the correction should be.</p>
+<img src="http://postbox-images.s3.amazonaws.com/github/comments@2x.png" width="50%">
 
 
