@@ -7,23 +7,23 @@
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
-  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+  "<h3>Översättare</h3><ul><li>Namn här</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Översättning</h3><ul><li>Mikael Hedberg</li><li>Stefan Hermes</li><li>Per Larsson</li><li>Niklas Lundström</li><li>Henrik Olsson</li><li>Roger Sjölander</li><li>Hans Wallanger</li></ul>">
+<!ENTITY credit.translation "<h3>Översättning</h3><ul><li>John Karlsson</li><li>Mikael Hedberg</li><li>Stefan Hermes</li><li>Per Larsson</li><li>Niklas Lundström</li><li>Henrik Olsson</li><li>Roger Sjölander</li><li>Hans Wallanger</li></ul>">
 
-<!ENTITY credit.visuals     "Visual Design Coordinator">
-<!ENTITY credit.theme       "Theme Design">
-<!ENTITY credit.brand       "Brand Identity">
-<!ENTITY credit.web         "Web Design">
-<!ENTITY credit.update      "Mozilla Update">
-<!ENTITY credit.qalead      "Quality Assurance Lead">
-<!ENTITY credit.qa          "Quality Assurance">
-<!ENTITY credit.build       "Build and Release">
-<!ENTITY credit.infra       "Infrastructure Support">
-<!ENTITY credit.support     "Support Resources">
-<!ENTITY credit.manage      "Project Management">
-<!ENTITY credit.marketleads "Marketing Leads">
-<!ENTITY credit.market      "Marketing">
-<!ENTITY credit.creators    "Created By">
+<!ENTITY credit.visuals     "Visuell designkoordinator">
+<!ENTITY credit.theme       "Malldesign">
+<!ENTITY credit.brand       "Varumärkesidentitet">
+<!ENTITY credit.web         "Webbdesign">
+<!ENTITY credit.update      "Mozilla uppdatering">
+<!ENTITY credit.qalead      "Kvalitetssäkringslead">
+<!ENTITY credit.qa          "Kvalitetssäkring">
+<!ENTITY credit.build       "Version och utgåva">
+<!ENTITY credit.infra       "Infrastrukturssupport">
+<!ENTITY credit.support     "Supportresurser">
+<!ENTITY credit.manage      "Projektledning">
+<!ENTITY credit.marketleads "Marknadsföringsleads">
+<!ENTITY credit.market      "Marknadsföring">
+<!ENTITY credit.creators    "Skapad av">
 <!ENTITY credit.memory      "Till minne av">
-<!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">
+<!ENTITY credit.poweredByGecko "Drivs av Gecko&trade;">
