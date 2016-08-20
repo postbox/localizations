@@ -38,16 +38,16 @@
 <!ENTITY fieldMapImport.title "Importera adressbok">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Importerad data ur posten: ">
-<!ENTITY fieldMapImport.next "Next">
+<!ENTITY fieldMapImport.next "Nästa">
 <!ENTITY fieldMapImport.next.accesskey "N">
-<!ENTITY fieldMapImport.previous "Previous">
+<!ENTITY fieldMapImport.previous "Föregående">
 <!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "Använd Flytta uppåt och Flytta neråt för att pussla ihop rätt fält i adressboken med korrekt data. Kryssa ur de delar du inte vill importera.">
-<!ENTITY fieldMapImport.up "Move Up">
+<!ENTITY fieldMapImport.up "Flytta upp">
 <!ENTITY fieldMapImport.up.accesskey "U">
-<!ENTITY fieldMapImport.down "Move Down">
+<!ENTITY fieldMapImport.down "Flytta ner">
 <!ENTITY fieldMapImport.down.accesskey "D">
 <!ENTITY fieldMapImport.fieldListTitle "Fält i adressboken">
 <!ENTITY fieldMapImport.dataTitle "Post att importera">
-<!ENTITY fieldMapImport.skipFirstRecord "First record contains field names">
+<!ENTITY fieldMapImport.skipFirstRecord "Första posten innehåller fältnamn">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "ö">
