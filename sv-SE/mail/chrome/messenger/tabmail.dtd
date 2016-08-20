@@ -1,12 +1,12 @@
-<!ENTITY  untitledTab              "(Untitled)">
-<!ENTITY  newTab.label             "New Tab">
+<!ENTITY  untitledTab              "(ingen titel)">
+<!ENTITY  newTab.label             "Ny flik">
 <!ENTITY  newTab.accesskey         "N">
 <!ENTITY  closeTab.label           "Stäng flik">
 <!ENTITY  closeTab.accesskey       "S">
 <!ENTITY  closeOtherTabs.accesskey "o">
-<!ENTITY  closeOtherTabs.label     "Close Other Tabs">
-<!ENTITY  reloadAllTabs.label      "Reload All Tabs">
+<!ENTITY  closeOtherTabs.label     "Stäng alla andra flikar">
+<!ENTITY  reloadAllTabs.label      "Hämta om alla flikar">
 <!ENTITY  reloadAllTabs.accesskey  "a">
-<!ENTITY  reloadTab.label          "Reload Tab">
+<!ENTITY  reloadTab.label          "Hämta om flik">
 <!ENTITY  reloadTab.accesskey      "R">
 <!ENTITY  listAllTabs.label        "Listar alla flikar">
