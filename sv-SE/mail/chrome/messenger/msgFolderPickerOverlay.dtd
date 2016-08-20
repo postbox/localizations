@@ -37,13 +37,13 @@
 
 <!-- Labels -->
 <!ENTITY subscribechoosethis.label      "välj denna diskussionsgrupp-server">
-<!ENTITY subscribeclickhere.label      "click here to choose a news server">
+<!ENTITY subscribeclickhere.label      "klicka här för att välja en diskussionsgrupp-server">
 <!ENTITY newfolderchoosethis.label      "välj denna som förälder">
-<!ENTITY newfolderclickhere.label      "Click here to select">
+<!ENTITY newfolderclickhere.label      "Klicka här för att välja">
 <!ENTITY renamefolderchoosethis.label      "välj denna mapp">
-<!ENTITY renamefolderclickhere.label      "click here to choose a folder">
+<!ENTITY renamefolderclickhere.label      "klicka här för att välja en mapp">
 <!ENTITY filemessageschoosethis.label      "välj denna mapp">
-<!ENTITY filemessagesclickhere.label      "click here to choose a folder">
-<!ENTITY chooseaccountclickhere.label      "Click here to select an account">
-<!ENTITY choosefolderclickhere.label      "Click here to select a folder">
-<!ENTITY chooseserverToDeferTo.label      "click here to select an account to use for storing messages">
+<!ENTITY filemessagesclickhere.label      "klicka här för att välja en mapp">
+<!ENTITY chooseaccountclickhere.label      "Klicka här för att välja ett konto">
+<!ENTITY choosefolderclickhere.label      "Klicka här för att välja en mapp">
+<!ENTITY chooseserverToDeferTo.label      "klicka här för att välja ett konto som ska användas för lagring av meddelanden">
