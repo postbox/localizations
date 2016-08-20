@@ -4,10 +4,10 @@
 
 <!ENTITY aboutDialog.title          "&brandFullName;">
 
-<!ENTITY productDescription.label    "Realizzato artigianalmente e con amore a San Francisco, California.">
+<!ENTITY productDescription.label    "Realizzato con amore a San Francisco, California.">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Informazioni sulle licenze">
+<!ENTITY bottomLinks.license        "Informazioni sulla licenza">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Informativa sulla privacy">
@@ -19,7 +19,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; è aggiornato">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Updates disabled by your system administrator">
+<!ENTITY update.adminDisabled       "aggiornamenti disabilitati dal tuo amministratore di sistema">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -37,7 +37,7 @@
 <!ENTITY update.manual.start        "Aggiornamenti disponibili su ">
 <!ENTITY update.manual.end          "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
@@ -51,4 +51,4 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pb.safeMode.label "Esecuzione in modalità provvisoria">
+<!ENTITY pb.safeMode.label "Esecuzione in Modalità provvisoria">
