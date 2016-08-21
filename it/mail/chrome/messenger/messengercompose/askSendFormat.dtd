@@ -1,12 +1,12 @@
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
-<!ENTITY windowTitle.label "Domanda e-mail in HTML">
+<!ENTITY windowTitle.label "E-mail in HTML o Testo semplice">
 
-<!ENTITY recipient.label "Alcuni destinatari non sono in grado di ricevere e-mail in HTML.">
+<!ENTITY recipient.label "Alcuni destinatari non sono in grado di ricevere e-mail in formato HTML.">
 
 <!ENTITY convertibleDefault.label "">
 <!ENTITY convertibleYes.label "Il tuo messaggio può essere convertito in testo semplice senza perdere informazioni.">
 <!ENTITY convertibleAltering.label "Il tuo messaggio può essere convertito in testo semplice senza perdere informazioni importanti. Tuttavia, la versione in testo semplice potrebbe essere differente da quella che hai visualizzato nel composer.">
-<!ENTITY convertibleNo.label "Tuttavia, hai utilizzato formattazione (es. colori) che non sarà convertita in testo semplice.">
+<!ENTITY convertibleNo.label "Tuttavia, hai utilizzato una formattazione (es. colori) che non sarà convertita in testo semplice.">
 
 <!ENTITY question.label "Vuoi convertire il messaggio in testo semplice o inviarlo ugualmente in HTML?">
 

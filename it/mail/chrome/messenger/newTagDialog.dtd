@@ -1,4 +1,4 @@
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title      "Nuova etichetta">
-<!ENTITY name.label              "Nome dell'etichetta:">
+<!ENTITY newTagDialog.title      "Crea nuova etichetta">
+<!ENTITY name.label              "Nome etichetta:">
 <!ENTITY name.accesskey          "N">

@@ -35,8 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY messageMarkByDate.label "Marca i messaggi letti per data">
-<!ENTITY markByDateLower.label "Marca tutti i messaggi come letti a partire da:">
+<!ENTITY messageMarkByDate.label "Contrassegna i messaggi come letti per data">
+<!ENTITY markByDateLower.label "Contrassegna tutti i messaggi come letti a partire da:">
 <!ENTITY markByDateLower.accesskey "d">
-<!ENTITY markByDateUpper.label "fino a:">
+<!ENTITY markByDateUpper.label "A::">
 <!ENTITY markByDateUpper.accesskey "a">

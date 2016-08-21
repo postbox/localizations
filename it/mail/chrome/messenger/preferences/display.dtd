@@ -50,7 +50,7 @@
 <!ENTITY pb.conversations.sortoldest.label "Prima i messaggi meno recenti">
 <!ENTITY pb.conversations.sortnewest.label "Prima i messaggi più recenti">
 
-<!ENTITY pb.conversations.read.label "Quando visualizzi una conversazione, contrassegnare i suoi messaggi come già letti">
+<!ENTITY pb.conversations.read.label "Quando visualizzi una conversazione, contrassegna i suoi messaggi come già letti">
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Includi le foto dei contatti per ogni partecipante alla conversazione">
 <!ENTITY pb.conversations.photos.accesskey "I">

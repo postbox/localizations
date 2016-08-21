@@ -53,7 +53,7 @@
 <!ENTITY modeAskMe.accesskey            "e">
 <!ENTITY modeAutomatic.label            "Scarica e installa automaticamente l'aggiornamento">
 <!ENTITY modeAutomatic.accesskey        "S">
-<!ENTITY modeAutoAddonWarn.label        "Avvisa se verranno disattivati alcuni tra i miei componenti aggiuntivi">
+<!ENTITY modeAutoAddonWarn.label        "Avvisa se verranno disattivati alcuni dei miei componenti aggiuntivi">
 <!ENTITY modeAutoAddonWarn.accesskey    "A">
 <!ENTITY showUpdates.label              "Mostra cronologia aggiornamenti">
 <!ENTITY showUpdates.accesskey          "M">
@@ -71,7 +71,7 @@
 <!ENTITY certs.auto                      "Seleziona certificato automaticamente">
 <!ENTITY certs.ask                       "Chiedi ogni volta">
 
-<!ENTITY viewCertificates.label         "visualizza certificati">
+<!ENTITY viewCertificates.label         "Visualizza certificati">
 <!ENTITY viewCertificates.accesskey     "M">
 <!ENTITY viewCRLs.label                 "Elenchi di revoca">
 <!ENTITY viewCRLs.accesskey             "E">
@@ -83,7 +83,7 @@
 <!-- Web Services -->
 <!ENTITY webservicesInfo.label          "Configura i servizi web utilizzati all'interno di Postbox.">
 
-<!ENTITY textStartUp   "Durante l'avvio:">
+<!ENTITY textStartUp   "All'avvio:">
 <!ENTITY radioRememberPrevState "Ricorda il precedente stato online">
 <!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskMe "Chiedimi lo stato online all'avvio">
