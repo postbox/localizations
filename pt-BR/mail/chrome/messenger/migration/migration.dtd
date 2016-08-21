@@ -1,7 +1,7 @@
 
 <!ENTITY migrationWizard.title          "Assistente de importação">
 
-<!ENTITY importFromUnix.label           "Import Preferences, Account Settings, Address Book and other data from:">
+<!ENTITY importFromUnix.label           "Importar preferências, configurações de conta, catálogo de endereços e outros dados de:">
 
 <!ENTITY importFromThunderbird.label    "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
@@ -16,19 +16,19 @@
 <!ENTITY importFromNothing.label        "Não importar nada">
 <!ENTITY importFromNothing.accesskey    "N">
 
-<!ENTITY welcome.title                  "Welcome to &brandShortName;">
-<!ENTITY tagline.label                  "A Better Way To Do Email">
-<!ENTITY thanks.label                   "Thanks for trying out &brandShortName;!">
-<!ENTITY quickStart1.label              "See the ">
-<!ENTITY quickStart2.label              "Quickstart Guide"> 
-<!ENTITY quickStart3.label              " to learn about all the features.">
-<!ENTITY start.label                    "Start using &brandShortName;">
-    
-<!ENTITY migration.title                "Account Migration Wizard">
-<!ENTITY migrationMac.title             "Account Migration Assistant">
-<!ENTITY importOptions.title            "Import Options">
+<!ENTITY welcome.title                  "Bem-vindo(a) ao &brandShortName;">
+<!ENTITY tagline.label                  "Um jeito melhor de enviar e-mails">
+<!ENTITY thanks.label                   "Obrigado por experimentar o &brandShortName;!">
+<!ENTITY quickStart1.label              "Verifique o ">
+<!ENTITY quickStart2.label              "Guia de Início Rápido">
+<!ENTITY quickStart3.label              " para aprender todas as funcionalidades.">
+<!ENTITY start.label                    "Comece a usar o &brandShortName;">
+
+<!ENTITY migration.title                "Assistente de migração de conta">
+<!ENTITY migrationMac.title             "Assistente de migração de conta">
+<!ENTITY importOptions.title            "Opções de importação">
 <!ENTITY importItems.title              "Itens">
-<!ENTITY importItems.label              "Importar este itens:">
+<!ENTITY importItems.label              "Importar estes itens:">
 
 <!ENTITY migrating.title                "Importando…">
 <!ENTITY migrating.label                "Estes itens estão sendo importados…">
@@ -64,4 +64,4 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY cleanInstall.accesskey  	"C">
-<!ENTITY cleanInstall.label             "Clean install (recommended)">
+<!ENTITY cleanInstall.label             "Instalação limpa (recomendado)">
