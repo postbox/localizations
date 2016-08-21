@@ -5,7 +5,7 @@
 <!ENTITY fileMenu.accesskey                             "A">
 <!ENTITY newMenu.label                                  "Novo">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newCard.label                                  "Address Book Card...">
+<!ENTITY newCard.label                                  "Cartão do catálogo de endereços...">
 <!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newCard.accesskey                              "C">
 <!ENTITY newCard.key                                    "N">
@@ -28,20 +28,20 @@
 <!ENTITY closeCmd.accesskey                             "F">
 <!ENTITY printSetupCmd.label                            "Configurar página…">
 <!ENTITY printSetupCmd.accesskey                        "C">
-<!ENTITY printPreviewCardViewCmd.label                  "Print Preview Card">
+<!ENTITY printPreviewCardViewCmd.label                  "Visualizar impressão do cartão">
 <!ENTITY printPreviewCardViewCmd.accesskey              "v">
 <!ENTITY printPreviewAddressBook.label                  "Visualizar impressão do catálogo">
 <!ENTITY printPreviewAddressBook.accesskey              "V">
-<!ENTITY printCardViewCmd.label                         "Print Card...">
+<!ENTITY printCardViewCmd.label                         "Imprimir cartão...">
 <!ENTITY printCardViewCmd.accesskey                     "P">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
 <!ENTITY printCardViewCmd.key                           "P">
 <!ENTITY printAddressBook.label                         "Imprimir catálogo…">
 <!ENTITY printAddressBook.accesskey                     "a">
 
-<!ENTITY quitApplicationCmdWin.label                    "Exit"> 
+<!ENTITY quitApplicationCmdWin.label                    "Fechar">
 <!ENTITY quitApplicationCmdWin.accesskey                "x">
-<!ENTITY quitApplicationCmd.label                       "Quit"> 
+<!ENTITY quitApplicationCmd.label                       "Sair">
 <!ENTITY quitApplicationCmd.accesskey                   "Q">
 <!ENTITY quitApplicationCmd.key "Q">
 
@@ -67,8 +67,8 @@
 <!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "x">
 <!ENTITY deleteAbCmd.label                              "Excluir catálogo">
-<!ENTITY deleteCardCmd.label                            "Delete Card">
-<!ENTITY deleteCardsCmd.label                           "Delete Selected Cards">
+<!ENTITY deleteCardCmd.label                            "Excluir cartão">
+<!ENTITY deleteCardsCmd.label                           "Excluir cartões selecionados">
 <!ENTITY selectAllCmd.label                             "Selecionar tudo">
 <!ENTITY selectAllCmd.key                               "a">
 <!ENTITY searchAddressesCmd.key                         "F">
@@ -87,15 +87,15 @@
 <!ENTITY viewMenu.label                                 "Exibir">
 <!ENTITY viewMenu.accesskey                             "x">
 <!ENTITY viewToolbarsMenu.label                         "Barras de ferramentas">
-<!ENTITY viewToolbarsMenu.accesskey                     "B"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "B">
 <!ENTITY customizeToolbar.label                         "Personalizar…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showCardPane.label                             "Card Summary Pane">
+<!ENTITY showCardPane.label                             "Painel de resumo do cartão">
 <!ENTITY showCardPane.accesskey                         "C">
 <!ENTITY menu_ShowNameAs.label                          "Exibir nome como">
-<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!ENTITY firstLastCmd.label                             "Primeiro, Último">
-<!ENTITY firstLastCmd.accesskey                         "P"> 
+<!ENTITY firstLastCmd.accesskey                         "P">
 <!ENTITY lastFirstCmd.label                             "Último, Primeiro">
 <!ENTITY lastFirstCmd.accesskey                         "r">
 <!ENTITY displayNameCmd.label                           "Apresentar como">
@@ -119,41 +119,41 @@
 <!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferências">
-<!ENTITY preferencesCmdUnix.accesskey                   "P"> 
+<!ENTITY preferencesCmdUnix.accesskey                   "P">
 
 <!-- Help Menu -->
-<!ENTITY helpMenu.label                                 "Help">
+<!ENTITY helpMenu.label                                 "Ajuda">
 <!ENTITY helpMenu.accesskey                             "H">
-<!ENTITY releaseCmd.label                               "Release Notes">
+<!ENTITY releaseCmd.label                               "Notas da versão">
 <!ENTITY releaseCmd.accesskey                           "R">
-<!ENTITY hintsAndTips.label                             "&brandShortName; Help">
+<!ENTITY hintsAndTips.label                             "Ajuda do &brandShortName;">
 <!ENTITY hintsAndTips.accesskey                         "H">
 <!ENTITY hintsAndTipsMac.commandkey                     "?">
-<!ENTITY aboutCmd.label                                 "About &brandShortName;">
+<!ENTITY aboutCmd.label                                 "Sobre o &brandShortName;">
 <!ENTITY aboutCmd.accesskey                             "A">
 
-<!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "New Card">
+<!-- Address Book Toolbar and Context Menus -->
+<!ENTITY newcardButton.label                            "Novo cartão">
 <!ENTITY newcardButton.accesskey                        "C">
 <!ENTITY newlistButton.label                            "Nova lista">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton.label                               "Properties">
+<!ENTITY editButton.label                               "Propriedades">
 <!ENTITY editButton.accesskey                           "P">
 <!ENTITY newmsgButton.label                             "Nova msg">
 <!ENTITY newmsgButton.accesskey                         "N">
 <!ENTITY newIM.label                                    "Msg instantânea">
 <!ENTITY newIM.accesskey                                "M">
-<!ENTITY deleteButton.label                             "Delete">
+<!ENTITY deleteButton.label                             "Excluir">
 <!ENTITY deleteButton.accesskey                         "D">
-<!ENTITY throbberItem.title                             "Activity Indicator">
+<!ENTITY throbberItem.title                             "Indicador de atividade">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "Create a new address book card">
-<!ENTITY newlistButton.tooltip                          "Criar uma nova lista">
-<!ENTITY editButton.tooltip                             "Edit the selected card">
+<!ENTITY newcardButton.tooltip                          "Criar um novo cartão no catálogo de endereços">
+<!ENTITY newlistButton.tooltip                          "Criar nova lista">
+<!ENTITY editButton.tooltip                             "Editar o cartão selecionado">
 <!ENTITY newmsgButton.tooltip                           "Nova mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou chat">
-<!ENTITY deleteButton.tooltip                           "Delete selected card or address book">
+<!ENTITY deleteButton.tooltip                           "Excluir o cartão selecionado ou o catálogo de endereços">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Catálogos de endereços">
@@ -200,15 +200,15 @@
 <!ENTITY _PhoneticName.accesskey                        "f">
 
 <!-- Results pane context menu -->
-<!ENTITY composeEmail.label                             "Compose Email To">
+<!ENTITY composeEmail.label                             "Criar email para">
 <!ENTITY composeEmail.accesskey                         "C">
-<!ENTITY deleteAddrBookCard.label                       "Delete">
+<!ENTITY deleteAddrBookCard.label                       "Excluir">
 <!ENTITY deleteAddrBookCard.accesskey                   "D">
-<!ENTITY newAddrBookCard.label                          "New Card...">
+<!ENTITY newAddrBookCard.label                          "Novo cartão...">
 <!ENTITY newAddrBookCard.accesskey                      "N">
-<!ENTITY newAddrBookMailingList.label                   "New Mailing List...">
+<!ENTITY newAddrBookMailingList.label                   "Criar nova lista de emails...">
 <!ENTITY newAddrBookMailingList.accesskey               "M">
-<!ENTITY addrBookCardProperties.label                   "Properties">
+<!ENTITY addrBookCardProperties.label                   "Propriedades">
 <!ENTITY addrBookCardProperties.accesskey               "P">
 
 <!-- Card Summary Pane -->
