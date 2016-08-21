@@ -30,25 +30,25 @@
 <!ENTITY place.accesskey                      "I">
 <!ENTITY belowText.label                      "Fim da mensagem (recomendado)">
 <!ENTITY aboveText.label                      "Início da mensagem">
-<!ENTITY includeSigOnReply.label              "Include signature for replies">
+<!ENTITY includeSigOnReply.label              "Incluir assinatura ao responder">
 <!ENTITY includeSigOnReply.accesskey          "s">
-<!ENTITY includeSigOnForward.label            "Include signature for forwards">
+<!ENTITY includeSigOnForward.label            "Incluir assinatura ao encaminhar">
 <!ENTITY includeSigOnForward.accesskey        "w">
 
 <!-- Postbox Summary Mode -->
-<!ENTITY pbSummarizeOnReply.label             "By">
+<!ENTITY pbSummarizeOnReply.label             "Por">
 <!ENTITY pbSummarizeOnReply.accesskey         "y">
-<!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
-<!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
-<!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">
-<!ENTITY pbSummarizeOnReply.photos.label       "Include contact photos for each participant when summarizing">
+<!ENTITY pbSummarizeOnReply.normal.label      "citando a mensagem selecionada">
+<!ENTITY pbSummarizeOnReply.summarize.label   "resumindo toda a conversa">
+<!ENTITY pbSummarizeOnReply.lastused.label    "utilizando a última configuração usada">
+<!ENTITY pbSummarizeOnReply.photos.label       "Incluir fotos do contato de cada participante ao resumir">
 <!ENTITY pbSummarizeOnReply.photos.accesskey   "I">
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY markNotInWhitelist.label             "Mark addresses not ending with:">
+<!ENTITY markNotInWhitelist.label             "Marcar endereços que não terminam com:">
 <!ENTITY markInTrustedList.accesskey          "d">
 <!ENTITY markNotInWhitelist.accesskey         "m">
-<!ENTITY markInTrustedList.label              "Mark addresses when sending to:">
+<!ENTITY markInTrustedList.label              "Marcar endereços quando enviar para:">
