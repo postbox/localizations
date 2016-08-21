@@ -9,7 +9,7 @@
 <!ENTITY addRSSAccountButton.label "Adicionar conta RSS…">
 <!ENTITY addRSSAccountButton.accesskey "R">
 <!ENTITY addNewsgroupAccountButton.label "Adicionar conta de Newsgroup…">
-<!ENTITY addNewsgroupAccountButton.accesskey "n">
+<!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Definir como conta padrão">
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Excluir conta…">
