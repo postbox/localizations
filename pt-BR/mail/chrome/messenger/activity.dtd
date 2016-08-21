@@ -9,15 +9,15 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.pause.label                  "Pausar">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Continuar">
-<!ENTITY cmd.resume.accesskey             "n">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Cancelar">
 <!ENTITY cmd.cancel.accesskey             "C">
 <!ENTITY cmd.undo.label                   "Desfazer">
-<!ENTITY cmd.undo.accesskey               "D">
+<!ENTITY cmd.undo.accesskey               "U">
 <!ENTITY cmd.recover.label                "Recuperar">
-<!ENTITY cmd.recover.accesskey            "R">
+<!ENTITY cmd.recover.accesskey            "v">
 <!ENTITY cmd.retry.label                  "Tentar novamente">
-<!ENTITY cmd.retry.accesskey              "m">
+<!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.removeFromList.label         "Remover da lista">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
@@ -26,7 +26,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Limpar lista">
 <!ENTITY cmd.clearList.tooltip            "Remove da lista itens completos, cancelados ou com falha">
-<!ENTITY cmd.clearList.accesskey          "L">
+<!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
 
