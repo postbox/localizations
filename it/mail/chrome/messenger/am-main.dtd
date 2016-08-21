@@ -2,16 +2,16 @@
 
 <!ENTITY accountTitle.label "Impostazioni account">
 
-<!ENTITY accountNameDesc.label "The account name is used to identify each account">
+<!ENTITY accountNameDesc.label "Il nome account è utilizzato per identificare ogni account">
 <!ENTITY name.label "Nome:">
 <!ENTITY name.accesskey "N">
 <!ENTITY email.label "Indirizzo e-mail:">
 <!ENTITY email.accesskey "I">
-<!ENTITY replyTo.label "Indirizzo per risposte:">
+<!ENTITY replyTo.label "Indirizzo Rispondi a:">
 <!ENTITY replyTo.accesskey "z">
 <!ENTITY organization.label "Organizzazione:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Attach this signature:">
+<!ENTITY signature.label "Allega questa firma:">
 <!ENTITY signature.accesskey "t">
 <!ENTITY edit.label "Modifica...">
 <!ENTITY choose.label "Sfoglia...">
@@ -19,17 +19,17 @@
 <!ENTITY editVCard1.label "Modifica...">
 <!ENTITY editVCard1.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "Allega biglietto da visita elettronico (vCard) ai messaggi">
+<!ENTITY attachVCard.label "Allega il mio biglietto da visita elettronico (vCard) ai messaggi">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY manageIdentities.label "Gestione identità...">
+<!ENTITY manageIdentities.label "Gestisci identità...">
 <!ENTITY manageIdentities.accesskey "G">
 
-<!ENTITY smtpName1.label "Server posta in uscita:">
+<!ENTITY smtpName1.label "Server in uscita:">
 <!ENTITY smtpName1.accesskey "u">
-<!ENTITY smtpDefaultServer.label "Usare il server predefinito">
+<!ENTITY smtpDefaultServer.label "Utilizza server predefinito">
 
-<!ENTITY pbNoSignature.label "None">
+<!ENTITY pbNoSignature.label "Nessuno">
 <!ENTITY pbEditSignature1.label "Modifica...">
 <!ENTITY pbEditSignature1.accesskey "i">
 <!ENTITY pbChooseSignature1.label "Firma:">

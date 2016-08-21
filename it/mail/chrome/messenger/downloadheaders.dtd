@@ -49,5 +49,5 @@
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "intestazioni">
 <!ENTITY headers.accesskey  "n">
-<!ENTITY mark.label         "Marca le rimanenti intestazioni come lette">
+<!ENTITY mark.label         "Contrassegna le intestazioni rimanenti come lette">
 <!ENTITY mark.accesskey     "M">
