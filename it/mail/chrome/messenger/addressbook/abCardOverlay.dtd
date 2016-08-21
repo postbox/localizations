@@ -38,10 +38,10 @@
 <!ENTITY chooseAddressBook.label                "Aggiungi a: ">
 <!ENTITY chooseAddressBook.accesskey            "A">
 
-<!ENTITY Contact.tab                     "Contatto"> 
-<!ENTITY Name.box                        "Nome"> 
+<!ENTITY Contact.tab                     "Contatto">
+<!ENTITY Name.box                        "Nome">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -50,20 +50,20 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName"> 
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName"> 
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Nome:">
 <!ENTITY NameField1.accesskey           "N">
 <!ENTITY NameField2.label               "Cognome:">
 <!ENTITY NameField2.accesskey           "o">
-<!ENTITY PhoneticField1.label           "Ultimo nome fonetico:">
-<!ENTITY PhoneticField2.label           "Fonetica:">
+<!ENTITY PhoneticField1.label           "Fonetico:">
+<!ENTITY PhoneticField2.label           "Fonetico:">
 <!ENTITY DisplayName.label              "Nome visualizzato:">
 <!ENTITY DisplayName.accesskey          "v">
 <!ENTITY NickName.label                 "Soprannome:">
@@ -74,52 +74,52 @@
 <!ENTITY PrimaryEmail.accesskey         "-">
 <!ENTITY SecondEmail.label              "E-mail aggiuntiva:">
 <!ENTITY SecondEmail.accesskey          "g">
-<!ENTITY PreferMailFormat.label         "Formato preferito per i messaggi di posta:">
+<!ENTITY PreferMailFormat.label         "Formato preferito per i messaggi:">
 <!ENTITY PreferMailFormat.accesskey     "F">
 <!ENTITY PlainText.label                "Testo semplice">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Sconosciuto">
-<!ENTITY ScreenName.label               "Nome Instant Messenger:">
+<!ENTITY ScreenName.label               "Nome da visualizzare:">
 <!ENTITY ScreenName.accesskey           "m">
 
-<!ENTITY allowRemoteContent.label       "Allow remote images in HTML mail.">
+<!ENTITY allowRemoteContent.label       "Consenti immagini remote nelle e-mail in HTML.">
 <!ENTITY allowRemoteContent.accesskey   "g">
 
-<!ENTITY Phones.box                     "Phones">
+<!ENTITY Phones.box                     "Telefoni">
 <!ENTITY WorkPhone.label                "Lavoro:">
 <!ENTITY WorkPhone.accesskey            "L">
 <!ENTITY HomePhone.label                "Casa:">
 <!ENTITY HomePhone.accesskey            "s">
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
-<!ENTITY PagerNumber.label              "Cerca persone:">
+<!ENTITY PagerNumber.label              "Cercapersone:">
 <!ENTITY PagerNumber.accesskey          "e">
 <!ENTITY CellularNumber.label           "Cellulare:">
 <!ENTITY CellularNumber.accesskey       "l">
 
-<!ENTITY Address.tab                    "Indirizzo"> 
-<!ENTITY Home.box                       "Casa"> 
-<!ENTITY HomeAddress.label              "Indirizzo:"> 
-<!ENTITY HomeAddress2.label             ""> 
-<!ENTITY HomeCity.label                 "Città:"> 
-<!ENTITY HomeState.label                "Provincia:"> 
-<!ENTITY HomeZipCode.label              "CAP:"> 
-<!ENTITY HomeCountry.label              "Nazione:">
-<!ENTITY HomeWebPage.label              "Pagina web:"> 
-<!ENTITY Work.box                       "Lavoro"> 
-<!ENTITY JobTitle.label                 "Titolo:"> 
-<!ENTITY Department.label               "Reparto:"> 
-<!ENTITY Company.label                  "Organizzazione:"> 
-<!ENTITY WorkAddress.label              "Indirizzo:"> 
-<!ENTITY WorkAddress2.label             ""> 
-<!ENTITY WorkCity.label                 "Città:"> 
-<!ENTITY WorkState.label                "Provincia:"> 
-<!ENTITY WorkZipCode.label              "CAP:"> 
-<!ENTITY WorkCountry.label              "Nazione:">
+<!ENTITY Address.tab                    "Indirizzo">
+<!ENTITY Home.box                       "Casa">
+<!ENTITY HomeAddress.label              "Indirizzo:">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeCity.label                 "Città:">
+<!ENTITY HomeState.label                "Provincia:">
+<!ENTITY HomeZipCode.label              "CAP:">
+<!ENTITY HomeCountry.label              "Stato:">
+<!ENTITY HomeWebPage.label              "Pagina web:">
+<!ENTITY Work.box                       "Lavoro">
+<!ENTITY JobTitle.label                 "Titolo:">
+<!ENTITY Department.label               "Ufficio:">
+<!ENTITY Company.label                  "Organizzazione:">
+<!ENTITY WorkAddress.label              "Indirizzo:">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkCity.label                 "Città:">
+<!ENTITY WorkState.label                "Provincia:">
+<!ENTITY WorkZipCode.label              "CAP:">
+<!ENTITY WorkCountry.label              "Stato:">
 <!ENTITY WorkWebPage.label              "Pagina web:">
 
-<!ENTITY Picture.tab                    "Picture">
-<!ENTITY locationEditField.label        "Indirizzo immagine:">
+<!ENTITY Picture.tab                    "Immagine">
+<!ENTITY locationEditField.label        Percorso immagine:">
 <!ENTITY locationEditField.accessKey    "L">
 <!ENTITY locationEditField.tooltip      "Inserisci il nome del file o l'indirizzo dell'immagine">
 <!ENTITY chooseButton.label             "Scegli file…">

@@ -1,25 +1,25 @@
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
-<!ENTITY windowTitle.label "Richiesta posta HTML">
+<!ENTITY windowTitle.label "Domanda e-mail in HTML">
 
-<!ENTITY recipient.label "Alcuni dei destinatari in rubrica non sono indicati come in grado di ricevere posta HTML.">
+<!ENTITY recipient.label "Alcuni destinatari non sono in grado di ricevere e-mail in HTML.">
 
 <!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleYes.label "Your message can be converted to plain text without losing information.">
-<!ENTITY convertibleAltering.label "Your message can be converted to plain text without losing important information. However, the plain text version might look different from what you saw in the composer.">
-<!ENTITY convertibleNo.label "However, you used formatting (e.g. colors) that will not be converted to plain text.">
+<!ENTITY convertibleYes.label "Il tuo messaggio può essere convertito in testo semplice senza perdere informazioni.">
+<!ENTITY convertibleAltering.label "Il tuo messaggio può essere convertito in testo semplice senza perdere informazioni importanti. Tuttavia, la versione in testo semplice potrebbe essere differente da quella che hai visualizzato nel composer.">
+<!ENTITY convertibleNo.label "Tuttavia, hai utilizzato formattazione (es. colori) che non sarà convertita in testo semplice.">
 
-<!ENTITY question.label "Convertire il messaggio in testo semplice o inviarlo ugualmente in HTML?">
+<!ENTITY question.label "Vuoi convertire il messaggio in testo semplice o inviarlo ugualmente in HTML?">
 
-<!ENTITY plainTextAndHtml.label "Invia in testo semplice e HTML">
+<!ENTITY plainTextAndHtml.label "Invia in testo semplice e in HTML">
 <!ENTITY plainTextOnly.label "Invia solo in testo semplice">
 <!ENTITY htmlOnly.label "Invia solo in HTML">
 
-<!ENTITY plainTextAndHtmlRecommended.label "Send in Plain Text and HTML (recommended)">
-<!ENTITY plainTextOnlyRecommended.label "Send in Plain Text Only (recommended)">
-<!ENTITY htmlOnlyRecommended.label "Send in HTML Only (recommended)">
-<!ENTITY recommended.label "(recommended)">
+<!ENTITY plainTextAndHtmlRecommended.label "Invia in testo semplice e HTML (consigliato)">
+<!ENTITY plainTextOnlyRecommended.label "Invia solo in testo semplice (consigliato)">
+<!ENTITY htmlOnlyRecommended.label "Invia solo in HTML (consigliato)">
+<!ENTITY recommended.label "(consigliato)">
 
 <!ENTITY send.label "Invia">
 <!ENTITY cancel.label "Annulla">
-<!ENTITY recipients.label "Recipients...">
-<!ENTITY help.label "Help">
+<!ENTITY recipients.label "Destinatari...">
+<!ENTITY help.label "Aiuto">

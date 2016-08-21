@@ -6,18 +6,18 @@
 <!ENTITY  language.label                          "Caratteri per:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  size.label                              "Size:">
+<!ENTITY  size.label                              "Dimensioni:">
 <!ENTITY  proportionalSize.accesskey              "D">
 <!ENTITY  sizeMono.accesskey                      "i">
 
 <!ENTITY  proportional.label                      "Proporzionale:">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Con grazie:">
+<!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "C">
-<!ENTITY  sans-serif.label                        "Senza grazie:">
+<!ENTITY  sans-serif.label                        "Sans Serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Larghezza fissa:">
+<!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "L">
 
 <!ENTITY  font.langGroup.latin1                   "Occidentale">
@@ -25,7 +25,7 @@
 <!ENTITY  font.langGroup.japanese                 "Giapponese">
 <!ENTITY  font.langGroup.trad-chinese             "Cinese tradizionale (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Cinese semplificato">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Cinese tradizionale (HK)">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Cinese tradizionale (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreano">
 <!ENTITY  font.langGroup.cyrillic                 "Cirillico">
 <!ENTITY  font.langGroup.baltic                   "Baltico">
@@ -49,20 +49,20 @@
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Dim. minima carattere:">
+<!ENTITY minSize.label                            "Dimensioni minime carattere:">
 <!ENTITY minSize.accesskey                        "m">
-<!ENTITY minSize.none                             "Nessuna">
+<!ENTITY minSize.none                             "Nessuno">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Con grazie">
-<!ENTITY  useDefaultFontSansSerif.label           "Senza grazie">
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans serif">
 
 <!-- fonts in message -->
-<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
+<!ENTITY  useFixedWidthForPlainText.label         "Utilizza caratteri a larghezza fissa per messaggi in testo semplice">
 <!ENTITY  fixedWidth.accesskey                    "x">
-<!ENTITY  useDocumentFonts.label                  "Consenti ai messaggi di usare altri caratteri">
+<!ENTITY  useDocumentFonts.label                  "Consenti ai messaggi di utilizzare altri caratteri">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->
-<!ENTITY viewDefaultCharsetList1.label     "Character encoding:">
+<!ENTITY viewDefaultCharsetList1.label     "Codifica caratteri:">
 <!ENTITY viewDefaultCharsetList1.accesskey  "C">

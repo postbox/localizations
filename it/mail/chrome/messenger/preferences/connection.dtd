@@ -2,15 +2,15 @@
 <!ENTITY  window.width                   "49em">
 
 <!ENTITY  proxyTitle.label              "Configura proxy per l'accesso a Internet">
-<!ENTITY  noProxyTypeRadio.label        "No proxy">
+<!ENTITY  noProxyTypeRadio.label        "Nessun proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
+<!ENTITY  systemTypeRadio.label         "Utilizza le impostazioni proxy di sistema">
 <!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY  WPADTypeRadio.label           "Configurazione automatica delle impostazioni del proxy per questa rete">
+<!ENTITY  WPADTypeRadio.label           "Rileva automaticamente le impostazioni proxy per questa rete">
 <!ENTITY  WPADTypeRadio.accesskey       "x">
-<!ENTITY  manualTypeRadio.label         "Configurazione manuale del proxy:">
+<!ENTITY  manualTypeRadio.label         "Configurazione manuale proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
-<!ENTITY  autoTypeRadio.label           "URL per la configurazione automatica del proxy:">
+<!ENTITY  autoTypeRadio.label           "URL per la configurazione automatica proxy:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
 <!ENTITY  reload.label                  "Ricarica">
 <!ENTITY  reload.accesskey              "R">
@@ -18,7 +18,7 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "Proxy SSL:">
 <!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "Server SOCKS:">
+<!ENTITY  socks.label                   "Host SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
@@ -33,5 +33,5 @@
 <!ENTITY  noproxy.label                 "Nessun proxy per:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Esempio: .mozilla.org, .net.nz, mozillaitalia.org, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Utilizza questo proxy per tutti i protocolli">
+<!ENTITY  shareproxy.label              "Utilizza questo server proxy per tutti i protocolli">
 <!ENTITY  shareproxy.accesskey          "U">
