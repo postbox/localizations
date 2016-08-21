@@ -46,14 +46,14 @@
 <!ENTITY findButton.accesskey              "z">
 <!ENTITY directorySecure.label             "Usar conexão segura (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
-<!ENTITY directoryLogin.label              "Bind DN: ">
+<!ENTITY directoryLogin.label              "Associar DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY advancedOptionsButton.label       "Advanced Options">
+<!ENTITY advancedOptionsButton.label       "Opções avançadas">
 <!ENTITY advancedOptionsButton.accesskey   "A">
 <!ENTITY General.tab                       "Geral">
 <!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Avançado">
-<!ENTITY advancedOptionsTitle.label        "Advanced Options">
+<!ENTITY advancedOptionsTitle.label        "Opções avançadas">
 <!ENTITY portNumber.label                  "Porta: ">
 <!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Filtro de pesquisa: ">
@@ -68,7 +68,7 @@
 <!ENTITY return.accesskey                  "N">
 <!ENTITY results.label                     "resultados">
 <!ENTITY offlineText.label                 "Você pode fazer uma cópia local deste diretório para usá-lo quando estiver offline.">
-<!-- Localization note: this is here because the width of the dialog 
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
