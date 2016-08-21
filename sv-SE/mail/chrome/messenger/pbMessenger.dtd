@@ -1,65 +1,65 @@
 <!-- File Menu -->
-<!ENTITY pbLocalesMenu.label "Language">
+<!ENTITY pbLocalesMenu.label "Språk">
 <!ENTITY pbLocalesMenu.accesskey "g">
-<!ENTITY pbLocalesMenu_getMore.label "Get More...">
+<!ENTITY pbLocalesMenu_getMore.label "Hämta mer...">
 <!ENTITY pbLocalesMenu_getMore.accesskey "G">
-<!ENTITY newAccountGroupCmd.label "Account Group...">
+<!ENTITY newAccountGroupCmd.label "Kontogrupp...">
 <!ENTITY newAccountGroupCmd.accesskey "G">
-<!ENTITY closeTab.label "Close Tab">
+<!ENTITY closeTab.label "Stäng flik">
 <!ENTITY closeTab.accesskey "C">
-<!ENTITY closeWindow.label "Close Window">
+<!ENTITY closeWindow.label "Stäng fönster">
 <!ENTITY closeWindow.accesskey "e">
 
 <!-- Messages Menu -->
-<!ENTITY quickReplyMsgCmd.label "Quick Reply">
+<!ENTITY quickReplyMsgCmd.label "Snabbsvar">
 <!ENTITY quickReplyMsgCmd.accesskey "Q">
 
 <!-- Tools Menu -->
-<!ENTITY pbIndexingMenu.label "Indexing">
+<!ENTITY pbIndexingMenu.label "Indexerar">
 <!ENTITY pbIndexingMenu.accesskey "x">
-<!ENTITY indexAllMessages.label "Index All Folders...">
+<!ENTITY indexAllMessages.label "Indexera alla mappar...">
 <!ENTITY indexAllMessages.accesskey "I">
-<!ENTITY indexMessagesInFolder.label "Index This Folder...">
+<!ENTITY indexMessagesInFolder.label "Indexera denna mapp...">
 <!ENTITY indexMessagesInFolder.accesskey "F">
-<!ENTITY resetIndexAllMessages.label "Reset All Folders...">
+<!ENTITY resetIndexAllMessages.label "Återställ alla mappar...">
 <!ENTITY resetIndexAllMessages.accesskey "R">
-<!ENTITY resetIndexMessagesInFolder.label "Reset This Folder...">
+<!ENTITY resetIndexMessagesInFolder.label "Återställ denna mapp...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY updateCmd.label "Check for Updates…">
+<!ENTITY updateCmd.label "Kolla efter uppdateringar…">
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
-<!ENTITY pinStarredMessages.label "Pin Reminders">
+<!ENTITY pinStarredMessages.label "Fäst påminnelser">
 <!ENTITY pinStarredMessages.accesskey "P">
-<!ENTITY showConversations.label "Show Conversations">
+<!ENTITY showConversations.label "Visa samtal">
 <!ENTITY showConversations.accesskey "h">
-<!ENTITY viewMenuShowMessages.label        "Messages">
+<!ENTITY viewMenuShowMessages.label        "Meddelanden">
 <!ENTITY viewMenuShowMessages.accesskey    "M">
 <!ENTITY key_showMessages.key              "t">
-<!ENTITY viewMenuShowAttachments.label "Attachments">
+<!ENTITY viewMenuShowAttachments.label "Bilagor">
 <!ENTITY viewMenuShowAttachments.accesskey "t">
 <!ENTITY key_showAttachments.key         "a">
-<!ENTITY viewMenuShowImages.label        "Images">
+<!ENTITY viewMenuShowImages.label        "Bilder">
 <!ENTITY viewMenuShowImages.accesskey    "m">
 <!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowTodos.label "Reminders">
+<!ENTITY viewMenuShowTodos.label "Påminnelser">
 <!ENTITY viewMenuShowTodos.accesskey "D">
 <!ENTITY key_showTodos.key           "o">
-<!ENTITY showFolderPaneCmd.label "Folder Pane">
+<!ENTITY showFolderPaneCmd.label "Mappvy">
 <!ENTITY showFolderPaneCmd.accesskey "F">
-<!ENTITY showFocusPaneCmd.label "Focus Pane">
+<!ENTITY showFocusPaneCmd.label "Fokusvy">
 <!ENTITY showFocusPaneCmd.accesskey "o">
 <!ENTITY pbToggleFocusPane.key "P">
 <!ENTITY pbToggleFolderPaneMac.key "M">
 <!ENTITY pbToggleFolderPane.key "L">
 <!ENTITY pbToggleInspectorPane.key "I">
 <!ENTITY pbMessagePaneMac.key "E">
-<!ENTITY showInspectorPaneCmd.label "Inspector Pane">
+<!ENTITY showInspectorPaneCmd.label "Granskningsvy">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
-<!ENTITY pbExpandConversationMsgs.label "Expand Conversation">
+<!ENTITY pbExpandConversationMsgs.label "Fäll ut samtal">
 <!ENTITY pbExpandConversationMsgs.accesskey "x">
 <!ENTITY pbExpandConversationMsgs.key "o">
-<!ENTITY pbCollapseConversationMsgs.label "Collapse Conversation">
+<!ENTITY pbCollapseConversationMsgs.label "Fäll in samtal">
 <!ENTITY pbCollapseConversationMsgs.accesskey "n">
 <!ENTITY pbCollapseConversationMsgs.key "o">
 <!ENTITY showPanes.label "Show">
@@ -67,23 +67,23 @@
 
 <!-- Mail Toolbar -->
 <!ENTITY tagButton.label "Tilldela ämne">
-<!ENTITY kindFocusToolbarItem.title "Kind">
+<!ENTITY kindFocusToolbarItem.title "Sort">
 <!ENTITY focusPaneText.label            "Sök">
 <!ENTITY focusPaneAttachments.label     "Bilagor">
-<!ENTITY focusPaneEvents.label          "Events">
+<!ENTITY focusPaneEvents.label          "Händelser">
 <!ENTITY focusPaneImages.label          "Bilder">
-<!ENTITY focusPaneMessages.label        "View All">
-<!ENTITY viewButtons.label              "View">
-<!ENTITY focusPaneTodos.label           "Reminders">
-<!ENTITY tagButton.tooltip "Add topic to messages">
-<!ENTITY newTaskButton.tooltip "Create a new Reminder">
-<!ENTITY newTaskButton.label "New Reminder">
-<!ENTITY inspectorButton.label "Inspector">
-<!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
-<!ENTITY pbToolbarButton-home.label "Home">
-<!ENTITY pbToolbarButton-home.tooltip "Take me back to my Inbox and clear any search criteria">
+<!ENTITY focusPaneMessages.label        "Kolla alla">
+<!ENTITY viewButtons.label              "Kolla">
+<!ENTITY focusPaneTodos.label           "Påminnelser">
+<!ENTITY tagButton.tooltip "Lägg till ämne till meddelande">
+<!ENTITY newTaskButton.tooltip "Skapa en ny påminnelse">
+<!ENTITY newTaskButton.label "Ny påminnelse">
+<!ENTITY inspectorButton.label "Granskare">
+<!ENTITY inspectorButton.tooltip "Växla granskningsvyn">
+<!ENTITY pbToolbarButton-home.label "Hem">
+<!ENTITY pbToolbarButton-home.tooltip "Ta mig tillbaka till min inkorg och rensa alla sökkriterier">
 <!ENTITY pbToolbarButton-promote.label   "Skicka">
-<!ENTITY pbToolbarButton-promote.tooltip   "Post a message to the Web">
+<!ENTITY pbToolbarButton-promote.tooltip   "Posta ett meddelande på nätet">
 <!ENTITY pbToolbarButton-promote-twitter.label "Twitter">
 <!ENTITY pbToolbarButton-promote-twitter.accesskey "T">
 <!ENTITY pbToolbarButton-promote-facebook.label "Facebook">
@@ -95,36 +95,36 @@
 
 <!-- Tags Menu Popup -->
 <!ENTITY applyTag.label "Sätt en etikett på meddelandet">
-<!ENTITY addNewTag.label "New Topic...">
+<!ENTITY addNewTag.label "Nytt ämne...">
 <!ENTITY addNewTag.accesskey "T">
-<!ENTITY removeTag.label "Remove Topic">
-<!ENTITY removeAllTag.label "Remove All...">
+<!ENTITY removeTag.label "ta bort ämne">
+<!ENTITY removeAllTag.label "Ta bort alla...">
 <!ENTITY removeAllTag.accesskey "A">
 
 <!-- search menu -->
-<!ENTITY pbFullTextSearchCmd.label "Search Messages">
+<!ENTITY pbFullTextSearchCmd.label "Sök meddelanden">
 <!ENTITY pbFullTextSearchCmd.accesskey "M">
 
 <!-- search result popup -->
-<!ENTITY searchResultPopup-imageZoom.label      "Image Zoom">
+<!ENTITY searchResultPopup-imageZoom.label      "Bildzoom">
 <!ENTITY searchResultPopup-imageZoom.accesskey  "I">
-<!ENTITY searchResultPopup-openAttachment.label      "Open">
+<!ENTITY searchResultPopup-openAttachment.label      "Öppna">
 <!ENTITY searchResultPopup-openAttachment.accesskey  "O">
-<!ENTITY searchResultPopup-openMessage.label         "Open Message">
+<!ENTITY searchResultPopup-openMessage.label         "Öppna meddelande">
 <!ENTITY searchResultPopup-openMessage.accesskey     "M">
-<!ENTITY searchResultPopup-openFolder.label          "Open Message Folder">
+<!ENTITY searchResultPopup-openFolder.label          "Öppna meddelandemapp">
 <!ENTITY searchResultPopup-openFolder.accesskey      "p">
-<!ENTITY searchResultPopup-quickLookMac.label           "Quick Look...">
+<!ENTITY searchResultPopup-quickLookMac.label           "Snabbkoll...">
 <!ENTITY searchResultPopup-quickLookMac.accesskey       "Q">
-<!ENTITY searchResultPopup-quickLook.label           "Preview...">
+<!ENTITY searchResultPopup-quickLook.label           "Förhandsgranska...">
 <!ENTITY searchResultPopup-quickLook.accesskey       "w">
-<!ENTITY searchResultPopup-attachTo.label            "Attach To">
+<!ENTITY searchResultPopup-attachTo.label            "Bifoga till">
 <!ENTITY searchResultPopup-attachTo.accesskey        "A">
-<!ENTITY pbSearchResultPopup-send.label              "Send...">
+<!ENTITY pbSearchResultPopup-send.label              "Skicka...">
 <!ENTITY pbSearchResultPopup-send.accesskey          "e">
-<!ENTITY pbSearchResultPopup-save.label              "Save...">
+<!ENTITY pbSearchResultPopup-save.label              "Spara...">
 <!ENTITY pbSearchResultPopup-save.accesskey          "S">
-<!ENTITY pbSearchResultPopup-upload.label            "Upload to">
+<!ENTITY pbSearchResultPopup-upload.label            "Ladda upp till">
 <!ENTITY pbSearchResultPopup-upload.accesskey        "U">
 <!ENTITY pbSearchResultPopup-addUrlToGoogle.label          "Google">
 <!ENTITY pbSearchResultPopup-addUrlToGoogle.accesskey      "l">
@@ -138,223 +138,223 @@
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.accesskey     "T">
 <!ENTITY pbSearchResultPopup-addUrlToLinkedIn.label        "LinkedIn">
 <!ENTITY pbSearchResultPopup-addUrlToLinkedIn.accesskey    "L">
-<!ENTITY searchResultPopup-systemPhotoImportMac.label      "Add to iPhoto">
+<!ENTITY searchResultPopup-systemPhotoImportMac.label      "Lägg till i iPhoto">
 <!ENTITY searchResultPopup-systemPhotoImportMac.accesskey  "h">
 
 <!-- inline edit subject bar -->
 <!ENTITY msgAnnotation.title                         "Redigera">
-<!ENTITY saveMessageEditing.button.label             "Save">
+<!ENTITY saveMessageEditing.button.label             "Spara">
 <!ENTITY saveMessageEditing.button.accesskey         "S">
-<!ENTITY saveMessageEditingAsCopy.button.label       "Save As Copy">
+<!ENTITY saveMessageEditingAsCopy.button.label       "Spara som kopia">
 <!ENTITY saveMessageEditingAsCopy.button.accesskey   "a">
-<!ENTITY cancelMessageEditing.button.label           "Cancel">
+<!ENTITY cancelMessageEditing.button.label           "Ångra">
 <!ENTITY cancelMessageEditing.button.accesskey       "C">
 
 <!-- inline message editing toolbar -->
-<!ENTITY boldEditMsgToolbarCmd.tooltip               "Bold">
+<!ENTITY boldEditMsgToolbarCmd.tooltip               "Fet">
 <!ENTITY italicEditMsgToolbarCmd.tooltip             "Kursiv">
 <!ENTITY underlineEditMsgToolbarCmd.tooltip          "Understruken">
 <!ENTITY strikethroughEditMsgToolbarCmd.tooltip      "Genomstruken">
-<!ENTITY cropTextEditMsgToolbarCmd.tooltip           "Crop Text">
+<!ENTITY cropTextEditMsgToolbarCmd.tooltip           "Beskär text">
 <!ENTITY insertLinkEditMsgToolbarCmd.tooltip         "Infoga ny länk eller ändra egenskaperna för markerad länk">
-<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Apply or remove bulleted or numbered list">
-<!ENTITY noneMsgToolbarCmd.label                     "None">
+<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Använd eller ta bort punktlista eller numrerad lista">
+<!ENTITY noneMsgToolbarCmd.label                     "Ingen">
 <!ENTITY noneMsgToolbarCmd.accesskey                 "N">
-<!ENTITY listBulletMsgToolbarCmd.label               "Bulleted">
+<!ENTITY listBulletMsgToolbarCmd.label               "Punkt">
 <!ENTITY listbulletMsgToolbarCmd.accesskey           "b">
-<!ENTITY listNumberedMsgToolbarCmd.label             "Numbered">
+<!ENTITY listNumberedMsgToolbarCmd.label             "Numrerad">
 <!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
-<!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insert HTML or edit selected HTML">
-<!ENTITY switchBetweenNormalAndCode.tooltip          "Switch between Normal and Code views">
-<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Outdent text (move left)">
-<!ENTITY indentEditMsgToolbarCmd.tooltip             "Indent text (move right)">
+<!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Sätt in HTML eller redigera vald HTML">
+<!ENTITY switchBetweenNormalAndCode.tooltip          "Växla mellan vanlig vy och kodvy">
+<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Utdragen text (flytta vänster)">
+<!ENTITY indentEditMsgToolbarCmd.tooltip             "Indragen text (flytta höger)">
 
 <!-- inline message editing context menu -->
-<!ENTITY spellAddToDictionary.label                  "Add to Dictionary">
+<!ENTITY spellAddToDictionary.label                  "Lägg till i katalog">
 <!ENTITY spellAddToDictionary.accesskey              "o">
 <!ENTITY spellNoSuggestions.label                    "(Inga stavningsförslag)">
-<!ENTITY spellCheckIgnoreWord.label                  "Ignore Word">
+<!ENTITY spellCheckIgnoreWord.label                  "Ignorera ord">
 <!ENTITY spellCheckIgnoreWord.accesskey              "I">
-<!ENTITY spellCheckEnable.label                      "Check Spelling">
+<!ENTITY spellCheckEnable.label                      "Kolla stavning">
 <!ENTITY spellCheckEnable.accesskey                  "S">
-<!ENTITY spellDictionaries.label                     "Languages">
+<!ENTITY spellDictionaries.label                     "Språk">
 <!ENTITY spellDictionaries.accesskey                 "L">
 
 <!-- indexer progress dialog -->
-<!ENTITY indexerProgress.title                       "Indexing Messages">
-<!ENTITY indexerProgressMessages.label               "Messages:">
-<!ENTITY indexerProgressFolders.label                "Folders:">
+<!ENTITY indexerProgress.title                       "Indexerar meddelanden">
+<!ENTITY indexerProgressMessages.label               "Meddelanden:">
+<!ENTITY indexerProgressFolders.label                "Mappar:">
 <!ENTITY indexerProgress.status                      "Status:">
-<!ENTITY stopIndexingButton.label                    "Stop">
-<!ENTITY indexerProgressTitle.label                  "Indexing Messages...">
+<!ENTITY stopIndexingButton.label                    "Stoppa">
+<!ENTITY indexerProgressTitle.label                  "Indexerar meddelanden...">
 
 <!-- rich search bar -->
 <!ENTITY searchbar-defaultSearchText.label      "Sök">
-<!ENTITY searchbar-caption.label                "Press Ctrl-ENTER for text preview">
-<!ENTITY searchbar-captionMac.label             "Press command-return for text preview">
+<!ENTITY searchbar-caption.label                "Klicka Ctrl-ENTER för förhandsgranskning av text">
+<!ENTITY searchbar-captionMac.label             "Klicka command-return för förhandsgranskning av text">
 
 <!-- advanced search panel -->
-<!ENTITY searchOptionsPanelTitle.label          "Search Options">
-<!ENTITY searchContainsField.label              "Contains">
+<!ENTITY searchOptionsPanelTitle.label          "Sökalternativ">
+<!ENTITY searchContainsField.label              "Innehåller">
 <!ENTITY searchFromField.label                  "Från">
 <!ENTITY searchToField.label                    "Till">
 <!ENTITY searchSubjectField.label               "Ämne">
 <!ENTITY searchTopicField.label                 "Etikett">
-<!ENTITY searchBeforeField.label                "Before">
-<!ENTITY searchAfterField.label                 "After">
+<!ENTITY searchBeforeField.label                "Före">
+<!ENTITY searchAfterField.label                 "Efter">
 <!-- The number of characters that can be displayed in the search field textboxes -->
 <!ENTITY searchField.size                       "30">
-<!ENTITY searchBar-options.tooltip              "Show search options">
+<!ENTITY searchBar-options.tooltip              "Visa sökalternativ">
 <!ENTITY searchButton.label                     "Sök">
 <!ENTITY cancelButton.label                     "Avbryt">
 
 <!-- message pane progress text -->
-<!ENTITY messagePaneProgressText.label          "Loading...">
+<!ENTITY messagePaneProgressText.label          "Laddar...">
 
 <!-- pbEditorPanel.inc -->
 <!ENTITY todoPanelSave.label                    "Spara">
 <!ENTITY todoPanelCancel.label                  "Avbryt">
 
 <!-- pbSharePanel.inc -->
-<!ENTITY sharePanelShare.label                   "Update">
+<!ENTITY sharePanelShare.label                   "Uppdatera">
 <!ENTITY sharePanelCancel.label                  "Avbryt">
 
 <!-- content URL context menu -->
 <!ENTITY pbContentURLContextMenu-bookmarkURL.accesskey    "B">
-<!ENTITY pbContentURLContextMenu-otherActions.label       "Other Actions">
+<!ENTITY pbContentURLContextMenu-otherActions.label       "Andra åtgärder">
 <!ENTITY pbContentURLContextMenu-otherActionsURL.accesskey "h">
-<!ENTITY pbContentURLContextMenu-openURL.label            "Open in Browser">
+<!ENTITY pbContentURLContextMenu-openURL.label            "Öppna i webbläsare">
 <!ENTITY pbContentURLContextMenu-openURL.accesskey        "O">
-<!ENTITY pbContentURLContextMenu-copyURL.label            "Copy">
+<!ENTITY pbContentURLContextMenu-copyURL.label            "Kopiera">
 <!ENTITY pbContentURLContextMenu-copyURL.accesskey        "C">
-<!ENTITY pbContentURLContextMenu-sendURL.label            "Send Link...">
+<!ENTITY pbContentURLContextMenu-sendURL.label            "Skicka länk...">
 <!ENTITY pbContentURLContextMenu-sendURL.accesskey        "S">
-<!ENTITY pbContentURLContextMenu-addToGoogle.label        "Add to Google">
+<!ENTITY pbContentURLContextMenu-addToGoogle.label        "Lägg till hos Google">
 <!ENTITY pbContentURLContextMenu-addToGoogle.accesskey    "G">
-<!ENTITY pbContentURLContextMenu-addToDelicious.label     "Add to del.icio.us">
+<!ENTITY pbContentURLContextMenu-addToDelicious.label     "Lägg till hos del.icio.us">
 <!ENTITY pbContentURLContextMenu-addToDelicious.accesskey "A">
-<!ENTITY pbContentURLContextMenu-addToFacebook.label      "Post to Facebook...">
+<!ENTITY pbContentURLContextMenu-addToFacebook.label      "Posta till Facebook...">
 <!ENTITY pbContentURLContextMenu-addToFacebook.accesskey  "F">
-<!ENTITY pbContentURLContextMenu-addToFriendFeed.label    "Post to FriendFeed...">
+<!ENTITY pbContentURLContextMenu-addToFriendFeed.label    "Posta till FriendFeed...">
 <!ENTITY pbContentURLContextMenu-addToFriendFeed.accesskey "r">
-<!ENTITY pbContentURLContextMenu-addToTwitter.label       "Post to Twitter...">
+<!ENTITY pbContentURLContextMenu-addToTwitter.label       "Posta till Twitter...">
 <!ENTITY pbContentURLContextMenu-addToTwitter.accesskey   "w">
-<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Post to LinkedIn...">
+<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Posta till LinkedIn...">
 <!ENTITY pbContentURLContextMenu-addToLinkedIn.accesskey  "L">
 
 <!-- text context menu -->
 <!ENTITY pbContentTextContextMenu-websearch.accesskey    "S">
 <!ENTITY pbContentTextContextMenu-research.accesskey     "R">
 <!ENTITY pbContentTextContextMenu-review.accesskey       "e">
-<!ENTITY pbContentTextContextMenu-otherActions.label     "Other Actions">
+<!ENTITY pbContentTextContextMenu-otherActions.label     "Andra åtgärder">
 <!ENTITY pbContentTextContextMenu-otherActions.accesskey "O">
 <!ENTITY pbContentTextContextMenu-map.accesskey          "M">
-<!ENTITY pbContentTextContextMenu-phone.label            "Call Number">
+<!ENTITY pbContentTextContextMenu-phone.label            "Ring nummer">
 <!ENTITY pbContentTextContextMenu-phone.accesskey        "C">
-<!ENTITY pbContentTextContextMenu-systemSearchMac.label      "Search in Spotlight">
+<!ENTITY pbContentTextContextMenu-systemSearchMac.label      "Sök i Spotlight">
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
-<!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Look Up in Dictionary">
+<!ENTITY pbContentTextContextMenu-dictionaryMac.label        "a upp i katalog">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "L">
-<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New Reminder with Selection as Note">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Saker: Ny påminnelse med markering som anteckning">
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
-<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New Reminder with Selection as Title">
+<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Saker: Ny påminnelse med markering som titel">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
-<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Send to Inbox">
+<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Skicka till inkorg">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
 
 <!-- topic context menu -->
-<!ENTITY pbTopicContextMenu-edit.label         "Rename">
+<!ENTITY pbTopicContextMenu-edit.label         "Byt namn">
 <!ENTITY pbTopicContextMenu-edit.accesskey     "e">
-<!ENTITY pbTopicContextMenu-favorite.label     "Favorite Topic">
+<!ENTITY pbTopicContextMenu-favorite.label     "Favoritämne">
 <!ENTITY pbTopicContextMenu-favorite.accesskey "F">
-<!ENTITY pbTopicContextMenu-remove.label       "Remove">
+<!ENTITY pbTopicContextMenu-remove.label       "Ta bort">
 <!ENTITY pbTopicContextMenu-remove.accesskey   "R">
-<!ENTITY pbTopicContextMenu-editAll.label      "Edit Topics...">
+<!ENTITY pbTopicContextMenu-editAll.label      "Redigera ämne...">
 <!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
 
 <!-- account tree context menu -->
-<!ENTITY pbAccountTreeContextMenu-newGroup.label "New Account Group...">
+<!ENTITY pbAccountTreeContextMenu-newGroup.label "Ny kontogrupp...">
 <!ENTITY pbAccountTreeContextMenu-newGroup.accesskey "G">
-<!ENTITY pbAccountTreeContextMenu-settings.label "Settings...">
+<!ENTITY pbAccountTreeContextMenu-settings.label "Inställningar...">
 <!ENTITY pbAccountTreeContextMenu-settings.accesskey "i">
 
 <!-- folder pane -->
-<!ENTITY accountTreeMac.label    "ACCOUNTS">
-<!ENTITY folderTreeMac.label     "FOLDERS">
+<!ENTITY accountTreeMac.label    "KONTON">
+<!ENTITY folderTreeMac.label     "MAPPAR">
 
 <!-- thread pane -->
-<!ENTITY threadPaneNoMatchesFound.desc "No messages matched your search.">
-<!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Try looking in All Folders.">
-<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Try setting your Focus to All.">
-<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
-<!ENTITY threadPaneAddTextToSearch.desc "Start typing in the search bar to begin your search.">
+<!ENTITY threadPaneNoMatchesFound.desc "Inga meddelanden matchade din sökningh.">
+<!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Försök genom att kolla i alla mappar.">
+<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Försök genom att sätta Fokus på alla.">
+<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Försök genom att ställa in din v på meddelanden.">
+<!ENTITY threadPaneAddTextToSearch.desc "Börja din sökning genom att skriva i sökfältet.">
 
-<!ENTITY pbSignatureEditor.title "New Signature">
+<!ENTITY pbSignatureEditor.title "Ny signatur">
 <!ENTITY pbSignatureEditor.name "Namn">
-<!ENTITY pbSignatureEditor.body "Signature">
+<!ENTITY pbSignatureEditor.body "Signatur">
 
 <!-- pbSearchBox.xml -->
 <!ENTITY pbSearchScopePanel-location.label "Plats">
-<!ENTITY pbSearchScopePanel-recent.label "Search History">
+<!ENTITY pbSearchScopePanel-recent.label "Sökhistorik">
 
 <!-- facebook extension login.xul and auth.xul -->
-<!ENTITY login.window.title "Login to Facebook">
-<!ENTITY login.wait "Please wait while we prepare to log you in...">
-<!ENTITY login.close "Close login window">
-<!ENTITY auth.window.title "Allow Status Updates from Postbox">
-<!ENTITY auth.close "Close window">
+<!ENTITY login.window.title "Logga in till Facebook">
+<!ENTITY login.wait "Vänta medan vi förbereder din inloggning...">
+<!ENTITY login.close "Stäng inloggningsfönster">
+<!ENTITY auth.window.title "Tillåt statusuppdateringar från Postbox">
+<!ENTITY auth.close "Stäng fönster">
 
 <!-- pbLanguageProgress.xul -->
-<!ENTITY downloadLanguage.title "Download Language">
+<!ENTITY downloadLanguage.title "mta språk">
 
 <!-- thread pane context menu -->
-<!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Send to Inbox">
+<!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Skicka till inkorgen">
 <!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "i">
 
 <!-- Vertical view sort by context menu -->
-<!ENTITY pbSortAscendingContextMenuItem.label "Ascending Order">
+<!ENTITY pbSortAscendingContextMenuItem.label "Stigande ordning">
 <!ENTITY pbSortAscendingContextMenuItem.accesskey "A">
-<!ENTITY pbSortDescendingContextMenuItem.label "Descending Order">
+<!ENTITY pbSortDescendingContextMenuItem.label "Fallande ordning">
 <!ENTITY pbSortDescendingContextMenuItem.accesskey "D">
 
 <!-- message pane context menu -->
-<!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Send to Inbox">
+<!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Skicka till inkorgen">
 <!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
 
 <!-- status bar -->
-<!ENTITY pbStatusBarOption-newAccount.label "New Account...">
+<!ENTITY pbStatusBarOption-newAccount.label "Nytt konto...">
 <!ENTITY pbStatusBarOption-newAccount.accesskey "N">
-<!ENTITY pbStatusBarOption-newGroup.label "New Account Group...">
+<!ENTITY pbStatusBarOption-newGroup.label "Ny kontogrupp...">
 <!ENTITY pbStatusBarOption-newGroup.accesskey "G">
-<!ENTITY pbStatusBarOption-settings.label "Account Settings...">
+<!ENTITY pbStatusBarOption-settings.label "Kontoinställningar...">
 <!ENTITY pbStatusBarOption-settings.accesskey "A">
-<!ENTITY pbStatusBarOption-newFolder.label "New Folder...">
+<!ENTITY pbStatusBarOption-newFolder.label "Ny mapp...">
 <!ENTITY pbStatusBarOption-newFolder.accesskey "F">
-<!ENTITY pbStatusBarOption-folderProperties.label "Folder Properties...">
+<!ENTITY pbStatusBarOption-folderProperties.label "Mappegenskaper...">
 <!ENTITY pbStatusBarOption-folderProperties.accesskey "P">
-<!ENTITY pbStatusBarOption-subscribe.label "Subscribe...">
+<!ENTITY pbStatusBarOption-subscribe.label "Prenumerera...">
 <!ENTITY pbStatusBarOption-subscribe.accesskey "S">
-<!ENTITY pbStatusBarOption-deleteGroup.label "Delete Account Group">
+<!ENTITY pbStatusBarOption-deleteGroup.label "Radera kontogrupp">
 <!ENTITY pbStatusBarOption-deleteGroup.accesskey "D">
 
 <!-- Messages Menu -->
-<!ENTITY pbMoveToFolderAgain.label "Move">
+<!ENTITY pbMoveToFolderAgain.label "Flytta">
 <!ENTITY pbMoveToFolderAgain.accesskey "v">
 
 <!-- Conversation Action context menu -->
-<!ENTITY pbConversationHdrContextMenu-reply.label "Reply">
+<!ENTITY pbConversationHdrContextMenu-reply.label "Svara">
 <!ENTITY pbConversationHdrContextMenu-reply.accesskey "R">
-<!ENTITY pbConversationHdrContextMenu-replyall.label "Reply All">
+<!ENTITY pbConversationHdrContextMenu-replyall.label "Svara alla">
 <!ENTITY pbConversationHdrContextMenu-replyall.accesskey "A">
-<!ENTITY pbConversationHdrContextMenu-forward.label "Forward">
+<!ENTITY pbConversationHdrContextMenu-forward.label "Vidarebefordra">
 <!ENTITY pbConversationHdrContextMenu-forward.accesskey "F">
-<!ENTITY pbConversationHdrContextMenu-open.label "Open">
+<!ENTITY pbConversationHdrContextMenu-open.label "Öppna">
 <!ENTITY pbConversationHdrContextMenu-open.accesskey "O">
 
 <!-- Help Menu -->
-<!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">
+<!ENTITY pbKeyboardShortCuts.label "Tangentbordsgenvägar">
 <!ENTITY pbKeyboardShortCuts.accesskey "K">
-<!ENTITY guideCmd.label "Quickstart Guide">
+<!ENTITY guideCmd.label "Snabbstartsguide">
 <!ENTITY guideCmd.accesskey "r">
 
 
@@ -363,14 +363,14 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbContentTextContextMenu-evernote.label       "Add to Evernote">
-<!ENTITY fullScreenMode.label "Enter Full Screen">
-<!ENTITY pbMessagePaneContext-evernote.label     "Add to Evernote">
+<!ENTITY pbContentTextContextMenu-evernote.label       "Lägg till i Evernote">
+<!ENTITY fullScreenMode.label "Starta helskärmsläge">
+<!ENTITY pbMessagePaneContext-evernote.label     Lägg till i Evernote">
 <!ENTITY pbContentTextContextMenu-date.accesskey        "d">
 <!ENTITY fullScreenMode.accesskey "l">
-<!ENTITY evernoteButton.tooltip "Add to Evernote">
+<!ENTITY evernoteButton.tooltip "Lägg till i Evernote">
 <!ENTITY pbMessagePaneContext-evernote.accesskey "e">
-<!ENTITY pbContentTextContextMenu-date.label            "Add to Calendar">
+<!ENTITY pbContentTextContextMenu-date.label            "Lägg till i kalender">
 <!ENTITY pbContentTextContextMenu-evernote.accesskey  "e">
 <!ENTITY evernoteButton.label "Evernote">
 
@@ -380,23 +380,23 @@
 -->
 
 <!ENTITY showFavoritesBarCmd.accesskey "v">
-<!ENTITY pbFolderPaneSlider.label "Hide">
-<!ENTITY showFavoritesBarCmd.label "Favorites Bar">
+<!ENTITY pbFolderPaneSlider.label "Dölj">
+<!ENTITY showFavoritesBarCmd.label "Favoritrad">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbFavoritesBarContextMenu-remove.label "Remove From Favorites">
+<!ENTITY pbFavoritesBarContextMenu-remove.label "Ta bort från favoriter">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbToolbarButton-runFiltersButton.label "Run Filters">
-<!ENTITY pbToolbarButton-runFiltersButton.tooltip "Run filters on the current folder">
+<!ENTITY pbToolbarButton-runFiltersButton.label "Kör filter">
+<!ENTITY pbToolbarButton-runFiltersButton.tooltip "Kör filter på aktuell mapp">
 
 
 <!--
@@ -404,16 +404,16 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pbContentTextContextMenu-postboxSearch.accesskey  "P">
-<!ENTITY pbContentTextContextMenu-postboxSearch.label      "Search in Postbox">
+<!ENTITY pbContentTextContextMenu-postboxSearch.label      "Sök i Postbox">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbTopicContextMenu-delete.label       "Delete">
+<!ENTITY pbTopicContextMenu-delete.label       "Radera">
 <!ENTITY pbTopicContextMenu-delete.accesskey   "d">
-<!ENTITY pbTopicContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbTopicContextMenu-assignColor.label  "Ställ in ämnesfärg">
 <!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
 
 
@@ -421,17 +421,17 @@ entities below were automatically added by l10nmerge
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY reminderButton.label "Reminder">
-<!ENTITY removeReminderButton.tooltip "Mark the selected messages as not reminders">
-<!ENTITY reminderButton.tooltip "Mark the selected messages as reminders">
-<!ENTITY newReminderMenuitem.label "Create a new Reminder">
-<!ENTITY insertImageEditMsgToolbarCmd.tooltip        "Insert new image or edit selected image's properties">
+<!ENTITY reminderButton.label "Påminnelse">
+<!ENTITY removeReminderButton.tooltip "Markera valda meddelanden för utan påminnelser">
+<!ENTITY reminderButton.tooltip "Markera valt meddelande för påminnelse">
+<!ENTITY newReminderMenuitem.label "Skapa en ny påminnelse">
+<!ENTITY insertImageEditMsgToolbarCmd.tooltip        "Sätt in ny bild eller redigera egenskaperna för vald bild">
 
-<!ENTITY quickpostButton.label "Quick Post">
-<!ENTITY quickpostButton.tooltip "Quick Post">
+<!ENTITY quickpostButton.label "Snabbpost">
+<!ENTITY quickpostButton.tooltip "Snabbpost">
 
-<!ENTITY pbQuickPostEditor.title "New Quick Post">
-<!ENTITY pbQuickPostEditor.name "Name">
-<!ENTITY pbQuickPostEditor.email "Email">
-<!ENTITY pbQuickPostEditor.beforeSubject "Before Subject">
-<!ENTITY pbQuickPostEditor.afterSubject "After Subject">
+<!ENTITY pbQuickPostEditor.title "Ny snabbpost">
+<!ENTITY pbQuickPostEditor.name "Namn">
+<!ENTITY pbQuickPostEditor.email "E-post">
+<!ENTITY pbQuickPostEditor.beforeSubject "Före ämne">
+<!ENTITY pbQuickPostEditor.afterSubject "Efter ämne">

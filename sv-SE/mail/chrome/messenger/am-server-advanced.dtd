@@ -1,6 +1,6 @@
 <!ENTITY serverAdvanced.label "Avancerade kontoinställningar">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Advanced IMAP Server Settings">
+<!ENTITY imapAdvanced.label "Avancerade serverinställningar för IMAP">
 <!ENTITY serverDirectory.label "IMAP-serverkatalog:">
 <!ENTITY serverDirectory.accesskey "k">
 <!ENTITY usingSubscription.label "Visa endast mappar du prenumererar på">
@@ -22,7 +22,7 @@
 <!ENTITY overrideNamespaces.label "Tillåt att servern bestämmer">
 <!ENTITY overrideNamespaces.accesskey "T">
 <!ENTITY pop3Desc.label "När du hämtar e-post från denna POP-server, använd följande mapp för ny e-post:" >
-<!ENTITY folderStorage.label "Where to store mail">
+<!ENTITY folderStorage.label "När e-post ska lagras">
 <!ENTITY globalInbox.label "Global Inkorg (kontot Lokala mappar)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Inkorgen för denna servers konto">

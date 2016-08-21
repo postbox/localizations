@@ -189,14 +189,14 @@
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Välj teckenstorlek">
-<!ENTITY resetToDefaultFontSize.label "Reset to default">
+<!ENTITY resetToDefaultFontSize.label "Återställ till standard">
 <!ENTITY decreaseFontSize.label "Mindre">
 <!ENTITY decreaseFontSize.accesskey "r">
 <!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "Större">
 <!ENTITY increaseFontSize.accesskey "t">
 <!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY increaseFontSize.key2 "="> <!-- + är normalt ovanför denna tangent på många tangentbord -->
 
 <!ENTITY fontSizeMenu.label "Storlek">
 <!ENTITY fontSizeMenu.accesskey "o">
@@ -265,7 +265,7 @@
 
 <!ENTITY paragraphMenu.label "Stycke">
 <!ENTITY paragraphMenu.accesskey "y">
-<!ENTITY paragraphParagraphCmd.label "Stycke">  
+<!ENTITY paragraphParagraphCmd.label "Stycke">
 <!ENTITY paragraphParagraphCmd.accesskey "t">
 <!ENTITY heading1Cmd.label "Rubrik 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -392,7 +392,7 @@
 <!ENTITY tableDeleteMenu.label "Ta bort">
 <!ENTITY tableDeleteMenu.accesskey "T">
 
-<!-- text for "Sammanfoga celler" is in editor.properties 
+<!-- text for "Sammanfoga celler" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
@@ -474,7 +474,7 @@
 <!ENTITY PreviewMode.tooltip "Visa som WYSIWYG (som i webbläsaren)">
 
 <!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
+     Use latin "ltr" if you want the <html> image to left of the
      'SourceMode.label' text defined above,
      or use latin "rtl" if you want this image to the right of text
      This is the value of the HTML 'dir' attribute
@@ -505,7 +505,7 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY listprops.accesskey "l">
-<!ENTITY tableFix.label "Fix Table Layout">
+<!ENTITY tableFix.label "Fixa tabellutformning">
 <!ENTITY ParagraphAbbr.label "P">
 <!ENTITY decreasefontsize.accesskey "r">
 <!ENTITY Heading3Abbr.label "H3">
@@ -533,9 +533,9 @@ entities below were automatically added by l10nmerge
 <!ENTITY clear.accesskey "l">
 <!ENTITY fileopen.accesskey "o">
 <!ENTITY formatlistmenu.accesskey "l">
-<!ENTITY insertIsIndexCmd.label "Index Search">
+<!ENTITY insertIsIndexCmd.label "Indexsökning">
 <!ENTITY insertfieldset.accesskey "F">
-<!ENTITY insertInputImageCmd.label "Form Image…">
+<!ENTITY insertInputImageCmd.label "Forma bilder…">
 <!ENTITY insertform.accesskey "D">
 <!ENTITY advancedproperties.accesskey "v">
 <!ENTITY alignleft.accesskey "l">
@@ -552,7 +552,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY formatToolbar.italicChar "I">
 <!ENTITY decreaseindent.accesskey "D">
 <!ENTITY heading1.accesskey "1">
-<!ENTITY listProps.label "List Properties…">
+<!ENTITY listProps.label "Lista egenskaper…">
 <!ENTITY pasteRows.accesskey "r">
 <!ENTITY paragraphparagraph.accesskey "P">
 <!ENTITY viewparagraphmarks.accesskey "p">
@@ -562,7 +562,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY formatfontfixed.keybinding "t">
 <!ENTITY tablemenu.accesskey "b">
 <!ENTITY insertlink.accesskey "l">
-<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.label "Skriv ut förhandsgranskning">
 <!ENTITY styleunderline.keybinding "u">
 <!ENTITY size-medium.accesskey "d">
 <!ENTITY delete.accesskey "d">
@@ -571,7 +571,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY Heading6Abbr.label "H6">
 <!ENTITY fileprint.accesskey "p">
 <!ENTITY fontHelveticaFont.label "Helvetica, Arial">
-<!ENTITY exitCmd.label "Quit">
+<!ENTITY exitCmd.label "Avsluta">
 <!ENTITY insertisindex.accesskey "x">
 <!ENTITY heading2.accesskey "2">
 <!ENTITY toolsetfocus.accesskey "f">
@@ -580,13 +580,13 @@ entities below were automatically added by l10nmerge
 <!ENTITY insertinputimage.accesskey "I">
 <!ENTITY pasteTextCmd.label "Text">
 <!ENTITY newBlankPage.accesskey "P" >
-<!ENTITY textColorCaption.label "Text Color">
-<!ENTITY insertFormMenu.label "Form">
+<!ENTITY textColorCaption.label "Textfärg">
+<!ENTITY insertFormMenu.label "Formulär">
 <!ENTITY tableinsertmenu.accesskey "i">
-<!ENTITY editStripQuotesCmd.label "Strip Quotes">
+<!ENTITY editStripQuotesCmd.label "Avkorta citat">
 <!ENTITY insertformmenu.accesskey "F">
 <!ENTITY editfind.accesskey "f">
-<!ENTITY pasteRowsCmd.label "Rows">
+<!ENTITY pasteRowsCmd.label "Rader">
 <!ENTITY formatparagraphmenu.accesskey "P">
 <!ENTITY editpastelink.accesskey "l">
 <!ENTITY pasteImage.accesskey "i">
@@ -594,8 +594,8 @@ entities below were automatically added by l10nmerge
 <!ENTITY tablesplitcell.accesskey "c">
 <!ENTITY fileopen.keybinding "o">
 <!ENTITY increaseFontSize.keybinding "+">
-<!ENTITY insertInputTagCmd.label "Form Field…">
-<!ENTITY viewParagraphMarks.label "Paragraph Marks">
+<!ENTITY insertInputTagCmd.label "Formulärfält…">
+<!ENTITY viewParagraphMarks.label "Paragrafmarkörer">
 <!ENTITY size-small.accesskey "s">
 <!ENTITY formatoutdent.keybinding "[">
 <!ENTITY alignright.accesskey "r">
@@ -607,27 +607,27 @@ entities below were automatically added by l10nmerge
 <!ENTITY filesave.accesskey "s">
 <!ENTITY pasteLinkCmd.label "Link">
 <!ENTITY fonthelvetica.accesskey "l">
-<!ENTITY printButtonCmd.label "Print…">
+<!ENTITY printButtonCmd.label "Skriv ut…">
 <!ENTITY increaseindent.accesskey "i">
 <!ENTITY fileclose.accesskey "c">
 <!ENTITY pasteText.accesskey "t">
 <!ENTITY stylesuperscript.accesskey "p">
 <!ENTITY pageproperties.accesskey "g">
 <!ENTITY styleunderline.accesskey "u">
-<!ENTITY paragraphBlockquoteCmd.label "Blockquote">
+<!ENTITY paragraphBlockquoteCmd.label "Blockcitat">
 <!ENTITY Heading4Abbr.label "H4">
 <!ENTITY fontvarwidth.accesskey "v">
 <!ENTITY styleitalic.accesskey "I">
-<!ENTITY pasteColumnsCmd.label "Columns">
+<!ENTITY pasteColumnsCmd.label "Kolumner">
 <!ENTITY size-xx-small.accesskey "a">
 <!ENTITY pasteTable.accesskey "a">
 <!ENTITY increasefontsize.accesskey "g">
-<!ENTITY insertLabelCmd.label "Define Label">
+<!ENTITY insertLabelCmd.label "Definiera etikett">
 <!ENTITY none.accesskey "N">
 <!ENTITY formatalignmenu.accesskey "a">
 <!ENTITY paragraphpreformat.accesskey "f">
 <!ENTITY fileexporttotext.accesskey "T">
-<!ENTITY insertImageMapCmd.label "Image Map…">
+<!ENTITY insertImageMapCmd.label "Bildkarta…">
 <!ENTITY editfindnext.accesskey "g">
 <!ENTITY listdefinition.accesskey "d">
 <!ENTITY tablejoincells.accesskey "j">
@@ -648,13 +648,13 @@ entities below were automatically added by l10nmerge
 <!ENTITY formatremovenamedanchors.keybinding "a">
 <!ENTITY BlockquoteAbbr.label "BQ">
 <!ENTITY localfontmenu.accesskey "f">
-<!ENTITY insertButtonCmd.label "Define Button…">
+<!ENTITY insertButtonCmd.label "Definiera knapp…">
 <!ENTITY listterm.accesskey "t">
-<!ENTITY insertTextAreaCmd.label "Text Area…">
+<!ENTITY insertTextAreaCmd.label "Textområde…">
 <!ENTITY size-x-small.accesskey "m">
 <!ENTITY insertinputtag.accesskey "e">
 <!ENTITY copy.accesskey "c">
-<!ENTITY viewPageSource.label "Page Source">
+<!ENTITY viewPageSource.label "Sidkälla">
 <!ENTITY NormalAbbr.label "Text">
 <!ENTITY styleitalic.keybinding "i">
 <!ENTITY formatstylemenu.accesskey "s">
@@ -663,20 +663,20 @@ entities below were automatically added by l10nmerge
 <!ENTITY formatsizemenu.accesskey "z">
 <!ENTITY ok.label "OK">
 <!ENTITY editfindnext.keybinding "g">
-<!ENTITY insertSelectCmd.label "Selection List…">
+<!ENTITY insertSelectCmd.label "Urvalslista…">
 <!ENTITY size-x-large.accesskey "x">
 <!ENTITY stylenonbreaking.accesskey "N">
 <!ENTITY toolsmenu.accesskey "l">
 <!ENTITY insertanchor.accesskey "A">
-<!ENTITY editRewrapCmd.label "Rewrap">
-<!ENTITY insertFormCmd.label "Define Form…">
+<!ENTITY editRewrapCmd.label "Återomslut">
+<!ENTITY insertFormCmd.label "Definiera formulär…">
 <!ENTITY paragraphblockquote.accesskey "b">
-<!ENTITY checkSpellingCmd.label "Check Spelling">
+<!ENTITY checkSpellingCmd.label "Kolla stavning">
 <!ENTITY insertselect.accesskey "S">
 <!ENTITY selectall.accesskey "a">
 <!ENTITY editfindprev.keybinding "g">
 <!ENTITY paste.accesskey "p">
-<!ENTITY checkLinksCmd.label "Check Links">
+<!ENTITY checkLinksCmd.label "Kolla länkar">
 <!ENTITY sendPage.accesskey "d">
 <!ENTITY tablecellafter.accesskey "f">
 <!ENTITY stylesubscript.accesskey "S">
@@ -689,20 +689,20 @@ entities below were automatically added by l10nmerge
 <!ENTITY converttotable.accesskey "r">
 <!ENTITY redo.accesskey "r">
 <!ENTITY editfindprev.accesskey "v">
-<!ENTITY pasteImageCmd.label "Image">
-<!ENTITY openremoteCmd.label "Open Web Location…">
+<!ENTITY pasteImageCmd.label "Bild">
+<!ENTITY openremoteCmd.label "Öppna webbplats…">
 <!ENTITY insertlink.keybinding "l">
 <!ENTITY filerevert.accesskey "v">
 <!ENTITY size-xx-large.accesskey "e">
-<!ENTITY localfontfaceMenu.label "Local Fonts">
-<!ENTITY insertFieldSetCmd.label "Define Field Set…">
+<!ENTITY localfontfaceMenu.label "Lokala teckensnitt">
+<!ENTITY insertFieldSetCmd.label "Definiera fältinställning…">
 <!ENTITY tablerow.accesskey "r">
 <!ENTITY formatremovelinks.keybinding "k">
 <!ENTITY formatstylesheetmenu.accesskey "y">
 <!ENTITY heading4.accesskey "4">
 <!ENTITY publishcmd.accesskey "b">
-<!ENTITY stylesheetMenu.label "Apply Style Sheet">
-<!ENTITY fontsizeMenu.label "Size">
+<!ENTITY stylesheetMenu.label "Tillämpa stilmall">
+<!ENTITY fontsizeMenu.label "Storlek">
 <!ENTITY fileexit.keybinding "q">
 <!ENTITY increaseindentkb "=">
 <!ENTITY tablecellcontents.accesskey "n">
@@ -714,12 +714,12 @@ entities below were automatically added by l10nmerge
 <!ENTITY fileopenremote.keybinding "l">
 <!ENTITY fileprint.keybinding "p">
 <!ENTITY formatindent.keybinding "]">
-<!ENTITY colorPicker.default.label "Reader's default color">
+<!ENTITY colorPicker.default.label "Läsarens standardfärg">
 <!ENTITY filesave.keybinding "s">
 <!ENTITY editlink.accesskey "i">
 <!ENTITY filesaveandchangeencoding.accesskey "E">
 <!ENTITY Heading2Abbr.label "H2">
-<!ENTITY insertBreakCmd.label "Line Break">
+<!ENTITY insertBreakCmd.label "Radbrytning">
 <!ENTITY inserttextarea.accesskey "T">
 <!ENTITY editfind.keybinding "f">
 <!ENTITY tablerowbelow.accesskey "b">

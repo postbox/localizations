@@ -36,10 +36,10 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
@@ -53,9 +53,9 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "&brandShortName;s guide för att importera e-post">
-<!ENTITY importDesc.label         "Import Mail, Address Books and Settings from other programs">
+<!ENTITY importDesc.label         "Importera e-post, adressböcker och inställningar från andra program">
 
-<!ENTITY importDescription.label  "This wizard will import mail messages, address book entries, and/or preferences from other mail programs and common address book formats into &brandShortName;.">
+<!ENTITY importDescription.label  "Denna guide kommer importera e-postmeddelanden, adressboksinlägg och/eller inställningar från andra e-postprogram och vanliga adressboksformat till &brandShortName;.">
 <!ENTITY importDescription2.label "När du har importerat uppgifterna kommer du alltså att kunna använda dem i &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Välj vilken typ av fil du vill importera:">
@@ -73,7 +73,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har bara en e-postadress per kontaktkort medan &brandShortName; har två (privat och arbete).">
 <!ENTITY FieldDiscInputText2.label  "Välj var du vill spara importerade e-postadresser:">
 <!ENTITY FieldDiscWarning.label  "Ditt val gäller alla poster: ">
-<!ENTITY importDialog.homeTitle  "Home">
+<!ENTITY importDialog.homeTitle  "Hem">
 <!ENTITY importDialog.workTitle  "Arbete">
 
-<!ENTITY pbSelect.label             "Select the type of material to import:">
+<!ENTITY pbSelect.label             "Välj den typ av material som du vill importera:">

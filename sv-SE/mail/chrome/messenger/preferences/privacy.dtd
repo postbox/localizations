@@ -1,41 +1,41 @@
 <!-- Junk Mail Controls -->
-<!ENTITY manualMark.label "When I mark messages as junk:">
+<!ENTITY manualMark.label "När jag markerar meddelanden som skräp:">
 <!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
+<!ENTITY manualMarkModeMove.label "Flytta dem till kontots &quot;Skräp&quot;-mapp">
 <!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Delete them">
+<!ENTITY manualMarkModeDelete.label "Radera dem">
 <!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY markAsReadOnSpam.label "Markera meddelanden som bestämts vara skräp som lästa">
 <!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Enable junk filter logging">
+<!ENTITY enableJunkLogging.label "Aktivera logg för skräpfilter">
 <!ENTITY enableJunkLogging.accesskey "g">
-<!ENTITY openJunkLog.label "Show log">
+<!ENTITY openJunkLog.label "Visa logg">
 <!ENTITY openJunkLog.accesskey "h">
-<!ENTITY resetTrainingData.label "Reset Training Data">
+<!ENTITY resetTrainingData.label "Återställ inlärningsdata">
 <!ENTITY resetTrainingData.accesskey "D">
 
 
 <!-- Phishing Detector -->
-<!ENTITY enablePhishingDetector1.label    "Block reported e-mail scams">
+<!ENTITY enablePhishingDetector1.label    "Blockera rapporterade e-postbedrägerier">
 <!ENTITY enablePhishingDetector1.accesskey "B">
 
 <!-- Passwords -->
-<!ENTITY useMasterPassword.label              "Use a master password">
+<!ENTITY useMasterPassword.label              "Använd ett huvudlösenord">
 <!ENTITY useMasterPassword.accesskey          "s">
-<!ENTITY changeMasterPassword.label           "Change Master Password...">
+<!ENTITY changeMasterPassword.label           "Ändra huvudlösenord...">
 <!ENTITY changeMasterPassword.accesskey       "M">
-<!ENTITY savedPasswords.label                 "Saved Passwords...">
+<!ENTITY savedPasswords.label                 "Sparade lösenord...">
 <!ENTITY savedPasswords.accesskey             "S">
 
 <!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics2.label      "Help make &brandShortName; better by sending anonymous usage statistics.">
+<!ENTITY enableAnonymousStatistics2.label      "Hjälp till och gör &brandShortName; bättre genom att skicka in anonym användarstatistik.">
 <!ENTITY enableAnonymousStatistics.accesskey   "H">
 
 <!-- Remote images -->
-<!ENTITY disableImageInMailNews.label  "Block loading of remote images in mail messages">
+<!ENTITY disableImageInMailNews.label  "Blockera laddning av fjärrhämtade bilder i e-postmeddeladnen">
 <!ENTITY disableImageInMailNews.accesskey "r">
 
-<!ENTITY pbPrivacy.label "Privacy:">
-<!ENTITY pbJunkMail.label "Junk:">
-<!ENTITY pbPasswords.label "Passwords:">
-<!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in Account Settings.">
+<!ENTITY pbPrivacy.label "Integritet:">
+<!ENTITY pbJunkMail.label "Skräp:">
+<!ENTITY pbPasswords.label "Lösenord:">
+<!ENTITY pbJunkMail.intro "OBS: Kontospecifika inställningar för skräppost kan konfigureras i Kontoinställningar.">

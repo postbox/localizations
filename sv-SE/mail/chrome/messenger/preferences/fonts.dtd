@@ -6,7 +6,7 @@
 <!ENTITY  language.label                          "Teckensnitt för:">
 <!ENTITY  language.accesskey                      "c">
 
-<!ENTITY  size.label                              "Size:">
+<!ENTITY  size.label                              "Storlek:">
 <!ENTITY  proportionalSize.accesskey              "t">
 <!ENTITY  sizeMono.accesskey                      "i">
 
@@ -58,11 +58,11 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!-- fonts in message -->
-<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
+<!ENTITY  useFixedWidthForPlainText.label         "Använd teckensnitt med fast bredd för meddelanden i oformaterad text">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Låt meddelanden använda andra teckensnitt">
 <!ENTITY  useDocumentFonts.accesskey              "L">
 
 <!-- Language settings -->
-<!ENTITY viewDefaultCharsetList1.label     "Character encoding:">
+<!ENTITY viewDefaultCharsetList1.label     "Teckenkodning:">
 <!ENTITY viewDefaultCharsetList1.accesskey  "C">

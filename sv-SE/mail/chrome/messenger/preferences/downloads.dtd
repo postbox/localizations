@@ -1,24 +1,24 @@
-<!ENTITY askOnSave.label              "Attachments Folder">
-<!ENTITY alwaysAsk.label              "Ask me where to save every file">
+<!ENTITY askOnSave.label              "Mapp för bilagor">
+<!ENTITY alwaysAsk.label              "Fråga mig varje gång en fil ska sparas">
 <!ENTITY alwaysAsk.accesskey          "A">
-<!ENTITY neverAsk.label               "Save all attachments to this folder:">
+<!ENTITY neverAsk.label               "Spara alla bilagor i denna mappen:">
 <!ENTITY neverAsk.accesskey           "S">
-<!ENTITY desktop.label                "Desktop">
+<!ENTITY desktop.label                "Skrivbord">
 <!ENTITY downloads.label              "Hämtade filer">
-<!ENTITY chooseFolderWin.label        "Browse...">
+<!ENTITY chooseFolderWin.label        "Bläddra...">
 <!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "Choose...">
+<!ENTITY chooseFolderMac.label        "Välj...">
 <!ENTITY chooseFolderMac.accesskey    "C">
 
 
-<!ENTITY fileTypes.label              "Download Actions">
-<!ENTITY configureActions.label       "View &amp; Edit Actions...">
+<!ENTITY fileTypes.label              "Nedladdningsåtgärder">
+<!ENTITY configureActions.label       "Kolla &amp; redigera åtgärder...">
 <!ENTITY configureActions.accesskey   "V">
-<!ENTITY fileTypesDescription.label   "&brandShortName; can automatically save or open attachments of certain types.">
+<!ENTITY fileTypesDescription.label   "&brandShortName; kan automatiskt spara eller öppna särskilda typer av bilagor.">
 
-<!ENTITY fileTypeColName.label        "File Type">
-<!ENTITY fileHandlerColName.label     "Application">
-<!ENTITY editFileHandler.label        "Change Action...">
+<!ENTITY fileTypeColName.label        "Filtyp">
+<!ENTITY fileHandlerColName.label     "Program">
+<!ENTITY editFileHandler.label        "Ändra åtgärd...">
 <!ENTITY editFileHandler.accesskey    "a">
-<!ENTITY removeFileHandler.label      "Remove">
+<!ENTITY removeFileHandler.label      "Ta bort">
 <!ENTITY removeFileHandler.accesskey  "R">

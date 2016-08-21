@@ -1,23 +1,23 @@
-<!ENTITY  changeAction.title                  "Change Action">
+<!ENTITY  changeAction.title                  "Ändra åtgärd">
 <!ENTITY  window.width                         "36em">
 
-<!ENTITY  whenDownloading.label               "When downloading files like this:">
+<!ENTITY  whenDownloading.label               "Vid nedladdning av filer som denna:">
 
-<!ENTITY  openDefault.label                   "Open them with the default application:">
+<!ENTITY  openDefault.label                   "Öppna dem med det förinställda programmet:">
 <!ENTITY  openDefault.accesskey               "O">
-<!ENTITY  openApplication.label               "Open them with this application:">
+<!ENTITY  openApplication.label               "Öppna dem med detta programmet:">
 <!ENTITY  openApplication.accesskey           "e">
-<!ENTITY  changeApp.label                     "Browse...">
+<!ENTITY  changeApp.label                     "Bläddra...">
 <!ENTITY  changeApp.accesskey                 "B">
-<!ENTITY  saveToDisk.label                    "Save them on my computer">
+<!ENTITY  saveToDisk.label                    "Spara dem på min dator">
 <!ENTITY  saveToDisk.accesskey                "S">
-<!ENTITY  saveToDefaultFolder.label           "in the default download folder">
+<!ENTITY  saveToDefaultFolder.label           "i standardmappen för nedladdningar">
 <!ENTITY  saveToDefaultFolder.accesskey       "d">
-<!ENTITY  saveToThisFolder.label              "in this folder:">
+<!ENTITY  saveToThisFolder.label              "i denna mappen:">
 <!ENTITY  saveToThisFolder.accesskey          "h">
-<!ENTITY  chooseFolder.label                  "Browse...">
+<!ENTITY  chooseFolder.label                  "Bläddra...">
 <!ENTITY  chooseFolder.accesskey              "w">
-<!ENTITY  saveToAskMe.label                   "ask me where to save the file">
+<!ENTITY  saveToAskMe.label                   "fråga mig om var filen ska sparas">
 <!ENTITY  saveToAskMe.accesskey               "a">
-<!ENTITY  usePlugin.label                     "Use this Plugin:">
+<!ENTITY  usePlugin.label                     "Använd detta plugin:">
 <!ENTITY  usePlugin.accesskey                 "P">

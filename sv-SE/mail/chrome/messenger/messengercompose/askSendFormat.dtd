@@ -4,9 +4,9 @@
 <!ENTITY recipient.label "Någon av mottagarna är inte registrerad som kapabel att ta emot meddelanden i HTML-format.">
 
 <!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleYes.label "Your message can be converted to plain text without losing information.">
-<!ENTITY convertibleAltering.label "Your message can be converted to plain text without losing important information. However, the plain text version might look different from what you saw in the composer.">
-<!ENTITY convertibleNo.label "However, you used formatting (e.g. colors) that will not be converted to plain text.">
+<!ENTITY convertibleYes.label "Ditt meddelande kan konverteras till oformaterad text utan informationsförlust.">
+<!ENTITY convertibleAltering.label "Ditt meddelande kan konverteras till oformaterad text utan förlust av viktig information. Oformaterad text kan däremot se väldigt annorlunda ut i jämföelse med det du såg i redigeraren.">
+<!ENTITY convertibleNo.label "Du har däremot använt formatering (t.ex färger) som inte kan konverteras till oformaterad text.">
 
 <!ENTITY question.label "Vill du konvertera meddelandet till oformaterad text, eller vill du skicka det kodat som HTML ändå?">
 
@@ -14,12 +14,12 @@
 <!ENTITY plainTextOnly.label "Skicka bara som oformaterad text">
 <!ENTITY htmlOnly.label "Skicka bara kodat som HTML">
 
-<!ENTITY plainTextAndHtmlRecommended.label "Send in Plain Text and HTML (recommended)">
-<!ENTITY plainTextOnlyRecommended.label "Send in Plain Text Only (recommended)">
-<!ENTITY htmlOnlyRecommended.label "Send in HTML Only (recommended)">
-<!ENTITY recommended.label "(recommended)">
+<!ENTITY plainTextAndHtmlRecommended.label "Skicka som oformaterad text och HTML (rekommenderat)">
+<!ENTITY plainTextOnlyRecommended.label "Skicka endast som oformaterad text (rekommenderat)">
+<!ENTITY htmlOnlyRecommended.label "Skicka endast som HTML (rekommenderat)">
+<!ENTITY recommended.label "(rekommenderat)">
 
 <!ENTITY send.label "Skicka">
 <!ENTITY cancel.label "Avbryt">
-<!ENTITY recipients.label "Recipients...">
+<!ENTITY recipients.label "Mottagare...">
 <!ENTITY help.label "Hjälp">

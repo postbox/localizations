@@ -5,22 +5,22 @@
 <!ENTITY searchSubfolders.accesskey  "u">
 <!ENTITY resetButton.label           "Rensa">
 <!ENTITY resetButton.accesskey       "n">
-<!ENTITY optionsButton.label         "Options">
+<!ENTITY optionsButton.label         "Alternativ">
 <!ENTITY closeButton.label           "Stäng">
 <!ENTITY openButton.label            "Öppna">
 <!ENTITY openButton.accesskey        "p">
 <!ENTITY deleteButton.label          "Ta bort">
 <!ENTITY deleteButton.accesskey      "T">
 <!ENTITY searchDialogTitle.label     "Sök efter meddelanden">
-<!ENTITY conditionDesc.label         "Search for messages that match:">
-<!ENTITY conditions.label            "Criteria">
+<!ENTITY conditionDesc.label         "Sök efter meddelanden som matchar:">
+<!ENTITY conditions.label            "Kriteria">
 <!ENTITY results.label               "Sökresultat">
 <!ENTITY fileHereMenu.label          "Arkivera här">
 <!ENTITY fileHereMenu.accesskey      "h">
 <!ENTITY fileButton.label            "Arkivera">
 <!ENTITY fileButton.accesskey        "v">
-<!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "Open Message Folder">
+<!ENTITY closeCmd.key                "W">
+<!ENTITY goToFolderButton.label      "Öppna meddelandemapp">
 <!ENTITY goToFolderButton.accesskey  "r">
 <!ENTITY saveAsVFButton.label        "Spara som sökmapp">
 <!ENTITY saveAsVFButton.accesskey    "k">
@@ -57,7 +57,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klicka för att välja vilka kolumner som ska visas">
-<!ENTITY threadColumn.tooltip "Klicka för att visa meddelandetrådar"> 
+<!ENTITY threadColumn.tooltip "Klicka för att visa meddelandetrådar">
 <!ENTITY fromColumn.tooltip "Klicka för att ordna efter avsändare">
 <!ENTITY recipientColumn.tooltip "Klicka för att ordna efter mottagare">
 <!ENTITY subjectColumn.tooltip "Klicka för att ordna efter ämne">

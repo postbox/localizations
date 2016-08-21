@@ -48,12 +48,12 @@
 <!ENTITY directorySecure.accesskey         "A">
 <!ENTITY directoryLogin.label              "Bind DN">
 <!ENTITY directoryLogin.accesskey          "d">
-<!ENTITY advancedOptionsButton.label       "Advanced Options">
+<!ENTITY advancedOptionsButton.label       "Avancerade inställningar">
 <!ENTITY advancedOptionsButton.accesskey   "A">
 <!ENTITY General.tab                       "Allmänt">
 <!ENTITY Offline.tab                       "Nedkopplad">
 <!ENTITY Advanced.tab                      "Avancerat">
-<!ENTITY advancedOptionsTitle.label        "Advanced Options">
+<!ENTITY advancedOptionsTitle.label        "Avancerade inställningar">
 <!ENTITY portNumber.label                  "Portnummer: ">
 <!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Sökfilter: ">
@@ -68,7 +68,7 @@
 <!ENTITY return.accesskey                  "G">
 <!ENTITY results.label                     "resultat">
 <!ENTITY offlineText.label                 "Du kan hämta en lokal kopia av denna katalog så att den är tillgänglig även när du arbetar nedkopplad.">
-<!-- Localization note: this is here because the width of the dialog 
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->

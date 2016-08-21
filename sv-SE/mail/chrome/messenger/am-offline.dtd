@@ -1,5 +1,5 @@
 <!ENTITY doNotDownloadPop3Movemail.label "För att spara diskutrymme, hämta inte:">
-<!ENTITY offlineNewFolder.label "When I create new folders, select them for offline use">
+<!ENTITY offlineNewFolder.label "Välj att använda nyskapade mappar för användning i nedkopplat läge">
 <!ENTITY offlineNewFolder.accesskey "c">
 <!ENTITY offlineNotDownload.label "Meddelanden större än">
 <!ENTITY offlineNotDownload.accesskey "M">
@@ -16,29 +16,28 @@
 <!ENTITY retentionKeepMsg.accesskey "o">
 <!ENTITY retentionKeepAll.label "Ta inte bort några meddelanden">
 <!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.label "Radera alla förutom det senaste">
 <!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Always delete read messages">
+<!ENTITY retentionKeepUnread.label "Radera alltid lästa meddelanden">
 <!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY nntpRemoveBody.label "Only message bodies less than">
+<!ENTITY nntpRemoveBody.label "Endast meddelandeninnehåll på mindre än">
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Välj diskussionsgrupper för nedkopplad användning…">
-<!ENTITY offlineSelectImap.label "Select folders for offline use...">
+<!ENTITY offlineSelectImap.label "Välj mappar för användning vid nedkopplat läge...">
 <!ENTITY offlineSelect.accesskey "S">
-<!ENTITY makeInboxMsgsAvailable.label "Make the messages in my Inbox available when I am working offline">
+<!ENTITY makeInboxMsgsAvailable.label "Gör meddelanden i min inkorg tillgängliga när jag arbetar i nedkopplat läge">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
 <!ENTITY offlineGroupTitle.label "Nedkopplat läge">
 <!ENTITY diskspaceGroupTitle.label "Diskutrymme">
-<!ENTITY ftiGroupTitle.label "Global Search">
-<!ENTITY fti.indexMsgBodies.label "Index message bodies">
-<!ENTITY newsrcFilePath.label "newsrc file:">
+<!ENTITY ftiGroupTitle.label "Global sökning">
+<!ENTITY fti.indexMsgBodies.label "Indexera meddelandeinnehåll">
+<!ENTITY newsrcFilePath.label "newsrc fil:">
 <!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Local directory:">
+<!ENTITY localPath.label "Lokal katalog:">
 <!ENTITY localPath.accesskey "L">
-<!ENTITY localFolderPicker.label "Select Local Directory">
-<!ENTITY browseFolder.label "Browse...">
+<!ENTITY localFolderPicker.label "Välj lokala katalog">
+<!ENTITY browseFolder.label "Bläddra...">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Select newsrc File">
-<!ENTITY browseNewsrc.label "Browse...">
+<!ENTITY newsrcPicker.label "Välj newsrc fil">
+<!ENTITY browseNewsrc.label "Bläddra...">
 <!ENTITY browseNewsrc.accesskey "e">
-

@@ -5,7 +5,7 @@
 <!ENTITY fileMenu.accesskey                             "A">
 <!ENTITY newMenu.label                                  "Nytt">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newCard.label                                  "Address Book Card...">
+<!ENTITY newCard.label                                  "Adressbokskort...">
 <!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newCard.accesskey                              "C">
 <!ENTITY newCard.key                                    "N">
@@ -28,20 +28,20 @@
 <!ENTITY closeCmd.accesskey                             "S">
 <!ENTITY printSetupCmd.label                            "Utskriftsformat…">
 <!ENTITY printSetupCmd.accesskey                        "o">
-<!ENTITY printPreviewCardViewCmd.label                  "Print Preview Card">
+<!ENTITY printPreviewCardViewCmd.label                  "Skriv ut förhandsgranskning av kort">
 <!ENTITY printPreviewCardViewCmd.accesskey              "v">
 <!ENTITY printPreviewAddressBook.label                  "Förhandsgranska adressbok">
 <!ENTITY printPreviewAddressBook.accesskey              "b">
-<!ENTITY printCardViewCmd.label                         "Print Card...">
+<!ENTITY printCardViewCmd.label                         "Skriv ut kort...">
 <!ENTITY printCardViewCmd.accesskey                     "P">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
 <!ENTITY printCardViewCmd.key                           "P">
 <!ENTITY printAddressBook.label                         "Skriv ut adressbok…">
 <!ENTITY printAddressBook.accesskey                     "S">
 
-<!ENTITY quitApplicationCmdWin.label                    "Exit"> 
+<!ENTITY quitApplicationCmdWin.label                    "Avsluta">
 <!ENTITY quitApplicationCmdWin.accesskey                "x">
-<!ENTITY quitApplicationCmd.label                       "Quit"> 
+<!ENTITY quitApplicationCmd.label                       "Stäng">
 <!ENTITY quitApplicationCmd.accesskey                   "Q">
 <!ENTITY quitApplicationCmd.key "Q">
 
@@ -67,8 +67,8 @@
 <!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "T">
 <!ENTITY deleteAbCmd.label                              "Ta bort adressboken">
-<!ENTITY deleteCardCmd.label                            "Delete Card">
-<!ENTITY deleteCardsCmd.label                           "Delete Selected Cards">
+<!ENTITY deleteCardCmd.label                            "Radera kort">
+<!ENTITY deleteCardsCmd.label                           "Radera valda kort">
 <!ENTITY selectAllCmd.label                             "Markera allt">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -87,15 +87,15 @@
 <!ENTITY viewMenu.label                                 "Visa">
 <!ENTITY viewMenu.accesskey                             "s">
 <!ENTITY viewToolbarsMenu.label                         "Verktygsfält">
-<!ENTITY viewToolbarsMenu.accesskey                     "V"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "V">
 <!ENTITY customizeToolbar.label                         "Anpassa…">
 <!ENTITY customizeToolbar.accesskey                     "A">
-<!ENTITY showCardPane.label                             "Card Summary Pane">
+<!ENTITY showCardPane.label                             "Panel för sammanfattning av kort">
 <!ENTITY showCardPane.accesskey                         "C">
 <!ENTITY menu_ShowNameAs.label                          "Visa namn så här">
-<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!ENTITY firstLastCmd.label                             "Förnamn Efternamn">
-<!ENTITY firstLastCmd.accesskey                         "F"> 
+<!ENTITY firstLastCmd.accesskey                         "F">
 <!ENTITY lastFirstCmd.label                             "Efternamn, Förnamn">
 <!ENTITY lastFirstCmd.accesskey                         "t">
 <!ENTITY displayNameCmd.label                           "Visa kortnamn">
@@ -119,41 +119,41 @@
 <!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "I">
 <!ENTITY preferencesCmdUnix.label                       "Inställningar">
-<!ENTITY preferencesCmdUnix.accesskey                   "I"> 
+<!ENTITY preferencesCmdUnix.accesskey                   "I">
 
 <!-- Help Menu -->
-<!ENTITY helpMenu.label                                 "Help">
+<!ENTITY helpMenu.label                                 "Hjälp">
 <!ENTITY helpMenu.accesskey                             "H">
-<!ENTITY releaseCmd.label                               "Release Notes">
+<!ENTITY releaseCmd.label                               "Versionsinfo">
 <!ENTITY releaseCmd.accesskey                           "R">
-<!ENTITY hintsAndTips.label                             "&brandShortName; Help">
+<!ENTITY hintsAndTips.label                             "&brandShortName; hjälp">
 <!ENTITY hintsAndTips.accesskey                         "H">
 <!ENTITY hintsAndTipsMac.commandkey                     "?">
-<!ENTITY aboutCmd.label                                 "About &brandShortName;">
+<!ENTITY aboutCmd.label                                 "Om &brandShortName;">
 <!ENTITY aboutCmd.accesskey                             "A">
 
-<!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "New Card">
+<!-- Address Book Toolbar and Context Menus -->
+<!ENTITY newcardButton.label                            "Nytt kort">
 <!ENTITY newcardButton.accesskey                        "C">
 <!ENTITY newlistButton.label                            "Ny utskickslista">
 <!ENTITY newlistButton.accesskey                        "u">
-<!ENTITY editButton.label                               "Properties">
+<!ENTITY editButton.label                               "Egenskaper">
 <!ENTITY editButton.accesskey                           "P">
 <!ENTITY newmsgButton.label                             "Skriv meddelande">
 <!ENTITY newmsgButton.accesskey                         "m">
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY newIM.accesskey                                "I">
-<!ENTITY deleteButton.label                             "Delete">
+<!ENTITY deleteButton.label                             "Radera">
 <!ENTITY deleteButton.accesskey                         "D">
 <!ENTITY throbberItem.title                             "Aktivitetsindikator">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "Create a new address book card">
+<!ENTITY newcardButton.tooltip                          "Skapa ett nytt adressbokskort">
 <!ENTITY newlistButton.tooltip                          "Skapa en utskickslista">
-<!ENTITY editButton.tooltip                             "Edit the selected card">
+<!ENTITY editButton.tooltip                             "Redigera valt kort">
 <!ENTITY newmsgButton.tooltip                           "Skicka ett meddelande">
 <!ENTITY newIM.tooltip                                  "Skicka ett snabbmeddelande eller chatta">
-<!ENTITY deleteButton.tooltip                           "Delete selected card or address book">
+<!ENTITY deleteButton.tooltip                           "Radera valt kort eller adressbok">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Adressböcker">
@@ -161,7 +161,7 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Namn eller e-post">
 <!ENTITY SearchNameOrEmail.accesskey                    "e">
-<!ENTITY advancedButton.tooltip                         "Avancerad sökning efter adresskort">
+<!ENTITY advancedButton.tooltip                         "Avancerad sökning efter adressbokskort">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Snabbsökning">
 
@@ -200,15 +200,15 @@
 <!ENTITY _PhoneticName.accesskey                        "o">
 
 <!-- Results pane context menu -->
-<!ENTITY composeEmail.label                             "Compose Email To">
+<!ENTITY composeEmail.label                             "Skriv e-post till">
 <!ENTITY composeEmail.accesskey                         "C">
-<!ENTITY deleteAddrBookCard.label                       "Delete">
+<!ENTITY deleteAddrBookCard.label                       "Radera">
 <!ENTITY deleteAddrBookCard.accesskey                   "D">
-<!ENTITY newAddrBookCard.label                          "New Card...">
+<!ENTITY newAddrBookCard.label                          "Nytt kort...">
 <!ENTITY newAddrBookCard.accesskey                      "N">
-<!ENTITY newAddrBookMailingList.label                   "New Mailing List...">
+<!ENTITY newAddrBookMailingList.label                   "Ny e-postlista...">
 <!ENTITY newAddrBookMailingList.accesskey               "M">
-<!ENTITY addrBookCardProperties.label                   "Properties">
+<!ENTITY addrBookCardProperties.label                   "Egenskaper">
 <!ENTITY addrBookCardProperties.accesskey               "P">
 
 <!-- Card Summary Pane -->

@@ -5,21 +5,21 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Ny mapp…">
 <!ENTITY newFolderCmd.accesskey "p">
-<!ENTITY newSubfolderCmd.label "Subfolder…">
+<!ENTITY newSubfolderCmd.label "Undermapp…">
 <!ENTITY newSubfolderCmd.accesskey "U">
-<!ENTITY newTabCmd.label "New Tab">
+<!ENTITY newTabCmd.label "Ny flik">
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Stäng flik">
 <!ENTITY closeTabCmd.accesskey "S">
 <!ENTITY newVirtualFolderCmd.label "Ny sparad sökning…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
-<!ENTITY addRSSAccountButton.label "RSS Account…">
+<!ENTITY addRSSAccountButton.label "RSS-konto…">
 <!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.label "Diskussionsgruppskonto…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
-<!ENTITY newEmailAccountCmd.label "Mail Account…">
+<!ENTITY newEmailAccountCmd.label "E-postkonto…">
 <!ENTITY newEmailAccountCmd.accesskey "a">
-<!ENTITY newTaskCmd.label "Reminder">
+<!ENTITY newTaskCmd.label "Påminnelse">
 <!ENTITY newTaskCmd.accesskey "T">
 <!ENTITY newTaskCmd.key "n">
 <!ENTITY openMessageMenu.label "Öppna">
@@ -34,7 +34,7 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Mall">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
-<!ENTITY getNewMsgCmd.label "Get New Messages">
+<!ENTITY getNewMsgCmd.label "Hämta nya meddelanden">
 <!ENTITY getNewMsgCmd.accesskey "G">
 <!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Hämta nya meddelanden för">
@@ -118,9 +118,9 @@
 <!ENTITY undoDefaultCmd.accesskey "n">
 <!ENTITY redoDefaultCmd.label "Gör om">
 <!ENTITY redoDefaultCmd.accesskey "G">
-<!ENTITY enterLicenseCode.label "License...">
+<!ENTITY enterLicenseCode.label "Licens...">
 <!ENTITY enterLicenseCode.accesskey "e">
-  
+
 <!-- View Menu -->
 <!ENTITY customizeToolbar.label "Anpassa…">
 <!ENTITY customizeToolbar.accesskey "A">
@@ -130,7 +130,7 @@
 <!ENTITY messagePaneClassic.accesskey "K">
 <!ENTITY messagePaneVertical.label "Vertikal vy">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY showMessageCmd.label "Message Pane">
+<!ENTITY showMessageCmd.label "Meddelandepanel">
 <!ENTITY showMessageCmd.accesskey "M">
 
 <!-- Sort Menu -->
@@ -181,7 +181,7 @@
 <!ENTITY threads.accesskey "T">
 <!ENTITY allMsgsCmd.label "Alla">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandOrCollapseMenu.label "Expand/Collapse">
+<!ENTITY expandOrCollapseMenu.label "Fäll ut/Fäll in">
 <!ENTITY expandOrCollapseMenu.accesskey "x">
 <!ENTITY expandAllThreadsCmd.label "Fäll ut alla trådar">
 <!ENTITY expandAllThreadsCmd.accesskey "u">
@@ -217,17 +217,17 @@
 <!ENTITY reloadCmd.accesskey "U">
 <!ENTITY stopCmd.label "Stopp">
 <!ENTITY stopCmd.accesskey "S">
-<!ENTITY textZoomEnlargeCmd.label "Increase">
+<!ENTITY textZoomEnlargeCmd.label "Öka">
 <!ENTITY textZoomEnlargeCmd.accesskey "I">
 <!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomReduceCmd.label "Decrease">
+<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + är ovanför denna tangent på många tangentbord -->
+<!ENTITY textZoomReduceCmd.label "Minska">
 <!ENTITY textZoomReduceCmd.accesskey "D">
 <!ENTITY textZoomReduceCmd.commandkey "-">
 <!ENTITY textZoomResetCmd.commandkey "0">
 <!ENTITY textZoomResetCmd.label     "Normal">
 <!ENTITY textZoomResetCmd.accesskey "N">
-<!ENTITY textSize.label             "Text Size">
+<!ENTITY textSize.label             "Textstorlek">
 <!ENTITY textSize.accesskey             "x">
 
 <!ENTITY pageSourceCmd.label "Meddelandets källkod">
@@ -235,7 +235,7 @@
 <!ENTITY pageSourceCmd.key "u">
 
 <!-- Search Menu -->
-<!ENTITY searchMenu.label "Search">
+<!ENTITY searchMenu.label "Sök">
 <!ENTITY searchMenu.accesskey "S">
 
 <!ENTITY findMenu.label "Sök">
@@ -287,11 +287,11 @@
 <!ENTITY goBackCmd.label "Bakåt">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goToFolderCmd.label "Quick Switch">
+<!ENTITY goToFolderCmd.label "Snabbomkopplare">
 <!ENTITY goToFolderCmd.accesskey "Q">
 <!ENTITY prevStarredMsgCmd.label "Märkta meddelande">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
-<!ENTITY startPageCmd1.label "Home">
+<!ENTITY startPageCmd1.label "Hem">
 <!ENTITY startPageCmd1.accesskey "H">
 <!ENTITY msgMenu.label "Meddelande">
 <!ENTITY msgMenu.accesskey "M">
@@ -318,24 +318,24 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Bifoga">
 <!ENTITY forwardAsAttachmentCmd.accesskey "B">
-<!ENTITY editMsgCmd.label "Edit">
+<!ENTITY editMsgCmd.label "Redigera">
 <!ENTITY editMsgCmd.accesskey "E">
 <!ENTITY editMsgCmd.key "e">
-<!ENTITY editMsgAsNewCmd1.label "Resend">
+<!ENTITY editMsgAsNewCmd1.label "Skicka igen">
 <!ENTITY editMsgAsNewCmd1.accesskey "d">
-<!ENTITY redirectCmd.label "Redirect">
+<!ENTITY redirectCmd.label "Omdirigera">
 <!ENTITY redirectCmd.key "e">
 <!ENTITY createFilter.label "Skapa filterregel utifrån meddelandet…">
 <!ENTITY createFilter.accesskey "u">
-<!ENTITY archiveMsgMenu.label "Archive">
+<!ENTITY archiveMsgMenu.label "Arkiv">
 <!ENTITY archiveMsgMenu.accesskey "A">
-<!ENTITY moveMsgMenu.label "Move">
+<!ENTITY moveMsgMenu.label "Flytta">
 <!ENTITY moveMsgMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "Tidigare">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "T">
 <!ENTITY copyMessageLocation.label "Kopiera meddelandeadress">
 <!ENTITY copyMessageLocation.accesskey "i">
-<!ENTITY copyMsgMenu.label "Copy">
+<!ENTITY copyMsgMenu.label "Kopiera">
 <!ENTITY copyMsgMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Flytta igen">
 <!ENTITY moveToFolderAgain.accesskey "t">
@@ -346,7 +346,7 @@
 <!ENTITY watchThreadMenu.label "Bevaka tråd">
 <!ENTITY watchThreadMenu.accesskey "B">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Hit">
+<!ENTITY fileHereMenu.label "Träff">
 <!ENTITY fileHereMenu.accesskey "H">
 <!ENTITY copyHereMenu.label "Kopiera hit">
 <!ENTITY copyHereMenu.accesskey "K">
@@ -367,11 +367,11 @@
 <!ENTITY markAsReadCmd.label "Som läst">
 <!ENTITY markAsReadCmd.accesskey "o">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "As Unread">
+<!ENTITY markAsUnreadCmd.label "Som oläst">
 <!ENTITY markAsUnreadCmd.accesskey "U">
-<!ENTITY markAsPendingCmd.label "As Pending">
+<!ENTITY markAsPendingCmd.label "Som väntande">
 <!ENTITY markAsPendingCmd.accesskey "P">
-<!ENTITY markAsNotPendingCmd.label "As Not Pending">
+<!ENTITY markAsNotPendingCmd.label "Som inte väntande">
 <!ENTITY markAsNotPendingCmd.accesskey "g">
 <!ENTITY markThreadAsReadCmd.label "Hela tråden som läst">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
@@ -384,7 +384,7 @@
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Lägg till märke">
 <!ENTITY markStarredCmd.accesskey "L">
-<!ENTITY markUnStarredCmd.label "As Not a Reminder">
+<!ENTITY markUnStarredCmd.label "Som utan påminnelse">
 <!ENTITY markUnStarredCmd.accesskey "N">
 
 <!-- keep as s, because t is taken by topic/tag -->
@@ -417,7 +417,7 @@
 <!ENTITY addressBookCmd.label "Adressboken">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY junkMailCmd.label "Junk Mail Controls...">
+<!ENTITY junkMailCmd.label "Skräppostkontroller...">
 <!ENTITY junkMailCmd.accesskey "J">
 <!ENTITY runJunkControls.label "Kör skräppost-kontrollen på mapp">
 <!ENTITY runJunkControls.accesskey "K">
@@ -431,18 +431,18 @@
 <!ENTITY filtersApply.accesskey "K">
 
 <!-- Help Menu -->
-<!ENTITY helpMenu.label "Help">
+<!ENTITY helpMenu.label "Hjälp">
 <!ENTITY helpMenu.accesskey "H">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Help">
+<!ENTITY helpMenuWin.label        "Hjälp">
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY releaseCmd.label "Release Notes">
+<!ENTITY releaseCmd.label "Versionsinfo">
 <!ENTITY releaseCmd.accesskey "R">
-<!ENTITY hintsAndTips.label "&brandFullName; Help">
+<!ENTITY hintsAndTips.label "&brandFullName; hjälp">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "H">
-<!ENTITY aboutCmd.label "About &brandFullName;">
+<!ENTITY aboutCmd.label "Om &brandFullName;">
 <!ENTITY aboutCmd.accesskey "A">
 
 <!-- Mail Toolbar -->
@@ -451,7 +451,7 @@
 <!ENTITY replyButton.label "Svara">
 <!ENTITY replyAllButton.label "Svara alla">
 <!ENTITY sendButton.label "Skicka">
-<!ENTITY redirectButton.label "Redirect">
+<!ENTITY redirectButton.label "Omdirigera">
 <!ENTITY forwardButton.label "Vidarebefordra">
 <!ENTITY archiveButton.label "Arkivera">
 <!ENTITY fileButton.label "Spara">
@@ -480,7 +480,7 @@
 <!ENTITY replyButton.tooltip "Svarar avsändaren">
 <!ENTITY replyAllButton.tooltip "Svarar avsändaren och även alla mottagare">
 <!ENTITY sendButton.tooltip "Skicka meddelande">
-<!ENTITY redirectButton.tooltip "Redirect selected message">
+<!ENTITY redirectButton.tooltip "Omdirigera valt meddelande">
 <!ENTITY forwardButton.tooltip "Vidarebefordrar meddelandet">
 <!ENTITY archiveButton.tooltip "Arkiverar markerat meddelande">
 <!ENTITY fileButton.tooltip "Sparar markerat meddelande">
@@ -511,7 +511,7 @@
 <!ENTITY folderContextOpenNewTab.accesskey "n">
 <!ENTITY folderContextNewSubfolder.label "Ny undermapp…">
 <!ENTITY folderContextNewSubfolder.accesskey "N">
-<!ENTITY folderContextNewFolder.label "New Folder...">
+<!ENTITY folderContextNewFolder.label "Ny mapp...">
 <!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Byt namn">
 <!ENTITY folderContextRename.accesskey "B">
@@ -543,7 +543,7 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Namn eller meddelande innehåller:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY clearButton.label "Clear">
+<!ENTITY clearButton.label "Rensa">
 <!ENTITY clearButton.accesskey "C">
 
 <!-- Quick Search Menu Bar -->
@@ -603,11 +603,11 @@
 <!ENTITY contextOpenNewWindow.accesskey "p">
 <!ENTITY contextOpenNewTab.label "Öppna meddelande i ny flik">
 <!ENTITY contextOpenNewTab.accesskey "n">
-<!ENTITY contextEditMsg.label "Edit...">
+<!ENTITY contextEditMsg.label "Redigera...">
 <!ENTITY contextEditMsg.accesskey "i">
-<!ENTITY contextEditAsNew1.label "Resend...">
+<!ENTITY contextEditAsNew1.label "Skicka igen...">
 <!ENTITY contextEditAsNew1.accesskey "e">
-<!ENTITY contextRedirect.label "Redirect">
+<!ENTITY contextRedirect.label "Omdirigera">
 <!ENTITY contextReplySender.label "Svara endast avsändaren">
 <!ENTITY contextReplySender.accesskey "S">
 <!ENTITY contextReplyNewsgroup.label "Svara till diskussionsgrupp">
@@ -618,7 +618,7 @@
 <!ENTITY contextForward.accesskey "V">
 <!ENTITY contextForwardAsAttachment.label "Vidarebefordra som bilaga">
 <!ENTITY contextForwardAsAttachment.accesskey "b">
-<!ENTITY contextArchiveMsg.label "Archive">
+<!ENTITY contextArchiveMsg.label "Arkiv">
 <!ENTITY contextArchiveMsg.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Flytta till">
 <!ENTITY contextMoveMsgMenu.accesskey "F">
@@ -632,25 +632,25 @@
 <!ENTITY contextPrint.accesskey "u">
 <!ENTITY contextPrintPreview.label "Förhandsgranska">
 <!ENTITY contextPrintPreview.accesskey "h">
-<!ENTITY contextDelete.label "Delete">
+<!ENTITY contextDelete.label "Radera">
 <!ENTITY contextDelete.accesskey "D">
-<!ENTITY contextAddSenderToAddressBook.label "Add Sender To Address Book">
+<!ENTITY contextAddSenderToAddressBook.label "Lägg till avsändare i adressbok">
 <!ENTITY contextAddSenderToAddressBook.accesskey "B">
-<!ENTITY contextAddAllToAddressBook.label "Add All To Address Book">
+<!ENTITY contextAddAllToAddressBook.label "Lägg till alla i adressbok">
 <!ENTITY contextAddAllToAddressBook.accesskey "A">
 
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Action Options -->
-<!ENTITY messageHeader.expand.label                 "Expand">
-<!ENTITY messageHeader.collapse.label               "Collapse">
-<!ENTITY messageHeader.editMessageButton.label      "Edit">
-<!ENTITY messageHeader.showRelated.label            "Show Related">
-<!ENTITY messageHeader.showRelated.label            "Show Related">
-<!ENTITY messageHeader.assignTopic.label            "Assign Topic">
-<!ENTITY messageHeader.reply.label                  "Reply">
-<!ENTITY messageHeader.replyAll.label               "Reply All">
-<!ENTITY messageHeader.forward.label                "Forward">
+<!ENTITY messageHeader.expand.label                 "Fäll ut">
+<!ENTITY messageHeader.collapse.label               "Fäll in">
+<!ENTITY messageHeader.editMessageButton.label      "Redigera">
+<!ENTITY messageHeader.showRelated.label            "Visa relaterade">
+<!ENTITY messageHeader.showRelated.label            "Visa relaterade">
+<!ENTITY messageHeader.assignTopic.label            "Tilldela ämne">
+<!ENTITY messageHeader.reply.label                  "Svara">
+<!ENTITY messageHeader.replyAll.label               "Svara alla">
+<!ENTITY messageHeader.forward.label                "Vidarebefordra">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "mer">
@@ -662,19 +662,19 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Lägg till i adressbok…">
 <!ENTITY AddToAddressBook.accesskey "L">
-<!ENTITY SendMailTo.label "Compose Mail To">
+<!ENTITY SendMailTo.label "Skapa e-post till">
 <!ENTITY SendMailTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Kopiera e-postadress">
 <!ENTITY CopyEmailAddress.accesskey "o">
-<!ENTITY CreateFilter.label "Create Filter from Message...">
+<!ENTITY CreateFilter.label "Skapa filter från meddelande...">
 <!ENTITY CreateFilter.accesskey "F">
 <!ENTITY reportPhishingURL.label "Rapportera e-postbluff">
 <!ENTITY reportPhishingURL.accesskey "R">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label "Save Link Target">
+<!ENTITY saveLinkCmd.label "Spara länkens mål">
 <!ENTITY saveLinkCmd.accesskey "r">
-<!ENTITY saveImageCmd.label "Save Image">
+<!ENTITY saveImageCmd.label "Spara bild">
 <!ENTITY saveImageCmd.accesskey "v">
 <!ENTITY copyCmd.label "Kopiera">
 <!ENTITY copyCmd.accesskey "o">
@@ -714,29 +714,29 @@
 
 <!-- Lightning Specific String -->
 <!ENTITY pbLightningQuickView.label "Snabbvisning">
-<!ENTITY lightning.calendar.label "Calendar">
-<!ENTITY lightning.tasks.label "Tasks">
+<!ENTITY lightning.calendar.label "Kalender">
+<!ENTITY lightning.tasks.label "Uppgifter">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY messageHeader.assignLabel.label            "Assign Label">
+<!ENTITY messageHeader.assignLabel.label            "Tilldela etikett">
 <!ENTITY filtersApplyToMessage.accesskey "s">
 <!ENTITY folderContextColor.accesskey "L">
-<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
-<!ENTITY folderContextColor.label "Label Color">
+<!ENTITY filtersApplyToMessage.label "Kör filter på meddelande">
+<!ENTITY folderContextColor.label "Etikettfärg">
 <!ENTITY filtersApplyToSelection.accesskey "S">
-<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
+<!ENTITY filtersApplyToSelection.label "Kör filter på valda meddelanden">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY helpSafeMode.label     "Trouble Shooting…">
-<!ENTITY helpTroubleshootingInfo.label     "Configuration Data">
+<!ENTITY helpSafeMode.label     "Problemsökning…">
+<!ENTITY helpTroubleshootingInfo.label     "Konfigurationsdata">
 <!ENTITY helpSafeMode.accesskey "S">
 <!ENTITY helpTroubleshootingInfo.accesskey "C">
 

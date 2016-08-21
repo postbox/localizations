@@ -1,10 +1,10 @@
-<!ENTITY alwaysCheckDefault.label          "Always check to see if &brandShortName; is the default mail client on startup">
+<!ENTITY alwaysCheckDefault.label          "Kolla alltid om &brandShortName; är förinställd e-postklient vid start">
 <!ENTITY alwaysCheckDefault.accesskey      "l">
 
-<!ENTITY checkNow.label             "Check Now">
+<!ENTITY checkNow.label             "Kolla nu">
 <!ENTITY checkNow.accesskey         "N">
 
-<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.label              "Tillåt Spotlight att söka meddelanden">
 <!ENTITY allowSpotlight.accesskey          "w">
 
 <!ENTITY location.label                   "Adress:">
@@ -37,10 +37,10 @@
 
 <!-- message list font size -->
 
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
+<!ENTITY pbChromeFontSizeSmall.label      "Liten">
+<!ENTITY pbChromeFontSizeMedium.label     "Medel">
+<!ENTITY pbChromeFontSizeLarge.label      "Stor">
+<!ENTITY pbChromeFontSize.label           "Teckensnittets storlek för meddelande lista och mappe:">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 
@@ -48,20 +48,20 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+<!ENTITY enableNotificationCenter.label   "Använd meddelandecenter">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY useRetina.label				  "Retina Display">
+<!ENTITY useRetina.label				  "Retina-visning">
 
-<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
+<!ENTITY showProfileManager.label   "Visa profilhanteraren vid start">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
+<!ENTITY storeLocation.label              "Lagra ämnen, signaturer, svar och adressboken hos:">

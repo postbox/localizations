@@ -2,13 +2,13 @@
 
 <!ENTITY accountManagerTitle.label "Kontoinställningar för e-post och diskussionsgrupper">
 
-<!ENTITY accountActionsButton.label "Account Actions">
+<!ENTITY accountActionsButton.label "Kontoåtgärder">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Add Mail Account…">
+<!ENTITY addMailAccountButton.label "Lägg till e-postkonto…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addRSSAccountButton.label "Add RSS Account…">
+<!ENTITY addRSSAccountButton.label "Lägg till RSS-konto…">
 <!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.label "Lägg till diskussionsgruppskonto…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Gör till standardkonto">
 <!ENTITY setDefaultButton.accesskey "G">
@@ -38,6 +38,6 @@
 <!ENTITY pbAccountTree.width "width: 25ch;">
 
 <!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Add…">
-<!ENTITY pbAccountRemoveActionsButton.label "Remove">
+<!ENTITY pbAccountAddActionsButton.label "Lägg till…">
+<!ENTITY pbAccountRemoveActionsButton.label "Ta bort">
 <!ENTITY pbAccountRemoveActionsButton.accesskey "R">
