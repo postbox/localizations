@@ -60,13 +60,13 @@
 <!ENTITY changeSettings.label            "Cambia impostazioni">
 <!ENTITY changeSettings.accesskey        "m">
 
-<!ENTITY pb.contactYourProvider.description "&brandShortName; può consentirti di collegarti alla tua e-mail utilizzando le configurazioni fornite. Tuttavia, dovresti contattare il tuo amministratore o il tuo fornitore di servizi e-mail in merito a queste connessioni non corrette.">
+<!ENTITY pb.contactYourProvider.description "&brandShortName; può consentire di collegarti alla tua e-mail utilizzando le configurazioni fornite. Tuttavia, dovresti contattare l'amministratore o il fornitore di servizi e-mail in merito a queste connessioni non corrette.">
 
 <!ENTITY insecureServer.tooltip.title    "Attenzione, questo è un server non sicuro.">
 <!ENTITY insecureServer.tooltip.details  "Clicca sul cerchio per maggiori informazioni.">
 
-<!ENTITY insecureUnencrypted.description "La tua e-mail e le tue informazioni di autenticazione sono inviate senza crittografia, pertanto la tua password e il tuo messaggio potrebbero essere facilmente letti da altri utenti. &brandShortName; ti consentirà di collegarti alla tua e-mail ma dovresti contattare il tuo fornitore di servizi e-mail per configurare il server con un certificato affidabile.">
-<!ENTITY insecureSelfSigned.description  "Il server utilizza un certificato non affidabile, pertanto non possiamo essere sicuri che qualcuno non stia intercettando il traffico tra &brandShortName; e il server. &brandShortName; ti consentirà di collegarti alla tua e-mail, ma dovresti assolutamente richiedere al tuo fornitore di servizi e-mail di configurare il server con un certificato affidabile.">
+<!ENTITY insecureUnencrypted.description "La tua e-mail e le informazioni di autenticazione sono inviate senza crittografia, pertanto sia la password che il messaggio potrebbero essere facilmente letti da altri utenti. &brandShortName; consentirà di collegarti alla tua e-mail, ma dovresti contattare il fornitore di servizi e-mail per configurare il server con un certificato affidabile.">
+<!ENTITY insecureSelfSigned.description "Il server utilizza un certificato non affidabile, pertanto non possiamo essere sicuri che qualcuno non stia intercettando il traffico tra &brandShortName; e il server. &brandShortName; consentirà di collegarti alla tua e-mail, ma dovresti assolutamente richiedere al fornitore di servizi e-mail di configurare il server con un certificato affidabile.">
 <!ENTITY secureServer.description        "Complimenti, questo è un server sicuro.">
 
 <!ENTITY pb.identity.title "Identità">

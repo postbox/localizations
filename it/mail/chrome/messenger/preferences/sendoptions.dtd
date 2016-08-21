@@ -36,4 +36,4 @@
 <!ENTITY duplicationError.label       "Il nome dominio @string@ esiste già in questa lista.">
 
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Un nome dominio non può apparire sia in liste HTML sia in liste Testo semplice. Il nome dominio @string@ esiste già.">
+<!ENTITY dualEntryError.label         "Un nome dominio non può essere presente sia in liste HTML sia in liste Testo semplice. Il nome dominio @string@ esiste già.">
