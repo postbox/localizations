@@ -1,10 +1,10 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para economizar espaço em disco, não receber:">
-<!ENTITY offlineNewFolder.label "When I create new folders, select them for offline use">
+<!ENTITY offlineNewFolder.label "Quando eu criar novas pastas, habilitar o uso offline nelas">
 <!ENTITY offlineNewFolder.accesskey "c">
 <!ENTITY offlineNotDownload.label "Mensagens com mais de">
 <!ENTITY offlineNotDownload.accesskey "s">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "days">
+<!ENTITY days.label "dias">
 <!ENTITY daysOld.label "dias">
 <!ENTITY message.label "mensagens">
 <!ENTITY nntpNotDownloadRead.label "Mensagens lidas">
@@ -16,29 +16,28 @@
 <!ENTITY retentionKeepMsg.accesskey "x">
 <!ENTITY retentionKeepAll.label "Não excluir nenhuma mensagem">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.label "Excluir todas exceto a última">
 <!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Always delete read messages">
+<!ENTITY retentionKeepUnread.label "Sempre excluir mensagens lidas">
 <!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY nntpRemoveBody.label "Only message bodies less than">
+<!ENTITY nntpRemoveBody.label "Apenas corpo de mensagens menor que">
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Selecionar newsgroups para leitura offline…">
-<!ENTITY offlineSelectImap.label "Select folders for offline use...">
+<!ENTITY offlineSelectImap.label "Selecionar pastas para uso offline…">
 <!ENTITY offlineSelect.accesskey "S">
-<!ENTITY makeInboxMsgsAvailable.label "Make the messages in my Inbox available when I am working offline">
+<!ENTITY makeInboxMsgsAvailable.label "Deixar as mensagens na minha Caixa de Entrada disponíveis quando eu estiver trabalhando offline">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
 <!ENTITY offlineGroupTitle.label "Offline">
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">
-<!ENTITY ftiGroupTitle.label "Global Search">
-<!ENTITY fti.indexMsgBodies.label "Index message bodies">
-<!ENTITY newsrcFilePath.label "newsrc file:">
+<!ENTITY ftiGroupTitle.label "Pesquisa global">
+<!ENTITY fti.indexMsgBodies.label "Indexar corpo das mensagens">
+<!ENTITY newsrcFilePath.label "arquivo newsrc:">
 <!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Local directory:">
+<!ENTITY localPath.label "Diretório local:">
 <!ENTITY localPath.accesskey "L">
-<!ENTITY localFolderPicker.label "Select Local Directory">
-<!ENTITY browseFolder.label "Browse...">
+<!ENTITY localFolderPicker.label "Selecionar diretório local">
+<!ENTITY browseFolder.label "Procurar...">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Select newsrc File">
-<!ENTITY browseNewsrc.label "Browse...">
+<!ENTITY newsrcPicker.label "Selecionar arquivo newsrc">
+<!ENTITY browseNewsrc.label "Procurar...">
 <!ENTITY browseNewsrc.accesskey "e">
-
