@@ -47,22 +47,22 @@
 <!ENTITY folderCharsetOverride.accesskey         "U">
 <!ENTITY folderRebuildSummaryFile.label          "Recriar índice">
 <!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Recriar arquivo de índice"> 
-     
+<!ENTITY folderRebuildSummaryFileTip.label       "Recriar arquivo de índice">
+
 <!ENTITY retention.label "Exclusão">
-<!ENTITY retentionUseDefault.label  "Use server defaults">
+<!ENTITY retentionUseDefault.label  "Usar os padrões do servidor">
 <!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "days">
+<!ENTITY days.label "dias">
 <!ENTITY daysOld.label "dias">
 <!ENTITY message.label "mensagens">
 <!ENTITY retentionCleanup.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas.">
-<!ENTITY retentionKeepMsg.label "Delete messages more than">
+<!ENTITY retentionKeepMsg.label "Excluir mensagens maiores que">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não excluir nenhuma mensagem">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.label "Excluir todas, exceto a última">
 <!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Always delete read messages">
+<!ENTITY retentionKeepUnread.label "Sempre excluir mensagens lidas">
 <!ENTITY retentionKeepUnread.accesskey "r">
 
 <!ENTITY folderOfflineTab.label                  "Offline">
@@ -74,26 +74,26 @@
 <!ENTITY offlineFolder.button.label              "Receber agora">
 <!ENTITY offlineFolder.button.accesskey          "R">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Selecionar este newsgroup para leitura offline">
+<!ENTITY selectofflineNewsgroup.check.label      "Selecionar este grupo de notícias para leitura offline">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "S">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Use the default from account settings ">
+<!ENTITY UseDefaultofflineNewsgroup.check.label  "Utilizar o padrão das configurações de conta ">
 <!ENTITY offlineNewsgroup.button.label           "Receber agora">
 <!ENTITY offlineNewsgroup.button.accesskey       "R">
 
-<!ENTITY folderProps.information.label           "Information:">
+<!ENTITY folderProps.information.label           "Informações:">
 <!ENTITY folderProps.name.label                  "Nome:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Endereço:">
 <!ENTITY folderProps.location.accesskey          "E">
 
 <!ENTITY folderSharingTab.label                  "Compartilhamento">
-<!ENTITY privilegesDesc.label                    "Share this and other folders with network users and display and set access privileges">
-<!ENTITY privileges.button.label                 "Direitos…">
+<!ENTITY privilegesDesc.label                    "Compartilhar esta e outras pastas com usuários da rede e exibir e configurar permissões de acesso">
+<!ENTITY privileges.button.label                 "Permissões…">
 <!ENTITY privileges.button.accesskey             "D">
 <!ENTITY permissionsDesc.label                   "Você possui estas permissões:">
 <!ENTITY folderType.label                        "Pasta de tipo:">
 
 <!ENTITY folderQuotaTab.label                    "Cota">
-<!ENTITY folderQuotaRoot.label                   "Quota Root:">
+<!ENTITY folderQuotaRoot.label                   "Raiz da cota:">
 <!ENTITY folderQuotaUsage.label                  "Uso:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
