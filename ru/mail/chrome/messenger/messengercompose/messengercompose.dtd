@@ -10,14 +10,14 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Карточку адресной книги...">
+<!ENTITY newCard.label "Карточку адресной книги…">
 <!ENTITY newCard.accesskey "C">
-<!ENTITY emptyAttachmentBucket.label "Добавить файлы...">
+<!ENTITY emptyAttachmentBucket.label "Добавить файлы…">
 <!ENTITY attachMenu.label "Вложить">
 <!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "Файл(ы)...">
+<!ENTITY attachFileCmd.label "Файл(ы)…">
 <!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachPageCmd.label "Веб-страницу...">
+<!ENTITY attachPageCmd.label "Веб-страницу…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Визитную карточку (vCard)">
@@ -30,7 +30,7 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Сохранить как">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsFileCmd.label "Файл...">
+<!ENTITY saveAsFileCmd.label "Файл…">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Черновик">
 <!ENTITY saveAsDraftCmd.accesskey "D">
@@ -43,9 +43,9 @@
 <!ENTITY sendLaterCmd.label "Отправить позже">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "Параметры страницы...">
+<!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Печать...">
+<!ENTITY printCmd.label "Печать…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY quitApplicationCmdWin.label                    "Выход"> 
@@ -82,7 +82,7 @@
 <!ENTITY selectAllCmd.label "Выбрать все">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A"> 
-<!ENTITY findCmd.label "Найти и заменить...">
+<!ENTITY findCmd.label "Найти и заменить…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findAgainCmd.label "Найти еще">
@@ -97,7 +97,7 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Вид"> 
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY customizeToolbar.label "Настроить панель инструментов...">
+<!ENTITY customizeToolbar.label "Настроить панель инструментов…">
 <!ENTITY customizeToolbar.accesskey "t">
 <!ENTITY showFormatToolbarCmd.label "Панель инструментов форматирования">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
@@ -122,7 +122,7 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Параметры">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "Проверка орфографии...">
+<!ENTITY checkSpellingCmd.label "Проверка орфографии…">
 <!ENTITY checkSpellingCmd.key "K">
 <!ENTITY checkSpellingCmd.key2 "VK_F7">
 <!ENTITY checkSpellingCmd.accesskey "h">
@@ -175,7 +175,7 @@
 <!ENTITY addressBookCmd.label "Адресная книга">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY preferencesCmd.label "Параметры...">
+<!ENTITY preferencesCmd.label "Параметры…">
 <!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Настройки">
@@ -196,7 +196,7 @@
 <!ENTITY hintsAndTips.label "Справка &brandShortName;">
 <!ENTITY hintsAndTips.accesskey "H"> 
 <!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "О программе &brandShortName;">
+<!ENTITY aboutCmd.label "О приложении &brandShortName;">
 <!ENTITY aboutCmd.accesskey "A">
 
 <!-- Mail Toolbar -->
@@ -293,12 +293,12 @@
 <!ENTITY delete.accesskey "D">
 <!ENTITY selectAll.label "Выбрать все">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "Вложить файл(ы)...">
+<!ENTITY attachFile.label "Вложить файл(ы)…">
 <!ENTITY attachFile.accesskey "F">
-<!ENTITY attachPage.label "Вложить веб-страницу...">
+<!ENTITY attachPage.label "Вложить веб-страницу…">
 <!ENTITY attachPage.accesskey "-">
-<!ENTITY editSignatures.label "Изменить подписи...">
-<!ENTITY newSignature.label "Создать подпись...">
+<!ENTITY editSignatures.label "Изменить подписи…">
+<!ENTITY newSignature.label "Создать подпись…">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Контакты">
@@ -326,7 +326,7 @@
 <!ENTITY pbTopicContextMenu-favorite.accesskey "F">
 <!ENTITY pbTopicContextMenu-remove.label       "Удалить">
 <!ENTITY pbTopicContextMenu-remove.accesskey   "R">
-<!ENTITY pbTopicContextMenu-editAll.label      "Редактировать метки...">
+<!ENTITY pbTopicContextMenu-editAll.label      "Редактировать метки…">
 <!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
 
 <!-- bubble context menu XXX TODO ACCESS KEYS-->
@@ -381,8 +381,8 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY newResponse.label "Новый ответ...">
-<!ENTITY editResponses.label "Изменить ответы...">
+<!ENTITY newResponse.label "Новый ответ…">
+<!ENTITY editResponses.label "Изменить ответы…">
 <!ENTITY responseButton.tooltip "Вставить ответ">
 <!ENTITY responseButton.label "Ответы">
 
@@ -406,18 +406,18 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbSourceViewThemes.accesskey "T">
 <!ENTITY pbStatsChars.label "символов:">
 <!ENTITY formattingToolbar.label "Панель инструментов">
-<!ENTITY pbShowCompositionGoalsToolbarCmd.label "Строка состояния">
+<!ENTITY pbShowCompositionGoalsToolbarCmd.label "Строка состояния ограничений">
 <!ENTITY pbStatsTime.label "время:">
 <!ENTITY pbSourceViewThemes.label "Тема">
-<!ENTITY compositionGoals.tooltip "Показать или скрыть строку состояния в окне составления сообщения">
+<!ENTITY compositionGoals.tooltip "Показать или скрыть строку состояния ограничений в окне создания сообщения">
 <!ENTITY switchBetweenNormalAndCode.tooltip "Переключение между обычным режимом просмотра и режимом просмотра кода">
-<!ENTITY compositionGoals.label "Показатели">
+<!ENTITY compositionGoals.label "Ограничения">
 <!ENTITY tagButton.key "T">
 <!ENTITY pbSourceView.label "Просмотр кода">
 <!ENTITY pbShowCompositionGoalsToolbarCmd.accesskey "G">
 <!ENTITY formattingToolbar.tooltip "Показать или скрыть панель инструментов">
 
-<!ENTITY pbCreateResponse.label "Создать ответ...">
+<!ENTITY pbCreateResponse.label "Создать ответ…">
 <!ENTITY pbSearchGoogle.label "Поиск Google">
 
 
