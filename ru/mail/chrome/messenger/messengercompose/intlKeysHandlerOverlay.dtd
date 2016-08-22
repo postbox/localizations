@@ -1,4 +1,4 @@
-<!-- Intl Chars -->
-<!ENTITY moveToNextPage.label "Ïîêàçàòü ñëåäóþùóþ ñòðàíèöó ñèìâîëîâ">
-<!ENTITY moveToPreviousPage.label "Ïîêàçàòü ïðåäûäóùóþ ñòðàíèöó ñèìâîëîâ">
+ï»¿<!-- Intl Chars -->
+<!ENTITY moveToNextPage.label "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰ÑƒÑŽ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð²">
+<!ENTITY moveToPreviousPage.label "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ñ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰ÑƒÑŽ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð²">
 
