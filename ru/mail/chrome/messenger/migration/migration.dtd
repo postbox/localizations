@@ -17,11 +17,11 @@
 <!ENTITY importFromNothing.accesskey    "D">
 
 <!ENTITY welcome.title                  "Добро пожаловать в &brandShortName;">
-<!ENTITY tagline.label                  "Лучший способ для работы с почтой A Better Way To Do Email">
+<!ENTITY tagline.label                  "Пожалуй лучшее приложение для работы с почтой">
 <!ENTITY thanks.label                   "Благодарим за выбор &brandShortName;!">
 <!ENTITY quickStart1.label              "См. ">
 <!ENTITY quickStart2.label              "Краткое руководство по началу работы"> 
-<!ENTITY quickStart3.label              ", чтобы узнать обо всех возможностях программы.">
+<!ENTITY quickStart3.label              ", чтобы узнать обо всех возможностях приложения.">
 <!ENTITY start.label                    "Начать работу с &brandShortName;">
     
 <!ENTITY migration.title                "Мастер импорта учетной записи">
@@ -30,8 +30,8 @@
 <!ENTITY importItems.title              "Объекты для импорта">
 <!ENTITY importItems.label              "Выберите объекты для импорта:">
 
-<!ENTITY migrating.title                "Выполняется импорт...">
-<!ENTITY migrating.label                "В данный момент выполняется импорт следующих объектов...">
+<!ENTITY migrating.title                "Выполняется импорт…">
+<!ENTITY migrating.label                "В данный момент выполняется импорт следующих объектов…">
 
 <!ENTITY selectProfile.title            "Выбор профиля">
 <!ENTITY selectProfile.label            "Импорт может быть выполнен из следующих профилей:">
