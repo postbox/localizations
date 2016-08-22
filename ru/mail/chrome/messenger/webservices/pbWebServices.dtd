@@ -1,4 +1,4 @@
-<!-- Web services Prefs panel (binding) -->
+﻿<!-- Web services Prefs panel (binding) -->
 <!ENTITY webservice.login.label         "войти">
 <!ENTITY webservice.logout.label        "выйти">
-<!ENTITY webservice.account.label       "создать учётную запись">
+<!ENTITY webservice.account.label       "создать учетную запись">
