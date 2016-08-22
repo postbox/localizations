@@ -1,41 +1,41 @@
+﻿
+<!ENTITY copyrightText          "&#169; Postbox, Inc. и участники проекта, 2007-2014. Все права защищены.
+                                 Приложение Postbox разработано и поддерживается компанией Postbox, Inc.">
 
-<!ENTITY copyrightText          "&#169;2007-2014 Postbox, Inc. и участники проекта. Все права защищены. Postbox
-                                 разработан и поддерживается Postbox, Inc.">
 
+<!ENTITY aboutDialog.title          "О приложении &brandFullName;">
 
-<!ENTITY aboutDialog.title          "О &brandFullName;">
-
-<!ENTITY productDescription.label    "Hand-crafted, and made with love, in San Francisco, California.">
+<!ENTITY productDescription.label    "Сделано вручную и с любовью в Сан-Франциско, Калифорния.">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Licensing Information">
+<!ENTITY bottomLinks.license        "Сведения о лицензировании">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Privacy Policy">
+<!ENTITY bottomLinks.privacy        "Политика конфиденциальности">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Checking for updates…">
+<!ENTITY update.checkingForUpdates  "Поиск обновлений…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.checkingAddonCompat "Проверка совместимости дополнения…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; is up to date">
+<!ENTITY update.noUpdatesFound      "Установлена последняя версия &brandShortName;">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Updates disabled by your system administrator">
+<!ENTITY update.adminDisabled       "Обновления отключены системным администратором">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Update failed. ">
-<!ENTITY update.failed.linkText     "Download the latest version">
+<!ENTITY update.failed.start        "Сбой обновления. ">
+<!ENTITY update.failed.linkText     "Загрузить последнюю версию">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Updates available at ">
+<!ENTITY update.manual.start        "Обновления доступны: ">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -43,7 +43,7 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Downloading update — ">
+<!ENTITY update.downloading.start   "Загрузка обновления — ">
 <!ENTITY update.downloading.end     "">
 
 
@@ -52,4 +52,4 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pb.safeMode.label "Running in Safe Mode">
+<!ENTITY pb.safeMode.label "Работает в безопасном режиме">
