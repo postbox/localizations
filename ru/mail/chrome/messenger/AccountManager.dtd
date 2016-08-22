@@ -1,18 +1,18 @@
-<!-- extracted from AccountManager.xul -->
+﻿<!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Параметры учётной записи">
+<!ENTITY accountManagerTitle.label "Параметры учетной записи">
 
-<!ENTITY accountActionsButton.label "Действия с учётной записью">
+<!ENTITY accountActionsButton.label "Действия с учетной записью">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Добавить учётную запись почты…">
+<!ENTITY addMailAccountButton.label "Добавить учетную запись почты…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addRSSAccountButton.label "Add RSS Account…">
+<!ENTITY addRSSAccountButton.label "Добавить учетную запись RSS…">
 <!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.label "Добавить учетную запись группы новостей…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Установить по умолчанию">
 <!ENTITY setDefaultButton.accesskey "f">
-<!ENTITY removeButton.label "Удалить учётную запись">
+<!ENTITY removeButton.label "Удалить учетную запись">
 <!ENTITY removeButton.accesskey "R">
 
 <!-- AccountManager.xul -->
@@ -38,6 +38,6 @@
 <!ENTITY pbAccountTree.width "width: 25ch;">
 
 <!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Add…">
-<!ENTITY pbAccountRemoveActionsButton.label "Remove">
+<!ENTITY pbAccountAddActionsButton.label "Добавить…">
+<!ENTITY pbAccountRemoveActionsButton.label "Удалить">
 <!ENTITY pbAccountRemoveActionsButton.accesskey "R">
