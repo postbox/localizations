@@ -1,5 +1,5 @@
-<!ENTITY attachmentReminderDialog.title   "Ключевые слова для напоминания о вложении">
-<!ENTITY attachKeywordText.label          "&brandShortName; будет предупреждать вас о том, что вы забыли вложить файл, если вы попробуете отправить письмо, содержащее одно из этих ключевых слов.">
+﻿<!ENTITY attachmentReminderDialog.title   "Ключевые слова для напоминания о вложении">
+<!ENTITY attachKeywordText.label          "&brandShortName; будет предупреждать об отсутствующем вложении при отправке сообщения с одним из этих ключевых слов.">
 <!ENTITY addKeywordButton.label           "Добавить">
 <!ENTITY addKeywordButton.accesskey       "A">
 <!ENTITY editKeywordButton.label          "Изменить">

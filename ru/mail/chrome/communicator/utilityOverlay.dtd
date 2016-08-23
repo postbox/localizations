@@ -1,4 +1,4 @@
-<!-- these things need to move into utilityOverlay.xul -->
+﻿<!-- these things need to move into utilityOverlay.xul -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
@@ -27,10 +27,10 @@
 <!ENTITY deleteCmd.label          "Удалить">
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.label          "Выделить всё">
+<!ENTITY selectAllCmd.label          "Выбрать все">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "A">
-<!ENTITY preferencesCmd.label        "Настройки…">
+<!ENTITY preferencesCmd.label        "Настройки….">
 <!ENTITY preferencesCmd.accesskey      "O">
 <!ENTITY preferencesCmdUnix.label       "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
@@ -40,7 +40,7 @@
 
 <!ENTITY viewMenu.label          "Вид">
 <!ENTITY viewMenu.accesskey        "V">
-<!ENTITY viewToolbarsMenu.label        "Показать/скрыть">
+<!ENTITY viewToolbarsMenu.label        "Панели инструментов">
 <!ENTITY viewToolbarsMenu.accesskey      "T">
 <!ENTITY showTaskbarCmd.label          "Строка состояния">
 <!ENTITY showTaskbarCmd.accesskey        "S">
@@ -52,7 +52,7 @@
 <!ENTITY pac.label                                      "Онлайн (прокси: авто)">
 <!ENTITY pac.accesskey                                  "a">
 
-<!ENTITY proxy.label                                    "Конфигурация прокси">
+<!ENTITY proxy.label                                    "Конфигурация прокси…">
 <!ENTITY proxy.accesskey                                "C">
 
 <!ENTITY findTypeTextCmd.key        "/">
@@ -68,7 +68,7 @@
 <!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "x">
 
-<!ENTITY quitApplicationCmdUnix.label  "Выход">
+<!ENTITY quitApplicationCmdUnix.label  "Завершить">
 <!ENTITY quitApplicationCmdUnix.accesskey  "Q">
 
 <!ENTITY quitApplicationCmdMac.label  "Завершить &brandShortName;">

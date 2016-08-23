@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -36,17 +36,17 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY newDirectoryTitle.label           "Свойства сервера каталогов">
-<!ENTITY directoryName.label               "Название:">
+<!ENTITY directoryName.label               "Имя:">
 <!ENTITY directoryName.accesskey           "N">
-<!ENTITY directoryHostname.label           "Имя сервера:">
+<!ENTITY directoryHostname.label           "Имя хоста:">
 <!ENTITY directoryHostname.accesskey       "o">
-<!ENTITY directoryBaseDN.label             "Корневой элемент (Base DN):">
+<!ENTITY directoryBaseDN.label             "Базовое DN:">
 <!ENTITY directoryBaseDN.accesskey         "B">
 <!ENTITY findButton.label                  "Найти">
 <!ENTITY findButton.accesskey              "F">
-<!ENTITY directorySecure.label             "Использовать защищённое соединение (SSL)">
+<!ENTITY directorySecure.label             "Использовать защищенное соединение (SSL)">
 <!ENTITY directorySecure.accesskey         "S">
-<!ENTITY directoryLogin.label              "Имя пользователя (Bind DN):">
+<!ENTITY directoryLogin.label              "Привязка DN:">
 <!ENTITY directoryLogin.accesskey          "B">
 <!ENTITY advancedOptionsButton.label       "Дополнительные параметры">
 <!ENTITY advancedOptionsButton.accesskey   "A">
@@ -67,7 +67,7 @@
 <!ENTITY return.label                      "Не возвращать более чем">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "результатов">
-<!ENTITY offlineText.label                 "Вы можете загрузить копию этого каталога для использования в автономном режиме работы.">
+<!ENTITY offlineText.label                 "Можно загрузить копию этого каталога для использования в автономном режиме работы.">
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
