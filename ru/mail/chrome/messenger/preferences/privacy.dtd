@@ -1,41 +1,41 @@
-<!-- Junk Mail Controls -->
-<!ENTITY manualMark.label "Когда я помечаю сообщения как спам:">
+﻿<!-- Junk Mail Controls -->
+<!ENTITY manualMark.label "Сообщения, помеченные как спам:">
 <!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
+<!ENTITY manualMarkModeMove.label "Переместить в папку «Спам» данной учетной записи">
 <!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Удалить их">
+<!ENTITY manualMarkModeDelete.label "Удалить">
 <!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY markAsReadOnSpam.label "Пометить сообщения, определенные как спам, как прочитанные">
 <!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Включить журнал спам-фильтров">
+<!ENTITY enableJunkLogging.label "Включить журнал спам-фильтра">
 <!ENTITY enableJunkLogging.accesskey "g">
 <!ENTITY openJunkLog.label "Показать журнал">
 <!ENTITY openJunkLog.accesskey "h">
-<!ENTITY resetTrainingData.label "Reset Training Data">
+<!ENTITY resetTrainingData.label "Удалить данные обучения">
 <!ENTITY resetTrainingData.accesskey "D">
 
 
 <!-- Phishing Detector -->
-<!ENTITY enablePhishingDetector1.label    "Block reported e-mail scams">
+<!ENTITY enablePhishingDetector1.label    "Блокировать известные адреса мошенников">
 <!ENTITY enablePhishingDetector1.accesskey "B">
 
 <!-- Passwords -->
 <!ENTITY useMasterPassword.label              "Использовать мастер-пароль">
 <!ENTITY useMasterPassword.accesskey          "s">
-<!ENTITY changeMasterPassword.label           "Изменить Мастер-пароль...">
+<!ENTITY changeMasterPassword.label           "Изменить мастер-пароль…">
 <!ENTITY changeMasterPassword.accesskey       "M">
-<!ENTITY savedPasswords.label                 "Сохранённые пароли...">
+<!ENTITY savedPasswords.label                 "Сохраненные пароли…">
 <!ENTITY savedPasswords.accesskey             "S">
 
 <!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics2.label      "Help make &brandShortName; better by sending anonymous usage statistics.">
+<!ENTITY enableAnonymousStatistics2.label      "Разрешить отправку анонимных сведений об использовании для улучшения &brandShortName;.">
 <!ENTITY enableAnonymousStatistics.accesskey   "H">
 
 <!-- Remote images -->
 <!ENTITY disableImageInMailNews.label  "Блокировать загрузку изображений в сообщениях">
 <!ENTITY disableImageInMailNews.accesskey "r">
 
-<!ENTITY pbPrivacy.label "Privacy:">
-<!ENTITY pbJunkMail.label "Junk:">
-<!ENTITY pbPasswords.label "Passwords:">
-<!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in Account Settings.">
+<!ENTITY pbPrivacy.label "Приватность:">
+<!ENTITY pbJunkMail.label "Спам:">
+<!ENTITY pbPasswords.label "Пароли:">
+<!ENTITY pbJunkMail.intro "Примечание. Параметры спам-фильтра, относящиеся к определенной учетной записи, можно изменить в настройках этой учетной записи.">

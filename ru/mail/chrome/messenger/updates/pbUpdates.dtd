@@ -1,17 +1,17 @@
-<!ENTITY releaseNotes.label "Release Notes:">
-<!ENTITY cancelButton.label "Cancel">
-<!ENTITY installUpdateButton.label "Install Update">
-<!ENTITY newVersion.label "A new version of Postbox is available!">
+﻿<!ENTITY releaseNotes.label "Примечания к выпуску:">
+<!ENTITY cancelButton.label "Отмена">
+<!ENTITY installUpdateButton.label "Установить обновление">
+<!ENTITY newVersion.label "Доступна более новая версия Postbox.">
 
-<!ENTITY updatingPostbox.label "Updating Postbox">
-<!ENTITY downloading.label "Downloading update...">
+<!ENTITY updatingPostbox.label "Обновление Postbox">
+<!ENTITY downloading.label "Загрузка обновления…">
 
-<!ENTITY errorTitle.label "Error">
-<!ENTITY errorProse.description "An error occured during the update. Please download and install the latest version of Postbox from our website.">
-<!ENTITY continueButton.label "Continue">
+<!ENTITY errorTitle.label "Ошибка">
+<!ENTITY errorProse.description "Произошла ошибка во время обновления. Загрузите и установите последнюю версию Postbox с нашего веб-сайта.">
+<!ENTITY continueButton.label "Продолжить">
 
-<!ENTITY ready.label "Ready to Install">
-<!ENTITY installButton.label "Install and Relaunch">
+<!ENTITY ready.label "Все готово для установки">
+<!ENTITY installButton.label "Установить и перезапустить">
 
-<!ENTITY okButton.label "OK">
-<!ENTITY upToDateTitle.label "You're up-to-date!">
+<!ENTITY okButton.label "ОК">
+<!ENTITY upToDateTitle.label "Установлена последняя версия.">

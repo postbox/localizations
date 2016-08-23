@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -36,14 +36,14 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY selectAddressWindow.title           "Select Addresses">
+<!ENTITY selectAddressWindow.title           "Выберите адреса">
 
 <!-- Buttons -->
-<!ENTITY toButton.label                      "To->">
+<!ENTITY toButton.label                      "Кому->">
 <!ENTITY toButton.accesskey                  "T">
-<!ENTITY ccButton.label                      "Cc->">
+<!ENTITY ccButton.label                      "Копия->">
 <!ENTITY ccButton.accesskey                  "C">
-<!ENTITY bccButton.label                     "Bcc->">
+<!ENTITY bccButton.label                     "Скрытая копия->">
 <!ENTITY bccButton.accesskey                 "B">
 <!ENTITY newButton.label                     "Создать…">
 <!ENTITY newButton.accesskey                 "N">
@@ -51,17 +51,17 @@
 <!ENTITY editButton.accesskey                "E">
 <!ENTITY removeButton.label                  "Удалить">
 <!ENTITY removeButton.accesskey              "R">
-<!ENTITY lookIn.label                        "Просмотреть в:">
+<!ENTITY lookIn.label                        "Посмотреть в:">
 <!ENTITY lookIn.accesskey                    "L">
-<!ENTITY for.label                           "for:">
+<!ENTITY for.label                           "для:">
 <!ENTITY for.accesskey                       "f">
 <!ENTITY clearButton.label                   "Очистить">
 <!ENTITY clearButton.accesskey               "a">
 <!ENTITY stopButton.label                    "Стоп">
-<!ENTITY addressMessageTo.label              "Address message to:">
+<!ENTITY addressMessageTo.label              "Адресовать сообщение:">
 
 <!-- Tooltips items -->
-<!ENTITY addressPickerSearchButton.tooltip   "Search the selected address book">
-<!ENTITY addressPickerNewButton.tooltip      "Create a new address book card">
-<!ENTITY addressPickerEditButton.tooltip     "Edit the selected card">
+<!ENTITY addressPickerSearchButton.tooltip   "Поиск в выбранной адресной книге">
+<!ENTITY addressPickerNewButton.tooltip      "Создание новой карточки адресной книги">
+<!ENTITY addressPickerEditButton.tooltip     "Редактирование выбранной карточки">
 

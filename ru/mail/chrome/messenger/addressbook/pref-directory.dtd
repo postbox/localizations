@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -36,15 +36,15 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
-<!ENTITY pref.ldap.window.title    "Сервера каталогов LDAP">
-<!ENTITY directory.label           "Add a directory">
+<!ENTITY pref.ldap.window.title    "Серверы каталогов LDAP">
+<!ENTITY directory.label           "Добавить каталог">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Сервер каталогов LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "Выберите сервер каталогов LDAP:">
 <!ENTITY directoriesText.accesskey "L">
 <!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "LDAP Directory Server">
+<!ENTITY autocomplete.title        "Сервер каталогов LDAP">
 <!ENTITY addDirectory.label        "Добавить">
 <!ENTITY addDirectory.accesskey    "A">
 <!ENTITY editDirectory.label       "Изменить">
