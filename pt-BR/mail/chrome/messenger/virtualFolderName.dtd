@@ -35,6 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY createVFDialog.title              "Save Search">
-<!ENTITY virtualFolder.label               "Enter the name for your saved search folder: ">
+<!ENTITY createVFDialog.title              "Salvar pesquisa">
+<!ENTITY virtualFolder.label               "Digite o nome para a sua pasta de pesquisas salvas: ">
 <!ENTITY virtualFolder.accesskey           "E">
