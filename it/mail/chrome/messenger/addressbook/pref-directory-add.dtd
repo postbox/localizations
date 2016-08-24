@@ -51,7 +51,7 @@
 <!ENTITY advancedOptionsButton.label       "Opzioni avanzate">
 <!ENTITY advancedOptionsButton.accesskey   "A">
 <!ENTITY General.tab                       "Generale">
-<!ENTITY Offline.tab                       "offline">
+<!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Avanzate">
 <!ENTITY advancedOptionsTitle.label        "Opzioni avanzate">
 <!ENTITY portNumber.label                  "Numero porta: ">

@@ -6,10 +6,10 @@
 <!ENTITY requestReceipt.label         "Durante l'invio dei messaggi, richiedi sempre una ricevuta di ritorno">
 <!ENTITY requestReceipt.accesskey     "Q">
 <!ENTITY receiptArrive.label          "Quando arriva una ricevuta:">
-<!ENTITY leaveIt.label                "Lasciala nella mia posta in arrivo">
+<!ENTITY leaveIt.label                "Lasciala nella posta in arrivo">
 <!ENTITY leaveIt.accesskey            "L">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Spostala nella mia cartella &quot;Posta inviata&quot;">
+<!ENTITY moveToSent.label             "Spostala nella cartella &quot;Posta inviata&quot;">
 <!ENTITY moveToSent.accesskey         "S">
 <!ENTITY requestMDN.label             "Quando ricevo una richiesta per una ricevuta di ritorno:">
 <!ENTITY returnSome.label             "Consenti ricevute di ritorno per alcuni messaggi">

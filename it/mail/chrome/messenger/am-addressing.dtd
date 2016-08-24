@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "In seguito,">
 <!ENTITY then.accesskey                       "o">
-<!ENTITY aboveQuote.label                     "inizia la mia risposta sopra il testo citato">
+<!ENTITY aboveQuote.label                     "inizia la risposta sopra il testo citato">
 <!ENTITY belowQuote.label                     "inizia la risposta sotto il testo citato">
 <!ENTITY selectAndQuote.label                 "seleziona il testo citato>
 <!ENTITY place.label                          "e inserisci la mia firma">
