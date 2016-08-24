@@ -35,10 +35,10 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title        "Sottoscrizioni">
-<!ENTITY subscribeButton.label        "Sottoscrivi">
+<!ENTITY subscribeDialog.title        "Iscriviti">
+<!ENTITY subscribeButton.label        "Iscriviti">
 <!ENTITY subscribeButton.accesskey    "S">
-<!ENTITY unsubscribeButton.label      "Rimuovi sottoscrizione">
+<!ENTITY unsubscribeButton.label      "Rimuovi iscrizione">
 <!ENTITY unsubscribeButton.accesskey  "R">
 <!ENTITY newGroupsTab.label           "Nuovi gruppi">
 <!ENTITY newGroupsTab.accesskey       "N">
@@ -48,8 +48,8 @@
 <!ENTITY stopButton.accesskey         "t">
 <!ENTITY server.label                 "Account:">
 <!ENTITY server.accesskey             "A">
-<!ENTITY subscribedHeader.label       "Sottoscritto">
-<!-- commenting out until bug 38906 is fixed 
+<!ENTITY subscribedHeader.label       "Iscritto">
+<!-- commenting out until bug 38906 is fixed
 <!ENTITY messagesHeader.label         "Messaggi"> -->
 <!ENTITY namefield.label              "Mostra gli elementi che contengono:">
 <!ENTITY namefield.accesskey          "M">
