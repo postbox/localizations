@@ -1,5 +1,5 @@
 <!ENTITY dialog.title                  "Confirmações de leitura">
-<!ENTITY receiptSettings.label         "Return Receipts">
+<!ENTITY receiptSettings.label         "Confirmações de leitura">
 <!ENTITY requestReceipt.label          "Sempre solicitar uma confirmação de leitura">
 <!ENTITY requestReceipt.accesskey      "S">
 <!ENTITY receiptArrive.label           "Ao receber uma confirmação que eu solicitei:">
