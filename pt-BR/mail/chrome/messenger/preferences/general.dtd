@@ -1,10 +1,10 @@
-<!ENTITY alwaysCheckDefault.label          "Always check to see if &brandShortName; is the default mail client on startup">
+<!ENTITY alwaysCheckDefault.label          "Sempre verificar se o &brandShortName; é o cliente padrão de e-mails ao iniciar">
 <!ENTITY alwaysCheckDefault.accesskey      "l">
 
-<!ENTITY checkNow.label             "Check Now">
+<!ENTITY checkNow.label             "Verificar agora">
 <!ENTITY checkNow.accesskey         "N">
 
-<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.label              "Permitir que o Spotlight pesquise mensagens">
 <!ENTITY allowSpotlight.accesskey          "w">
 
 <!ENTITY location.label                   "Endereço:">
@@ -23,7 +23,7 @@
 <!ENTITY customizeMailAlert.label         "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
-<!ENTITY soundNotification1.caption       "Sound">
+<!ENTITY soundNotification1.caption       "Som">
 <!ENTITY play.label                       "Testar">
 <!ENTITY play.accesskey                   "T">
 <!ENTITY systemsound.label                "Som padrão do sistema para novas mensagens">
@@ -37,10 +37,10 @@
 
 <!-- message list font size -->
 
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
+<!ENTITY pbChromeFontSizeSmall.label      "Pequeno">
+<!ENTITY pbChromeFontSizeMedium.label     "Médio">
+<!ENTITY pbChromeFontSizeLarge.label      "Grande">
+<!ENTITY pbChromeFontSize.label           "Tamanho da fonte da lista de mensagens e da pasta:">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 
@@ -48,20 +48,20 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+<!ENTITY enableNotificationCenter.label   "Usar a Central de Notificações">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY useRetina.label				  "Retina Display">
+<!ENTITY useRetina.label				  "Tela de retina">
 
-<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
+<!ENTITY showProfileManager.label   "Exibir o Gerenciador de Perfis ao iniciar">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
+<!ENTITY storeLocation.label              "Armazenar Tópicos, Assinaturas, Respostas e Catálogos de Endereços em:">
