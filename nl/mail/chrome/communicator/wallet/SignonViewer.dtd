@@ -1,17 +1,17 @@
-<!ENTITY      windowtitle.label               "Password Manager">
-<!ENTITY      windowalttitle.label            "Form Manager: Sites">
-<!ENTITY      tab.signonsstored.label         "Passwords Saved">
-<!ENTITY      tab.signonsnotstored.label      "Passwords Never Saved">
-<!ENTITY      tab.nopreview.label             "Forms Never Previewed">
-<!ENTITY      tab.nocapture.label             "Forms Never Saved">
+<!ENTITY      windowtitle.label               "Wachtwoord Manager">
+<!ENTITY      windowalttitle.label            "Formulier Manager: Sites">
+<!ENTITY      tab.signonsstored.label         "Wachtwoorden Opgeslagen">
+<!ENTITY      tab.signonsnotstored.label      "Wachtwoorden Nooit Opgeslagen">
+<!ENTITY      tab.nopreview.label             "Nooit Een Voorbeeld Getoond Van Formulieren">
+<!ENTITY      tab.nocapture.label             "Formulieren Nooit Opgeslagen">
 
-<!ENTITY      spiel.signonsstored.label       "Password Manager has saved login information for the following sites:">
-<!ENTITY      spiel.signonsnotstored.label    "Password Manager will never save login information for the following sites:">
-<!ENTITY      spiel.nopreview.label           "Form Manager will never preview forms from the following sites before pre-filling them for you:">
-<!ENTITY      spiel.nocapture.label           "Form Manager will never ask to save forms from the following sites:">
+<!ENTITY      spiel.signonsstored.label       "Wachtwoord Manager heeft login informatie opgeslagen voor de volgende sites:">
+<!ENTITY      spiel.signonsnotstored.label    "Wachtwoord Manager slaat nooit login informatie op voor de volgende sites:">
+<!ENTITY      spiel.nopreview.label           "Formulier Manager toont nooit voorbeelden van formulieren van de volgende sites voordat hij ze voor u invult:">
+<!ENTITY      spiel.nocapture.label           "Formulier Manager zal u nooit vragen om formulieren op te slaan van de volgende sites:">
 
 <!ENTITY      treehead.site.label             "Site">
-<!ENTITY      treehead.username.label         "Username">
-<!ENTITY      treehead.password.label         "Password">
-<!ENTITY      remove.label                    "Remove">
-<!ENTITY      removeall.label                 "Remove All">
+<!ENTITY      treehead.username.label         "Gebruikersnaam">
+<!ENTITY      treehead.password.label         "Wachtwoord">
+<!ENTITY      remove.label                    "Verwijder">
+<!ENTITY      removeall.label                 "Verwijder Alle">
