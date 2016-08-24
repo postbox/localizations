@@ -1,4 +1,4 @@
-<!ENTITY window.title  "Informazioni sulle Posta indesiderata">
+<!ENTITY window.title  "Informazioni sulla Posta indesiderata">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "&brandShortName; individua automaticamente i messaggi in entrata che sembrano posta indesiderata (conosciuta anche come spam). I messaggi identificati da &brandShortName; come indesiderati sono contrassegnati con l'icona 'posta indesiderata'">
 <!ENTITY info1b.label  ".">

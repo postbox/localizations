@@ -18,7 +18,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identità">
-<!ENTITY identityDesc.label "Ogni account ha un'identità, che consiste nelle informazioni che permettono agli alri di identificarti quando ricevono i tuoi messaggi.">
+<!ENTITY identityDesc.label "Ogni account ha un'identità, che consiste nelle informazioni che permettono agli altri di identificarti quando ricevono i tuoi messaggi.">
 
 <!ENTITY fullnameLabel.label "Nome:">
 <!ENTITY fullnameLabel.accesskey "N">
@@ -111,7 +111,7 @@
 <!ENTITY smtpServerNamePrefix.label "Nome server in uscita (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nome server delle news (NNTP):">
 <!ENTITY downloadOnLogin.label "Scarica i messaggi ora">
-<!ENTITY deferStorageDesc.label "Togli la spunta per archiviare le e-mail di questo account inella sua cartella. Questo farà apparire questo account comeun account di livello superiore. Altrimenti, farà parte dell'account in entrata globale delle cartelle locali.">
+<!ENTITY deferStorageDesc.label "Togli la spunta per archiviare le e-mail di questo account nella sua cartella. Questo farà apparire questo account come un account di livello superiore. Altrimenti, farà parte dell'account in entrata globale delle cartelle locali.">
 <!ENTITY deferStorage.label "Utilizza 'Posta in arrivo' globale (posta nelle 'Cartelle Locali')">
 <!ENTITY clickFinish.label "Clicca su Termina per salvare queste impostazioni e uscire dalla Procedura guidata account.">
 <!ENTITY clickFinish.labelMac "Clicca su Fatto per salvare queste impostazioni e uscire dalla Procedura guidata account.">

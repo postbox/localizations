@@ -73,8 +73,8 @@
 <!ENTITY alwaysAuthenticate1.label "Richiedi sempre l'autenticazione">
 <!ENTITY alwaysAuthenticate1.accesskey "w">
 <!ENTITY abbreviate.label "Mostra nome Newsgroup nel pannello E-mail come:">
-<!ENTITY abbreviateOn.label "Nomi completi (Ad esempio, 'netscape.public.mozilla.mail-news')">
-<!ENTITY abbreviateOff.label "Nomi abbreviati (Ad esempio, 'n.p.m.mail-news')">
+<!ENTITY abbreviateOn.label "Nomi completi (ad esempio, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Nomi abbreviati (ad esempio, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzate…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset1.label "Codifica:">
