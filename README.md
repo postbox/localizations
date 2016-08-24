@@ -70,5 +70,5 @@
 <img src="http://postbox-images.s3.amazonaws.com/github/line-number@2x.png" width="50%">
 <p>Then enter a comment on the line. If a correction is needed, please state what the correction should be.</p>
 <img src="http://postbox-images.s3.amazonaws.com/github/comments@2x.png" width="50%">
-
+<p>It is very helpful to provide the complete line to replace vs. a single word to replace. This way we can just copy and paste the entire corrected line. </p>
 
