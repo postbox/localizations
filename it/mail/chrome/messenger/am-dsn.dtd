@@ -3,7 +3,7 @@
 <!ENTITY useGlobalPrefs.accesskey   "U">
 <!ENTITY useCustomPrefs.label       "Personalizza la Notifica dello stato di consegna per questo account">
 <!ENTITY useCustomPrefs.accesskey   "C">
-<!ENTITY requestAlways.label        "Durante l'invio dei messaggi, richiedi sempre una Notifica dello stato di consegna">
+<!ENTITY requestAlways.label        "Richiedi sempre una Notifica dello stato di consegna durante l'invio dei messaggi">
 <!ENTITY requestAlways.accesskey    "W">
 <!ENTITY optionTitle.label          "Richiedi notifica durante :">
 <!ENTITY requestOnSucess.label      "Conegna riuscita">

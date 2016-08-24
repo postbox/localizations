@@ -71,7 +71,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY playSound.label "Riproduci suono">
 <!ENTITY notPendingStatus.label "Non in attesa">
 <!ENTITY noSoundSelected.label "Seleziona un suono">
-<!ENTITY noScriptsInstalled.label "Nessun script installato">
+<!ENTITY noScriptsInstalled.label "Nessuno script installato">
 <!ENTITY markMessageAs.label "Mark Message as">
 <!ENTITY systemAlertSound.label "Suono avviso sistema">
 <!ENTITY removeTag.label "Rimuovi argomento">
@@ -83,5 +83,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY launchScript.label "Esegui AppleScript">
 <!ENTITY openInFinder.label "Apri nel Finder">
 <!ENTITY pendingStatus.label "In attesa">
-<!ENTITY notReminderStatus.label "Not promemoria">
+<!ENTITY notReminderStatus.label "Non promemoria">
 <!ENTITY unreadStatus.label "Non letto">
