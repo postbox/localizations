@@ -1,19 +1,19 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
-<!ENTITY MsgSynchronize.label "Ricezione e sincronizzazione messaggi">
-<!ENTITY MsgSelect.label "Elementi per uso non in linea">
-<!ENTITY MsgSyncDesc.label "Se sono già state scelte le cartelle da utilizzare una volta non in linea, è possibile scaricare il loro contenuto o sincronizzarle. Altrimenti usare il pulsante &quot;Seleziona&quot; per aggiungere o rimuovere cartelle da usare non in linea.">
+<!ENTITY MsgSynchronize.label "Scarica e sincronizza messaggi">
+<!ENTITY MsgSelect.label "Elementi per utilizzo offline">
+<!ENTITY MsgSyncDesc.label "Se non hai già selezionato le cartelle e-mail o newsgroup per l'utilizzo offline, puoi scaricarle e/o sincronizzarle ora. Altrimenti utilizza il pulsante &quot;Seleziona&quot; per selezionare cartelle e-mail e newsgroup per l'utilizzo offline.">
 <!ENTITY MsgSyncDirections.label "Scarica e/o sincronizza i seguenti:">
-<!ENTITY syncTypeMail.label "Messaggi di posta">
+<!ENTITY syncTypeMail.label "Messaggi e-mail">
 <!ENTITY syncTypeMail.accesskey "M">
-<!ENTITY syncTypeNews.label "Messaggi dei gruppi di discussione">
+<!ENTITY syncTypeNews.label "Messaggi newsgroup">
 <!ENTITY syncTypeNews.accesskey "d">
-<!ENTITY sendMessage.label "Invia messaggi in attesa">
+<!ENTITY sendMessage.label "Invia messaggi non inviati">
 <!ENTITY sendMessage.accesskey "a">
-<!ENTITY workOffline.label "Passa non in linea una volta scaricati e/o sincronizzati i messaggi">
+<!ENTITY workOffline.label "Passa offline una volta completati il download e/o la sincronizzazione">
 <!ENTITY workOffline.accesskey "c">
 <!ENTITY selectButton.label "Seleziona…">
 <!ENTITY selectButton.accesskey "S">
-<!ENTITY MsgSelectDesc.label "Selezionare le cartelle di posta e dei gruppi di discussione che si desidera usare quando si è non in linea.">
+<!ENTITY MsgSelectDesc.label "Seleziona cartelle e-mail e newsgroup per l'utilizzo offline.">
 <!ENTITY MsgSelectInd.label "Da scaricare">
-<!ENTITY MsgSelectItems.label "Cartelle e gruppi di discussione">
+<!ENTITY MsgSelectItems.label "Cartelle e Newsgroup">

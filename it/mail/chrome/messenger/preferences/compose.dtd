@@ -137,7 +137,7 @@ entities below were automatically added by l10nmerge
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY messageSizeWarning.label "Avvisami se le dimensioni del messaggio sono sopra">
+<!ENTITY messageSizeWarning.label "Avvisami se le dimensioni del messaggio superano">
 <!ENTITY megabytes.label "MB">
 
 <!ENTITY imageOrientation.label "Orientamento immagine:">

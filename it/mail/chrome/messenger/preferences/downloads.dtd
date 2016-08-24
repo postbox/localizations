@@ -11,8 +11,8 @@
 <!ENTITY chooseFolderMac.accesskey    "C">
 
 
-<!ENTITY fileTypes.label              "Azioni download">
-<!ENTITY configureActions.label       "Visualizza e Modifica azioni...">
+<!ENTITY fileTypes.label              "Scarica Azioni">
+<!ENTITY configureActions.label       "Visualizza e Modifica Azioni...">
 <!ENTITY configureActions.accesskey   "V">
 <!ENTITY fileTypesDescription.label   "&brandShortName; può salvare automaticamente o aprire allegati di alcuni tipi.">
 

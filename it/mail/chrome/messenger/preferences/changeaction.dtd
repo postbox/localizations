@@ -1,7 +1,7 @@
 <!ENTITY  changeAction.title                  "Cambia azione">
 <!ENTITY  window.width                         "36em">
 
-<!ENTITY  whenDownloading.label               "quando scarichi file come questo:">
+<!ENTITY  whenDownloading.label               "Quando scarichi file come questo:">
 
 <!ENTITY  openDefault.label                   "Aprili con la applicazione predefinita:">
 <!ENTITY  openDefault.accesskey               "O">

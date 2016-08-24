@@ -1,8 +1,8 @@
-<!ENTITY  downloadactionsWindow.title         "Scarica azioni">
+<!ENTITY  downloadactionsWindow.title         "Scarica Azioni">
 <!ENTITY  window.width                         "480">
 <!ENTITY  window.height                        "310">
 
-<!ENTITY  fileTypesDescription.label          "Esegui automaticamente l'Azione associata con ognuno dei tipi di file seguenti:">
+<!ENTITY  fileTypesDescription.label          "Esegui automaticamente l'Azione associata a ognuno dei tipi di file seguenti:">
 
 <!ENTITY  fileHandlerColumn.label             "Azione">
 <!ENTITY  fileHandlerColumn.accesskey         "A">

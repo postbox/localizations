@@ -43,57 +43,57 @@
 <!ENTITY generalInfo.label                       "Informazioni generali">
 <!ENTITY folderCharsetTab.label                  "Codifica caratteri predefinita:">
 <!ENTITY folderCharsetTab.accesskey              "C">
-<!ENTITY folderCharsetOverride.label             "Applica le impostazioni predefinite a tutti i messaggi nella cartella (le impostazioni di codifica caratteri e la rilevazione automatica del singolo messaggio verranno ignorate)">
+<!ENTITY folderCharsetOverride.label             "Applica le impostazioni predefinite a tutti i messaggi nella cartella (le impostazioni di codifica caratteri per il singolo messaggio e la rilevazione automatica saranno ignorate)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFile.label          "Ricostruisci gli indici">
 <!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Ricostruisci il file sommario"> 
-     
+<!ENTITY folderRebuildSummaryFileTip.label       "Ricostruisci il file di riepilogo">
+
 <!ENTITY retention.label "Politica di conservazione">
-<!ENTITY retentionUseDefault.label  "Use server defaults">
+<!ENTITY retentionUseDefault.label  "Utilizza impostazioni predefinite server">
 <!ENTITY retentionUseDefault.accesskey "d">
 <!ENTITY days.label "giorni">
 <!ENTITY daysOld.label "giorni">
-<!ENTITY message.label "messaggi più recenti">
-<!ENTITY retentionCleanup.label "Per recuperare spazio su disco è possibile eliminare definitivamente i vecchi messaggi.">
+<!ENTITY message.label "messaggi">
+<!ENTITY retentionCleanup.label "Per recuperare spazio su disco è possibile eliminare definitivamente i messaggi meno recenti.">
 <!ENTITY retentionKeepMsg.label "Elimina i messaggi più vecchi di">
 <!ENTITY retentionKeepMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Non eliminare alcun messaggio">
+<!ENTITY retentionKeepAll.label "Non eliminare nessun messaggio">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.label "Elimina tutti tranne l'ultimo">
 <!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Always delete read messages">
+<!ENTITY retentionKeepUnread.label "Elimina sempre i messaggi letti">
 <!ENTITY retentionKeepUnread.accesskey "r">
 
-<!ENTITY folderOfflineTab.label                  "Non in linea">
-<!ENTITY folderCheckForNewMessages.label         "Controlla l'arrivo di nuovi messaggi in questa cartella">
+<!ENTITY folderOfflineTab.label                  "Offline">
+<!ENTITY folderCheckForNewMessages.label         "Controlla questa cartella per l'arrivo di nuovi messaggi">
 <!ENTITY folderCheckForNewMessages.accesskey     "C">
 
-<!ENTITY offlineFolder.check.label               "Seleziona questa cartella per l'uso non in linea">
+<!ENTITY offlineFolder.check.label               "Seleziona questa cartella per l'uso offline">
 <!ENTITY offlineFolder.check.accesskey           "S">
 <!ENTITY offlineFolder.button.label              "Scarica ora">
 <!ENTITY offlineFolder.button.accesskey          "o">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Seleziona questo gruppo di discussione per l'uso non in linea">
+<!ENTITY selectofflineNewsgroup.check.label      "Seleziona questo newsgroup per l'uso offline">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "S">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Use the default from account settings ">
+<!ENTITY UseDefaultofflineNewsgroup.check.label  "Utilizza le impostazioni predefinite dalle impostazioni account ">
 <!ENTITY offlineNewsgroup.button.label           "Scarica ora">
 <!ENTITY offlineNewsgroup.button.accesskey       "o">
 
-<!ENTITY folderProps.information.label           "Information:">
+<!ENTITY folderProps.information.label           "Informazioni:">
 <!ENTITY folderProps.name.label                  "Nome:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Posizione:">
 <!ENTITY folderProps.location.accesskey          "P">
 
 <!ENTITY folderSharingTab.label                  "Condivisione">
-<!ENTITY privilegesDesc.label                    "Share this and other folders with network users and display and set access privileges">
+<!ENTITY privilegesDesc.label                    "Condividi questa cartella e altre cartelle con gli utenti della rete e mostra e imposta privilegi di accesso">
 <!ENTITY privileges.button.label                 "Privilegi…">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "Si possiedono i seguenti privilegi:">
+<!ENTITY permissionsDesc.label                   "Possiedi i seguenti permessi:">
 <!ENTITY folderType.label                        "Tipo cartella:">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota radice:">
+<!ENTITY folderQuotaTab.label                    "Limite massimo">
+<!ENTITY folderQuotaRoot.label                   "Limite massimo root:">
 <!ENTITY folderQuotaUsage.label                  "Utilizzo:">
 <!ENTITY folderQuotaStatus.label                 "Stato:">
