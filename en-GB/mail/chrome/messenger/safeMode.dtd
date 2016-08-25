@@ -43,11 +43,11 @@
 <!ENTITY safeModeOptionsWindow.width       "width: 49em;">
 <!ENTITY safeModeOptionsDialog.title       "&brandShortName; Trouble Shooting">
 
-<!ENTITY safeModeOptionsDescription2.label "If you are experiencing difficulty with Postbox, try restarting 
+<!ENTITY safeModeOptionsDescription2.label "If you are experiencing difficulty with Postbox, try restarting
 with one or more of these trouble shooting options selected:">
 
 
-<!ENTITY disableAddons.label              "Permamently Disable all Add-ons">
+<!ENTITY disableAddons.label              "Permanently Disable all Add-ons">
 <!ENTITY disableAddons.accesskey          "D">
 
 <!ENTITY resetToolbars.label              "Reset User Interface">
