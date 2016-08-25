@@ -36,14 +36,14 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label      "choose this news server">
-<!ENTITY subscribeclickhere.label      "click here to choose a news server">
+<!ENTITY subscribechoosethis.label      "escolher este servidor de notícias">
+<!ENTITY subscribeclickhere.label      "clique aqui para escolher um servidor de notícias">
 <!ENTITY newfolderchoosethis.label      "(Selecionar esta pasta)">
-<!ENTITY newfolderclickhere.label      "Click here to select">
-<!ENTITY renamefolderchoosethis.label      "choose this folder">
-<!ENTITY renamefolderclickhere.label      "click here to choose a folder">
+<!ENTITY newfolderclickhere.label      "Clique aqui para selecionar">
+<!ENTITY renamefolderchoosethis.label      "escolher esta pasta">
+<!ENTITY renamefolderclickhere.label      "clique aqui para escolher uma pasta">
 <!ENTITY filemessageschoosethis.label      "(Selecionar esta pasta)">
-<!ENTITY filemessagesclickhere.label      "click here to choose a folder">
-<!ENTITY chooseaccountclickhere.label      "Click here to select an account">
-<!ENTITY choosefolderclickhere.label      "Click here to select a folder">
-<!ENTITY chooseserverToDeferTo.label      "click here to select an account to use for storing messages">
+<!ENTITY filemessagesclickhere.label      "clique aqui para escolher uma pasta">
+<!ENTITY chooseaccountclickhere.label      "Clique aqui para selecionar uma conta">
+<!ENTITY choosefolderclickhere.label      "Clique aqui para selecionar uma pasta">
+<!ENTITY chooseserverToDeferTo.label      "clique aqui para selecionar uma conta para armazenar mensagens">
