@@ -36,16 +36,16 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
 <!ENTITY importDialog.windowTitle "Importa">
-<!ENTITY importDialog.allTitle    "Import everything">
-<!ENTITY importDialog.mailTitle   "Posta">
+<!ENTITY importDialog.allTitle    "Importa tutto">
+<!ENTITY importDialog.mailTitle   "E-mail">
 <!ENTITY importDialog.addressbookTitle "Rubriche">
 <!ENTITY importDialog.settingsTitle "Impostazioni">
 
@@ -53,16 +53,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.macWidth         "50em">
 
 <!ENTITY importTitle.label        "Importazione guidata di &brandShortName;">
-<!ENTITY importDesc.label         "Import Mail, Address Books and Settings from other programs">
+<!ENTITY importDesc.label         "Importa E-mail, Rubriche e Impostazioni da altri programmi">
 
-<!ENTITY importDescription.label  "This wizard will import mail messages, address book entries, and/or preferences from other mail programs and common address book formats into &brandShortName;.">
-<!ENTITY importDescription2.label "Una volta importate, vi si potrà accedere da &brandShortName;.">
+<!ENTITY importDescription.label  "Questa procedura guidata importerà messaggi e-mail, voci in rubrica, e/o preferenze da altri programmi e-mail e formati rubrica comuni in &brandShortName;.">
+<!ENTITY importDescription2.label "Una volta importati, potrai accedervi da &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Selezionare il programma dal quale eseguire l'importazione:">
+<!ENTITY selectDescription.label  "Seleziona il tipo di file che vorresti importare:">
 
 <!ENTITY back.label               "&lt; Indietro">
 <!ENTITY forward.label            "Avanti &gt;">
-<!ENTITY finish.label             "Finito">
+<!ENTITY finish.label             "Terminato">
 <!ENTITY cancel.label             "Annulla">
 
 <!ENTITY select.label             "o seleziona il tipo di materiale da importare:">
@@ -70,10 +70,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY title.label              "Titolo">
 <!ENTITY processing.label         "Importazione in corso…">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ha un indirizzo di posta per ogni scheda, mentre &brandShortName; ne ha due (Casa e Ufficio).">
-<!ENTITY FieldDiscInputText2.label  "Selezionare la categoria nella quale immagazzinare gli indirizzi di posta importati:">
-<!ENTITY FieldDiscWarning.label  "Questa sezione sarà utilizzata per tutte le voci della rubrica selezionata: ">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ha un indirizzo e-mail per ogni scheda, mentre &brandShortName; ne ha due (Casa e Lavoro).">
+<!ENTITY FieldDiscInputText2.label  "Seleziona la categoria nella quale archiviare gli indirizzi e-mail importati:">
+<!ENTITY FieldDiscWarning.label  "Questa categoria sarà utilizzata per tutte le voci della rubrica selezionata: ">
 <!ENTITY importDialog.homeTitle  "Casa">
 <!ENTITY importDialog.workTitle  "Lavoro">
 
-<!ENTITY pbSelect.label             "Select the type of material to import:">
+<!ENTITY pbSelect.label             "Seleziona il tipo di contenuti da importare:">

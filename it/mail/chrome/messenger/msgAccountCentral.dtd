@@ -1,20 +1,20 @@
-<!ENTITY emailSectionHdr.label        "E-mail"> 
-<!ENTITY readMsgsLink.label           "Leggi messaggi"> 
-<!ENTITY composeMsgLink.label         "Scrivi un nuovo messaggio"> 
+<!ENTITY emailSectionHdr.label        "E-mail">
+<!ENTITY readMsgsLink.label           "Leggi messaggi">
+<!ENTITY composeMsgLink.label         "Scrivi un nuovo messaggio">
 
-<!ENTITY newsSectionHdr.label         "Gruppi di discussione"> 
-<!ENTITY subscribeNewsLink.label      "Gestisci la sottoscrizione ai gruppi di discussione"> 
+<!ENTITY newsSectionHdr.label         "Newsgroup">
+<!ENTITY subscribeNewsLink.label      "Gestisci l'iscrizione ai newsgroup">
 
-<!ENTITY accountsSectionHdr.label     "Account"> 
-<!ENTITY subscribeImapFolders.label   "Gestisci la sottoscrizione alle cartelle">
-<!ENTITY settingsLink.label           "Visualizza impostazioni per questo account"> 
-<!ENTITY newAcctLink.label            "Crea un nuovo account"> 
+<!ENTITY accountsSectionHdr.label     "Account">
+<!ENTITY subscribeImapFolders.label   "Gestisci le iscrizioni alle cartelle">
+<!ENTITY settingsLink.label           "Visualizza impostazioni per questo account">
+<!ENTITY newAcctLink.label            "Crea un nuovo account">
 
-<!ENTITY advFeaturesSectionHdr.label  "Caratteristiche avanzate"> 
-<!ENTITY searchMsgsLink.label         "Cerca messaggi"> 
-<!ENTITY filtersLink.label            "Gestisci i filtri per i messaggi">
-<!ENTITY junkSettings.label           "Posta indesiderata">
-<!ENTITY offlineLink.label            "Impostazioni 'non in linea'">
+<!ENTITY advFeaturesSectionHdr.label  "Caratteristiche avanzate">
+<!ENTITY searchMsgsLink.label         "Cerca messaggi">
+<!ENTITY filtersLink.label            "Gestisci filtri messaggi">
+<!ENTITY junkSettings.label           "Impostazioni posta indesiderata">
+<!ENTITY offlineLink.label            "Impostazioni offline">
 
-<!ENTITY rssSectionHdr.label          "RSS News &amp; Blogs"> 
-<!ENTITY subscibeRSS.label            "Manage subscriptions">
+<!ENTITY rssSectionHdr.label          "News RSS e Blog">
+<!ENTITY subscibeRSS.label            "Gestisci iscrizioni">

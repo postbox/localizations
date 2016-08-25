@@ -1,44 +1,43 @@
-<!ENTITY doNotDownloadPop3Movemail.label "Al fine di risparmiare spazio su disco, non scaricare:">
-<!ENTITY offlineNewFolder.label "Quando creo nuove cartelle, selezionale per l'uso non in linea">
+<!ENTITY doNotDownloadPop3Movemail.label "Per risparmiare spazio su disco, non scaricare:">
+<!ENTITY offlineNewFolder.label "Quando creo nuove cartelle, selezionale per l'uso offline">
 <!ENTITY offlineNewFolder.accesskey "c">
-<!ENTITY offlineNotDownload.label "Messaggi più grandi di">
+<!ENTITY offlineNotDownload.label "Messaggi maggiori di">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "kB">
 <!ENTITY days.label "giorni">
 <!ENTITY daysOld.label "giorni">
 <!ENTITY message.label "messaggi più recenti">
-<!ENTITY nntpNotDownloadRead.label "Messaggi già letti">
+<!ENTITY nntpNotDownloadRead.label "Messaggi letti">
 <!ENTITY nntpNotDownloadRead.accesskey "g">
-<!ENTITY nntpDownloadMsg.label "Messaggi più vecchi di">
+<!ENTITY nntpDownloadMsg.label "Messaggi più di">
 <!ENTITY nntpDownloadMsg.accesskey "v">
-<!ENTITY retentionCleanup.label "Per recuperare spazio su disco è possibile eliminare definitivamente i vecchi messaggi.">
-<!ENTITY retentionKeepMsg.label "Elimina i messaggi più vecchi di">
+<!ENTITY retentionCleanup.label "Per recuperare spazio su disco è possibile eliminare definitivamente i messaggi meno recenti.">
+<!ENTITY retentionKeepMsg.label "Elimina i messaggi meno recenti di">
 <!ENTITY retentionKeepMsg.accesskey "h">
-<!ENTITY retentionKeepAll.label "Non eliminare alcun messaggio">
+<!ENTITY retentionKeepAll.label "Non eliminare nessun messaggio">
 <!ENTITY retentionKeepAll.accesskey "c">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.label "Elimina tutti tranne l'ultimo">
 <!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Always delete read messages">
+<!ENTITY retentionKeepUnread.label "Elimina sempre i messaggi letti">
 <!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY nntpRemoveBody.label "Only message bodies less than">
+<!ENTITY nntpRemoveBody.label "solo i corpi dei messaggi meno di">
 <!ENTITY nntpRemoveBody.accesskey "O">
-<!ENTITY offlineSelectNntp.label "Selezionare i gruppi di discussione per uso non in linea…">
-<!ENTITY offlineSelectImap.label "Seleziona le cartelle per l'uso non in linea...">
+<!ENTITY offlineSelectNntp.label "Seleziona i Newsgroup per l'utilizzo offline…">
+<!ENTITY offlineSelectImap.label "Seleziona le cartelle per l'utilizzo offline...">
 <!ENTITY offlineSelect.accesskey "S">
-<!ENTITY makeInboxMsgsAvailable.label "Rendi i messaggi della mia casella di posta disponibili quando lavoro non in linea">
+<!ENTITY makeInboxMsgsAvailable.label "Rendi i messaggi della mia Posta in entrata disponibili quando lavoro offline">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "Non in linea">
+<!ENTITY offlineGroupTitle.label "Offline">
 <!ENTITY diskspaceGroupTitle.label "Spazio su disco">
-<!ENTITY ftiGroupTitle.label "Global Search">
-<!ENTITY fti.indexMsgBodies.label "Indice del corpo dei messaggi">
-<!ENTITY newsrcFilePath.label "newsrc file:">
+<!ENTITY ftiGroupTitle.label "Ricerca globale">
+<!ENTITY fti.indexMsgBodies.label "Indice dei corpi dei messaggi">
+<!ENTITY newsrcFilePath.label "file newsrc:">
 <!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Directory locale:">
+<!ENTITY localPath.label "Cartella locale:">
 <!ENTITY localPath.accesskey "L">
-<!ENTITY localFolderPicker.label "Select Local Directory">
-<!ENTITY browseFolder.label "Scorri...">
+<!ENTITY localFolderPicker.label "Seleziona Cartella locale">
+<!ENTITY browseFolder.label "Sfoglia...">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Select newsrc File">
-<!ENTITY browseNewsrc.label "Scorri...">
+<!ENTITY newsrcPicker.label "Seleziona file newsrc">
+<!ENTITY browseNewsrc.label "Sfoglia...">
 <!ENTITY browseNewsrc.accesskey "e">
-

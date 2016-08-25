@@ -1,25 +1,25 @@
 <!ENTITY window.title "Regole del filtro">
-<!ENTITY subject.label "subject">
-<!ENTITY sender.label "sender">
-<!ENTITY date.label "date">
-<!ENTITY anyText.label "any text">
-<!ENTITY keyword.label "keyword">
-<!ENTITY age.label "age in days">
+<!ENTITY subject.label "oggetto">
+<!ENTITY sender.label "mittente">
+<!ENTITY date.label "data">
+<!ENTITY anyText.label "qualsiasi testo">
+<!ENTITY keyword.label "parola chiave">
+<!ENTITY age.label "età in giorni">
 <!ENTITY to.label "a">
 
 <!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
 <!ENTITY cc.label "CC">
 
-<!ENTITY status.label "status">
-<!ENTITY priority.label "priority">
-<!ENTITY body.label "body">
+<!ENTITY status.label "stato">
+<!ENTITY priority.label "priorità">
+<!ENTITY body.label "corpo">
 <!ENTITY contains.label "contiene">
 <!ENTITY nocontains.label "non contiene">
-<!ENTITY filterName.label "Nome del filtro:">
+<!ENTITY filterName.label "Nome filtro:">
 <!ENTITY filterName.accesskey "f">
 
-<!ENTITY junk.label "posta indesiderata">
-<!ENTITY notJunk.label "posta non indesiderata">
+<!ENTITY junk.label "indesiderata">
+<!ENTITY notJunk.label "non indesiderata">
 
 <!ENTITY lowestPriorityCmd.label "Minima">
 <!ENTITY lowPriorityCmd.label "Bassa">
@@ -27,7 +27,7 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Massima">
 
-<!ENTITY conditionDesc.label "For incoming messages which:">
+<!ENTITY conditionDesc.label "Per messaggi in arrivo che:">
 <!ENTITY filterActionDesc.label "Esegui queste azioni:">
 <!ENTITY filterActionDesc.accesskey "E">
 
@@ -39,17 +39,17 @@
 <!ENTITY copyMessage.label "Copia il messaggio in">
 <!ENTITY forwardTo.label "Inoltra il messaggio a">
 <!ENTITY replyWithTemplate.label "Rispondi con un modello">
-<!ENTITY markMessageRead.label "Marca il messaggio come letto">
-<!ENTITY markMessageStarred.label "Aggiungi a Speciali">
-<!ENTITY labelMessage.label "Label Message As">
+<!ENTITY markMessageRead.label "Contrassegna come letto">
+<!ENTITY markMessageStarred.label "Aggiungi stelle">
+<!ENTITY labelMessage.label "Etichetta il messaggio come">
 <!ENTITY setPriority.label "Imposta priorità a">
 <!ENTITY addTag.label "Etichetta il messaggio">
-<!ENTITY setJunkScore.label "Considera il messaggio">
+<!ENTITY setJunkScore.label "Imposta stato Indesiderata come">
 <!ENTITY deleteMessage.label "Elimina messaggio">
 <!ENTITY deleteFromPOP.label "Elimina dal server POP">
-<!ENTITY fetchFromPOP.label "Scarica dal server POP">
+<!ENTITY fetchFromPOP.label "Preleva dal server POP">
 <!ENTITY ignoreThread.label "Ignora la discussione">
-<!ENTITY watchThread.label "Tieni d'occhio la discussione">
+<!ENTITY watchThread.label "Guaarda la discussione">
 <!ENTITY stopExecution.label "Interrompi l'esecuzione dei filtri">
 
 
@@ -57,10 +57,10 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
-<!ENTITY contextIncoming.label "Checking Mail">
+<!ENTITY contextDesc.label "Applica filtro quando:">
+<!ENTITY contextManual.label "Esecuzione manuale">
+<!ENTITY contextBoth.label "Controllo e-mail or Esecuzione manuale">
+<!ENTITY contextIncoming.label "Controllo e-mail">
 <!ENTITY contextDesc.accesskey "w">
 
 
@@ -68,20 +68,20 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY playSound.label "Play Sound">
-<!ENTITY notPendingStatus.label "Not Pending">
-<!ENTITY noSoundSelected.label "Select a Sound">
-<!ENTITY noScriptsInstalled.label "No Scripts installed">
+<!ENTITY playSound.label "Riproduci suono">
+<!ENTITY notPendingStatus.label "Non in attesa">
+<!ENTITY noSoundSelected.label "Seleziona un suono">
+<!ENTITY noScriptsInstalled.label "Nessuno script installato">
 <!ENTITY markMessageAs.label "Mark Message as">
-<!ENTITY systemAlertSound.label "System Alert Sound">
-<!ENTITY removeTag.label "Remove Topic">
-<!ENTITY reminderStatus.label "Reminder">
-<!ENTITY markMessagePending.label "Mark as Pending">
-<!ENTITY noScriptSelected.label "Select an AppleScript">
-<!ENTITY globalFilterChekbox.label "This is a global filter">
-<!ENTITY readStatus.label "Read">
-<!ENTITY launchScript.label "Run AppleScript">
-<!ENTITY openInFinder.label "Open in Finder">
-<!ENTITY pendingStatus.label "Pending">
-<!ENTITY notReminderStatus.label "Not Reminder">
-<!ENTITY unreadStatus.label "Unread">
+<!ENTITY systemAlertSound.label "Suono avviso sistema">
+<!ENTITY removeTag.label "Rimuovi argomento">
+<!ENTITY reminderStatus.label "Promemoria">
+<!ENTITY markMessagePending.label "Contrassegna come in attesa">
+<!ENTITY noScriptSelected.label "Seleziona un AppleScript">
+<!ENTITY globalFilterChekbox.label "Questo è un filtro globale">
+<!ENTITY readStatus.label "Letto">
+<!ENTITY launchScript.label "Esegui AppleScript">
+<!ENTITY openInFinder.label "Apri nel Finder">
+<!ENTITY pendingStatus.label "In attesa">
+<!ENTITY notReminderStatus.label "Non promemoria">
+<!ENTITY unreadStatus.label "Non letto">

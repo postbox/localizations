@@ -1,7 +1,7 @@
-<!ENTITY window.title "Personalizzazione intestazioni">
+<!ENTITY window.title "Personalizza intestazioni">
 <!ENTITY addButton.label "Aggiungi">
 <!ENTITY addButton.accesskey "A">
-<!ENTITY removeButton.label "Elimina">
+<!ENTITY removeButton.label "Rimuovi">
 <!ENTITY removeButton.accesskey "E">
 <!ENTITY newMsgHeader.label "Nuova intestazione messaggio:">
 <!ENTITY newMsgHeader.accesskey "N">

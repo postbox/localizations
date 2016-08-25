@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY fieldMapExport.title "Esporta Rubrica">
-<!ENTITY fieldMapExport.add    "Add Field ->">
-<!ENTITY fieldMapExport.addAll  "Add All ->">
-<!ENTITY fieldList.label   "Address Fields">
+<!ENTITY fieldMapExport.title "Esporta rubrica">
+<!ENTITY fieldMapExport.add    "Aggiungi campo ->">
+<!ENTITY fieldMapExport.addAll  "Aggiungi tutti ->">
+<!ENTITY fieldList.label   "Campi indirizzo">

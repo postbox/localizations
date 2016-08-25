@@ -1,5 +1,5 @@
 <!ENTITY attachImageSource.label         "Allega questa immagine al messaggio">
 <!ENTITY attachImageSource.accesskey     "s">
 
-<!ENTITY attachLinkSource.label          "Allega la sorgente di questo link al messaggio">
+<!ENTITY attachLinkSource.label          "Allega l'indirizzo web del link al messaggio">
 <!ENTITY attachLinkSource.accesskey      "s">
