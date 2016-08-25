@@ -12,15 +12,15 @@
 <!ENTITY deleteButton.label          "Elimina">
 <!ENTITY deleteButton.accesskey      "E">
 <!ENTITY searchDialogTitle.label     "Ricerca messaggi">
-<!ENTITY conditionDesc.label         "Search for messages that match:">
-<!ENTITY conditions.label            "Criteria">
+<!ENTITY conditionDesc.label         "Cerca messaggi che corrisponono a:">
+<!ENTITY conditions.label            "Criteri">
 <!ENTITY results.label               "Risultati">
-<!ENTITY fileHereMenu.label          "Sposta qua">
+<!ENTITY fileHereMenu.label          "Sposta qui">
 <!ENTITY fileHereMenu.accesskey      "a">
 <!ENTITY fileButton.label            "Sposta in">
 <!ENTITY fileButton.accesskey        "S">
-<!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "Apri Cartella Messaggi">
+<!ENTITY closeCmd.key                "W">
+<!ENTITY goToFolderButton.label      "Apri Cartella messaggi">
 <!ENTITY goToFolderButton.accesskey  "r">
 <!ENTITY saveAsVFButton.label        "Salva come cartella di ricerca">
 <!ENTITY saveAsVFButton.accesskey    "v">
@@ -45,8 +45,8 @@
 <!ENTITY accountColumn.label "Account">
 <!ENTITY statusColumn.label "Stato">
 <!ENTITY sizeColumn.label "Dimensione">
-<!ENTITY junkStatusColumn.label "Stato di indesiderata">
-<!ENTITY linesColumn.label "Lines">
+<!ENTITY junkStatusColumn.label "Stato indesiderata">
+<!ENTITY linesColumn.label "Linee">
 <!ENTITY unreadColumn.label "Non letto">
 <!ENTITY totalColumn.label "Totale">
 <!ENTITY readColumn.label "Letto">
@@ -57,7 +57,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Scegli le colonne da visualizzare">
-<!ENTITY threadColumn.tooltip "Raggruppa per discussione"> 
+<!ENTITY threadColumn.tooltip "Raggruppa per discussione">
 <!ENTITY fromColumn.tooltip "Ordina per mittente">
 <!ENTITY recipientColumn.tooltip "Ordina per destinatario">
 <!ENTITY subjectColumn.tooltip "Ordina per oggetto">
