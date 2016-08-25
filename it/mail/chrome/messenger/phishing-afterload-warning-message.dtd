@@ -1,10 +1,10 @@
 <!ENTITY safeb.palm.warning.title "Sospetta falsificazione web">
 
-<!ENTITY safeb.palm.message.p1 "Questa pagina è stata segnalata come falsificazione web realizzata per ingannare gli utenti e spingerli a condividere informazioni personali o finanziarie. Inserire qualsiasi informazione personale su questa pagina potrebbe casusare un furto d'identità o altra frode. &#160;">
+<!ENTITY safeb.palm.message.p1 "Questa pagina è stata segnalata come falsificazione web realizzata per ingannare gli utenti e spingerli a condividere informazioni personali o finanziarie. Inserire qualsiasi informazione personale su questa pagina potrebbe fraudolente un furto d'identità o altra frode. &#160;">
 <!ENTITY safeb.palm.message.p1.linkText "Continua a leggere &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText "Continua a leggere &#133;">
 
-<!ENTITY safeb.palm.message.p2.start "Questi tipi di falsificazioni web sono utilizzate in truffe note come attacchi di phishing, in cui pagine web ed e-mail fraudulente sono utilizzate per imitare le risorse di cui ti potresti fidare. Puoi scoprire di più su ">
+<!ENTITY safeb.palm.message.p2.start "Questi tipi di falsificazioni web sono utilizzate in truffe note come attacchi di phishing, in cui pagine web ed e-mail fraudolente sono utilizzate per imitare le risorse di cui ti potresti fidare. Puoi scoprire di più su ">
 <!ENTITY safeb.palm.message.p2.linkText "come &brandShortName; ti protegge">
 <!ENTITY safeb.palm.message.p2.end " dagli attacchi di phishing.">
 
@@ -25,4 +25,4 @@
 <!ENTITY safeb.blocked.phishing.title "Segnalata falsificazione web!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishing.shortDesc "Questo sito web su <span id='phishing_sitename'/> è stato segnalato come falsificazione web ed è stato bloccato in base alle tue preferenze di sicurezza.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Le falsificazioni web sono realizzate per ingannarti e spingerti a rivelare informazioni personali o finanziarie imitando risorse di cui potresti fidarti.</p><p>Inserire qualsiasi informazione personale su questa pagina potrebbe casusare un furto d'identità o altra frode.</p>">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Le falsificazioni web sono realizzate per ingannarti e spingerti a rivelare informazioni personali o finanziarie imitando risorse di cui potresti fidarti.</p><p>Inserire qualsiasi informazione personale su questa pagina potrebbe causare un furto d'identità o altra frode.</p>">
