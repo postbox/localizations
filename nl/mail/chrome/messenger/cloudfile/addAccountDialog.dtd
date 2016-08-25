@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY addAccountDialog.title   "Set up cloud file sharing">
-<!ENTITY addAccountDialog.menuTitle "Select an online storage service">
-<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
-<!ENTITY addAccountDialog.accountName.label "Account Name:">
-<!ENTITY addAccountDialog.noAccountText "We're sorry, but the current version of &brandShortName; only allows one account from each online storage service.">
-<!ENTITY addAccountDialog.createAccountText2 "You can send links to files instead of attachments using one of several online storage services. Please either set up an existing account, or sign up for a new account.">
-<!ENTITY addAccountDialog.authorizing "Checking authorization...">
-<!ENTITY addAccountDialog.error "An error occurred while setting up the account!">
-<!ENTITY addAccountDialog.acceptButton.label "Set up Account">
-<!ENTITY addAccountDialog.learnMore "Learn more…">
+<!ENTITY addAccountDialog.title   "Stel bestanden delen via cloud in">
+<!ENTITY addAccountDialog.menuTitle "Selecteer een online opslag service">
+<!ENTITY addAccountDialog.style "breedte: 40em; min-hoogte: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Account Naam:">
+<!ENTITY addAccountDialog.noAccountText "Het spijt ons, maar de huidige versie van &brandShortName;staat maar een account van elke online opslag service toe.">
+<!ENTITY addAccountDialog.createAccountText2 "U kunt link naar bestanden sturen in plaats van bijlagen met een van de online opslag services. Stel een bestaan accountin of maak een nieuw account aan.">
+<!ENTITY addAccountDialog.authorizing "Autorisatie controleren...">
+<!ENTITY addAccountDialog.error "Er is een fout opgetreden bij het instellen van het account!">
+<!ENTITY addAccountDialog.acceptButton.label "Account instellen">
+<!ENTITY addAccountDialog.learnMore "Lees meer…">
