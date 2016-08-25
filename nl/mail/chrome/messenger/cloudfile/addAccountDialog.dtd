@@ -3,7 +3,7 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY addAccountDialog.title   "Stel bestanden delen via cloud in">
 <!ENTITY addAccountDialog.menuTitle "Selecteer een online opslag service">
-<!ENTITY addAccountDialog.style "breedte: 40em; min-hoogte: 20em;">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Account Naam:">
 <!ENTITY addAccountDialog.noAccountText "Het spijt ons, maar de huidige versie van &brandShortName;staat maar een account van elke online opslag service toe.">
 <!ENTITY addAccountDialog.createAccountText2 "U kunt link naar bestanden sturen in plaats van bijlagen met een van de online opslag services. Stel een bestaan accountin of maak een nieuw account aan.">
