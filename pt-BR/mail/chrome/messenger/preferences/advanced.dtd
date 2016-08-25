@@ -27,11 +27,11 @@
 <!ENTITY openMsgInNewTab.label          "uma nova aba">
 <!ENTITY openMsgInNewTab.accesskey      "o">
 <!ENTITY openMsgInNewWindow.label       "uma nova janela">
-<!ENTITY openMsgInNewWindow.accesskey   "j">
+<!ENTITY openMsgInNewWindow.accesskey   "i">
 <!ENTITY openMsgInExistingWindow.label  "uma janela existente">
 <!ENTITY openMsgInExistingWindow.accesskey "x">
 <!ENTITY connectionTimeout.label       "Tempo limite de conexão: ">
-<!ENTITY connectionTimeout.accesskey   "T">
+<!ENTITY connectionTimeout.accesskey   "C">
 <!ENTITY connectionSeconds.label       "segundos">
 <!ENTITY configEditDesc.label          "Configuração avançada">
 <!ENTITY configEdit.label              "Editor de config…">
@@ -85,7 +85,7 @@
 
 <!ENTITY textStartUp   "Ao iniciar:">
 <!ENTITY radioRememberPrevState "Lembrar o status de conexão anterior">
-<!ENTITY radioRememberPrevState.accesskey "L">
+<!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskMe "Perguntar o status de conexão ao iniciar">
 <!ENTITY radioAskMe.accesskey "u">
 <!ENTITY radioAlwaysOnline "Sempre iniciar no status online">
@@ -98,11 +98,11 @@
 
 <!ENTITY textGoingOffline "Baixar mensagens para uso offline quando ficar offline?">
 <!ENTITY radioAutoDownload "Sim">
-<!ENTITY radioAutoDownload.accesskey "S">
+<!ENTITY radioAutoDownload.accesskey "e">
 <!ENTITY radioNotDownload "Não">
 <!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload "Perguntar">
-<!ENTITY radioAskDownload.accesskey "P">
+<!ENTITY radioAskDownload.accesskey "A">
 
 
 <!--
@@ -110,7 +110,7 @@
 -->
 
 <!ENTITY pbUseGravatar.label "Usar o serviço Gravatar para procurar fotos de contatos.">
-<!ENTITY useGmailShortcuts.accesskey "f">
+<!ENTITY useGmailShortcuts.accesskey "l">
 <!ENTITY pbUseGravatar.accesskey "g">
 <!ENTITY useGmailShortcuts.label "Usar atalhos de teclado do Gmail">
 
