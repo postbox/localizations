@@ -1,5 +1,5 @@
-<!ENTITY quickfilePanelFileMessage.label  "Move Message">
-<!ENTITY quickswitchPanelSwitch.label     "Go To Folder">
+<!ENTITY quickfilePanelFileMessage.label  "Verplaats Bericht">
+<!ENTITY quickswitchPanelSwitch.label     "Ga Naar Map">
 <!ENTITY quickfilePanelFile.label         "OK">
 <!ENTITY quickfilePanelCancel.label       "Annuleren">
 <!ENTITY showQuickfileCmd.key             "v">
