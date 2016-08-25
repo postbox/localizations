@@ -36,7 +36,7 @@
 <!ENTITY preferencesCmdUnix.accesskey     "P">
 
 <!ENTITY findTypeTextCmd.label "Encontre texto ao digitar">
-<!ENTITY findTypeTextCmd.accesskey "g">
+<!ENTITY findTypeTextCmd.accesskey "x">
 
 <!ENTITY viewMenu.label          "Exibir">
 <!ENTITY viewMenu.accesskey        "x">
