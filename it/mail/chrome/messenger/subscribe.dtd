@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title        "Iscriviti">
+<!ENTITY subscribeDialog.title        "Iscrizioni">
 <!ENTITY subscribeButton.label        "Iscriviti">
 <!ENTITY subscribeButton.accesskey    "S">
 <!ENTITY unsubscribeButton.label      "Rimuovi iscrizione">
