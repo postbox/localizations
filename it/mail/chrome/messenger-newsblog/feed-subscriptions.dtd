@@ -1,6 +1,6 @@
 <!-- Subscription Dialog -->
 <!ENTITY newsBlogSubscriptions.label "RSS Subscriptions">
-<!ENTITY subscriptionDesc.label "Nota: rimuovere o cambiare la cartella di un feed non influenzerà sugli articoli già scaricati.">
+<!ENTITY subscriptionDesc.label "Nota: rimuovere o cambiare la cartella di un feed non avrà influenza sugli articoli già scaricati.">
 <!ENTITY feedTitle.label "Titolo:">
 <!ENTITY location.label  "Posizione:">
 
