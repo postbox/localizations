@@ -43,8 +43,8 @@
 <!ENTITY safeModeOptionsWindow.width       "width: 49em;">
 <!ENTITY safeModeOptionsDialog.title       "&brandShortName; Trouble Shooting">
 
-<!ENTITY safeModeOptionsDescription2.label "If you are experiencing difficulty with Postbox, try restarting
-with one or more of these trouble shooting options selected:">
+<!ENTITY safeModeOptionsDescription2.label "Se stai avendo difficoltà con Postbox, prova a riavviare
+con una o più delle opzioni per la risoluzione dei problemi selezionate:">
 
 
 <!ENTITY disableAddons.label              "Disabilita definitivamente tutti i Componenti aggiuntivi">
