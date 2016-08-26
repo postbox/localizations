@@ -5,7 +5,6 @@
 <p>Please download and install this special Mac translation build, which contains all of the languages specified above:</p>
 <p><a href="http://postbox-downloads.s3.amazonaws.com/mac/postbox-5.0b3.en-US.mac64.dmg" target="_blank">Mac OS X - BETA 3</a><br>
 <a href="http://postbox-downloads.s3.amazonaws.com/win/postbox-5.0b3-win32.exe">Windows - BETA 3</a></p>
-<p>Note: we currently do not have a Windows beta available yet.</p>
 <p><strong><span class="wysiwyg-font-size-large">Getting Started</span></strong></p>
 <ol>
 <li>Create a <a href="https://github.com" target="_blank">GitHub</a> account (if you do not already have one).</li>
