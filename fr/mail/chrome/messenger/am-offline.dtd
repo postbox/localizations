@@ -36,7 +36,7 @@
 <!ENTITY localPath.label "Local directory:">
 <!ENTITY localPath.accesskey "L">
 <!ENTITY localFolderPicker.label "Sélection du répertoire local">
-<!ENTITY browseFolder.label "Browse...">
+<!ENTITY browseFolder.label "Rechercher...">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "Sélectionner un fichier newsrc">
 <!ENTITY browseNewsrc.label "Parcourir...">
