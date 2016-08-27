@@ -30,9 +30,9 @@
 
 <!-- Fonts -->
 <!ENTITY fontsAndColors.label    "Polices">
-<!ENTITY defaultFont.label       "Police par défaut:">
+<!ENTITY defaultFont.label       "Police par défaut :">
 <!ENTITY defaultFont.accesskey   "D">
-<!ENTITY defaultSize.label       "Taille:">
+<!ENTITY defaultSize.label       "Taille :">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "Avancé…">
@@ -42,11 +42,11 @@
 
 <!-- conversation preferences -->
 <!ENTITY pb.itemConversation.label        "Discussions">
-<!ENTITY pb.conversations.display.label "Inclure les messages de:">
+<!ENTITY pb.conversations.display.label "Inclure les messages de :">
 <!ENTITY pb.conversations.folderonly.label1 "Le dossier courant">
 <!ENTITY pb.conversations.all.label1 "Tous les dossiers">
 
-<!ENTITY pb.conversations.sortorder.label "Trier les conversations par:">
+<!ENTITY pb.conversations.sortorder.label "Trier les conversations par :">
 <!ENTITY pb.conversations.sortoldest.label "Messages les plus anciens en premier">
 <!ENTITY pb.conversations.sortnewest.label "Messages les plus récents en premier">
 
@@ -60,7 +60,7 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbChromeFontSize.label           "Liste des messages et taille de la police des dossiers:">
+<!ENTITY pbChromeFontSize.label           "Liste des messages et taille de la police des dossiers :">
 <!ENTITY useRetina.label             "Ecran Retina">
 <!ENTITY pbChromeFontSizeMedium.label     "Moyen">
 <!ENTITY pbChromeFontSizeSmall.label      "Petit">
@@ -74,10 +74,10 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY quotedColor2.label "Quoted color, level 2">
-<!ENTITY devPixelsPerPx.label        "Mise à l'échelle hautre résolution:">
+<!ENTITY devPixelsPerPx.label        "Mise à l'échelle hautre résolution :">
 <!ENTITY devPixelsPerPx.accesskey    "D">
 <!ENTITY quotedColor5.label "Couleur citée, niveau 5">
-<!ENTITY quotedColors.label "Couleurs citées, niveaux 1 à 5:">
+<!ENTITY quotedColors.label "Couleurs citées, niveaux 1 à 5 :">
 <!ENTITY quotedColor1.label "Couleur citée, niveau 1">
 <!ENTITY quotedColor3.label "Couleur citée, niveau 3">
 <!ENTITY quotedColor4.label "Couleur citée, niveau 4">
