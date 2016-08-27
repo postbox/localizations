@@ -62,7 +62,7 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY playSound.label "Jouer un son">
-<!ENTITY notPendingStatus.label "Pas en attente">
+<!ENTITY notPendingStatus.label "N'est pas en cours de traitement">
 <!ENTITY noSoundSelected.label "choisir un son">
 <!ENTITY noScriptsInstalled.label "Pas de script installé">
 <!ENTITY markMessageAs.label "Marquer le message comme">
