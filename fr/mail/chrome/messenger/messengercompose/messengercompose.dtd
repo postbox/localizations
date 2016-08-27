@@ -218,7 +218,7 @@
 <!ENTITY sendButton.tooltip "Envoyer le message maintenant">
 <!ENTITY sendlaterButton.tooltip "Envoyer ce message plus tard">
 <!ENTITY quoteButton.tooltip "Citer le précédent message">
-<!ENTITY addressButton.tooltip "Sélectionner un destinataire du carnet d'adresses">
+<!ENTITY addressButton.tooltip "Sélectionner un destinataire dans le carnet d'adresses">
 <!ENTITY attachButton.tooltip "Inclure une pièce jointe">
 <!ENTITY saveButton.tooltip "Enregistrer ce message">
 <!ENTITY cutButton.tooltip              "Couper">
@@ -351,7 +351,7 @@
 <!ENTITY pbAddAttachmentCmd.keycode "A">
 <!ENTITY pbReplyButton.label       "Répondre">
 <!ENTITY pbReplyAllButton.tooltiptext    "Répondre à l'émetteur du message selectionné">
-<!ENTITY pbReplyAllButton.label    "Rép. à tous">
+<!ENTITY pbReplyAllButton.label    "Répondre à tous">
 <!ENTITY pbReplyAllButton.tooltiptext    "Répondre à tous les destinataires pour le message sélectionné">
 <!ENTITY pbToggleReplyRecipients.accesskey "R">
 <!ENTITY pbToggleReplyRecipients.key "R">
@@ -398,7 +398,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbStatsTime.label "time:">
 <!ENTITY pbSourceViewThemes.label "Thème">
 <!ENTITY compositionGoals.tooltip "Afficher ou masquer la barre d'état">
-<!ENTITY switchBetweenNormalAndCode.tooltip "Changer entre la vue Normale et la vue Code">
+<!ENTITY switchBetweenNormalAndCode.tooltip "Changer entre la vue normale et la vue Code">
 <!ENTITY compositionGoals.label "Objectifs">
 <!ENTITY tagButton.key "T">
 <!ENTITY pbSourceView.label "vue Code">
