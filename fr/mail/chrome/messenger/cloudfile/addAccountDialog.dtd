@@ -6,8 +6,8 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Nom du compte:">
 <!ENTITY addAccountDialog.noAccountText "Nous sommes désolés, mais la version actuelle de &brandShortName; autorise un seul compte pour chaque service de stockage en ligne.">
-<!ENTITY addAccountDialog.createAccountText2 "Au lieu des pièces jointes, vous pouvez envoyer les liens vers les fichiers en utilisant un service de stockage en ligne. Merci de créer un compte ou d'utiliser un compte existant.">
-<!ENTITY addAccountDialog.authorizing "Verficiation de l'autorisation...">
-<!ENTITY addAccountDialog.error "Une erreur est survenur pendant le paramétrage du compte!">
+<!ENTITY addAccountDialog.createAccountText2 "Au lieu des pièces jointes, vous pouvez envoyer les liens vers les fichiers en utilisant un service de stockage en ligne. Pour cela, merci de créer un compte ou d'utiliser un compte existant.">
+<!ENTITY addAccountDialog.authorizing "Vérification de l'autorisation...">
+<!ENTITY addAccountDialog.error "Une erreur est survenue pendant le paramétrage du compte!">
 <!ENTITY addAccountDialog.acceptButton.label "Paramétrer le compte">
 <!ENTITY addAccountDialog.learnMore "En savoir plus…">
