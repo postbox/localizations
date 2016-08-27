@@ -305,7 +305,7 @@
 <!ENTITY auth.close "Stäng fönster">
 
 <!-- pbLanguageProgress.xul -->
-<!ENTITY downloadLanguage.title "mta språk">
+<!ENTITY downloadLanguage.title "Hämta språk">
 
 <!-- thread pane context menu -->
 <!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Skicka till inkorgen">
