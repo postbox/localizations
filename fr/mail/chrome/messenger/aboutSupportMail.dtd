@@ -1,6 +1,6 @@
 <!ENTITY aboutSupport.appBasicsAppBuildID "Application Build ID">
 
-<!ENTITY aboutSupport.accountsTitle "Mail et nouveaux comptes">
+<!ENTITY aboutSupport.accountsTitle "Comptes Mail et Groupes de discussion">
 <!ENTITY aboutSupport.showPrivateData.mainText "Inclure les noms des comptes">
 <!ENTITY aboutSupport.showPrivateData.explanationText "(possibly identifying information)">
 <!ENTITY aboutSupport.accountsID "ID">
@@ -21,6 +21,6 @@
 
 <!ENTITY aboutSupport.miscTitle "Divers">
 
-<!ENTITY aboutSupport.appBasicsLicenseName "Numéro de Licence">
-<!ENTITY aboutSupport.ageInDays "Jours d'utilisation">
-<!ENTITY aboutSupport.pbState "Etat">
+<!ENTITY aboutSupport.appBasicsLicenseName "Titulaire de la license">
+<!ENTITY aboutSupport.ageInDays "Durée d'utilisation en jours">
+<!ENTITY aboutSupport.pbState "État">
