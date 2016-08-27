@@ -40,5 +40,5 @@
 
 <!ENTITY pbSentSettings.label "Envoyés">
 <!ENTITY pbDraftsSettings.label "Brouillons">
-<!ENTITY pbArchiveSettings.label "Archiver">
+<!ENTITY pbArchiveSettings.label "Archives">
 <!ENTITY pbTemplatesSettings.label "Modèles">
