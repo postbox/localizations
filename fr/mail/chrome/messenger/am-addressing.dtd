@@ -48,7 +48,7 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY markNotInWhitelist.label             "Noter les adresses ne terminant pas par:">
+<!ENTITY markNotInWhitelist.label             "Noter les adresses ne se terminant pas par:">
 <!ENTITY markInTrustedList.accesskey          "d">
 <!ENTITY markNotInWhitelist.accesskey         "m">
-<!ENTITY markInTrustedList.label              "Noter les addresses en envoyant à:">
+<!ENTITY markInTrustedList.label              "Marquer les adresses d'expédition suivantes:">
