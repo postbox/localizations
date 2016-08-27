@@ -63,11 +63,11 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbFavoriteContactsContextMenu-createfilter.accesskey "F">
 <!ENTITY pbFavoriteTopicsContextMenu-assignColor.accesskey "S">
 <!ENTITY focusPaneNotRepliedAttribute.label           "Non répondu">
-<!ENTITY focusPaneNotPendingAttribute.label        "Plus en attente">
+<!ENTITY focusPaneNotPendingAttribute.label        "N'est plus en cours de traitement">
 <!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
 <!ENTITY focusPaneSubscriptionsAttribute.label     "Abonnements">
-<!ENTITY focusPanePendingAttribute.label           "En attente">
+<!ENTITY focusPanePendingAttribute.label           "En cours de traitement">
 <!ENTITY focusPaneToMeOnlyAttribute.label          "Seulement pour moi">
-<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Définir les couleurs du sujet">
+<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Définir la couleur du sujet">
 <!ENTITY focusPaneReadAttribute.label           "Lire">
 <!ENTITY pbFavoriteContactsContextMenu-email.accesskey  "C">
