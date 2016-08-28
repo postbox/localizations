@@ -36,5 +36,5 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY createVFDialog.title              "Sauvegarder la recherche">
-<!ENTITY virtualFolder.label               "Entrez le nom du fichier de recherche enregistré: ">
+<!ENTITY virtualFolder.label               "Entrez le nom du fichier de recherche enregistré : ">
 <!ENTITY virtualFolder.accesskey           "E">
