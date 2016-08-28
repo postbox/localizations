@@ -74,7 +74,7 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY quotedColor2.label "Quoted color, level 2">
-<!ENTITY devPixelsPerPx.label        "Mise à l'échelle hautre résolution :">
+<!ENTITY devPixelsPerPx.label        "Mise à l'échelle haute résolution :">
 <!ENTITY devPixelsPerPx.accesskey    "D">
 <!ENTITY quotedColor5.label "Couleur citée, niveau 5">
 <!ENTITY quotedColors.label "Couleurs citées, niveaux 1 à 5 :">
