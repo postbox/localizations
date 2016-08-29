@@ -6,13 +6,13 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Para receber mensagens, antes você precisa configurar uma conta de email ou newsgroup.">
+<!ENTITY accountSetupInfo.label "Para receber mensagens, antes você precisa configurar uma conta de e-mail ou grupo de notícias.">
 <!ENTITY accountTypeTitle.label "Configurar conta">
 <!ENTITY accountTypeDesc.label "O assistente vai recolher as informações necessárias para configurar sua conta. Se você não souber as informações solicitadas, por favor, contate o administrador do sistema ou o provedor de internet.">
 <!ENTITY accountTypeDirections.label "Selecione o tipo de conta que você deseja configurar:">
-<!ENTITY accountTypeMail.label "Email">
+<!ENTITY accountTypeMail.label "E-mail">
 <!ENTITY accountTypeMail.accesskey "E">
-<!ENTITY accountTypeNews.label "Newsgroup">
+<!ENTITY accountTypeNews.label "Grupo de Notícias">
 <!ENTITY accountTypeNews.accesskey "N">
 
 <!-- Entities for Identity page -->
@@ -47,7 +47,7 @@
 <!ENTITY smtpServerDesc.label "Forneça o nome do servidor usado para enviar mensagens (exemplo: smtp.meuprovedor.com.br).">
 <!ENTITY smtpServerLabel.label "Enviar mensagens por este servidor SMTP:">
 <!ENTITY smtpServerLabel.accesskey "E">
-<!ENTITY newsServerLabel.label "Servidor de newsgroup:">
+<!ENTITY newsServerLabel.label "Servidor de grupo de notícias:">
 <!ENTITY newsServerLabel.accesskey "n">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -77,7 +77,7 @@
 <!ENTITY usernameExample.label "(exemplo: “jsmith”).">
 <!ENTITY usernameLabel.label "Nome de usuário:">
 <!ENTITY usernameLabel.accesskey "u">
-<!ENTITY usernameSmtpDesc.label "Forneça o nome de usuário do servidor SMTP (usado para enviar mensagens) dado a você pelo seu provedor de email. Normalmente é o mesmo nome de usuário usado para receber mensagens.">
+<!ENTITY usernameSmtpDesc.label "Forneça o nome de usuário do servidor SMTP (usado para enviar mensagens) dado a você pelo seu provedor de e-mail. Normalmente é o mesmo nome de usuário usado para receber mensagens.">
 <!ENTITY usernameSmtpLabel.label "Nome de usuário do servidor SMTP:">
 <!ENTITY usernameSmtpLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
@@ -117,6 +117,6 @@
 <!ENTITY clickFinish.labelMac "Clique em “Concluir” para salvar estas configurações e sair do assistente de contas.">
 
 <!-- account wizard -->
-<!ENTITY pbAccountWizard-header-email.label "Email">
+<!ENTITY pbAccountWizard-header-email.label "E-mail">
 <!ENTITY pbAccountWizard-header-rss.label "Notícias RSS e Blogs">
-<!ENTITY pbAccountWizard-header-newsgroups.label "Newsgroups">
+<!ENTITY pbAccountWizard-header-newsgroups.label "Grupos de Notícias">
