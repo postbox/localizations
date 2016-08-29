@@ -2,12 +2,12 @@
 
 <!ENTITY serverSettings.label "Receber mensagens">
 <!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Servidor de emails POP">
+<!ENTITY popServer.label "Servidor de e-mails POP">
 <!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Servidor de emails IMAP">
+<!ENTITY imapServer.label "Servidor de e-mails IMAP">
 <!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
 <!ENTITY newsServer.label "Servidor de Notícias (NNTP)">
-<!ENTITY webmail.label "Conta de emails">
+<!ENTITY webmail.label "Conta de e-mails">
 <!ENTITY serverType.label "Tipo:">
 <!ENTITY serverName.label "Servidor:">
 <!ENTITY serverName.accesskey "S">
