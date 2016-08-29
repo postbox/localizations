@@ -40,9 +40,9 @@
 <!ENTITY contactPanel-home.label "(residencial)">
 <!ENTITY contactPanel-mobile.label "(celular)">
 
-<!ENTITY contactPanel-email.label "email:">
+<!ENTITY contactPanel-email.label "e-mail:">
 <!ENTITY contactPanel-homeAddress.label "residencial:">
-<!ENTITY contactPanel-workAddress.label "trabalho:">
+<!ENTITY contactPanel-workAddress.label "comercial:">
 <!ENTITY contactPanel-onlineStatus.label "IM:">
 <!ENTITY contactPanel-facebook.label     "Facebook:">
 <!ENTITY contactPanel-twitter.label      "twitter:">
@@ -54,13 +54,13 @@
 <!ENTITY contactPanel-findMessages.label "mensagens">
 <!ENTITY contactPanel-findDocuments.label "anexos">
 <!ENTITY contactPanel-findImages.label "imagens">
-<!ENTITY contactPanel-copyContact.label "copiar email">
+<!ENTITY contactPanel-copyContact.label "copiar e-mail">
 <!ENTITY contactPanel-sendContact.label "enviar vcard">
 <!ENTITY contactPanel-createFilter.label "criar filtro...">
 
 <!-- action contact panel -->
-<!ENTITY contactActionPanel-sendMail.label "Enviar email...">
-<!ENTITY contactActionPanel-copyAddress.label "Copiar endereço de email">
+<!ENTITY contactActionPanel-sendMail.label "Enviar e-mail...">
+<!ENTITY contactActionPanel-copyAddress.label "Copiar endereço de e-mail">
 
 <!-- data pane address popup -->
 <!ENTITY dataPaneContext.searchGoogleMaps.label         "Mapa do Google">
