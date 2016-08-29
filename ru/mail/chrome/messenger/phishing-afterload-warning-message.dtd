@@ -1,28 +1,28 @@
-<!ENTITY safeb.palm.warning.title "Suspected Web Forgery">
+﻿<!ENTITY safeb.palm.warning.title "Этот сайт подозревается в мошенничестве">
 
-<!ENTITY safeb.palm.message.p1 "This page has been reported as a web forgery designed to trick users into sharing personal or financial information. Entering any personal information on this page may result in identity theft or other fraud. &#160;">
+<!ENTITY safeb.palm.message.p1 "Эта страница была отмечена как мошенническая, которая создана для обмана пользователей с целью получения от них личной или финансовой информации. Ввод на этой странице любой личной информации может привести к ее хищению или использованию в мошеннических целях. &#160;">
 <!ENTITY safeb.palm.message.p1.linkText "Читать далее &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText "Читать далее &#133;">
 
-<!ENTITY safeb.palm.message.p2.start "These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust. You can find out more about ">
-<!ENTITY safeb.palm.message.p2.linkText "how &brandShortName; protects you">
-<!ENTITY safeb.palm.message.p2.end " from phishing attacks.">
+<!ENTITY safeb.palm.message.p2.start "Подобные типы веб-сайтов используются в мошенничествах, известных как фишинговые атаки, при которых поддельные веб-страницы и сообщения эл. почты используются для имитации источников, которым можно доверять. Узнайте больше о том, ">
+<!ENTITY safeb.palm.message.p2.linkText "как &brandShortName; защищает вас">
+<!ENTITY safeb.palm.message.p2.end " от фишинговых атак.">
 
 <!ENTITY safeb.palm.accept.label "Уходим отсюда!">
 <!ENTITY safeb.palm.accept.statustext "Вернуться на домашнюю страницу">
-<!ENTITY safeb.palm.decline.label "Проигнорировать это предупреждение">
+<!ENTITY safeb.palm.decline.label "Игнорировать это предупреждение">
 <!ENTITY safeb.palm.decline.statustext "Закрыть предупреждение" >
 <!ENTITY safeb.palm.notforgery.label2 "Это не мошеннический сайт…">
 <!ENTITY safeb.palm.report.label "Почему этот сайт был заблокирован?">
 
-<!ENTITY safeb.urlbaricon.tooltip "This page might be dangerous; click for details.">
+<!ENTITY safeb.urlbaricon.tooltip "Это страница может быть опасной, нажмите здесь для получения подробной информации.">
 
 <!ENTITY safeb.blocked.malware.title "Сообщение об атаке сайта!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "Этот сайт <span id='malware_sitename'/> был заблокирован в связи с вашими настройкми безопасности.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack sites intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+<!ENTITY safeb.blocked.malware.shortDesc "Этот сайт <span id='malware_sitename'/> был отмечен, как атакующий компьютеры, и заблокирован в соответствии с вашими настройками безопасности.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Сайты, атакующие компьютеры, пытаются установить программы, которые крадут личную информацию, используют ваш компьютер для атаки на другие компьютеры или нарушают работу вашей системы.</p><p>Некоторые такие сайты умышленно распространяют вредоносное программное обеспечение, но многие делают это без ведома или разрешения своих владельцев.</p>">
 
 <!ENTITY safeb.blocked.phishing.title "Сообщение о мошенническом сайте!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "Этот сайт <span id='phishing_sitename'/> был отмечен как мошеннический и заблокирован в связи с вашими настройками безопасности.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "Этот сайт <span id='phishing_sitename'/> был отмечен как мошеннический и заблокирован в соответствии с вашими настройками безопасности.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Мошеннические веб-сайты имитируют источники, которым можно доверять, и предназначены для обмана пользователей с целью получения от них личной или финансовой информации.</p><p>Ввод на этой странице любой личной информации может привести к ее хищению или использованию в мошеннических целях.</p>">
