@@ -18,7 +18,7 @@
 <!ENTITY attachFileCmd.label "Файл(ы)…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Веб-страницу…">
-<!ENTITY attachPageCmd.accesskey "W">
+<!ENTITY attachPageCmd.accesskey "-">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Визитную карточку (vCard)">
 <!ENTITY attachVCardCmd.accesskey "v">
