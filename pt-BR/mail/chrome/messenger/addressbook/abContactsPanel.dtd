@@ -2,7 +2,7 @@
 <!ENTITY addressbookPicker.accesskey        "t">
 <!ENTITY searchInput.label                  "Localizar:">
 <!ENTITY searchInput.accesskey              "z">
-<!ENTITY SearchNameOrEmail.label            "Nome ou email">
+<!ENTITY SearchNameOrEmail.label            "Nome ou e-mail">
 
 <!ENTITY addtoToFieldMenu.label             "Adicionar ao Para">
 <!ENTITY addtoCcFieldMenu.label             "Adicionar ao Cc">
