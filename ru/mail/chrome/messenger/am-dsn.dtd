@@ -1,16 +1,16 @@
-<!ENTITY pane.title                 "Уведомление о доставке">
-<!ENTITY useGlobalPrefs.label       "Use my global Delivery Status Notification preferences for this account">
+﻿<!ENTITY pane.title                 "Уведомление о доставке">
+<!ENTITY useGlobalPrefs.label       "Использовать общую настройку уведомления о доставке для этой учетной записи">
 <!ENTITY useGlobalPrefs.accesskey   "U">
-<!ENTITY useCustomPrefs.label       "Настроить уведомления о доставке для этой учётной записи">
+<!ENTITY useCustomPrefs.label       "Настроить уведомление о доставке для этой учетной записи">
 <!ENTITY useCustomPrefs.accesskey   "C">
-<!ENTITY requestAlways.label        "When sending messages, always request a Delivery Status Notification">
+<!ENTITY requestAlways.label        "При отправке сообщений всегда запрашивать уведомление о доставке">
 <!ENTITY requestAlways.accesskey    "W">
-<!ENTITY optionTitle.label          "Ask notification on :">
-<!ENTITY requestOnSucess.label      "Success in delivering">
+<!ENTITY optionTitle.label          "Запрашивать уведомление:">
+<!ENTITY requestOnSucess.label      "Успешно доставлено">
 <!ENTITY requestOnSucess.accesskey  "S">
-<!ENTITY requestOnFailure.label     "Failure in delivering">
+<!ENTITY requestOnFailure.label     "Не удалось доставить">
 <!ENTITY requestOnFailure.accesskey "F">
-<!ENTITY requestOnDelay.label       "Delay in delivering">
+<!ENTITY requestOnDelay.label       "Задержка в доставке">
 <!ENTITY requestOnDelay.accesskey   "D">
 <!ENTITY requestNever.label         "Никогда не получать уведомления о доставке">
 <!ENTITY requestNever.accesskey     "N">
