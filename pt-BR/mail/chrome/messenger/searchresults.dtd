@@ -9,8 +9,8 @@
 <!ENTITY prevNextResults.label                     "Anterior / Próximo">
 <!ENTITY searchResultsNoMatchesFound.desc          "Nenhum item corresponde à sua pesquisa.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Tente pesquisar em Todas as Pastas.">
-<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Tente alterar para Todos.">
-<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Tenta alterar a exibição para Mensagens.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Tente alterar o foco para Todos.">
+<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Tente alterar para a exibição de Mensagens.">
 <!ENTITY showSearchOptions.label                   "Exibir opções de pesquisa">
 
 <!-- attachments -->
