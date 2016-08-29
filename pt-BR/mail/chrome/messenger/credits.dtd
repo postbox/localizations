@@ -1,7 +1,7 @@
 <!ENTITY credit.title     "Créditos do &brandFullName;">
-<!ENTITY credit.leads     "Engenheiros-chefes">
+<!ENTITY credit.leads     "Responsáveis pela Engenharia">
 <!ENTITY credit.core      "Grupo de Desenvolvimento Principal">
-<!ENTITY credit.gecko     "Engine de Layouts Gecko">
+<!ENTITY credit.gecko     "Mecanismo de Layouts Gecko">
 <!ENTITY credit.thanks    "Agradecimentos especiais">
 
 <!-- localization credits look like this: -->
@@ -16,13 +16,13 @@
 <!ENTITY credit.brand       "Identidade da Marca">
 <!ENTITY credit.web         "Web Design">
 <!ENTITY credit.update      "Atualização do Mozilla">
-<!ENTITY credit.qalead      "Líderes de Garantia de Qualidade">
+<!ENTITY credit.qalead      "Responsável pela Garantia de Qualidade">
 <!ENTITY credit.qa          "Garantia de Qualidade">
 <!ENTITY credit.build       "Versão e atualização">
 <!ENTITY credit.infra       "Apoio de Infraestrutura">
 <!ENTITY credit.support     "Recursos de Apoio">
 <!ENTITY credit.manage      "Gerenciamento de Projetos">
-<!ENTITY credit.marketleads "Líderes de Marketing">
+<!ENTITY credit.marketleads "Responsáveis pelo Marketing">
 <!ENTITY credit.market      "Marketing">
 <!ENTITY credit.creators    "Criado por">
 <!ENTITY credit.memory      "Em memória de">
