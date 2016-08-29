@@ -72,6 +72,6 @@ entities below were automatically added by l10nmerge
 <!ENTITY resetImapFolders.accesskey       "b">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
 <!ENTITY resetImapFolders.label           "Redefinir a base de dados de e-mails IMAP">
-<!ENTITY resetCacheAndIndex.label         "Redefinir os caches e o índice de pesquisas">
+<!ENTITY resetCacheAndIndex.label         "Apagar os dados temporários e o índice de pesquisas">
 <!ENTITY safeModeDialogHelpButton.tooltip "Exibir ajuda online para esta janela">
 <!ENTITY safeModeDialogHeader.label       "Solução de problemas">
