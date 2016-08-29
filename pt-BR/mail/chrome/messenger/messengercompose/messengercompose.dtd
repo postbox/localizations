@@ -135,7 +135,7 @@
 <!ENTITY attachVCard.label "Anexar vCard">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY returnReceiptMenu.label "Confirmação de leitura">
+<!ENTITY returnReceiptMenu.label "Confirmação de entrega">
 <!ENTITY returnReceiptMenu.accesskey "o">
 <!ENTITY dsnMenu.label "Notificação de status da entrega">
 <!ENTITY dsnMenu.accesskey "N">
@@ -409,8 +409,8 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbShowCompositionGoalsToolbarCmd.label "Barra de status do objetivo">
 <!ENTITY pbStatsTime.label "horário:">
 <!ENTITY pbSourceViewThemes.label "Tema">
-<!ENTITY compositionGoals.tooltip "Mostrar ou ocultar a barra de status de Objetivos de Composição">
-<!ENTITY switchBetweenNormalAndCode.tooltip "Alternar entre modos Normal e Código">
+<!ENTITY compositionGoals.tooltip "Mostrar ou ocultar a barra de status de Objetivos de Edição">
+<!ENTITY switchBetweenNormalAndCode.tooltip "Alternar entre modo Normal e de Código">
 <!ENTITY compositionGoals.label "Objetivos">
 <!ENTITY tagButton.key "T">
 <!ENTITY pbSourceView.label "Exibição de Código">
@@ -428,12 +428,12 @@ entities below were automatically added by l10nmerge
 <!ENTITY templatePlaceholderLastName.label "Sobrenome">
 <!ENTITY templatePlaceholderToRecipients.label "Destinatários Para>
 <!ENTITY templatePlaceholderCcRecipients.label "Destinatários Cc">
-<!ENTITY templatePlaceholders.tooltiptext "Inserir um modelo placeholder">
+<!ENTITY templatePlaceholders.tooltiptext "Inserir um modelo de texto temporário">
 <!ENTITY messageSize.label "Tamanho da mensagem:">
 <!ENTITY templatePlaceholderFirstName.label "Nome">
 <!ENTITY templatePlaceholderEmail.label "Endereço de e-mail">
 <!ENTITY templatePlaceholderMessageId.label "ID da mensagem">
-<!ENTITY templatePlaceholderCustom.label "Placeholder personalizado">
+<!ENTITY templatePlaceholderCustom.label "Texto temporário personalizado">
 <!ENTITY templatePlaceholderThisMessage.label "Esta mensagem">
 <!ENTITY imageSize.label "Tamanho da imagem:">
 <!ENTITY largeImageResize.label "Grande">
