@@ -18,7 +18,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Персональные данные">
-<!ENTITY identityDesc.label "Для каждой учетной записи указываются персональные данные, которые смогут увидеть получатели ваших сообщений. ">
+<!ENTITY identityDesc.label "Для каждой учетной записи указываются персональные данные, которые смогут увидеть получатели ваших сообщений.">
 
 <!ENTITY fullnameLabel.label "Ваше имя:">
 <!ENTITY fullnameLabel.accesskey "Y">
