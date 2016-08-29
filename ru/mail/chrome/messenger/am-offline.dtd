@@ -1,5 +1,5 @@
-<!ENTITY doNotDownloadPop3Movemail.label "Чтобы сэкономить дисковое пространство, не загружать:">
-<!ENTITY offlineNewFolder.label "When I create new folders, select them for offline use">
+﻿<!ENTITY doNotDownloadPop3Movemail.label "Чтобы сэкономить дисковое пространство, не загружать:">
+<!ENTITY offlineNewFolder.label "При создании папок сделать их доступными в автономном режиме">
 <!ENTITY offlineNewFolder.accesskey "c">
 <!ENTITY offlineNotDownload.label "Сообщения размером более">
 <!ENTITY offlineNotDownload.accesskey "M">
@@ -11,34 +11,34 @@
 <!ENTITY nntpNotDownloadRead.accesskey "R">
 <!ENTITY nntpDownloadMsg.label "Загружать сообщения только за последние">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены.">
+<!ENTITY retentionCleanup.label "Для освобождения места на диске старые сообщения могут быть полностью удалены.">
 <!ENTITY retentionKeepMsg.label "Удалять сообщения старше">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Не удалять сообщения">
 <!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.label "Удалять все, кроме последних">
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "Всегда удалять прочитанные сообщения">
 <!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY nntpRemoveBody.label "Only message bodies less than">
+<!ENTITY nntpRemoveBody.label "Только сообщения размером менее">
 <!ENTITY nntpRemoveBody.accesskey "O">
-<!ENTITY offlineSelectNntp.label "Выбрать группы новостей, доступные в автономном режиме…">
-<!ENTITY offlineSelectImap.label "Select folders for offline use...">
+<!ENTITY offlineSelectNntp.label "Выбрать группы новостей для автономной работы…">
+<!ENTITY offlineSelectImap.label "Выбрать папки для автономной работы…">
 <!ENTITY offlineSelect.accesskey "S">
-<!ENTITY makeInboxMsgsAvailable.label "Сделать сообщения достуными в моей папке &quot;Входящие&quot;, когда я работаю автономно">
+<!ENTITY makeInboxMsgsAvailable.label "Сделать сообщения в папке «Входящие» доступными в автономном режиме">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
 <!ENTITY offlineGroupTitle.label "Автономная работа">
 <!ENTITY diskspaceGroupTitle.label "Дисковое пространство">
 <!ENTITY ftiGroupTitle.label "Глобальный поиск">
-<!ENTITY fti.indexMsgBodies.label "Index message bodies">
-<!ENTITY newsrcFilePath.label "newsrc file:">
+<!ENTITY fti.indexMsgBodies.label "Индексировать сообщения">
+<!ENTITY newsrcFilePath.label "Файл newsrc:">
 <!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Local directory:">
+<!ENTITY localPath.label "Локальный каталог:">
 <!ENTITY localPath.accesskey "L">
-<!ENTITY localFolderPicker.label "Select Local Directory">
-<!ENTITY browseFolder.label "Browse...">
+<!ENTITY localFolderPicker.label "Выберите локальный каталог">
+<!ENTITY browseFolder.label "Обзор…">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Select newsrc File">
-<!ENTITY browseNewsrc.label "Browse...">
+<!ENTITY newsrcPicker.label "Выберите файл newsrc">
+<!ENTITY browseNewsrc.label "Обзор…">
 <!ENTITY browseNewsrc.accesskey "e">
 
