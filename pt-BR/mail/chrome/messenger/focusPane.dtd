@@ -11,7 +11,7 @@
 <!ENTITY focusPaneSearchAttribute.label        "Atributos">
 <!ENTITY focusPaneSearchAttributeMac.label     "ATRIBUTOS">
 <!ENTITY focusPaneHasAttachmentAttribute.label           "Tem anexo">
-<!ENTITY focusPaneUnreadAttribute.label           "Não-lido">
+<!ENTITY focusPaneUnreadAttribute.label           "Não lido">
 <!ENTITY focusPaneFilterByDate.label    "Data">
 <!ENTITY focusPaneFilterByDateMac.label "DATA">
 <!ENTITY focusPaneAnyDate.label         "Qualquer data">
@@ -44,7 +44,7 @@
 <!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Criar filtro...">
 <!ENTITY pbFavoriteContactsContactsMenu-createfilter.accesskey "C">
 
-<!ENTITY pbFavoriteContacts.DragLabel "Arraste seus contatos favoritos aqui">
+<!ENTITY pbFavoriteContacts.DragLabel "Arraste seus contatos favoritos para cá">
 
 
 <!--
@@ -65,7 +65,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY focusPaneNotRepliedAttribute.label           "Não respondidos">
 <!ENTITY focusPaneNotPendingAttribute.label        "Não está pendente">
 <!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
-<!ENTITY focusPaneSubscriptionsAttribute.label     "Assinaturas">
+<!ENTITY focusPaneSubscriptionsAttribute.label     "Inscrições">
 <!ENTITY focusPanePendingAttribute.label           "Pendente">
 <!ENTITY focusPaneToMeOnlyAttribute.label          "Apenas para mim">
 <!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  Definir cor do tópico">
