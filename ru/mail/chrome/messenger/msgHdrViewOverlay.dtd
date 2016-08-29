@@ -64,7 +64,7 @@
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY printAttachmentCmd.label    ".Печать">
 <!ENTITY printAttachmentCmd.accesskey    "P">
-<!ENTITY detachAttachmentCmd.label    "Отделить…">
+<!ENTITY detachAttachmentCmd.label    "Отсоединить…">
 <!ENTITY deleteAttachmentCmd.label    "Удалить">
 <!ENTITY saveAllAttachmentsCmd.label    "Сохранить все…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
@@ -87,3 +87,4 @@
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "ответить всем">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "вперед">
 
+<!ENTITY pbMsgHdrView.loadingMessageBody.label "Загрузка…">
