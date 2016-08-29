@@ -80,7 +80,7 @@
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Неизвестно">
 <!ENTITY ScreenName.label               "Интернет-пейджер:">
-<!ENTITY ScreenName.accesskey           "S">
+<!ENTITY ScreenName.accesskey           "-">
 
 <!ENTITY allowRemoteContent.label       "Разрешить содержимое из сети.">
 <!ENTITY allowRemoteContent.accesskey   "g">
