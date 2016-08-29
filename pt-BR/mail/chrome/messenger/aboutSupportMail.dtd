@@ -1,8 +1,8 @@
 <!ENTITY aboutSupport.appBasicsAppBuildID "ID da versão da aplicação">
 
-<!ENTITY aboutSupport.accountsTitle "E-mail e novas contas">
+<!ENTITY aboutSupport.accountsTitle "Contas de e-mail e de notícias">
 <!ENTITY aboutSupport.showPrivateData.mainText "Incluir nomes das contas">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(provavelmente identificando informações)">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(informações que podem revelar identidade)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Nome">
 <!ENTITY aboutSupport.accountsIncomingServer "Servidor de entrada">
@@ -10,7 +10,7 @@
 <!ENTITY aboutSupport.accountsServerName "Nome">
 <!ENTITY aboutSupport.accountsConnSecurity "Segurança da conexão">
 <!ENTITY aboutSupport.accountsAuthMethod "Método de autenticação">
-<!ENTITY aboutSupport.filterCount "Qtde de filtros">
+<!ENTITY aboutSupport.filterCount "Contagem de filtros">
 <!ENTITY aboutSupport.accountsDefault "Padrão?">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Enviar por e-mail">
