@@ -58,7 +58,7 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Clique para selecionar quais colunas mostrar">
 <!ENTITY threadColumn.tooltip "Clique para agrupar pelo tópico">
-<!ENTITY fromColumn.tooltip "Clique para ordenar pelo campo &quote;De&quote;">
+<!ENTITY fromColumn.tooltip "Clique para ordenar pelo remetente">
 <!ENTITY recipientColumn.tooltip "Clique para ordenar pelo destinatário">
 <!ENTITY subjectColumn.tooltip "Clique para ordenar pelo assunto">
 <!ENTITY dateColumn.tooltip "Clique para ordenar pela data">
