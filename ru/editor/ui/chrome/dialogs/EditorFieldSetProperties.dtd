@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -35,11 +35,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Свойства набора полей">
-<!ENTITY Legend.label "Легенда">
+<!ENTITY Legend.label "Обозначения">
 <!ENTITY Legend.accesskey "Л">
-<!ENTITY EditLegendText.label "Изменить легенду:">
+<!ENTITY EditLegendText.label "Изменить обозначения:">
 <!ENTITY EditLegendText.accesskey "И">
-<!ENTITY LegendAlign.label "Выравнивание легенды:">
+<!ENTITY LegendAlign.label "Выравнивание обозначений:">
 <!ENTITY LegendAlign.accesskey "В">
 <!ENTITY AlignDefault.label "По умолчанию">
 <!ENTITY AlignLeft.label "Влево">
