@@ -5,7 +5,7 @@
 <!ENTITY enterLicense.label "Digite o código de licença agora">
 <!ENTITY enterLicenseTitle.label "Digite o código de licença do Postbox">
 <!ENTITY enterLicenseInfo.label "Por favor, digite seu nome e o código de licença abaixo:">
-<!ENTITY invalidLicense.label "Estamos quase lá... Por favor, digite seu nome e o código de licença exatamente como eles aparecem no e-mail da licença.">
+<!ENTITY invalidLicense.label "Estamos quase lá... Por favor, digite seu nome e o código de licença exatamente como eles aparecem no e-mail contendo os dados da licença.">
 <!ENTITY invalidLicenseVersion.label "Esta chave de licença não funcionará com esta versão do Postbox. Por favor, atualize para a última versão.">
 <!ENTITY invalidLicenseInvalid1.label "Por favor, digite um código de licença válido ou entre em contato conosco em">
 <!ENTITY invalidLicenseInvalid2.label "Suporte do Postbox">
