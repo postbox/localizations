@@ -106,7 +106,7 @@
 <!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd.label "Propriedades">
 <!ENTITY folderPropsFolderCmd.label "Propriedades da pasta">
-<!ENTITY folderPropsNewsgroupCmd.label "Propriedades do newsgroup">
+<!ENTITY folderPropsNewsgroupCmd.label "Propriedades do grupo de notícias">
 <!ENTITY folderPropsCmd.accesskey "e">
 <!ENTITY undoDeleteMsgCmd.label "Desfazer (Excluir mensagem)">
 <!ENTITY redoDeleteMsgCmd.label "Refazer (Excluir mensagem)">
@@ -304,7 +304,7 @@
 <!ENTITY replyMsgCmd.key  "R">
 <!ENTITY replySenderCmd.label "Responder ao remetente">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Responder ao newsgroup">
+<!ENTITY replyNewsgroupCmd.label "Responder ao grupo de notícias">
 <!ENTITY replyNewsgroupCmd.accesskey  "w">
 <!ENTITY replyToAllMsgCmd.label "Responder a todos">
 <!ENTITY replyToAllMsgCmd.accesskey  "t">
@@ -367,11 +367,11 @@
 <!ENTITY markAsReadCmd.label "Como lida">
 <!ENTITY markAsReadCmd.accesskey "m">
 <!ENTITY markAsReadCmd.key "M">
-<!ENTITY markAsUnreadCmd.label "Como não-lida">
+<!ENTITY markAsUnreadCmd.label "Como não lida">
 <!ENTITY markAsUnreadCmd.accesskey "U">
 <!ENTITY markAsPendingCmd.label "Como pendente">
 <!ENTITY markAsPendingCmd.accesskey "P">
-<!ENTITY markAsNotPendingCmd.label "Como não-pendente">
+<!ENTITY markAsNotPendingCmd.label "Como não pendente">
 <!ENTITY markAsNotPendingCmd.accesskey "g">
 <!ENTITY markThreadAsReadCmd.label "Tópico como lido">
 <!ENTITY markThreadAsReadCmd.accesskey "c">
@@ -527,7 +527,7 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "E">
 <!ENTITY folderContextUnsubscribe.label "Cancelar inscrição">
 <!ENTITY folderContextUnsubscribe.accesskey "C">
-<!ENTITY folderContextMarkNewsgroupRead.label "Marcar newsgroup como lido">
+<!ENTITY folderContextMarkNewsgroupRead.label "Marcar grupo de notícias como lido">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "l">
 <!ENTITY folderContextMarkMailFolderRead.label "Marcar a pasta como lida">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "l">
@@ -541,7 +541,7 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "P">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Localizar nome ou email:">
+<!ENTITY SearchNameOrEmail.label "Localizar nome ou e-mail:">
 <!ENTITY SearchNameOrEmail.accesskey "z">
 <!ENTITY clearButton.label "Limpar">
 <!ENTITY clearButton.accesskey "C">
@@ -610,7 +610,7 @@
 <!ENTITY contextRedirect.label "Redirecionar">
 <!ENTITY contextReplySender.label "Responder">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "Responder ao newsgroup">
+<!ENTITY contextReplyNewsgroup.label "Responder ao grupo de notícias">
 <!ENTITY contextReplyNewsgroup.accesskey "w">
 <!ENTITY contextReplyAll.label "Responder a todos">
 <!ENTITY contextReplyAll.accesskey "t">
@@ -664,11 +664,11 @@
 <!ENTITY AddToAddressBook.accesskey "A">
 <!ENTITY SendMailTo.label "Nova mensagem">
 <!ENTITY SendMailTo.accesskey "N">
-<!ENTITY CopyEmailAddress.label "Copiar email">
+<!ENTITY CopyEmailAddress.label "Copiar e-mail">
 <!ENTITY CopyEmailAddress.accesskey "o">
 <!ENTITY CreateFilter.label "Criar filtro a partir da mensagem...">
 <!ENTITY CreateFilter.accesskey "F">
-<!ENTITY reportPhishingURL.label "Denunciar email como fraudulento">
+<!ENTITY reportPhishingURL.label "Denunciar e-mail como fraudulento">
 <!ENTITY reportPhishingURL.accesskey "D">
 
 <!-- Content Pane Context Menu -->
@@ -684,7 +684,7 @@
 <!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyImageCmd.label "Copiar endereço da imagem">
 <!ENTITY copyImageCmd.accesskey "r">
-<!ENTITY copyEmailCmd.label "Copiar email">
+<!ENTITY copyEmailCmd.label "Copiar e-mail">
 <!ENTITY copyEmailCmd.accesskey "o">
 <!ENTITY contextSearchWeb.accesskey "S">
 
