@@ -5,5 +5,5 @@
 
 <!ENTITY insertMacro.label "Barra rápida">
 
-<!ENTITY pbMacroSearchPanel.firstrunWin "Ao digitar uma URL, o Postbox preencherá autmaticamente a partir das URLs dos seus e-mails. Para desabilitar a funcionalidade de preenchimento automático de URL, vá para Opções > Edição > Avançado.">
-<!ENTITY pbMacroSearchPanel.firstrunMac "Ao digitar uma URL, o Postbox preencherá autmaticamente a partir das URLs dos seus e-mails. Para desabilitar a funcionalidade de preenchimento automático de URL, vá para Preferências > Edição > Avançado.">
+<!ENTITY pbMacroSearchPanel.firstrunWin "Ao digitar um URL, o Postbox preencherá automaticamente a partir do histórico de e-mails. Para desabilitar a funcionalidade de preenchimento automático de URL, vá para Opções > Edição > Avançado.">
+<!ENTITY pbMacroSearchPanel.firstrunMac "Ao digitar um URL, o Postbox preencherá automaticamente a partir do histórico de e-mails. Para desabilitar a funcionalidade de preenchimento automático de URL, vá para Preferências > Edição > Avançado.">
