@@ -401,7 +401,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY switchBetweenNormalAndCode.tooltip "Changer entre la vue normale et la vue Code">
 <!ENTITY compositionGoals.label "Objectifs">
 <!ENTITY tagButton.key "T">
-<!ENTITY pbSourceView.label "vue Code">
+<!ENTITY pbSourceView.label "Vue Code">
 <!ENTITY pbShowCompositionGoalsToolbarCmd.accesskey "G">
 <!ENTITY formattingToolbar.tooltip "Afficher ou masquer la barre d'outils">
 
