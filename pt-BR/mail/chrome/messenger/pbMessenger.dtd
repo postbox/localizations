@@ -165,7 +165,7 @@
 <!ENTITY listNumberedMsgToolbarCmd.label             "Numerada">
 <!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
 <!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Inserir HTML ou editar HTML selecionado">
-<!ENTITY switchBetweenNormalAndCode.tooltip          "Alternar entre exibições Normal e de Código">
+<!ENTITY switchBetweenNormalAndCode.tooltip          "Alternar entre exibição Normal e de Código">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Diminuir recuo do texto (esquerda)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Aumentar recuo do texto (direita)">
 
@@ -259,7 +259,7 @@
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: novo lembrete com seleção como Título">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
-<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: enviar à Caixa de Entrada">
+<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: enviar para a Caixa de Entrada">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
 
 <!-- topic context menu -->
@@ -287,7 +287,7 @@
 <!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Tente verificar em Todas as Pastas.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Tente definir seu foco para Todos.">
 <!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Tente definir sua exibição para Mensagens.">
-<!ENTITY threadPaneAddTextToSearch.desc "Comece a digitar na barra de pesquisa para iniciar sua pesquisa.">
+<!ENTITY threadPaneAddTextToSearch.desc "Comece a digitar na barra de pesquisa para iniciar a busca.">
 
 <!ENTITY pbSignatureEditor.title "Nova assinatura">
 <!ENTITY pbSignatureEditor.name "Nome">
@@ -308,7 +308,7 @@
 <!ENTITY downloadLanguage.title "Baixar idioma">
 
 <!-- thread pane context menu -->
-<!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: enviar à Caixa de Entrada">
+<!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: enviar para a Caixa de Entrada">
 <!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "i">
 
 <!-- Vertical view sort by context menu -->
@@ -318,7 +318,7 @@
 <!ENTITY pbSortDescendingContextMenuItem.accesskey "D">
 
 <!-- message pane context menu -->
-<!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: enviar à Caixa de Entrada">
+<!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: enviar para a Caixa de Entrada">
 <!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
 
 <!-- status bar -->
@@ -364,7 +364,7 @@
 -->
 
 <!ENTITY pbContentTextContextMenu-evernote.label       "Adicionar ao Evernote">
-<!ENTITY fullScreenMode.label "Colocar em tela cheia">
+<!ENTITY fullScreenMode.label "Ver em tela cheia">
 <!ENTITY pbMessagePaneContext-evernote.label     "Adicionar ao Evernote">
 <!ENTITY pbContentTextContextMenu-date.accesskey        "d">
 <!ENTITY fullScreenMode.accesskey "l">
