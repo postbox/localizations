@@ -1,4 +1,4 @@
-<!ENTITY window.title "Поля заголовка">
+﻿<!ENTITY window.title "Поля заголовка">
 <!ENTITY addButton.label "Добавить">
 <!ENTITY addButton.accesskey "A">
 <!ENTITY removeButton.label "Удалить">
