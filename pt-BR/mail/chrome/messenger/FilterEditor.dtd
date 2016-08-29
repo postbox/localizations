@@ -59,8 +59,8 @@
 
 <!ENTITY contextDesc.label "Aplicar filtro quando:">
 <!ENTITY contextManual.label "Executar manualmente">
-<!ENTITY contextBoth.label "Verificar emails ou executar manualmente">
-<!ENTITY contextIncoming.label "Verificar emails">
+<!ENTITY contextBoth.label "Verificar e-mails ou executar manualmente">
+<!ENTITY contextIncoming.label "Verificar e-mails">
 <!ENTITY contextDesc.accesskey "w">
 
 
@@ -84,4 +84,4 @@ entities below were automatically added by l10nmerge
 <!ENTITY openInFinder.label "Abrir no Finder">
 <!ENTITY pendingStatus.label "Pendente">
 <!ENTITY notReminderStatus.label "Não é lembrete">
-<!ENTITY unreadStatus.label "Não-lido">
+<!ENTITY unreadStatus.label "Não lido">
