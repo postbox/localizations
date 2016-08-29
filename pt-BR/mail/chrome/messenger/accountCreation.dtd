@@ -1,4 +1,4 @@
-<!ENTITY autoconfigWizard.title          "Configurar conta de email">
+<!ENTITY autoconfigWizard.title          "Configurar conta de e-mail">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                  "Nome e sobrenome">
 <!ENTITY email.accesskey                 "l">
@@ -65,8 +65,8 @@
 <!ENTITY insecureServer.tooltip.title    "Atenção! Esse servidor é inseguro.">
 <!ENTITY insecureServer.tooltip.details  "Clique para mais detalhes.">
 
-<!ENTITY insecureUnencrypted.description "O e-mail e a autenticação são enviados sem criptografia, então sua senha (e sua mensagem) poderiam ser facilmente lidas por outras pessoas. O &brandShortName; permitirá que você receba seus e-mails, mas você deveria entrar em contato com o seu provedor para configurar o servidor usando uma conexão segura.">
-<!ENTITY insecureSelfSigned.description  "O servidor utiliza um certificado em que não podemos confiar. Portanto, não podemos ter certeza de que alguém não esteja interceptando o tráfego entre o &brandShortName; e o seu servidor. O &brandShortName; permitirá que você receba seus e-mails, mas você deveria pedir ao seu provedor que configure o servidor com um certificado confiável.">
+<!ENTITY insecureUnencrypted.description "O e-mail e a autenticação são enviados sem criptografia, então sua senha (e sua mensagem) poderão ser facilmente lidas por outras pessoas. O &brandShortName; permitirá que você receba seus e-mails, mas você deverá entrar em contato com o seu provedor para configurar o servidor usando uma conexão segura.">
+<!ENTITY insecureSelfSigned.description  "O servidor utiliza um certificado em que não podemos confiar. Portanto, não podemos ter certeza de que alguém não esteja interceptando o tráfego entre o &brandShortName; e o seu servidor. O &brandShortName; permitirá que você receba seus e-mails, mas você deverá pedir ao seu provedor que configure o servidor com um certificado confiável.">
 <!ENTITY secureServer.description        "Parabéns! Esse servidor é seguro.">
 
 <!ENTITY pb.identity.title "Identidade">
