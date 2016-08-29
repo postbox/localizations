@@ -11,7 +11,7 @@
 <!ENTITY chooseFolderMac.accesskey    "C">
 
 
-<!ENTITY fileTypes.label              "Ações de Download">
+<!ENTITY fileTypes.label              "Ações para baixar">
 <!ENTITY configureActions.label       "Ações Exibir e Editar...">
 <!ENTITY configureActions.accesskey   "V">
 <!ENTITY fileTypesDescription.label   "O &brandShortName; pode salvar ou abrir anexos de alguns tipos automaticamente.">
