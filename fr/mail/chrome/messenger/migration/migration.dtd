@@ -16,8 +16,8 @@
 <!ENTITY importFromNothing.label        "Ne rien importer">
 <!ENTITY importFromNothing.accesskey    "N">
 
-<!ENTITY welcome.title                  "Bienvenue &brandShortName;">
-<!ENTITY tagline.label                  "A Better Way To Do Email">
+<!ENTITY welcome.title                  "Bienvenue dans &brandShortName;">
+<!ENTITY tagline.label                  "L'Email rendu incroyable">
 <!ENTITY thanks.label                   "Merci d'avoir essayé &brandShortName;!">
 <!ENTITY quickStart1.label              "Voir le ">
 <!ENTITY quickStart2.label              "Guide de démarrage">

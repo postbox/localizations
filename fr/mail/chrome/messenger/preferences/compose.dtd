@@ -52,7 +52,7 @@
 
 <!ENTITY attachmentReminder.label              "Vérifier les pièces jointes manquantes">
 <!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Mots-clés…">
+<!ENTITY attachmentReminderOptions.label       "Mots-clefs…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">
 
 <!ENTITY replyInDefaultCharset2.label     "Utiliser l'encodage des caractères par défaut dans les réponses">
@@ -62,7 +62,7 @@
 <!-- signatures -->
 <!ENTITY addSignatureButton.label       "Nouveau">
 <!ENTITY addSignatureButton.accesskey   "N">
-<!ENTITY editSignatureButton.label      "Editer">
+<!ENTITY editSignatureButton.label      "Modifier">
 <!ENTITY editSignatureButton.accesskey   "E">
 <!ENTITY removeSignatureButton.label    "Supprimer">
 <!ENTITY removeSignatureButton.accesskey "l">
@@ -85,7 +85,7 @@
 
 <!ENTITY pbDefaultFonSize.label                           "par défaut">
 
-<!ENTITY pbPlaySoundOnSend.label "Jouer un son lors de l'envoi d'un">
+<!ENTITY pbPlaySoundOnSend.label "Jouer un son lors de l'envoie d'un mail">
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
 <!ENTITY pbSendAndArchive.label "Activer Envoyer et archiver">

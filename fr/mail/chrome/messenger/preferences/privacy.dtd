@@ -1,5 +1,5 @@
 <!-- Junk Mail Controls -->
-<!ENTITY manualMark.label "Quand je marque des messages comme indésirables:">
+<!ENTITY manualMark.label "Quand je marque des messages comme indésirables :">
 <!ENTITY manualMark.accesskey "Q">
 <!ENTITY manualMarkModeMove.label "Les déplacer dans le dossier &quot;Junk&quot;">
 <!ENTITY manualMarkModeMove.accesskey "o">
@@ -35,7 +35,7 @@
 <!ENTITY disableImageInMailNews.label  "Bloquer le chargement d'images distantes dans les courriels">
 <!ENTITY disableImageInMailNews.accesskey "r">
 
-<!ENTITY pbPrivacy.label "Confidentialité:">
-<!ENTITY pbJunkMail.label "Indésirables:">
-<!ENTITY pbPasswords.label "Mots de passe:">
-<!ENTITY pbJunkMail.intro "Note: Les paramètres de spam propres au compte peuvent être configurés dans les paramètres de comptes.">
+<!ENTITY pbPrivacy.label "Confidentialité :">
+<!ENTITY pbJunkMail.label "Indésirables :">
+<!ENTITY pbPasswords.label "Mots de passe :">
+<!ENTITY pbJunkMail.intro "Note : Les paramètres de spam propres au compte peuvent être configurés dans les paramètres de comptes.">
