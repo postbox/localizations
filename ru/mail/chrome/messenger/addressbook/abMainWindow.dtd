@@ -33,7 +33,7 @@
 <!ENTITY printPreviewAddressBook.label                  "Предварительный просмотр адресной книги">
 <!ENTITY printPreviewAddressBook.accesskey              "B">
 <!ENTITY printCardViewCmd.label                         "Печать карточки…">
-<!ENTITY printCardViewCmd.accesskey                     "p">
+<!ENTITY printCardViewCmd.accesskey                     "P">
 <!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
 <!ENTITY printCardViewCmd.key                           "P">
 <!ENTITY printAddressBook.label                         "Печать адресной книги…">
@@ -47,32 +47,32 @@
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Правка">
-<!ENTITY editMenu.accesskey                             "e">
+<!ENTITY editMenu.accesskey                             "E">
 <!ENTITY undoCmd.label                                  "Отменить">
 <!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "u">
+<!ENTITY undoCmd.accesskey                              "U">
 <!ENTITY redoCmd.label                                  "Повторить">
 <!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "r">
+<!ENTITY redoCmd.accesskey                              "R">
 <!ENTITY cutCmd.label                                   "Вырезать">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "t">
 <!ENTITY copyCmd.label                                  "Копировать">
 <!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "c">
+<!ENTITY copyCmd.accesskey                              "C">
 <!ENTITY pasteCmd.label                                 "Вставить">
 <!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "p">
+<!ENTITY pasteCmd.accesskey                             "P">
 <!ENTITY deleteCmd.label                                "Удалить">
 <!ENTITY deleteCmd.key                                  "D">
-<!ENTITY deleteCmd.accesskey                            "d">
+<!ENTITY deleteCmd.accesskey                            "D">
 <!ENTITY deleteAbCmd.label                              "Удалить адресную книгу">
 <!ENTITY deleteCardCmd.label                            "Удалить карточку">
 <!ENTITY deleteCardsCmd.label                           "Удалить выбранные карточки">
 <!ENTITY selectAllCmd.label                             "Выбрать все">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
+<!ENTITY selectAllCmd.accesskey                         "A">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Поменять местами имя и фамилию">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
@@ -85,7 +85,7 @@
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Вид">
-<!ENTITY viewMenu.accesskey                             "v">
+<!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Панели инструментов">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
 <!ENTITY customizeToolbar.label                         "Настроить…">
