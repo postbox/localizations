@@ -30,7 +30,7 @@
 <!ENTITY selectAllCmd.label          "Выбрать все">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "A">
-<!ENTITY preferencesCmd.label        "Настройки….">
+<!ENTITY preferencesCmd.label        "Настройки…">
 <!ENTITY preferencesCmd.accesskey      "O">
 <!ENTITY preferencesCmdUnix.label       "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
