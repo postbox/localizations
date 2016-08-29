@@ -23,7 +23,7 @@
 <!ENTITY showFolderColumns.accesskey   "l">
 <!ENTITY rememberLastMsg.label         "Lembrar a última mensagem selecionada">
 <!ENTITY rememberLastMsg.accesskey     "b">
-<!ENTITY openMsgIn1.label              "Novas mensagens devem abertas em:">
+<!ENTITY openMsgIn1.label              "Novas mensagens devem ser abertas em:">
 <!ENTITY openMsgInNewTab.label          "uma nova aba">
 <!ENTITY openMsgInNewTab.accesskey      "o">
 <!ENTITY openMsgInNewWindow.label       "uma nova janela">
@@ -36,8 +36,8 @@
 <!ENTITY configEditDesc.label          "Configuração avançada">
 <!ENTITY configEdit.label              "Editor de config…">
 <!ENTITY configEdit.accesskey          "E">
-<!ENTITY returnReceiptsInfo.label      "Determine como o &brandShortName; trata as confirmações de leitura.">
-<!ENTITY showReturnReceipts.label      "Confirmações de leitura…">
+<!ENTITY returnReceiptsInfo.label      "Determine como o &brandShortName; trata as confirmações de entrega.">
+<!ENTITY showReturnReceipts.label      "Confirmações de entrega…">
 <!ENTITY showReturnReceipts.accesskey  "C">
 <!ENTITY macEnableSpotlight.label      "Habilitar integração do Spotlight">
 <!ENTITY macEnableSpotlight.accesskey  "S">
@@ -81,7 +81,7 @@
 <!ENTITY viewSecurityDevices.accesskey  "D">
 
 <!-- Web Services -->
-<!ENTITY webservicesInfo.label          "Configurar os Web services usados dentro do Postbox.">
+<!ENTITY webservicesInfo.label          "Configurar os serviços web usados dentro do Postbox.">
 
 <!ENTITY textStartUp   "Ao iniciar:">
 <!ENTITY radioRememberPrevState "Lembrar o status de conexão anterior">
@@ -92,9 +92,9 @@
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
 <!ENTITY textGoingOnline1 "Ao ficar online:">
-<!ENTITY radioAutoSend1 "Enviar mensagens não-enviadas">
-<!ENTITY radioNotSend1 "Não enviar mensagens não-enviadas">
-<!ENTITY radioAskUnsent1 "Perguntar se deve-se enviar mensagens não-enviadas">
+<!ENTITY radioAutoSend1 "Enviar mensagens não enviadas">
+<!ENTITY radioNotSend1 "Não enviar mensagens não enviadas">
+<!ENTITY radioAskUnsent1 "Perguntar o que fazer com as mensagens não enviadas">
 
 <!ENTITY textGoingOffline "Baixar mensagens para uso offline quando ficar offline?">
 <!ENTITY radioAutoDownload "Sim">
