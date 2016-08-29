@@ -1,6 +1,6 @@
-<!ENTITY window.title "Фильтры сообщений">
+﻿<!ENTITY window.title "Фильтры сообщений">
 <!ENTITY nameColumn.label "Имя фильтра">
-<!ENTITY activeColumn.label "Включён">
+<!ENTITY activeColumn.label "Включен">
 <!ENTITY newButton.label "Создать…">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "Изменить…">
@@ -11,16 +11,16 @@
 <!ENTITY reorderUpButton.accesskey "U">
 <!ENTITY reorderDownButton.label "Вниз">
 <!ENTITY reorderDownButton.accesskey "D">
-<!ENTITY filterHeader.label "Включённые фильтры запускаются автоматически в указанном ниже порядке.">
+<!ENTITY filterHeader.label "Включенные фильтры применяются автоматически в указанном ниже порядке.">
 <!ENTITY filtersForPrefix.label "Фильтры для:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Журнал фильтров">
 <!ENTITY viewLogButton.accesskey "l">
-<!ENTITY runFilters.label "Запустить">
+<!ENTITY runFilters.label "Применить">
 <!ENTITY runFilters.accesskey "R">
 <!ENTITY stopFilters.label "Остановить">
 <!ENTITY stopFilters.accesskey "S">
-<!ENTITY folderPickerPrefix.label "Запустить выбранные фильтры в папке:">
+<!ENTITY folderPickerPrefix.label "Применить выбранные фильтры в папке:">
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY choosethis.label "выбрать эту папку">
 <!ENTITY choosethisnewsserver.label "выбрать этот сервер новостей">
