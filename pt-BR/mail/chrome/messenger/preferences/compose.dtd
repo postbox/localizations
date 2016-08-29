@@ -34,7 +34,7 @@
 <!ENTITY autoSave.accesskey                   "S">
 <!ENTITY autoSaveEnd.label                    "minutos">
 
-<!ENTITY emailCollectionPicker.label           "Ao enviar emails, criar contatos dos destinatários em:">
+<!ENTITY emailCollectionPicker.label           "Ao enviar e-mails, criar contatos dos destinatários em:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY autocompleteText.label                "Ao endereçar mensagens, procurar por contatos em:">
 <!ENTITY addressingEnable.label                "Catálogos de endereços locais">
@@ -43,15 +43,15 @@
 <!ENTITY directories.accesskey                 "S">
 <!ENTITY editDirectories.label                 "Editar diretórios…">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY matchText.label                       "Se já houver um nos seus catálogos locais de endereços:">
+<!ENTITY matchText.label                       "Se já houver correspondência nos seus catálogos locais de endereços:">
 <!ENTITY skipDirectory.label                   "Não pesquisar no diretório">
 
 <!ENTITY sendOptions.label                     "Formato de envio…">
 <!ENTITY sendOptions.accesskey                 "m">
 
-<!ENTITY attachmentReminder.label              "Verificar anexos ausentes">
+<!ENTITY attachmentReminder.label              "Verificar se anexou todos os arquivos">
 <!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Palavras-chaves…">
+<!ENTITY attachmentReminderOptions.label       "Palavras-chave…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">
 
 <!ENTITY replyInDefaultCharset2.label     "Usar a codificação de caracteres padrão em respostas">
@@ -69,7 +69,7 @@
 <!ENTITY pbItemAdvanced.label "Avançado">
 <!ENTITY pb.quotingConversationsSortOrder.label "Ao resumir, citar:">
 <!ENTITY pb.quotingConversationsSortOrderOldest.label "Primeiro as mensagens mais antigas">
-<!ENTITY pb.quotingConversationsSortOrderNewest.label "Primeiro as mensagens mais novas">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Primeiro as mensagens mais recentes">
 <!ENTITY pb.QuickReply.label "Resposta rápida padrão para:">
 <!ENTITY pb.QuickReply.accesskey "Q">
 <!ENTITY pb.quickreply.replyall.label "Responder a todos">
