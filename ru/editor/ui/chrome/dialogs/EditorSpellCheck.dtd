@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -45,11 +45,11 @@
 <!ENTITY suggestions.accessKey "В">
 <!ENTITY ignoreButton.label "Пропустить">
 <!ENTITY ignoreButton.accessKey "р">
-<!ENTITY ignoreAllButton.label "Пропустить всё">
+<!ENTITY ignoreAllButton.label "Пропустить все">
 <!ENTITY ignoreAllButton.accessKey "о">
 <!ENTITY replaceButton.label "Заменить">
 <!ENTITY replaceButton.accessKey "м">
-<!ENTITY replaceAllButton.label "Заменить всё">
+<!ENTITY replaceAllButton.label "Заменить все">
 <!ENTITY replaceAllButton.accessKey "е">
 <!ENTITY stopButton.label "Остановить">
 <!ENTITY stopButton.accessKey "с">

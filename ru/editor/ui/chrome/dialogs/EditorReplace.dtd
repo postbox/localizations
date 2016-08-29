@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -41,7 +41,7 @@
 <!ENTITY findField.accesskey "а">
 <!ENTITY replaceField.label "Заменить на:">
 <!ENTITY replaceField.accesskey "м">
-<!ENTITY caseSensitiveCheckbox.label "С учётом регистра">
+<!ENTITY caseSensitiveCheckbox.label "С учетом регистра">
 <!ENTITY caseSensitiveCheckbox.accesskey "р">
 <!ENTITY wrapCheckbox.label "С начала страницы">
 <!ENTITY wrapCheckbox.accesskey "ч">
@@ -53,6 +53,6 @@
 <!ENTITY replaceButton.accesskey "З">
 <!ENTITY replaceAndFindButton.label "Заменить и найти">
 <!ENTITY replaceAndFindButton.accesskey "е">
-<!ENTITY replaceAllButton.label "Заменить всё">
+<!ENTITY replaceAllButton.label "Заменить все">
 <!ENTITY replaceAllButton.accesskey "В">
 <!ENTITY closeButton.label "Закрыть">

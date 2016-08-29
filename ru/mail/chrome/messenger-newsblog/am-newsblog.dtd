@@ -1,6 +1,6 @@
-<!ENTITY newsblogTitle.label "Параметры учётной записи RSS">
+﻿<!ENTITY newsblogTitle.label "Параметры учетной записи RSS">
 
-<!ENTITY indexMsgBodies.label "Index message bodies">
+<!ENTITY indexMsgBodies.label "Индексировать сообщения">
 <!ENTITY indexMsgBodies.accesskey "I">
 
 <!ENTITY biffStart.label "Проверять наличие новых статей каждые">

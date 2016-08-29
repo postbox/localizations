@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -47,6 +47,6 @@
 <!ENTITY foldersOnly.label          "Папки">
 <!ENTITY messagesOnly.label         "Сообщения">
 
-<!ENTITY pbNewFolder.desc "Enter a name for the new folder and select a location.">
-<!ENTITY pbNewFolderLocation.label "Location:">
+<!ENTITY pbNewFolder.desc "Введите имя новой папки и выберите ее расположение.">
+<!ENTITY pbNewFolderLocation.label "Расположение:">
 <!ENTITY pbNewFolderLocatione.accesskey "L">

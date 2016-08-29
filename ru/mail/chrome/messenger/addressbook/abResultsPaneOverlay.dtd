@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -36,7 +36,7 @@
 
 <!ENTITY GeneratedName.label                   "Имя">
 <!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "Электронная почта">
+<!ENTITY PrimaryEmail.label                    "Эл. почта">
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Организация">
 <!ENTITY Company.accesskey                     "z">
@@ -44,7 +44,7 @@
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Псевдоним">
 <!ENTITY NickName.accesskey                    "i">
-<!ENTITY SecondEmail.label                     "Доп. адрес электронной почты">
+<!ENTITY SecondEmail.label                     "Доп. адрес эл. почты">
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Отдел">
 <!ENTITY Department.accesskey                  "r">
@@ -68,13 +68,13 @@
 <!ENTITY sortDescending.accesskey              "D">
 
 <!-- context menu -->
-<!ENTITY composeEmail.label                    "Compose Email To">
+<!ENTITY composeEmail.label                    "Создать сообщение">
 <!ENTITY composeEmail.accesskey                "C">
 <!ENTITY deleteAddrBookCard.label              "Удалить">
 <!ENTITY deleteAddrBookCard.accesskey          "D">
-<!ENTITY newAddrBookCard.label                 "Создать контакт...">
+<!ENTITY newAddrBookCard.label                 "Создать карточку…">
 <!ENTITY newAddrBookCard.accesskey             "N">
-<!ENTITY newAddrBookMailingList.label          "New Mailing List...">
+<!ENTITY newAddrBookMailingList.label          "Создать список рассылки…">
 <!ENTITY newAddrBookMailingList.accesskey      "M">
 <!ENTITY addrBookCardProperties.label          "Свойства">
 <!ENTITY addrBookCardProperties.accesskey      "P">

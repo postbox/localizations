@@ -1,47 +1,47 @@
-<!-- strings used in both the focus pane and the full text search focus pane -->
-<!ENTITY focusPaneFilterByTags.label    "Любимые метки">
-<!ENTITY focusPaneFilterByTagsMac.label "FAVORITE TOPICS">
+﻿<!-- strings used in both the focus pane and the full text search focus pane -->
+<!ENTITY focusPaneFilterByTags.label    "Избранные метки">
+<!ENTITY focusPaneFilterByTagsMac.label "ИЗБРАННЫЕ МЕТКИ">
 <!ENTITY focusPaneAllTags.label         "Все">
 <!ENTITY focusPaneNoTags.label          "Нет">
 
 <!-- strings used only in the full text search focus pane -->
 <!ENTITY focusPaneSearchScopeTitle.label       "Поиск">
 <!ENTITY focusPaneSearchScopeTitleMac.label    "ПОИСК">
-<!ENTITY focusPaneSearchScopeEverywhere.label  "Все учётные записи">
+<!ENTITY focusPaneSearchScopeEverywhere.label  "Все учетные записи">
 <!ENTITY focusPaneSearchAttribute.label        "Атрибуты">
 <!ENTITY focusPaneSearchAttributeMac.label     "АТРИБУТЫ">
-<!ENTITY focusPaneHasAttachmentAttribute.label           "Has Attachment">
-<!ENTITY focusPaneUnreadAttribute.label           "Unread">
+<!ENTITY focusPaneHasAttachmentAttribute.label           "С вложением">
+<!ENTITY focusPaneUnreadAttribute.label           "Непрочитанные">
 <!ENTITY focusPaneFilterByDate.label    "Дата">
 <!ENTITY focusPaneFilterByDateMac.label "ДАТА">
-<!ENTITY focusPaneAnyDate.label         "Any Date">
+<!ENTITY focusPaneAnyDate.label         "Любая дата">
 <!ENTITY focusPaneToday.label           "Сегодня">
-<!ENTITY focusPaneYesterday.label       "Yesterday">
+<!ENTITY focusPaneYesterday.label       "Вчера">
 <!ENTITY focusPaneThisWeek.label        "Эта неделя">
 <!ENTITY focusPaneThisMonth.label       "Этот месяц">
-<!ENTITY focusPaneFilterByContact.label    "Favorite Contacts">
-<!ENTITY focusPaneFilterByContactMac.label "FAVORITE CONTACTS">
+<!ENTITY focusPaneFilterByContact.label    "Избранные контакты">
+<!ENTITY focusPaneFilterByContactMac.label "ИЗБРАННЫЕ КОНТАКТЫ">
 
 <!-- focus pane topics context menus -->
 <!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Переименовать">
 <!ENTITY pbFavoriteTopicsContextMenu-edit.accesskey     "n">
-<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Удалить из любимых">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Удалить из избранных">
 <!ENTITY pbFavoriteTopicsContextMenu-favorite.accesskey "R">
 <!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Удалить">
 <!ENTITY pbFavoriteTopicsContextMenu-delete.accesskey   "D">
-<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Создать новую любимую метку">
+<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Создать избранную метку">
 <!ENTITY pbFavoriteTopicsContextMenu-add.accesskey      "C">
-<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Редактировать метки...">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Изменить метки…">
 <!ENTITY pbFavoriteTopicsContextMenu-editAll.accesskey  "t">
 
 <!-- focus pane favorite contacts context menus -->
-<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Remove From Favorites">
+<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Удалить из избранных">
 <!ENTITY pbFavoriteContactsContactsMenu-delete.accesskey "R">
 <!ENTITY pbFavoriteContactsContextMenu-email.label       "Создать">
 <!ENTITY pbFavoriteContactsContactsMenu-email.accesskey  "e">
-<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Edit Contact...">
+<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Изменить контакт…">
 <!ENTITY pbFavoriteContactsContactsMenu-edit.accesskey   "d">
-<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Create Filter...">
+<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Создать фильтр…">
 <!ENTITY pbFavoriteContactsContactsMenu-createfilter.accesskey "C">
 
 <!ENTITY pbFavoriteContacts.DragLabel "Drag your favorite contacts here">
@@ -51,23 +51,23 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY focusPaneSocialAttribute.label            "Social">
-<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY focusPaneSocialAttribute.label            "Социальные сети">
+<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Открыть в новой вкладке">
 <!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.accesskey "N">
 <!ENTITY pbFavoriteContactsContextMenu-openInNewTab.accesskey "N">
-<!ENTITY focusPaneNotToDoAttribute.label           "Not Reminders">
-<!ENTITY focusPaneRepliedAttribute.label           "Replied">
+<!ENTITY focusPaneNotToDoAttribute.label           "Не напоминания">
+<!ENTITY focusPaneRepliedAttribute.label           "Отвеченные">
 <!ENTITY pbFavoriteContactsContextMenu-edit.accesskey   "d">
-<!ENTITY focusPaneToDoAttribute.label              "Reminders">
-<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY focusPaneToDoAttribute.label              "Напоминания">
+<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Открыть в новой вкладке">
 <!ENTITY pbFavoriteContactsContextMenu-createfilter.accesskey "F">
 <!ENTITY pbFavoriteTopicsContextMenu-assignColor.accesskey "S">
-<!ENTITY focusPaneNotRepliedAttribute.label           "Not Replied">
-<!ENTITY focusPaneNotPendingAttribute.label        "Not Pending">
+<!ENTITY focusPaneNotRepliedAttribute.label           "Неотвеченные">
+<!ENTITY focusPaneNotPendingAttribute.label        "Не ожидающие">
 <!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
-<!ENTITY focusPaneSubscriptionsAttribute.label     "Subscriptions">
-<!ENTITY focusPanePendingAttribute.label           "Pending">
-<!ENTITY focusPaneToMeOnlyAttribute.label          "To Me Only">
-<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Set Topic Color">
-<!ENTITY focusPaneReadAttribute.label           "Read">
+<!ENTITY focusPaneSubscriptionsAttribute.label     "Подписки">
+<!ENTITY focusPanePendingAttribute.label           "Ожидающие">
+<!ENTITY focusPaneToMeOnlyAttribute.label          "Тольк мне">
+<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Установить цвет метки">
+<!ENTITY focusPaneReadAttribute.label           "Прочитанные">
 <!ENTITY pbFavoriteContactsContextMenu-email.accesskey  "C">

@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -44,7 +44,7 @@
 <!ENTITY DictionaryList.accessKey "С">
 <!ENTITY ReplaceButton.label "Заменить">
 <!ENTITY ReplaceButton.accessKey "м">
-<!ENTITY RemoveButton.label "Убрать">
+<!ENTITY RemoveButton.label "Удалить">
 <!ENTITY RemoveButton.accessKey "У">
 <!ENTITY CloseButton.label "Закрыть">
 <!ENTITY CloseButton.accessKey "З">

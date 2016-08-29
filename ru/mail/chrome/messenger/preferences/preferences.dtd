@@ -1,4 +1,4 @@
-
+﻿
 <!ENTITY  prefWindow.titleWin     "Настройки">
 <!ENTITY  prefWindow.titleGNOME   "Настройки &brandShortName;">
 <!ENTITY  prefWindow.styleWindows "width: 61em; min-height: 38.5em;">
@@ -6,9 +6,9 @@
 <!ENTITY  prefWindow.styleUnix    "width: 42em;">
 
 <!ENTITY paneGeneral.title        "Основные">
-<!ENTITY paneDisplay.title        "Отображение">
+<!ENTITY paneDisplay.title        "Вид">
 <!ENTITY paneTags.title           "Метки">
-<!ENTITY paneComposition.title    "Составление">
-<!ENTITY paneAttachments.title    "Вложенные файлы">
+<!ENTITY paneComposition.title    "Создание">
+<!ENTITY paneAttachments.title    "Вложения">
 <!ENTITY panePrivacy.title        "Приватность">
 <!ENTITY paneAdvanced.title       "Дополнительные">

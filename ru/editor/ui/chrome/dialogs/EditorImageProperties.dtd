@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -45,7 +45,7 @@
 <!ENTITY title.tooltip "Атрибут «title», отображаемый как всплывающая подсказка">
 <!ENTITY altText.label "Альтернативный текст:">
 <!ENTITY altText.accessKey "л">
-<!ENTITY altTextEditField.tooltip "Введите текст, показываемый на месте изображения">
+<!ENTITY altTextEditField.tooltip "Введите текст, отображаемый на месте изображения">
 <!ENTITY noAltText.label "Не использовать альтернативный текст">
 <!ENTITY noAltText.accessKey "Н">
 <!ENTITY previewBox.label "Предварительный просмотр изображения">
@@ -53,7 +53,7 @@
 <!ENTITY actualSizeRadio.label "Исходный размер">
 <!ENTITY actualSizeRadio.accessKey "И">
 <!ENTITY actualSizeRadio.tooltip "Вернуться к исходным размерам изображения">
-<!ENTITY customSizeRadio.label "Задать размер">
+<!ENTITY customSizeRadio.label "Настроить размер">
 <!ENTITY customSizeRadio.accessKey "З">
 <!ENTITY customSizeRadio.tooltip "Изменить размер изображения так, как это выглядит на странице">
 <!ENTITY heightEditField.label "Высота:">
@@ -63,17 +63,17 @@
 <!ENTITY constrainCheckbox.label "Соблюдать пропорции">
 <!ENTITY constrainCheckbox.accessKey "С">
 <!ENTITY constrainCheckbox.tooltip "Соблюдать пропорции при изменении размера изображения">
-<!ENTITY imagemapBox.label "Карта изображения">
-<!ENTITY removeImageMapButton.label "Убрать">
+<!ENTITY imagemapBox.label "Гиперкарта">
+<!ENTITY removeImageMapButton.label "Удалить">
 <!ENTITY removeImageMapButton.accessKey "У">
-<!ENTITY editImageMapButton.label "Редактировать…">
-<!ENTITY editImageMapButton.tooltip "Создать области, чувствительные к нажатии мыши">
+<!ENTITY editImageMapButton.label "Изменить…">
+<!ENTITY editImageMapButton.tooltip "Создать области, чувствительные к щелчку мышью">
 <!ENTITY alignment.label "Расположение текста по отношению к изображению">
-<!ENTITY bottomPopup.value "Внизу">
-<!ENTITY topPopup.value "Вверху">
+<!ENTITY bottomPopup.value "Снизу">
+<!ENTITY topPopup.value "Сверху">
 <!ENTITY centerPopup.value "По центру">
-<!ENTITY wrapRightPopup.value "Влево, окружить текстом справа">
-<!ENTITY wrapLeftPopup.value "Вправо, окружить текстом слева">
+<!ENTITY wrapRightPopup.value "Окружить текстом справа">
+<!ENTITY wrapLeftPopup.value "Окружить текстом слева">
 <!ENTITY spacingBox.label "Поля">
 <!ENTITY leftRightEditField.label "Слева и справа:">
 <!ENTITY leftRightEditField.accessKey "е">

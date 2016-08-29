@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -38,6 +38,6 @@
 <!ENTITY unreadColumn.label "Не прочитано"> 
 <!ENTITY totalColumn.label "Всего"> 
 <!ENTITY folderSizeColumn.label "Размер"> 
-<!ENTITY accounts.label "Учётные записи">
+<!ENTITY accounts.label "Учетные записи">
 <!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
 <!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

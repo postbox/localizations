@@ -1,10 +1,10 @@
-<!ENTITY securityTitle.label "Защита">
-<!ENTITY securityHeading.label "Чтобы получать и отправлять зашифрованные сообщения или сообщения с цифровой подписью, вам нужно указать сертификат ключа шифрования и сертификат ключа подписи.">
+﻿<!ENTITY securityTitle.label "Безопасность">
+<!ENTITY securityHeading.label "Чтобы получать и отправлять зашифрованные сообщения или сообщения с цифровой подписью, необходимо указать сертификаты шифрования и цифровой подписи.">
 <!ENTITY encryptionGroupTitle.label "Шифрование">
 <!ENTITY encryptionChoiceLabel.label "Использовать шифрование при отправке сообщений:">
 <!ENTITY neverEncrypt.label "Никогда (не использовать шифрование)">
-<!ENTITY alwaysEncryptMessage.label "Всегда (сообщение не будет отправлено, если не у всех адресатов есть сертификаты)">
-<!ENTITY encryptionCert.message "Личный сертификат для шифрования: ">
+<!ENTITY alwaysEncryptMessage.label "Всегда (сообщение будет отправлено, только если у всех получателей есть сертификат)">
+<!ENTITY encryptionCert.message "Личный сертификат для шифрования:">
 <!ENTITY encryptionCert.notselected "Сертификат отсутствует">
 <!ENTITY certificate.button "Выбрать…">
 <!ENTITY certificate_clear.button "Очистить">
@@ -16,5 +16,5 @@
 <!ENTITY certificates.label     "Сертификаты">
 <!ENTITY managecerts.label      "Просмотр сертификатов">
 <!ENTITY managecerts.accesskey  "V">
-<!ENTITY managedevices.label    "Устройства защиты">
+<!ENTITY managedevices.label    "Устройства безопасности">
 <!ENTITY managedevices.accesskey "S">

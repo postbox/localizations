@@ -1,5 +1,5 @@
-<!ENTITY settings.caption "Настройки">
-<!ENTITY security.caption "Защита и аутентификация">
+﻿<!ENTITY settings.caption "Настройки">
+<!ENTITY security.caption "Безопасность и проверка подлинности">
 <!ENTITY serverName.label "Имя сервера:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY serverDescription.label "Описание:">
@@ -8,13 +8,13 @@
 <!ENTITY serverPort.accesskey "P">
 <!ENTITY userName.label "Имя пользователя:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.label "Безопасность подключения:">
 <!ENTITY connectionSecurity.accesskey "n">
-<!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-0.label "Нет">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, если доступно">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY smtpEditTitle.label "SMTP сервер">
+<!ENTITY smtpEditTitle.label "Сервер SMTP">
 <!ENTITY serverPortDefault.label "По умолчанию:">
-<!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.label "Проверка подлинности:">
 <!ENTITY authMethod.accesskey "i">

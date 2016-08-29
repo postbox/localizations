@@ -1,4 +1,4 @@
-<!ENTITY  connectionsDialog.title       "Параметры соединения">
+﻿<!ENTITY  connectionsDialog.title       "Параметры подключения">
 <!ENTITY  window.width                   "52em">
 
 <!ENTITY  proxyTitle.label              "Настройка прокси для доступа в Интернет">
@@ -8,15 +8,15 @@
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Автоматически определять настройки прокси для этой сети">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "Ручная настройка сервиса прокси:">
+<!ENTITY  manualTypeRadio.label         "Ручная настройка прокси:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "URL автоматической настройки сервиса прокси:">
+<!ENTITY  autoTypeRadio.label           "URL-адрес автоматической настройки прокси:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Обновить">
 <!ENTITY  reload.accesskey              "l">
-<!ENTITY  http.label                    "HTTP прокси:">
+<!ENTITY  http.label                    "Прокси HTTP:">
 <!ENTITY  http.accesskey                "T">
-<!ENTITY  ssl.label                     "SSL прокси:">
+<!ENTITY  ssl.label                     "Прокси SSL:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "Узел SOCKS:">
 <!ENTITY  socks.accesskey               "O">

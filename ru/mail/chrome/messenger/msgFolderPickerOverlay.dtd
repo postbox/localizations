@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -44,6 +44,6 @@
 <!ENTITY renamefolderclickhere.label      "нажмите здесь для выбора папки">
 <!ENTITY filemessageschoosethis.label      "выбрать эту папку">
 <!ENTITY filemessagesclickhere.label      "нажмите здесь для выбора папки">
-<!ENTITY chooseaccountclickhere.label      "Нажмите здесь для выбора учётной записи">
+<!ENTITY chooseaccountclickhere.label      "Нажмите здесь для выбора учетной записи">
 <!ENTITY choosefolderclickhere.label      "Нажмите здесь для выбора папки">
-<!ENTITY chooseserverToDeferTo.label      "нажмите здесь, чтобы выбрать учётную запись для хранения сообщений">
+<!ENTITY chooseserverToDeferTo.label      "нажмите здесь, чтобы выбрать учетную запись для хранения сообщений">

@@ -1,15 +1,15 @@
-<!ENTITY autoconfigWizard.title          "Настройка учётной записи почты">
+﻿<!ENTITY autoconfigWizard.title          "Настройка учетной записи почты">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                  "First and Last Name">
+<!ENTITY name.placeholder                  "Имя и фамилия">
 <!ENTITY email.accesskey                 "l">
 <!ENTITY email.placeholder                 "email@example.com">
 <!ENTITY password.label                  "Пароль:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.placeholder              "Password">
+<!ENTITY password.placeholder              "Пароль">
 <!ENTITY password.text                   "Необязательно, будет использоваться только для проверки имени пользователя">
 
-<!ENTITY accountInformation.label        "Информация учётной записи">
-<!ENTITY outgoing.label                  "Исходящая:">
+<!ENTITY accountInformation.label        "Информация учетной записи">
+<!ENTITY outgoing.label                  "Исходящие:">
 <!ENTITY noEncryption.label              "Нет">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
@@ -39,10 +39,10 @@
 <!ENTITY rememberPassword.label          "Запомнить пароль">
 <!ENTITY rememberPassword.accesskey      "m">
 
-<!ENTITY warning.label                   "Предупреждение!">
+<!ENTITY warning.label                   "Внимание!">
 <!ENTITY incomingSettings.label          "Параметры входящей почты:">
 <!ENTITY outgoingSettings.label          "Параметры исходящей почты:">
-<!ENTITY technicaldetails.label          "Технические детали">
+<!ENTITY technicaldetails.label          "Технические сведения">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
@@ -51,7 +51,7 @@
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Создать учётную запись">
+<!ENTITY createAccount.label             "Создать учетную запись">
 <!ENTITY createAccount.accesskey         "C">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
@@ -60,26 +60,26 @@
 <!ENTITY changeSettings.label            "Изменить настройки">
 <!ENTITY changeSettings.accesskey        "S">
 
-<!ENTITY pb.contactYourProvider.description "&brandShortName; может помочь вам получить доступ к вашей почте, используя предоставленные конфигурации. Однако, вам следует связаться с вашим системнным администратором или провайдеру электронной почты, чтобы они устранили проблему с подключением.">
+<!ENTITY pb.contactYourProvider.description "&brandShortName; может помочь получить доступ к почте с помощью предоставленных конфигураций. Однако рекомендуется обратиться к системному администратору или провайдеру электронной почты, чтобы они устранили проблему с подключением.">
 
-<!ENTITY insecureServer.tooltip.title    "Предупреждение! Это незащищённый сервер.">
-<!ENTITY insecureServer.tooltip.details  "Для получения подробностей щёлкните по кружку.">
+<!ENTITY insecureServer.tooltip.title    "Внимание! Это незащищенный сервер.">
+<!ENTITY insecureServer.tooltip.details  "Для получения подробных сведений щелкните кружок.">
 
-<!ENTITY insecureUnencrypted.description "Ваши письма и данные аутентификации будут отправляться в незашифрованном виде, так что ваш пароль (и ваши сообщения) могут быть легко прочтены другими людьми. &brandShortName; позволит вам работать с вашей почтой, но мы настоятельно советуем вам попросить своего провайдера электронной почты настроить почтовый сервер на работу по защищённому соединению.">
-<!ENTITY insecureSelfSigned.description  "Сервер использует сертификат, которому мы не можем доверять, так что мы не можем быть уверены, что кто-то не перехватывает трафик между &brandShortName; и вашим сервером. &brandShortName; позволит вам работать с вашей почтой, но мы настоятельно советуем вам попросить своего провайдера электронной почты настроить почтовый сервер на работу с доверенным сертификатом.">
-<!ENTITY secureServer.description        "Поздравляем! Это защищённый сервер.">
+<!ENTITY insecureUnencrypted.description "Ваши сообщения и данные проверки подлинности отправляются в незашифрованном виде, поэтому ваш пароль (и ваши сообщения) могут легко прочитать другие люди. &brandShortName; позволит работать с почтой, однако вам необходимо обратиться к провайдеру электронной почты для настройки защищенного подключения к почтовому серверу.">
+<!ENTITY insecureSelfSigned.description  "Сервер использует сертификат, которому нельзя доверять, поэтому нет уверенности, что кто-то не перехватывает трафик между &brandShortName; и вашим сервером. &brandShortName; позволит работать с почтой, однако вам необходимо обратиться к провайдеру электронной почты для настройки почтового сервера с доверенным сертификатом.">
+<!ENTITY secureServer.description        "Поздравляем! Это защищенный сервер.">
 
 <!ENTITY pb.identity.title "Персональные данные">
 <!ENTITY pb.name.label    "Ваше имя">
-<!ENTITY pb.email.label   "Электронная почта">
+<!ENTITY pb.email.label   "Адрес эл. почты">
 <!ENTITY pb.password.label "Пароль">
-<!ENTITY pb.serverinfo.title "Информация о сервере">
+<!ENTITY pb.serverinfo.title "Сведения о сервере">
 <!ENTITY pb.username.label   "Имя пользователя">
-<!ENTITY pb.incoming.label "Входящий сервер">
+<!ENTITY pb.incoming.label "Сервер входящей почты">
 <!ENTITY pb.servername.label "Имя сервера">
 <!ENTITY pb.servertype.label "Тип">
 <!ENTITY pb.serverport.label "Порт">
-<!ENTITY pb.serversecurity.label "Защита">
+<!ENTITY pb.serversecurity.label "Безопасность">
 <!ENTITY pb.outgoing.label "Сервер исходящей почты">
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      creation wizard, which specifies the width and height in em units of the dialog.
@@ -100,22 +100,22 @@
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 63ch;">
 
-<!ENTITY pbProfileInformation.label "Profile Information">
-<!ENTITY pbManualSetup.label "Manual Setup">
+<!ENTITY pbProfileInformation.label "Сведения о профиле">
+<!ENTITY pbManualSetup.label "Настройка вручную">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY important.label "IMPORTANT:">
-<!ENTITY learnMore.label "Learn more...">
+<!ENTITY important.label "ВАЖНО:">
+<!ENTITY learnMore.label "Подробнее…">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pb.displayname.label "Description:">
-<!ENTITY displayname.placeholder         "Work, Personal, etc.">
+<!ENTITY pb.displayname.label "Описание:">
+<!ENTITY displayname.placeholder         "Рабочая, личная и т. д.">
 <!ENTITY displayname.accesskey           "D">

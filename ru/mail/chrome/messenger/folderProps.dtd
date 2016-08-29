@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -43,7 +43,7 @@
 <!ENTITY generalInfo.label                       "Основная информация">
 <!ENTITY folderCharsetTab.label                  "Кодировка по умолчанию:">
 <!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Использовать как кодировку по умолчанию для всех сообщений в папке (игнорировать кодировки, определённые для отдельных сообщений, и автоопределение).">
+<!ENTITY folderCharsetOverride.label             "Использовать по умолчанию для всех сообщений в папке (игнорировать кодировки, указанные в отдельных сообщениях и автоматически определенные).">
 <!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFile.label          "Перестроить индекс">
 <!ENTITY folderRebuildSummaryFile.accesskey      "R">
@@ -55,12 +55,12 @@
 <!ENTITY days.label "дней">
 <!ENTITY daysOld.label "дней">
 <!ENTITY message.label "сообщений">
-<!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены.">
+<!ENTITY retentionCleanup.label "Для освобождения места на диске старые сообщения могут быть полностью удалены.">
 <!ENTITY retentionKeepMsg.label "Удалять сообщения старше">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Не удалять сообщения">
 <!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.label "Удалять все, кроме последних">
 <!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "Всегда удалять прочитанные сообщения">
 <!ENTITY retentionKeepUnread.accesskey "r">
@@ -76,7 +76,7 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Выбрать эту группу новостей для автономной работы">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Use the default from account settings ">
+<!ENTITY UseDefaultofflineNewsgroup.check.label  "Использовать настройки учетной записи по умолчанию ">
 <!ENTITY offlineNewsgroup.button.label           "Загрузить">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
@@ -87,7 +87,7 @@
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Совместное использование">
-<!ENTITY privilegesDesc.label                    "Share this and other folders with network users and display and set access privileges">
+<!ENTITY privilegesDesc.label                    "Использование этой и других папок совместно с сетевыми пользователями, а также отображение и настройка прав доступа">
 <!ENTITY privileges.button.label                 "Привилегии…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "У вас есть следующие права:">
