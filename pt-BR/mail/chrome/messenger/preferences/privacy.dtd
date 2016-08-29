@@ -1,7 +1,7 @@
 <!-- Junk Mail Controls -->
 <!ENTITY manualMark.label "Quando eu marcar mensagens como spam:">
 <!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Mover à pasta &quot;Spam&quot; da conta">
+<!ENTITY manualMarkModeMove.label "Mover para a pasta &quot;Spam&quot; da conta">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Excluir">
 <!ENTITY manualMarkModeDelete.accesskey "t">
@@ -16,7 +16,7 @@
 
 
 <!-- Phishing Detector -->
-<!ENTITY enablePhishingDetector1.label    "Bloquear as fraudes de e-mails reportadas">
+<!ENTITY enablePhishingDetector1.label    "Bloquear os e-mails já reportados como fraude">
 <!ENTITY enablePhishingDetector1.accesskey "B">
 
 <!-- Passwords -->
@@ -28,7 +28,7 @@
 <!ENTITY savedPasswords.accesskey             "S">
 
 <!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics2.label      "Ajudar a melhorar o &brandShortName; enviado anonimamente estatísticas de uso.">
+<!ENTITY enableAnonymousStatistics2.label      "Ajudar a melhorar o &brandShortName; enviando anonimamente estatísticas de uso.">
 <!ENTITY enableAnonymousStatistics.accesskey   "H">
 
 <!-- Remote images -->
@@ -38,4 +38,4 @@
 <!ENTITY pbPrivacy.label "Privacidade:">
 <!ENTITY pbJunkMail.label "Spam:">
 <!ENTITY pbPasswords.label "Senhas:">
-<!ENTITY pbJunkMail.intro "Observação: definições de spam específicas para a conta podem ser configuradas em Configurações de conta">
+<!ENTITY pbJunkMail.intro "Observação: definições de spam específicas para a conta podem ser definidas em Configurações de conta">
