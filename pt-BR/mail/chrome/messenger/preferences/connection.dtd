@@ -2,9 +2,9 @@
 <!ENTITY  window.width                   "37em">
 
 <!ENTITY  proxyTitle.label              "Acesso à internet">
-<!ENTITY  noProxyTypeRadio.label        "No proxy">
+<!ENTITY  noProxyTypeRadio.label        "Sem proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
+<!ENTITY  systemTypeRadio.label         "Usar as configurações de proxy do sistema">
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Autodetectar as configurações de proxy para esta rede">
 <!ENTITY  WPADTypeRadio.accesskey       "d">
@@ -24,11 +24,11 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  HTTPport.label                "Port:">
+<!ENTITY  HTTPport.label                "Porta:">
 <!ENTITY  HTTPport.accesskey            "P">
-<!ENTITY  SSLport.label                 "Port:">
+<!ENTITY  SSLport.label                 "Porta:">
 <!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  SOCKSport.label               "Port:">
+<!ENTITY  SOCKSport.label               "Porta:">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Sem proxy para:">
 <!ENTITY  noproxy.accesskey             "S">

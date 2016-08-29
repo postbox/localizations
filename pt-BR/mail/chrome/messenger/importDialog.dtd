@@ -36,26 +36,26 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
 <!ENTITY importDialog.windowTitle "Assistente de importação">
-<!ENTITY importDialog.allTitle    "Import everything">
-<!ENTITY importDialog.mailTitle   "Mail">
-<!ENTITY importDialog.addressbookTitle "Address Books">
-<!ENTITY importDialog.settingsTitle "Settings">
+<!ENTITY importDialog.allTitle    "Importar tudo">
+<!ENTITY importDialog.mailTitle   "E-mails">
+<!ENTITY importDialog.addressbookTitle "Catálogos de endereços">
+<!ENTITY importDialog.settingsTitle "Configurações">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "Assistente de importação do &brandShortName;">
-<!ENTITY importDesc.label         "Import Mail, Address Books and Settings from other programs">
+<!ENTITY importDesc.label         "Importar e-mails, catálogos de endereços e configurações de outros programas">
 
-<!ENTITY importDescription.label  "This wizard will import mail messages, address book entries, and/or preferences from other mail programs and common address book formats into &brandShortName;.">
+<!ENTITY importDescription.label  "Este assistente importará para o &brandShortName; e-mails, entradas de catálogos de endereços e/ou preferências de outros programas de e-mail e formatos comuns de catálogos de endereços.">
 <!ENTITY importDescription2.label "Uma vez importados, você poderá acessá-los pelo &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Por favor, selecione o tipo de arquivo que você deseja importar:">
@@ -67,13 +67,13 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY select.label             "Ou selecione o que deseja importar:">
 
-<!ENTITY title.label              "Title">
+<!ENTITY title.label              "Título">
 <!ENTITY processing.label         "Importando…">
 
 <!ENTITY FieldDiscInputText1.label  "O Netscape Communicator 4.x possui um endereço para cada contato, enquanto o &brandShortName; possui dois (residencial e comercial).">
 <!ENTITY FieldDiscInputText2.label  "Selecione a categoria na qual deseja amazenar os endereços importados:">
 <!ENTITY FieldDiscWarning.label  "Esta categoria será usada para todos os nomes do catálogo de endereços selecionado: ">
-<!ENTITY importDialog.homeTitle  "Home">
-<!ENTITY importDialog.workTitle  "Work">
+<!ENTITY importDialog.homeTitle  "Residencial">
+<!ENTITY importDialog.workTitle  "Comercial">
 
-<!ENTITY pbSelect.label             "Select the type of material to import:">
+<!ENTITY pbSelect.label             "Selecione o tipo de material que será importado:">

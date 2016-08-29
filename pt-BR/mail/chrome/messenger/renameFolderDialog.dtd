@@ -35,9 +35,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!ENTITY renameFolderDialog.title          "Renomear pasta">
 <!ENTITY rename.label                      "Novo nome:">
 <!ENTITY rename.accesskey                  "N">
-<!ENTITY accept.label                      "Rename">
+<!ENTITY accept.label                      "Renomear">
 <!ENTITY accept.accesskey                  "R">

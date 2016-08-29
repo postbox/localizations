@@ -1,41 +1,41 @@
 <!-- Junk Mail Controls -->
-<!ENTITY manualMark.label "When I mark messages as junk:">
+<!ENTITY manualMark.label "Quando eu marcar mensagens como spam:">
 <!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
+<!ENTITY manualMarkModeMove.label "Mover para a pasta &quot;Spam&quot; da conta">
 <!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Delete them">
+<!ENTITY manualMarkModeDelete.label "Excluir">
 <!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY markAsReadOnSpam.label "Marcar como lidas as mensagens determinadas como Spam">
 <!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Enable junk filter logging">
+<!ENTITY enableJunkLogging.label "Habilitar os logs de filtragem de Spam">
 <!ENTITY enableJunkLogging.accesskey "g">
-<!ENTITY openJunkLog.label "Show log">
+<!ENTITY openJunkLog.label "Exibir log">
 <!ENTITY openJunkLog.accesskey "h">
-<!ENTITY resetTrainingData.label "Reset Training Data">
+<!ENTITY resetTrainingData.label "Redefinir dados de treinamento de spam">
 <!ENTITY resetTrainingData.accesskey "D">
 
 
 <!-- Phishing Detector -->
-<!ENTITY enablePhishingDetector1.label    "Block reported e-mail scams">
+<!ENTITY enablePhishingDetector1.label    "Bloquear os e-mails já reportados como fraude">
 <!ENTITY enablePhishingDetector1.accesskey "B">
 
 <!-- Passwords -->
-<!ENTITY useMasterPassword.label              "Use a master password">
+<!ENTITY useMasterPassword.label              "Usar uma senha-mestre">
 <!ENTITY useMasterPassword.accesskey          "s">
-<!ENTITY changeMasterPassword.label           "Change Master Password...">
+<!ENTITY changeMasterPassword.label           "Alterar senha-mestre...">
 <!ENTITY changeMasterPassword.accesskey       "M">
-<!ENTITY savedPasswords.label                 "Saved Passwords...">
+<!ENTITY savedPasswords.label                 "Senhas salvas...">
 <!ENTITY savedPasswords.accesskey             "S">
 
 <!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics2.label      "Help make &brandShortName; better by sending anonymous usage statistics.">
+<!ENTITY enableAnonymousStatistics2.label      "Ajudar a melhorar o &brandShortName; enviando anonimamente estatísticas de uso.">
 <!ENTITY enableAnonymousStatistics.accesskey   "H">
 
 <!-- Remote images -->
-<!ENTITY disableImageInMailNews.label  "Block loading of remote images in mail messages">
+<!ENTITY disableImageInMailNews.label  "Bloquear o carregamento de imagens remotas em mensagens de e-mail">
 <!ENTITY disableImageInMailNews.accesskey "r">
 
-<!ENTITY pbPrivacy.label "Privacy:">
-<!ENTITY pbJunkMail.label "Junk:">
-<!ENTITY pbPasswords.label "Passwords:">
-<!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in Account Settings.">
+<!ENTITY pbPrivacy.label "Privacidade:">
+<!ENTITY pbJunkMail.label "Spam:">
+<!ENTITY pbPasswords.label "Senhas:">
+<!ENTITY pbJunkMail.intro "Observação: definições de spam específicas para a conta podem ser definidas em Configurações de conta">

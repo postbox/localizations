@@ -7,8 +7,8 @@
 
 <!ENTITY paneGeneral.title        "Geral">
 <!ENTITY paneDisplay.title        "Aparência">
-<!ENTITY paneTags.title           "Topics">
+<!ENTITY paneTags.title           "Tópicos">
 <!ENTITY paneComposition.title    "Edição">
 <!ENTITY paneAttachments.title    "Anexos">
-<!ENTITY panePrivacy.title        "Privacy">
+<!ENTITY panePrivacy.title        "Privacidade">
 <!ENTITY paneAdvanced.title       "Avançado">

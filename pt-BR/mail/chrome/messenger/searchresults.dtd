@@ -1,24 +1,24 @@
 <!-- rich search results -->
-<!ENTITY searchresults.showthumbnail.label         "Show Thumbnails">
+<!ENTITY searchresults.showthumbnail.label         "Exibir miniaturas">
 <!ENTITY searchresults.showthumbnail.accesskey     "S">
-<!ENTITY viewByRelevance.label                     "Sorted By Relevance">
-<!ENTITY viewByDate.label                          "Sorted By Date">
-<!ENTITY searchresults.viewByRelevance.label       "Sort By Relevance">
-<!ENTITY searchresults.viewByDate.label            "Sort By Date">
-<!ENTITY addToCalendar.label                       "Add to Calendar">
-<!ENTITY prevNextResults.label                     "Prev / Next">
-<!ENTITY searchResultsNoMatchesFound.desc          "No items matched your search.">
-<!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Try searching in All Folders.">
-<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Try setting your Focus to All.">
-<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
-<!ENTITY showSearchOptions.label                   "Show search options">
+<!ENTITY viewByRelevance.label                     "Ordenadas por relevância">
+<!ENTITY viewByDate.label                          "Ordenadas por data">
+<!ENTITY searchresults.viewByRelevance.label       "Ordenar por relevância">
+<!ENTITY searchresults.viewByDate.label            "Ordenar por data">
+<!ENTITY addToCalendar.label                       "Adicionar ao Calendário">
+<!ENTITY prevNextResults.label                     "Anterior / Próximo">
+<!ENTITY searchResultsNoMatchesFound.desc          "Nenhum item corresponde à sua pesquisa.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Tente pesquisar em Todas as Pastas.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Tente alterar o foco para Todos.">
+<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Tente alterar para a exibição de Mensagens.">
+<!ENTITY showSearchOptions.label                   "Exibir opções de pesquisa">
 
 <!-- attachments -->
-<!ENTITY searchresults.upload.label                   "Upload">
+<!ENTITY searchresults.upload.label                   "Enviar">
 <!ENTITY searchresults.uploadToGoogleDocs.label       "Google Docs">
 <!ENTITY searchresults.uploadToGoogleDocs.accesskey   "G">
-<!ENTITY attachmentInfo.label                         "Document Info">
-<!ENTITY attachmentActions.label                      "Document Actions">
+<!ENTITY attachmentInfo.label                         "Informações do Documento">
+<!ENTITY attachmentActions.label                      "Ações do Documento">
 
 <!-- images -->
 <!-- XX Localization note - Service names do not need to be translated -->
@@ -26,8 +26,8 @@
 <!ENTITY searchresults.uploadPhotoToPicasa.accesskey   "P">
 <!ENTITY searchresults.uploadPhotoToPhotobucket.label       "Photobucket">
 <!ENTITY searchresults.uploadPhotoToPhotobucket.accesskey   "b">
-<!ENTITY imageInfo.label                               "Image Info">
-<!ENTITY imageActions.label                            "Image Actions">
+<!ENTITY imageInfo.label                               "Informações da Imagem">
+<!ENTITY imageActions.label                            "Ações da Imagem">
 
 <!-- urls -->
 <!-- XXX start localization note: Do not translate these service names -->
@@ -46,25 +46,25 @@
 <!-- XXX end localization note: Do not translate these service names -->
 
 <!-- action buttons -->
-<!ENTITY searchresults.saveButton.label            "Save">
-<!ENTITY searchresults.sendButton.label            "Send">
+<!ENTITY searchresults.saveButton.label            "Salvar">
+<!ENTITY searchresults.sendButton.label            "Enviar">
 <!-- XXX localization note: should "Quick Look" be translated? -->
 <!ENTITY searchresults.quickLookButton.label       "Quick Look">
 <!ENTITY searchresults.importPhotoButtonMac.label  "iPhoto">
 
-<!ENTITY searchBar-options.tooltip                 "Show search options">
-<!ENTITY location.label                            "Near:">
-<!ENTITY location.placeholder                        "City, State or ZIP">
-<!ENTITY flickr.private.tooltip                    "Only you can see this photo on flickr.com">
+<!ENTITY searchBar-options.tooltip                 "Exibir opções de pesquisa">
+<!ENTITY location.label                            "Próximo:">
+<!ENTITY location.placeholder                        "Cidade, Estado ou CEP">
+<!ENTITY flickr.private.tooltip                    "Só pode ver esta foto em flickr.com">
 
 <!-- for rich search in compose -->
-<!ENTITY attachments.label "Attachments">
-<!ENTITY dictionary.label "Dictionary">
+<!ENTITY attachments.label "Anexos">
+<!ENTITY dictionary.label "Dicionário">
 <!ENTITY thesaurus.label "Thesaurus">
-<!ENTITY documents.label "Attachments">
-<!ENTITY images.label "Images">
-<!ENTITY signatures.label "Signatures">
-<!ENTITY contacts.label "Contacts">
+<!ENTITY documents.label "Anexos">
+<!ENTITY images.label "Imagens">
+<!ENTITY signatures.label "Assinaturas">
+<!ENTITY contacts.label "Contatos">
 
 <!-- XXX start localization note: Do not translate these service names -->
 <!ENTITY google.label "Google">

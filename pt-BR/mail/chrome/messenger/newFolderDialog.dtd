@@ -35,7 +35,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!-- Labels -->
 <!ENTITY newFolderDialog.title      "Nova pasta">
 <!ENTITY name.label                 "Nome:">
@@ -47,6 +47,6 @@
 <!ENTITY foldersOnly.label          "Somente pastas">
 <!ENTITY messagesOnly.label         "Somente mensagens">
 
-<!ENTITY pbNewFolder.desc "Enter a name for the new folder and select a location.">
-<!ENTITY pbNewFolderLocation.label "Location:">
+<!ENTITY pbNewFolder.desc "Digite um nome para a nova pasta e selecione um caminho:">
+<!ENTITY pbNewFolderLocation.label "Caminho:">
 <!ENTITY pbNewFolderLocatione.accesskey "L">
