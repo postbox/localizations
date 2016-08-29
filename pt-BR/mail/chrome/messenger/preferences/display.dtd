@@ -37,7 +37,7 @@
 <!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "Avançado…">
 
-<!ENTITY pb.messagelist.colortagrow.label "Aplique a cor na linha inteira no painel de lista de mensagens">
+<!ENTITY pb.messagelist.colortagrow.label "Aplicar a mesma cor do tópico a todas as mensagens presentes na mesma linha do painel de mensagens">
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">
 
 <!-- conversation preferences -->
@@ -47,8 +47,8 @@
 <!ENTITY pb.conversations.all.label1 "Todas as pastas">
 
 <!ENTITY pb.conversations.sortorder.label "Ordenar conversas pelas:">
-<!ENTITY pb.conversations.sortoldest.label "Mensagens mais antigas ptimeiro">
-<!ENTITY pb.conversations.sortnewest.label "Mensagens mais novas primeiro">
+<!ENTITY pb.conversations.sortoldest.label "mensagens mais antigas primeiro">
+<!ENTITY pb.conversations.sortnewest.label "mensagens mais novas primeiro">
 
 <!ENTITY pb.conversations.read.label "Ao exibir uma conversa, marque as mensagens como lidas">
 <!ENTITY pb.conversations.read.accesskey "c">
@@ -74,7 +74,7 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY quotedColor2.label "Cor da citação, nível 2">
-<!ENTITY devPixelsPerPx.label        "Alta escala de DPI:">
+<!ENTITY devPixelsPerPx.label        "Escala de DPI:">
 <!ENTITY devPixelsPerPx.accesskey    "D">
 <!ENTITY quotedColor5.label "Cor da citação, nível 5">
 <!ENTITY quotedColors.label "Cores da citação, níveis 1 a 5:">
