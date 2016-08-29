@@ -1,6 +1,6 @@
-<!ENTITY identityTitle.label "Параметры адреса электронной почты">
-<!ENTITY identityListDesc.label "Настроить параметры данного адреса электронной почты:">
+﻿<!ENTITY identityTitle.label "Параметры идентификации	Параметры адреса электронной почты">
+<!ENTITY identityListDesc.label "Настройте параметры для этой идентификации	Настроить параметры данного адреса электронной почты:">
 
-<!ENTITY settingsTab.label       "Настройки">
+<!ENTITY settingsTab.label       "Параметры">
 <!ENTITY copiesFoldersTab.label "Копии и папки">
-<!ENTITY addressingTab.label    "Составление сообщений и адресация">
+<!ENTITY addressingTab.label    "Создание сообщений и адресация">
