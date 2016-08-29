@@ -5,7 +5,7 @@
 
 <!ENTITY convertibleDefault.label "">
 <!ENTITY convertibleYes.label "Sua mensagem pode ser convertida para texto sem formatação sem que haja perda de informações.">
-<!ENTITY convertibleAltering.label "Sua mensagem pode ser convertida para texto sem formatação sem que haja perda de informações importantes. Entretanto, a versão sem formatação pode ter um visual diferente do que foi exibido ao criar a mensagem.">
+<!ENTITY convertibleAltering.label "Sua mensagem pode ser convertida para texto sem formatação sem que haja perda de informações importantes. Contudo, a versão sem formatação pode ter uma apresentação diferente da que foi exibida ao criar a mensagem.">
 <!ENTITY convertibleNo.label "Entretanto, você utilizou formatações (por exemplo, cores) que não aparecerão no texto sem formatação.">
 
 <!ENTITY question.label "Deseja efetuar alguma conversão?">
