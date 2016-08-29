@@ -1,8 +1,8 @@
-<!ENTITY pref.editing.title "Настройки для новой страницы">
+﻿<!ENTITY pref.editing.title "Параметры новой страницы">
 <!ENTITY authorName.label "Автор:">
 <!ENTITY authorName.accesskey "А">
 <!ENTITY pageColorHeader "Оформление по умолчанию">
-<!ENTITY defaultColors.label "Цвета пользователя по умолчанию (не устанавливать цвета на странице)">
+<!ENTITY defaultColors.label "Цвета по умолчанию у пользователя (не указывать цвета на странице)">
 <!ENTITY defaultColors.accesskey "Ц">
 <!ENTITY customColors.label "Использовать цвета:">
 <!ENTITY customColors.accesskey "И">

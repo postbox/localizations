@@ -1,6 +1,6 @@
-<!ENTITY matchAll.label     "Подходящие под все условия">
+﻿<!ENTITY matchAll.label     "Отвечающие всем условиям">
 <!ENTITY matchAll.accesskey "a">
-<!ENTITY matchAny.label     "Подходящие под любое из условий">
+<!ENTITY matchAny.label     "Отвечающие любому из условий">
 <!ENTITY matchAny.accesskey "o">
 <!ENTITY matchAllMsgs.label     "Все сообщения">
 <!ENTITY matchAllMsgs.accesskey "M">

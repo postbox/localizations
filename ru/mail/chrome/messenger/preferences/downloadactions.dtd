@@ -1,10 +1,10 @@
-<!ENTITY  downloadactionsWindow.title         "Загрузить действия">
+﻿<!ENTITY  downloadactionsWindow.title         "Загрузить действия">
 <!ENTITY  window.width                         "480">
 <!ENTITY  window.height                        "310">
 
-<!ENTITY  fileTypesDescription.label          "Automatically perform the associated Action with each of the following file types:">
+<!ENTITY  fileTypesDescription.label          "Автоматически выполнять назначенное действие для каждого из следующих типов файлов:">
 
-<!ENTITY  fileHandlerColumn.label             "Action">
+<!ENTITY  fileHandlerColumn.label             "Действие">
 <!ENTITY  fileHandlerColumn.accesskey         "A">
 <!ENTITY  fileTypeColumn.label                "Тип файла">
 <!ENTITY  fileTypeColumn.accesskey            "T">
@@ -13,9 +13,9 @@
 <!ENTITY  fileExtensionColumn.label           "Расширение">
 <!ENTITY  fileExtensionColumn.accesskey       "E">
 
-<!ENTITY  remove.label                        "Remove Action">
+<!ENTITY  remove.label                        "Удалить действие">
 <!ENTITY  remove.accesskey                    "R">
-<!ENTITY  edit.label                          "Изменить действие...">
+<!ENTITY  edit.label                          "Изменить действие…">
 <!ENTITY  edit.accesskey                      "C">
 
 <!ENTITY  windowClose.key                     "w">

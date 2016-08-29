@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -55,7 +55,7 @@
 <!ENTITY TextAreaWrap.label "Режим переноса:">
 <!ENTITY TextAreaWrap.accessKey "Р">
 <!ENTITY WrapDefault.value "По умолчанию">
-<!ENTITY WrapOff.value "Отключён">
+<!ENTITY WrapOff.value "Отключен">
 <!ENTITY WrapHard.value "Жесткий">
 <!ENTITY WrapSoft.value "Мягкий">
 <!ENTITY WrapPhysical.value "Физический">

@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -37,12 +37,12 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Цвета и фон страницы">
 <!ENTITY pageColors.label "Цвета страницы">
-<!ENTITY defaultColorsRadio.label "Цвета пользователя по умолчанию (не указывать цвета)">
+<!ENTITY defaultColorsRadio.label "Цвета по умолчанию у пользователя (не указывать цвета на странице)">
 <!ENTITY defaultColorsRadio.accessKey "Ц">
 <!ENTITY defaultColorsRadio.tooltip "Использование цветов, указанных в браузере пользователя">
-<!ENTITY customColorsRadio.label "Использовать цвета:">
+<!ENTITY customColorsRadio.label "Использовать другие цвета:">
 <!ENTITY customColorsRadio.accessKey "И">
-<!ENTITY customColorsRadio.tooltip "Эти настройки цвета перекрывают настройки в браузере пользователя">
+<!ENTITY customColorsRadio.tooltip "Эти настройки цвета переопределяют настройки в браузере пользователя">
 <!ENTITY normalText.label "Обычный текст">
 <!ENTITY normalText.accessKey "О">
 <!ENTITY linkText.label "Ссылка">

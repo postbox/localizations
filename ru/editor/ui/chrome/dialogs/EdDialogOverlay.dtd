@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -42,8 +42,8 @@
 <!ENTITY chooseFileButton.accessKey "р">
 <!ENTITY chooseFileLinkButton.label "Выбрать файл…">
 <!ENTITY chooseFileLinkButton.accessKey "б">
-<!ENTITY makeUrlRelative.label "Относительный URL">
+<!ENTITY makeUrlRelative.label "Относительный URL-адрес">
 <!ENTITY makeUrlRelative.accessKey "И">
-<!ENTITY makeUrlRelative.tooltip "Изменить абсолютный URL на относительный. Перед изменением вам нужно сохранить страницу.">
-<!ENTITY LinkURLEditField.label "Введите адрес веб-страницы, локального файла или выберите якорь или заголовок с именем из списка:">
+<!ENTITY makeUrlRelative.tooltip "Изменить абсолютный URL-адрес на относительный. Перед изменением необходимо сохранить страницу.">
+<!ENTITY LinkURLEditField.label "Введите адрес веб-страницы или локального файла либо выберите якорь или заголовок с именем в списке:">
 <!ENTITY LinkURLEditField.accessKey "а">

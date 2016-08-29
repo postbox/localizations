@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -57,7 +57,7 @@
 <!ENTITY tablePadding.label "Поля:">
 <!ENTITY tablePadding.accessKey "П">
 <!ENTITY tablePxBetwCells.label "пикселов между ячейками">
-<!ENTITY tablePxBetwBrdrCellContent.label "пикселов между границей ячейки и её содержимым">
+<!ENTITY tablePxBetwBrdrCellContent.label "пикселов между границей ячейки и ее содержимым">
 <!ENTITY tableAlignment.label "Выравнивание таблицы:">
 <!ENTITY tableAlignment.accessKey "ы">
 <!ENTITY tableCaption.label "Заголовок:">
@@ -68,7 +68,7 @@
 <!ENTITY tableCaptionRight.label "Справа от таблицы">
 <!ENTITY tableCaptionNone.label "Нет">
 <!ENTITY tableInheritColor.label "(Будет виден фон страницы)">
-<!ENTITY cellSelection.label "Выделение">
+<!ENTITY cellSelection.label "Выбор">
 <!ENTITY cellSelectCell.label "Ячейка">
 <!ENTITY cellSelectRow.label "Строка">
 <!ENTITY cellSelectColumn.label "Столбец">
@@ -76,7 +76,7 @@
 <!ENTITY cellSelectNext.accessKey "С">
 <!ENTITY cellSelectPrevious.label "Предыдущая">
 <!ENTITY cellSelectPrevious.accessKey "П">
-<!ENTITY applyBeforeChange.label "Перед изменением выделения будут применены текущие поправки.">
+<!ENTITY applyBeforeChange.label "Перед изменением выбора будут применены текущие исправления.">
 <!ENTITY cellContentAlignment.label "Выравнивание содержимого">
 <!ENTITY cellHorizontal.label "Горизонтальное:">
 <!ENTITY cellHorizontal.accessKey "з">
@@ -90,9 +90,9 @@
 <!ENTITY cellTextWrap.accessKey "р">
 <!ENTITY cellWrap.label "Переносить">
 <!ENTITY cellNoWrap.label "Без переноса">
-<!ENTITY cellAlignTop.label "Поверху">
-<!ENTITY cellAlignMiddle.label "Посередине">
-<!ENTITY cellAlignBottom.label "Понизу">
+<!ENTITY cellAlignTop.label "Сверху">
+<!ENTITY cellAlignMiddle.label "По центру">
+<!ENTITY cellAlignBottom.label "Снизу">
 <!ENTITY cellAlignJustify.label "По ширине">
 <!ENTITY cellInheritColor.label "(Будет виден фон таблицы)">
 <!ENTITY cellUseCheckboxHelp.label "Установите флажки для определения свойств, применяемых ко всем выбранным ячейкам">
