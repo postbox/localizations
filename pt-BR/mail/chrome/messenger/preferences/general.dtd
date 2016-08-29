@@ -40,7 +40,7 @@
 <!ENTITY pbChromeFontSizeSmall.label      "Pequeno">
 <!ENTITY pbChromeFontSizeMedium.label     "Médio">
 <!ENTITY pbChromeFontSizeLarge.label      "Grande">
-<!ENTITY pbChromeFontSize.label           "Tamanho da fonte da lista de mensagens e da pasta:">
+<!ENTITY pbChromeFontSize.label           "Tamanho da fonte para a lista de mensagens e pastas:">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 
