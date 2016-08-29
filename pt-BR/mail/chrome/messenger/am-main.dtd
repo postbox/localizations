@@ -5,7 +5,7 @@
 <!ENTITY accountNameDesc.label "O nome da conta é usado para identificar cada conta">
 <!ENTITY name.label "Nome:">
 <!ENTITY name.accesskey "N">
-<!ENTITY email.label "Email:">
+<!ENTITY email.label "E-mail:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Responder a:">
 <!ENTITY replyTo.accesskey "R">
