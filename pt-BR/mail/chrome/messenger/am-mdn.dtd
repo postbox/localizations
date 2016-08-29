@@ -1,9 +1,9 @@
-<!ENTITY pane.title                   "Confirmações de leitura">
-<!ENTITY useGlobalPrefs.label         "Usar minhas opções padrão para confirmações de leitura">
+<!ENTITY pane.title                   "Confirmações de entrega">
+<!ENTITY useGlobalPrefs.label         "Usar minhas opções padrão para confirmações de entrega">
 <!ENTITY useGlobalPrefs.accesskey     "a">
-<!ENTITY useCustomPrefs.label         "Personalizar minhas confirmações de leitura para esta conta">
+<!ENTITY useCustomPrefs.label         "Personalizar minhas confirmações de entrega para esta conta">
 <!ENTITY useCustomPrefs.accesskey     "P">
-<!ENTITY requestReceipt.label         "Sempre solicitar uma confirmação de leitura">
+<!ENTITY requestReceipt.label         "Sempre solicitar uma confirmação de entrega">
 <!ENTITY requestReceipt.accesskey     "S">
 <!ENTITY receiptArrive.label          "Ao receber uma confirmação que eu solicitei:">
 <!ENTITY leaveIt.label                "Deixar na pasta “Entrada”">
@@ -11,8 +11,8 @@
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Mover para a pasta “Enviados”">
 <!ENTITY moveToSent.accesskey         "v">
-<!ENTITY requestMDN.label             "Se alguém me solicitar uma confirmação de leitura:">
-<!ENTITY returnSome.label             "Permitir confirmações de leitura nestas situações:">
+<!ENTITY requestMDN.label             "Se alguém me solicitar uma confirmação de entrega:">
+<!ENTITY returnSome.label             "Permitir confirmações de entrega nestas situações:">
 <!ENTITY returnSome.accesskey         "r">
 <!ENTITY never.label                  "Não enviar">
 <!ENTITY never.accesskey              "N">
