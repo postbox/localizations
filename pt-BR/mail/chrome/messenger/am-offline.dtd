@@ -1,5 +1,5 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para economizar espaço em disco, não receber:">
-<!ENTITY offlineNewFolder.label "Quando eu criar novas pastas, habilitar o uso offline nelas">
+<!ENTITY offlineNewFolder.label "Quando eu criar novas pastas, dispnibilizá-las para uso em modo offline">
 <!ENTITY offlineNewFolder.accesskey "c">
 <!ENTITY offlineNotDownload.label "Mensagens com mais de">
 <!ENTITY offlineNotDownload.accesskey "s">
@@ -22,7 +22,7 @@
 <!ENTITY retentionKeepUnread.accesskey "r">
 <!ENTITY nntpRemoveBody.label "Apenas corpo de mensagens menor que">
 <!ENTITY nntpRemoveBody.accesskey "O">
-<!ENTITY offlineSelectNntp.label "Selecionar newsgroups para leitura offline…">
+<!ENTITY offlineSelectNntp.label "Selecionar grupos de notícias para leitura offline…">
 <!ENTITY offlineSelectImap.label "Selecionar pastas para uso offline…">
 <!ENTITY offlineSelect.accesskey "S">
 <!ENTITY makeInboxMsgsAvailable.label "Deixar as mensagens na minha Caixa de Entrada disponíveis quando eu estiver trabalhando offline">
