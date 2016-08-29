@@ -22,7 +22,7 @@
 <!ENTITY overrideNamespaces.label "Permitir que o servidor sobrescreva estes namespaces">
 <!ENTITY overrideNamespaces.accesskey "e">
 <!ENTITY pop3Desc.label "Ao receber mensagens POP deste servidor, salvá-las na:" >
-<!ENTITY folderStorage.label "Onde armazenar emails">
+<!ENTITY folderStorage.label "Onde armazenar e-mails">
 <!ENTITY globalInbox.label "Pasta Entrada da conta Pastas Locais">
 <!ENTITY globalInbox.accesskey "E">
 <!ENTITY accountDirectory.label "Pasta Entrada de uma conta própria">
