@@ -5,11 +5,11 @@
 <!ENTITY fileMenu.accesskey                             "A">
 <!ENTITY newMenu.label                                  "Novo">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newCard.label                                  "Cartão do catálogo de endereços...">
+<!ENTITY newCard.label                                  "Cartão de visita...">
 <!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newCard.accesskey                              "C">
 <!ENTITY newCard.key                                    "N">
-<!ENTITY newListCmd.label                               "Lista de emails…">
+<!ENTITY newListCmd.label                               "Lista de e-mails…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Catálogo…">
@@ -148,7 +148,7 @@
 <!ENTITY throbberItem.title                             "Indicador de atividade">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "Criar um novo cartão no catálogo de endereços">
+<!ENTITY newcardButton.tooltip                          "Criar um novo cartão de visita">
 <!ENTITY newlistButton.tooltip                          "Criar nova lista">
 <!ENTITY editButton.tooltip                             "Editar o cartão selecionado">
 <!ENTITY newmsgButton.tooltip                           "Nova mensagem">
@@ -159,7 +159,7 @@
 <!ENTITY dirTreeHeader.label                            "Catálogos de endereços">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Localizar nome ou email">
+<!ENTITY SearchNameOrEmail.label                        "Localizar nome ou e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "z">
 <!ENTITY advancedButton.tooltip                         "Mais opções de pesquisa">
 <!ENTITY quickSearchCmd.key                             "K">
@@ -168,7 +168,7 @@
 <!-- Results Pane -->
 <!ENTITY GeneratedName.label                            "Nome">
 <!ENTITY GeneratedName.accesskey                        "N">
-<!ENTITY PrimaryEmail.label                             "Email">
+<!ENTITY PrimaryEmail.label                             "E-mail">
 <!ENTITY PrimaryEmail.accesskey                         "E">
 <!ENTITY ScreenName.label                               "Nome de tela">
 <!ENTITY ScreenName.accesskey                           "t">
@@ -176,7 +176,7 @@
 <!ENTITY Company.accesskey                              "m">
 <!ENTITY NickName.label                                 "Apelido">
 <!ENTITY NickName.accesskey                             "A">
-<!ENTITY SecondEmail.label                              "Email alternativo">
+<!ENTITY SecondEmail.label                              "E-mail alternativo">
 <!ENTITY SecondEmail.accesskey                          "v">
 <!ENTITY Department.label                               "Setor">
 <!ENTITY Department.accesskey                           "S">
@@ -200,13 +200,13 @@
 <!ENTITY _PhoneticName.accesskey                        "f">
 
 <!-- Results pane context menu -->
-<!ENTITY composeEmail.label                             "Criar email para">
+<!ENTITY composeEmail.label                             "Criar e-mail para">
 <!ENTITY composeEmail.accesskey                         "C">
 <!ENTITY deleteAddrBookCard.label                       "Excluir">
 <!ENTITY deleteAddrBookCard.accesskey                   "D">
 <!ENTITY newAddrBookCard.label                          "Novo cartão...">
 <!ENTITY newAddrBookCard.accesskey                      "N">
-<!ENTITY newAddrBookMailingList.label                   "Criar nova lista de emails...">
+<!ENTITY newAddrBookMailingList.label                   "Criar nova lista de destinatários...">
 <!ENTITY newAddrBookMailingList.accesskey               "M">
 <!ENTITY addrBookCardProperties.label                   "Propriedades">
 <!ENTITY addrBookCardProperties.accesskey               "P">
