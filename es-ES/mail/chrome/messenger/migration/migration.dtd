@@ -1,8 +1,8 @@
 
-<!ENTITY migrationWizard.title          "Asistente para importar">
+<!ENTITY migrationWizard.title          "Asistente de importación">
 
-<!ENTITY importFrom.label               "Opciones de importación, Ajustes de cuenta, Libreta de direcciones y otros datos desde:">
-<!ENTITY importFromUnix.label           "Importar preferencias, Ajustes de cuenta, Libreta de direcciones y otros datos desde:">
+<!ENTITY importFrom.label               "Opciones de importación, Configuración de cuenta, Libreta de direcciones y otros datos desde:">
+<!ENTITY importFromUnix.label           "Importar preferencias, Configuración de cuenta, Libreta de direcciones y otros datos desde:">
 
 <!ENTITY importFromThunderbird.label    "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
@@ -40,30 +40,30 @@
 -->
 
 <!ENTITY start.left "279">
-<!ENTITY migrationMac.title             "Account Migration Assistant">
+<!ENTITY migrationMac.title             "Asistente de migración de cuentas">
 <!ENTITY explanation-text.left "26">
 <!ENTITY startMac.top "266">
-<!ENTITY thanks.label                   "Thanks for trying out &brandShortName;!">
+<!ENTITY thanks.label                   "¡Gracias por probar &brandShortName;!">
 <!ENTITY thanks.top "130">
 <!ENTITY guide.top "159">
 <!ENTITY title-text.top "15">
 <!ENTITY import.top "86">
 <!ENTITY radio.top "72">
 <!ENTITY progress.top "140">
-<!ENTITY quickStart1.label              "See the ">
-<!ENTITY tagline.label                  "A Better Way To Do Email">
+<!ENTITY quickStart1.label              "Ver el ">
+<!ENTITY tagline.label                  "El mejor modo de trabajar con email">
 <!ENTITY tagline.top "65">
 <!ENTITY explanation-text.top "50">
 <!ENTITY tagline.left "45">
-<!ENTITY welcome.title                  "Welcome to &brandShortName;">
-<!ENTITY quickStart2.label              "Quickstart Guide">
+<!ENTITY welcome.title                  "Bienvenido a &brandShortName;">
+<!ENTITY quickStart2.label              "Guía rápida">
 <!ENTITY start.top "264">
-<!ENTITY importOptions.title            "Import Options">
-<!ENTITY migration.title                "Account Migration Wizard">
+<!ENTITY importOptions.title            "Opciones de importación">
+<!ENTITY migration.title                "Asistente de migración de cuentas">
 <!ENTITY title-text.left "14">
 <!ENTITY thanks.left "35">
-<!ENTITY quickStart3.label              " to learn about all the features.">
-<!ENTITY start.label                    "Start using &brandShortName;">
+<!ENTITY quickStart3.label              " para aprender sobre todas las opciones.">
+<!ENTITY start.label                    "Empiece a usar &brandShortName;">
 
 
 <!--
@@ -71,4 +71,4 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY cleanInstall.accesskey  	"C">
-<!ENTITY cleanInstall.label             "Clean install (recommended)">
+<!ENTITY cleanInstall.label             "Instalación limpia (recomendada)">
