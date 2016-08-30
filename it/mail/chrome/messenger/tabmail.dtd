@@ -4,7 +4,7 @@
 <!ENTITY  closeTab.label           "Chiudi scheda">
 <!ENTITY  closeTab.accesskey       "C">
 <!ENTITY  closeOtherTabs.accesskey "o">
-<!ENTITY  closeOtherTabs.label     "Chiudi altre schede">
+<!ENTITY  closeOtherTabs.label     "Chiudi le altre schede">
 <!ENTITY  reloadAllTabs.label      "Ricarica tutte le schede">
 <!ENTITY  reloadAllTabs.accesskey  "a">
 <!ENTITY  reloadTab.label          "Carica scheda">
