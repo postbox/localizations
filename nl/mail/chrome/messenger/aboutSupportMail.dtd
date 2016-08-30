@@ -1,26 +1,26 @@
-<!ENTITY aboutSupport.appBasicsAppBuildID "Application Build ID">
+<!ENTITY aboutSupport.appBasicsAppBuildID "Applicatie Build ID">
 
-<!ENTITY aboutSupport.accountsTitle "Mail and News Accounts">
-<!ENTITY aboutSupport.showPrivateData.mainText "Include account names">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(possibly identifying information)">
+<!ENTITY aboutSupport.accountsTitle "Mail en Nieuws Accounts">
+<!ENTITY aboutSupport.showPrivateData.mainText "Inclusief account namen">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(identificeert mogelijk informatie)">
 <!ENTITY aboutSupport.accountsID "ID">
-<!ENTITY aboutSupport.accountsName "Name">
-<!ENTITY aboutSupport.accountsIncomingServer "Incoming server">
-<!ENTITY aboutSupport.accountsOutgoingServers "Outgoing servers">
-<!ENTITY aboutSupport.accountsServerName "Name">
-<!ENTITY aboutSupport.accountsConnSecurity "Connection security">
-<!ENTITY aboutSupport.accountsAuthMethod "Authentication method">
-<!ENTITY aboutSupport.filterCount "Filter Count">
-<!ENTITY aboutSupport.accountsDefault "Default?">
+<!ENTITY aboutSupport.accountsName "Naam">
+<!ENTITY aboutSupport.accountsIncomingServer "Inkomende server">
+<!ENTITY aboutSupport.accountsOutgoingServers "Uitgaande servers">
+<!ENTITY aboutSupport.accountsServerName "Naam">
+<!ENTITY aboutSupport.accountsConnSecurity "Verbinding beveiliging">
+<!ENTITY aboutSupport.accountsAuthMethod "Autenticatie methode">
+<!ENTITY aboutSupport.filterCount "Filter Aantal">
+<!ENTITY aboutSupport.accountsDefault "Standaard?">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Send via email">
+<!ENTITY aboutSupport.sendViaEmail.label "Verzend via e-mail">
 
-<!ENTITY aboutSupport.pageTitle2 "Configuration Data">
+<!ENTITY aboutSupport.pageTitle2 "Configuratie Data">
 
 <!ENTITY aboutSupport.indexerTitle "Indexer">
 
-<!ENTITY aboutSupport.miscTitle "Miscellaneous">
+<!ENTITY aboutSupport.miscTitle "Divers">
 
-<!ENTITY aboutSupport.appBasicsLicenseName "License Name">
-<!ENTITY aboutSupport.ageInDays "Days In Use">
-<!ENTITY aboutSupport.pbState "State">
+<!ENTITY aboutSupport.appBasicsLicenseName "Licentie Naam">
+<!ENTITY aboutSupport.ageInDays "Dagen In Gebruik">
+<!ENTITY aboutSupport.pbState "Staat">
