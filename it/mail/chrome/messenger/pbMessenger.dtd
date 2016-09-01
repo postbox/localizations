@@ -199,7 +199,7 @@
 <!ENTITY searchFromField.label                  "Da">
 <!ENTITY searchToField.label                    "A">
 <!ENTITY searchSubjectField.label               "Oggetto">
-<!ENTITY searchTopicField.label                 "Argomento>
+<!ENTITY searchTopicField.label                 "Argomento">
 <!ENTITY searchBeforeField.label                "Prima">
 <!ENTITY searchAfterField.label                 "Dopo">
 <!-- The number of characters that can be displayed in the search field textboxes -->
