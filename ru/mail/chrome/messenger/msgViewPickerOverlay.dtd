@@ -8,7 +8,7 @@
 <!ENTITY viewUnread.accesskey "U">
 <!ENTITY viewTags.label "Метки">
 <!ENTITY viewTags.accesskey "T">
-<!ENTITY viewCustomViews.label "Настраиваемый вид>
+<!ENTITY viewCustomViews.label "Настраиваемый вид">
 <!ENTITY viewCustomViews.accesskey "V">
 <!ENTITY viewVirtualFolder.label "Сохранить вид как папку…">
 <!ENTITY viewVirtualFolder.accesskey "S">

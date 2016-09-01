@@ -68,6 +68,6 @@ entities below were automatically added by l10nmerge
 <!ENTITY focusPaneSubscriptionsAttribute.label     "Inscrições">
 <!ENTITY focusPanePendingAttribute.label           "Pendente">
 <!ENTITY focusPaneToMeOnlyAttribute.label          "Apenas para mim">
-<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  Definir cor do tópico">
+<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Definir cor do tópico">
 <!ENTITY focusPaneReadAttribute.label           "Lidos">
 <!ENTITY pbFavoriteContactsContextMenu-email.accesskey  "C">
