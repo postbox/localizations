@@ -365,7 +365,7 @@
 
 <!ENTITY pbContentTextContextMenu-evernote.label       "Lägg till i Evernote">
 <!ENTITY fullScreenMode.label "Starta helskärmsläge">
-<!ENTITY pbMessagePaneContext-evernote.label     Lägg till i Evernote">
+<!ENTITY pbMessagePaneContext-evernote.label     "Lägg till i Evernote">
 <!ENTITY pbContentTextContextMenu-date.accesskey        "d">
 <!ENTITY fullScreenMode.accesskey "l">
 <!ENTITY evernoteButton.tooltip "Lägg till i Evernote">
