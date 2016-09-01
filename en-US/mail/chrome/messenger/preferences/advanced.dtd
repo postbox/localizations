@@ -127,5 +127,3 @@
 <!ENTITY pbOpenMessage.label "Open Message">
 <!ENTITY pbOpenFolderPane.label "Open Folder Pane">
 <!ENTITY pbCloseFolderPane.label "Close Folder Pane">
-
-<!ENTITY itemQuickPost.label     "Quick Post">

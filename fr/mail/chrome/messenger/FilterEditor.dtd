@@ -78,3 +78,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY pendingStatus.label "En cours de traitement">
 <!ENTITY notReminderStatus.label "Supprimer le rappel">
 <!ENTITY unreadStatus.label "Non lu">
+
+<!ENTITY quickPost.label "Quick Post">
