@@ -3,7 +3,7 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY addAccountDialog.title   "Configurar el uso compartido de archivos en la nube">
 <!ENTITY addAccountDialog.menuTitle "Seleccionar un servicio de almacenamiento en línea">
-<!ENTITY addAccountDialog.style "width: 40em; min.height: 20em;">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Nombre de la cuenta:">
 <!ENTITY addAccountDialog.noAccountText "Lo sentimos, pero la versión actual de &brandShortName; solamente permite una cuenta por cada servicio de almacenamiento en línea.">
 <!ENTITY addAccountDialog.createAccountText2 "Puede enviar enlaces de archivos en lugar de adjuntos usando uno de varios servicios de almacenamiento en línea. Por favor, configure una cuenta ya existente o registre una cuenta nueva.">
