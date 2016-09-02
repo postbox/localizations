@@ -1,26 +1,26 @@
-<!ENTITY aboutSupport.appBasicsAppBuildID "Application Build ID">
+<!ENTITY aboutSupport.appBasicsAppBuildID "Ref. de la compilación de aplicación">
 
-<!ENTITY aboutSupport.accountsTitle "Mail and News Accounts">
-<!ENTITY aboutSupport.showPrivateData.mainText "Include account names">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(possibly identifying information)">
-<!ENTITY aboutSupport.accountsID "ID">
-<!ENTITY aboutSupport.accountsName "Name">
-<!ENTITY aboutSupport.accountsIncomingServer "Incoming server">
-<!ENTITY aboutSupport.accountsOutgoingServers "Outgoing servers">
-<!ENTITY aboutSupport.accountsServerName "Name">
-<!ENTITY aboutSupport.accountsConnSecurity "Connection security">
-<!ENTITY aboutSupport.accountsAuthMethod "Authentication method">
-<!ENTITY aboutSupport.filterCount "Filter Count">
-<!ENTITY aboutSupport.accountsDefault "Default?">
+<!ENTITY aboutSupport.accountsTitle "Cuentas de correo y noticias">
+<!ENTITY aboutSupport.showPrivateData.mainText "Incluir nombres de cuentas">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(posiblemente información identificable)">
+<!ENTITY aboutSupport.accountsID "Ref.">
+<!ENTITY aboutSupport.accountsName "Nombre">
+<!ENTITY aboutSupport.accountsIncomingServer "Servidor entrante">
+<!ENTITY aboutSupport.accountsOutgoingServers "Servidores salientes">
+<!ENTITY aboutSupport.accountsServerName "Nombre">
+<!ENTITY aboutSupport.accountsConnSecurity "Seguridad de la conexión">
+<!ENTITY aboutSupport.accountsAuthMethod "Método de autenticación">
+<!ENTITY aboutSupport.filterCount "Número de filtros">
+<!ENTITY aboutSupport.accountsDefault "¿Defecto?">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Send via email">
+<!ENTITY aboutSupport.sendViaEmail.label "Enviar por email">
 
-<!ENTITY aboutSupport.pageTitle2 "Configuration Data">
+<!ENTITY aboutSupport.pageTitle2 "Datos de configuración">
 
-<!ENTITY aboutSupport.indexerTitle "Indexer">
+<!ENTITY aboutSupport.indexerTitle "Indexador">
 
-<!ENTITY aboutSupport.miscTitle "Miscellaneous">
+<!ENTITY aboutSupport.miscTitle "Misceláneo">
 
-<!ENTITY aboutSupport.appBasicsLicenseName "License Name">
-<!ENTITY aboutSupport.ageInDays "Days In Use">
-<!ENTITY aboutSupport.pbState "State">
+<!ENTITY aboutSupport.appBasicsLicenseName "Nombre de la licencia">
+<!ENTITY aboutSupport.ageInDays "Días en uso">
+<!ENTITY aboutSupport.pbState "Estado">

@@ -4,7 +4,7 @@
 <!ENTITY checkNow.label             "Comprobar ahora">
 <!ENTITY checkNow.accesskey         "C">
 
-<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.label              "Permitir que Spotlight busque mensajes">
 <!ENTITY allowSpotlight.accesskey          "w">
 
 <!ENTITY location.label                   "Dirección:">
@@ -37,10 +37,10 @@
 
 <!-- message list font size -->
 
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
+<!ENTITY pbChromeFontSizeSmall.label      "Pequeña">
+<!ENTITY pbChromeFontSizeMedium.label     "Mediana">
+<!ENTITY pbChromeFontSizeLarge.label      "Grande">
+<!ENTITY pbChromeFontSize.label           "Tamaño de la letra de la Carpeta y Lista de mensajes:">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 
@@ -48,20 +48,20 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+<!ENTITY enableNotificationCenter.label   "Usar el Centro de notificaciones">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY useRetina.label				  "Retina Display">
+<!ENTITY useRetina.label				  "Pantalla de retina">
 
-<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
+<!ENTITY showProfileManager.label   "Mostrar el Perfil del administrador al inicio">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
+<!ENTITY storeLocation.label              "Almacenar tópicos, firmas, respuestas y la libreta de direcciones en:">

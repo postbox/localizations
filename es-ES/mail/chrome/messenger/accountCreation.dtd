@@ -105,31 +105,31 @@
 # entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY name.placeholder                  "First and Last Name">
+<!ENTITY name.placeholder                  "Nombre y apellidos">
 <!ENTITY email.placeholder                 "email@example.com">
-<!ENTITY password.placeholder              "Password">
+<!ENTITY password.placeholder              "Contraseña">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbProfileInformation.label "Profile Information">
-<!ENTITY pbManualSetup.label "Manual Setup">
+<!ENTITY pbProfileInformation.label "Información del perfil">
+<!ENTITY pbManualSetup.label "Configuración manual">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY important.label "IMPORTANT:">
-<!ENTITY learnMore.label "Learn more...">
+<!ENTITY important.label "IMPORTANTE:">
+<!ENTITY learnMore.label "Más información...">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pb.displayname.label "Description:">
-<!ENTITY displayname.placeholder         "Work, Personal, etc.">
+<!ENTITY pb.displayname.label "Descripción:">
+<!ENTITY displayname.placeholder         "Trabajo, Personal, etc.">
 <!ENTITY displayname.accesskey           "D">

@@ -67,9 +67,9 @@
 <!ENTITY kb.label "KB">
 
 <!-- Certificates -->
-<!ENTITY certSelection.label "When a server requests my certificate:">
-<!ENTITY certs.auto                      "Select one automatically">
-<!ENTITY certs.ask                       "Ask me every time">
+<!ENTITY certSelection.label "Cuando un servidor pide mi certificado:">
+<!ENTITY certs.auto                      "Seleccionar uno automáticamente">
+<!ENTITY certs.ask                       "Pregúntame en cada ocasión">
 
 <!ENTITY viewCertificates.label         "Ver certificados">
 <!ENTITY viewCertificates.accesskey     "a">
@@ -81,27 +81,27 @@
 <!ENTITY viewSecurityDevices.accesskey  "D">
 
 <!-- Web Services -->
-<!ENTITY webservicesInfo.label          "Configure the Web services used within Postbox.">
+<!ENTITY webservicesInfo.label          "Configurar los servicios web utilizados con Postbox.">
 
-<!ENTITY textStartUp   "When starting up:">
-<!ENTITY radioRememberPrevState "Remember previous online state">
+<!ENTITY textStartUp   "Al inicio:">
+<!ENTITY radioRememberPrevState "Recuerda el estado en línea previo">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe "Ask me for online state at startup">
+<!ENTITY radioAskMe "Pregúntame por mi estado en línea al inicio">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline "Always start up online">
+<!ENTITY radioAlwaysOnline "Iniciar siempre en línea">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline1 "When going online:">
-<!ENTITY radioAutoSend1 "Send unsent messages">
-<!ENTITY radioNotSend1 "Do not send unsent messages">
-<!ENTITY radioAskUnsent1 "Ask to send unsent messages">
+<!ENTITY textGoingOnline1 "Al conectar:">
+<!ENTITY radioAutoSend1 "Enviar mensajes pendientes">
+<!ENTITY radioNotSend1 "No enviar mensajes pendientes">
+<!ENTITY radioAskUnsent1 "Preguntar si quiero enviar mensajes pendientes">
 
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload "Yes">
+<!ENTITY textGoingOffline "¿Desea descargar los mensajes para usarlos después de desconectar?">
+<!ENTITY radioAutoDownload "Sí">
 <!ENTITY radioAutoDownload.accesskey "e">
 <!ENTITY radioNotDownload "No">
 <!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload "Ask me">
+<!ENTITY radioAskDownload "Pregúntame">
 <!ENTITY radioAskDownload.accesskey "A">
 
 
@@ -109,37 +109,37 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY textGoingOnline1 "When going online:">
-<!ENTITY radioNotSend1 "Do not send unsent messages">
-<!ENTITY radioAskUnsent1 "Ask to send unsent messages">
-<!ENTITY radioAutoSend1 "Send unsent messages">
-<!ENTITY certSelection.label "When a server requests my certificate:">
+<!ENTITY textGoingOnline1 "Al conectar:">
+<!ENTITY radioNotSend1 "No enviar mensajes pendientes">
+<!ENTITY radioAskUnsent1 "Preguntar si deseo enviar los mensajes pendientes">
+<!ENTITY radioAutoSend1 "Enviar mensajes pendientes">
+<!ENTITY certSelection.label "Cuando un servidor pide mi certificado:">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
+<!ENTITY pbUseGravatar.label "Usar el servicio Gravatar para buscar fotos de contactos.">
 <!ENTITY useGmailShortcuts.accesskey "l">
 <!ENTITY pbUseGravatar.accesskey "g">
-<!ENTITY useGmailShortcuts.label "Use Gmail keyboard shortcuts">
+<!ENTITY useGmailShortcuts.label "Usar las teclas de acceso directo de Gmail">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbUseGoogleCalendar.label "Use Google Calendar for detected dates.">
-<!ENTITY pbNextMessage.label "Select Next Message">
-<!ENTITY pbPreviousMessage.label "Select Previous Message">
-<!ENTITY pbSwipeLeft.label "Swipe Left:">
-<!ENTITY pbCloseFolderPane.label "Close Folder Pane">
-<!ENTITY pbOpenFolderPane.label "Open Folder Pane">
-<!ENTITY pbArchiveMessage.label "Archive Message">
-<!ENTITY pbDeleteMessage.label "Delete Message">
-<!ENTITY pbOpenMessage.label "Open Message">
-<!ENTITY pbSwipeRight.label "Swipe Right:">
+<!ENTITY pbUseGoogleCalendar.label "Usar Google Calendar para las fechas detectadas.">
+<!ENTITY pbNextMessage.label "Seleccionar el siguiente mensaje">
+<!ENTITY pbPreviousMessage.label "Seleccionar el mensaje anterior">
+<!ENTITY pbSwipeLeft.label "Deslizar a la izquierda:">
+<!ENTITY pbCloseFolderPane.label "Cerrar el panel de la carpeta">
+<!ENTITY pbOpenFolderPane.label "Abrir el panel de la carpeta">
+<!ENTITY pbArchiveMessage.label "Archivar mensaje">
+<!ENTITY pbDeleteMessage.label "Eliminar mensaje">
+<!ENTITY pbOpenMessage.label "Abrir mensaje">
+<!ENTITY pbSwipeRight.label "Deslizar a la derecha:">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
 
 
@@ -147,8 +147,8 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY showNextMessage.label          "Next Message">
-<!ENTITY showPreviousMessage.label      "Previous Message">
-<!ENTITY deleteSelectOrder.label        "After deleting a message select the:">
+<!ENTITY showNextMessage.label          "Siguiente mensaje">
+<!ENTITY showPreviousMessage.label      "Mensaje anterior">
+<!ENTITY deleteSelectOrder.label        "Después de eliminar un mensaje, seleccionar el:">
 
-<!ENTITY itemQuickPost.label     "Quick Post">
+<!ENTITY itemQuickPost.label     "Publicación rápida">

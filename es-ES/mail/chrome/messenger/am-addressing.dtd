@@ -30,25 +30,25 @@
 <!ENTITY place.accesskey                      "f">
 <!ENTITY belowText.label                      "bajo el texto citado (recomendado)">
 <!ENTITY aboveText.label                      "Bajo mi respuesta (sobre el texto citado)">
-<!ENTITY includeSigOnReply.label              "Include signature for replies">
+<!ENTITY includeSigOnReply.label              "Incluir firma en contestaciones">
 <!ENTITY includeSigOnReply.accesskey          "s">
-<!ENTITY includeSigOnForward.label            "Include signature for forwards">
+<!ENTITY includeSigOnForward.label            "Incluir firma en reenvíos">
 <!ENTITY includeSigOnForward.accesskey        "w">
 
 <!-- Postbox Summary Mode -->
-<!ENTITY pbSummarizeOnReply.label             "By">
+<!ENTITY pbSummarizeOnReply.label             "Por">
 <!ENTITY pbSummarizeOnReply.accesskey         "y">
-<!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
-<!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
-<!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">
-<!ENTITY pbSummarizeOnReply.photos.label       "Include contact photos for each participant when summarizing">
+<!ENTITY pbSummarizeOnReply.normal.label      "citando el mensaje seleccionado">
+<!ENTITY pbSummarizeOnReply.summarize.label   "resumiendo la conversación entera">
+<!ENTITY pbSummarizeOnReply.lastused.label    "usando la última configuración utilizada">
+<!ENTITY pbSummarizeOnReply.photos.label       "Incluir fotos de contactos para cada participante al resumir">
 <!ENTITY pbSummarizeOnReply.photos.accesskey   "I">
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY markNotInWhitelist.label             "Mark addresses not ending with:">
+<!ENTITY markNotInWhitelist.label             "Marcar direcciones que no terminen en:">
 <!ENTITY markInTrustedList.accesskey          "d">
 <!ENTITY markNotInWhitelist.accesskey         "m">
-<!ENTITY markInTrustedList.label              "Mark addresses when sending to:">
+<!ENTITY markInTrustedList.label              "Marcar direcciones cuando se envíen a:">
