@@ -38,7 +38,7 @@
 <!ENTITY subscribeDialog.title        "Iscrizioni">
 <!ENTITY subscribeButton.label        "Iscriviti">
 <!ENTITY subscribeButton.accesskey    "S">
-<!ENTITY unsubscribeButton.label      "Rimuovi iscrizione">
+<!ENTITY unsubscribeButton.label      "Disiscriviti">
 <!ENTITY unsubscribeButton.accesskey  "R">
 <!ENTITY newGroupsTab.label           "Nuovi gruppi">
 <!ENTITY newGroupsTab.accesskey       "N">
