@@ -7,7 +7,7 @@
 <!ENTITY biffStart.accesskey "o">
 <!ENTITY biffEnd.label "minuti">
 
-<!ENTITY loginAtStartup.label "Controlla presenza di nuovi articoli all'avvio.">
+<!ENTITY loginAtStartup.label "Controlla la presenza di nuovi articoli all'avvio.">
 <!ENTITY loginAtStartup.accesskey "C">
 
 <!ENTITY useQuickMode.label "Come azione predefinita mostra il sommario degli articoli invece che caricare tutta la pagina.">
