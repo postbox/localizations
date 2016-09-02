@@ -14,7 +14,7 @@
 <!ENTITY showSearchOptions.label                   "Geef Zoek Opties weer">
 
 <!-- attachments -->
-<!ENTITY searchresults.upload.label                   "Upload">
+<!ENTITY searchresults.upload.label                   "Uploaden">
 <!ENTITY searchresults.uploadToGoogleDocs.label       "Google Docs">
 <!ENTITY searchresults.uploadToGoogleDocs.accesskey   "G">
 <!ENTITY attachmentInfo.label                         "Documentinformatie">

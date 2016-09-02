@@ -60,7 +60,7 @@
 <!ENTITY changeSettings.label            "Instellingen wijzigen">
 <!ENTITY changeSettings.accesskey        "I">
 
-<!ENTITY pb.contactYourProvider.description "&brandShortName; stelt je in staat om je e-mail op te halen met de gegeven configuratie. U moet echter contact opnemen met uw beheerder of e-mail provider met betrekking tot deze foutieve verbindingen.">
+<!ENTITY pb.contactYourProvider.description "&brandShortName; stelt u in staat om uw e-mail op te halen met de gegeven configuratie. U moet echter contact opnemen met uw beheerder of e-mail provider met betrekking tot deze foutieve verbindingen.">
 
 <!ENTITY insecureServer.tooltip.title    "Waarschuwing! Dit is een niet-beveiligde server.">
 <!ENTITY insecureServer.tooltip.details  "Klik op de cirkel voor meer details.">

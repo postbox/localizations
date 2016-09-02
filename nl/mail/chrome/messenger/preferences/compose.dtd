@@ -45,7 +45,7 @@
 <!ENTITY editDirectories.label                 "Directory’s bewerken…">
 <!ENTITY editDirectories.accesskey             "b">
 <!ENTITY matchText.label                       "Als er een overeenkomst is in uw lokale adresboeken:">
-<!ENTITY skipDirectory.label                   "Zoek niet inde adressenlijst">
+<!ENTITY skipDirectory.label                   "Zoek niet in de adressenlijst">
 
 <!ENTITY sendOptions.label                     "Verzendopties…">
 <!ENTITY sendOptions.accesskey                 "V">
@@ -78,7 +78,7 @@
 <!ENTITY pb.quickreply.reply.label "Beantwoorden">
 <!ENTITY pb.quickreply.reply.accesskey "B">
 <!ENTITY pbNumConversationsToQuote.label "Neem maximaal">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing on reply">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "berichten bij het samenvatten op een antwoord">
 
 <!ENTITY pbQuoteOnQuickReply.label "Citeer het bericht in Snel Antwoord">
 <!ENTITY pbQuoteOnQuickReply.accesskey "C">

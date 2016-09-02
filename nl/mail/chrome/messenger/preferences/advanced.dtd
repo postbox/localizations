@@ -81,7 +81,7 @@
 <!ENTITY viewSecurityDevices.accesskey  "B">
 
 <!-- Web Services -->
-<!ENTITY webservicesInfo.label          "Configure the Web services used within Postbox.">
+<!ENTITY webservicesInfo.label          "Configureer de Web services die zijn gebruikt binnen Postbox.">
 
 <!ENTITY textStartUp   "Bij het opstarten:">
 <!ENTITY radioRememberPrevState "Herinner de vorige online status">

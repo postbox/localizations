@@ -16,7 +16,7 @@
 <!ENTITY importFromNothing.label        "Niets importeren">
 <!ENTITY importFromNothing.accesskey    "t">
 
-<!ENTITY welcome.title                  "Welcome to &brandShortName;">
+<!ENTITY welcome.title                  "Welkom bij &brandShortName;">
 <!ENTITY tagline.label                  "Een betere manier om te e-mailen">
 <!ENTITY thanks.label                   "Bedankt voor het uitproberen van &brandShortName;!">
 <!ENTITY quickStart1.label              "Zie de ">
