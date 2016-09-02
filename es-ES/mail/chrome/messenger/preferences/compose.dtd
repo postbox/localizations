@@ -50,69 +50,69 @@
 <!ENTITY sendOptions.label                     "Opciones de envío…">
 <!ENTITY sendOptions.accesskey                 "O">
 
-<!ENTITY attachmentReminder.label              "Check for missing attachments">
+<!ENTITY attachmentReminder.label              "Buscar adjuntos ausentes">
 <!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Keywords…">
+<!ENTITY attachmentReminderOptions.label       "Palabras clave…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">
 
-<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset2.label     "Usar el codificador de caracteres predeterminado en las respuestas">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+<!ENTITY composeLanguagesTitle.label            "Codificador de caracteres:">
 
 <!--
 # entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY removeSignatureButton.accesskey "l">
-<!ENTITY itemSignatures.label                "Signatures">
-<!ENTITY removeSignatureButton.label    "Delete">
+<!ENTITY itemSignatures.label                "Firmas">
+<!ENTITY removeSignatureButton.label    "Eliminar">
 <!ENTITY addSignatureButton.accesskey   "N">
-<!ENTITY editSignatureButton.label      "Edit">
+<!ENTITY editSignatureButton.label      "Modificar">
 <!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY addSignatureButton.label       "New">
+<!ENTITY addSignatureButton.label       "Nuevo">
 
 
 <!--
 # entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pb.quotingConversationsSortOrder.description "When summarizing on reply, quote messages:">
-<!ENTITY pb.quickreply.reply.label "Reply">
-<!ENTITY pbPhotosForConversations.label "Include contact photos for each participant when summarizing on reply">
-<!ENTITY pb.QuickReply.label "Default Quick Reply to:">
-<!ENTITY pb.quickreply.replyall.label "Reply All">
+<!ENTITY pb.quotingConversationsSortOrder.description "Al resumir en la contestación, citar mensajes:">
+<!ENTITY pb.quickreply.reply.label "Contestar">
+<!ENTITY pbPhotosForConversations.label "Incluir foto de contacto de todos los participantes al resumir en la contestación">
+<!ENTITY pb.QuickReply.label "Contestación rápida predeterminada a:">
+<!ENTITY pb.quickreply.replyall.label "Contestar a todos">
 <!ENTITY pb.quotingConversationsSortOrderNewest.accesskey "w">
 <!ENTITY pb.QuickReply.accesskey "Q">
 <!ENTITY pb.quickreply.reply.accesskey "y">
-<!ENTITY pbNumConversationsToQuote.label "Include at most">
+<!ENTITY pbNumConversationsToQuote.label "Incluir como máximo">
 <!ENTITY pb.quotingConversationsSortOrderOldest.accesskey "e">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
 <!ENTITY pbPhotosForConversations.accesskey "I">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing on reply">
-<!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
-<!ENTITY pbItemAdvanced.label "Advanced">
-<!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "mensajes al resumir en la contestación">
+<!ENTITY pb.quotingConversationsSortOrderOldest.label "Mensajes más antiguos primero">
+<!ENTITY pbItemAdvanced.label "Avanzado">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Mensajes más recientes primero">
 
 
 <!--
 # entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbDefaultFonSize.label                           "default">
+<!ENTITY pbDefaultFonSize.label                           "defecto">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
+<!ENTITY pb.quotingConversationsSortOrder.label "Al resumir, citar:">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
+<!ENTITY pbPlaySoundOnSend.label "Reproducir sonido al enviar correo">
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
 
@@ -120,7 +120,7 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbSendAndArchive.label "Enable send and archive">
+<!ENTITY pbSendAndArchive.label "Habilitar envío y archivar">
 
 
 <!--
@@ -128,49 +128,49 @@
 -->
 
 <!ENTITY pbQuoteOnQuickReply.accesskey "m">
-<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
+<!ENTITY pbQuoteOnQuickReply.label "Citar el mensaje en la respuesta rápida">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbEnableDropbox.label "Send links when attaching files in your Dropbox folder">
+<!ENTITY pbEnableDropbox.label "Envíe enlaces al adjuntar archivos en su carpeta de Dropbox">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY itemCannedResponses.label           "Responses">
+<!ENTITY itemCannedResponses.label           "Respuestas">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbCharactersGoal.label "Character Count">
-<!ENTITY pbStopwatchGoal.label "Stopwatch">
-<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
-<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
-<!ENTITY pbWordsGoal.label "Word Count">
-<!ENTITY pbMinutes.label "minutes">
-<!ENTITY pbAt.label "at">
-<!ENTITY sourceView.label "Code View:">
-<!ENTITY pbWords.label "words">
+<!ENTITY pbCharactersGoal.label "Contador de caracteres">
+<!ENTITY pbStopwatchGoal.label "Cronómetro">
+<!ENTITY addSignatureDelimiters.label "Añadir delimitador encima de la firma">
+<!ENTITY pbSetCompositionGoals.label "Fijar objetivos de la composición usando">
+<!ENTITY pbWordsGoal.label "Contador de palabras">
+<!ENTITY pbMinutes.label "minutos">
+<!ENTITY pbAt.label "en">
+<!ENTITY sourceView.label "Vista de código:">
+<!ENTITY pbWords.label "palabras">
 <!ENTITY sourceView.accesskey "C">
-<!ENTITY pbCharacters.label "characters">
+<!ENTITY pbCharacters.label "caracteres">
 
-<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">
+<!ENTITY pbURLAutoComplete.label "Activar terminación automática de URL">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY messageSizeWarning.label "Warn me if the message size is above">
+<!ENTITY messageSizeWarning.label "Avísame si el tamaño del mensaje es mayor de">
 <!ENTITY megabytes.label "MB">
 
-<!ENTITY imageOrientation.label "Image Orientation:">
-<!ENTITY accordingToEXIF.label "Rotate images according to EXIF data">
+<!ENTITY imageOrientation.label "Orientación de la imagen:">
+<!ENTITY accordingToEXIF.label "Rotar imágenes de acuerdo con los datos EXIF">
 <!ENTITY accordingToEXIF.accesskey "o">

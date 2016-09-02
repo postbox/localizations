@@ -9,7 +9,7 @@
 <!ENTITY changeLicenseInfo.label "Esta copia de Postbox pertenece a:">
 <!ENTITY changeLicense.label "Cambiar código de licencia">
 
-<!ENTITY referFriend.label "Get Referral Code">
+<!ENTITY referFriend.label "Obtener código de referencia">
 
 <!ENTITY licenseConfirmed.label "Código de licencia confirmado!">
 
@@ -30,29 +30,29 @@
 # entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY invalidLicenseVersion.label "This license key will not work with this version of Postbox.  Please upgrade to the most current version.">
+<!ENTITY invalidLicenseVersion.label "Este código de licencia no funcionará con esta versión de Postbox. Por favor, actualice a la versión más moderna.">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY changeLicenseKey.label "Code">
+<!ENTITY changeLicenseKey.label "Código">
 <!ENTITY buttons.top "187">
 <!ENTITY fourthRow.top "140">
 <!ENTITY okButton.label "OK">
 <!ENTITY buttonsMac.top "179">
 <!ENTITY facebookLink.left "65">
 <!ENTITY facebook.top "100">
-<!ENTITY helpUs.label "Help us get the word out!">
-<!ENTITY licensedThroughMAS.label "This copy is licensed through the Apple Mac App Store.">
+<!ENTITY helpUs.label "¡Ayúdenos a correr la voz!">
+<!ENTITY licensedThroughMAS.label "La licencia de esta copia ha sido vendida a través del App Store de Apple Mac.">
 <!ENTITY secondRow.top "100">
 <!ENTITY subtitle.top "40">
 <!ENTITY firstRow.top "80">
 <!ENTITY facebook.left "30">
 <!ENTITY title.left "20">
-<!ENTITY changeName.label "Name">
-<!ENTITY compose.label "Compose an update on ">
+<!ENTITY changeName.label "Nombre">
+<!ENTITY compose.label "Redactar una actualización en">
 <!ENTITY helpUsFacebook.label "Facebook">
 <!ENTITY twitter.top "130">
 <!ENTITY title.top "20">
@@ -64,17 +64,17 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY composeTwitter.label "Post an update on ">
-<!ENTITY composeFacebook.label "Tell your friends on ">
+<!ENTITY composeTwitter.label "Publicar una actualización en ">
+<!ENTITY composeFacebook.label "Cuénteselo a sus amigos en ">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY invalidLicenseInvalid3.label "for immediate assistance.">
-<!ENTITY invalidLicenseInvalid2.label "Postbox Support">
-<!ENTITY invalidLicenseInvalid1.label "Please enter a valid license code, or contact us at">
+<!ENTITY invalidLicenseInvalid3.label "para asistencia inmediata.">
+<!ENTITY invalidLicenseInvalid2.label "Soporte de Postbox">
+<!ENTITY invalidLicenseInvalid1.label "Por favor, introduzca un código de licencia válido o póngase en contacto con nosotros en">
 
 
 <!--

@@ -58,11 +58,11 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!-- fonts in message -->
-<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
+<!ENTITY  useFixedWidthForPlainText.label         "Usar anchura fija de letra en los mensajes de texto sin formato">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Permitir a los mensajes usar otros tipos de letra">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->
-<!ENTITY viewDefaultCharsetList1.label     "Character encoding:">
+<!ENTITY viewDefaultCharsetList1.label     "Codificación de caracteres:">
 <!ENTITY viewDefaultCharsetList1.accesskey  "C">

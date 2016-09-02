@@ -1,6 +1,6 @@
 <!ENTITY newsblogTitle.label "Ajustes de cuenta RSS">
 
-<!ENTITY indexMsgBodies.label "Index message bodies">
+<!ENTITY indexMsgBodies.label "Indexar cuerpos de mensajes">
 <!ENTITY indexMsgBodies.accesskey "I">
 
 <!ENTITY biffStart.label "Buscar mensajes nuevos cada ">
