@@ -648,8 +648,8 @@
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Action Options -->
-<!ENTITY messageHeader.expand.label                 "Expand">
-<!ENTITY messageHeader.collapse.label               "Collapse">
+<!ENTITY messageHeader.expand.label                 "Uitvouwen">
+<!ENTITY messageHeader.collapse.label               "Invouwen">
 <!ENTITY messageHeader.editMessageButton.label      "Bewerken">
 <!ENTITY messageHeader.showRelated.label            "Gerelateerde berichten weergeven">
 <!ENTITY messageHeader.showRelated.label            "Gerelateerde berichten weergeven">

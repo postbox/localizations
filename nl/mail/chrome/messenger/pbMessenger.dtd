@@ -25,7 +25,7 @@
 <!ENTITY resetIndexAllMessages.accesskey "R">
 <!ENTITY resetIndexMessagesInFolder.label "Reset deze map...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY updateCmd.label "Check for Updates…">
+<!ENTITY updateCmd.label "Controleer op Updates…">
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
@@ -166,8 +166,8 @@
 <!ENTITY listbulletMsgToolbarCmd.accesskey           "b">
 <!ENTITY listNumberedMsgToolbarCmd.label             "Genummerd">
 <!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
-<!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insert HTML or edit selected HTML">
-<!ENTITY switchBetweenNormalAndCode.tooltip          "Switch between Normal and Code views">
+<!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Voer HTML in of bewerk de geselecteerde HTML">
+<!ENTITY switchBetweenNormalAndCode.tooltip          "Wissel tussen Normale en Code weergaves">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Tekst laten terugspringen (verplaatsen naar links)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Tekst laten inspringen (verplaatsen naar rechts)">
 
@@ -204,7 +204,7 @@
 <!ENTITY searchAfterField.label                 "Na">
 <!-- The number of characters that can be displayed in the search field textboxes -->
 <!ENTITY searchField.size                       "30">
-<!ENTITY searchBar-options.tooltip              "Geef Zoek Opties weer">
+<!ENTITY searchBar-options.tooltip              "Geef Zoekopties weer">
 <!ENTITY searchButton.label                     "Zoeken">
 <!ENTITY cancelButton.label                     "Annuleren">
 
@@ -246,7 +246,7 @@
 <!-- C is already used for Copy -->
 <!ENTITY pbContentTextContextMenu-phone.label            "Bel Nummer">
 <!ENTITY pbContentTextContextMenu-phone.accesskey        "B">
-<!ENTITY pbContentTextContextMenu-date.label            "Add to Calendar">
+<!ENTITY pbContentTextContextMenu-date.label            "Voeg toe aan Agenda">
 <!ENTITY pbContentTextContextMenu-date.accesskey        "d">
 <!ENTITY pbContentTextContextMenu-systemSearchMac.label      "Zoeken in Spotlight">
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
@@ -258,7 +258,7 @@
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Stuur naar Inbox">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
-<!ENTITY pbContentTextContextMenu-evernote.label       "Add to Evernote">
+<!ENTITY pbContentTextContextMenu-evernote.label       "Voeg toe aan Evernote">
 <!ENTITY pbContentTextContextMenu-evernote.accesskey  "E">
 
 <!-- topic context menu -->
@@ -339,7 +339,7 @@
 <!ENTITY pbStatusBarOption-deleteGroup.accesskey "d">
 
 <!-- Messages Menu -->
-<!ENTITY pbMoveToFolderAgain.label "Move">
+<!ENTITY pbMoveToFolderAgain.label "Verplaats">
 <!ENTITY pbMoveToFolderAgain.accesskey "v">
 
 <!-- Conversation Action context menu -->

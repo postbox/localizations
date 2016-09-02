@@ -33,9 +33,9 @@
 <!ENTITY dataPaneContext.systemPhotoImportMac.accesskey  "i">
 
 <!-- contact panel -->
-<!ENTITY contactPanel-name.label  "name:">
-<!ENTITY contactPanel-title.label "title:">
-<!ENTITY contactPanel-company.label  "company:">
+<!ENTITY contactPanel-name.label  "naam:">
+<!ENTITY contactPanel-title.label "titel:">
+<!ENTITY contactPanel-company.label  "bedrijf:">
 
 <!ENTITY contactPanel-phone.label "telefoon:">
 <!ENTITY contactPanel-work.label "(werk)">
@@ -47,9 +47,9 @@
 <!ENTITY contactPanel-workAddress.label "werk:">
 <!ENTITY contactPanel-onlineStatus.label "IM:">
 <!ENTITY contactPanel-facebook.label     "Facebook:">
-<!ENTITY contactPanel-twitter.label      "twitter:">
+<!ENTITY contactPanel-twitter.label      "Twitter:">
 
-<!ENTITY contactPanel-favorite.label     "favorite:">
+<!ENTITY contactPanel-favorite.label     "favoriet:">
 <!ENTITY contactPanel-favorite-checkbox.label "maak van dit contact een favoriet">
 <!ENTITY contactPanel-actions.label "acties:">
 <!ENTITY contactPanel-find.label    "Vind recentelijk:">
