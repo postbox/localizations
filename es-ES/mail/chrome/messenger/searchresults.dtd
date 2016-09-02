@@ -9,8 +9,8 @@
 <!ENTITY prevNextResults.label                     "Ant / Sig">
 <!ENTITY searchResultsNoMatchesFound.desc          "Ningún elemento coincide con su búsqueda.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Intentar la búsqueda en todas las carpetas.">
-<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Try setting your Focus to All.">
-<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Intente configurar su Focus como Todo.">
+<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Intente configurar su vista a Mensajes.">
 <!ENTITY showSearchOptions.label                   "Mostrar opciones de búsqueda">
 
 <!-- attachments -->

@@ -36,33 +36,32 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY changeAndRestartButton2.label     "Save and Restart">
+<!ENTITY changeAndRestartButton2.label     "Guardar y reiniciar">
 <!ENTITY changeAndRestartButton2.accesskey "S">
 
 
 <!ENTITY safeModeOptionsWindow.width       "width: 49em;">
-<!ENTITY safeModeOptionsDialog.title       "&brandShortName; Trouble Shooting">
+<!ENTITY safeModeOptionsDialog.title       "Solucionador de problemas &brandShortName;">
 
-<!ENTITY safeModeOptionsDescription2.label "If you are experiencing difficulty with Postbox, try restarting 
-with one or more of these trouble shooting options selected:">
+<!ENTITY safeModeOptionsDescription2.label "Si está experimentando dificultades con Postbox, intente reiniciar habiendo seleccionado una o más de estas opciones de solución de problemas:">
 
 
-<!ENTITY disableAddons.label              "Permamently Disable all Add-ons">
+<!ENTITY disableAddons.label              "Desactivar permanentemente todos los complementos">
 <!ENTITY disableAddons.accesskey          "D">
 
-<!ENTITY resetToolbars.label              "Reset User Interface">
+<!ENTITY resetToolbars.label              "Restablecer la interfaz de usuario">
 <!ENTITY resetToolbars.accesskey          "R">
 
-<!ENTITY resetIndex.label                 "Reset Search Index">
+<!ENTITY resetIndex.label                 "Restablecer los índices de búsqueda">
 <!ENTITY resetIndex.accesskey             "I">
 
-<!ENTITY safeMode.label                   "Safe Mode (temporarily disables all Add-ons and custom settings)">
+<!ENTITY safeMode.label                   "Modo seguro (desactiva temporalmente todos los complementos y la configuración personalizada">
 <!ENTITY safeMode.accesskey               "M">
 
-<!ENTITY profileManager.label                   "Open Profile Manager on Restart">
+<!ENTITY profileManager.label                   "Abrir el Administrador de perfiles al reiniciar">
 <!ENTITY profileManager.accesskey               "P">
 
-<!ENTITY protocolLogging.label                   "Create Protocol Log File">
+<!ENTITY protocolLogging.label                   "Crear archivo de registro de protocolos">
 <!ENTITY protocolLogging.accesskey               "L">
 
 
@@ -72,7 +71,7 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY resetImapFolders.accesskey       "b">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
-<!ENTITY resetImapFolders.label           "Reset IMAP mail database">
-<!ENTITY resetCacheAndIndex.label         "Reset Caches and Search Index">
-<!ENTITY safeModeDialogHelpButton.tooltip "Display online help for this dialog">
-<!ENTITY safeModeDialogHeader.label       "Troubleshooting">
+<!ENTITY resetImapFolders.label           "Restablecer la base de datos del mail IMAP">
+<!ENTITY resetCacheAndIndex.label         "Restablecer cachés e índice de búsquedas">
+<!ENTITY safeModeDialogHelpButton.tooltip "Mostrar ayuda en línea para este diálogo">
+<!ENTITY safeModeDialogHeader.label       "Solucionador de problemas">

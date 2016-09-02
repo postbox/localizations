@@ -40,9 +40,9 @@
 # entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbAccountRemoveActionsButton.label "Remove">
+<!ENTITY pbAccountRemoveActionsButton.label "Quitar">
 <!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Add…">
+<!ENTITY pbAccountAddActionsButton.label "Añadir…">
 <!ENTITY pbAccountTree.width "width: 25ch;">
 <!ENTITY pbAccountRemoveActionsButton.accesskey "R">
 <!ENTITY pbMacAccountManager.height "height: 45em;">
@@ -54,6 +54,6 @@
 -->
 
 <!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addRSSAccountButton.label "Add RSS Account…">
+<!ENTITY addRSSAccountButton.label "Añadir cuenta RSS …">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
-<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.label "Añadir cuenta de grupo de noticias…">

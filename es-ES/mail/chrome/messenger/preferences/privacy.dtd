@@ -28,14 +28,14 @@
 <!ENTITY savedPasswords.accesskey             "s">
 
 <!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics2.label      "Help make &brandShortName; better by sending anonymous usage statistics.">
+<!ENTITY enableAnonymousStatistics2.label      "Ayude a mejorar &brandShortName; enviando estadísticas de uso anóminmas.">
 <!ENTITY enableAnonymousStatistics.accesskey   "H">
 
 <!-- Remote images -->
 <!ENTITY disableImageInMailNews.label  "Bloquear la carga de imágenes remotas en los mensajes de correo">
 <!ENTITY disableImageInMailNews.accesskey "r">
 
-<!ENTITY pbPrivacy.label "Privacy:">
-<!ENTITY pbJunkMail.label "Junk:">
-<!ENTITY pbPasswords.label "Passwords:">
-<!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in Account Settings.">
+<!ENTITY pbPrivacy.label "Privacidad:">
+<!ENTITY pbJunkMail.label "Basura:">
+<!ENTITY pbPasswords.label "Contraseñas:">
+<!ENTITY pbJunkMail.intro "Nota: La configuración específica de los correos basura puede ser llevada a cabo en Configuración de la cuenta.">

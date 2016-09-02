@@ -8,6 +8,6 @@
 <!ENTITY checkOnStartup.label "Comprobar siempre cuando se inicia &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "a">
 
-<!ENTITY pb.defaultClient.OSX.desc "Note: &brandShortName; must be set as your default mail client to interoperate with iCal, iPhoto, and Safari. ">
-<!ENTITY pb.defaultClient.OSX.appstore.desc "Note: &brandShortName; must be set as your default mail client to interoperate with Safari. ">
+<!ENTITY pb.defaultClient.OSX.desc "Nota: &brandShortName; debe ser su gestor de correos predeterminado para poder interoperar con iCal, iPhoto y Safari.">
+<!ENTITY pb.defaultClient.OSX.appstore.desc "Nota: &brandShortName; debe ser su gestor de correos predeterminado para poder interoperar con Safari.">
 <!ENTITY pb.macDefaultClientDialog.size "width: 35em;">
