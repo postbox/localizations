@@ -8,13 +8,13 @@
 <!ENTITY serverPort.accesskey "P">
 <!ENTITY userName.label "Nombre de usuario:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.label "Seguridad de conexión:">
 <!ENTITY connectionSecurity.accesskey "n">
-<!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-0.label "Ninguna">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, si disponible">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Servidor SMTP">
 <!ENTITY serverPortDefault.label "Predeterminado:">
-<!ENTITY authMethod.label "Authentication:">
+<!ENTITY authMethod.label "Authenticación:">
 <!ENTITY authMethod.accesskey "i">
