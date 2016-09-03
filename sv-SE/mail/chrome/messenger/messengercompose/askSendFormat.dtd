@@ -11,8 +11,8 @@
 <!ENTITY question.label "Vill du konvertera meddelandet till oformaterad text, eller vill du skicka det kodat som HTML ändå?">
 
 <!ENTITY plainTextAndHtml.label "Skicka både som oformaterad text och kodat som HTML">
-<!ENTITY plainTextOnly.label "Skicka bara som oformaterad text">
-<!ENTITY htmlOnly.label "Skicka bara kodat som HTML">
+<!ENTITY plainTextOnly.label "Skicka endast som oformaterad text">
+<!ENTITY htmlOnly.label "Skicka endast kodat som HTML">
 
 <!ENTITY plainTextAndHtmlRecommended.label "Skicka som oformaterad text och HTML (rekommenderat)">
 <!ENTITY plainTextOnlyRecommended.label "Skicka endast som oformaterad text (rekommenderat)">

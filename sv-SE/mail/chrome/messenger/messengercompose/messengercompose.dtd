@@ -209,7 +209,7 @@
 <!ENTITY tagButton.label "Tilldela ämne">
 <!ENTITY throbberItem.title "Aktivitetsindikator">
 <!ENTITY signatureButton.label "Signaturer">
-<!ENTITY compose.sidebar.label "Sidofältr">
+<!ENTITY compose.sidebar.label "Sidofält">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Skickar meddelandet nu">
