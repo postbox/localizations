@@ -1,8 +1,8 @@
-<!ENTITY addressbookPicker.label            "Адресная книга:">
+﻿<!ENTITY addressbookPicker.label            "Адресная книга:">
 <!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY searchInput.label                  "Поиск:">
 <!ENTITY searchInput.accesskey              "o">
-<!ENTITY SearchNameOrEmail.label            "Имя или e-mail адрес">
+<!ENTITY SearchNameOrEmail.label            "Имя или адрес эл. почты">
 
 <!ENTITY addtoToFieldMenu.label             "Кому">
 <!ENTITY addtoCcFieldMenu.label             "Копия">

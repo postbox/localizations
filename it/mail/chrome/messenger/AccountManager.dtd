@@ -2,17 +2,17 @@
 
 <!ENTITY accountManagerTitle.label "Impostazioni account">
 
-<!ENTITY accountActionsButton.label "Account Actions">
+<!ENTITY accountActionsButton.label "Azioni account">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Aggiungi l'account di posta elettronica...">
+<!ENTITY addMailAccountButton.label "Aggiungi account e-mail...">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addRSSAccountButton.label "Aggiungi l'account RSS...">
+<!ENTITY addRSSAccountButton.label "Aggiungi account RSS...">
 <!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Aggiungi l'account newsgroup...">
+<!ENTITY addNewsgroupAccountButton.label "Aggiungi account newsgroup...">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Imposta come predefinito">
 <!ENTITY setDefaultButton.accesskey "f">
-<!ENTITY removeButton.label "Elimina account">
+<!ENTITY removeButton.label "Rimuovi account">
 <!ENTITY removeButton.accesskey "E">
 
 <!-- AccountManager.xul -->

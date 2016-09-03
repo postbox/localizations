@@ -1,9 +1,9 @@
-<!ENTITY junkSettings.label "Анти-спам фильтр">
-<!ENTITY trainingWarning.label "Сначала вам нужно научить &brandShortName; определять спам. Для этого отмечайте сообщения как спам или не спам, используя кнопку «Спам» на панели инструментов. Вам нужно явно отметить как спамерские, так и обычные сообщения.">
-<!ENTITY level.label "Включить анти-спам фильтры для этой учётной записи">
+﻿<!ENTITY junkSettings.label "Параметры спам-фильтра">
+<!ENTITY trainingWarning.label "Сначала необходимо научить &brandShortName; определять спам. Для этого помечайте сообщения как спам или не спам с помощью кнопки «Спам» на панели инструментов. Необходимо явно пометить как спамерские, так и обычные сообщения.">
+<!ENTITY level.label "Включить адаптивные спам-фильтры для этой учетной записи">
 <!ENTITY level.accesskey "-">
 
-<!ENTITY move.label "Перемещать новые сообщения, определённые как спам, в:">
+<!ENTITY move.label "Перемещать новые сообщения, определенные как спам, в:">
 <!ENTITY move.accesskey "M">
 <!ENTITY junkFolderOn.label "Папку «Спам» в:">
 <!ENTITY junkFolderOn.accesskey "u">
@@ -16,5 +16,5 @@
 <!ENTITY whitelist.label "Не помечать сообщения как спам, если отправитель находится в адресных книгах:">
 <!ENTITY whitelist.accesskey "D">
 
-<!ENTITY ispHeaders.label "Использовать поля в заголовках писем установленные:">
+<!ENTITY ispHeaders.label "Доверять заголовкам сообщений, определенным:">
 <!ENTITY ispHeaders.accesskey "T">

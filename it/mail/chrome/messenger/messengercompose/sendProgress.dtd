@@ -1,8 +1,8 @@
 <!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-<!ENTITY sendWindow.title "Invio messaggi in corso"> 
-<!ENTITY titlePrefixSave "Saving Messages -"> 
-<!ENTITY titlePrefixSend "Sending Messages -"> 
-<!ENTITY status   "Stato:"> 
+<!ENTITY sendWindow.title "Invio messaggi in corso">
+<!ENTITY titlePrefixSave "Salvataggio messaggi in corso -">
+<!ENTITY titlePrefixSend "Invio messaggi in corso -">
+<!ENTITY status   "Stato:">
 <!ENTITY progress "Avanzamento:">
 
 <!-- LOCALIZATION NOTE (percentMsg):
@@ -13,5 +13,5 @@
     #1 will be replaced by the percentage of the file that has been saved -->
 <!ENTITY percentMsg "#1&#037;">
 
-<!ENTITY messageSent "Your message has been sent">
-<!ENTITY messageSaved "Your message has been saved">
+<!ENTITY messageSent "Il tuo messaggio è stato inviato">
+<!ENTITY messageSaved "Il tuo messaggio è stato salvato">

@@ -41,7 +41,7 @@
 <!ENTITY pbSummarizeOnReply.normal.label      "het geselecteerde bericht te citeren">
 <!ENTITY pbSummarizeOnReply.summarize.label   "de gehele conversatie samen te vatten">
 <!ENTITY pbSummarizeOnReply.lastused.label    "de laatst gebruikte instelling toepassen">
-<!ENTITY pbSummarizeOnReply.photos.label       "Include contact photos for each participant when summarizing">
+<!ENTITY pbSummarizeOnReply.photos.label       "Includeer contactfoto's van elke deelnemer bij samenvatten">
 <!ENTITY pbSummarizeOnReply.photos.accesskey   "I">
 
 <!--

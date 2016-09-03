@@ -35,18 +35,18 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!-- Labels -->
 <!ENTITY newFolderDialog.title      "Nuova cartella">
 <!ENTITY name.label                 "Nome:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Crea come sottocartella di:">
 <!ENTITY description.accesskey      "C">
-<!ENTITY folderRestriction1.label   "Questo server restringe i tipi di cartelle a due tipi speciali.">
+<!ENTITY folderRestriction1.label   "Questo server restringe le cartelle a due tipi speciali.">
 <!ENTITY folderRestriction2.label   "Consenti alla nuova cartella di contenere:">
 <!ENTITY foldersOnly.label          "Solo cartelle">
 <!ENTITY messagesOnly.label         "Solo messaggi">
 
-<!ENTITY pbNewFolder.desc "Enter a name for the new folder and select a location.">
-<!ENTITY pbNewFolderLocation.label "Location:">
+<!ENTITY pbNewFolder.desc "Inserisci un nome per la nuova cartella e seleziona un percorso.">
+<!ENTITY pbNewFolderLocation.label "Percorso:">
 <!ENTITY pbNewFolderLocatione.accesskey "L">

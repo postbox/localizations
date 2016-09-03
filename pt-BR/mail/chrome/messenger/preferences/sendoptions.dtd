@@ -9,7 +9,7 @@
 <!ENTITY sendHTML.accesskey           "E">
 <!ENTITY sendBoth.label               "Enviar junto uma versão sem formatação">
 <!ENTITY sendBoth.accesskey           "n">
-<!ENTITY receiveHTML.label            "If you know a particular recipient can receive HTML mail, uncheck the 'Send email as plain text (no HTML)' checkbox on the recipient's Address Book card.">
+<!ENTITY receiveHTML.label            "Se você souber que um determinado destinatário pode receber e-mails em HTML, desmarque a caixa 'Enviar e-mail como texto sem formatação (sem HTML)' no cartão do destinatário disponível no catálogo de endereços.">
 <!ENTITY override.label               "Nota: especifique o formato de cada destinatário através do catálogo de endereços.">
 
 <!ENTITY domaindesc.label             "Ao enviar uma mensagem para um endereço com um dos domínios abaixo, o &brandShortName; automaticamente envia a mensagem no formato correto.">
@@ -17,10 +17,10 @@
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Enviar como texto sem formatação">
 <!ENTITY PlainTextTab.accesskey       "t">
-<!ENTITY AddButton.label              "Add...">
+<!ENTITY AddButton.label              "Adicionar...">
 <!ENTITY AddHtmlDomain.accesskey      "a">
 <!ENTITY AddPlainText.accesskey       "d">
-<!ENTITY DeleteButton.label           "Delete">
+<!ENTITY DeleteButton.label           "Excluir">
 <!ENTITY DeleteHtmlDomain.accesskey   "l">
 <!ENTITY DeletePlainText.accesskey    "t">
 
@@ -32,8 +32,8 @@
 <!ENTITY add.plaintext.accesskey      "d">
 
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Domain Name Error">
-<!ENTITY duplicationError.label       "The domain name @string@ already exists in this list.">
+<!ENTITY domainnameError.title        "Erro no nome de domínio">
+<!ENTITY duplicationError.label       "O nome de domínio @string@ já existe nesta lista.">
 
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "A domain name cannot appear in both the HTML and Plain Text lists. The domain name @string@ already exists.">
+<!ENTITY dualEntryError.label         "Um nome de domínio não pode aparecer tanto na lista de HTML quanto na lista de Texto sem Formatação. O nome de domínio @string@ já existe.">

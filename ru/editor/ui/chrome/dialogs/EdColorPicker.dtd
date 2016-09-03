@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -38,7 +38,7 @@
 <!ENTITY windowTitle.label "Цвет">
 <!ENTITY lastPickedColor.label "Последний выбранный цвет">
 <!ENTITY lastPickedColor.accessKey "П">
-<!ENTITY setColor1.label "Щёлкните по цвету или">
+<!ENTITY setColor1.label "Выберите цвет или">
 <!ENTITY setColor2.label "введите его HTML-код">
 <!ENTITY setColor2.accessKey "в">
 <!ENTITY setColorExample.label "(например: «#0000ff» или «blue»):">

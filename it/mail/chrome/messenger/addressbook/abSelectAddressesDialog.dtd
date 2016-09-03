@@ -36,32 +36,31 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY selectAddressWindow.title           "Select Addresses">
+<!ENTITY selectAddressWindow.title           "Seleziona indirizzi">
 
 <!-- Buttons -->
-<!ENTITY toButton.label                      "To->">
+<!ENTITY toButton.label                      "A->">
 <!ENTITY toButton.accesskey                  "T">
 <!ENTITY ccButton.label                      "Cc->">
 <!ENTITY ccButton.accesskey                  "C">
-<!ENTITY bccButton.label                     "Bcc->">
+<!ENTITY bccButton.label                     "Ccn->">
 <!ENTITY bccButton.accesskey                 "B">
 <!ENTITY newButton.label                     "Nuovo…">
 <!ENTITY newButton.accesskey                 "N">
 <!ENTITY editButton.label                    "Modifica…">
 <!ENTITY editButton.accesskey                "M">
-<!ENTITY removeButton.label                  "Remove">
+<!ENTITY removeButton.label                  "Rimuovi">
 <!ENTITY removeButton.accesskey              "R">
 <!ENTITY lookIn.label                        "Cerca in:">
 <!ENTITY lookIn.accesskey                    "C">
-<!ENTITY for.label                           "for:">
+<!ENTITY for.label                           "per:">
 <!ENTITY for.accesskey                       "f">
-<!ENTITY clearButton.label                   "Clear">
+<!ENTITY clearButton.label                   "Pulisci">
 <!ENTITY clearButton.accesskey               "a">
 <!ENTITY stopButton.label                    "Interrompi">
-<!ENTITY addressMessageTo.label              "Address message to:">
+<!ENTITY addressMessageTo.label              "Invia messaggio a:">
 
 <!-- Tooltips items -->
-<!ENTITY addressPickerSearchButton.tooltip   "Search the selected address book">
-<!ENTITY addressPickerNewButton.tooltip      "Create a new address book card">
-<!ENTITY addressPickerEditButton.tooltip     "Edit the selected card">
-
+<!ENTITY addressPickerSearchButton.tooltip   "Cerca nella rubrica selezionata">
+<!ENTITY addressPickerNewButton.tooltip      "Crea un nuovo contatto nella rubrica">
+<!ENTITY addressPickerEditButton.tooltip     "Modifica il contatto selezionato">

@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -37,5 +37,5 @@
 
 <!ENTITY fieldMapExport.title "Экспорт адресной книги">
 <!ENTITY fieldMapExport.add    "Добавить поле ->">
-<!ENTITY fieldMapExport.addAll  "Добавить всё ->">
+<!ENTITY fieldMapExport.addAll  "Добавить все ->">
 <!ENTITY fieldList.label   "Поля адресов">

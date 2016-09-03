@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -55,25 +55,25 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label        "Мастер импорта &brandShortName;">
 <!ENTITY importDesc.label         "Импорт почты, адресных книг и настроек из других программ">
 
-<!ENTITY importDescription.label  "Этот мастер импортирует сообщения, адресные книги и/или параметр из других почтовых программ и переформатирует адресные книги для использования в &brandShortName;.">
-<!ENTITY importDescription2.label "Импортированная однажды, эта информация будет доступна для вас из &brandShortName;.">
+<!ENTITY importDescription.label  "Этот мастер позволяет импортировать сообщения, адресные книги и параметры из других почтовых программ и популярных адресных книг в &brandShortName;.">
+<!ENTITY importDescription2.label "После импорта эта информация будет доступна в приложении &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Выберите программу, из которой хотите произвести импорт:">
+<!ENTITY selectDescription.label  "Выберите тип файла, который необходимо импортировать:">
 
 <!ENTITY back.label               "&lt; Назад">
 <!ENTITY forward.label            "Далее &gt;">
 <!ENTITY finish.label             "Готово">
 <!ENTITY cancel.label             "Отмена">
 
-<!ENTITY select.label             "или выберите то, что хотите импортировать:">
+<!ENTITY select.label             "или выберите содержимое для импорта:">
 
 <!ENTITY title.label              "Заголовок">
-<!ENTITY processing.label         "Идёт импорт…">
+<!ENTITY processing.label         "Выполняется импорт…">
 
 <!ENTITY FieldDiscInputText1.label  "В Netscape Communicator 4.x для каждой карточки можно задать только один адрес электронной почты, а в &brandShortName; — два (домашний и рабочий).">
-<!ENTITY FieldDiscInputText2.label  "Выберите категорию в которой вы хотите хранить импортированные адреса электронной почты:">
-<!ENTITY FieldDiscWarning.label  "Эта категория будет использоваться для всех адресов выбранной адресной книги: ">
+<!ENTITY FieldDiscInputText2.label  "Выберите категорию для сохранения импортированных адресов электронной почты:">
+<!ENTITY FieldDiscWarning.label  "Эта категория будет использоваться для всех записей выбранной адресной книги: ">
 <!ENTITY importDialog.homeTitle  "Домашний">
 <!ENTITY importDialog.workTitle  "Рабочий">
 
-<!ENTITY pbSelect.label             "Select the type of material to import:">
+<!ENTITY pbSelect.label             "Выберите тип содержимого для импорта:">

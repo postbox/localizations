@@ -1,14 +1,14 @@
 <!-- Data Pane Headers -->
 <!ENTITY dataPaneImage.label          "Immagini">
 <!ENTITY dataPaneDocument.label       "Allegati">
-<!ENTITY dataPaneDates.label          "Dates">
+<!ENTITY dataPaneDates.label          "Date">
 <!ENTITY dataPaneEvent.label          "Eventi">
-<!ENTITY dataPaneURL.label            "Collegamenti">
+<!ENTITY dataPaneURL.label            "Link">
 <!ENTITY dataPaneAddresses.label      "Indirizzi">
 
 <!-- data pane attachment popup -->
 <!-- XX Localisation note: Do not translate service names -->
-<!ENTITY dataPaneContext.uploadTo.label               "Upload to...">
+<!ENTITY dataPaneContext.uploadTo.label               "Carica su...">
 <!ENTITY dataPaneContext.uploadToPicasa.label         "Picasa">
 <!ENTITY dataPaneContext.uploadToPicasa.accesskey     "P">
 <!ENTITY dataPaneContext.uploadToPhotobucket.label    "Photobucket">
@@ -19,7 +19,7 @@
 <!ENTITY dataPaneContext.openAttachment.accesskey     "A">
 <!ENTITY dataPaneContext.saveAsAttachment.label       "Salva come…">
 <!ENTITY dataPaneContext.saveAsAttachment.accesskey   "a">
-<!ENTITY dataPaneContext.quickLookAttachmentMac.label     "Vista Rapida...">
+<!ENTITY dataPaneContext.quickLookAttachmentMac.label     "Visualizzazione rapida...">
 <!ENTITY dataPaneContext.quickLookAttachmentMac.accesskey "V">
 <!ENTITY dataPaneContext.quickLookAttachment.label    "Anteprima...">
 <!ENTITY dataPaneContext.quickLookAttachment.accesskey "r">
@@ -27,45 +27,45 @@
 <!ENTITY dataPaneContext.deleteAttachment.label       "Elimina">
 <!ENTITY dataPaneContext.saveAll.label                "Salva tutti…">
 <!ENTITY dataPaneContext.saveAll.accesskey           "v">
-<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Add to iPhoto">
+<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Aggiungi a iPhoto">
 <!ENTITY dataPaneContext.systemPhotoImportMac.accesskey  "i">
 
 <!-- contact panel -->
-<!ENTITY contactPanel-name.label  "name:">
-<!ENTITY contactPanel-title.label "title:">
-<!ENTITY contactPanel-company.label  "company:">
+<!ENTITY contactPanel-name.label  "nome:">
+<!ENTITY contactPanel-title.label "titolo:">
+<!ENTITY contactPanel-company.label  "azienda:">
 
-<!ENTITY contactPanel-phone.label "phone:">
-<!ENTITY contactPanel-work.label "(work)">
-<!ENTITY contactPanel-home.label "(home)">
-<!ENTITY contactPanel-mobile.label "(mobile)">
+<!ENTITY contactPanel-phone.label "telefono:">
+<!ENTITY contactPanel-work.label "(lavoro)">
+<!ENTITY contactPanel-home.label "(casa)">
+<!ENTITY contactPanel-mobile.label "(cellulare)">
 
-<!ENTITY contactPanel-email.label "email:">
-<!ENTITY contactPanel-homeAddress.label "home:">
-<!ENTITY contactPanel-workAddress.label "work:">
+<!ENTITY contactPanel-email.label "e-mail:">
+<!ENTITY contactPanel-homeAddress.label "casa:">
+<!ENTITY contactPanel-workAddress.label "lavoro:">
 <!ENTITY contactPanel-onlineStatus.label "IM:">
 <!ENTITY contactPanel-facebook.label     "Facebook:">
 <!ENTITY contactPanel-twitter.label      "twitter:">
 
-<!ENTITY contactPanel-favorite.label     "favorite:">
-<!ENTITY contactPanel-favorite-checkbox.label "make this contact a favorite">
-<!ENTITY contactPanel-actions.label "actions:">
-<!ENTITY contactPanel-find.label    "find recent:">
+<!ENTITY contactPanel-favorite.label     "preferito:">
+<!ENTITY contactPanel-favorite-checkbox.label "rendi preferito questo contatto">
+<!ENTITY contactPanel-actions.label "azioni:">
+<!ENTITY contactPanel-find.label    "trova recente:">
 <!ENTITY contactPanel-findMessages.label "messaggi">
-<!ENTITY contactPanel-findDocuments.label "attachments">
-<!ENTITY contactPanel-findImages.label "images">
-<!ENTITY contactPanel-copyContact.label "copy email">
-<!ENTITY contactPanel-sendContact.label "send vcard">
-<!ENTITY contactPanel-createFilter.label "create filter...">
+<!ENTITY contactPanel-findDocuments.label "allegati">
+<!ENTITY contactPanel-findImages.label "immagini">
+<!ENTITY contactPanel-copyContact.label "copia e-mail">
+<!ENTITY contactPanel-sendContact.label "invia vcard">
+<!ENTITY contactPanel-createFilter.label "crea filtro...">
 
 <!-- action contact panel -->
-<!ENTITY contactActionPanel-sendMail.label "Send Mail...">
+<!ENTITY contactActionPanel-sendMail.label "Invia e-mail...">
 <!ENTITY contactActionPanel-copyAddress.label "Copia indirizzo e-mail">
 
 <!-- data pane address popup -->
-<!ENTITY dataPaneContext.searchGoogleMaps.label         "Map to Google">
+<!ENTITY dataPaneContext.searchGoogleMaps.label         "Mostra mappa in Google">
 <!ENTITY dataPaneContext.searchGoogleMaps.accesskey     "G">
-<!ENTITY dataPaneContext.searchYahooMaps.label          "Map to Yahoo!">
+<!ENTITY dataPaneContext.searchYahooMaps.label          "Mostra mappa in Yahoo!">
 <!ENTITY dataPaneContext.searchYahooMaps.accesskey      "Y">
 
 
@@ -74,4 +74,4 @@
 -->
 
 <!ENTITY dataPaneSocial.label         "Social">
-<!ENTITY dataPaneShipping.label       "Track Packages">
+<!ENTITY dataPaneShipping.label       "Traccia pacchetti">

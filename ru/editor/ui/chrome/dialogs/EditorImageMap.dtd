@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -37,7 +37,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY windowTitle.label "Редактор карты изображения">
+<!ENTITY windowTitle.label "Редактор гиперкарт">
 <!ENTITY mapfileMenu.label "Файл">
 <!ENTITY mapfileMenu.accesskey "а">
 <!ENTITY clearCmd.label "Очистить">
@@ -52,7 +52,7 @@
 <!ENTITY copyCmd.accesskey "п">
 <!ENTITY pasteCmd.label "Вставить">
 <!ENTITY pasteCmd.accesskey "с">
-<!ENTITY selectallCmd.label "Выделить всё">
+<!ENTITY selectallCmd.label "Выбрать все">
 <!ENTITY selectallCmd.accesskey "ы">
 <!ENTITY propsCmd.label "Свойства активного участка">
 <!ENTITY propsCmd.accesskey "в">

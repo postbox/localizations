@@ -1,8 +1,8 @@
-<!ENTITY credit.title     "Авторы &brandFullName;">
+﻿<!ENTITY credit.title     "Авторы &brandFullName;">
 <!ENTITY credit.leads     "Команда &brandFullName;">
 <!ENTITY credit.core      "Команда основной разработки">
 <!ENTITY credit.gecko     "Движок Gecko">
-<!ENTITY credit.thanks    "Специальная благодарность">
+<!ENTITY credit.thanks    "Особая благодарность">
 
 <!-- localization credits look like this: -->
 <!--
@@ -11,19 +11,19 @@
 -->
 <!ENTITY credit.translation "<h3>Переводчики</h3><ul><li>Александр Словесник</li><li>Валентина Ванеева</li><li>Вадим Виниченко</li><li>Алексей Губанов</li><li>Сергей Дегтярев</li><li>Даниил Смирнов</li></ul>">
 
-<!ENTITY credit.visuals     "Координатор визуального стиля">
-<!ENTITY credit.theme       "Стиль темы">
-<!ENTITY credit.brand       "Brand Identity">
+<!ENTITY credit.visuals     "Координатор визуального дизайна">
+<!ENTITY credit.theme       "Дизайн темы">
+<!ENTITY credit.brand       "Разработка бренда">
 <!ENTITY credit.web         "Веб-дизайн">
 <!ENTITY credit.update      "Обновление Mozilla">
-<!ENTITY credit.qalead      "Quality Assurance Lead">
-<!ENTITY credit.qa          "Quality Assurance">
+<!ENTITY credit.qalead      "Руководитель отдела контроля качества">
+<!ENTITY credit.qa          "Контроль качества">
 <!ENTITY credit.build       "Создание и выпуск сборок">
 <!ENTITY credit.infra       "Поддержка инфраструктуры">
 <!ENTITY credit.support     "Ресурсы поддержки">
-<!ENTITY credit.manage      "Project Management">
-<!ENTITY credit.marketleads "Реализаторы">
-<!ENTITY credit.market      "Реализация">
+<!ENTITY credit.manage      "Управление проектами">
+<!ENTITY credit.marketleads "Отдел маркетинга">
+<!ENTITY credit.market      "Руководители отдела маркетинга">
 <!ENTITY credit.creators    "Создан">
-<!ENTITY credit.memory      "Посвящается памяти">
+<!ENTITY credit.memory      "Посвящается">
 <!ENTITY credit.poweredByGecko "На движке Gecko&trade;">

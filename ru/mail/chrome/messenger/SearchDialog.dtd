@@ -1,4 +1,4 @@
-<!-- for SearchDialog.xul -->
+﻿<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Искать в папке:">
 <!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "Включая вложенные папки">
@@ -12,15 +12,15 @@
 <!ENTITY deleteButton.label          "Удалить">
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "Поиск сообщений…">
-<!ENTITY conditionDesc.label         "Search for messages that match:">
-<!ENTITY conditions.label            "Criteria">
+<!ENTITY conditionDesc.label         "Поиск сообщений, которые соответствуют:">
+<!ENTITY conditions.label            "Критерий">
 <!ENTITY results.label               "Результаты">
 <!ENTITY fileHereMenu.label          "Поместить сюда">
 <!ENTITY fileHereMenu.accesskey      "F">
 <!ENTITY fileButton.label            "Поместить">
 <!ENTITY fileButton.accesskey        "i">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "Open Message Folder">
+<!ENTITY goToFolderButton.label      "Открыть папку сообщений">
 <!ENTITY goToFolderButton.accesskey  "r">
 <!ENTITY saveAsVFButton.label        "Сохранить как виртуальную папку">
 <!ENTITY saveAsVFButton.accesskey    "v">
@@ -37,12 +37,12 @@
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Обсуждение">
 <!ENTITY fromColumn.label "От">
-<!ENTITY recipientColumn.label "Адресат">
+<!ENTITY recipientColumn.label "Получатель">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Важность">
 <!ENTITY tagsColumn.label "Метки">
-<!ENTITY accountColumn.label "Учётная запись">
+<!ENTITY accountColumn.label "Учетная запись">
 <!ENTITY statusColumn.label "Состояние">
 <!ENTITY sizeColumn.label "Размер">
 <!ENTITY junkStatusColumn.label "Спам">
@@ -51,27 +51,27 @@
 <!ENTITY totalColumn.label "Всего">
 <!ENTITY readColumn.label "Прочитано">
 <!ENTITY receivedColumn.label "Получено">
-<!ENTITY starredColumn.label "Звёздочка">
+<!ENTITY starredColumn.label "Со звездочкой">
 <!ENTITY locationColumn.label "Расположение">
 <!ENTITY idColumn.label "Порядок получения">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Нажмите, чтобы выбрать колонки для отображения">
+<!ENTITY columnChooser.tooltip "Нажмите, чтобы выбрать столбцы для отображения">
 <!ENTITY threadColumn.tooltip "Нажмите здесь, чтобы просмотреть обсуждения"> 
 <!ENTITY fromColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по автору">
-<!ENTITY recipientColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по адресату">
+<!ENTITY recipientColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по получателю">
 <!ENTITY subjectColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по теме">
 <!ENTITY dateColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате">
 <!ENTITY priorityColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по важности">
 <!ENTITY tagsColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по метке">
-<!ENTITY accountColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по учётной записи">
+<!ENTITY accountColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по учетной записи">
 <!ENTITY statusColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по состоянию">
 <!ENTITY sizeColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по размеру">
 <!ENTITY junkStatusColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по метке спама">
-<!ENTITY unreadColumn.tooltip "Число непрочитанных сообщений в обсуждении">
-<!ENTITY totalColumn.tooltip "Общее число сообщений в обсуждении">
+<!ENTITY unreadColumn.tooltip "Количество непрочитанных сообщений в обсуждении">
+<!ENTITY totalColumn.tooltip "Общее количество сообщений в обсуждении">
 <!ENTITY readColumn.tooltip "Нажмите здесь, чтобы отсортировать прочитанные сообщения">
 <!ENTITY receivedColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате получения">
-<!ENTITY starredColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по наличию звёздочки">
+<!ENTITY starredColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по наличию звездочки">
 <!ENTITY locationColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по их расположению">
-<!ENTITY idColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по порядку получения">
+<!ENTITY idColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения в порядке получения">

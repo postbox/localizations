@@ -36,15 +36,15 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
-<!ENTITY pref.ldap.window.title    "Rubriche remote LDAP">
-<!ENTITY directory.label           "Add a directory">
+<!ENTITY pref.ldap.window.title    "Server directory LDAP">
+<!ENTITY directory.label           "Aggiungi una directory">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Rubrica remota LDAP:">
+<!ENTITY directories.label         "Server directory LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label     "Selezionare una rubrica remota LDAP:">
+<!ENTITY directoriesText.label     "Seleziona una directory server LDAP:">
 <!ENTITY directoriesText.accesskey "S">
 <!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "LDAP Directory Server">
+<!ENTITY autocomplete.title        "Server directory LDAP">
 <!ENTITY addDirectory.label        "Aggiungi">
 <!ENTITY addDirectory.accesskey    "A">
 <!ENTITY editDirectory.label       "Modifica">

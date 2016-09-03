@@ -4,9 +4,9 @@
 <!ENTITY recipient.label "Esta mensagem contém formatação. Alguns dos destinatários podem não conseguir abrí-la corretamente.">
 
 <!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleYes.label "Your message can be converted to plain text without losing information.">
-<!ENTITY convertibleAltering.label "Your message can be converted to plain text without losing important information. However, the plain text version might look different from what you saw in the composer.">
-<!ENTITY convertibleNo.label "However, you used formatting (e.g. colors) that will not be converted to plain text.">
+<!ENTITY convertibleYes.label "Sua mensagem pode ser convertida para texto sem formatação sem que haja perda de informações.">
+<!ENTITY convertibleAltering.label "Sua mensagem pode ser convertida para texto sem formatação sem que haja perda de informações importantes. Contudo, a versão sem formatação pode ter uma apresentação diferente da que foi exibida ao criar a mensagem.">
+<!ENTITY convertibleNo.label "Entretanto, você utilizou formatações (por exemplo, cores) que não aparecerão no texto sem formatação.">
 
 <!ENTITY question.label "Deseja efetuar alguma conversão?">
 
@@ -14,12 +14,12 @@
 <!ENTITY plainTextOnly.label "Enviar só uma versão sem formatação">
 <!ENTITY htmlOnly.label "Enviar só no formato original">
 
-<!ENTITY plainTextAndHtmlRecommended.label "Send in Plain Text and HTML (recommended)">
-<!ENTITY plainTextOnlyRecommended.label "Send in Plain Text Only (recommended)">
-<!ENTITY htmlOnlyRecommended.label "Send in HTML Only (recommended)">
-<!ENTITY recommended.label "(recommended)">
+<!ENTITY plainTextAndHtmlRecommended.label "Enviar texto sem formatação e HTML (recomendado)">
+<!ENTITY plainTextOnlyRecommended.label "Enviar apenas texto sem formatação (recomendado)">
+<!ENTITY htmlOnlyRecommended.label "Enviar apenas HTML (recomendado)">
+<!ENTITY recommended.label "(recomendado)">
 
 <!ENTITY send.label "Enviar">
-<!ENTITY cancel.label "Cancel">
-<!ENTITY recipients.label "Recipients...">
-<!ENTITY help.label "Help">
+<!ENTITY cancel.label "Cancelar">
+<!ENTITY recipients.label "Destinatários...">
+<!ENTITY help.label "Ajuda">

@@ -78,3 +78,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY pendingStatus.label "Pending">
 <!ENTITY notReminderStatus.label "Not Reminder">
 <!ENTITY unreadStatus.label "Unread">
+
+<!ENTITY quickPost.label "Quick Post">

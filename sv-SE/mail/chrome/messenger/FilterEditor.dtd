@@ -85,3 +85,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY pendingStatus.label "Väntande">
 <!ENTITY notReminderStatus.label "Ingen påminnelse">
 <!ENTITY unreadStatus.label "Oläst">
+
+<!ENTITY quickPost.label "Snabbpost">

@@ -5,7 +5,7 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Carpeta…">
 <!ENTITY newFolderCmd.accesskey "C">
-<!ENTITY newSubfolderCmd.label "Subfolder…">
+<!ENTITY newSubfolderCmd.label "Subcarpeta…">
 <!ENTITY newSubfolderCmd.accesskey "U">
 <!ENTITY newTabCmd.label "Nueva pestaña">
 <!ENTITY newTabCmd.accesskey "t">
@@ -131,7 +131,7 @@
 <!ENTITY messagePaneClassic.accesskey "c">
 <!ENTITY messagePaneVertical.label "Vista vertical">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY showMessageCmd.label "Message Pane">
+<!ENTITY showMessageCmd.label "Panel del mensaje">
 <!ENTITY showMessageCmd.accesskey "M">
 
 <!-- Sort Menu -->
@@ -502,7 +502,7 @@
 <!ENTITY folderContextOpenNewTab.accesskey "b">
 <!ENTITY folderContextNewSubfolder.label "Nueva subcarpeta…">
 <!ENTITY folderContextNewSubfolder.accesskey "N">
-<!ENTITY folderContextNewFolder.label "New Folder...">
+<!ENTITY folderContextNewFolder.label "Nueva carpeta...">
 <!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Renombrar">
 <!ENTITY folderContextRename.accesskey "R">
@@ -712,61 +712,61 @@
 -->
 
 <!ENTITY goToFolderCmd.accesskey "Q">
-<!ENTITY goToFolderCmd.label "Quick Switch">
+<!ENTITY goToFolderCmd.label "Cambio rápido">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY markAsPendingCmd.label "As Pending">
+<!ENTITY markAsPendingCmd.label "Como pendiente">
 <!ENTITY markAsPendingCmd.accesskey "P">
 <!ENTITY markAsNotPendingCmd.accesskey "g">
 <!ENTITY markUnStarredCmd.accesskey "N">
-<!ENTITY markUnStarredCmd.label "As Not a Reminder">
-<!ENTITY markAsNotPendingCmd.label "As Not Pending">
+<!ENTITY markUnStarredCmd.label "Como sin recordatorio">
+<!ENTITY markAsNotPendingCmd.label "Como no pendiente">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY messageHeader.tagMessageButton.tooltip     "Assign topic(s) to the message.">
-<!ENTITY messageHeader.expand.label                 "Expand">
-<!ENTITY messageHeader.gatherMessageButton.label    "Show All">
-<!ENTITY messageHeader.editMessageButton.label      "Edit">
-<!ENTITY messageHeader.quickreply.tooltip           "Quick Reply to the message.">
-<!ENTITY messageHeader.collapse.label               "Collapse">
-<!ENTITY messageHeader.forward.label                "Forward">
-<!ENTITY messageHeader.replyAll.label               "Reply All">
-<!ENTITY messageHeader.reply.label                  "Reply">
+<!ENTITY messageHeader.tagMessageButton.tooltip     "Asignar tópico/s al mensaje.">
+<!ENTITY messageHeader.expand.label                 "Expandir">
+<!ENTITY messageHeader.gatherMessageButton.label    "Mostrar todos">
+<!ENTITY messageHeader.editMessageButton.label      "Modificar">
+<!ENTITY messageHeader.quickreply.tooltip           "Contestar con respuesta rápida al mensaje.">
+<!ENTITY messageHeader.collapse.label               "Collapsar">
+<!ENTITY messageHeader.forward.label                "Reenviar">
+<!ENTITY messageHeader.replyAll.label               "Contestar a todos">
+<!ENTITY messageHeader.reply.label                  "Contestar">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY messageHeader.showRelated.label            "Show Related">
-<!ENTITY messageHeader.assignTopic.label            "Assign Topic">
+<!ENTITY messageHeader.showRelated.label            "Mostrar relacionados">
+<!ENTITY messageHeader.assignTopic.label            "Asignar tópico">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY redirectButton.label "Redirect">
+<!ENTITY redirectButton.label "Redirigir">
 <!ENTITY redirectCmd.key "e">
-<!ENTITY contextRedirect.label "Redirect">
-<!ENTITY redirectButton.tooltip "Redirect selected message">
-<!ENTITY redirectCmd.label "Redirect">
+<!ENTITY contextRedirect.label "Redirigir">
+<!ENTITY redirectButton.tooltip "Redirigir mensaje seleccionado">
+<!ENTITY redirectCmd.label "Redirigir">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY addRSSAccountButton.label "RSS Account…">
-<!ENTITY addNewsgroupAccountButton.label "Newsgroup Account…">
+<!ENTITY addRSSAccountButton.label "Cuenta RSS…">
+<!ENTITY addNewsgroupAccountButton.label "Cuenta de grupo de noticias…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY addRSSAccountButton.accesskey "R">
 
@@ -775,21 +775,21 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY messageHeader.assignLabel.label            "Assign Label">
+<!ENTITY messageHeader.assignLabel.label            "Asignar etiqueta">
 <!ENTITY filtersApplyToMessage.accesskey "s">
 <!ENTITY folderContextColor.accesskey "L">
-<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
-<!ENTITY folderContextColor.label "Label Color">
+<!ENTITY filtersApplyToMessage.label "Ejecutar filtros en el mensaje">
+<!ENTITY folderContextColor.label "Color de la etiqueta">
 <!ENTITY filtersApplyToSelection.accesskey "S">
-<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
+<!ENTITY filtersApplyToSelection.label "Ejecutar filtros en mensajes seleccionados">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY helpSafeMode.label     "Trouble Shooting…">
-<!ENTITY helpTroubleshootingInfo.label     "Configuration Data">
+<!ENTITY helpSafeMode.label     "Solucionar problemas…">
+<!ENTITY helpTroubleshootingInfo.label     "Datos de configuration">
 <!ENTITY helpSafeMode.accesskey "S">
 <!ENTITY helpTroubleshootingInfo.accesskey "C">
 

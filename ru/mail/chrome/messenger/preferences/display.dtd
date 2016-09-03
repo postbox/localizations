@@ -1,13 +1,13 @@
-<!ENTITY itemFormatting.label             "Форматирование">
+﻿<!ENTITY itemFormatting.label             "Форматирование">
 <!ENTITY itemTags.label                   "Метки">
 
-<!ENTITY style.label                      "Стиль:">
+<!ENTITY style.label                      "Стиль цитируемого текста:">
 <!ENTITY style.accesskey                  "y">
 <!ENTITY regularStyle.label               "Обычный">
 <!ENTITY bold.label                       "Полужирный">
 <!ENTITY italic.label                     "Курсив">
 <!ENTITY boldItalic.label                 "Полужирный курсив">
-<!ENTITY size.label                       "Размер:">
+<!ENTITY size.label                       "Размер цитируемого текста:">
 <!ENTITY size.accesskey                   "S">
 <!ENTITY regularSize.label                "Обычный">
 <!ENTITY bigger.label                     "Больше">
@@ -20,39 +20,39 @@
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Метка">
-<!ENTITY tagActiveColumn.label    "Любимая">
-<!ENTITY addTagButton.label       "Добавить">
+<!ENTITY tagActiveColumn.label    "Избранная">
+<!ENTITY addTagButton.label       "Создать">
 <!ENTITY addTagButton.accesskey   "N">
-<!ENTITY editTagButton.label      "Редактировать">
+<!ENTITY editTagButton.label      "Изменить">
 <!ENTITY editTagButton.accesskey   "E">
 <!ENTITY removeTagButton.label    "Удалить">
 <!ENTITY removeTagButton.accesskey "l">
 
 <!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Fonts">
-<!ENTITY defaultFont.label       "Default font:">
+<!ENTITY fontsAndColors.label    "Шрифты">
+<!ENTITY defaultFont.label       "Шрифт по умолчанию:">
 <!ENTITY defaultFont.accesskey   "D">
-<!ENTITY defaultSize.label       "Size:">
+<!ENTITY defaultSize.label       "Размер:">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "F">
 <!ENTITY fontOptions.label       "Дополнительно…">
 
-<!ENTITY pb.messagelist.colortagrow.label "Apply the topic color to the entire row in the message list pane">
+<!ENTITY pb.messagelist.colortagrow.label "Применить цвет метки ко всей строке в области списка сообщений">
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">
 
 <!-- conversation preferences -->
-<!ENTITY pb.itemConversation.label        "Разговоры">
-<!ENTITY pb.conversations.display.label "Include messages from:">
-<!ENTITY pb.conversations.folderonly.label1 "The current folder">
-<!ENTITY pb.conversations.all.label1 "Every folder">
+<!ENTITY pb.itemConversation.label        "Беседы">
+<!ENTITY pb.conversations.display.label "Включить сообщения из:">
+<!ENTITY pb.conversations.folderonly.label1 "Текущей папки">
+<!ENTITY pb.conversations.all.label1 "Всех папок">
 
-<!ENTITY pb.conversations.sortorder.label "Order conversations by:">
-<!ENTITY pb.conversations.sortoldest.label "Oldest messages first">
-<!ENTITY pb.conversations.sortnewest.label "Новые сообщения сначала">
+<!ENTITY pb.conversations.sortorder.label "Упорядочить беседы:">
+<!ENTITY pb.conversations.sortoldest.label "Сначала старые сообщения">
+<!ENTITY pb.conversations.sortnewest.label "Сначала новые сообщения">
 
-<!ENTITY pb.conversations.read.label "When displaying a converation, mark its messages as read">
+<!ENTITY pb.conversations.read.label "При отображении беседы помечать ее сообщения как прочитанные">
 <!ENTITY pb.conversations.read.accesskey "c">
-<!ENTITY pb.conversations.photos.label "Include contact photos for each participant in the conversation">
+<!ENTITY pb.conversations.photos.label "Показывать фото контактов для всех участников беседы">
 <!ENTITY pb.conversations.photos.accesskey "I">
 
 
@@ -60,12 +60,12 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
-<!ENTITY useRetina.label             "Retina Display">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pb.itemGeneral.label        "General">
+<!ENTITY pbChromeFontSize.label           "Размер шрифта папок и списка сообщений:">
+<!ENTITY useRetina.label             "Экран Retina">
+<!ENTITY pbChromeFontSizeMedium.label     "Средний">
+<!ENTITY pbChromeFontSizeSmall.label      "Мелкий">
+<!ENTITY pbChromeFontSizeLarge.label      "Крупный">
+<!ENTITY pb.itemGeneral.label        "Основные">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 
@@ -73,20 +73,20 @@ entities below were automatically added by l10nmerge
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY quotedColor2.label "Quoted color, level 2">
-<!ENTITY devPixelsPerPx.label        "High DPI scaling:">
+<!ENTITY quotedColor2.label "Цвет цитируемого текста, уровень 2">
+<!ENTITY devPixelsPerPx.label        "Масштабирование при высоком разрешении:">
 <!ENTITY devPixelsPerPx.accesskey    "D">
-<!ENTITY quotedColor5.label "Quoted color, level 5">
-<!ENTITY quotedColors.label "Quoted colors, levels 1 to 5:">
-<!ENTITY quotedColor1.label "Quoted color, level 1">
-<!ENTITY quotedColor3.label "Quoted color, level 3">
-<!ENTITY quotedColor4.label "Quoted color, level 4">
+<!ENTITY quotedColor5.label "Цвет цитируемого текста, уровень 5">
+<!ENTITY quotedColors.label "Цвета цитируемого текста, уровни 1 - 5:">
+<!ENTITY quotedColor1.label "Цвет цитируемого текста, уровень 1">
+<!ENTITY quotedColor3.label "Цвет цитируемого текста, уровень 3">
+<!ENTITY quotedColor4.label "Цвет цитируемого текста, уровень 4">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY devPixelsPerPx.default      "Default">
-<!ENTITY devPixelsPerPx.highdpi      "High DPI">
-<!ENTITY devPixelsPerPx.lowdpi       "Low DPI">
+<!ENTITY devPixelsPerPx.default      "По умолчанию">
+<!ENTITY devPixelsPerPx.highdpi      "Высокое разрешение">
+<!ENTITY devPixelsPerPx.lowdpi       "Низкое разрешение">

@@ -23,7 +23,7 @@
 <!ENTITY folderPickerPrefix.label "Aplicar os filtros selecionados na pasta:">
 <!ENTITY folderPickerPrefix.accesskey "f">
 <!ENTITY choosethis.label "(Selecionar esta pasta)">
-<!ENTITY choosethisnewsserver.label "(Selecionar este servidor de news)">
+<!ENTITY choosethisnewsserver.label "(Selecionar este servidor de notícias)">
 <!ENTITY helpButton.label "Ajuda">
 <!ENTITY helpButton.accesskey "u">
-<!ENTITY closeCmd.key "w"> 
+<!ENTITY closeCmd.key "w">

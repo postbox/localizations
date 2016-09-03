@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -44,6 +44,6 @@
 <!ENTITY authorInput.accessKey "А">
 <!ENTITY descriptionInput.label "Описание:">
 <!ENTITY descriptionInput.accessKey "О">
-<!ENTITY locationNewPage.label "[Новая страница, ещё не сохранена]">
+<!ENTITY locationNewPage.label "[Новая страница, еще не сохранена]">
 <!ENTITY EditHEADSource1.label "Опытным пользователям:">
-<!ENTITY EditHEADSource2.label "Чтобы изменить другое содержимое секции &lt;head&gt;, выберите «HTML-код» из меню «Вид» или панель режима редактирования.">
+<!ENTITY EditHEADSource2.label "Чтобы изменить другое содержимое секции &lt;head&gt;, выберите «HTML-код» в меню «Вид» или на панели режима редактирования.">

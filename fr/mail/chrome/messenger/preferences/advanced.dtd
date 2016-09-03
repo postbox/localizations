@@ -13,9 +13,9 @@
 <!ENTITY autoMarkAsRead.accesskey      "M">
 <!ENTITY markAsReadNoDelay.label       "Dès l'affichage">
 <!ENTITY markAsReadNoDelay.accesskey   "D">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): Cela sera affiché comme
+     "Après un délai de [___] secondes",
+     en utilisant (markAsReadDelay.label) et un nombre (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "Après un délai de">
 <!ENTITY markAsReadDelay.accesskey     "A">
 <!ENTITY secondsLabel.label            "secondes">
@@ -130,4 +130,6 @@
 
 <!ENTITY showNextMessage.label          "Message suivant">
 <!ENTITY showPreviousMessage.label      "Message précédent">
-<!ENTITY deleteSelectOrder.label        "Après la suppression d'un message, sélectionner le:">
+<!ENTITY deleteSelectOrder.label        "Après la suppression d'un message, sélectionnez le:">
+
+<!ENTITY itemQuickPost.label     "Post rapide">

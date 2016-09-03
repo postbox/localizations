@@ -75,3 +75,5 @@
 <!ENTITY unreadStatus.label "Unread">
 <!ENTITY notReminderStatus.label "Not Reminder">
 <!ENTITY notPendingStatus.label "Not Pending">
+
+<!ENTITY quickPost.label "Quick Post">

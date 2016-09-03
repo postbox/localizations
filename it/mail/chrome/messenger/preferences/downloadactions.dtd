@@ -1,21 +1,21 @@
-<!ENTITY  downloadactionsWindow.title         "Download Actions">
+<!ENTITY  downloadactionsWindow.title         "Scarica Azioni">
 <!ENTITY  window.width                         "480">
 <!ENTITY  window.height                        "310">
 
-<!ENTITY  fileTypesDescription.label          "Automatically perform the associated Action with each of the following file types:">
+<!ENTITY  fileTypesDescription.label          "Esegui automaticamente l'Azione associata a ognuno dei tipi di file seguenti:">
 
-<!ENTITY  fileHandlerColumn.label             "Action">
+<!ENTITY  fileHandlerColumn.label             "Azione">
 <!ENTITY  fileHandlerColumn.accesskey         "A">
-<!ENTITY  fileTypeColumn.label                "File Type">
+<!ENTITY  fileTypeColumn.label                "Tipo di file">
 <!ENTITY  fileTypeColumn.accesskey            "T">
 <!ENTITY  fileMIMETypeColumn.label            "Tipo MIME">
 <!ENTITY  fileMIMETypeColumn.accesskey        "M">
-<!ENTITY  fileExtensionColumn.label           "Extension">
+<!ENTITY  fileExtensionColumn.label           "Estensione">
 <!ENTITY  fileExtensionColumn.accesskey       "E">
 
-<!ENTITY  remove.label                        "Remove Action">
+<!ENTITY  remove.label                        "Rimuovi Azione">
 <!ENTITY  remove.accesskey                    "R">
-<!ENTITY  edit.label                          "Change Action...">
+<!ENTITY  edit.label                          "Cambia Azione...">
 <!ENTITY  edit.accesskey                      "C">
 
 <!ENTITY  windowClose.key                     "w">
@@ -24,9 +24,8 @@
 
 <!ENTITY  filter.label                        "Cerca:">
 <!ENTITY  filter.accesskey                    "C">
-<!ENTITY  clear.label                         "Clear">
+<!ENTITY  clear.label                         "Pulisci">
 <!ENTITY  clear.accesskey                     "l">
 
 <!ENTITY  button.close.label                  "Chiudi">
 <!ENTITY  button.close.accesskey              "C">
-

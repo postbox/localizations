@@ -1,9 +1,9 @@
 <!ENTITY pane.title                   "Ricevute di ritorno">
-<!ENTITY useGlobalPrefs.label         "Per questo account utilizza le preferenze globali">
+<!ENTITY useGlobalPrefs.label         "Utilizza le mie preferenze globali per le ricevute di ritorno per questo account">
 <!ENTITY useGlobalPrefs.accesskey     "u">
-<!ENTITY useCustomPrefs.label         "Personalizza le opzioni per le ricevute di ritorno di questo account">
+<!ENTITY useCustomPrefs.label         "Personalizza le ricevute di ritorno per questo account">
 <!ENTITY useCustomPrefs.accesskey     "P">
-<!ENTITY requestReceipt.label         "Quando si spediscono i messaggi chiedi sempre la Ricevuta di ritorno">
+<!ENTITY requestReceipt.label         "Durante l'invio dei messaggi, richiedi sempre una ricevuta di ritorno">
 <!ENTITY requestReceipt.accesskey     "Q">
 <!ENTITY receiptArrive.label          "Quando arriva una ricevuta:">
 <!ENTITY leaveIt.label                "Lasciala nella posta in arrivo">
@@ -11,14 +11,14 @@
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Spostala nella cartella &quot;Posta inviata&quot;">
 <!ENTITY moveToSent.accesskey         "S">
-<!ENTITY requestMDN.label             "Quando si riceve una richiesta di Ricevuta di ritorno:">
-<!ENTITY returnSome.label             "Consenti Ricevuta di ritorno per alcuni messaggi">
+<!ENTITY requestMDN.label             "Quando ricevo una richiesta per una ricevuta di ritorno:">
+<!ENTITY returnSome.label             "Consenti ricevute di ritorno per alcuni messaggi">
 <!ENTITY returnSome.accesskey         "C">
-<!ENTITY never.label                  "Non inviare mai una Ricevuta di ritorno">
+<!ENTITY never.label                  "Non inviare mai una ricevuta di ritorno">
 <!ENTITY never.accesskey              "N">
-<!ENTITY notInToCc.label              "Se il proprio indirizzo non è nel campo 'A' o 'Cc':">
+<!ENTITY notInToCc.label              "Se non sono nel campo 'A' o 'Cc' del messaggio:">
 <!ENTITY notInToCc.accesskey          "i">
-<!ENTITY outsideDomain.label          "Se il mittente non appartiene al proprio dominio:">
+<!ENTITY outsideDomain.label          "Se il mittente non appartiene al mio dominio:">
 <!ENTITY outsideDomain.accesskey      "m">
 <!ENTITY otherCases.label             "In tutti gli altri casi:">
 <!ENTITY otherCases.accesskey         "t">

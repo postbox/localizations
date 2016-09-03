@@ -23,7 +23,7 @@
 <!ENTITY showFolderColumns.accesskey   "l">
 <!ENTITY rememberLastMsg.label         "Onthoud het laatst geselecteerde bericht">
 <!ENTITY rememberLastMsg.accesskey     "b">
-<!ENTITY openMsgIn1.label              "New messages should be opened in:">
+<!ENTITY openMsgIn1.label              "Nieuwe berichten openen in:">
 <!ENTITY openMsgInNewTab.label          "Een nieuw tabblad">
 <!ENTITY openMsgInNewTab.accesskey      "t">
 <!ENTITY openMsgInNewWindow.label       "een nieuw venster">
@@ -81,7 +81,7 @@
 <!ENTITY viewSecurityDevices.accesskey  "B">
 
 <!-- Web Services -->
-<!ENTITY webservicesInfo.label          "Configure the Web services used within Postbox.">
+<!ENTITY webservicesInfo.label          "Configureer de Web services die zijn gebruikt binnen Postbox.">
 
 <!ENTITY textStartUp   "Bij het opstarten:">
 <!ENTITY radioRememberPrevState "Herinner de vorige online status">
@@ -128,8 +128,8 @@
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY showNextMessage.label          "Next Message">
-<!ENTITY showPreviousMessage.label      "Previous Message">
-<!ENTITY deleteSelectOrder.label        "After deleting a message select the:">
+<!ENTITY showNextMessage.label          "Volgend Bericht">
+<!ENTITY showPreviousMessage.label      "Vorig Bericht">
+<!ENTITY deleteSelectOrder.label        "Select na het verwijderen van een bericht de:">
 
 <!ENTITY itemQuickPost.label     "Quick Post">

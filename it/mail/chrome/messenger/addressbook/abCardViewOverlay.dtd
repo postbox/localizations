@@ -36,7 +36,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Box Headings -->
-<!ENTITY contact.heading             "Contatto">
+<!ENTITY contact.heading             "Contatti">
 <!ENTITY home.heading                "Casa">
 <!ENTITY other.heading               "Altro">
 <!ENTITY phone.heading               "Telefono">
@@ -46,5 +46,4 @@
 <!ENTITY addresses.heading           "Indirizzi">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label           "Ottieni mappa">
-<!ENTITY mapIt.tooltip               "Mostra mappa di questo indirizzo via web">
-
+<!ENTITY mapIt.tooltip               "Mostra una mappa di questo indirizzo dal web">

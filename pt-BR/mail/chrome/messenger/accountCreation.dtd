@@ -1,12 +1,12 @@
-<!ENTITY autoconfigWizard.title          "Configurar conta de email">
+<!ENTITY autoconfigWizard.title          "Configurar conta de e-mail">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                  "First and Last Name">
+<!ENTITY name.placeholder                  "Nome e sobrenome">
 <!ENTITY email.accesskey                 "l">
 <!ENTITY email.placeholder                 "email@example.com">
 <!ENTITY password.label                  "Senha:">
 <!ENTITY password.accesskey              "S">
-<!ENTITY password.placeholder              "Password">
-<!ENTITY password.text                   "Optional, will only be used to validate the username">
+<!ENTITY password.placeholder              "Senha">
+<!ENTITY password.text                   "Opcional, será utilizado apenas para validar o nome de usuário">
 
 <!ENTITY accountInformation.label        "Informações da conta">
 <!ENTITY outgoing.label                  "Envio:">
@@ -40,13 +40,13 @@
 <!ENTITY rememberPassword.accesskey      "M">
 
 <!ENTITY warning.label                   "Alerta!">
-<!ENTITY incomingSettings.label          "Incoming settings:">
-<!ENTITY outgoingSettings.label          "Outgoing settings:">
-<!ENTITY technicaldetails.label          "Technical Details">
+<!ENTITY incomingSettings.label          "Configurações de entrada:">
+<!ENTITY outgoingSettings.label          "Configurações de saída:">
+<!ENTITY technicaldetails.label          "Detalhes técnicos">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "I understand the risks.">
+<!ENTITY confirmWarning.label            "Entendo os riscos.">
 <!ENTITY confirmWarning.accesskey        "u">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
@@ -57,30 +57,30 @@
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label            "Change Settings">
+<!ENTITY changeSettings.label            "Alterar Configurações">
 <!ENTITY changeSettings.accesskey        "S">
 
-<!ENTITY pb.contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections.">
+<!ENTITY pb.contactYourProvider.description "O &brandShortName; pode permitir que você obtenha seus e-mails utilizando as configurações fornecidas. Entretanto, você deve contatar seu administrador ou provedor de e-mail em relação a essas conexões inadequadas.">
 
-<!ENTITY insecureServer.tooltip.title    "Warning! This is an insecure server.">
-<!ENTITY insecureServer.tooltip.details  "Click circle for more details.">
+<!ENTITY insecureServer.tooltip.title    "Atenção! Esse servidor é inseguro.">
+<!ENTITY insecureServer.tooltip.details  "Clique para mais detalhes.">
 
-<!ENTITY insecureUnencrypted.description "Your email and authentication are sent unencrypted, so your password (and your message) could easily be read by other people. &brandShortName; will let you get to your mail, but you should contact your email provider about configuring the server with a secure connection.">
-<!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
-<!ENTITY secureServer.description        "Congratulations! This is a secure server.">
+<!ENTITY insecureUnencrypted.description "O e-mail e a autenticação são enviados sem criptografia, então sua senha (e sua mensagem) poderão ser facilmente lidas por outras pessoas. O &brandShortName; permitirá que você receba seus e-mails, mas você deverá entrar em contato com o seu provedor para configurar o servidor usando uma conexão segura.">
+<!ENTITY insecureSelfSigned.description  "O servidor utiliza um certificado em que não podemos confiar. Portanto, não podemos ter certeza de que alguém não esteja interceptando o tráfego entre o &brandShortName; e o seu servidor. O &brandShortName; permitirá que você receba seus e-mails, mas você deverá pedir ao seu provedor que configure o servidor com um certificado confiável.">
+<!ENTITY secureServer.description        "Parabéns! Esse servidor é seguro.">
 
-<!ENTITY pb.identity.title "Identity">
-<!ENTITY pb.name.label    "Your Name">
-<!ENTITY pb.email.label   "Email Address">
-<!ENTITY pb.password.label "Password">
-<!ENTITY pb.serverinfo.title "Server Information">
-<!ENTITY pb.username.label   "User Name">
-<!ENTITY pb.incoming.label "Incoming Server">
-<!ENTITY pb.servername.label "Server Name">
-<!ENTITY pb.servertype.label "Type">
-<!ENTITY pb.serverport.label "Port">
-<!ENTITY pb.serversecurity.label "Security">
-<!ENTITY pb.outgoing.label "Outgoing Server">
+<!ENTITY pb.identity.title "Identidade">
+<!ENTITY pb.name.label    "Seu nome">
+<!ENTITY pb.email.label   "Endereço de e-mail">
+<!ENTITY pb.password.label "Senha">
+<!ENTITY pb.serverinfo.title "Informações do servidor">
+<!ENTITY pb.username.label   "Nome de usuário">
+<!ENTITY pb.incoming.label "Servidor de entrada">
+<!ENTITY pb.servername.label "Nome do servidor">
+<!ENTITY pb.servertype.label "Tipo">
+<!ENTITY pb.serverport.label "Porta">
+<!ENTITY pb.serversecurity.label "Segurança">
+<!ENTITY pb.outgoing.label "Servidor de saída">
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      creation wizard, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
@@ -100,22 +100,22 @@
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 63ch;">
 
-<!ENTITY pbProfileInformation.label "Profile Information">
-<!ENTITY pbManualSetup.label "Manual Setup">
+<!ENTITY pbProfileInformation.label "Informações do perfil">
+<!ENTITY pbManualSetup.label "Configuração manual">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY important.label "IMPORTANT:">
-<!ENTITY learnMore.label "Learn more...">
+<!ENTITY important.label "IMPORTANTE:">
+<!ENTITY learnMore.label "Saiba mais...">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pb.displayname.label "Description:">
-<!ENTITY displayname.placeholder         "Work, Personal, etc.">
+<!ENTITY pb.displayname.label "Descrição:">
+<!ENTITY displayname.placeholder         "Trabalho, Pessoal, etc.">
 <!ENTITY displayname.accesskey           "D">

@@ -5,21 +5,21 @@
 <!ENTITY searchSubfolders.accesskey  "I">
 <!ENTITY resetButton.label           "Limpar">
 <!ENTITY resetButton.accesskey       "L">
-<!ENTITY optionsButton.label         "Options">
-<!ENTITY closeButton.label           "Close">
+<!ENTITY optionsButton.label         "Opções">
+<!ENTITY closeButton.label           "Fechar">
 <!ENTITY openButton.label            "Abrir">
 <!ENTITY openButton.accesskey        "A">
 <!ENTITY deleteButton.label          "Excluir">
 <!ENTITY deleteButton.accesskey      "x">
 <!ENTITY searchDialogTitle.label     "Pesquisar mensagens">
-<!ENTITY conditionDesc.label         "Search for messages that match:">
-<!ENTITY conditions.label            "Criteria">
+<!ENTITY conditionDesc.label         "Pesquisar mensagens que correspondam:">
+<!ENTITY conditions.label            "Critérios">
 <!ENTITY results.label               "Resultados">
 <!ENTITY fileHereMenu.label          "Mover para cá">
 <!ENTITY fileHereMenu.accesskey      "M">
 <!ENTITY fileButton.label            "Mover para">
 <!ENTITY fileButton.accesskey        "M">
-<!ENTITY closeCmd.key                "w"> 
+<!ENTITY closeCmd.key                "w">
 <!ENTITY goToFolderButton.label      "Abrir pasta da mensagem">
 <!ENTITY goToFolderButton.accesskey  "r">
 <!ENTITY saveAsVFButton.label        "Salvar como pasta de pesquisa…">
@@ -46,7 +46,7 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Tamanho">
 <!ENTITY junkStatusColumn.label "Spam">
-<!ENTITY linesColumn.label "Lines">
+<!ENTITY linesColumn.label "Linhas">
 <!ENTITY unreadColumn.label "Não lidas">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Lida">
@@ -57,8 +57,8 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Clique para selecionar quais colunas mostrar">
-<!ENTITY threadColumn.tooltip "Clique para agrupar pelo tópico"> 
-<!ENTITY fromColumn.tooltip "Click to sort by from">
+<!ENTITY threadColumn.tooltip "Clique para agrupar pelo tópico">
+<!ENTITY fromColumn.tooltip "Clique para ordenar pelo remetente">
 <!ENTITY recipientColumn.tooltip "Clique para ordenar pelo destinatário">
 <!ENTITY subjectColumn.tooltip "Clique para ordenar pelo assunto">
 <!ENTITY dateColumn.tooltip "Clique para ordenar pela data">

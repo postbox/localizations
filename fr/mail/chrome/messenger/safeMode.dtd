@@ -44,10 +44,10 @@
 <!ENTITY safeModeOptionsDialog.title       "&brandShortName; Résolution des problèmes">
 
 <!ENTITY safeModeOptionsDescription2.label "Si vous éprouvez des problèmes avec Postbox, veuillez essayer de redémarrer
-avec une ou plusieurs options de résolution des problèmes sélectionnées:">
+avec une ou plusieurs options de résolution des problèmes sélectionnées :">
 
 
-<!ENTITY disableAddons.label              "Désactiver définitivement toutes les Add-ons">
+<!ENTITY disableAddons.label              "Désactiver définitivement toutes les Extensions">
 <!ENTITY disableAddons.accesskey          "D">
 
 <!ENTITY resetToolbars.label              "Réinitialiser l'interface utilisateur">
@@ -56,7 +56,7 @@ avec une ou plusieurs options de résolution des problèmes sélectionnées:">
 <!ENTITY resetIndex.label                 "Réinitialiser l'index de recherche">
 <!ENTITY resetIndex.accesskey             "I">
 
-<!ENTITY safeMode.label                   "Mode sans échec (désactive temporairement toutes les Add-ons et les paramètres personnalisés)">
+<!ENTITY safeMode.label                   "Mode sans échec (désactive temporairement toutes les Extensions et les paramètres personnalisés)">
 <!ENTITY safeMode.accesskey               "M">
 
 <!ENTITY profileManager.label                   "Ouvrir le gestionnaire de profil au redémarrage.">

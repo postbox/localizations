@@ -1,22 +1,22 @@
-<!ENTITY newsblogTitle.label "RSS Account Settings">
+<!ENTITY newsblogTitle.label "Impostazioni account RSS">
 
-<!ENTITY indexMsgBodies.label "Index message bodies">
+<!ENTITY indexMsgBodies.label "Indicizza corpi messaggio">
 <!ENTITY indexMsgBodies.accesskey "I">
 
 <!ENTITY biffStart.label "Controlla la presenza di nuovi articoli ogni ">
 <!ENTITY biffStart.accesskey "o">
 <!ENTITY biffEnd.label "minuti">
 
-<!ENTITY loginAtStartup.label "Controlla presenza di nuovi articoli all'avvio."> 
+<!ENTITY loginAtStartup.label "Controlla la presenza di nuovi articoli all'avvio.">
 <!ENTITY loginAtStartup.accesskey "C">
 
-<!ENTITY useQuickMode.label "Come azione predefinita mostra il sommario degli articoli invece che caricare tutta la pagina."> 
+<!ENTITY useQuickMode.label "Come azione predefinita mostra il sommario degli articoli invece che caricare tutta la pagina.">
 <!ENTITY useQuickMode.accesskey "m">
 
-<!ENTITY manageSubscriptions.label "Gestione sottoscrizioni…"> 
+<!ENTITY manageSubscriptions.label "Gestione iscrizioni…">
 <!ENTITY manageSubscriptions.accesskey "G">
 
 <!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "News &amp; Blogs">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "RSS News &amp; Blogs">
+<!ENTITY rss.accountName            "News e Blog">
+<!ENTITY rss.wizardShortName        "RSS">
+<!ENTITY rss.wizardLongName         "News RSS e Blog">

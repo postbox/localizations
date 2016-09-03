@@ -43,26 +43,26 @@
 <!ENTITY safeModeOptionsWindow.width       "width: 49em;">
 <!ENTITY safeModeOptionsDialog.title       "&brandShortName; Trouble Shooting">
 
-<!ENTITY safeModeOptionsDescription2.label "If you are experiencing difficulty with Postbox, try restarting 
-with one or more of these trouble shooting options selected:">
+<!ENTITY safeModeOptionsDescription2.label "Se stai avendo difficoltà con Postbox, prova a riavviare
+con una o più delle opzioni per la risoluzione dei problemi selezionate:">
 
 
-<!ENTITY disableAddons.label              "Permamently Disable all Add-ons">
+<!ENTITY disableAddons.label              "Disabilita definitivamente tutti i Componenti aggiuntivi">
 <!ENTITY disableAddons.accesskey          "D">
 
-<!ENTITY resetToolbars.label              "Reset User Interface">
+<!ENTITY resetToolbars.label              "Ripristina Interfaccia utente">
 <!ENTITY resetToolbars.accesskey          "R">
 
-<!ENTITY resetIndex.label                 "Reset Search Index">
+<!ENTITY resetIndex.label                 "Ripristina Indice ricerca">
 <!ENTITY resetIndex.accesskey             "I">
 
-<!ENTITY safeMode.label                   "Safe Mode (temporarily disables all Add-ons and custom settings)">
+<!ENTITY safeMode.label                   "Modalità sicura (disabilita temporaneamente tutti i Componenti aggiuntivi e le impostazioni personalizzate)">
 <!ENTITY safeMode.accesskey               "M">
 
-<!ENTITY profileManager.label                   "Open Profile Manager on Restart">
+<!ENTITY profileManager.label                   "Apri Gestore profilo al Riavvio">
 <!ENTITY profileManager.accesskey               "P">
 
-<!ENTITY protocolLogging.label                   "Create Protocol Log File">
+<!ENTITY protocolLogging.label                   "Crea File di registro protocollo">
 <!ENTITY protocolLogging.accesskey               "L">
 
 
@@ -72,7 +72,7 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY resetImapFolders.accesskey       "b">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
-<!ENTITY resetImapFolders.label           "Reset IMAP mail database">
-<!ENTITY resetCacheAndIndex.label         "Reset Caches and Search Index">
-<!ENTITY safeModeDialogHelpButton.tooltip "Display online help for this dialog">
-<!ENTITY safeModeDialogHeader.label       "Troubleshooting">
+<!ENTITY resetImapFolders.label           "Ripristina database e-mail IMAP">
+<!ENTITY resetCacheAndIndex.label         "Ripristina cache e indice ricerca">
+<!ENTITY safeModeDialogHelpButton.tooltip "Mostra aiuto online per questa finestra">
+<!ENTITY safeModeDialogHeader.label       "Risoluzione problemi">

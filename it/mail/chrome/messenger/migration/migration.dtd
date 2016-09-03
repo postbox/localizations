@@ -1,7 +1,7 @@
 
 <!ENTITY migrationWizard.title          "Importazione guidata">
 
-<!ENTITY importFromUnix.label           "Import Preferences, Account Settings, Address Book and other data from:">
+<!ENTITY importFromUnix.label           "Importa Preferenze, Impostazioni account, Rubrica e altri dati da:">
 
 <!ENTITY importFromThunderbird.label    "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
@@ -16,28 +16,28 @@
 <!ENTITY importFromNothing.label        "Non importare nulla">
 <!ENTITY importFromNothing.accesskey    "m">
 
-<!ENTITY welcome.title                  "Welcome to &brandShortName;">
-<!ENTITY tagline.label                  "A Better Way To Do Email">
-<!ENTITY thanks.label                   "Thanks for trying out &brandShortName;!">
-<!ENTITY quickStart1.label              "See the ">
-<!ENTITY quickStart2.label              "Quickstart Guide"> 
-<!ENTITY quickStart3.label              " to learn about all the features.">
-<!ENTITY start.label                    "Start using &brandShortName;">
-    
-<!ENTITY migration.title                "Account Migration Wizard">
-<!ENTITY migrationMac.title             "Account Migration Assistant">
-<!ENTITY importOptions.title            "Import Options">
+<!ENTITY welcome.title                  "Benvenuto su &brandShortName;">
+<!ENTITY tagline.label                  "Un miglior modo per inviare e-mail">
+<!ENTITY thanks.label                   "Grazie di provare &brandShortName;!">
+<!ENTITY quickStart1.label              "Visualizza la ">
+<!ENTITY quickStart2.label              "Guida rapida">
+<!ENTITY quickStart3.label              " per scoprire tutte le caratteristiche.">
+<!ENTITY start.label                    "Inizia a utilizzare &brandShortName;">
+
+<!ENTITY migration.title                "Procedura guidata Migrazione account">
+<!ENTITY migrationMac.title             "Assistente Migrazione account">
+<!ENTITY importOptions.title            "Opzioni di importazione">
 <!ENTITY importItems.title              "Elementi da importare">
-<!ENTITY importItems.label              "Selezionare elementi da importare:">
+<!ENTITY importItems.label              "Seleziona elementi da importare:">
 
-<!ENTITY migrating.title                "Importazione in corso">
-<!ENTITY migrating.label                "Importazione in corso dei seguenti oggetti…">
+<!ENTITY migrating.title                "Importazione in corso...">
+<!ENTITY migrating.label                "I seguenti elementi sono in fase di importazione…">
 
-<!ENTITY selectProfile.title            "Seleziona un profilo">
-<!ENTITY selectProfile.label            "Sono disponibili per l'importazione i seguenti profili:">
+<!ENTITY selectProfile.title            "Seleziona profilo">
+<!ENTITY selectProfile.label            "I seguenti profili sono disponibili per l'importazione:">
 
 <!ENTITY done.title                     "Importazione completata">
-<!ENTITY done.label                     "I seguenti oggetti sono stati importati correttamente:">
+<!ENTITY done.label                     "I seguenti elementi sono stati importati con successo:">
 
 <!ENTITY importFromAppleMail.label    "Apple Mail">
 <!ENTITY importFromAppleMail.accesskey "A">
@@ -64,4 +64,4 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY cleanInstall.accesskey  	"C">
-<!ENTITY cleanInstall.label             "Clean install (recommended)">
+<!ENTITY cleanInstall.label             "Installazione pulita (consigliato)">

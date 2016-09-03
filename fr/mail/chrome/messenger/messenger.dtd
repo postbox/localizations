@@ -651,12 +651,11 @@
 <!ENTITY messageHeader.expand.label                 "Développer">
 <!ENTITY messageHeader.collapse.label               "Réduire">
 <!ENTITY messageHeader.editMessageButton.label      "Modifier">
-<!ENTITY messageHeader.showRelated.label            "Afficher en rapport">
-<!ENTITY messageHeader.showRelated.label            "Afficher en rapport">
+<!ENTITY messageHeader.showRelated.label            "Afficher les messages référencés">
 <!ENTITY messageHeader.assignTopic.label            "Ajouter un sujet">
 <!ENTITY messageHeader.assignLabel.label            "Ajouter une étiquette">
 <!ENTITY messageHeader.reply.label                  "Répondre">
-<!ENTITY messageHeader.replyAll.label               "Rép. à tous">
+<!ENTITY messageHeader.replyAll.label               "Répondre à tous">
 <!ENTITY messageHeader.forward.label                "Transférer">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->

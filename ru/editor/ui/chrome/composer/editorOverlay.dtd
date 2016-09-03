@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -53,7 +53,7 @@
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Последние открытые страницы">
 <!ENTITY fileRecentMenu.accesskey "с">
-<!ENTITY fileRevert.label "Вернуться к последнему сохранению">
+<!ENTITY fileRevert.label "Вернуть">
 <!ENTITY fileRevert.accesskey "н">
 <!ENTITY saveCmd.label "Сохранить">
 <!ENTITY saveCmd.accesskey "х">
@@ -97,7 +97,7 @@
 <!ENTITY findCmd.accesskey "а">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Найти ещё раз">
+<!ENTITY findAgainCmd.label "Найти еще">
 <!ENTITY findAgainCmd.accesskey "щ">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
@@ -131,14 +131,14 @@
 <!ENTITY insertCharsCmd.accesskey "у">
 <!ENTITY insertBreakAllCmd.label "Разрыв под изображениями">
 <!ENTITY insertBreakAllCmd.accesskey "о">
-<!ENTITY spellCheckNoSuggestions.label "(Вариантов не найдено)">
+<!ENTITY spellCheckNoSuggestions.label "(нет вариантов)">
 <!ENTITY spellCheckIgnoreWord.label "Пропустить слово">
 <!ENTITY spellCheckIgnoreWord.accesskey "П">
 <!ENTITY spellCheckAddToDictionary.label "Добавить в словарь">
 <!ENTITY spellCheckAddToDictionary.accesskey "с">
 <!ENTITY createLinkCmd.label "Создать ссылку…">
 <!ENTITY createLinkCmd.accesskey "с">
-<!ENTITY editLinkCmd.label "Редактировать объект в новом окне Компоновщика">
+<!ENTITY editLinkCmd.label "Редактировать ссылку в новом окне Компоновщика">
 <!ENTITY editLinkCmd.accesskey "д">
 <!ENTITY undoCmd.label "Отменить">
 <!ENTITY undoCmd.accesskey "м">
@@ -154,7 +154,7 @@
 <!ENTITY deleteCmd.accesskey "д">
 <!ENTITY clearCmd.label "Очистить">
 <!ENTITY clearCmd.accesskey "ч">
-<!ENTITY selectAllCmd.label "Выделить всё">
+<!ENTITY selectAllCmd.label "Выбрать все">
 <!ENTITY selectAllCmd.accesskey "в">
 <!ENTITY FontFaceSelect.tooltip "Выбор шрифта">
 <!ENTITY fontfaceMenu.label "Шрифт">
@@ -171,7 +171,7 @@
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
 <!ENTITY FontSizeSelect.tooltip "Выбор размера шрифта">
-<!ENTITY resetToDefaultFontSize.label "Reset to default">
+<!ENTITY resetToDefaultFontSize.label "Восстановить значения по умолчанию">
 <!ENTITY decreaseFontSize.label "Уменьшить">
 <!ENTITY decreaseFontSize.accesskey "м">
 <!ENTITY decreaseFontSize.key "-">
@@ -203,16 +203,16 @@
 <!ENTITY styleItalicCmd.label "Курсив">
 <!ENTITY styleItalicCmd.accesskey "у">
 <!ENTITY styleItalicCmd.key "I">
-<!ENTITY styleUnderlineCmd.label "Подчёркивание">
+<!ENTITY styleUnderlineCmd.label "Подчеркнутый">
 <!ENTITY styleUnderlineCmd.accesskey "ч">
 <!ENTITY styleUnderlineCmd.key "U">
-<!ENTITY styleStrikeThruCmd.label "Зачёркивание">
+<!ENTITY styleStrikeThruCmd.label "Зачеркнутый">
 <!ENTITY styleStrikeThruCmd.accesskey "а">
-<!ENTITY styleSuperscriptCmd.label "Верхний индекс">
+<!ENTITY styleSuperscriptCmd.label "Надстрочный">
 <!ENTITY styleSuperscriptCmd.accesskey "х">
-<!ENTITY styleSubscriptCmd.label "Нижний индекс">
+<!ENTITY styleSubscriptCmd.label "Подстрочный">
 <!ENTITY styleSubscriptCmd.accesskey "ж">
-<!ENTITY styleNonbreakingCmd.label "Неразрывно">
+<!ENTITY styleNonbreakingCmd.label "Неразрывный">
 <!ENTITY styleNonbreakingCmd.accesskey "е">
 <!ENTITY styleEm.label "Выделение">
 <!ENTITY styleEm.accesskey "д">
@@ -228,7 +228,7 @@
 <!ENTITY styleCode.accesskey "д">
 <!ENTITY styleSamp.label "Пример вывода">
 <!ENTITY styleSamp.accesskey "ы">
-<!ENTITY styleVar.label "Переменный">
+<!ENTITY styleVar.label "Переменная">
 <!ENTITY styleVar.accesskey "м">
 <!ENTITY formatFontColor.label "Цвет текста…">
 <!ENTITY formatFontColor.accesskey "т">
@@ -261,7 +261,7 @@
 <!ENTITY paragraphPreformatCmd.accesskey "ф">
 <!ENTITY formatlistMenu.label "Список">
 <!ENTITY formatlistMenu.accesskey "п">
-<!ENTITY noneCmd.label "Ничего">
+<!ENTITY noneCmd.label "Нет">
 <!ENTITY noneCmd.accesskey "и">
 <!ENTITY listBulletCmd.label "Маркированный">
 <!ENTITY listBulletCmd.accesskey "а">
@@ -309,9 +309,9 @@
 <!ENTITY colorsAndBackground.accesskey "в">
 <!ENTITY tableMenu.label "Таблица">
 <!ENTITY tableMenu.accesskey "а">
-<!ENTITY tableSelectMenu.label "Выделить">
+<!ENTITY tableSelectMenu.label "Выбрать">
 <!ENTITY tableSelectMenu.accesskey "ы">
-<!ENTITY tableSelectMenu2.label "Выделить таблицу">
+<!ENTITY tableSelectMenu2.label "Выбрать таблицу">
 <!ENTITY tableSelectMenu2.accesskey "б">
 <!ENTITY tableInsertMenu2.label "Вставить таблицу">
 <!ENTITY tableInsertMenu2.accesskey "л">
@@ -350,9 +350,9 @@
 <!ENTITY tableDeleteMenu.accesskey "а">
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
-<!ENTITY tableSplitCell.label "Разбить ячейку">
+<!ENTITY tableSplitCell.label "Разделить ячейку">
 <!ENTITY tableSplitCell.accesskey "б">
-<!ENTITY convertToTable.label "Создать таблицу из выделения">
+<!ENTITY convertToTable.label "Создать таблицу из выбранного">
 <!ENTITY convertToTable.accesskey "д">
 <!ENTITY tableProperties.label "Свойства таблицы…">
 <!ENTITY tableProperties.accesskey "в">
@@ -363,7 +363,7 @@
 <!ENTITY openToolbarCmd.label "Открыть">
 <!ENTITY openToolbarCmd.tooltip "Открыть локальный файл">
 <!ENTITY saveToolbarCmd.tooltip "Сохранить файл локально">
-<!ENTITY publishToolbarCmd.tooltip "Загрузить файл на удалённый сервер">
+<!ENTITY publishToolbarCmd.tooltip "Загрузить файл на удаленный сервер">
 <!ENTITY previewToolbarCmd.label "Просмотр">
 <!ENTITY previewToolbarCmd.tooltip "Загрузить эту страницу в браузер">
 <!ENTITY printToolbarCmd.label "Печать">
@@ -371,30 +371,30 @@
 <!ENTITY findToolbarCmd.label "Найти">
 <!ENTITY findToolbarCmd.tooltip "Найти текст на странице">
 <!ENTITY spellToolbarCmd.label "Орфография">
-<!ENTITY spellToolbarCmd.tooltip "Проверить орфографию выделенного отрывка или всей страницы">
+<!ENTITY spellToolbarCmd.tooltip "Проверить орфографию выбранного текста или всей страницы">
 <!ENTITY imageToolbarCmd.label "Изображение">
-<!ENTITY imageToolbarCmd.tooltip "Вставить новое изображение или изменить свойства выделенного">
+<!ENTITY imageToolbarCmd.tooltip "Вставить новое изображение или изменить свойства выбранного">
 <!ENTITY hruleToolbarCmd.label "Разделитель">
-<!ENTITY hruleToolbarCmd.tooltip "Вставить новый горизонтальный разделитель или изменить свойства выделенного">
+<!ENTITY hruleToolbarCmd.tooltip "Вставить новый горизонтальный разделитель или изменить свойства выбранного">
 <!ENTITY tableToolbarCmd.label "Таблица">
-<!ENTITY tableToolbarCmd.tooltip "Вставить новую таблицу или изменить свойства выделенной">
+<!ENTITY tableToolbarCmd.tooltip "Вставить новую таблицу или изменить свойства выбранной">
 <!ENTITY linkToolbarCmd.label "Ссылка">
-<!ENTITY linkToolbarCmd.tooltip "Вставить новую ссылку или изменить свойства выделенной">
+<!ENTITY linkToolbarCmd.tooltip "Вставить новую ссылку или изменить свойства выбранной">
 <!ENTITY anchorToolbarCmd.label "Якорь">
-<!ENTITY anchorToolbarCmd.tooltip "Вставить новый якорь или изменить свойства выделенного">
+<!ENTITY anchorToolbarCmd.tooltip "Вставить новый якорь или изменить свойства выбранного">
 <!ENTITY TextColorButton.tooltip "Выбор цвета для текста">
 <!ENTITY BackgroundColorButton.tooltip "Выбор цвета для фона">
 <!ENTITY throbber.tooltip "Перейти на домашнюю страницу &vendorShortName;">
-<!ENTITY HighlightColorButton.tooltip "Выберите цвет подсветки текста">
+<!ENTITY HighlightColorButton.tooltip "Выберите цвет выделения текста">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Уменьшить размер шрифта">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Увеличить размер шрифта">
 <!ENTITY boldToolbarCmd.tooltip "Полужирный">
 <!ENTITY italicToolbarCmd.tooltip "Курсив">
-<!ENTITY underlineToolbarCmd.tooltip "Подчёркнутый">
+<!ENTITY underlineToolbarCmd.tooltip "Подчеркнутый">
 <!ENTITY bulletListToolbarCmd.tooltip "Добавить или удалить маркированный список">
 <!ENTITY numberListToolbarCmd.tooltip "Добавить или удалить нумерованный список">
-<!ENTITY outdentToolbarCmd.tooltip "Убрать отступ (сдвиг влево)">
-<!ENTITY indentToolbarCmd.tooltip "Сделать отступ (сдвиг вправо)">
+<!ENTITY outdentToolbarCmd.tooltip "Выступ текста (переместить влево)">
+<!ENTITY indentToolbarCmd.tooltip "Отступ текста (переместить вправо)">
 <!ENTITY AlignPopupButton.tooltip "Выбор выравнивания текста">
 <!ENTITY InsertPopupButton.tooltip "Вставка ссылки, якоря, изображения, горизонтального разделителя или таблицы">
 <!ENTITY alignLeftButton.tooltip "Выравнивание текста по левому краю">
@@ -426,9 +426,9 @@
 <!ENTITY insertTOC.accesskey "В">
 <!ENTITY updateTOC.label "Обновить">
 <!ENTITY updateTOC.accesskey "О">
-<!ENTITY removeTOC.label "Убрать">
+<!ENTITY removeTOC.label "Удалить">
 <!ENTITY removeTOC.accesskey "У">
-<!ENTITY tocMenu.label "Оглавление…">
+<!ENTITY tocMenu.label "Содержание…">
 <!ENTITY tocMenu.accesskey "г">
 
 
@@ -437,7 +437,7 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY listprops.accesskey "l">
-<!ENTITY tableFix.label "Fix Table Layout">
+<!ENTITY tableFix.label "Исправить структуру таблицы">
 <!ENTITY ParagraphAbbr.label "P">
 <!ENTITY decreasefontsize.accesskey "r">
 <!ENTITY Heading3Abbr.label "H3">
@@ -447,7 +447,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY cut.accesskey "t">
 <!ENTITY editfindprev.keybinding2 "VK_F3">
 <!ENTITY inserttable.accesskey "t">
-<!ENTITY AddressAbbr.label "Addr.">
+<!ENTITY AddressAbbr.label "Адр.">
 <!ENTITY stylestrikethru.accesskey "k">
 <!ENTITY fileprintpreview.accesskey "v">
 <!ENTITY validate.accesskey "v">
@@ -465,13 +465,13 @@ entities below were automatically added by l10nmerge
 <!ENTITY clear.accesskey "l">
 <!ENTITY fileopen.accesskey "o">
 <!ENTITY formatlistmenu.accesskey "l">
-<!ENTITY insertIsIndexCmd.label "Index Search">
+<!ENTITY insertIsIndexCmd.label "Поиск в индексе">
 <!ENTITY insertfieldset.accesskey "F">
-<!ENTITY insertInputImageCmd.label "Form Image…">
+<!ENTITY insertInputImageCmd.label "Изображение формы…">
 <!ENTITY insertform.accesskey "D">
 <!ENTITY advancedproperties.accesskey "v">
 <!ENTITY alignleft.accesskey "l">
-<!ENTITY colorLabel.label "Color:">
+<!ENTITY colorLabel.label "Цвет:">
 <!ENTITY stylebold.accesskey "b">
 <!ENTITY filesaveas.accesskey "A">
 <!ENTITY tableselectmenu.accesskey "s">
@@ -484,7 +484,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY formatToolbar.italicChar "I">
 <!ENTITY decreaseindent.accesskey "D">
 <!ENTITY heading1.accesskey "1">
-<!ENTITY listProps.label "List Properties…">
+<!ENTITY listProps.label "Свойства списка…">
 <!ENTITY pasteRows.accesskey "r">
 <!ENTITY paragraphparagraph.accesskey "P">
 <!ENTITY viewparagraphmarks.accesskey "p">
@@ -494,7 +494,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY formatfontfixed.keybinding "t">
 <!ENTITY tablemenu.accesskey "b">
 <!ENTITY insertlink.accesskey "l">
-<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.label "Предварительный просмотр">
 <!ENTITY styleunderline.keybinding "u">
 <!ENTITY size-medium.accesskey "d">
 <!ENTITY delete.accesskey "d">
@@ -503,22 +503,22 @@ entities below were automatically added by l10nmerge
 <!ENTITY Heading6Abbr.label "H6">
 <!ENTITY fileprint.accesskey "p">
 <!ENTITY fontHelveticaFont.label "Helvetica, Arial">
-<!ENTITY exitCmd.label "Quit">
+<!ENTITY exitCmd.label "Завершить">
 <!ENTITY insertisindex.accesskey "x">
 <!ENTITY heading2.accesskey "2">
 <!ENTITY toolsetfocus.accesskey "f">
 <!ENTITY inserthline.accesskey "o">
 <!ENTITY decreaseindentkb "-">
 <!ENTITY insertinputimage.accesskey "I">
-<!ENTITY pasteTextCmd.label "Text">
+<!ENTITY pasteTextCmd.label "Текст">
 <!ENTITY newBlankPage.accesskey "P" >
-<!ENTITY textColorCaption.label "Text Color">
-<!ENTITY insertFormMenu.label "Form">
+<!ENTITY textColorCaption.label "Цвет текста">
+<!ENTITY insertFormMenu.label "Форма">
 <!ENTITY tableinsertmenu.accesskey "i">
-<!ENTITY editStripQuotesCmd.label "Strip Quotes">
+<!ENTITY editStripQuotesCmd.label "Не выделять цитирование">
 <!ENTITY insertformmenu.accesskey "F">
 <!ENTITY editfind.accesskey "f">
-<!ENTITY pasteRowsCmd.label "Rows">
+<!ENTITY pasteRowsCmd.label "Строки">
 <!ENTITY formatparagraphmenu.accesskey "P">
 <!ENTITY editpastelink.accesskey "l">
 <!ENTITY pasteImage.accesskey "i">
@@ -526,8 +526,8 @@ entities below were automatically added by l10nmerge
 <!ENTITY tablesplitcell.accesskey "c">
 <!ENTITY fileopen.keybinding "o">
 <!ENTITY increaseFontSize.keybinding "+">
-<!ENTITY insertInputTagCmd.label "Form Field…">
-<!ENTITY viewParagraphMarks.label "Paragraph Marks">
+<!ENTITY insertInputTagCmd.label "Поле формы…">
+<!ENTITY viewParagraphMarks.label "Знаки абзацев">
 <!ENTITY size-small.accesskey "s">
 <!ENTITY formatoutdent.keybinding "[">
 <!ENTITY alignright.accesskey "r">
@@ -537,29 +537,29 @@ entities below were automatically added by l10nmerge
 <!ENTITY formatToolbar.boldChar "B">
 <!ENTITY fontfixedwidth.accesskey "x">
 <!ENTITY filesave.accesskey "s">
-<!ENTITY pasteLinkCmd.label "Link">
+<!ENTITY pasteLinkCmd.label "Ссылка">
 <!ENTITY fonthelvetica.accesskey "l">
-<!ENTITY printButtonCmd.label "Print…">
+<!ENTITY printButtonCmd.label "Печать…">
 <!ENTITY increaseindent.accesskey "i">
 <!ENTITY fileclose.accesskey "c">
 <!ENTITY pasteText.accesskey "t">
 <!ENTITY stylesuperscript.accesskey "p">
 <!ENTITY pageproperties.accesskey "g">
 <!ENTITY styleunderline.accesskey "u">
-<!ENTITY paragraphBlockquoteCmd.label "Blockquote">
+<!ENTITY paragraphBlockquoteCmd.label "Цитата">
 <!ENTITY Heading4Abbr.label "H4">
 <!ENTITY fontvarwidth.accesskey "v">
 <!ENTITY styleitalic.accesskey "I">
-<!ENTITY pasteColumnsCmd.label "Columns">
+<!ENTITY pasteColumnsCmd.label "Столбцы">
 <!ENTITY size-xx-small.accesskey "a">
 <!ENTITY pasteTable.accesskey "a">
 <!ENTITY increasefontsize.accesskey "g">
-<!ENTITY insertLabelCmd.label "Define Label">
+<!ENTITY insertLabelCmd.label "Определить метку">
 <!ENTITY none.accesskey "N">
 <!ENTITY formatalignmenu.accesskey "a">
 <!ENTITY paragraphpreformat.accesskey "f">
 <!ENTITY fileexporttotext.accesskey "T">
-<!ENTITY insertImageMapCmd.label "Image Map…">
+<!ENTITY insertImageMapCmd.label "Гиперкарта…">
 <!ENTITY editfindnext.accesskey "g">
 <!ENTITY listdefinition.accesskey "d">
 <!ENTITY tablejoincells.accesskey "j">
@@ -580,35 +580,35 @@ entities below were automatically added by l10nmerge
 <!ENTITY formatremovenamedanchors.keybinding "a">
 <!ENTITY BlockquoteAbbr.label "BQ">
 <!ENTITY localfontmenu.accesskey "f">
-<!ENTITY insertButtonCmd.label "Define Button…">
+<!ENTITY insertButtonCmd.label "Определить кнопку…">
 <!ENTITY listterm.accesskey "t">
-<!ENTITY insertTextAreaCmd.label "Text Area…">
+<!ENTITY insertTextAreaCmd.label "Область текста…">
 <!ENTITY size-x-small.accesskey "m">
 <!ENTITY insertinputtag.accesskey "e">
 <!ENTITY copy.accesskey "c">
-<!ENTITY viewPageSource.label "Page Source">
-<!ENTITY NormalAbbr.label "Text">
+<!ENTITY viewPageSource.label "Источник страницы">
+<!ENTITY NormalAbbr.label "Текст">
 <!ENTITY styleitalic.keybinding "i">
 <!ENTITY formatstylemenu.accesskey "s">
 <!ENTITY editpastequotation.accesskey "q">
 <!ENTITY listnumbered.accesskey "m">
 <!ENTITY formatsizemenu.accesskey "z">
-<!ENTITY ok.label "OK">
+<!ENTITY ok.label "ОК">
 <!ENTITY editfindnext.keybinding "g">
-<!ENTITY insertSelectCmd.label "Selection List…">
+<!ENTITY insertSelectCmd.label "Список выбранного…">
 <!ENTITY size-x-large.accesskey "x">
 <!ENTITY stylenonbreaking.accesskey "N">
 <!ENTITY toolsmenu.accesskey "l">
 <!ENTITY insertanchor.accesskey "A">
-<!ENTITY editRewrapCmd.label "Rewrap">
-<!ENTITY insertFormCmd.label "Define Form…">
+<!ENTITY editRewrapCmd.label "Переформатировать">
+<!ENTITY insertFormCmd.label "Определить форму…">
 <!ENTITY paragraphblockquote.accesskey "b">
-<!ENTITY checkSpellingCmd.label "Check Spelling">
+<!ENTITY checkSpellingCmd.label "Проверка орфографии">
 <!ENTITY insertselect.accesskey "S">
 <!ENTITY selectall.accesskey "a">
 <!ENTITY editfindprev.keybinding "g">
 <!ENTITY paste.accesskey "p">
-<!ENTITY checkLinksCmd.label "Check Links">
+<!ENTITY checkLinksCmd.label "Проверить ссылки">
 <!ENTITY sendPage.accesskey "d">
 <!ENTITY tablecellafter.accesskey "f">
 <!ENTITY stylesubscript.accesskey "S">
@@ -621,20 +621,20 @@ entities below were automatically added by l10nmerge
 <!ENTITY converttotable.accesskey "r">
 <!ENTITY redo.accesskey "r">
 <!ENTITY editfindprev.accesskey "v">
-<!ENTITY pasteImageCmd.label "Image">
-<!ENTITY openremoteCmd.label "Open Web Location…">
+<!ENTITY pasteImageCmd.label "Изображение">
+<!ENTITY openremoteCmd.label "Открыть веб-страницу…">
 <!ENTITY insertlink.keybinding "l">
 <!ENTITY filerevert.accesskey "v">
 <!ENTITY size-xx-large.accesskey "e">
-<!ENTITY localfontfaceMenu.label "Local Fonts">
-<!ENTITY insertFieldSetCmd.label "Define Field Set…">
+<!ENTITY localfontfaceMenu.label "Локальные шрифты">
+<!ENTITY insertFieldSetCmd.label "Определить набор полей…">
 <!ENTITY tablerow.accesskey "r">
 <!ENTITY formatremovelinks.keybinding "k">
 <!ENTITY formatstylesheetmenu.accesskey "y">
 <!ENTITY heading4.accesskey "4">
 <!ENTITY publishcmd.accesskey "b">
-<!ENTITY stylesheetMenu.label "Apply Style Sheet">
-<!ENTITY fontsizeMenu.label "Size">
+<!ENTITY stylesheetMenu.label "Применить таблицу стилей">
+<!ENTITY fontsizeMenu.label "Размер">
 <!ENTITY fileexit.keybinding "q">
 <!ENTITY increaseindentkb "=">
 <!ENTITY tablecellcontents.accesskey "n">
@@ -646,12 +646,12 @@ entities below were automatically added by l10nmerge
 <!ENTITY fileopenremote.keybinding "l">
 <!ENTITY fileprint.keybinding "p">
 <!ENTITY formatindent.keybinding "]">
-<!ENTITY colorPicker.default.label "Reader's default color">
+<!ENTITY colorPicker.default.label "Цвет по умолчанию у пользователя">
 <!ENTITY filesave.keybinding "s">
 <!ENTITY editlink.accesskey "i">
 <!ENTITY filesaveandchangeencoding.accesskey "E">
 <!ENTITY Heading2Abbr.label "H2">
-<!ENTITY insertBreakCmd.label "Line Break">
+<!ENTITY insertBreakCmd.label "Разрыв строки">
 <!ENTITY inserttextarea.accesskey "T">
 <!ENTITY editfind.keybinding "f">
 <!ENTITY tablerowbelow.accesskey "b">

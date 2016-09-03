@@ -27,7 +27,7 @@
 <!ENTITY dataPaneContext.deleteAttachment.label       "Eliminar">
 <!ENTITY dataPaneContext.saveAll.label                "Guardar todo…">
 <!ENTITY dataPaneContext.saveAll.accesskey           "G">
-<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Add to iPhoto">
+<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Añadir a iPhoto">
 <!ENTITY dataPaneContext.systemPhotoImportMac.accesskey  "i">
 
 <!-- contact panel -->
@@ -47,8 +47,8 @@
 <!ENTITY contactPanel-facebook.label     "Facebook:">
 <!ENTITY contactPanel-twitter.label      "twitter:">
 
-<!ENTITY contactPanel-favorite.label     "favorite:">
-<!ENTITY contactPanel-favorite-checkbox.label "make this contact a favorite">
+<!ENTITY contactPanel-favorite.label     "favorito:">
+<!ENTITY contactPanel-favorite-checkbox.label "Hacer de este contacto un favorito">
 <!ENTITY contactPanel-actions.label "acciones:">
 <!ENTITY contactPanel-find.label    "buscar reciente:">
 <!ENTITY contactPanel-findMessages.label "mensajes">
@@ -74,4 +74,4 @@
 -->
 
 <!ENTITY dataPaneSocial.label         "Social">
-<!ENTITY dataPaneShipping.label       "Track Packages">
+<!ENTITY dataPaneShipping.label       "Seguir paquetes">

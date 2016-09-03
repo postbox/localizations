@@ -1,6 +1,6 @@
-<!ENTITY identitiesListTitle.label "Identities Associated With This Account">
-<!ENTITY identitiesListDesc.label "Поддержка дополнительных адресов электронной почты">
-<!ENTITY identitiesListAdd.label  "Добавить">
+﻿<!ENTITY identitiesListTitle.label "Идентификации, связанные с этой учетной записью">
+<!ENTITY identitiesListDesc.label "Поддержка нескольких идентификаций">
+<!ENTITY identitiesListAdd.label  "Добавить…">
 <!ENTITY identitiesListAdd.accesskey  "A">
 <!ENTITY identitiesListEdit.label "Изменить…">
 <!ENTITY identitiesListEdit.accesskey "E">
