@@ -171,7 +171,7 @@
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
 <!ENTITY FontSizeSelect.tooltip "Scegli la dimensione del carattere">
-<!ENTITY resetToDefaultFontSize.label "Reset to default">
+<!ENTITY resetToDefaultFontSize.label "Ripristina a predefinito">
 <!ENTITY decreaseFontSize.label "Diminuisci">
 <!ENTITY decreaseFontSize.accesskey "D">
 <!ENTITY decreaseFontSize.key "-">
@@ -437,7 +437,7 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY listprops.accesskey "l">
-<!ENTITY tableFix.label "Fix Table Layout">
+<!ENTITY tableFix.label "Layout fisso tabella">
 <!ENTITY ParagraphAbbr.label "P">
 <!ENTITY decreasefontsize.accesskey "r">
 <!ENTITY Heading3Abbr.label "H3">
@@ -447,7 +447,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY cut.accesskey "t">
 <!ENTITY editfindprev.keybinding2 "VK_F3">
 <!ENTITY inserttable.accesskey "t">
-<!ENTITY AddressAbbr.label "Addr.">
+<!ENTITY AddressAbbr.label "Indirizzo">
 <!ENTITY stylestrikethru.accesskey "k">
 <!ENTITY fileprintpreview.accesskey "v">
 <!ENTITY validate.accesskey "v">
@@ -465,13 +465,13 @@ entities below were automatically added by l10nmerge
 <!ENTITY clear.accesskey "l">
 <!ENTITY fileopen.accesskey "o">
 <!ENTITY formatlistmenu.accesskey "l">
-<!ENTITY insertIsIndexCmd.label "Index Search">
+<!ENTITY insertIsIndexCmd.label "Ricerca indice">
 <!ENTITY insertfieldset.accesskey "F">
-<!ENTITY insertInputImageCmd.label "Form Image…">
+<!ENTITY insertInputImageCmd.label "Immagine modulo…">
 <!ENTITY insertform.accesskey "D">
 <!ENTITY advancedproperties.accesskey "v">
 <!ENTITY alignleft.accesskey "l">
-<!ENTITY colorLabel.label "Color:">
+<!ENTITY colorLabel.label "Colore:">
 <!ENTITY stylebold.accesskey "b">
 <!ENTITY filesaveas.accesskey "A">
 <!ENTITY tableselectmenu.accesskey "s">
@@ -484,7 +484,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY formatToolbar.italicChar "I">
 <!ENTITY decreaseindent.accesskey "D">
 <!ENTITY heading1.accesskey "1">
-<!ENTITY listProps.label "List Properties…">
+<!ENTITY listProps.label "Proprietà elenco…">
 <!ENTITY pasteRows.accesskey "r">
 <!ENTITY paragraphparagraph.accesskey "P">
 <!ENTITY viewparagraphmarks.accesskey "p">
@@ -494,7 +494,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY formatfontfixed.keybinding "t">
 <!ENTITY tablemenu.accesskey "b">
 <!ENTITY insertlink.accesskey "l">
-<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.label "Anteprima di stampa">
 <!ENTITY styleunderline.keybinding "u">
 <!ENTITY size-medium.accesskey "d">
 <!ENTITY delete.accesskey "d">
@@ -503,22 +503,22 @@ entities below were automatically added by l10nmerge
 <!ENTITY Heading6Abbr.label "H6">
 <!ENTITY fileprint.accesskey "p">
 <!ENTITY fontHelveticaFont.label "Helvetica, Arial">
-<!ENTITY exitCmd.label "Quit">
+<!ENTITY exitCmd.label "Chiudi">
 <!ENTITY insertisindex.accesskey "x">
 <!ENTITY heading2.accesskey "2">
 <!ENTITY toolsetfocus.accesskey "f">
 <!ENTITY inserthline.accesskey "o">
 <!ENTITY decreaseindentkb "-">
 <!ENTITY insertinputimage.accesskey "I">
-<!ENTITY pasteTextCmd.label "Text">
+<!ENTITY pasteTextCmd.label "Testo">
 <!ENTITY newBlankPage.accesskey "P" >
-<!ENTITY textColorCaption.label "Text Color">
-<!ENTITY insertFormMenu.label "Form">
+<!ENTITY textColorCaption.label "Colore del testo">
+<!ENTITY insertFormMenu.label "Modulo">
 <!ENTITY tableinsertmenu.accesskey "i">
-<!ENTITY editStripQuotesCmd.label "Strip Quotes">
+<!ENTITY editStripQuotesCmd.label "Virgolette">
 <!ENTITY insertformmenu.accesskey "F">
 <!ENTITY editfind.accesskey "f">
-<!ENTITY pasteRowsCmd.label "Rows">
+<!ENTITY pasteRowsCmd.label "Righe">
 <!ENTITY formatparagraphmenu.accesskey "P">
 <!ENTITY editpastelink.accesskey "l">
 <!ENTITY pasteImage.accesskey "i">
@@ -526,8 +526,8 @@ entities below were automatically added by l10nmerge
 <!ENTITY tablesplitcell.accesskey "c">
 <!ENTITY fileopen.keybinding "o">
 <!ENTITY increaseFontSize.keybinding "+">
-<!ENTITY insertInputTagCmd.label "Form Field…">
-<!ENTITY viewParagraphMarks.label "Paragraph Marks">
+<!ENTITY insertInputTagCmd.label "Campo modulo…">
+<!ENTITY viewParagraphMarks.label "Interruzioni di paragrafo">
 <!ENTITY size-small.accesskey "s">
 <!ENTITY formatoutdent.keybinding "[">
 <!ENTITY alignright.accesskey "r">
@@ -539,27 +539,27 @@ entities below were automatically added by l10nmerge
 <!ENTITY filesave.accesskey "s">
 <!ENTITY pasteLinkCmd.label "Link">
 <!ENTITY fonthelvetica.accesskey "l">
-<!ENTITY printButtonCmd.label "Print…">
+<!ENTITY printButtonCmd.label "Stampa…">
 <!ENTITY increaseindent.accesskey "i">
 <!ENTITY fileclose.accesskey "c">
 <!ENTITY pasteText.accesskey "t">
 <!ENTITY stylesuperscript.accesskey "p">
 <!ENTITY pageproperties.accesskey "g">
 <!ENTITY styleunderline.accesskey "u">
-<!ENTITY paragraphBlockquoteCmd.label "Blockquote">
+<!ENTITY paragraphBlockquoteCmd.label "Citazione">
 <!ENTITY Heading4Abbr.label "H4">
 <!ENTITY fontvarwidth.accesskey "v">
 <!ENTITY styleitalic.accesskey "I">
-<!ENTITY pasteColumnsCmd.label "Columns">
+<!ENTITY pasteColumnsCmd.label "Colonne">
 <!ENTITY size-xx-small.accesskey "a">
 <!ENTITY pasteTable.accesskey "a">
 <!ENTITY increasefontsize.accesskey "g">
-<!ENTITY insertLabelCmd.label "Define Label">
+<!ENTITY insertLabelCmd.label "Definisci etichetta">
 <!ENTITY none.accesskey "N">
 <!ENTITY formatalignmenu.accesskey "a">
 <!ENTITY paragraphpreformat.accesskey "f">
 <!ENTITY fileexporttotext.accesskey "T">
-<!ENTITY insertImageMapCmd.label "Image Map…">
+<!ENTITY insertImageMapCmd.label "Mappa di immagine…">
 <!ENTITY editfindnext.accesskey "g">
 <!ENTITY listdefinition.accesskey "d">
 <!ENTITY tablejoincells.accesskey "j">
@@ -580,13 +580,13 @@ entities below were automatically added by l10nmerge
 <!ENTITY formatremovenamedanchors.keybinding "a">
 <!ENTITY BlockquoteAbbr.label "BQ">
 <!ENTITY localfontmenu.accesskey "f">
-<!ENTITY insertButtonCmd.label "Define Button…">
+<!ENTITY insertButtonCmd.label "Definisci pulsante…">
 <!ENTITY listterm.accesskey "t">
-<!ENTITY insertTextAreaCmd.label "Text Area…">
+<!ENTITY insertTextAreaCmd.label "Area di testo…">
 <!ENTITY size-x-small.accesskey "m">
 <!ENTITY insertinputtag.accesskey "e">
 <!ENTITY copy.accesskey "c">
-<!ENTITY viewPageSource.label "Page Source">
+<!ENTITY viewPageSource.label "Risorsa pagina">
 <!ENTITY NormalAbbr.label "Text">
 <!ENTITY styleitalic.keybinding "i">
 <!ENTITY formatstylemenu.accesskey "s">
@@ -595,20 +595,20 @@ entities below were automatically added by l10nmerge
 <!ENTITY formatsizemenu.accesskey "z">
 <!ENTITY ok.label "OK">
 <!ENTITY editfindnext.keybinding "g">
-<!ENTITY insertSelectCmd.label "Selection List…">
+<!ENTITY insertSelectCmd.label "Lista di selezione…">
 <!ENTITY size-x-large.accesskey "x">
 <!ENTITY stylenonbreaking.accesskey "N">
 <!ENTITY toolsmenu.accesskey "l">
 <!ENTITY insertanchor.accesskey "A">
-<!ENTITY editRewrapCmd.label "Rewrap">
-<!ENTITY insertFormCmd.label "Define Form…">
+<!ENTITY editRewrapCmd.label "A capo">
+<!ENTITY insertFormCmd.label "Definisci modulo…">
 <!ENTITY paragraphblockquote.accesskey "b">
-<!ENTITY checkSpellingCmd.label "Check Spelling">
+<!ENTITY checkSpellingCmd.label "Controlla ortografia">
 <!ENTITY insertselect.accesskey "S">
 <!ENTITY selectall.accesskey "a">
 <!ENTITY editfindprev.keybinding "g">
 <!ENTITY paste.accesskey "p">
-<!ENTITY checkLinksCmd.label "Check Links">
+<!ENTITY checkLinksCmd.label "Controlla link">
 <!ENTITY sendPage.accesskey "d">
 <!ENTITY tablecellafter.accesskey "f">
 <!ENTITY stylesubscript.accesskey "S">
@@ -621,20 +621,20 @@ entities below were automatically added by l10nmerge
 <!ENTITY converttotable.accesskey "r">
 <!ENTITY redo.accesskey "r">
 <!ENTITY editfindprev.accesskey "v">
-<!ENTITY pasteImageCmd.label "Image">
-<!ENTITY openremoteCmd.label "Open Web Location…">
+<!ENTITY pasteImageCmd.label "Immagine">
+<!ENTITY openremoteCmd.label "Apri percorso web…">
 <!ENTITY insertlink.keybinding "l">
 <!ENTITY filerevert.accesskey "v">
 <!ENTITY size-xx-large.accesskey "e">
-<!ENTITY localfontfaceMenu.label "Local Fonts">
-<!ENTITY insertFieldSetCmd.label "Define Field Set…">
+<!ENTITY localfontfaceMenu.label "Font locali">
+<!ENTITY insertFieldSetCmd.label "Definisci campi…">
 <!ENTITY tablerow.accesskey "r">
 <!ENTITY formatremovelinks.keybinding "k">
 <!ENTITY formatstylesheetmenu.accesskey "y">
 <!ENTITY heading4.accesskey "4">
 <!ENTITY publishcmd.accesskey "b">
-<!ENTITY stylesheetMenu.label "Apply Style Sheet">
-<!ENTITY fontsizeMenu.label "Size">
+<!ENTITY stylesheetMenu.label "Applica foglio di stile">
+<!ENTITY fontsizeMenu.label "Dimensioni">
 <!ENTITY fileexit.keybinding "q">
 <!ENTITY increaseindentkb "=">
 <!ENTITY tablecellcontents.accesskey "n">
@@ -646,12 +646,12 @@ entities below were automatically added by l10nmerge
 <!ENTITY fileopenremote.keybinding "l">
 <!ENTITY fileprint.keybinding "p">
 <!ENTITY formatindent.keybinding "]">
-<!ENTITY colorPicker.default.label "Reader's default color">
+<!ENTITY colorPicker.default.label "Colore predefinito del lettore">
 <!ENTITY filesave.keybinding "s">
 <!ENTITY editlink.accesskey "i">
 <!ENTITY filesaveandchangeencoding.accesskey "E">
 <!ENTITY Heading2Abbr.label "H2">
-<!ENTITY insertBreakCmd.label "Line Break">
+<!ENTITY insertBreakCmd.label "Interruzione di linea">
 <!ENTITY inserttextarea.accesskey "T">
 <!ENTITY editfind.keybinding "f">
 <!ENTITY tablerowbelow.accesskey "b">
