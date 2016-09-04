@@ -69,7 +69,7 @@
 <!ENTITY pbItemAdvanced.label "Avancerat">
 <!ENTITY pb.quotingConversationsSortOrder.label "Vid sammanfattning, citera:">
 <!ENTITY pb.quotingConversationsSortOrderOldest.label "Äldsta meddelanden först">
-<!ENTITY pb.quotingConversationsSortOrderNewest.label "Nyaste meddelanden först">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Senaste meddelanden först">
 <!ENTITY pb.QuickReply.label "Förinställt snabbsvar till:">
 <!ENTITY pb.QuickReply.accesskey "Q">
 <!ENTITY pb.quickreply.replyall.label "Svara alla">
