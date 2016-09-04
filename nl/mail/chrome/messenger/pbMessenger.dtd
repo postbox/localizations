@@ -367,8 +367,8 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbToolbarButton-runFiltersButton.label "Run Filters">
-<!ENTITY pbToolbarButton-runFiltersButton.tooltip "Run filters on the current folder">
+<!ENTITY pbToolbarButton-runFiltersButton.label "Filters Draaien">
+<!ENTITY pbToolbarButton-runFiltersButton.tooltip "Draai filters voor de huidige map">
 
 
 <!--
@@ -376,16 +376,16 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pbContentTextContextMenu-postboxSearch.accesskey  "P">
-<!ENTITY pbContentTextContextMenu-postboxSearch.label      "Search in Postbox">
+<!ENTITY pbContentTextContextMenu-postboxSearch.label      "Zoek in Postbox">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbTopicContextMenu-delete.label       "Delete">
+<!ENTITY pbTopicContextMenu-delete.label       "Verwijderen">
 <!ENTITY pbTopicContextMenu-delete.accesskey   "d">
-<!ENTITY pbTopicContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbTopicContextMenu-assignColor.label  "Stel Onderwerpkleur in">
 <!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
 
 
@@ -393,17 +393,17 @@ entities below were automatically added by l10nmerge
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY reminderButton.label "Reminder">
-<!ENTITY removeReminderButton.tooltip "Mark the selected messages as not reminders">
-<!ENTITY reminderButton.tooltip "Mark the selected messages as reminders">
-<!ENTITY newReminderMenuitem.label "Create a new Reminder">
-<!ENTITY insertImageEditMsgToolbarCmd.tooltip        "Insert new image or edit selected image's properties">
+<!ENTITY reminderButton.label "Herinnering">
+<!ENTITY removeReminderButton.tooltip "Markeer de geselecteerde berichten niet als herinneringen">
+<!ENTITY reminderButton.tooltip "Markeer de geselecteerde berichten als herinneringen">
+<!ENTITY newReminderMenuitem.label "Maak een nieuwe Herinnering aan">
+<!ENTITY insertImageEditMsgToolbarCmd.tooltip        "Voer een nieuwe afbeelding in of pas de eigenschappen van de geselecteerde afbeelding aan">
 
-<!ENTITY quickpostButton.label "Quick Post">
-<!ENTITY quickpostButton.tooltip "Quick Post">
+<!ENTITY quickpostButton.label "Snelle Post">
+<!ENTITY quickpostButton.tooltip "Snelle Post">
 
-<!ENTITY pbQuickPostEditor.title "New Quick Post">
-<!ENTITY pbQuickPostEditor.name "Name">
-<!ENTITY pbQuickPostEditor.email "Email">
-<!ENTITY pbQuickPostEditor.beforeSubject "Before Subject">
-<!ENTITY pbQuickPostEditor.afterSubject "After Subject">
+<!ENTITY pbQuickPostEditor.title "Nieuwe Snelle Post">
+<!ENTITY pbQuickPostEditor.name "Naam">
+<!ENTITY pbQuickPostEditor.email "E-mailadres">
+<!ENTITY pbQuickPostEditor.beforeSubject "Voor Onderwerp">
+<!ENTITY pbQuickPostEditor.afterSubject "Na Onderwerp">

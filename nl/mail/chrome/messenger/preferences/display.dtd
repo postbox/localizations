@@ -60,12 +60,12 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
-<!ENTITY useRetina.label             "Retina Display">
+<!ENTITY pbChromeFontSize.label           "Lettergrootte Berichtenlijst en Map:">
+<!ENTITY useRetina.label             "Retina Scherm">
 <!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pb.itemGeneral.label        "General">
+<!ENTITY pbChromeFontSizeSmall.label      "Klein">
+<!ENTITY pbChromeFontSizeLarge.label      "Groot">
+<!ENTITY pb.itemGeneral.label        "Algemeen">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 
@@ -73,20 +73,20 @@ entities below were automatically added by l10nmerge
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY quotedColor2.label "Quoted color, level 2">
-<!ENTITY devPixelsPerPx.label        "High DPI scaling:">
+<!ENTITY quotedColor2.label "Kleur quote, niveau 2">
+<!ENTITY devPixelsPerPx.label        "Hoge DPI schaling:">
 <!ENTITY devPixelsPerPx.accesskey    "D">
-<!ENTITY quotedColor5.label "Quoted color, level 5">
-<!ENTITY quotedColors.label "Quoted colors, levels 1 to 5:">
-<!ENTITY quotedColor1.label "Quoted color, level 1">
-<!ENTITY quotedColor3.label "Quoted color, level 3">
-<!ENTITY quotedColor4.label "Quoted color, level 4">
+<!ENTITY quotedColor5.label "Kleur quote, niveau 5">
+<!ENTITY quotedColors.label "Kleuren quote, Niveaus 1 tot 5:">
+<!ENTITY quotedColor1.label "Kleur quote, niveau 1">
+<!ENTITY quotedColor3.label "Kleur quote, niveau 3">
+<!ENTITY quotedColor4.label "Kleur quote, niveau 4">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY devPixelsPerPx.default      "Default">
-<!ENTITY devPixelsPerPx.highdpi      "High DPI">
-<!ENTITY devPixelsPerPx.lowdpi       "Low DPI">
+<!ENTITY devPixelsPerPx.default      "Standaard">
+<!ENTITY devPixelsPerPx.highdpi      "Hoge DPI">
+<!ENTITY devPixelsPerPx.lowdpi       "Lage DPI">
