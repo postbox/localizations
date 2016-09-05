@@ -397,7 +397,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbShowCompositionGoalsToolbarCmd.label "Doelstatusbalk">
 <!ENTITY pbStatsTime.label "Tijd:">
 <!ENTITY pbSourceViewThemes.label "Thema">
-<!ENTITY compositionGoals.tooltip "Toon of verberg de Compositiondoelen statusbalk">
+<!ENTITY compositionGoals.tooltip "Toon of verberg de compositiedoelen statusbalk">
 <!ENTITY switchBetweenNormalAndCode.tooltip "Wissel tussen Normale en Code weergaves">
 <!ENTITY compositionGoals.label "Doelen">
 <!ENTITY tagButton.key "T">
