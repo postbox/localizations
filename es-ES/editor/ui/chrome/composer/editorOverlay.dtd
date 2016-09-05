@@ -172,7 +172,7 @@
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
 <!ENTITY FontSizeSelect.tooltip "Elija un tamaño de letra">
-<!ENTITY resetToDefaultFontSize.label "Reset to default">
+<!ENTITY resetToDefaultFontSize.label "Volver a la configuración predeterminada">
 <!ENTITY decreaseFontSize.label "Menor">
 <!ENTITY decreaseFontSize.accesskey "r">
 <!ENTITY decreaseFontSize.key "-">
@@ -438,7 +438,7 @@
 -->
 
 <!ENTITY listprops.accesskey "l">
-<!ENTITY tableFix.label "Fix Table Layout">
+<!ENTITY tableFix.label "Fijar diseño de la tabla">
 <!ENTITY ParagraphAbbr.label "P">
 <!ENTITY decreasefontsize.accesskey "r">
 <!ENTITY Heading3Abbr.label "H3">
@@ -466,9 +466,9 @@
 <!ENTITY clear.accesskey "l">
 <!ENTITY fileopen.accesskey "o">
 <!ENTITY formatlistmenu.accesskey "l">
-<!ENTITY insertIsIndexCmd.label "Index Search">
+<!ENTITY insertIsIndexCmd.label "Búsqueda del índice">
 <!ENTITY insertfieldset.accesskey "F">
-<!ENTITY insertInputImageCmd.label "Form Image…">
+<!ENTITY insertInputImageCmd.label "Imagen del formulario…">
 <!ENTITY insertform.accesskey "D">
 <!ENTITY advancedproperties.accesskey "v">
 <!ENTITY alignleft.accesskey "l">
@@ -485,7 +485,7 @@
 <!ENTITY formatToolbar.italicChar "I">
 <!ENTITY decreaseindent.accesskey "D">
 <!ENTITY heading1.accesskey "1">
-<!ENTITY listProps.label "List Properties…">
+<!ENTITY listProps.label "Listar propiedades…">
 <!ENTITY pasteRows.accesskey "r">
 <!ENTITY paragraphparagraph.accesskey "P">
 <!ENTITY viewparagraphmarks.accesskey "p">
@@ -495,7 +495,7 @@
 <!ENTITY formatfontfixed.keybinding "t">
 <!ENTITY tablemenu.accesskey "b">
 <!ENTITY insertlink.accesskey "l">
-<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.label "Vista previa">
 <!ENTITY styleunderline.keybinding "u">
 <!ENTITY size-medium.accesskey "d">
 <!ENTITY delete.accesskey "d">
@@ -511,15 +511,15 @@
 <!ENTITY inserthline.accesskey "o">
 <!ENTITY decreaseindentkb "-">
 <!ENTITY insertinputimage.accesskey "I">
-<!ENTITY pasteTextCmd.label "Text">
+<!ENTITY pasteTextCmd.label "Texto">
 <!ENTITY newBlankPage.accesskey "P" >
-<!ENTITY textColorCaption.label "Text Color">
-<!ENTITY insertFormMenu.label "Form">
+<!ENTITY textColorCaption.label "Color del texto">
+<!ENTITY insertFormMenu.label "Formulario">
 <!ENTITY tableinsertmenu.accesskey "i">
-<!ENTITY editStripQuotesCmd.label "Strip Quotes">
+<!ENTITY editStripQuotesCmd.label "Quitar formato de citas">
 <!ENTITY insertformmenu.accesskey "F">
 <!ENTITY editfind.accesskey "f">
-<!ENTITY pasteRowsCmd.label "Rows">
+<!ENTITY pasteRowsCmd.label "Filas">
 <!ENTITY formatparagraphmenu.accesskey "P">
 <!ENTITY editpastelink.accesskey "l">
 <!ENTITY pasteImage.accesskey "i">
@@ -527,8 +527,8 @@
 <!ENTITY tablesplitcell.accesskey "c">
 <!ENTITY fileopen.keybinding "o">
 <!ENTITY increaseFontSize.keybinding "+">
-<!ENTITY insertInputTagCmd.label "Form Field…">
-<!ENTITY viewParagraphMarks.label "Paragraph Marks">
+<!ENTITY insertInputTagCmd.label "Campo del formulario…">
+<!ENTITY viewParagraphMarks.label "Marcas de párrafo">
 <!ENTITY size-small.accesskey "s">
 <!ENTITY formatoutdent.keybinding "[">
 <!ENTITY alignright.accesskey "r">
@@ -538,29 +538,29 @@
 <!ENTITY formatToolbar.boldChar "B">
 <!ENTITY fontfixedwidth.accesskey "x">
 <!ENTITY filesave.accesskey "s">
-<!ENTITY pasteLinkCmd.label "Link">
+<!ENTITY pasteLinkCmd.label "Enlace">
 <!ENTITY fonthelvetica.accesskey "l">
-<!ENTITY printButtonCmd.label "Print…">
+<!ENTITY printButtonCmd.label "Imprimir…">
 <!ENTITY increaseindent.accesskey "i">
 <!ENTITY fileclose.accesskey "c">
 <!ENTITY pasteText.accesskey "t">
 <!ENTITY stylesuperscript.accesskey "p">
 <!ENTITY pageproperties.accesskey "g">
 <!ENTITY styleunderline.accesskey "u">
-<!ENTITY paragraphBlockquoteCmd.label "Blockquote">
+<!ENTITY paragraphBlockquoteCmd.label "Bloquear cita">
 <!ENTITY Heading4Abbr.label "H4">
 <!ENTITY fontvarwidth.accesskey "v">
 <!ENTITY styleitalic.accesskey "I">
-<!ENTITY pasteColumnsCmd.label "Columns">
+<!ENTITY pasteColumnsCmd.label "Columnas">
 <!ENTITY size-xx-small.accesskey "a">
 <!ENTITY pasteTable.accesskey "a">
 <!ENTITY increasefontsize.accesskey "g">
-<!ENTITY insertLabelCmd.label "Define Label">
+<!ENTITY insertLabelCmd.label "Definir etiqueta">
 <!ENTITY none.accesskey "N">
 <!ENTITY formatalignmenu.accesskey "a">
 <!ENTITY paragraphpreformat.accesskey "f">
 <!ENTITY fileexporttotext.accesskey "T">
-<!ENTITY insertImageMapCmd.label "Image Map…">
+<!ENTITY insertImageMapCmd.label "Mapa de imágenes…">
 <!ENTITY editfindnext.accesskey "g">
 <!ENTITY listdefinition.accesskey "d">
 <!ENTITY tablejoincells.accesskey "j">
@@ -581,13 +581,13 @@
 <!ENTITY formatremovenamedanchors.keybinding "a">
 <!ENTITY BlockquoteAbbr.label "BQ">
 <!ENTITY localfontmenu.accesskey "f">
-<!ENTITY insertButtonCmd.label "Define Button…">
+<!ENTITY insertButtonCmd.label "Definir botón…">
 <!ENTITY listterm.accesskey "t">
-<!ENTITY insertTextAreaCmd.label "Text Area…">
+<!ENTITY insertTextAreaCmd.label "Área de texto…">
 <!ENTITY size-x-small.accesskey "m">
 <!ENTITY insertinputtag.accesskey "e">
 <!ENTITY copy.accesskey "c">
-<!ENTITY viewPageSource.label "Page Source">
+<!ENTITY viewPageSource.label "Fuente de la página">
 <!ENTITY NormalAbbr.label "Text">
 <!ENTITY styleitalic.keybinding "i">
 <!ENTITY formatstylemenu.accesskey "s">
@@ -596,20 +596,20 @@
 <!ENTITY formatsizemenu.accesskey "z">
 <!ENTITY ok.label "OK">
 <!ENTITY editfindnext.keybinding "g">
-<!ENTITY insertSelectCmd.label "Selection List…">
+<!ENTITY insertSelectCmd.label "Lista de selección…">
 <!ENTITY size-x-large.accesskey "x">
 <!ENTITY stylenonbreaking.accesskey "N">
 <!ENTITY toolsmenu.accesskey "l">
 <!ENTITY insertanchor.accesskey "A">
-<!ENTITY editRewrapCmd.label "Rewrap">
-<!ENTITY insertFormCmd.label "Define Form…">
+<!ENTITY editRewrapCmd.label "Reajustar">
+<!ENTITY insertFormCmd.label "Definir formulario…">
 <!ENTITY paragraphblockquote.accesskey "b">
-<!ENTITY checkSpellingCmd.label "Check Spelling">
+<!ENTITY checkSpellingCmd.label "Comprobar ortografía">
 <!ENTITY insertselect.accesskey "S">
 <!ENTITY selectall.accesskey "a">
 <!ENTITY editfindprev.keybinding "g">
 <!ENTITY paste.accesskey "p">
-<!ENTITY checkLinksCmd.label "Check Links">
+<!ENTITY checkLinksCmd.label "Comprobar enlaces">
 <!ENTITY sendPage.accesskey "d">
 <!ENTITY tablecellafter.accesskey "f">
 <!ENTITY stylesubscript.accesskey "S">
@@ -622,20 +622,20 @@
 <!ENTITY converttotable.accesskey "r">
 <!ENTITY redo.accesskey "r">
 <!ENTITY editfindprev.accesskey "v">
-<!ENTITY pasteImageCmd.label "Image">
-<!ENTITY openremoteCmd.label "Open Web Location…">
+<!ENTITY pasteImageCmd.label "Imagen">
+<!ENTITY openremoteCmd.label "Abrir ubicación del sitio…">
 <!ENTITY insertlink.keybinding "l">
 <!ENTITY filerevert.accesskey "v">
 <!ENTITY size-xx-large.accesskey "e">
-<!ENTITY localfontfaceMenu.label "Local Fonts">
-<!ENTITY insertFieldSetCmd.label "Define Field Set…">
+<!ENTITY localfontfaceMenu.label "Caracteres locales">
+<!ENTITY insertFieldSetCmd.label "Definir conjunto de campos…">
 <!ENTITY tablerow.accesskey "r">
 <!ENTITY formatremovelinks.keybinding "k">
 <!ENTITY formatstylesheetmenu.accesskey "y">
 <!ENTITY heading4.accesskey "4">
 <!ENTITY publishcmd.accesskey "b">
-<!ENTITY stylesheetMenu.label "Apply Style Sheet">
-<!ENTITY fontsizeMenu.label "Size">
+<!ENTITY stylesheetMenu.label "Aplicar estilo de hoja">
+<!ENTITY fontsizeMenu.label "Tamaño">
 <!ENTITY fileexit.keybinding "q">
 <!ENTITY increaseindentkb "=">
 <!ENTITY tablecellcontents.accesskey "n">
@@ -647,12 +647,12 @@
 <!ENTITY fileopenremote.keybinding "l">
 <!ENTITY fileprint.keybinding "p">
 <!ENTITY formatindent.keybinding "]">
-<!ENTITY colorPicker.default.label "Reader's default color">
+<!ENTITY colorPicker.default.label "Color predeterminado del lector">
 <!ENTITY filesave.keybinding "s">
 <!ENTITY editlink.accesskey "i">
 <!ENTITY filesaveandchangeencoding.accesskey "E">
 <!ENTITY Heading2Abbr.label "H2">
-<!ENTITY insertBreakCmd.label "Line Break">
+<!ENTITY insertBreakCmd.label "Salto de línea">
 <!ENTITY inserttextarea.accesskey "T">
 <!ENTITY editfind.keybinding "f">
 <!ENTITY tablerowbelow.accesskey "b">
