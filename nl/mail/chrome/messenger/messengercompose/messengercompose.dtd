@@ -426,7 +426,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY imageSize.label "Afbeeldingsgrootte:">
 <!ENTITY largeImageResize.label "Groot">
 <!ENTITY templatePlaceholderMySelectedIdentity.label "Mijn Gekozen Identiteit">
-<!ENTITY templacePlaceholderFillValues.label "Vul Waardes">
+<!ENTITY templacePlaceholderFillValues.label "Vul waardes in">
 <!ENTITY templatePlaceholderSourceMessage.label "Bronbericht">
 <!ENTITY templatePlaceholderSender.label "Afzender">
 <!ENTITY mediumImageResize.label "Medium">

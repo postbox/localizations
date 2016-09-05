@@ -368,7 +368,7 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY pbToolbarButton-runFiltersButton.label "Filters Draaien">
-<!ENTITY pbToolbarButton-runFiltersButton.tooltip "Draai filters voor de huidige map">
+<!ENTITY pbToolbarButton-runFiltersButton.tooltip "Pas filters toe voor de huidige map">
 
 
 <!--

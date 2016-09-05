@@ -550,7 +550,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY formatToolbar.italicChar "I">
 <!ENTITY decreaseindent.accesskey "D">
 <!ENTITY heading1.accesskey "1">
-<!ENTITY listProps.label "Eigenschappenlijst">
+<!ENTITY listProps.label "Eigenschappenlijst...">
 <!ENTITY pasteRows.accesskey "r">
 <!ENTITY paragraphparagraph.accesskey "P">
 <!ENTITY viewparagraphmarks.accesskey "p">
@@ -592,7 +592,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY tablesplitcell.accesskey "c">
 <!ENTITY fileopen.keybinding "o">
 <!ENTITY increaseFontSize.keybinding "+">
-<!ENTITY insertInputTagCmd.label "Formuliervelden">
+<!ENTITY insertInputTagCmd.label "Formulierveld...">
 <!ENTITY viewParagraphMarks.label "Paragraaftekens">
 <!ENTITY size-small.accesskey "s">
 <!ENTITY formatoutdent.keybinding "[">
@@ -605,7 +605,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY filesave.accesskey "s">
 <!ENTITY pasteLinkCmd.label "Link">
 <!ENTITY fonthelvetica.accesskey "l">
-<!ENTITY printButtonCmd.label "Afdrukken">
+<!ENTITY printButtonCmd.label "Afdrukken...">
 <!ENTITY increaseindent.accesskey "i">
 <!ENTITY fileclose.accesskey "c">
 <!ENTITY pasteText.accesskey "t">

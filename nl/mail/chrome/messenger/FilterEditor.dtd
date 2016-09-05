@@ -69,13 +69,13 @@ entities below were automatically added by l10nmerge
 <!ENTITY systemAlertSound.label "Systeemmelding Geluid">
 <!ENTITY removeTag.label "Verwijder Onderwerp">
 <!ENTITY reminderStatus.label "Herinnering">
-<!ENTITY markMessagePending.label "Mark als Hangend">
+<!ENTITY markMessagePending.label "Markeer als in behandeling">
 <!ENTITY noScriptSelected.label "Selecteer een AppleScript">
-<!ENTITY globalFilterChekbox.label "Dit is een globaal filter">
+<!ENTITY globalFilterChekbox.label "Dit is een globale filter">
 <!ENTITY readStatus.label "Lezen">
 <!ENTITY launchScript.label "AppleScript draaien">
 <!ENTITY openInFinder.label "Openen in Finder">
-<!ENTITY pendingStatus.label "Hangend">
+<!ENTITY pendingStatus.label "In behandeling">
 <!ENTITY notReminderStatus.label "Geen Herinnering">
 <!ENTITY unreadStatus.label "Ongelezen">
 

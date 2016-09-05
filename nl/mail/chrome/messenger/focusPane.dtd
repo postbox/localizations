@@ -63,10 +63,10 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbFavoriteContactsContextMenu-createfilter.accesskey "F">
 <!ENTITY pbFavoriteTopicsContextMenu-assignColor.accesskey "S">
 <!ENTITY focusPaneNotRepliedAttribute.label           "Niet Beantwoord">
-<!ENTITY focusPaneNotPendingAttribute.label        "Niet Hangend">
+<!ENTITY focusPaneNotPendingAttribute.label        "Niet in behandeling">
 <!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
 <!ENTITY focusPaneSubscriptionsAttribute.label     "Abonnementen">
-<!ENTITY focusPanePendingAttribute.label           "Hangend">
+<!ENTITY focusPanePendingAttribute.label           "In behandeling">
 <!ENTITY focusPaneToMeOnlyAttribute.label          "Alleen Naar Mij">
 <!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Stel Kleur Onderwerp in">
 <!ENTITY focusPaneReadAttribute.label           "Lezen">
