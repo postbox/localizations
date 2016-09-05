@@ -1,13 +1,13 @@
-﻿<!ENTITY releaseNotes.label "Примечания к выпуску:">
+﻿<!ENTITY releaseNotes.label "Заметки о выпуске:">
 <!ENTITY cancelButton.label "Отмена">
 <!ENTITY installUpdateButton.label "Установить обновление">
 <!ENTITY newVersion.label "Доступна более новая версия Postbox.">
 
 <!ENTITY updatingPostbox.label "Обновление Postbox">
-<!ENTITY downloading.label "Загрузка обновления…">
+<!ENTITY downloading.label "Выполняется загрузка обновления…">
 
 <!ENTITY errorTitle.label "Ошибка">
-<!ENTITY errorProse.description "Произошла ошибка во время обновления. Загрузите и установите последнюю версию Postbox с нашего веб-сайта.">
+<!ENTITY errorProse.description "Произошла ошибка во время обновления. Загрузите последнюю версию Postbox с нашего веб-сайта и установите ее.">
 <!ENTITY continueButton.label "Продолжить">
 
 <!ENTITY ready.label "Все готово для установки">

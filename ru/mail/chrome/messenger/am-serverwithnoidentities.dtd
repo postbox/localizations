@@ -1,5 +1,5 @@
 ﻿<!ENTITY accountTitle.label "Параметры учетной записи">
-<!ENTITY accountName.label "Имя учетной записи:">
+<!ENTITY accountName.label "Название учетной записи:">
 <!ENTITY accountName.accesskey "n">
 <!ENTITY emptyTrashOnExit.label "Очищать корзину при выходе">
 <!ENTITY emptyTrashOnExit.accesskey "x">

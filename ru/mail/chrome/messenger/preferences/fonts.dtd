@@ -6,7 +6,7 @@
 <!ENTITY  language.label                          "Шрифты для набора символов:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  size.label                              "Size:">
+<!ENTITY  size.label                              "Размер:">
 <!ENTITY  proportionalSize.accesskey              "м">
 <!ENTITY  sizeMono.accesskey                      "i">
 
@@ -58,7 +58,7 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Без засечек">
 
 <!-- fonts in message -->
-<!ENTITY  useFixedWidthForPlainText.label         "Использовать моноширинные шрифты для сообщений с простым текстом">
+<!ENTITY  useFixedWidthForPlainText.label         "Использовать моноширинные шрифты для сообщений в виде обычного текста">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Разрешить использование других шрифтов в сообщениях">
 <!ENTITY  useDocumentFonts.accesskey              "o">

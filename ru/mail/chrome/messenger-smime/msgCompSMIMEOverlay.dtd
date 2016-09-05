@@ -3,7 +3,7 @@
 <!ENTITY securityMenu.label "Безопасность">
 <!ENTITY securityMenu.accesskey "e">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Шифровать при возможности">
+<!ENTITY menu_securityEncryptIfPossible.label "Шифровать по возможности">
 <!ENTITY menu_securityEncryptIfPossible.accesskey "p">
 
 <!ENTITY menu_securityEncryptRequire.label "Шифровать это сообщение">

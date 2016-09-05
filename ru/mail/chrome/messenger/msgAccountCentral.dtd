@@ -1,20 +1,20 @@
-﻿<!ENTITY emailSectionHdr.label        "Электронная почта"> 
-<!ENTITY readMsgsLink.label           "Прочитать сообщения"> 
-<!ENTITY composeMsgLink.label         "Создать новое сообщение"> 
+﻿<!ENTITY emailSectionHdr.label        "Электронная почта">
+<!ENTITY readMsgsLink.label           "Прочитать сообщения">
+<!ENTITY composeMsgLink.label         "Создать новое сообщение">
 
-<!ENTITY newsSectionHdr.label         "Группы новостей"> 
-<!ENTITY subscribeNewsLink.label      "Управление подписками на группы новостей"> 
+<!ENTITY newsSectionHdr.label         "Группы новостей">
+<!ENTITY subscribeNewsLink.label      "Управление подписками на группы новостей">
 
-<!ENTITY accountsSectionHdr.label     "Учетные записи"> 
+<!ENTITY accountsSectionHdr.label     "Учетные записи">
 <!ENTITY subscribeImapFolders.label   "Управление подписками на папки">
-<!ENTITY settingsLink.label           "Просмотр параметров этой учетной записи"> 
-<!ENTITY newAcctLink.label            "Создать учетную запись"> 
+<!ENTITY settingsLink.label           "Просмотр параметров этой учетной записи">
+<!ENTITY newAcctLink.label            "Создать учетную запись">
 
-<!ENTITY advFeaturesSectionHdr.label  "Дополнительные функции"> 
-<!ENTITY searchMsgsLink.label         "Поиск сообщений"> 
+<!ENTITY advFeaturesSectionHdr.label  "Дополнительные функции">
+<!ENTITY searchMsgsLink.label         "Поиск сообщений">
 <!ENTITY filtersLink.label            "Создать фильтры сообщений">
-<!ENTITY junkSettings.label           "Параметры спам-фильтров">
+<!ENTITY junkSettings.label           "Параметры фильтров спама">
 <!ENTITY offlineLink.label            "Параметры автономной работы">
 
-<!ENTITY rssSectionHdr.label          "RSS-новости и блоги"> 
+<!ENTITY rssSectionHdr.label          "RSS-новости и блоги">
 <!ENTITY subscibeRSS.label            "Управление подписками">

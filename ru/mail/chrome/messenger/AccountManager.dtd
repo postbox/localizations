@@ -10,7 +10,7 @@
 <!ENTITY addRSSAccountButton.accesskey "R">
 <!ENTITY addNewsgroupAccountButton.label "Добавить учетную запись группы новостей…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
-<!ENTITY setDefaultButton.label "Установить по умолчанию">
+<!ENTITY setDefaultButton.label "По умолчанию">
 <!ENTITY setDefaultButton.accesskey "f">
 <!ENTITY removeButton.label "Удалить учетную запись">
 <!ENTITY removeButton.accesskey "R">

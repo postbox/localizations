@@ -1,5 +1,5 @@
 ﻿
-<!ENTITY copyrightText          "&#169; Postbox, Inc. и участники проекта, 2007-2014. Все права защищены.
+<!ENTITY copyrightText          "&#169; Postbox, Inc. и соавторы, 2007-2014 гг. Все права защищены.
                                  Приложение Postbox разработано и поддерживается компанией Postbox, Inc.">
 
 
@@ -35,10 +35,10 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Обновления доступны: ">
+<!ENTITY update.manual.start        "Сайт обновлений: ">
 <!ENTITY update.manual.end          "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).

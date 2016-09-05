@@ -4,7 +4,7 @@
 <!ENTITY signatureCert.label "Просмотр сертификата подписи">
 <!ENTITY encryptionCert.label "Просмотр сертификата шифрования">
 
-<!ENTITY signer.name "Подписано:">
+<!ENTITY signer.name "Подписал(а):">
 <!ENTITY recipient.name "Зашифровано для:">
 <!ENTITY email.address "Адрес эл. почты:">
 <!ENTITY issuer.name "Сертификат выдан:">

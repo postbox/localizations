@@ -15,7 +15,7 @@
 <!ENTITY body.label "текст сообщения">
 <!ENTITY contains.label "содержит">
 <!ENTITY nocontains.label "не содержит">
-<!ENTITY filterName.label "Имя фильтра:">
+<!ENTITY filterName.label "Название фильтра:">
 <!ENTITY filterName.accesskey "i">
 
 <!ENTITY junk.label "Спам">
@@ -27,7 +27,7 @@
 <!ENTITY highPriorityCmd.label "Высокая">
 <!ENTITY highestPriorityCmd.label "Самая высокая">
 
-<!ENTITY conditionDesc.label "Для входящих сообщений, которые:">
+<!ENTITY conditionDesc.label "Применять фильтр, когда:">
 <!ENTITY filterActionDesc.label "Выполнять следующие действия:">
 <!ENTITY filterActionDesc.accesskey "P">
 
@@ -42,7 +42,7 @@
 <!ENTITY markMessageRead.label "Пометить как прочитанное">
 <!ENTITY markMessageStarred.label "Пометить звездочкой">
 <!ENTITY labelMessage.label "Пометить сообщение как">
-<!ENTITY setPriority.label "Изменить важность на">
+<!ENTITY setPriority.label "Назначить важность">
 <!ENTITY addTag.label "Присвоить сообщению метку">
 <!ENTITY setJunkScore.label "Установить метку спама">
 <!ENTITY deleteMessage.label "Удалить сообщение">
@@ -86,4 +86,4 @@ entities below were automatically added by l10nmerge
 <!ENTITY notReminderStatus.label "Не напоминание">
 <!ENTITY unreadStatus.label "Непрочитанное">
 
-<!ENTITY quickPost.label "Quick Post">
+<!ENTITY quickPost.label "Быстрое сообщение">

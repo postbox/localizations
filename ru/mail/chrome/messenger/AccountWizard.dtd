@@ -25,7 +25,7 @@
 
 <!ENTITY emailLabel.label "Адрес эл. почты:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "Введите ваш адрес электронной почты, который будет использоваться для отправки вам сообщений">
+<!ENTITY emailDesc.label "Введите свой адрес электронной почты, который будет использоваться для отправки вам сообщений">
 <!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
 <!ENTITY emailExample.label "(например: user@example.net).">
 
@@ -36,15 +36,15 @@
 <!ENTITY incomingServerTypeDesc.label "Выберите тип используемого сервера входящей почты.">
 <!ENTITY incomingServerTypeLabel.label "Тип сервера:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Введите имя сервера входящей почты (например, mail.example.net).">
+<!ENTITY incomingServerNameDesc.label "Введите имя сервера входящей почты (например, «mail.example.net»).">
 <!ENTITY incomingServerLabel.label "Сервер входящей почты:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Введите имя сервера новостей (NNTP) (например, news.example.net).">
+<!ENTITY newsServerNameDesc.label "Введите имя сервера новостей (NNTP) (например, «news.example.net»).">
 <!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
 <!ENTITY smtpServerTitle.label "Сервер исходящей почты (SMTP)">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Введите имя сервера исходящей почты (SMTP) (например, smtp.example.net).">
+<!ENTITY smtpServerDesc.label "Введите имя сервера исходящей почты (SMTP) (например, «smtp.example.net»).">
 <!ENTITY smtpServerLabel.label "Сервер исходящей почты:">
 <!ENTITY smtpServerLabel.accesskey "O">
 <!ENTITY newsServerLabel.label "Cервер групп новостей:">
@@ -72,19 +72,19 @@
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Имена пользователя">
-<!ENTITY usernameDesc.label "Введите имя пользователя сервера входящей почты, полученное от провайдера электронной почты">
+<!ENTITY usernameDesc.label "Введите имя пользователя сервера входящей почты, полученное от поставщика услуг электронной почты">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(например, i_ivanov).">
+<!ENTITY usernameExample.label "(например, «jsmith»).">
 <!ENTITY usernameLabel.label "Имя пользователя входящей почты:">
 <!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "Введите имя пользователя сервера исходящей почты, полученное от провайдера электронной почты (обычно совпадает с именем пользователя входящей почты).">
+<!ENTITY usernameSmtpDesc.label "Введите имя пользователя сервера исходящей почты, полученное от поставщика услуг электронной почты (обычно оно совпадает с именем пользователя входящей почты).">
 <!ENTITY usernameSmtpLabel.label "Имя пользователя исходящей почты:">
 <!ENTITY usernameSmtpLabel.accesskey "S">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Будет использоваться уже существующее имя пользователя исходящей почты (SMTP) «">
+<!ENTITY haveSmtp2.prefix "Будет использоваться существующее имя пользователя исходящей почты (SMTP) «">
 <!ENTITY haveSmtp2.suffix "». Чтобы изменить параметры сервера исходящей почты, в меню «Инструменты» выберите «Параметры учетной записи».">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
@@ -98,7 +98,7 @@
 <!ENTITY accnameTitle.label "Имя учетной записи">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Введите имя этой учетной записи (например, «Рабочая», «Личная» или «Новости»).">
-<!ENTITY accnameExample.label "Например, «Работа», «Личная» или «Новости»">
+<!ENTITY accnameExample.label "Например, «Рабочая», «Личная» или «Новости»">
 <!ENTITY accnameLabel.label "Имя учетной записи:">
 <!ENTITY accnameLabel.accesskey "A">
 
@@ -111,8 +111,8 @@
 <!ENTITY smtpServerNamePrefix.label "Имя сервера исходящей почты (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Имя сервера новостей (NNTP):">
 <!ENTITY downloadOnLogin.label "Загрузить сообщения">
-<!ENTITY deferStorageDesc.label "Снимите этот флажок, чтобы хранить почту для этой учетной записи в ее папке. При этом данная учетная запись будет отображаться как учетная запись верхнего уровня. В противном случае учетная запись будет частью общей папки «Входящие», находящейся в локальных папках.">
-<!ENTITY deferStorage.label "Использовать общую папку «Входящие» (хранить почту в локальных папках)">
+<!ENTITY deferStorageDesc.label "Дополнительно:">
+<!ENTITY deferStorage.label "Использовать общую папку «Входящие» (хранить почту в разделе «Локальные папки»)">
 <!ENTITY clickFinish.label "Нажмите «Готово», чтобы сохранить текущие параметры и завершить работу мастера учетных записей.">
 <!ENTITY clickFinish.labelMac "Нажмите «Готово», чтобы сохранить текущие параметры и завершить работу мастера учетных записей.">
 

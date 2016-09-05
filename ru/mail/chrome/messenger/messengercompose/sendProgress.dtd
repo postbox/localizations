@@ -1,8 +1,8 @@
 ﻿<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-<!ENTITY sendWindow.title "Отправка сообщений"> 
-<!ENTITY titlePrefixSave "Сохранение сообщений -"> 
-<!ENTITY titlePrefixSend "Отправка сообщений -"> 
-<!ENTITY status   "Состояние:"> 
+<!ENTITY sendWindow.title "Отправка сообщений">
+<!ENTITY titlePrefixSave "Сохранение сообщений -">
+<!ENTITY titlePrefixSend "Отправка сообщений -">
+<!ENTITY status   "Состояние:">
 <!ENTITY progress "Выполнение:">
 
 <!-- LOCALIZATION NOTE (percentMsg):
@@ -13,5 +13,5 @@
     #1 will be replaced by the percentage of the file that has been saved -->
 <!ENTITY percentMsg "#1&#037;">
 
-<!ENTITY messageSent "Сообщение было отправлено">
-<!ENTITY messageSaved "Сообщение было сохранено">
+<!ENTITY messageSent "Сообщение отправлено">
+<!ENTITY messageSaved "Сообщение сохранено">

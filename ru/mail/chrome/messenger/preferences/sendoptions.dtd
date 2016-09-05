@@ -1,21 +1,21 @@
 ﻿<!ENTITY dialog.title                 "Параметры отправки">
 <!ENTITY sendMail.title               "Текстовый формат">
-<!ENTITY sendMaildesc.label           "Если при отправке сообщений в формате HTML какой-либо получатель не указан в списке поддерживающих формат HTML:">
+<!ENTITY sendMaildesc.label           "Если при отправке сообщений в формате HTML какой-либо получатель не указан в списке поддерживающих этот формат:">
 <!ENTITY askMe.label                  "Спрашивать, что делать">
 <!ENTITY askMe.accesskey              "k">
-<!ENTITY convertPlain.label           "Преобразовать сообщение в простой текст">
+<!ENTITY convertPlain.label           "Преобразовать сообщение в обычный текст">
 <!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "Отправлять сообщения в HTML">
+<!ENTITY sendHTML.label               "Отправить сообщение в формате HTML">
 <!ENTITY sendHTML.accesskey           "H">
-<!ENTITY sendBoth.label               "Отправлять сообщение как в виде простого текста, так и HTML">
+<!ENTITY sendBoth.label               "Отправить сообщение как в виде обычного текста, так и в виде HTML">
 <!ENTITY sendBoth.accesskey           "H">
-<!ENTITY receiveHTML.label            "Если известно, что получатель поддерживает почту в формате HTML, снимите флажок «Отправлять сообщения в виде простого текста (без HTML)» в его карточке в адресной книге.">
+<!ENTITY receiveHTML.label            "Если известно, что получатель поддерживает почту в формате HTML, снимите флажок «Отправлять сообщения в виде обычного текста (без HTML)» в его карточке адресной книги.">
 <!ENTITY override.label               "Примечание. Предпочтительные форматы можно указывать в адресной книге.">
 
 <!ENTITY domaindesc.label             "При отправке сообщения по адресу, который содержит одно из приведенных ниже имен домена, &brandShortName; автоматически отправляет сообщение в правильном формате.">
 <!ENTITY HTMLTab.label                "Домены, поддерживающие HTML">
 <!ENTITY HTMLTab.accesskey            "H">
-<!ENTITY PlainTextTab.label           "Домены, поддерживающие простой текст">
+<!ENTITY PlainTextTab.label           "Домены, поддерживающие обычный текст">
 <!ENTITY PlainTextTab.accesskey       "P">
 <!ENTITY AddButton.label              "Добавить…">
 <!ENTITY AddHtmlDomain.accesskey      "a">
@@ -27,8 +27,8 @@
 <!ENTITY add.htmltitle                "Добавить имя домена, поддерживающего HTML">
 <!ENTITY add.htmldomain               "Имя домена, поддерживающего HTML:">
 <!ENTITY add.htmldomain.accesskey     "d">
-<!ENTITY add.plaintexttitle           "Добавить имя домена, поддерживающего простой текст">
-<!ENTITY add.plaintextdomain          "Имя домена, поддерживающего простой текст:">
+<!ENTITY add.plaintexttitle           "Добавить имя домена, поддерживающего обычный текст">
+<!ENTITY add.plaintextdomain          "Имя домена, поддерживающего обычный текст:">
 <!ENTITY add.plaintext.accesskey      "d">
 
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
@@ -36,4 +36,4 @@
 <!ENTITY duplicationError.label       "Имя домена @string@ уже есть в этом списке.">
 
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Нельзя указывать одно и то же имя домена в обоих списках (поддерживающих HTML и простой текст). Имя домена @string@ уже существует.">
+<!ENTITY dualEntryError.label         "Нельзя указывать одно и то же имя домена в списке поддержки HTML и в списке поддержки обычного текста. Имя домена @string@ уже существует.">

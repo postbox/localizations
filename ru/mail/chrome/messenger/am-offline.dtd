@@ -27,7 +27,7 @@
 <!ENTITY offlineSelect.accesskey "S">
 <!ENTITY makeInboxMsgsAvailable.label "Сделать сообщения в папке «Входящие» доступными в автономном режиме">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "Автономная работа">
+<!ENTITY offlineGroupTitle.label "Автономный режим">
 <!ENTITY diskspaceGroupTitle.label "Дисковое пространство">
 <!ENTITY ftiGroupTitle.label "Глобальный поиск">
 <!ENTITY fti.indexMsgBodies.label "Индексировать сообщения">
@@ -41,4 +41,3 @@
 <!ENTITY newsrcPicker.label "Выберите файл newsrc">
 <!ENTITY browseNewsrc.label "Обзор…">
 <!ENTITY browseNewsrc.accesskey "e">
-

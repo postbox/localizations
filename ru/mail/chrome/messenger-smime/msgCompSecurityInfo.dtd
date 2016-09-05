@@ -1,7 +1,7 @@
 ﻿<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "Безопасность сообщения">
-<!ENTITY subject.plaintextWarning "Обратите внимание: строка темы сообщения никогда не шифруется.">
+<!ENTITY subject.plaintextWarning "Обратите внимание на то, что строка темы сообщения никогда не шифруется.">
 <!ENTITY status.heading "Содержимое вашего сообщения будет отправлено:">
 <!ENTITY status.signed "С цифровой подписью:">
 <!ENTITY status.encrypted "Зашифрованное:">

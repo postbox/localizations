@@ -35,6 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY createVFDialog.title              "Сохранить поиск">
+<!ENTITY createVFDialog.title              "Сохранение поиска">
 <!ENTITY virtualFolder.label               "Введите имя виртуальной папки: ">
 <!ENTITY virtualFolder.accesskey           "E">

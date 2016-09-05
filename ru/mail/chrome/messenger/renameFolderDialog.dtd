@@ -35,9 +35,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!ENTITY renameFolderDialog.title          "Переименование папки">
-<!ENTITY rename.label                      "Введите новое имя папки:">
+<!ENTITY rename.label                      "Введите новое название папки:">
 <!ENTITY rename.accesskey                  "E">
 <!ENTITY accept.label                      "Переименовать">
 <!ENTITY accept.accesskey                  "R">

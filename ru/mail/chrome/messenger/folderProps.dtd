@@ -47,8 +47,8 @@
 <!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFile.label          "Перестроить индекс">
 <!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Перестроить индексный файл"> 
-     
+<!ENTITY folderRebuildSummaryFileTip.label       "Перестроить индексный файл">
+
 <!ENTITY retention.label "Настройки хранения сообщений">
 <!ENTITY retentionUseDefault.label  "Использовать настройки сервера">
 <!ENTITY retentionUseDefault.accesskey "d">
@@ -65,16 +65,16 @@
 <!ENTITY retentionKeepUnread.label "Всегда удалять прочитанные сообщения">
 <!ENTITY retentionKeepUnread.accesskey "r">
 
-<!ENTITY folderOfflineTab.label                  "Автономная работа">
+<!ENTITY folderOfflineTab.label                  "Автономный режим">
 <!ENTITY folderCheckForNewMessages.label         "Проверять эту папку на наличие новых сообщений">
 <!ENTITY folderCheckForNewMessages.accesskey     "C">
 
-<!ENTITY offlineFolder.check.label               "Выбрать эту папку для автономной работы">
+<!ENTITY offlineFolder.check.label               "Выбрать эту папку для автономного режима">
 <!ENTITY offlineFolder.check.accesskey           "S">
 <!ENTITY offlineFolder.button.label              "Загрузить">
 <!ENTITY offlineFolder.button.accesskey          "D">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Выбрать эту группу новостей для автономной работы">
+<!ENTITY selectofflineNewsgroup.check.label      "Выбрать эту группу новостей для автономного режима">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 <!ENTITY UseDefaultofflineNewsgroup.check.label  "Использовать настройки учетной записи по умолчанию ">
 <!ENTITY offlineNewsgroup.button.label           "Загрузить">

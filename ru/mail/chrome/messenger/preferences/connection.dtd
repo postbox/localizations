@@ -1,22 +1,22 @@
 ﻿<!ENTITY  connectionsDialog.title       "Параметры подключения">
 <!ENTITY  window.width                   "52em">
 
-<!ENTITY  proxyTitle.label              "Настройка прокси для доступа в Интернет">
+<!ENTITY  proxyTitle.label              "Настройка прокси-сервера для доступа к Интернету">
 <!ENTITY  noProxyTypeRadio.label        "Нет прокси">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Использовать системные настройки прокси">
+<!ENTITY  systemTypeRadio.label         "Использовать системные настройки прокси-сервера">
 <!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY  WPADTypeRadio.label           "Автоматически определять настройки прокси для этой сети">
+<!ENTITY  WPADTypeRadio.label           "Автоматически определять настройки прокси-сервера для этой сети">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "Ручная настройка прокси:">
+<!ENTITY  manualTypeRadio.label         "Ручная настройка прокси-сервера:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "URL-адрес автоматической настройки прокси:">
+<!ENTITY  autoTypeRadio.label           "URL-адрес автоматической настройки прокси-сервера:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Обновить">
 <!ENTITY  reload.accesskey              "l">
-<!ENTITY  http.label                    "Прокси HTTP:">
+<!ENTITY  http.label                    "Прокси-сервер HTTP:">
 <!ENTITY  http.accesskey                "T">
-<!ENTITY  ssl.label                     "Прокси SSL:">
+<!ENTITY  ssl.label                     "Прокси-сервер SSL:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "Узел SOCKS:">
 <!ENTITY  socks.accesskey               "O">
@@ -30,7 +30,7 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  SOCKSport.label               "Порт:">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Не использовать прокси для:">
+<!ENTITY  noproxy.label                 "Не использовать прокси-сервер для:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Пример: .mozilla-russia.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Использовать этот прокси-сервер для всех протоколов">

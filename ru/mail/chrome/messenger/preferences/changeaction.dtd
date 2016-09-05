@@ -11,13 +11,13 @@
 <!ENTITY  changeApp.accesskey                 "B">
 <!ENTITY  saveToDisk.label                    "Сохранить их на компьютере">
 <!ENTITY  saveToDisk.accesskey                "S">
-<!ENTITY  saveToDefaultFolder.label           "в папке для загрузок по умолчанию">
+<!ENTITY  saveToDefaultFolder.label           "В папке для загрузок по умолчанию">
 <!ENTITY  saveToDefaultFolder.accesskey       "d">
-<!ENTITY  saveToThisFolder.label              "в этой папке:">
+<!ENTITY  saveToThisFolder.label              "В этой папке:">
 <!ENTITY  saveToThisFolder.accesskey          "h">
 <!ENTITY  chooseFolder.label                  "Обзор…">
 <!ENTITY  chooseFolder.accesskey              "w">
-<!ENTITY  saveToAskMe.label                   "спрашивать, где сохранять файл">
+<!ENTITY  saveToAskMe.label                   "Спрашивать, где сохранять файл">
 <!ENTITY  saveToAskMe.accesskey               "a">
 <!ENTITY  usePlugin.label                     "Использовать этот плагин:">
 <!ENTITY  usePlugin.accesskey                 "P">

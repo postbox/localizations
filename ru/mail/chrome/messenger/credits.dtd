@@ -1,6 +1,6 @@
 ﻿<!ENTITY credit.title     "Авторы &brandFullName;">
 <!ENTITY credit.leads     "Команда &brandFullName;">
-<!ENTITY credit.core      "Команда основной разработки">
+<!ENTITY credit.core      "Основная группа разработки">
 <!ENTITY credit.gecko     "Движок Gecko">
 <!ENTITY credit.thanks    "Особая благодарность">
 
@@ -26,4 +26,4 @@
 <!ENTITY credit.market      "Руководители отдела маркетинга">
 <!ENTITY credit.creators    "Создан">
 <!ENTITY credit.memory      "Посвящается">
-<!ENTITY credit.poweredByGecko "На движке Gecko&trade;">
+<!ENTITY credit.poweredByGecko "На платформе Gecko&trade;">

@@ -47,7 +47,7 @@
 <!ENTITY download.label     "Загрузить">
 <!ENTITY download.accesskey "o">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label      "заголовков">
+<!ENTITY headers.label      "заголовка(ов)">
 <!ENTITY headers.accesskey  "h">
 <!ENTITY mark.label         "Отметить остальные как прочитанные">
 <!ENTITY mark.accesskey     "M">

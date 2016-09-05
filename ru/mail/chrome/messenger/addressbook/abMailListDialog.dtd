@@ -41,7 +41,7 @@
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Добавить в:">
 
-<!ENTITY ListName.label                 "Имя списка:">
+<!ENTITY ListName.label                 "Название списка:">
 <!ENTITY ListNickName.label             "Псевдоним списка:">
 <!ENTITY ListDescription.label          "Описание:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
@@ -55,4 +55,3 @@
 <!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.accesskey         "N">
 <!ENTITY ListDescription.accesskey      "e">
-

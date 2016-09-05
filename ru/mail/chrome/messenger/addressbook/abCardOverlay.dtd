@@ -38,10 +38,10 @@
 <!ENTITY chooseAddressBook.label                "Добавить в: ">
 <!ENTITY chooseAddressBook.accesskey            "A">
 
-<!ENTITY Contact.tab                     "Контакт"> 
-<!ENTITY Name.box                        "Имя"> 
+<!ENTITY Contact.tab                     "Контакт">
+<!ENTITY Name.box                        "Имя">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -50,13 +50,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName"> 
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName"> 
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Имя:">
 <!ENTITY NameField1.accesskey           "F">
@@ -72,17 +72,17 @@
 <!ENTITY Internet.box                   "Интернет">
 <!ENTITY PrimaryEmail.label             "Эл. почта:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Доп. адрес эл. почты:">
+<!ENTITY SecondEmail.label              "Другой адрес:">
 <!ENTITY SecondEmail.accesskey          "o">
 <!ENTITY PreferMailFormat.label         "Предпочитает получать почту в формате:">
 <!ENTITY PreferMailFormat.accesskey     "r">
-<!ENTITY PlainText.label                "Простой текст">
+<!ENTITY PlainText.label                "Обычный текст">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Неизвестно">
-<!ENTITY ScreenName.label               "Интернет-пейджер:">
+<!ENTITY ScreenName.label               "Имя экрана:">
 <!ENTITY ScreenName.accesskey           "-">
 
-<!ENTITY allowRemoteContent.label       "Разрешить содержимое из сети.">
+<!ENTITY allowRemoteContent.label       "Разрешить удаленные изображения в HTML-сообщениях.">
 <!ENTITY allowRemoteContent.accesskey   "g">
 
 <!ENTITY Phones.box                     "Номера телефонов">
@@ -97,28 +97,28 @@
 <!ENTITY CellularNumber.label           "Мобильный:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "Адрес"> 
-<!ENTITY Home.box                       "Дом"> 
-<!ENTITY HomeAddress.label              "Адрес:"> 
-<!ENTITY HomeAddress2.label             ""> 
-<!ENTITY HomeCity.label                 "Город:"> 
-<!ENTITY HomeState.label                "Область, край:"> 
-<!ENTITY HomeZipCode.label              "Почтовый индекс:"> 
+<!ENTITY Address.tab                    "Адрес">
+<!ENTITY Home.box                       "Домашний">
+<!ENTITY HomeAddress.label              "Адрес:">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeCity.label                 "Город:">
+<!ENTITY HomeState.label                "Область, край:">
+<!ENTITY HomeZipCode.label              "Почтовый индекс:">
 <!ENTITY HomeCountry.label              "Страна:">
-<!ENTITY HomeWebPage.label              "Веб-страница:"> 
-<!ENTITY Work.box                       "Рабочий"> 
-<!ENTITY JobTitle.label                 "Должность:"> 
-<!ENTITY Department.label               "Отдел:"> 
-<!ENTITY Company.label                  "Организация:"> 
-<!ENTITY WorkAddress.label              "Адрес:"> 
-<!ENTITY WorkAddress2.label             ""> 
-<!ENTITY WorkCity.label                 "Город:"> 
-<!ENTITY WorkState.label                "Область, край:"> 
-<!ENTITY WorkZipCode.label              "Почтовый индекс:"> 
+<!ENTITY HomeWebPage.label              "Веб-страница:">
+<!ENTITY Work.box                       "Рабочий">
+<!ENTITY JobTitle.label                 "Должность:">
+<!ENTITY Department.label               "Отдел:">
+<!ENTITY Company.label                  "Организация:">
+<!ENTITY WorkAddress.label              "Адрес:">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkCity.label                 "Город:">
+<!ENTITY WorkState.label                "Область, край:">
+<!ENTITY WorkZipCode.label              "Почтовый индекс:">
 <!ENTITY WorkCountry.label              "Страна:">
 <!ENTITY WorkWebPage.label              "Веб-страница:">
 
-<!ENTITY Picture.tab                    "Картинка">
+<!ENTITY Picture.tab                    "Изображение">
 <!ENTITY locationEditField.label        "Адрес изображения:">
 <!ENTITY locationEditField.accessKey    "L">
 <!ENTITY locationEditField.tooltip      "Введите имя файла с изображением или его адрес">

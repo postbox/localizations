@@ -1,4 +1,4 @@
-﻿<!ENTITY  downloadactionsWindow.title         "Загрузить действия">
+﻿<!ENTITY  downloadactionsWindow.title         "Действия после загрузки">
 <!ENTITY  window.width                         "480">
 <!ENTITY  window.height                        "310">
 
@@ -29,4 +29,3 @@
 
 <!ENTITY  button.close.label                  "Закрыть">
 <!ENTITY  button.close.accesskey              "o">
-

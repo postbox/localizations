@@ -1,19 +1,19 @@
 ﻿<!ENTITY aboutSupport.appBasicsAppBuildID "Код сборки приложения">
 
 <!ENTITY aboutSupport.accountsTitle "Учетные записи почты и новостей">
-<!ENTITY aboutSupport.showPrivateData.mainText "В том числе имена учетных записей">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(могут содержать идентифицирующую информацию)">
+<!ENTITY aboutSupport.showPrivateData.mainText "В том числе названия учетных записей">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(могут содержать идентифицирующие сведения)">
 <!ENTITY aboutSupport.accountsID "Код">
-<!ENTITY aboutSupport.accountsName "Имя">
-<!ENTITY aboutSupport.accountsIncomingServer "Сервер входящих сообщений">
-<!ENTITY aboutSupport.accountsOutgoingServers "Сервер исходящих сообщений">
+<!ENTITY aboutSupport.accountsName "Название">
+<!ENTITY aboutSupport.accountsIncomingServer "Сервер входящей почты">
+<!ENTITY aboutSupport.accountsOutgoingServers "Сервер исходящей почты">
 <!ENTITY aboutSupport.accountsServerName "Имя">
 <!ENTITY aboutSupport.accountsConnSecurity "Безопасность подключения">
 <!ENTITY aboutSupport.accountsAuthMethod "Проверка подлинности">
 <!ENTITY aboutSupport.filterCount "Счетчик фильтра">
 <!ENTITY aboutSupport.accountsDefault "По умолчанию?">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Отправлено по эл. почте">
+<!ENTITY aboutSupport.sendViaEmail.label "Отправить по эл. почте">
 
 <!ENTITY aboutSupport.pageTitle2 "Данные конфигурации">
 
@@ -21,6 +21,6 @@
 
 <!ENTITY aboutSupport.miscTitle "Прочее">
 
-<!ENTITY aboutSupport.appBasicsLicenseName "Имя лицензии">
-<!ENTITY aboutSupport.ageInDays "Дней в использовании">
+<!ENTITY aboutSupport.appBasicsLicenseName "Название лицензии">
+<!ENTITY aboutSupport.ageInDays "Дней использования">
 <!ENTITY aboutSupport.pbState "Состояние">

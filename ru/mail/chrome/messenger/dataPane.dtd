@@ -31,36 +31,36 @@
 <!ENTITY dataPaneContext.systemPhotoImportMac.accesskey  "i">
 
 <!-- contact panel -->
-<!ENTITY contactPanel-name.label  "имя:">
-<!ENTITY contactPanel-title.label "название:">
-<!ENTITY contactPanel-company.label  "компания:">
+<!ENTITY contactPanel-name.label  "Имя:">
+<!ENTITY contactPanel-title.label "Название:">
+<!ENTITY contactPanel-company.label  "Компания:">
 
-<!ENTITY contactPanel-phone.label "телефон:">
-<!ENTITY contactPanel-work.label "(работа)">
-<!ENTITY contactPanel-home.label "(дом)">
-<!ENTITY contactPanel-mobile.label "(мобильный)">
+<!ENTITY contactPanel-phone.label "Телефон:">
+<!ENTITY contactPanel-work.label "(Рабочий)">
+<!ENTITY contactPanel-home.label "(Домашний)">
+<!ENTITY contactPanel-mobile.label "(Мобильный)">
 
-<!ENTITY contactPanel-email.label "эл. почта:">
-<!ENTITY contactPanel-homeAddress.label "дом:">
-<!ENTITY contactPanel-workAddress.label "работа:">
-<!ENTITY contactPanel-onlineStatus.label "мгновенные сообщения:">
+<!ENTITY contactPanel-email.label "Адрес эл. почты:">
+<!ENTITY contactPanel-homeAddress.label "Домашний:">
+<!ENTITY contactPanel-workAddress.label "Рабочий:">
+<!ENTITY contactPanel-onlineStatus.label "Мгновенные сообщения:">
 <!ENTITY contactPanel-facebook.label     "Facebook:">
-<!ENTITY contactPanel-twitter.label      "twitter:">
+<!ENTITY contactPanel-twitter.label      "Twitter:">
 
-<!ENTITY contactPanel-favorite.label     "избранное:">
-<!ENTITY contactPanel-favorite-checkbox.label "сделать этот контакт избранным">
-<!ENTITY contactPanel-actions.label "действия:">
-<!ENTITY contactPanel-find.label    "найти недавние:">
-<!ENTITY contactPanel-findMessages.label "сообщения">
-<!ENTITY contactPanel-findDocuments.label "вложения">
-<!ENTITY contactPanel-findImages.label "изображения">
-<!ENTITY contactPanel-copyContact.label "копировать эл. почту">
-<!ENTITY contactPanel-sendContact.label "отправить vcard">
-<!ENTITY contactPanel-createFilter.label "создать фильтр…">
+<!ENTITY contactPanel-favorite.label     "Избранное:">
+<!ENTITY contactPanel-favorite-checkbox.label "Сделать этот контакт избранным">
+<!ENTITY contactPanel-actions.label "Действия:">
+<!ENTITY contactPanel-find.label    "Найти недавние:">
+<!ENTITY contactPanel-findMessages.label "Сообщения">
+<!ENTITY contactPanel-findDocuments.label "Вложения">
+<!ENTITY contactPanel-findImages.label "Изображения">
+<!ENTITY contactPanel-copyContact.label "Копировать адрес эл. почты">
+<!ENTITY contactPanel-sendContact.label "Отправить vcard">
+<!ENTITY contactPanel-createFilter.label "Создать фильтр…">
 
 <!-- action contact panel -->
 <!ENTITY contactActionPanel-sendMail.label "Отправить почту…">
-<!ENTITY contactActionPanel-copyAddress.label "Копировать адрес эл. почты">
+<!ENTITY contactActionPanel-copyAddress.label "Копировать эл. почту">
 
 <!-- data pane address popup -->
 <!ENTITY dataPaneContext.searchGoogleMaps.label         "Сопоставить с Google">

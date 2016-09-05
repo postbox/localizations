@@ -52,7 +52,7 @@
 <!ENTITY pbDateField.label "Дата:">
 <!ENTITY pbUserAgentField.label "Агент пользователя:">
 <!ENTITY pbReferencesField.label "Ссылки:">
-<!ENTITY pbMessageIdField.label "Идентификатор сообщения:">
+<!ENTITY pbMessageIdField.label "Код сообщения:">
 <!ENTITY pbInReplyToField.label "В ответ на:">
 <!ENTITY pbOriginalWebsite.label "Веб-сайт:">
 <!ENTITY pbParticipantsField.label "Участники:">
@@ -62,7 +62,7 @@
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Сохранить как…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
-<!ENTITY printAttachmentCmd.label    ".Печать">
+<!ENTITY printAttachmentCmd.label    "Печать">
 <!ENTITY printAttachmentCmd.accesskey    "P">
 <!ENTITY detachAttachmentCmd.label    "Отсоединить…">
 <!ENTITY deleteAttachmentCmd.label    "Удалить">
@@ -76,9 +76,9 @@
 <!ENTITY copyLinkCmd.label        "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
-<!ENTITY CopyMessageId.label "Копировать идентификатор">
-<!ENTITY OpenMessageForMsgId.label "Открыть сообщение по идентификатору">
-<!ENTITY OpenBrowserWithMsgId.label "Открыть сообщение с идентификатором в браузере">
+<!ENTITY CopyMessageId.label "Копировать код">
+<!ENTITY OpenMessageForMsgId.label "Открыть сообщение по коду">
+<!ENTITY OpenBrowserWithMsgId.label "Открыть сообщение с кодом в браузере">
 
 <!ENTITY msgHdrViewOpenMessage.label "открыть сообщение">
 <!ENTITY pbMsgHdrView.showDetails.label "показать сведения">
@@ -87,4 +87,4 @@
 <!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "ответить всем">
 <!ENTITY pbMsgHdrView.conversationMsgForward.label "вперед">
 
-<!ENTITY pbMsgHdrView.loadingMessageBody.label "Загрузка…">
+<!ENTITY pbMsgHdrView.loadingMessageBody.label "Выполняется загрузка…">

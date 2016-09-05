@@ -3,7 +3,7 @@
 <!ENTITY pbLocalesMenu.accesskey "g">
 <!ENTITY pbLocalesMenu_getMore.label "Загрузить другие…">
 <!ENTITY pbLocalesMenu_getMore.accesskey "G">
-<!ENTITY newAccountGroupCmd.label "Группа учетных записей...">
+<!ENTITY newAccountGroupCmd.label "Группа учетных записей…">
 <!ENTITY newAccountGroupCmd.accesskey "G">
 <!ENTITY closeTab.label "Закрыть вкладку">
 <!ENTITY closeTab.accesskey "C">
@@ -45,16 +45,16 @@
 <!ENTITY viewMenuShowTodos.label "Напоминания">
 <!ENTITY viewMenuShowTodos.accesskey "D">
 <!ENTITY key_showTodos.key           "o">
-<!ENTITY showFolderPaneCmd.label "Область папок">
+<!ENTITY showFolderPaneCmd.label "Панель папок">
 <!ENTITY showFolderPaneCmd.accesskey "F">
-<!ENTITY showFocusPaneCmd.label "Область фокуса">
+<!ENTITY showFocusPaneCmd.label "Панель фокуса">
 <!ENTITY showFocusPaneCmd.accesskey "o">
 <!ENTITY pbToggleFocusPane.key "P">
 <!ENTITY pbToggleFolderPaneMac.key "M">
 <!ENTITY pbToggleFolderPane.key "L">
 <!ENTITY pbToggleInspectorPane.key "I">
 <!ENTITY pbMessagePaneMac.key "E">
-<!ENTITY showInspectorPaneCmd.label "Область инспектора">
+<!ENTITY showInspectorPaneCmd.label "Панель инспектора">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
 <!ENTITY pbExpandConversationMsgs.label "Развернуть беседу">
 <!ENTITY pbExpandConversationMsgs.accesskey "x">
@@ -79,7 +79,7 @@
 <!ENTITY newTaskButton.tooltip "Создать новое напоминание">
 <!ENTITY newTaskButton.label "Создать напоминание">
 <!ENTITY inspectorButton.label "Инспектор">
-<!ENTITY inspectorButton.tooltip "Показать/скрыть область инспектора">
+<!ENTITY inspectorButton.tooltip "Показать/скрыть панель инспектора">
 <!ENTITY pbToolbarButton-home.label "В начало">
 <!ENTITY pbToolbarButton-home.tooltip "Показать папку «Входящие» и очистить все критерии поиска">
 <!ENTITY pbToolbarButton-promote.label   "Опубликовать">
@@ -157,7 +157,7 @@
 <!ENTITY strikethroughEditMsgToolbarCmd.tooltip      "Зачеркнутый">
 <!ENTITY cropTextEditMsgToolbarCmd.tooltip           "Обрезать текст">
 <!ENTITY insertLinkEditMsgToolbarCmd.tooltip         "Вставить новую ссылку или изменить свойства выбранной">
-<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Применить или удалить маркированный или нумерованный список">
+<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Добавить или удалить маркированный или нумерованный список">
 <!ENTITY noneMsgToolbarCmd.label                     "Нет">
 <!ENTITY noneMsgToolbarCmd.accesskey                 "N">
 <!ENTITY listBulletMsgToolbarCmd.label               "Маркированный">
@@ -190,8 +190,8 @@
 
 <!-- rich search bar -->
 <!ENTITY searchbar-defaultSearchText.label      "Поиск">
-<!ENTITY searchbar-caption.label                "Нажмите Ctrl-ENTER для предварительного просмотра текста">
-<!ENTITY searchbar-captionMac.label             "Нажмите Command-Return для предварительного просмотра текста">
+<!ENTITY searchbar-caption.label                "Нажмите клавиши Ctrl и Enter для предварительного просмотра текста">
+<!ENTITY searchbar-captionMac.label             "Нажмите клавиши Command и Return для предварительного просмотра текста">
 
 <!-- advanced search panel -->
 <!ENTITY searchOptionsPanelTitle.label          "Параметры поиска">
@@ -209,7 +209,7 @@
 <!ENTITY cancelButton.label                     "Отмена">
 
 <!-- message pane progress text -->
-<!ENTITY messagePaneProgressText.label          "Загрузка…">
+<!ENTITY messagePaneProgressText.label          "Выполняется загрузка…">
 
 <!-- pbEditorPanel.inc -->
 <!ENTITY todoPanelSave.label                    "Сохранить">
@@ -287,7 +287,7 @@
 <!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Попробуйте выбрать для поиска «Все папки».">
 <!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Попробуйте выбрать для фокуса «Все».">
 <!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Попробуйте выбрать для просмотра «Сообщения».">
-<!ENTITY threadPaneAddTextToSearch.desc "Чтобы начать поиск, начните вводить в строке поиска.">
+<!ENTITY threadPaneAddTextToSearch.desc "Чтобы приступить к поиску, начните вводить текст в строке поиска.">
 
 <!ENTITY pbSignatureEditor.title "Новая подпись">
 <!ENTITY pbSignatureEditor.name "Имя">
@@ -427,11 +427,11 @@ entities below were automatically added by l10nmerge
 <!ENTITY newReminderMenuitem.label "Создать напоминание">
 <!ENTITY insertImageEditMsgToolbarCmd.tooltip        "Вставить новое изображение или изменить свойства выбранного">
 
-<!ENTITY quickpostButton.label "Quick Post">
-<!ENTITY quickpostButton.tooltip "Quick Post">
+<!ENTITY quickpostButton.label "Быстрое сообщение">
+<!ENTITY quickpostButton.tooltip "Быстрое сообщение">
 
-<!ENTITY pbQuickPostEditor.title "New Quick Post">
-<!ENTITY pbQuickPostEditor.name "Name">
-<!ENTITY pbQuickPostEditor.email "Email">
-<!ENTITY pbQuickPostEditor.beforeSubject "Before Subject">
-<!ENTITY pbQuickPostEditor.afterSubject "After Subject">
+<!ENTITY pbQuickPostEditor.title "Создать быстрое сообщение">
+<!ENTITY pbQuickPostEditor.name "Имя">
+<!ENTITY pbQuickPostEditor.email "Адрес эл. почты">
+<!ENTITY pbQuickPostEditor.beforeSubject "Перед темой">
+<!ENTITY pbQuickPostEditor.afterSubject "После темы">

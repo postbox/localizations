@@ -37,13 +37,13 @@
 
 <!-- Labels -->
 <!ENTITY subscribechoosethis.label      "выбрать этот сервер новостей">
-<!ENTITY subscribeclickhere.label      "нажмите здесь, чтобы выбрать сервер новостей">
+<!ENTITY subscribeclickhere.label      "щелкните здесь, чтобы выбрать сервер новостей">
 <!ENTITY newfolderchoosethis.label      "выбрать как родительскую">
-<!ENTITY newfolderclickhere.label      "Нажмите здесь для выбора">
+<!ENTITY newfolderclickhere.label      "Щелкните здесь для выбора">
 <!ENTITY renamefolderchoosethis.label      "выбрать эту папку">
-<!ENTITY renamefolderclickhere.label      "нажмите здесь для выбора папки">
+<!ENTITY renamefolderclickhere.label      "щелкните здесь для выбора папки">
 <!ENTITY filemessageschoosethis.label      "выбрать эту папку">
-<!ENTITY filemessagesclickhere.label      "нажмите здесь для выбора папки">
-<!ENTITY chooseaccountclickhere.label      "Нажмите здесь для выбора учетной записи">
-<!ENTITY choosefolderclickhere.label      "Нажмите здесь для выбора папки">
-<!ENTITY chooseserverToDeferTo.label      "нажмите здесь, чтобы выбрать учетную запись для хранения сообщений">
+<!ENTITY filemessagesclickhere.label      "щелкните здесь для выбора папки">
+<!ENTITY chooseaccountclickhere.label      "Щелкните здесь для выбора учетной записи">
+<!ENTITY choosefolderclickhere.label      "Щелкните здесь для выбора папки">
+<!ENTITY chooseserverToDeferTo.label      "щелкните здесь, чтобы выбрать учетную запись для хранения сообщений">
