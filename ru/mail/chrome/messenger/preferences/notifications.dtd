@@ -1,11 +1,10 @@
-﻿<!ENTITY notificationsDialog2.title       "Настройка уведомления о новой почте">
+﻿<!ENTITY notificationsDialog2.title       "Настройка уведомлений о новой почте">
 <!ENTITY window.width                     "40em">
 
-<!ENTITY alertCustomization.intro         "Выберите поля, показываемые в уведомлении о новой почте:">
+<!ENTITY alertCustomization.intro         "Выберите поля уведомления о новой почте:">
 <!ENTITY previewText.label                "Текст сообщения">
 <!ENTITY previewText.accesskey            "M">
 <!ENTITY subject.label                    "Тема">
 <!ENTITY subject.accesskey                "S">
 <!ENTITY sender.label                     "Отправитель">
 <!ENTITY sender.accesskey                 "e">
-

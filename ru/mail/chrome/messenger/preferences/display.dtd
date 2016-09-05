@@ -52,7 +52,7 @@
 
 <!ENTITY pb.conversations.read.label "При отображении беседы помечать ее сообщения как прочитанные">
 <!ENTITY pb.conversations.read.accesskey "c">
-<!ENTITY pb.conversations.photos.label "Показывать фото контактов для всех участников беседы">
+<!ENTITY pb.conversations.photos.label "Показывать снимки всех контактов, участвующих в беседе">
 <!ENTITY pb.conversations.photos.accesskey "I">
 
 
@@ -77,7 +77,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY devPixelsPerPx.label        "Масштабирование при высоком разрешении:">
 <!ENTITY devPixelsPerPx.accesskey    "D">
 <!ENTITY quotedColor5.label "Цвет цитируемого текста, уровень 5">
-<!ENTITY quotedColors.label "Цвета цитируемого текста, уровни 1 - 5:">
+<!ENTITY quotedColors.label "Цвета цитируемого текста, уровни 1-5:">
 <!ENTITY quotedColor1.label "Цвет цитируемого текста, уровень 1">
 <!ENTITY quotedColor3.label "Цвет цитируемого текста, уровень 3">
 <!ENTITY quotedColor4.label "Цвет цитируемого текста, уровень 4">

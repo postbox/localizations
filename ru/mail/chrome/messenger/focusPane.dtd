@@ -44,7 +44,7 @@
 <!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Создать фильтр…">
 <!ENTITY pbFavoriteContactsContactsMenu-createfilter.accesskey "C">
 
-<!ENTITY pbFavoriteContacts.DragLabel "Drag your favorite contacts here">
+<!ENTITY pbFavoriteContacts.DragLabel "Перетащите сюда свои любимые контакты">
 
 
 <!--
@@ -67,7 +67,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
 <!ENTITY focusPaneSubscriptionsAttribute.label     "Подписки">
 <!ENTITY focusPanePendingAttribute.label           "Ожидающие">
-<!ENTITY focusPaneToMeOnlyAttribute.label          "Тольк мне">
+<!ENTITY focusPaneToMeOnlyAttribute.label          "Только мне">
 <!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Установить цвет метки">
 <!ENTITY focusPaneReadAttribute.label           "Прочитанные">
 <!ENTITY pbFavoriteContactsContextMenu-email.accesskey  "C">

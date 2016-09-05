@@ -26,7 +26,7 @@
 <!ENTITY aboveQuote.label                     "поместить курсор перед цитируемым текстом">
 <!ENTITY belowQuote.label                     "поместить курсор после цитируемого текста">
 <!ENTITY selectAndQuote.label                 "выбрать цитируемый текст">
-<!ENTITY place.label                          "И вставить подпись">
+<!ENTITY place.label                          "и вставить подпись">
 <!ENTITY place.accesskey                      "p">
 <!ENTITY belowText.label                      "после цитируемого текста (рекомендуется)">
 <!ENTITY aboveText.label                      "после моего ответа (перед цитируемым текстом)">
@@ -41,7 +41,7 @@
 <!ENTITY pbSummarizeOnReply.normal.label      "цитировать выбранное сообщение">
 <!ENTITY pbSummarizeOnReply.summarize.label   "создать конспект всего обсуждения">
 <!ENTITY pbSummarizeOnReply.lastused.label    "использовать последний выбранный параметр">
-<!ENTITY pbSummarizeOnReply.photos.label       "Показывать в конспекте фото контактов для всех участников беседы">
+<!ENTITY pbSummarizeOnReply.photos.label       "Показывать в конспекте снимки всех контактов, участвующих в беседе">
 <!ENTITY pbSummarizeOnReply.photos.accesskey   "I">
 
 <!--

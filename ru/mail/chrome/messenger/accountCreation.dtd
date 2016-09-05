@@ -2,13 +2,13 @@
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                  "Имя и фамилия">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder                 "email@example.com">
+<!ENTITY email.placeholder                 "primer@adresa.ru">
 <!ENTITY password.label                  "Пароль:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder              "Пароль">
 <!ENTITY password.text                   "Необязательно, будет использоваться только для проверки имени пользователя">
 
-<!ENTITY accountInformation.label        "Информация учетной записи">
+<!ENTITY accountInformation.label        "Сведения об учетной записи">
 <!ENTITY outgoing.label                  "Исходящие:">
 <!ENTITY noEncryption.label              "Нет">
 <!ENTITY starttls.label                  "STARTTLS">
@@ -60,13 +60,13 @@
 <!ENTITY changeSettings.label            "Изменить настройки">
 <!ENTITY changeSettings.accesskey        "S">
 
-<!ENTITY pb.contactYourProvider.description "&brandShortName; может помочь получить доступ к почте с помощью предоставленных конфигураций. Однако рекомендуется обратиться к системному администратору или провайдеру электронной почты, чтобы они устранили проблему с подключением.">
+<!ENTITY pb.contactYourProvider.description "С помощью &brandShortName; можно получить доступ к почте с помощью предоставленных конфигураций. Однако рекомендуется обратиться к системному администратору или поставщику услуг электронной почты, чтобы они устранили проблему подключения.">
 
 <!ENTITY insecureServer.tooltip.title    "Внимание! Это незащищенный сервер.">
 <!ENTITY insecureServer.tooltip.details  "Для получения подробных сведений щелкните кружок.">
 
-<!ENTITY insecureUnencrypted.description "Ваши сообщения и данные проверки подлинности отправляются в незашифрованном виде, поэтому ваш пароль (и ваши сообщения) могут легко прочитать другие люди. &brandShortName; позволит работать с почтой, однако вам необходимо обратиться к провайдеру электронной почты для настройки защищенного подключения к почтовому серверу.">
-<!ENTITY insecureSelfSigned.description  "Сервер использует сертификат, которому нельзя доверять, поэтому нет уверенности, что кто-то не перехватывает трафик между &brandShortName; и вашим сервером. &brandShortName; позволит работать с почтой, однако вам необходимо обратиться к провайдеру электронной почты для настройки почтового сервера с доверенным сертификатом.">
+<!ENTITY insecureUnencrypted.description "Ваши сообщения и данные проверки подлинности отправляются в незашифрованном виде. Поэтому ваш пароль (и сообщения) могут легко прочитать посторонние. &brandShortName; позволит работать с почтой. Однако вам необходимо обратиться к поставщику услуг электронной почты для настройки защищенного подключения к почтовому серверу.">
+<!ENTITY insecureSelfSigned.description  "Сервер использует сертификат, которому нельзя доверять, поэтому нет уверенности, что кто-то не перехватывает трафик между &brandShortName; и вашим сервером. &brandShortName; позволит работать с почтой. Однако вам необходимо обратиться к поставщику услуг электронной почты для настройки почтового сервера с доверенным сертификатом.">
 <!ENTITY secureServer.description        "Поздравляем! Это защищенный сервер.">
 
 <!ENTITY pb.identity.title "Персональные данные">

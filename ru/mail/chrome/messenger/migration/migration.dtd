@@ -16,14 +16,14 @@
 <!ENTITY importFromNothing.label        "Не импортировать ничего">
 <!ENTITY importFromNothing.accesskey    "D">
 
-<!ENTITY welcome.title                  "Добро пожаловать в &brandShortName;">
-<!ENTITY tagline.label                  "Пожалуй лучшее приложение для работы с почтой">
-<!ENTITY thanks.label                   "Благодарим за выбор &brandShortName;!">
-<!ENTITY quickStart1.label              "См. ">
-<!ENTITY quickStart2.label              "Краткое руководство по началу работы"> 
-<!ENTITY quickStart3.label              ", чтобы узнать обо всех возможностях приложения.">
+<!ENTITY welcome.title                  "Добро пожаловать в &brandShortName;,">
+<!ENTITY tagline.label                  "лучшее приложение для работы с почтой!">
+<!ENTITY thanks.label                   "Благодарим за выбор &brandShortName;.">
+<!ENTITY quickStart1.label              "Прочитав">
+<!ENTITY quickStart2.label              "«Краткое руководство по началу работы»,">
+<!ENTITY quickStart3.label              "вы узнаете обо всех возможностях приложения.">
 <!ENTITY start.label                    "Начать работу с &brandShortName;">
-    
+
 <!ENTITY migration.title                "Мастер импорта учетной записи">
 <!ENTITY migrationMac.title             "Помощник по импорту учетной записи">
 <!ENTITY importOptions.title            "Параметры импорта">
@@ -37,7 +37,7 @@
 <!ENTITY selectProfile.label            "Импорт может быть выполнен из следующих профилей:">
 
 <!ENTITY done.title                     "Импорт завершен">
-<!ENTITY done.label                     "Следующие объекты были успешно импортированы:">
+<!ENTITY done.label                     "Следующие объекты успешно импортированы:">
 
 <!ENTITY importFromAppleMail.label    "Apple Mail">
 <!ENTITY importFromAppleMail.accesskey "A">

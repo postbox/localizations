@@ -6,10 +6,10 @@
 <!ENTITY searchresults.viewByRelevance.label       "Сортировать по релевантности">
 <!ENTITY searchresults.viewByDate.label            "Сортировать по дате">
 <!ENTITY addToCalendar.label                       "Добавить в календарь">
-<!ENTITY prevNextResults.label                     "Назад / Далее">
+<!ENTITY prevNextResults.label                     "Назад/Далее">
 <!ENTITY searchResultsNoMatchesFound.desc          "Нет элементов, отвечающих условиям поиска.">
 <!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Выберите для поиска «Все папки».">
-<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Выберите в области фокуса «Все».">
+<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Выберите на панели фокуса «Все».">
 <!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Выберите представление «Сообщения».">
 <!ENTITY showSearchOptions.label                   "Показать параметры поиска">
 

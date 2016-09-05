@@ -1,8 +1,8 @@
 ﻿<!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Рассылки RSS">
-<!ENTITY subscriptionDesc.label "Примечание. Удаление или изменение папки ленты новостей не повлияет на ранее загруженные новости.">
+<!ENTITY newsBlogSubscriptions.label "Подписки на RSS">
+<!ENTITY subscriptionDesc.label "Примечание. Удаление или изменение папки веб-канала не повлияет на ранее загруженные новости.">
 <!ENTITY feedTitle.label "Заголовок:">
-<!ENTITY location.label  "Адрес:">
+<!ENTITY location.label  "Расположение:">
 
 <!ENTITY button.addFeed.label       "Добавить">
 <!ENTITY button.addFeed.accesskey   "A">

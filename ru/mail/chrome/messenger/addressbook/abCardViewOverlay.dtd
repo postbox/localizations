@@ -37,7 +37,7 @@
 
 <!-- Box Headings -->
 <!ENTITY contact.heading             "Контакт">
-<!ENTITY home.heading                "Дом">
+<!ENTITY home.heading                "Домашний">
 <!ENTITY other.heading               "Прочее">
 <!ENTITY phone.heading               "Телефон">
 <!ENTITY work.heading                "Рабочий">
@@ -47,4 +47,3 @@
 <!-- For Map It! -->
 <!ENTITY mapItButton.label           "Показать на карте">
 <!ENTITY mapIt.tooltip               "Показать адрес на карте в Интернете">
-

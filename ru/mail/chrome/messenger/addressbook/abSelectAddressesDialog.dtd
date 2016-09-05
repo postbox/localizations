@@ -36,7 +36,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY selectAddressWindow.title           "Выберите адреса">
+<!ENTITY selectAddressWindow.title           "Выбор адресов">
 
 <!-- Buttons -->
 <!ENTITY toButton.label                      "Кому->">
@@ -51,9 +51,9 @@
 <!ENTITY editButton.accesskey                "E">
 <!ENTITY removeButton.label                  "Удалить">
 <!ENTITY removeButton.accesskey              "R">
-<!ENTITY lookIn.label                        "Посмотреть в:">
+<!ENTITY lookIn.label                        "Поиск в:">
 <!ENTITY lookIn.accesskey                    "L">
-<!ENTITY for.label                           "для:">
+<!ENTITY for.label                           "Содержимое:">
 <!ENTITY for.accesskey                       "f">
 <!ENTITY clearButton.label                   "Очистить">
 <!ENTITY clearButton.accesskey               "a">
@@ -63,5 +63,4 @@
 <!-- Tooltips items -->
 <!ENTITY addressPickerSearchButton.tooltip   "Поиск в выбранной адресной книге">
 <!ENTITY addressPickerNewButton.tooltip      "Создание новой карточки адресной книги">
-<!ENTITY addressPickerEditButton.tooltip     "Редактирование выбранной карточки">
-
+<!ENTITY addressPickerEditButton.tooltip     "Изменение выбранной карточки">

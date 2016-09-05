@@ -1,5 +1,5 @@
 ﻿<!ENTITY window.title "Фильтры сообщений">
-<!ENTITY nameColumn.label "Имя фильтра">
+<!ENTITY nameColumn.label "Название фильтра">
 <!ENTITY activeColumn.label "Включен">
 <!ENTITY newButton.label "Создать…">
 <!ENTITY newButton.accesskey "N">
@@ -20,10 +20,10 @@
 <!ENTITY runFilters.accesskey "R">
 <!ENTITY stopFilters.label "Остановить">
 <!ENTITY stopFilters.accesskey "S">
-<!ENTITY folderPickerPrefix.label "Применить выбранные фильтры в папке:">
+<!ENTITY folderPickerPrefix.label "Применить выбранный(е) фильтр(ы) в папке:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "выбрать эту папку">
-<!ENTITY choosethisnewsserver.label "выбрать этот сервер новостей">
+<!ENTITY choosethis.label "Выбрать эту папку">
+<!ENTITY choosethisnewsserver.label "Выбрать этот сервер новостей">
 <!ENTITY helpButton.label "Справка">
 <!ENTITY helpButton.accesskey "H">
-<!ENTITY closeCmd.key "W"> 
+<!ENTITY closeCmd.key "W">

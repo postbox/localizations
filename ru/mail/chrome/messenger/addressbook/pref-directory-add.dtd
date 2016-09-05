@@ -50,9 +50,9 @@
 <!ENTITY directoryLogin.accesskey          "B">
 <!ENTITY advancedOptionsButton.label       "Дополнительные параметры">
 <!ENTITY advancedOptionsButton.accesskey   "A">
-<!ENTITY General.tab                       "Основное">
-<!ENTITY Offline.tab                       "Автономно">
-<!ENTITY Advanced.tab                      "Дополнительно">
+<!ENTITY General.tab                       "Основные">
+<!ENTITY Offline.tab                       "Автономные">
+<!ENTITY Advanced.tab                      "Дополнительные">
 <!ENTITY advancedOptionsTitle.label        "Дополнительные параметры">
 <!ENTITY portNumber.label                  "Порт:">
 <!ENTITY portNumber.accesskey              "P">
@@ -64,11 +64,11 @@
 <!ENTITY scopeOneLevel.accesskey           "L">
 <!ENTITY scopeSubtree.label                "Поддерево">
 <!ENTITY scopeSubtree.accesskey            "S">
-<!ENTITY return.label                      "Не возвращать более чем">
+<!ENTITY return.label                      "Не показывать более">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "результатов">
-<!ENTITY offlineText.label                 "Можно загрузить копию этого каталога для использования в автономном режиме работы.">
-<!-- Localization note: this is here because the width of the dialog 
+<!ENTITY offlineText.label                 "Можно загрузить копию этого каталога для использования в автономном режиме.">
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->

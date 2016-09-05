@@ -35,8 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY messageMarkByDate.label "Отметить сообщения как прочитанные по дате">
+<!ENTITY messageMarkByDate.label "Отметить сообщения как прочитанные до даты">
 <!ENTITY markByDateLower.label "Отметить сообщения как прочитанные с:">
 <!ENTITY markByDateLower.accesskey "f">
-<!ENTITY markByDateUpper.label "по:">
+<!ENTITY markByDateUpper.label "По:">
 <!ENTITY markByDateUpper.accesskey "T">

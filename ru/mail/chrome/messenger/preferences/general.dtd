@@ -48,7 +48,7 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY enableNotificationCenter.label   "Использовать центр уведомлений">
+<!ENTITY enableNotificationCenter.label   "Использовать «Центр уведомлений»">
 
 
 <!--
@@ -57,7 +57,7 @@ entities below were automatically added by l10nmerge
 
 <!ENTITY useRetina.label				  "Экран Retina">
 
-<!ENTITY showProfileManager.label   "Показывать диспетчер профилей при запуске">
+<!ENTITY showProfileManager.label   "Показывать «Диспетчер профилей» при запуске">
 
 
 <!--

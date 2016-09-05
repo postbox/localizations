@@ -36,10 +36,10 @@
 
 <!ENTITY emailCollectionPicker.label           "Добавлять адреса из исходящих сообщений в адресную книгу:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
-<!ENTITY autocompleteText.label                "При вводе адреса искать подходящие записи в:">
-<!ENTITY addressingEnable.label                "Локальных адресных книгах">
+<!ENTITY autocompleteText.label                "При вводе адреса искать подходящие записи:">
+<!ENTITY addressingEnable.label                "В локальных адресных книгах">
 <!ENTITY addressingEnable.accesskey            "a">
-<!ENTITY directories.label                     "Сервере каталогов:">
+<!ENTITY directories.label                     "На сервере каталогов:">
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY editDirectories.label                 "Изменить каталоги…">
 <!ENTITY editDirectories.accesskey             "E">
@@ -70,7 +70,7 @@
 <!ENTITY pb.quotingConversationsSortOrder.label "При создании конспекта цитировать:">
 <!ENTITY pb.quotingConversationsSortOrderOldest.label "Сначала старые сообщения">
 <!ENTITY pb.quotingConversationsSortOrderNewest.label "Сначала новые сообщения">
-<!ENTITY pb.QuickReply.label "Быстрый ответ по умолчанию на:">
+<!ENTITY pb.QuickReply.label "Быстрый ответ по умолчанию:">
 <!ENTITY pb.QuickReply.accesskey "Q">
 <!ENTITY pb.quickreply.replyall.label "Ответ всем">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
@@ -97,14 +97,14 @@
 -->
 
 <!ENTITY pbQuoteOnQuickReply.accesskey "m">
-<!ENTITY pbQuoteOnQuickReply.label "Цитировать сообщение для быстрого ответа">
+<!ENTITY pbQuoteOnQuickReply.label "Цитировать сообщение при быстром ответе">
 
 
 <!--
  entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbEnableDropbox.label "Отправлять ссылки при вложении файлов из папки Dropbox">
+<!ENTITY pbEnableDropbox.label "Отправлять ссылки при вложении файлов из ваших облачных папок">
 
 
 <!--

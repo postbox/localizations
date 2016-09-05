@@ -39,9 +39,9 @@
 <!ENTITY printAddressBook.label                         "Печать адресной книги…">
 <!ENTITY printAddressBook.accesskey                     "A">
 
-<!ENTITY quitApplicationCmdWin.label                    "Выход"> 
+<!ENTITY quitApplicationCmdWin.label                    "Выход">
 <!ENTITY quitApplicationCmdWin.accesskey                "x">
-<!ENTITY quitApplicationCmd.label                       "Завершить"> 
+<!ENTITY quitApplicationCmd.label                       "Завершить">
 <!ENTITY quitApplicationCmd.accesskey                   "Q">
 <!ENTITY quitApplicationCmd.key "Q">
 
@@ -87,15 +87,15 @@
 <!ENTITY viewMenu.label                                 "Вид">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Панели инструментов">
-<!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "T">
 <!ENTITY customizeToolbar.label                         "Настроить…">
 <!ENTITY customizeToolbar.accesskey                     "o">
 <!ENTITY showCardPane.label                             "Панель сводки карточки">
 <!ENTITY showCardPane.accesskey                         "C">
 <!ENTITY menu_ShowNameAs.label                          "Показывать имя как">
-<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!ENTITY firstLastCmd.label                             "Имя, фамилия">
-<!ENTITY firstLastCmd.accesskey                         "F"> 
+<!ENTITY firstLastCmd.accesskey                         "F">
 <!ENTITY lastFirstCmd.label                             "Фамилия, имя">
 <!ENTITY lastFirstCmd.accesskey                         "L">
 <!ENTITY displayNameCmd.label                           "Отображаемое имя">
@@ -119,12 +119,12 @@
 <!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "Настройки">
-<!ENTITY preferencesCmdUnix.accesskey                   "n"> 
+<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Help Menu -->
 <!ENTITY helpMenu.label                                 "Справка">
 <!ENTITY helpMenu.accesskey                             "H">
-<!ENTITY releaseCmd.label                               "Примечания к выпуску">
+<!ENTITY releaseCmd.label                               "Заметки о выпуске">
 <!ENTITY releaseCmd.accesskey                           "R">
 <!ENTITY hintsAndTips.label                             "Справка &brandShortName;">
 <!ENTITY hintsAndTips.accesskey                         "H">
@@ -132,7 +132,7 @@
 <!ENTITY aboutCmd.label                                 "О приложении &brandShortName;">
 <!ENTITY aboutCmd.accesskey                             "A">
 
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newcardButton.label                            "Создать контакт">
 <!ENTITY newcardButton.accesskey                        "C">
 <!ENTITY newlistButton.label                            "Создать список">
@@ -150,9 +150,9 @@
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newcardButton.tooltip                          "Создание новой карточки адресной книги">
 <!ENTITY newlistButton.tooltip                          "Создание нового списка рассылки">
-<!ENTITY editButton.tooltip                             "Редактирование выбранной карточки">
+<!ENTITY editButton.tooltip                             "Изменение выбранной карточки">
 <!ENTITY newmsgButton.tooltip                           "Создание сообщения">
-<!ENTITY newIM.tooltip                                  "Отправить мгновенное сообщение или начать беседу">
+<!ENTITY newIM.tooltip                                  "Отправка мгновенного сообщения или вступление в беседу">
 <!ENTITY deleteButton.tooltip                           "Удаление выбранной карточки или адресной книги">
 
 <!-- Dir Tree header -->
@@ -161,7 +161,7 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Имя или адрес эл. почты">
 <!ENTITY SearchNameOrEmail.accesskey                    "e">
-<!ENTITY advancedButton.tooltip                         "Расширенный режим поиска адресов">
+<!ENTITY advancedButton.tooltip                         "Расширенный поиск адресов">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Быстрый поиск">
 
@@ -170,13 +170,13 @@
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Эл. почта">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Интернет-пейджер">
+<!ENTITY ScreenName.label                               "Имя экрана">
 <!ENTITY ScreenName.accesskey                           "-">
 <!ENTITY Company.label                                  "Организация">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Псевдоним:">
 <!ENTITY NickName.accesskey                             "i">
-<!ENTITY SecondEmail.label                              "Доп. адрес эл. почты">
+<!ENTITY SecondEmail.label                              "Другой адрес">
 <!ENTITY SecondEmail.accesskey                          "l">
 <!ENTITY Department.label                               "Отдел">
 <!ENTITY Department.accesskey                           "r">
@@ -196,7 +196,7 @@
 <!ENTITY sortAscending.accesskey                        "A">
 <!ENTITY sortDescending.label                           "По убыванию">
 <!ENTITY sortDescending.accesskey                       "D">
-<!ENTITY _PhoneticName.label                            "Произносится как">
+<!ENTITY _PhoneticName.label                            "Произношение">
 <!ENTITY _PhoneticName.accesskey                        "o">
 
 <!-- Results pane context menu -->
@@ -215,7 +215,7 @@
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "Эл. почта">
 <!ENTITY home.heading                                   "Домашний">
-<!ENTITY other.heading                                  "Прочее">
+<!ENTITY other.heading                                  "Другой">
 <!ENTITY phone.heading                                  "Телефон">
 <!ENTITY work.heading                                   "Рабочий">
 <!-- Special Box Headings, for mailing lists -->

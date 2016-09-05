@@ -45,14 +45,14 @@
 <!ENTITY showTaskbarCmd.label          "Строка состояния">
 <!ENTITY showTaskbarCmd.accesskey        "S">
 
-<!ENTITY direct.label                                   "Онлайн (прокси: нет)">
+<!ENTITY direct.label                                   "Онлайн (прокси-сервер: нет)">
 <!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "Онлайн (прокси: вручную)">
+<!ENTITY manual.label                                   "Онлайн (прокси-сервер: вручную)">
 <!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "Онлайн (прокси: авто)">
+<!ENTITY pac.label                                      "Онлайн (прокси-сервер: авто)">
 <!ENTITY pac.accesskey                                  "a">
 
-<!ENTITY proxy.label                                    "Конфигурация прокси…">
+<!ENTITY proxy.label                                    "Конфигурация прокси-сервера…">
 <!ENTITY proxy.accesskey                                "C">
 
 <!ENTITY findTypeTextCmd.key        "/">
@@ -64,7 +64,7 @@
 
 <!ENTITY closeWindow.label "Закрыть окно">
 
-<!ENTITY quitApplicationCmd.label  "Выход">
+<!ENTITY quitApplicationCmd.label  "Завершить">
 <!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "x">
 

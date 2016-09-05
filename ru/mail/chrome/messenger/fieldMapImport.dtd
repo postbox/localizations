@@ -42,12 +42,12 @@
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous "Предыдущее">
 <!ENTITY fieldMapImport.previous.accesskey "P">
-<!ENTITY fieldMapImport.text "Используйте кнопки «Вверх» и «Вниз», чтобы установить соответствие между полями адресной книги (слева) и данными импорта (справа). Снимите флажки с элементов, которые не хотите импортировать.">
+<!ENTITY fieldMapImport.text "Используйте кнопки «Вверх» и «Вниз», чтобы сопоставить поля адресной книги (слева) с верными импортируемыми данными (справа). Снимите флажки с элементов, которые не хотите импортировать.">
 <!ENTITY fieldMapImport.up "Вверх">
 <!ENTITY fieldMapImport.up.accesskey "U">
 <!ENTITY fieldMapImport.down "Вниз">
 <!ENTITY fieldMapImport.down.accesskey "D">
 <!ENTITY fieldMapImport.fieldListTitle "Поля адресной книги">
 <!ENTITY fieldMapImport.dataTitle "Данные записей для импорта">
-<!ENTITY fieldMapImport.skipFirstRecord "Первая запись содержит имена полей">
+<!ENTITY fieldMapImport.skipFirstRecord "Первая запись содержит названия полей">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "П">

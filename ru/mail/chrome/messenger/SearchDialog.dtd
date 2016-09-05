@@ -13,13 +13,13 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "Поиск сообщений…">
 <!ENTITY conditionDesc.label         "Поиск сообщений, которые соответствуют:">
-<!ENTITY conditions.label            "Критерий">
+<!ENTITY conditions.label            "Критерии">
 <!ENTITY results.label               "Результаты">
 <!ENTITY fileHereMenu.label          "Поместить сюда">
 <!ENTITY fileHereMenu.accesskey      "F">
 <!ENTITY fileButton.label            "Поместить">
 <!ENTITY fileButton.accesskey        "i">
-<!ENTITY closeCmd.key                "W"> 
+<!ENTITY closeCmd.key                "W">
 <!ENTITY goToFolderButton.label      "Открыть папку сообщений">
 <!ENTITY goToFolderButton.accesskey  "r">
 <!ENTITY saveAsVFButton.label        "Сохранить как виртуальную папку">
@@ -56,22 +56,22 @@
 <!ENTITY idColumn.label "Порядок получения">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Нажмите, чтобы выбрать столбцы для отображения">
-<!ENTITY threadColumn.tooltip "Нажмите здесь, чтобы просмотреть обсуждения"> 
-<!ENTITY fromColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по автору">
-<!ENTITY recipientColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по получателю">
-<!ENTITY subjectColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по теме">
-<!ENTITY dateColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате">
-<!ENTITY priorityColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по важности">
-<!ENTITY tagsColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по метке">
-<!ENTITY accountColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по учетной записи">
-<!ENTITY statusColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по состоянию">
-<!ENTITY sizeColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по размеру">
-<!ENTITY junkStatusColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по метке спама">
+<!ENTITY columnChooser.tooltip "Щелкните, чтобы выбрать столбцы для отображения">
+<!ENTITY threadColumn.tooltip "Щелкните здесь, чтобы просмотреть обсуждения">
+<!ENTITY fromColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по автору">
+<!ENTITY recipientColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по получателю">
+<!ENTITY subjectColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по теме">
+<!ENTITY dateColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по дате">
+<!ENTITY priorityColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по важности">
+<!ENTITY tagsColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по метке">
+<!ENTITY accountColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по учетной записи">
+<!ENTITY statusColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по состоянию">
+<!ENTITY sizeColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по размеру">
+<!ENTITY junkStatusColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по метке спама">
 <!ENTITY unreadColumn.tooltip "Количество непрочитанных сообщений в обсуждении">
 <!ENTITY totalColumn.tooltip "Общее количество сообщений в обсуждении">
-<!ENTITY readColumn.tooltip "Нажмите здесь, чтобы отсортировать прочитанные сообщения">
-<!ENTITY receivedColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате получения">
-<!ENTITY starredColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по наличию звездочки">
-<!ENTITY locationColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по их расположению">
-<!ENTITY idColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения в порядке получения">
+<!ENTITY readColumn.tooltip "Щелкните здесь, чтобы отсортировать прочитанные сообщения">
+<!ENTITY receivedColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по дате получения">
+<!ENTITY starredColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по наличию звездочки">
+<!ENTITY locationColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по их расположению">
+<!ENTITY idColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения в порядке получения">

@@ -1,5 +1,5 @@
-﻿<!ENTITY identitiesListTitle.label "Идентификации, связанные с этой учетной записью">
-<!ENTITY identitiesListDesc.label "Поддержка нескольких идентификаций">
+﻿<!ENTITY identitiesListTitle.label "Удостоверения, связанные с этой учетной записью">
+<!ENTITY identitiesListDesc.label "Поддержка нескольких удостоверений">
 <!ENTITY identitiesListAdd.label  "Добавить…">
 <!ENTITY identitiesListAdd.accesskey  "A">
 <!ENTITY identitiesListEdit.label "Изменить…">

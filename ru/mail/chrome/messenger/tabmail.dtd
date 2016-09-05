@@ -1,4 +1,4 @@
-<!ENTITY  untitledTab              "(Без имени)">
+<!ENTITY  untitledTab              "(Без названия)">
 <!ENTITY  newTab.label             "Новая вкладка">
 <!ENTITY  newTab.accesskey         "N">
 <!ENTITY  closeTab.label           "Закрыть вкладку">

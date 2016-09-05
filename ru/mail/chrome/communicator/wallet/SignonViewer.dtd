@@ -1,14 +1,14 @@
-﻿<!ENTITY      windowtitle.label               "Менеджер паролей">
-<!ENTITY      windowalttitle.label            "Менеджер форм: Сайты">
+﻿<!ENTITY      windowtitle.label               "Диспетчер паролей">
+<!ENTITY      windowalttitle.label            "Диспетчер форм: cайты">
 <!ENTITY      tab.signonsstored.label         "Сохраненные пароли">
 <!ENTITY      tab.signonsnotstored.label      "Никогда не сохранять пароли">
 <!ENTITY      tab.nopreview.label             "Отключить предварительный просмотр форм">
 <!ENTITY      tab.nocapture.label             "Никогда не сохранять формы">
 
-<!ENTITY      spiel.signonsstored.label       "Менеджер паролей сохранил сведения для входа на следующие сайты:">
-<!ENTITY      spiel.signonsnotstored.label    "Менеджер паролей никогда не будет сохранять сведения для входа на следующие сайты:">
-<!ENTITY      spiel.nopreview.label           "Form Manager will never preview forms from the following sites before pre-filling them for you:">
-<!ENTITY      spiel.nocapture.label           "Менеджер форм никогда не будет предлагать сохранить данные, введенные в формы на следующих сайтах:">
+<!ENTITY      spiel.signonsstored.label       "Диспетчер паролей сохранил сведения для входа на следующие сайты:">
+<!ENTITY      spiel.signonsnotstored.label    "Диспетчер паролей никогда не будет сохранять сведения для входа на следующие сайты:">
+<!ENTITY      spiel.nopreview.label           "Диспетчер форм никогда не будет показывать не заполненные предварительно формы для следующих сайтов:">
+<!ENTITY      spiel.nocapture.label           "Диспетчер форм никогда не будет предлагать сохранить данные, введенные в формы на следующих сайтах:">
 
 <!ENTITY      treehead.site.label             "Сайт">
 <!ENTITY      treehead.username.label         "Имя пользователя">

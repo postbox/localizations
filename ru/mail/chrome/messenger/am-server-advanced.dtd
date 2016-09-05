@@ -21,13 +21,13 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "Разрешить серверу переопределять эти пространства имен">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "При получении почты c данного сервера POP3, помещать ее в следующую папку:" >
+<!ENTITY pop3Desc.label "При получении почты c этого сервера POP3, помещать ее в папку:" >
 <!ENTITY folderStorage.label "Где хранить почту">
-<!ENTITY globalInbox.label "Общая папка «Входящие» (находится в локальных папках)">
+<!ENTITY globalInbox.label "Общая папка «Входящие» (учетная запись «Локальные папки»)">
 <!ENTITY globalInbox.accesskey "G">
-<!ENTITY accountDirectory.label "Папка «Входящие» для данной учетной записи">
+<!ENTITY accountDirectory.label "Папка «Входящие» для этой учетной записи">
 <!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "Папка «Входящие» для другой учетной записи">
 <!ENTITY deferToServer.accesskey "d">
-<!ENTITY deferGetNewMail.label "Загружать почту с данного сервера">
+<!ENTITY deferGetNewMail.label "Загружать почту с этого сервера">
 <!ENTITY deferGetNewMail.accesskey "I">

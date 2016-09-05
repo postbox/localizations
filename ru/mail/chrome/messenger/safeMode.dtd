@@ -43,7 +43,7 @@
 <!ENTITY safeModeOptionsWindow.width       "width: 49em;">
 <!ENTITY safeModeOptionsDialog.title       "Устранение неполадок &brandShortName;">
 
-<!ENTITY safeModeOptionsDescription2.label "При возникновении проблем в работе приложения Postbox перезапустите 
+<!ENTITY safeModeOptionsDescription2.label "При возникновении проблем в работе приложения Postbox перезапустите
 его, выбрав необходимые параметры устранения неполадок:">
 
 
@@ -59,7 +59,7 @@
 <!ENTITY safeMode.label                   "Безопасный режим (временное отключение всех дополнений и пользовательских параметров)">
 <!ENTITY safeMode.accesskey               "M">
 
-<!ENTITY profileManager.label                   "Открыть диспетчер профилей после перезапуска">
+<!ENTITY profileManager.label                   "Открыть «Диспетчер профилей» после перезапуска">
 <!ENTITY profileManager.accesskey               "P">
 
 <!ENTITY protocolLogging.label                   "Создать файл журнала для протокола">

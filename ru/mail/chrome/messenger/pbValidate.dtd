@@ -5,7 +5,7 @@
 <!ENTITY enterLicense.label "Ввести код лицензии сейчас">
 <!ENTITY enterLicenseTitle.label "Введите код лицензии Postbox">
 <!ENTITY enterLicenseInfo.label "Введите свое имя и код лицензии ниже:">
-<!ENTITY invalidLicense.label "Почти готово... Введите свое имя и код лицензии так, как они отображаются в сообщении с лицензией.">
+<!ENTITY invalidLicense.label "Почти готово… Введите свое имя и код лицензии так, как они отображаются в сообщении с лицензией.">
 <!ENTITY invalidLicenseVersion.label "Этот ключ лицензии не будет работать с данной версией Postbox. Обновите приложение до последней версии.">
 <!ENTITY invalidLicenseInvalid1.label "Введите действительный код лицензии или обратитесь в">
 <!ENTITY invalidLicenseInvalid2.label "службу поддержки Postbox">
