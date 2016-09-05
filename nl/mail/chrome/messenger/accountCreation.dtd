@@ -108,14 +108,14 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY important.label "IMPORTANT:">
-<!ENTITY learnMore.label "Learn more...">
+<!ENTITY important.label "BELANGRIJK:">
+<!ENTITY learnMore.label "Lees meer...">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pb.displayname.label "Description:">
-<!ENTITY displayname.placeholder         "Work, Personal, etc.">
+<!ENTITY pb.displayname.label "Beschrijving:">
+<!ENTITY displayname.placeholder         "Werk, Persoonlijk, etc.">
 <!ENTITY displayname.accesskey           "D">

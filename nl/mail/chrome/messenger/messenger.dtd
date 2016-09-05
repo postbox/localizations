@@ -730,7 +730,7 @@
 -->
 
 <!ENTITY helpSafeMode.label     "Trouble Shooting…">
-<!ENTITY helpTroubleshootingInfo.label     "Configuration Data">
+<!ENTITY helpTroubleshootingInfo.label     "Configuratiedata">
 <!ENTITY helpSafeMode.accesskey "S">
 <!ENTITY helpTroubleshootingInfo.accesskey "C">
 

@@ -96,28 +96,28 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbCharactersGoal.label "Character Count">
+<!ENTITY pbCharactersGoal.label "Aantal Tekens">
 <!ENTITY pbStopwatchGoal.label "Stopwatch">
-<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
-<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
-<!ENTITY pbWordsGoal.label "Word Count">
-<!ENTITY pbMinutes.label "minutes">
-<!ENTITY pbAt.label "at">
-<!ENTITY sourceView.label "Code View:">
-<!ENTITY pbWords.label "words">
+<!ENTITY addSignatureDelimiters.label "Voeg scheidingsteken toe boven de handtekening">
+<!ENTITY pbSetCompositionGoals.label "Stel compositiedoelen in met">
+<!ENTITY pbWordsGoal.label "Aantal Woorden">
+<!ENTITY pbMinutes.label "minuten">
+<!ENTITY pbAt.label "op">
+<!ENTITY sourceView.label "Code Weergave:">
+<!ENTITY pbWords.label "woorden">
 <!ENTITY sourceView.accesskey "C">
-<!ENTITY pbCharacters.label "characters">
+<!ENTITY pbCharacters.label "Tekens">
 
-<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">
+<!ENTITY pbURLAutoComplete.label "URL Automatisch Aanvullen Inschakelen">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY messageSizeWarning.label "Warn me if the message size is above">
+<!ENTITY messageSizeWarning.label "Waarschuw me als de berichtgrootte groter is dan">
 <!ENTITY megabytes.label "MB">
 
-<!ENTITY imageOrientation.label "Image Orientation:">
-<!ENTITY accordingToEXIF.label "Rotate images according to EXIF data">
+<!ENTITY imageOrientation.label "Oriëntatie Afbeelding:">
+<!ENTITY accordingToEXIF.label "Roteer afbeeldingen overeenkomstig de EXIF gegevens">
 <!ENTITY accordingToEXIF.accesskey "o">

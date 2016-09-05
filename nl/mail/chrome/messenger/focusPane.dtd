@@ -51,23 +51,23 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY focusPaneSocialAttribute.label            "Social">
-<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY focusPaneSocialAttribute.label            "Sociaal">
+<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Openen in Nieuw Tabblad">
 <!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.accesskey "N">
 <!ENTITY pbFavoriteContactsContextMenu-openInNewTab.accesskey "N">
-<!ENTITY focusPaneNotToDoAttribute.label           "Not Reminders">
-<!ENTITY focusPaneRepliedAttribute.label           "Replied">
+<!ENTITY focusPaneNotToDoAttribute.label           "Geen Herinneringen">
+<!ENTITY focusPaneRepliedAttribute.label           "Beantwoord">
 <!ENTITY pbFavoriteContactsContextMenu-edit.accesskey   "d">
-<!ENTITY focusPaneToDoAttribute.label              "Reminders">
-<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY focusPaneToDoAttribute.label              "Herinneringen">
+<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Openen in Nieuw Tabblad">
 <!ENTITY pbFavoriteContactsContextMenu-createfilter.accesskey "F">
 <!ENTITY pbFavoriteTopicsContextMenu-assignColor.accesskey "S">
-<!ENTITY focusPaneNotRepliedAttribute.label           "Not Replied">
-<!ENTITY focusPaneNotPendingAttribute.label        "Not Pending">
+<!ENTITY focusPaneNotRepliedAttribute.label           "Niet Beantwoord">
+<!ENTITY focusPaneNotPendingAttribute.label        "Niet in behandeling">
 <!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
-<!ENTITY focusPaneSubscriptionsAttribute.label     "Subscriptions">
-<!ENTITY focusPanePendingAttribute.label           "Pending">
-<!ENTITY focusPaneToMeOnlyAttribute.label          "To Me Only">
-<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Set Topic Color">
-<!ENTITY focusPaneReadAttribute.label           "Read">
+<!ENTITY focusPaneSubscriptionsAttribute.label     "Abonnementen">
+<!ENTITY focusPanePendingAttribute.label           "In behandeling">
+<!ENTITY focusPaneToMeOnlyAttribute.label          "Alleen Naar Mij">
+<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Stel Kleur Onderwerp in">
+<!ENTITY focusPaneReadAttribute.label           "Lezen">
 <!ENTITY pbFavoriteContactsContextMenu-email.accesskey  "C">

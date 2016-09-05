@@ -48,20 +48,20 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+<!ENTITY enableNotificationCenter.label   "Gebruik het Notificatie Center">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY useRetina.label				  "Retina Display">
+<!ENTITY useRetina.label				  "Retina Scherm">
 
-<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
+<!ENTITY showProfileManager.label   "Toon Profielmanager bij opstarten">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
+<!ENTITY storeLocation.label              "Sla Onderwerpen, Handtekeningen, Antwoorden en het Adresboek op in:">
