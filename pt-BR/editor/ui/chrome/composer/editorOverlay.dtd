@@ -580,7 +580,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY pasteTextCmd.label "Texto">
 <!ENTITY newBlankPage.accesskey "P" >
 <!ENTITY textColorCaption.label "Cor do texto">
-<!ENTITY insertFormMenu.label "De">
+<!ENTITY insertFormMenu.label "Formulário">
 <!ENTITY tableinsertmenu.accesskey "i">
 <!ENTITY editStripQuotesCmd.label "Remover citações">
 <!ENTITY insertformmenu.accesskey "F">
@@ -593,7 +593,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY tablesplitcell.accesskey "c">
 <!ENTITY fileopen.keybinding "o">
 <!ENTITY increaseFontSize.keybinding "+">
-<!ENTITY insertInputTagCmd.label "Campo de…">
+<!ENTITY insertInputTagCmd.label "Campo de Formulário...">
 <!ENTITY viewParagraphMarks.label "Marcas de parágrafo">
 <!ENTITY size-small.accesskey "s">
 <!ENTITY formatoutdent.keybinding "[">
