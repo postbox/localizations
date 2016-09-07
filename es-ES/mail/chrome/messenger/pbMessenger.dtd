@@ -253,7 +253,7 @@
 <!-- thread pane -->
 <!ENTITY threadPaneNoMatchesFound.desc "No hay mensajes que coincidan con su búsqueda.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Intentar buscando en todas las carpetas.">
-<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Intente configurar su Focus como "Todo".">
+<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Intente configurar su Focus como Todo.">
 <!ENTITY threadPaneAddTextToSearch.desc "Teclee en la barra de búsqueda para empezar a buscar.">
 
 <!ENTITY pbSignatureEditor.title "Nueva firma">
