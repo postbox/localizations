@@ -515,7 +515,7 @@
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextNewSubfolder.label "Neuer Unterordner…">
 <!ENTITY folderContextNewSubfolder.accesskey "N">
-<!ENTITY folderContextNewFolder.label "New Folder...">
+<!ENTITY folderContextNewFolder.label "Neuer Ordner…">
 <!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Umbenennen">
 <!ENTITY folderContextRename.accesskey "U">
