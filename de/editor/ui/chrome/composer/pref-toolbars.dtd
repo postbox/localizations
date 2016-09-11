@@ -62,9 +62,9 @@
 <!ENTITY bullets.label          "Aufzählungszeichen">
 <!ENTITY numbers.label          "Zahlen">
 <!ENTITY italic.label           "Kursiv">
-<!ENTITY outdent.label          "Hinaus rücken">
+<!ENTITY outdent.label          "Hinausrücken">
 <!ENTITY indent.label           "Einrücken">
-<!ENTITY underline.label        "Unterstrichen">
+<!ENTITY underline.label        "Unterstreichen">
 
 <!ENTITY absolutePosition.label "Absolute Positionierung">
 <!ENTITY decreaseZIndex.label   "In den Hintergrund stellen">

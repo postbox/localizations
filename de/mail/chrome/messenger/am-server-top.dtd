@@ -7,7 +7,7 @@
 <!ENTITY imapServer.label "IMAP">
 <!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
 <!ENTITY newsServer.label "News (NNTP)">
-<!ENTITY webmail.label "WebMail Konto">
+<!ENTITY webmail.label "WebMail-Konto">
 <!ENTITY serverType.label "Servertyp:">
 <!ENTITY serverName.label "Server:">
 <!ENTITY serverName.accesskey "S">
@@ -25,7 +25,7 @@
 <!ENTITY biffStart.label "Alle ">
 <!ENTITY biffStart.accesskey "A">
 <!ENTITY biffEnd.label "Minuten auf neue Nachrichten prüfen">
-<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.label "Verbindungssicherheit:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Keine Verbindungssicherheit">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, wenn verfügbar">
@@ -40,14 +40,14 @@
 <!ENTITY deleteByAgeFromServer.label "Lösche Nachrichten vom Server nach">
 <!ENTITY deleteByAgeFromServer.accesskey "L">
 <!ENTITY daysEnd.label "Tagen">
-<!ENTITY deleteOnServer2.label "Bis ich sie löschen">
+<!ENTITY deleteOnServer2.label "Bis ich sie lösche">
 <!ENTITY deleteOnServer2.accesskey "h">
 <!ENTITY downloadOnBiff.label "Neue Nachrichten automatisch herunterladen">
 <!ENTITY downloadOnBiff.accesskey "d">
 <!ENTITY hostname.label "Name des Servers">
 <!ENTITY username.label "Ihr Benutzername">
 <!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "POP Server Information">
+<!ENTITY popServerTitle.label "POP Server-Information">
 <!ENTITY deleteMessagePrefix.label "Beim Löschen einer Nachricht:">
 <!ENTITY modelMoveToTrash.label "In diesen Ordner verschieben:">
 <!ENTITY modelMoveToTrash.accesskey "I">
@@ -66,18 +66,18 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart1.label "Fragen beim Download von mehr als">
+<!ENTITY maxMessagesStart1.label "Beim Download von mehr als">
 <!ENTITY maxMessagesStart1.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "Nachrichten">
-<!ENTITY alwaysAuthenticate1.label "Immer Authentifizierung verlangen">
+<!ENTITY alwaysAuthenticate1.label "immer Authentifizierung verlangen">
 <!ENTITY alwaysAuthenticate1.accesskey "I">
 <!ENTITY abbreviate.label "Newsgruppen in der Ordner-Liste anzeigen mit:">
 <!ENTITY abbreviateOn.label "Vollen Namen (zum Beispiel &quot;netscape.public.mozilla.mail-news&quot;)">
 <!ENTITY abbreviateOff.label "Abgekürzten Namen (zum Beispiel &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Erweitert…">
 <!ENTITY advancedButton.accesskey "w">
-<!ENTITY serverDefaultCharset1.label "Kodierung:">
+<!ENTITY serverDefaultCharset1.label "Codierung:">
 
-<!ENTITY accountName.label "Konten-Bezeichnung:">
+<!ENTITY accountName.label "Konto-Bezeichnung:">
 <!ENTITY accountName.accesskey "n">

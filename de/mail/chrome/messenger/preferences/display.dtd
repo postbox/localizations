@@ -30,7 +30,7 @@
 
 <!-- Fonts -->
 <!ENTITY fontsAndColors.label    "Schriftarten">
-<!ENTITY defaultFont.label       "Standard Font:">
+<!ENTITY defaultFont.label       "Standard-Schriftart:">
 <!ENTITY defaultFont.accesskey   "d">
 <!ENTITY defaultSize.label       "Größe:">
 <!ENTITY defaultSize.accesskey   "G">
@@ -50,7 +50,7 @@
 <!ENTITY pb.conversations.sortoldest.label "Älteste Nachrichten zuerst">
 <!ENTITY pb.conversations.sortnewest.label "Neueste Nachrichten zuerst">
 
-<!ENTITY pb.conversations.read.label "When displaying a converation, mark its messages as read">
+<!ENTITY pb.conversations.read.label "Markiere beim Lesen einer Unterhaltung deren Nachrichten als gelesen">
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Schließe Fotos aller Teilnehmer der Unterhaltung mit ein">
 <!ENTITY pb.conversations.photos.accesskey "i">
@@ -60,12 +60,12 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
-<!ENTITY useRetina.label             "Retina Display">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pb.itemGeneral.label        "General">
+<!ENTITY pbChromeFontSize.label           "Nachrichtenliste und Ordner Schriftgröße:">
+<!ENTITY useRetina.label             "Retina-Display">
+<!ENTITY pbChromeFontSizeMedium.label     "Mittelgroß">
+<!ENTITY pbChromeFontSizeSmall.label      "Klein">
+<!ENTITY pbChromeFontSizeLarge.label      "Groß">
+<!ENTITY pb.itemGeneral.label        "Allgemein">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 
@@ -73,20 +73,20 @@ entities below were automatically added by l10nmerge
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY quotedColor2.label "Quoted color, level 2">
-<!ENTITY devPixelsPerPx.label        "High DPI scaling:">
+<!ENTITY quotedColor2.label "Angegebene Farbe, Level 2">
+<!ENTITY devPixelsPerPx.label        "Hohe DPI Skalierung:">
 <!ENTITY devPixelsPerPx.accesskey    "D">
-<!ENTITY quotedColor5.label "Quoted color, level 5">
-<!ENTITY quotedColors.label "Quoted colors, levels 1 to 5:">
-<!ENTITY quotedColor1.label "Quoted color, level 1">
-<!ENTITY quotedColor3.label "Quoted color, level 3">
-<!ENTITY quotedColor4.label "Quoted color, level 4">
+<!ENTITY quotedColor5.label "Angegebene Farbe, Level 5">
+<!ENTITY quotedColors.label "Angegebene Farben, Level 1 bis 5:">
+<!ENTITY quotedColor1.label "Angegebene Farbe, Level 1">
+<!ENTITY quotedColor3.label "Angegebene Farbe, Level 3">
+<!ENTITY quotedColor4.label "Angegebene Farbe, Level 4">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY devPixelsPerPx.default      "Default">
-<!ENTITY devPixelsPerPx.highdpi      "High DPI">
-<!ENTITY devPixelsPerPx.lowdpi       "Low DPI">
+<!ENTITY devPixelsPerPx.default      "Standard">
+<!ENTITY devPixelsPerPx.highdpi      "Hohe DPI">
+<!ENTITY devPixelsPerPx.lowdpi       "Geringe DPI">

@@ -9,7 +9,7 @@
 <!ENTITY sendHTML.accesskey           "a">
 <!ENTITY sendBoth.label               "Nachrichten als Reintext und HTML senden">
 <!ENTITY sendBoth.accesskey           "c">
-<!ENTITY receiveHTML.label            "Wenn Sie wissen, dass ein bestimmter Empfänger Nachrichten im HTML-Format empfangen kann, deaktivieren Sie das Kontrollkästchen 'Mail als reinen Text (kein HTML) schicken' im Adressbucheintrag des Empfängers.">
+<!ENTITY receiveHTML.label            "Wenn Sie wissen, dass ein bestimmter Empfänger Nachrichten im HTML-Format empfangen kann, deaktivieren Sie das Kontrollkästchen 'E-Mail als reinen Text (kein HTML) schicken' im Adressbucheintrag des Empfängers.">
 <!ENTITY override.label               "Hinweis: 
 Nutzen Sie das Adressbuch, um das bevorzugte Format für einzelne Empfänger anzugeben.">
 

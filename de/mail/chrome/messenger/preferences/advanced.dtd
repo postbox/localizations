@@ -11,7 +11,7 @@
 
 <!ENTITY autoMarkAsRead.label          "Nachrichten automatisch als gelesen markieren">
 <!ENTITY autoMarkAsRead.accesskey      "a">
-<!ENTITY markAsReadNoDelay.label       "Sofort beim Anzeigen">
+<!ENTITY markAsReadNoDelay.label       "Sofort Anzeigen">
 <!ENTITY markAsReadNoDelay.accesskey   "S">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
@@ -19,18 +19,18 @@
 <!ENTITY markAsReadDelay.label         "Nach dem Anzeigen für">
 <!ENTITY markAsReadDelay.accesskey     "c">
 <!ENTITY secondsLabel.label            "Sekunden">
-<!ENTITY showFolderColumns.label       "Zeige expandierte Spalten in der Ordner Ansicht">
+<!ENTITY showFolderColumns.label       "Zeige expandierte Spalten in der Ordner Ansicht an">
 <!ENTITY showFolderColumns.accesskey   "l">
 <!ENTITY rememberLastMsg.label         "Die zuletzt gewählte Nachricht merken">
 <!ENTITY rememberLastMsg.accesskey     "D">
 <!ENTITY openMsgIn1.label              "Neue Nachrichten öffnen in:">
 <!ENTITY openMsgInNewTab.label          "Neuem Tab">
 <!ENTITY openMsgInNewTab.accesskey      "T">
-<!ENTITY openMsgInNewWindow.label       "neuem Fenster">
+<!ENTITY openMsgInNewWindow.label       "Neuem Fenster">
 <!ENTITY openMsgInNewWindow.accesskey   "n">
-<!ENTITY openMsgInExistingWindow.label  "bestehendes Fenster">
+<!ENTITY openMsgInExistingWindow.label  "Bestehendem Fenster">
 <!ENTITY openMsgInExistingWindow.accesskey "b">
-<!ENTITY connectionTimeout.label       "Verbindungszeitüberschreitung:">
+<!ENTITY connectionTimeout.label       "Verbindungstimeout:">
 <!ENTITY connectionTimeout.accesskey   "c">
 <!ENTITY connectionSeconds.label       "Sekunden">
 <!ENTITY configEditDesc.label          "Erweiterte Konfiguration (about:config):">
@@ -68,7 +68,7 @@
 
 <!-- Certificates -->
 <!ENTITY certSelection.label "Bei Anfrage eines Zertifikats durch einen Server:">
-<!ENTITY certs.auto                      "Eine automatisch wählen">
+<!ENTITY certs.auto                      "Automatisch wählen">
 <!ENTITY certs.ask                       "Mich jedes Mal fragen">
 
 <!ENTITY viewCertificates.label         "Zertifikate">
@@ -77,7 +77,7 @@
 <!ENTITY viewCRLs.accesskey             "s">
 <!ENTITY viewOCSP.label                 "Verifizierung">
 <!ENTITY viewOCSP.accesskey             "f">
-<!ENTITY viewSecurityDevices.label      "Kryptographie-Module">
+<!ENTITY viewSecurityDevices.label      "Verschlüsselungsmodule">
 <!ENTITY viewSecurityDevices.accesskey  "K">
 
 <!-- Web Services -->
@@ -121,7 +121,7 @@
 <!ENTITY pbArchiveMessage.label "Nachricht archivieren">
 <!ENTITY pbOpenMessage.label "Nachricht öffnen…">
 <!ENTITY pbOpenFolderPane.label "Ordner-Fach öffnen">
-<!ENTITY pbCloseFolderPane.label "Ordner-Ablage schliessen">
+<!ENTITY pbCloseFolderPane.label "Ordner-Ablage schließen">
 
 
 <!--

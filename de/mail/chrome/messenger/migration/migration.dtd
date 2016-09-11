@@ -1,7 +1,7 @@
 
 <!ENTITY migrationWizard.title          "Import-Assistent">
 
-<!ENTITY importFromUnix.label           "Einstellungen, Konto Einstellungen, Adressbuch und andere Daten importieren von:">
+<!ENTITY importFromUnix.label           "Einstellungen, Konto-Einstellungen, Adressbuch und andere Daten importieren von:">
 
 <!ENTITY importFromThunderbird.label    "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
@@ -16,13 +16,13 @@
 <!ENTITY importFromNothing.label        "Nichts importieren">
 <!ENTITY importFromNothing.accesskey    "i">
 
-<!ENTITY welcome.title                  "Welcome to &brandShortName;">
+<!ENTITY welcome.title                  "Willkommen bei &brandShortName;">
 <!ENTITY tagline.label                  "E-Mailen auf eine bessere Art">
 <!ENTITY thanks.label                   "Danke, dass Sie &brandShortName; getestet haben!">
-<!ENTITY quickStart1.label              "Schauen Sie ">
+<!ENTITY quickStart1.label              "Schauen Sie sich die">
 <!ENTITY quickStart2.label              "Kurzanleitung"> 
-<!ENTITY quickStart3.label              " um alles über die Möglichkeiten zu erfahren.">
-<!ENTITY start.label                    "Legen Sie nun los mit &brandShortName;">
+<!ENTITY quickStart3.label              "an, um alles über die Funktionen zu erfahren.">
+<!ENTITY start.label                    "Legen Sie direkt mit &brandShortName; los">
     
 <!ENTITY migration.title                "Konto-Migrations-Assistent">
 <!ENTITY migrationMac.title             "Konto-Migrations-Assistent">
@@ -64,4 +64,4 @@ entities below were automatically added by l10nmerge
 -->
 
 <!ENTITY cleanInstall.accesskey  	"C">
-<!ENTITY cleanInstall.label             "Clean install (recommended)">
+<!ENTITY cleanInstall.label             "Saubere Installation (empfohlen)">

@@ -1,10 +1,10 @@
-<!ENTITY alwaysCheckDefault.label          "Beim Start immer überprüfen ob &brandShortName; der Standard E-Mail Client ist">
+<!ENTITY alwaysCheckDefault.label          "Beim Start immer überprüfen, ob &brandShortName; der Standard E-Mail Client ist">
 <!ENTITY alwaysCheckDefault.accesskey      "l">
 
 <!ENTITY checkNow.label             "Jetzt prüfen">
 <!ENTITY checkNow.accesskey         "n">
 
-<!ENTITY allowSpotlight.label              "Spotlight erlauben Nachrichten zu durchsuchen">
+<!ENTITY allowSpotlight.label              "Spotlight erlauben, Nachrichten zu durchsuchen">
 <!ENTITY allowSpotlight.accesskey          "S">
 
 <!ENTITY location.label                   "Adresse:">
@@ -37,10 +37,10 @@
 
 <!-- message list font size -->
 
-<!ENTITY pbChromeFontSizeSmall.label      "Schmal">
+<!ENTITY pbChromeFontSizeSmall.label      "Klein">
 <!ENTITY pbChromeFontSizeMedium.label     "Medium">
 <!ENTITY pbChromeFontSizeLarge.label      "Groß">
-<!ENTITY pbChromeFontSize.label           "Nachrichtenliste und Ordner Font größe:">
+<!ENTITY pbChromeFontSize.label           "Nachrichtenliste und -Ordner Schriftgröße:">
 <!ENTITY pbChromeFontSize.accesskey       "N">
 
 
@@ -54,13 +54,13 @@ entities below were automatically added by l10nmerge
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY useRetina.label				  "Retina Display">
+<!ENTITY useRetina.label				  "Retina-Display">
 
-<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
+<!ENTITY showProfileManager.label   "Zeige Profilmanager beim Start">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
+<!ENTITY storeLocation.label              "Speichere Themen, Signaturen, Antworten und Adressbücher auf:">

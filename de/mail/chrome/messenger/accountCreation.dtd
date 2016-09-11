@@ -66,7 +66,7 @@
 <!ENTITY insecureServer.tooltip.details  "Klicken Sie auf den Kreis für weitere Details.">
 
 <!ENTITY insecureUnencrypted.description "Ihre E-Mails und Passwörter werden unverschlüsselt übertragen. Beides könnte daher einfach von Dritten gelesen werden. &brandShortName; kann Ihre Nachrichten abrufen, aber Sie sollten Ihren E-Mail-Provider kontaktieren, ob eine gesicherte Serververbindung möglich ist.">
-<!ENTITY insecureSelfSigned.description  "Der Server verwendet ein Zertifikat, dem nicht vertraut werden kann. Daher kann man nicht sicher sein, dass niemand die Datenübertragung zwichen &brandShortName; und dem Server abfängt. &brandShortName; kann Ihre Nachrichten abrufen, aber Sie sollten Ihren E-Mail-Provider dazu auffordern die Server mit einem gültigen Zertifikat zu konfigurieren.">
+<!ENTITY insecureSelfSigned.description  "Der Server verwendet ein Zertifikat, dem nicht vertraut werden kann. Daher können Sie sich nicht sicher sein, dass niemand die Datenübertragung zwichen &brandShortName; und dem Server abfängt. &brandShortName; kann Ihre Nachrichten abrufen, aber Sie sollten Ihren E-Mail-Provider dazu auffordern, die Server mit einem gültigen Zertifikat zu konfigurieren.">
 <!ENTITY secureServer.description        "Glückwunsch! Dies ist eine gesicherte Serververbindung.">
 
 <!ENTITY pb.identity.title "Identität">
@@ -76,7 +76,7 @@
 <!ENTITY pb.serverinfo.title "Server-Informationen">
 <!ENTITY pb.username.label   "Benutzername">
 <!ENTITY pb.incoming.label "Empfangender Server">
-<!ENTITY pb.servername.label "Server Name">
+<!ENTITY pb.servername.label "Servername">
 <!ENTITY pb.servertype.label "Typ">
 <!ENTITY pb.serverport.label "Port">
 <!ENTITY pb.serversecurity.label "Sicherheit">
@@ -108,14 +108,14 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY important.label "IMPORTANT:">
-<!ENTITY learnMore.label "Learn more...">
+<!ENTITY important.label "WICHTIG:">
+<!ENTITY learnMore.label "Mehr erfahren...">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pb.displayname.label "Description:">
-<!ENTITY displayname.placeholder         "Work, Personal, etc.">
+<!ENTITY pb.displayname.label "Beschreibung:">
+<!ENTITY displayname.placeholder         "Dienstlich, Privat etc.">
 <!ENTITY displayname.accesskey           "D">

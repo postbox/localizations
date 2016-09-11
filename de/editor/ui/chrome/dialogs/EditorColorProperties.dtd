@@ -38,7 +38,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Seitenfarben und Hintergrund">
 <!ENTITY pageColors.label "Seitenfarben">
-<!ENTITY defaultColorsRadio.label "Standardfarben des Lesers (Keine Farben in Seite setzen)">
+<!ENTITY defaultColorsRadio.label "Standardfarben des Lesers (keine Farben in Seite setzen)">
 <!ENTITY defaultColorsRadio.accessKey "S">
 <!ENTITY defaultColorsRadio.tooltip "Nur Farbeinstellungen vom Browser des Betrachters (Lesers) verwenden">
 <!ENTITY customColorsRadio.label "Eigene Farben verwenden:">

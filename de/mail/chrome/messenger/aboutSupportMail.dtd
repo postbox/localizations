@@ -1,26 +1,26 @@
-<!ENTITY aboutSupport.appBasicsAppBuildID "Application Build ID">
+<!ENTITY aboutSupport.appBasicsAppBuildID "Anwendungs-Build-ID">
 
-<!ENTITY aboutSupport.accountsTitle "Mail and News Accounts">
-<!ENTITY aboutSupport.showPrivateData.mainText "Include account names">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(possibly identifying information)">
+<!ENTITY aboutSupport.accountsTitle "E-Mail und Nachrichtenkonten">
+<!ENTITY aboutSupport.showPrivateData.mainText "Kontonamen einfügen">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(mögliche Identifikation von Informationen)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Name">
-<!ENTITY aboutSupport.accountsIncomingServer "Incoming server">
-<!ENTITY aboutSupport.accountsOutgoingServers "Outgoing servers">
+<!ENTITY aboutSupport.accountsIncomingServer "Eingehender Server">
+<!ENTITY aboutSupport.accountsOutgoingServers "Ausgehender Servers">
 <!ENTITY aboutSupport.accountsServerName "Name">
-<!ENTITY aboutSupport.accountsConnSecurity "Connection security">
-<!ENTITY aboutSupport.accountsAuthMethod "Authentication method">
-<!ENTITY aboutSupport.filterCount "Filter Count">
-<!ENTITY aboutSupport.accountsDefault "Default?">
+<!ENTITY aboutSupport.accountsConnSecurity "Verbindungssicherheit">
+<!ENTITY aboutSupport.accountsAuthMethod "Authentifizierungsmethode">
+<!ENTITY aboutSupport.filterCount "Filteranzahl">
+<!ENTITY aboutSupport.accountsDefault "Standard?">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Send via email">
+<!ENTITY aboutSupport.sendViaEmail.label "Vie E-Mail senden">
 
-<!ENTITY aboutSupport.pageTitle2 "Configuration Data">
+<!ENTITY aboutSupport.pageTitle2 "Konfigurationsdaten">
 
 <!ENTITY aboutSupport.indexerTitle "Indexer">
 
-<!ENTITY aboutSupport.miscTitle "Miscellaneous">
+<!ENTITY aboutSupport.miscTitle "Sonstiges">
 
-<!ENTITY aboutSupport.appBasicsLicenseName "License Name">
-<!ENTITY aboutSupport.ageInDays "Days In Use">
-<!ENTITY aboutSupport.pbState "State">
+<!ENTITY aboutSupport.appBasicsLicenseName "Lizenzname">
+<!ENTITY aboutSupport.ageInDays "Tage in Verwendung">
+<!ENTITY aboutSupport.pbState "Status">

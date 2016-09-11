@@ -43,7 +43,7 @@
 <!ENTITY windowTitle.label "Zeichensatz speichern und ändern">
 <!ENTITY documentTitleTitle.label "Seitentitel">
 <!ENTITY documentCharsetTitle.label "Zeichensatz">
-<!ENTITY documentCharsetDesc.label "Wählen Sie den Zeichensatz, in dem ein Dokument gespeichert werden soll:">
+<!ENTITY documentCharsetDesc.label "Wählen Sie den Zeichensatz aus, in dem ein Dokument gespeichert werden soll:">
 <!ENTITY documentExportToText.label "Als Text exportieren">
 
 

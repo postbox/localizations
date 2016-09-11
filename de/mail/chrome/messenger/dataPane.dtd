@@ -42,17 +42,17 @@
 <!ENTITY contactPanel-home.label "(Privat)">
 <!ENTITY contactPanel-mobile.label "(Mobil)">
 
-<!ENTITY contactPanel-email.label "Email:">
+<!ENTITY contactPanel-email.label "E-Mail:">
 <!ENTITY contactPanel-homeAddress.label "Privat:">
 <!ENTITY contactPanel-workAddress.label "Geschäftlich:">
 <!ENTITY contactPanel-onlineStatus.label "IM:">
 <!ENTITY contactPanel-facebook.label     "Facebook:">
 <!ENTITY contactPanel-twitter.label      "twitter:">
 
-<!ENTITY contactPanel-favorite.label     "favorite:">
+<!ENTITY contactPanel-favorite.label     "Favorit:">
 <!ENTITY contactPanel-favorite-checkbox.label "Diesen Kontakt als Favoriten speichern">
 <!ENTITY contactPanel-actions.label "Aktionen:">
-<!ENTITY contactPanel-find.label    "find recent:">
+<!ENTITY contactPanel-find.label    "Finde neueste:">
 <!ENTITY contactPanel-findMessages.label "Nachrichten">
 <!ENTITY contactPanel-findDocuments.label "Anhänge">
 <!ENTITY contactPanel-findImages.label "Bilder">

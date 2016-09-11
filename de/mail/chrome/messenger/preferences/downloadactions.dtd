@@ -1,4 +1,4 @@
-<!ENTITY  downloadactionsWindow.title         "Download Aktionen">
+<!ENTITY  downloadactionsWindow.title         "Download-Aktionen">
 <!ENTITY  window.width                         "480">
 <!ENTITY  window.height                        "310">
 
@@ -24,7 +24,7 @@
 
 <!ENTITY  filter.label                        "Suchen:">
 <!ENTITY  filter.accesskey                    "S">
-<!ENTITY  clear.label                         "Clear">
+<!ENTITY  clear.label                         "Aufheben">
 <!ENTITY  clear.accesskey                     "l">
 
 <!ENTITY  button.close.label                  "Schließen">

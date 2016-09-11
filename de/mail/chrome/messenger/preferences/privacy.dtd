@@ -1,13 +1,13 @@
 <!-- Junk Mail Controls -->
 <!ENTITY manualMark.label "Wenn Nachrichten als Junk markiert werden:">
 <!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Verschiebe sie in den Junk Ordner des Kontos">
+<!ENTITY manualMarkModeMove.label "Verschiebe sie in den Junk-Ordner des Kontos">
 <!ENTITY manualMarkModeMove.accesskey "O">
 <!ENTITY manualMarkModeDelete.label "Lösche sie">
 <!ENTITY manualMarkModeDelete.accesskey "L">
 <!ENTITY markAsReadOnSpam.label "Markiere als Junk definierte Nachrichten als gelesen">
 <!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Junk Protokoll aktivieren">
+<!ENTITY enableJunkLogging.label "Junk-Protokoll aktivieren">
 <!ENTITY enableJunkLogging.accesskey "J">
 <!ENTITY openJunkLog.label "Zeige Protokoll">
 <!ENTITY openJunkLog.accesskey "Z">
@@ -16,7 +16,7 @@
 
 
 <!-- Phishing Detector -->
-<!ENTITY enablePhishingDetector1.label    "Betrugs-Erkennung">
+<!ENTITY enablePhishingDetector1.label    "Betrugserkennung">
 <!ENTITY enablePhishingDetector1.accesskey "B">
 
 <!-- Passwords -->
@@ -32,10 +32,10 @@
 <!ENTITY enableAnonymousStatistics.accesskey   "H">
 
 <!-- Remote images -->
-<!ENTITY disableImageInMailNews.label  "Nachladen externer Bilder in E-Mail Nachrichten blockieren">
+<!ENTITY disableImageInMailNews.label  "Nachladen externer Bilder in E-Mail-Nachrichten blockieren">
 <!ENTITY disableImageInMailNews.accesskey "r">
 
 <!ENTITY pbPrivacy.label "Privatsphäre:">
 <!ENTITY pbJunkMail.label "Spam:">
 <!ENTITY pbPasswords.label "Passwörter:">
-<!ENTITY pbJunkMail.intro "Hinweis: Kontospezifische Einstellungen zur Behandlung von Spam Nachrichten können in den Kontoeinstellungen getätigt werden.">
+<!ENTITY pbJunkMail.intro "Hinweis: Kontospezifische Einstellungen zur Behandlung von Spam-Nachrichten können in den Kontoeinstellungen getätigt werden.">

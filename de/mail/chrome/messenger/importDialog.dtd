@@ -58,22 +58,22 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription.label  "Dieser Assistent hilft beim Importieren von E-Mails, Adressbuch-Einträgen und/oder Einstellungen anderer E-Mail Programme und allgemeiner Adressbuch-Formate in &brandShortName;.">
 <!ENTITY importDescription2.label "Anschließend können Sie mit den importierten Daten in &brandShortName; arbeiten.">
 
-<!ENTITY selectDescription.label  "Bitte wählen Sie den Typ der Datei, aus der Sie importieren wollen:">
+<!ENTITY selectDescription.label  "Bitte wählen Sie den Typ der Datei aus, den Sie importieren wollen:">
 
 <!ENTITY back.label               "&lt; Zurück">
 <!ENTITY forward.label            "Weiter &gt;">
-<!ENTITY finish.label             "Fertig stellen">
+<!ENTITY finish.label             "Fertigstellen">
 <!ENTITY cancel.label             "Abbrechen">
 
-<!ENTITY select.label             "oder wählen was importiert werden soll:">
+<!ENTITY select.label             "oder wählen Sie aus, was importiert werden soll:">
 
 <!ENTITY title.label              "Titel">
 <!ENTITY processing.label         "Importieren…">
 
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x speichert nur eine Postadresse pro Kontakt, während &brandShortName; zwei speichert (private und dienstliche).">
-<!ENTITY FieldDiscInputText2.label  "Wählen Sie die Kategorie, in die Sie importierte Postadressen speichern wollen:">
+<!ENTITY FieldDiscInputText2.label  "Wählen Sie die Kategorie aus, in der Sie importierte Postadressen speichern möchten:">
 <!ENTITY FieldDiscWarning.label  "Diese Kategorie wird für alle Einträge des gewählten Adressbuchs verwendet: ">
 <!ENTITY importDialog.homeTitle  "Start">
 <!ENTITY importDialog.workTitle  "Dienstlich">
 
-<!ENTITY pbSelect.label             "Wählen Sie die Art der zu importierenden Daten:">
+<!ENTITY pbSelect.label             "Wählen Sie die Art der zu importierenden Daten aus:">

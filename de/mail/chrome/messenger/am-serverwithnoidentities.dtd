@@ -1,5 +1,5 @@
-<!ENTITY accountTitle.label "Konten-Einstellungen">
-<!ENTITY accountName.label "Konten-Bezeichnung:">
+<!ENTITY accountTitle.label "Konto-Einstellungen">
+<!ENTITY accountName.label "Konto-Bezeichnung:">
 <!ENTITY accountName.accesskey "B">
 <!ENTITY emptyTrashOnExit.label "Papierkorb beim Verlassen leeren">
 <!ENTITY emptyTrashOnExit.accesskey "P">

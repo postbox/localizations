@@ -35,7 +35,7 @@
 <!ENTITY preferencesCmdUnix.label       "Einstellungen…">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
-<!ENTITY findTypeTextCmd.label "Suche während Eintippen starten">
+<!ENTITY findTypeTextCmd.label "Suche während dem Eintippen starten">
 <!ENTITY findTypeTextCmd.accesskey "S">
 
 <!ENTITY viewMenu.label          "Ansicht">
@@ -47,9 +47,9 @@
 
 <!ENTITY direct.label                                   "Online (kein Proxy)">
 <!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "Online (manuelles Proxy)">
+<!ENTITY manual.label                                   "Online (manueller Proxy)">
 <!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "Online (automatisches Proxy)">
+<!ENTITY pac.label                                      "Online (automatischer Proxy)">
 <!ENTITY pac.accesskey                                  "a">
 
 <!ENTITY proxy.label                                    "Proxy-Konfiguration…">
