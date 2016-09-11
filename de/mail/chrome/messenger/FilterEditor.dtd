@@ -2,7 +2,7 @@
 <!ENTITY subject.label "Betreff">
 <!ENTITY sender.label "Absender">
 <!ENTITY date.label "Datum">
-<!ENTITY anyText.label "irgendein Text">
+<!ENTITY anyText.label "Beliebiger Text">
 <!ENTITY keyword.label "Schlüsselwort">
 <!ENTITY age.label "Alter in Tagen">
 <!ENTITY to.label "An">
@@ -27,9 +27,9 @@
 <!ENTITY highPriorityCmd.label "Hoch">
 <!ENTITY highestPriorityCmd.label "Sehr hoch">
 
-<!ENTITY contextDesc.label "Filter anwenden wenn:">
+<!ENTITY contextDesc.label "Filter anwenden bei:">
 <!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Rufe E-Mails ab">
+<!ENTITY contextIncoming.label "E-Mails abrufen">
 <!ENTITY contextManual.label "Manuell ausführen">
 <!ENTITY contextBoth.label "E-Mails abrufen oder manuell ausführen">
 <!ENTITY filterActionDesc.label "Auszuführende Aktionen:">
@@ -43,7 +43,7 @@
 <!ENTITY copyMessage.label "Kopiere Nachricht in:">
 <!ENTITY forwardTo.label "Weiterleiten an:">
 <!ENTITY replyWithTemplate.label "Antworte mit Vorlage:">
-<!ENTITY markMessageRead.label "Markiere als gelesen">
+<!ENTITY markMessageRead.label "Als gelesen markieren">
 <!ENTITY markMessageStarred.label "Kennzeichne die Nachricht">
 <!ENTITY labelMessage.label "Nachricht kennzeichnen als">
 <!ENTITY setPriority.label "Priorität ändern auf:">
@@ -61,22 +61,22 @@
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY playSound.label "Play Sound">
-<!ENTITY notPendingStatus.label "Not Pending">
-<!ENTITY noSoundSelected.label "Select a Sound">
-<!ENTITY noScriptsInstalled.label "No Scripts installed">
-<!ENTITY markMessageAs.label "Mark Message as">
-<!ENTITY systemAlertSound.label "System Alert Sound">
-<!ENTITY removeTag.label "Remove Topic">
-<!ENTITY reminderStatus.label "Reminder">
-<!ENTITY markMessagePending.label "Mark as Pending">
-<!ENTITY noScriptSelected.label "Select an AppleScript">
-<!ENTITY globalFilterChekbox.label "This is a global filter">
-<!ENTITY readStatus.label "Read">
-<!ENTITY launchScript.label "Run AppleScript">
-<!ENTITY openInFinder.label "Open in Finder">
-<!ENTITY pendingStatus.label "Pending">
-<!ENTITY notReminderStatus.label "Not Reminder">
-<!ENTITY unreadStatus.label "Unread">
+<!ENTITY playSound.label "Ton abspielen">
+<!ENTITY notPendingStatus.label "Nicht ausstehend">
+<!ENTITY noSoundSelected.label "Einen Ton auswählen">
+<!ENTITY noScriptsInstalled.label "Keine Skripte installiert">
+<!ENTITY markMessageAs.label "Nachricht markieren als">
+<!ENTITY systemAlertSound.label "Systemalarmton">
+<!ENTITY removeTag.label "Thema entfernen">
+<!ENTITY reminderStatus.label "Erinnerung">
+<!ENTITY markMessagePending.label "Als ausstehend markieren">
+<!ENTITY noScriptSelected.label "Ein AppleScript auswählen">
+<!ENTITY globalFilterChekbox.label "Das ist ein globaler Filter">
+<!ENTITY readStatus.label "Gelesen">
+<!ENTITY launchScript.label "AppleScript ausführen">
+<!ENTITY openInFinder.label "In Finder öffnen">
+<!ENTITY pendingStatus.label "Ausstehend">
+<!ENTITY notReminderStatus.label "Keine Erinnerung">
+<!ENTITY unreadStatus.label "Ungelesen">
 
 <!ENTITY quickPost.label "Quick Post">
