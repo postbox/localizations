@@ -7,7 +7,7 @@
 
 <!ENTITY accountsSectionHdr.label     "Konten"> 
 <!ENTITY subscribeImapFolders.label   "IMAP-Ordner abonnieren">
-<!ENTITY settingsLink.label           "Konten-Einstellungen bearbeiten"> 
+<!ENTITY settingsLink.label           "Konto-Einstellungen bearbeiten"> 
 <!ENTITY newAcctLink.label            "Neues Konto erstellen"> 
 
 <!ENTITY advFeaturesSectionHdr.label  "Erweiterte Funktionen"> 

@@ -1,5 +1,5 @@
 <!ENTITY  untitledTab              "(Unbenannt)">
-<!ENTITY  newTab.label             "Neues Tab">
+<!ENTITY  newTab.label             "Neuer Tab">
 <!ENTITY  newTab.accesskey         "N">
 <!ENTITY  closeTab.label           "Tab schließen">
 <!ENTITY  closeTab.accesskey       "c">

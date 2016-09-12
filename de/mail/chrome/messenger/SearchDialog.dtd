@@ -12,7 +12,7 @@
 <!ENTITY deleteButton.label          "Löschen">
 <!ENTITY deleteButton.accesskey      "L">
 <!ENTITY searchDialogTitle.label     "Nachrichten suchen">
-<!ENTITY conditionDesc.label         "Nachrichten nach folgendem durchsuchen:">
+<!ENTITY conditionDesc.label         "Nachrichten nach Folgendem durchsuchen:">
 <!ENTITY conditions.label            "Kriterium">
 <!ENTITY results.label               "Ergebnisse">
 <!ENTITY fileHereMenu.label          "In diesen Ordner verschieben">
@@ -56,22 +56,22 @@
 <!ENTITY idColumn.label "Eingangsreihenfolge">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Klicken Sie, um die anzuzeigenden Spalten zu wählen">
-<!ENTITY threadColumn.tooltip "Klicken, um Themenbäume anzuzeigen"> 
-<!ENTITY fromColumn.tooltip "Klicken, um nach Von zu sortieren">
-<!ENTITY recipientColumn.tooltip "Klicken, um nach Empfänger zu sortieren">
-<!ENTITY subjectColumn.tooltip "Klicken, um nach Betreff zu sortieren">
-<!ENTITY dateColumn.tooltip "Klicken, um nach Datum zu sortieren">
-<!ENTITY priorityColumn.tooltip "Klicken, um nach Priorität zu sortieren">
-<!ENTITY tagsColumn.tooltip "Klicken, um nach Schlagwörtern zu sortieren">
-<!ENTITY accountColumn.tooltip "Klicken, um nach Konten zu sortieren">
-<!ENTITY statusColumn.tooltip "Klicken, um nach Status zu sortieren">
-<!ENTITY sizeColumn.tooltip "Klicken, um nach Größe zu sortieren">
-<!ENTITY junkStatusColumn.tooltip "Klicken, um nach Junk-Status zu sortieren">
+<!ENTITY columnChooser.tooltip "Klicken Sie hier, um die anzuzeigenden Spalten zu wählen">
+<!ENTITY threadColumn.tooltip "Klicken Sie hier, um Themenbäume anzuzeigen"> 
+<!ENTITY fromColumn.tooltip "Klicken Sie hier, um nach Von zu sortieren">
+<!ENTITY recipientColumn.tooltip "Klicken Sie hier, um nach Empfänger zu sortieren">
+<!ENTITY subjectColumn.tooltip "Klicken Sie hier, um nach Betreff zu sortieren">
+<!ENTITY dateColumn.tooltip "Klicken Sie hier, um nach Datum zu sortieren">
+<!ENTITY priorityColumn.tooltip "Klicken Sie hier, um nach Priorität zu sortieren">
+<!ENTITY tagsColumn.tooltip "Klicken Sie hier, um nach Schlagwörtern zu sortieren">
+<!ENTITY accountColumn.tooltip "Klicken Sie hier, um nach Konten zu sortieren">
+<!ENTITY statusColumn.tooltip "Klicken Sie hier, um nach Status zu sortieren">
+<!ENTITY sizeColumn.tooltip "Klicken Sie hier, um nach Größe zu sortieren">
+<!ENTITY junkStatusColumn.tooltip "Klicken Sie hier, um nach Junk-Status zu sortieren">
 <!ENTITY unreadColumn.tooltip "Anzahl der ungelesenen Nachrichten im Thema">
 <!ENTITY totalColumn.tooltip "Gesamtzahl der Nachrichten im Thema">
-<!ENTITY readColumn.tooltip "Klicken, um nach Gelesen / Ungelesen zu sortieren">
-<!ENTITY receivedColumn.tooltip "Klicken, um nach Empfangsdatum zu sortieren">
-<!ENTITY starredColumn.tooltip "Klicken, um nach Kennzeichnung zu sortieren">
-<!ENTITY locationColumn.tooltip "Klicken, um nach Ablageort zu sortieren">
-<!ENTITY idColumn.tooltip "Klicken, um nach Eingangsreihenfolge zu sortieren">
+<!ENTITY readColumn.tooltip "Klicken Sie hier, um nach Gelesen / Ungelesen zu sortieren">
+<!ENTITY receivedColumn.tooltip "Klicken Sie hier, um nach Empfangsdatum zu sortieren">
+<!ENTITY starredColumn.tooltip "Klicken Sie hier, um nach Kennzeichnung zu sortieren">
+<!ENTITY locationColumn.tooltip "Klicken Sie hier, um nach Ablageort zu sortieren">
+<!ENTITY idColumn.tooltip "Klicken Sie hier, um nach Eingangsreihenfolge zu sortieren">

@@ -1,5 +1,5 @@
-<!ENTITY defaultAccount.title  "Standardaccount">
-<!ENTITY defaultAccount.intro  "Wähle deinen Standardaccount:">
+<!ENTITY defaultAccount.title  "Standardkonto">
+<!ENTITY defaultAccount.intro  "Wählen Sie Ihr Standardkonto aus:">
 
-<!ENTITY defaultAccount.desc   "Postbox Express unterstützt nur einen E-Mail-Account. Upgrade zu Postbox um mehrere Accounts zu nutzen.">
+<!ENTITY defaultAccount.desc   "Postbox Express unterstützt nur ein E-Mail-Konto. Upgraden Sie Ihre Postbox, um mehrere Konten zu nutzen.">
 <!ENTITY pb.macDefaultAccountDialog.size "width: 35em;">

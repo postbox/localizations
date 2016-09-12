@@ -47,12 +47,12 @@
 <!ENTITY searchresults.saveButton.label            "Speichern">
 <!ENTITY searchresults.sendButton.label            "Senden">
 <!-- XXX localization note: should "Quick Look" be translated? -->
-<!ENTITY searchresults.quickLookButton.label       "Quick Look">
+<!ENTITY searchresults.quickLookButton.label       "Schnellansicht">
 <!ENTITY searchresults.importPhotoButtonMac.label  "iPhoto">
 
 <!ENTITY searchBar-options.tooltip                 "Zeige Suchoptionen">
 <!ENTITY location.label                            "Nahe bei:">
-<!ENTITY location.placeholder                        "Quick Look">
+<!ENTITY location.placeholder                        "Schnellansicht">
 <!ENTITY flickr.private.tooltip                    "Nur Sie können das Photo auf flickr.com sehen">
 
 <!-- for rich search in compose -->
@@ -70,6 +70,6 @@
 <!ENTITY wikipedia.label "Wikipedia">
 <!ENTITY yelp.label "Yelp">
 <!ENTITY flickr.label "Flickr">
-<!ENTITY picasa.label "Picasa Webalben">
+<!ENTITY picasa.label "Picasa-Webalben">
 <!ENTITY photobucket.label "Mein Photobucket">
 <!-- XXX end localization note: Do not translate these service names -->

@@ -54,7 +54,7 @@
 <!ENTITY pbReferencesField.label "Referenzen:">
 <!ENTITY pbMessageIdField.label "Nachrichten-ID:">
 <!ENTITY pbInReplyToField.label "Als-Antwort-An:">
-<!ENTITY pbOriginalWebsite.label "Webseite:">
+<!ENTITY pbOriginalWebsite.label "Website:">
 <!ENTITY pbParticipantsField.label "Teilnehmer:">
 <!ENTITY saveAll.label "Alle speichern..">
 

@@ -2,7 +2,7 @@
 
 <!ENTITY MsgSynchronize.label "Nachrichten herunterladen und sychronisieren">
 <!ENTITY MsgSelect.label "Einträge zum Offline-Lesen">
-<!ENTITY MsgSyncDesc.label "Wenn Sie bereits Nachrichten-Ordner oder Newsgruppen zum Offline-Lesen ausgewählt haben, können Sie diese jetzt herunterladen und/oder sychronisieren. Ansonsten, verwenden Sie die Schaltfläche &quot;Wählen…&quot;, um Nachrichten-Ordner und Newsgruppen zum Offline-Lesen auszuwählen.">
+<!ENTITY MsgSyncDesc.label "Wenn Sie bereits Nachrichten-Ordner oder Newsgruppen zum Offline-Lesen ausgewählt haben, können Sie diese jetzt herunterladen und/oder sychronisieren. Ansonsten verwenden Sie die Schaltfläche &quot;Wählen…&quot;, um Nachrichten-Ordner und Newsgruppen zum Offline-Lesen auszuwählen.">
 <!ENTITY MsgSyncDirections.label "Folgendes herunterladen und/oder sychronisieren:">
 <!ENTITY syncTypeMail.label "E-Mail-Nachrichten">
 <!ENTITY syncTypeMail.accesskey "E">
@@ -14,6 +14,6 @@
 <!ENTITY workOffline.accesskey "h">
 <!ENTITY selectButton.label "Wählen…">
 <!ENTITY selectButton.accesskey "W">
-<!ENTITY MsgSelectDesc.label "Wählen Sie Nachrichten-Ordner und Newsgruppen zum Offline-Lesen.">
+<!ENTITY MsgSelectDesc.label "Wählen Sie Nachrichten-Ordner und Newsgruppen zum Offline-Lesen aus.">
 <!ENTITY MsgSelectInd.label "Herunterladen">
 <!ENTITY MsgSelectItems.label "Ordner und Newsgruppen">

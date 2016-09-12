@@ -5,9 +5,9 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Ordner…">
 <!ENTITY newFolderCmd.accesskey "d">
-<!ENTITY newSubfolderCmd.label "Subfolder…">
+<!ENTITY newSubfolderCmd.label "Unterordner…">
 <!ENTITY newSubfolderCmd.accesskey "U">
-<!ENTITY newTabCmd.label "Neues Tab">
+<!ENTITY newTabCmd.label "Neuer Tab">
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Tab schließen">
 <!ENTITY closeTabCmd.accesskey "s">
@@ -15,9 +15,9 @@
 <!ENTITY newVirtualFolderCmd.accesskey "V">
 <!ENTITY addRSSAccountButton.label "RSS Konto…">
 <!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Newsgruppen Konto…">
+<!ENTITY addNewsgroupAccountButton.label "Newsgruppen-Konto…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
-<!ENTITY newEmailAccountCmd.label "E-Mail Konto…">
+<!ENTITY newEmailAccountCmd.label "E-Mail-Konto…">
 <!ENTITY newEmailAccountCmd.accesskey "a">
 <!ENTITY newTaskCmd.label "Aufgaben">
 <!ENTITY newTaskCmd.accesskey "A">
@@ -34,7 +34,7 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Vorlage">
 <!ENTITY saveAsTemplateCmd.accesskey "V">
-<!ENTITY getNewMsgCmd.label "Neue Emails empfangen">
+<!ENTITY getNewMsgCmd.label "Neue E-Mails empfangen">
 <!ENTITY getNewMsgCmd.accesskey "g">
 <!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Neue Nachrichten abrufen">
@@ -367,11 +367,11 @@
 <!ENTITY markAsReadCmd.label "Gelesen">
 <!ENTITY markAsReadCmd.accesskey "G">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsUnreadCmd.label "Als ungelesen">
+<!ENTITY markAsUnreadCmd.label "Ungelesen">
 <!ENTITY markAsUnreadCmd.accesskey "u">
-<!ENTITY markAsPendingCmd.label "Noch nicht erledigt">
+<!ENTITY markAsPendingCmd.label "Ausstehend">
 <!ENTITY markAsPendingCmd.accesskey "N">
-<!ENTITY markAsNotPendingCmd.label "Nicht unerledigt">
+<!ENTITY markAsNotPendingCmd.label "Nicht ausstehend">
 <!ENTITY markAsNotPendingCmd.accesskey "g">
 <!ENTITY markThreadAsReadCmd.label "Thema gelesen">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
@@ -478,7 +478,7 @@
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Erweiterte Nachrichtensuche">
-<!ENTITY clearButton.tooltip "Lösche die Suchkriterien und zeige alle Nachrichten">
+<!ENTITY clearButton.tooltip "Lösche die Suchkriterien und zeige alle Nachrichten an">
 <!ENTITY getMsgButton.tooltip "Neue Nachrichten empfangen">
 <!ENTITY newMsgButton.tooltip "Eine neue Nachricht schreiben">
 <!ENTITY replyButton.tooltip "Auf gewählte Nachricht(en) antworten">
@@ -515,7 +515,7 @@
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextNewSubfolder.label "Neuer Unterordner…">
 <!ENTITY folderContextNewSubfolder.accesskey "N">
-<!ENTITY folderContextNewFolder.label "New Folder...">
+<!ENTITY folderContextNewFolder.label "Neuer Ordner...">
 <!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Umbenennen">
 <!ENTITY folderContextRename.accesskey "U">
@@ -549,7 +549,7 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Name oder E-Mail enthält:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY clearButton.label "Clear">
+<!ENTITY clearButton.label "Aufheben">
 <!ENTITY clearButton.accesskey "C">
 
 <!-- Quick Search Menu Bar -->

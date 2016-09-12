@@ -7,9 +7,9 @@
 <!ENTITY feedLocation.label       "Feed-URL:">
 <!ENTITY feedLocation.accesskey   "F">
 
-<!ENTITY choosethisfolder.label   "Diesen Ordner wählen">
+<!ENTITY choosethisfolder.label   "Diesen Ordner auswählen">
 
-<!ENTITY quickMode.label          "Artikel-Zusammenfassung anstelle der Webseite anzeigen">
+<!ENTITY quickMode.label          "Artikel-Zusammenfassung anstelle der Website anzeigen">
 <!ENTITY quickMode.accesskey      "A">
 
 <!ENTITY copyLinkCmd.label        "Link-Adresse kopieren">
