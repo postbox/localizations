@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY addAccountDialog.title   "Set up cloud file sharing">
-<!ENTITY addAccountDialog.menuTitle "Select an online storage service">
+<!ENTITY addAccountDialog.title   "Cloud-Dateifreigabe einrichten">
+<!ENTITY addAccountDialog.menuTitle "Online-Speicherdienst auswählen">
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
-<!ENTITY addAccountDialog.accountName.label "Account Name:">
-<!ENTITY addAccountDialog.noAccountText "We're sorry, but the current version of &brandShortName; only allows one account from each online storage service.">
-<!ENTITY addAccountDialog.createAccountText2 "You can send links to files instead of attachments using one of several online storage services. Please either set up an existing account, or sign up for a new account.">
-<!ENTITY addAccountDialog.authorizing "Checking authorization...">
-<!ENTITY addAccountDialog.error "An error occurred while setting up the account!">
-<!ENTITY addAccountDialog.acceptButton.label "Set up Account">
-<!ENTITY addAccountDialog.learnMore "Learn more…">
+<!ENTITY addAccountDialog.accountName.label "Kontoname:">
+<!ENTITY addAccountDialog.noAccountText "Es tut uns Leid, aber die aktuelle Version von &brandShortName; erlaubt nur ein Konto für jeden Online-Speicherdienst.">
+<!ENTITY addAccountDialog.createAccountText2 "Sie können anstelle von Anhängen Links zu Dateien senden, indem Sie einen der vielen Online-Speicherdienste nutzen. Bitte richten Sie entweder ein bestehendes Konto ein oder erstellen Sie ein neues Konto.">
+<!ENTITY addAccountDialog.authorizing "Überprüfe Authentifizierung...">
+<!ENTITY addAccountDialog.error "Bei der Kontoeinrichtung ist ein Fehler aufgetreten!">
+<!ENTITY addAccountDialog.acceptButton.label "Konto einrichten">
+<!ENTITY addAccountDialog.learnMore "Mehr erfahren…">

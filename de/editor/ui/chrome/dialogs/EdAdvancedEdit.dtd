@@ -39,7 +39,7 @@
 <!ENTITY WindowTitle.label              "Erweiterte Einstellungen">
 <!ENTITY AttName.label                  "Attribut: ">
 <!ENTITY AttValue.label                 "Wert: ">
-<!ENTITY PropertyName.label             "Eigenschaft:">
+<!ENTITY PropertyName.label             "Eigenschaft: ">
 <!ENTITY currentattributesfor.label     "Aktuelle Attribute für: ">
 <!ENTITY tree.attributeHeader.label     "Attribut">
 <!ENTITY tree.propertyHeader.label      "Eigenschaft">
@@ -48,5 +48,5 @@
 <!ENTITY tabCSS.label                   "Inline Style (CSS)">
 <!ENTITY tabJSE.label                   "JavaScript-Ereignisse">
 
-<!ENTITY editAttribute.label    "Klicken Sie auf einen Eintrag oben, um seinen Wert zu bearbeiten">
+<!ENTITY editAttribute.label    "Klicken Sie oben auf einen Eintrag, um seinen Wert zu bearbeiten">
 <!ENTITY removeAttribute.label  "Entfernen">

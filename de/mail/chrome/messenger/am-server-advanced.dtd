@@ -1,6 +1,6 @@
-<!ENTITY serverAdvanced.label "Erweiterte Konten-Einstellungen">
+<!ENTITY serverAdvanced.label "Erweiterte Konto-Einstellungen">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Erweiterte IMAP Server Einstellungen">
+<!ENTITY imapAdvanced.label "Erweiterte IMAP Server-Einstellungen">
 <!ENTITY serverDirectory.label "IMAP-Server-Verzeichnis:">
 <!ENTITY serverDirectory.accesskey "I">
 <!ENTITY usingSubscription.label "Nur abonnierte Ordner anzeigen">
@@ -22,7 +22,7 @@
 <!ENTITY overrideNamespaces.label "Server erlauben diese Namensräume zu übergehen">
 <!ENTITY overrideNamespaces.accesskey "e">
 <!ENTITY pop3Desc.label "Wo soll der Posteingang dieses Kontos gespeichert werden?" >
-<!ENTITY folderStorage.label "Wo Mail gespeichert werden soll">
+<!ENTITY folderStorage.label "Wo sollen E-Mails gespeichert werden">
 <!ENTITY globalInbox.label "Globaler Posteingang (Lokales Konto)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Separater Posteingang für dieses Konto">

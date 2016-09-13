@@ -55,7 +55,7 @@
 <!ENTITY lookIn.accesskey                    "S">
 <!ENTITY for.label                           "für:">
 <!ENTITY for.accesskey                       "f">
-<!ENTITY clearButton.label                   "Clear">
+<!ENTITY clearButton.label                   "Auswahl löschen">
 <!ENTITY clearButton.accesskey               "a">
 <!ENTITY stopButton.label                    "Stopp">
 <!ENTITY addressMessageTo.label              "Nachricht senden an:">

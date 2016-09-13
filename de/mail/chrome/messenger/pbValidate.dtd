@@ -2,13 +2,13 @@
 <!ENTITY changeName.label "Name">
 <!ENTITY licenseKey.label "Lizenzschlüssel:">
 <!ENTITY name.label "Name:">
-<!ENTITY enterLicense.label "Trage jetzt Lizenzschlüssel ein">
+<!ENTITY enterLicense.label "Lizenzschlüssel jetzt eingeben">
 <!ENTITY enterLicenseTitle.label "Postbox Lizenz-Code eingeben">
-<!ENTITY enterLicenseInfo.label "Bitte Namen und Lizenzschlüssel unten eingeben:">
-<!ENTITY invalidLicense.label "Beinahe fertig... Bitte Namen und Lizenzschlüssel genau wie in der Lizenzemail eingeben.">
-<!ENTITY invalidLicenseVersion.label "This license key will not work with this version of Postbox.  Please upgrade to the most current version.">
+<!ENTITY enterLicenseInfo.label "Bitte geben Sie den Namen und den Lizenzschlüssel unten ein:">
+<!ENTITY invalidLicense.label "Beinahe fertig... Bitte geben Sie den Namen und den Lizenzschlüssel genau so ein, wie sie der Lizenz-E-Mail erscheinen.">
+<!ENTITY invalidLicenseVersion.label "Dieser Lizenzschlüssel wird mit dieser Postbox-Version nicht funktionieren. Bitte upgraden Sie zur neuesten verfügbaren Version.">
 <!ENTITY invalidLicenseInvalid1.label "Bitte geben Sie eine gültige Seriennummer ein oder kontaktieren Sie uns unter">
-<!ENTITY invalidLicenseInvalid2.label "Postbox Unterstützung">
+<!ENTITY invalidLicenseInvalid2.label "Postbox Kundendienst">
 <!ENTITY invalidLicenseInvalid3.label "für schnelle Hilfe.">
 
 <!ENTITY changeLicenseTitle.label "Postbox Lizenz-Code">
@@ -19,8 +19,8 @@
 <!ENTITY licenseConfirmed.label "Lizenz-Code bestätigt!">
 
 <!ENTITY thanksTitle.label "Vielen Dank für den Kauf von Postbox!">
-<!ENTITY helpUs.label "Help us get the word out!">
-<!ENTITY composeFacebook.label "Erzählen Sie Ihren Freunden auf ">
+<!ENTITY helpUs.label "Helfen Sie uns bekannter zu werden!">
+<!ENTITY composeFacebook.label "Informieren Sie Ihre Freunde auf ">
 <!ENTITY helpUsFacebook.label "Facebook">
 <!ENTITY composeTwitter.label "Aktualisierung veröffentlichen auf ">
 <!ENTITY helpUsTwitter.label "Twitter">

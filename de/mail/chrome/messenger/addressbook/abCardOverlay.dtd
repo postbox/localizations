@@ -105,7 +105,7 @@
 <!ENTITY HomeState.label                "Bundesland:"> 
 <!ENTITY HomeZipCode.label              "PLZ:"> 
 <!ENTITY HomeCountry.label              "Land:">
-<!ENTITY HomeWebPage.label              "Webseite:"> 
+<!ENTITY HomeWebPage.label              "Website:"> 
 <!ENTITY Work.box                       "Dienstlich"> 
 <!ENTITY JobTitle.label                 "Titel:"> 
 <!ENTITY Department.label               "Abteilung:"> 
@@ -116,12 +116,12 @@
 <!ENTITY WorkState.label                "Bundesland:"> 
 <!ENTITY WorkZipCode.label              "PLZ:"> 
 <!ENTITY WorkCountry.label              "Land:">
-<!ENTITY WorkWebPage.label              "Webseite:">
+<!ENTITY WorkWebPage.label              "Website:">
 
 <!ENTITY Picture.tab                    "Bild">
 <!ENTITY locationEditField.label        "Grafik-Adresse:">
 <!ENTITY locationEditField.accessKey    "L">
-<!ENTITY locationEditField.tooltip      "Geben Sie Dateinamen oder Adresse der Grafik an">
+<!ENTITY locationEditField.tooltip      "Geben Sie den Dateinamen oder die Adresse der Grafik an">
 <!ENTITY chooseButton.label             "Durchsuchen…">
 <!ENTITY chooseFile.accessKey           "C">
 

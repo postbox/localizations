@@ -9,10 +9,10 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Übersetzung</h3><ul><li>Alexander Ihrig</li><li>Robert Kaiser</li><li>Abdulkadir Topal</li></ul>">
+<!ENTITY credit.translation "<h3>Übersetzung</h3><ul><li>Alexander Ihrig</li><li>Robert Kaiser</li><li>Abdulkadir Topal</li><li>André Ueckert</li></ul>">
 
 <!ENTITY credit.visuals     "Koordinator visuelles Design">
-<!ENTITY credit.theme       "Theme Entwicklung">
+<!ENTITY credit.theme       "Design-Entwicklung">
 <!ENTITY credit.brand       "Marken-Identität">
 <!ENTITY credit.web         "Webdesign">
 <!ENTITY credit.update      "Mozilla Update">

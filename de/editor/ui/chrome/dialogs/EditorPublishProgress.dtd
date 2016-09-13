@@ -42,9 +42,9 @@
 <!ENTITY otherSubdir.label     "Unterverzeichnis für Grafiken:">
 
 <!ENTITY status.label          "Publizieren…">
-<!ENTITY fileList.label        "Publizieren-Status">
+<!ENTITY fileList.label        "Publikations-Status">
 <!ENTITY succeeded.label       "Erfolgreich">
 <!ENTITY failed.label          "Fehlgeschlagen">
 
-<!ENTITY keepOpen              "Dieses Fenster offen halten, nachdem das Publizieren abgeschlossen ist.">
+<!ENTITY keepOpen              "Dieses Fenster offen halten, nachdem die Publikation abgeschlossen ist.">
 <!ENTITY closeButton.label     "Schließen">

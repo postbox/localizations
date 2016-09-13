@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Junk-Filter">
-<!ENTITY trainingWarning.label "Wenn der Junk-Filter aktiviert ist, muss er trainiert werden, sodass unerwünschte Post (Junk) im Laufe der Zeit zuverlässig erkannt wird. Verwenden Sie zum Trainieren die Schaltfläche &quot;Junk&quot; in der Symbolleiste, um jede falsch eingestufte Nachricht korrekt als &quot;Junk&quot; oder &quot;Kein Junk&quot; einzustufen.">
+<!ENTITY trainingWarning.label "Wenn der Junk-Filter aktiviert ist, muss er trainiert werden, sodass unerwünschte Nachrichten (Junk) im Laufe der Zeit zuverlässig erkannt werden. Verwenden Sie zum Trainieren die Schaltfläche &quot;Junk&quot; in der Symbolleiste, um jede falsch eingestufte Nachricht korrekt als &quot;Junk&quot; oder &quot;Kein Junk&quot; einzustufen.">
 <!ENTITY level.label "Junk-Filter für dieses Konto aktivieren">
 <!ENTITY level.accesskey "F">
 

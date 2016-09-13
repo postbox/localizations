@@ -43,14 +43,14 @@
 <!ENTITY generalInfo.label                       "Allgemein">
 <!ENTITY folderCharsetTab.label                  "Standard-Zeichenkodierung">
 <!ENTITY folderCharsetTab.accesskey              "Z">
-<!ENTITY folderCharsetOverride.label             "Standard allen Nachrichten im Ordner zuweisen (individuelle Zeichenkodierung und autom. Bestimmung werden ignoriert)">
+<!ENTITY folderCharsetOverride.label             "Standardmäßig allen Nachrichten im Ordner zuweisen (individuelle Zeichenkodierung und autom. Bestimmung werden ignoriert)">
 <!ENTITY folderCharsetOverride.accesskey         "S">
 <!ENTITY folderRebuildSummaryFile.label          "Index wiederherstellen">
 <!ENTITY folderRebuildSummaryFile.accesskey      "w">
 <!ENTITY folderRebuildSummaryFileTip.label       "Index-Datei wiederherstellen"> 
      
 <!ENTITY retention.label "Speicherplatz">
-<!ENTITY retentionUseDefault.label  "Server Standardeinstellungen verwenden">
+<!ENTITY retentionUseDefault.label  "Server-Standardeinstellungen verwenden">
 <!ENTITY retentionUseDefault.accesskey "d">
 <!ENTITY days.label "Tage">
 <!ENTITY daysOld.label "Tage">

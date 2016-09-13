@@ -7,12 +7,12 @@
 <!ENTITY downloads.label              "Eigene Downloads">
 <!ENTITY chooseFolderWin.label        "Durchsuchen…">
 <!ENTITY chooseFolderWin.accesskey    "D">
-<!ENTITY chooseFolderMac.label        "Choose...">
+<!ENTITY chooseFolderMac.label        "Wählen...">
 <!ENTITY chooseFolderMac.accesskey    "C">
 
 
-<!ENTITY fileTypes.label              "Download Aktionen">
-<!ENTITY configureActions.label       "Zeige &amp; ändere Aktionen...">
+<!ENTITY fileTypes.label              "Download-Aktionen">
+<!ENTITY configureActions.label       "Zeige &amp; andere Aktionen...">
 <!ENTITY configureActions.accesskey   "Z">
 <!ENTITY fileTypesDescription.label   "&brandShortName; kann automatisch Anhänge bestimmter Typen speichern oder öffnen.">
 

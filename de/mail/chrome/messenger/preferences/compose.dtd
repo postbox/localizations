@@ -38,9 +38,9 @@
 <!ENTITY emailCollectionPicker.label           "Adressen beim Senden automatisch hinzufügen zu:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY autocompleteText.label                "Beim Adressieren von Nachrichten nach passenden Einträgen suchen in:">
-<!ENTITY addressingEnable.label                "Lokale Adressbücher">
+<!ENTITY addressingEnable.label                "Lokalen Adressbüchern">
 <!ENTITY addressingEnable.accesskey            "L">
-<!ENTITY directories.label                     "LDAP-Verzeichnisserver:">
+<!ENTITY directories.label                     "LDAP-Verzeichnisservern:">
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY editDirectories.label                 "Bearbeiten…">
 <!ENTITY editDirectories.accesskey             "B">
@@ -71,53 +71,53 @@
 <!ENTITY pb.quotingConversationsSortOrder.label "Beim Zusammenfassen zitieren:">
 <!ENTITY pb.quotingConversationsSortOrderOldest.label "Älteste Nachrichten zuerst">
 <!ENTITY pb.quotingConversationsSortOrderNewest.label "Neueste Nachrichten zuerst">
-<!ENTITY pb.QuickReply.label "standardmäßige Schnellantwort an:">
+<!ENTITY pb.QuickReply.label "Standardmäßige Schnellantwort an:">
 <!ENTITY pb.QuickReply.accesskey "s">
 <!ENTITY pb.quickreply.replyall.label "Allen antworten">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
 <!ENTITY pb.quickreply.reply.label "Antworten">
 <!ENTITY pb.quickreply.reply.accesskey "A">
-<!ENTITY pbNumConversationsToQuote.label "Include at most">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing on reply">
+<!ENTITY pbNumConversationsToQuote.label "In den meisten">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "Nachrichten bei Zusammenfassungen für eine Antwort einfügen">
 
-<!ENTITY pbQuoteOnQuickReply.label "Nachricht in Quick Reply zitieren">
+<!ENTITY pbQuoteOnQuickReply.label "Nachricht in Schnellantwort zitieren">
 <!ENTITY pbQuoteOnQuickReply.accesskey "N">
 
-<!ENTITY pbDefaultFonSize.label                           "default">
+<!ENTITY pbDefaultFonSize.label                           "Standard">
 
 <!ENTITY pbPlaySoundOnSend.label "Beim Nachrichtenversand Ton abspielen">
 <!ENTITY pbPlaySoundOnSend.accesskey "p">
 
-<!ENTITY pbSendAndArchive.label "Senden und archivieren aktivieren">
-<!ENTITY pbEnableDropbox.label "Links senden beim hinzufügen von Dateien zu Ihrem Dropbox-Ordner">
+<!ENTITY pbSendAndArchive.label "Senden und Archivieren aktivieren">
+<!ENTITY pbEnableDropbox.label "Links senden beim Hinzufügen von Dateien zu Ihrem Dropbox-Ordner">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY pbCharactersGoal.label "Character Count">
-<!ENTITY pbStopwatchGoal.label "Stopwatch">
-<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
-<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
-<!ENTITY pbWordsGoal.label "Word Count">
-<!ENTITY pbMinutes.label "minutes">
-<!ENTITY pbAt.label "at">
-<!ENTITY sourceView.label "Code View:">
-<!ENTITY pbWords.label "words">
+<!ENTITY pbCharactersGoal.label "Zeichenzählung">
+<!ENTITY pbStopwatchGoal.label "Stoppuhr">
+<!ENTITY addSignatureDelimiters.label "Trennzeichen über Signatur einfügen">
+<!ENTITY pbSetCompositionGoals.label "Schreibziele festlegen mit">
+<!ENTITY pbWordsGoal.label "Wörteranzahl">
+<!ENTITY pbMinutes.label "Minuten">
+<!ENTITY pbAt.label "ab">
+<!ENTITY sourceView.label "Codeansicht:">
+<!ENTITY pbWords.label "Wörter">
 <!ENTITY sourceView.accesskey "C">
-<!ENTITY pbCharacters.label "characters">
+<!ENTITY pbCharacters.label "Zeichen">
 
-<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">
+<!ENTITY pbURLAutoComplete.label "Automatische URL-Vervollständigung aktivieren">
 
 
 <!--
 entities below were automatically added by l10nmerge
 -->
 
-<!ENTITY messageSizeWarning.label "Warn me if the message size is above">
+<!ENTITY messageSizeWarning.label "Mich warnen, wenn die Nachricht größer ist als">
 <!ENTITY megabytes.label "MB">
 
-<!ENTITY imageOrientation.label "Image Orientation:">
-<!ENTITY accordingToEXIF.label "Rotate images according to EXIF data">
+<!ENTITY imageOrientation.label "Bildausrichtung:">
+<!ENTITY accordingToEXIF.label "Bildausrichtung basierend auf EXIF Daten drehen">
 <!ENTITY accordingToEXIF.accesskey "o">

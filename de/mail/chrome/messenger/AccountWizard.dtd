@@ -1,6 +1,6 @@
 <!-- Entities for AccountWizard -->
 
-<!ENTITY windowTitle.label "Konten-Assistent">
+<!ENTITY windowTitle.label "Konto-Assistent">
 <!ENTITY accountWizard.size "width: 50em; height: 40em;">
 <!ENTITY macAccountWizard.size "width: 42em; height: 40em;">
 
@@ -9,7 +9,7 @@
 <!ENTITY accountSetupInfo.label "Um Nachrichten empfangen zu können, müssen Sie zuerst ein Konto anlegen.">
 <!ENTITY accountTypeTitle.label "Neues Konto einrichten">
 <!ENTITY accountTypeDesc.label "Dieser Assistent sammelt Informationen, die notwendig sind, um ein neues Konto einzurichten. Wenn Sie die abgefragten Daten nicht kennen, kontaktieren Sie bitte Ihren Systemadministrator oder Internet Service Provider.">
-<!ENTITY accountTypeDirections.label "Wählen Sie den Konten-Typ, den Sie einrichten wollen:">
+<!ENTITY accountTypeDirections.label "Wählen Sie den Konto-Typ, den Sie einrichten möchten:">
 <!ENTITY accountTypeMail.label "E-Mail-Konto">
 <!ENTITY accountTypeMail.accesskey "E">
 <!ENTITY accountTypeNews.label "Newsgruppen-Konto">
@@ -33,7 +33,7 @@
 
 <!ENTITY serverTitle.label "Server-Informationen">
 <!ENTITY incomingServerTitle.label "Empfangender Server">
-<!ENTITY incomingServerTypeDesc.label "Wählen Sie den Typ Ihres Posteingang-Server.">
+<!ENTITY incomingServerTypeDesc.label "Wählen Sie den Typ Ihres Posteingang-Servers aus.">
 <!ENTITY incomingServerTypeLabel.label "Servertyp:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Geben Sie den Posteingang-Server ein (zum Beispiel &quot;mail.beispiel.de&quot;).">
@@ -55,7 +55,7 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "News Server">
+<!ENTITY nntpType.label "News-Server">
 
 <!-- for when the user has an SMTP server pre-configured -->
 <!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
@@ -96,26 +96,26 @@
 
 <!-- Entities for Account name page -->
 
-<!ENTITY accnameTitle.label "Konten-Bezeichnung">
+<!ENTITY accnameTitle.label "Konto-Bezeichnung">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Geben Sie eine Bezeichnung für das Konto ein, mit der das Konto im Programm erscheinen soll (zum Beispiel &quot;Arbeits-Konto&quot;, &quot;Privat-Konto&quot; oder &quot;News-Konto&quot;).">
 <!ENTITY accnameExample.label "Zum Beispiel Arbeitskonto, Private E-Mails oder Newskonto">
-<!ENTITY accnameLabel.label "Konten-Bezeichnung:">
+<!ENTITY accnameLabel.label "Konto-Bezeichnung:">
 <!ENTITY accnameLabel.accesskey "K">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Zusammenfassung">
 <!ENTITY completionText.label "Bitte prüfen Sie, ob die Angaben korrekt sind:">
-<!ENTITY serverTypePrefix.label "Typ des Posteingang-Server:">
+<!ENTITY serverTypePrefix.label "Typ des Posteingang-Servers:">
 <!ENTITY serverNamePrefix.label "Posteingang-Server:">
 <!ENTITY smtpServerNamePrefix.label "Postausgang-Server (SMTP):">
 <!ENTITY newsServerNamePrefix.label "News-Server (NNTP):">
 <!ENTITY downloadOnLogin.label "Nachrichten jetzt herunterladen">
 <!ENTITY deferStorageDesc.label "Deaktivieren Sie diese Option, um für dieses Konto eine separate Ordner-Hierachie mit eigenem Posteingang zu erhalten.">
 <!ENTITY deferStorage.label "Globaler Posteingang (im Lokalen Konto)">
-<!ENTITY clickFinish.label "Klicken Sie &quot;Fertig stellen&quot;, um diese Einstellungen zu speichern und den Konten-Assistenten zu beenden.">
-<!ENTITY clickFinish.labelMac "Klicken Sie &quot;Fertig stellen&quot;, um diese Einstellungen zu speichern und den Konten-Assistenten zu beenden.">
+<!ENTITY clickFinish.label "Klicken Sie &quot;Fertig stellen&quot;, um diese Einstellungen zu speichern und den Konto-Assistent zu beenden.">
+<!ENTITY clickFinish.labelMac "Klicken Sie &quot;Fertig stellen&quot;, um diese Einstellungen zu speichern und den Konto-Assistent zu beenden.">
 
 <!-- account wizard -->
 <!ENTITY pbAccountWizard-header-email.label "E-Mail">

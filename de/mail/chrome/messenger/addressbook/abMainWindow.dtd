@@ -28,7 +28,7 @@
 <!ENTITY closeCmd.accesskey                             "c">
 <!ENTITY printSetupCmd.label                            "Seite einrichten…">
 <!ENTITY printSetupCmd.accesskey                        "S">
-<!ENTITY printPreviewCardViewCmd.label                  "Kartenvorschau Drucken">
+<!ENTITY printPreviewCardViewCmd.label                  "Kartenvorschau drucken">
 <!ENTITY printPreviewCardViewCmd.accesskey              "v">
 <!ENTITY printPreviewAddressBook.label                  "Druckvorschau: Adressbuch">
 <!ENTITY printPreviewAddressBook.accesskey              "r">
@@ -90,7 +90,7 @@
 <!ENTITY viewToolbarsMenu.accesskey                     "y"> 
 <!ENTITY customizeToolbar.label                         "Anpassen…">
 <!ENTITY customizeToolbar.accesskey                     "A">
-<!ENTITY showCardPane.label                             "Ansicht Karten Zusammenfassung">
+<!ENTITY showCardPane.label                             "Ansicht Karten-Zusammenfassung">
 <!ENTITY showCardPane.accesskey                         "c">
 <!ENTITY menu_ShowNameAs.label                          "Namen anzeigen">
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 

@@ -1,5 +1,5 @@
 <!ENTITY defaultClient.title  "Standardanwendung">
-<!ENTITY defaultClient.intro  "Benutze &brandShortName; als die Standardanwendung für:">
+<!ENTITY defaultClient.intro  "Benutze &brandShortName; als Standardanwendung für:">
 
 <!ENTITY email.label "E-Mail">
 <!ENTITY newsgroups.label "Newsgruppen">

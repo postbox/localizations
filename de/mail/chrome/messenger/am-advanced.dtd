@@ -4,7 +4,7 @@
 <!ENTITY smtpServer.label "Postausgang-Server (SMTP)">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Sie können hier die Postausgang-Server (SMTP) für alle Konten anlegen. In manchen Fällen kann man einen Postausgang-Server (SMTP) für alle Konten verwenden. Meist ist es aber notwendig, dass Sie für jedes Konto getrennte Postausgang-Server (SMTP) anlegen (dies ist auch der Fall, wenn zwar die Serveradresse gleich, aber der Benutzername verschieden ist).">
+<!ENTITY smtpDesc.label "Sie können hier die Postausgang-Server (SMTP) für alle Konten anlegen. In manchen Fällen können Sie einen Postausgang-Server (SMTP) für alle Konten verwenden. Meist ist es aber notwendig, dass Sie für jedes Konto getrennte Postausgang-Server (SMTP) anlegen (dies ist auch der Fall, wenn zwar die Serveradresse gleich, aber der Benutzername verschieden ist).">
 
 <!ENTITY smtpListAdd.label  "Hinzufügen…">
 <!ENTITY smtpListAdd.accesskey  "n">

@@ -11,13 +11,13 @@
 <!ENTITY  changeApp.accesskey                 "D">
 <!ENTITY  saveToDisk.label                    "Speichere diese auf meinem Computer">
 <!ENTITY  saveToDisk.accesskey                "S">
-<!ENTITY  saveToDefaultFolder.label           "im Standard Speicherordner">
+<!ENTITY  saveToDefaultFolder.label           "Im Standard Speicherordner">
 <!ENTITY  saveToDefaultFolder.accesskey       "d">
-<!ENTITY  saveToThisFolder.label              "in diesem Ordner:">
+<!ENTITY  saveToThisFolder.label              "In diesem Ordner:">
 <!ENTITY  saveToThisFolder.accesskey          "i">
 <!ENTITY  chooseFolder.label                  "Durchsuchen…">
 <!ENTITY  chooseFolder.accesskey              "D">
-<!ENTITY  saveToAskMe.label                   "frage mich wo die Datei gespeichert werden soll">
+<!ENTITY  saveToAskMe.label                   "Frage mich, wo die Datei gespeichert werden soll">
 <!ENTITY  saveToAskMe.accesskey               "a">
 <!ENTITY  usePlugin.label                     "Verwende diese Erweiterung:">
 <!ENTITY  usePlugin.accesskey                 "V">

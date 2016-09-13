@@ -1,14 +1,14 @@
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Konten-Einstellungen">
+<!ENTITY accountManagerTitle.label "Konto-Einstellungen">
 
-<!ENTITY accountActionsButton.label "Konto Aktionen">
+<!ENTITY accountActionsButton.label "Konto-Aktionen">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Mail Konto hinzufügen…">
+<!ENTITY addMailAccountButton.label "Mail-Konto hinzufügen…">
 <!ENTITY addMailAccountButton.accesskey "a">
-<!ENTITY addRSSAccountButton.label "RSS Konto hinzufügen…">
+<!ENTITY addRSSAccountButton.label "RSS-Konto hinzufügen…">
 <!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Newsgruppen Konto hinzufügen…">
+<!ENTITY addNewsgroupAccountButton.label "Newsgruppen-Konto hinzufügen…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Als Standard festlegen">
 <!ENTITY setDefaultButton.accesskey "s">

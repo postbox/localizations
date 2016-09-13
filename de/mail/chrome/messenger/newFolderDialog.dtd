@@ -47,6 +47,6 @@
 <!ENTITY foldersOnly.label          "Nur Ordner">
 <!ENTITY messagesOnly.label         "Nur Nachrichten">
 
-<!ENTITY pbNewFolder.desc "Geben Sie einen Namen für den neuen Ordner ein und wählen Sie einen Ort.">
+<!ENTITY pbNewFolder.desc "Geben Sie einen Namen für den neuen Ordner ein und wählen Sie ein Verzeichnis aus.">
 <!ENTITY pbNewFolderLocation.label "Adresse:">
 <!ENTITY pbNewFolderLocatione.accesskey "L">

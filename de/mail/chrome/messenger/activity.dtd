@@ -16,7 +16,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.undo.accesskey               "R">
 <!ENTITY cmd.recover.label                "Wiederherstellen">
 <!ENTITY cmd.recover.accesskey            "W">
-<!ENTITY cmd.retry.label                  "Nochmals versuchen">
+<!ENTITY cmd.retry.label                  "Nochmal versuchen">
 <!ENTITY cmd.retry.accesskey              "v">
 <!ENTITY cmd.removeFromList.label         "Aus der Liste entfernen">
 <!ENTITY cmd.removeFromList.accesskey     "e">

@@ -47,5 +47,5 @@
 <!ENTITY widthEditField.accessKey "B">
 <!ENTITY borderEditField.label "Rand:">
 <!ENTITY borderEditField.accessKey "R">
-<!ENTITY borderEditField.tooltip "Geben Sie eine Zahl für den Rand der Tabelle an, oder Null (0), um keinen Rand zu verwenden">
+<!ENTITY borderEditField.tooltip "Geben Sie eine Zahl für den Rand der Tabelle an oder Null (0), um keinen Rand zu verwenden">
 <!ENTITY pixels.label "Pixel">
