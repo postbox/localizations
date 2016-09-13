@@ -35,7 +35,7 @@
 <!ENTITY preferencesCmdUnix.label       "Einstellungen…">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
-<!ENTITY findTypeTextCmd.label "Suche während dem Eintippen starten">
+<!ENTITY findTypeTextCmd.label "Suche während des Eintippens starten">
 <!ENTITY findTypeTextCmd.accesskey "S">
 
 <!ENTITY viewMenu.label          "Ansicht">

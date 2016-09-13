@@ -531,7 +531,7 @@
 <!ENTITY clear.accesskey "l">
 <!ENTITY fileopen.accesskey "o">
 <!ENTITY formatlistmenu.accesskey "l">
-<!ENTITY insertIsIndexCmd.label "Index Suche">
+<!ENTITY insertIsIndexCmd.label "Indexsuche">
 <!ENTITY insertfieldset.accesskey "F">
 <!ENTITY insertInputImageCmd.label "Bild formatieren…">
 <!ENTITY insertform.accesskey "D">
@@ -581,10 +581,10 @@
 <!ENTITY textColorCaption.label "Textfarbe">
 <!ENTITY insertFormMenu.label "Form">
 <!ENTITY tableinsertmenu.accesskey "i">
-<!ENTITY editStripQuotesCmd.label "Anführungszeichen">
+<!ENTITY editStripQuotesCmd.label "Anführungszeichen entfernen">
 <!ENTITY insertformmenu.accesskey "F">
 <!ENTITY editfind.accesskey "f">
-<!ENTITY pasteRowsCmd.label "Rows">
+<!ENTITY pasteRowsCmd.label "Datensätze">
 <!ENTITY formatparagraphmenu.accesskey "P">
 <!ENTITY editpastelink.accesskey "l">
 <!ENTITY pasteImage.accesskey "i">
@@ -699,7 +699,7 @@
 <!ENTITY formatstylesheetmenu.accesskey "y">
 <!ENTITY heading4.accesskey "4">
 <!ENTITY publishcmd.accesskey "b">
-<!ENTITY stylesheetMenu.label "Style Sheet anwenden">
+<!ENTITY stylesheetMenu.label "Stylesheet anwenden">
 <!ENTITY fontsizeMenu.label "Größe">
 <!ENTITY fileexit.keybinding "q">
 <!ENTITY increaseindentkb "=">
