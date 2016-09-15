@@ -3,8 +3,8 @@
 <p>Languages currently being translated include: German, French, Spanish (Spain), English (British), Italian, Dutch, Portuguese (Brazilian), Russian, and Swedish.</p>
 <p><strong><span class="wysiwyg-font-size-large">Postbox 5 Translation Build</span></strong></p>
 <p>Please download and install this special Mac translation build, which contains all of the languages specified above:</p>
-<p><a href="http://postbox-downloads.s3.amazonaws.com/mac/postbox-5.0b4-mac64.dmg" target="_blank">Mac OS X - BETA 4</a><br>
-<a href="http://postbox-downloads.s3.amazonaws.com/win/postbox-5.0b4-win32.exe">Windows - BETA 4</a></p>
+<p><a href="http://postbox-downloads.s3.amazonaws.com/mac/postbox-5.0rc1b-mac64.dmg" target="_blank">Mac OS X - RC 1</a><br>
+<a href="http://postbox-downloads.s3.amazonaws.com/win/postbox-5.0rc1b-win32.exe">Windows - BETA 4</a></p>
 <p><strong><span class="wysiwyg-font-size-large">Getting Started</span></strong></p>
 <ol>
 <li>Create a <a href="https://github.com" target="_blank">GitHub</a> account (if you do not already have one).</li>
