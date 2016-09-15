@@ -16,7 +16,7 @@
 <!ENTITY  showPublishDialog.label       "Immer Publizieren-Dialog beim Publizieren von Seiten anzeigen">
 <!ENTITY  showPublishDialog.accesskey   "P">
 <!ENTITY  composerEditing.label         "Bearbeiten">
-<!ENTITY  maintainStructure.label       "Tabellen-Layout beim Einfügen oder Löschen von Zellen erhalten">
+<!ENTITY  maintainStructure.label       "Tabellenlayout beim Einfügen oder Löschen von Zellen erhalten">
 <!ENTITY  maintainStructure.tooltip     "Erhält die rechteckige Form der Tabelle, indem automatisch Zellen hinzugefügt werden, nachdem Sie Zellen einfügen oder löschen">
 <!ENTITY  maintainStructure.accesskey   "i">
 <!ENTITY  useCSS.label                  "CSS-Stile statt HTML-Elementen und -Attributen verwenden">

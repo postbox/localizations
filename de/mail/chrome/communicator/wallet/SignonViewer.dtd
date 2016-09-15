@@ -5,8 +5,8 @@
 <!ENTITY      tab.nopreview.label             "Formulare ohne Vorschau">
 <!ENTITY      tab.nocapture.label             "Formulare nie speichern">
 
-<!ENTITY      spiel.signonsstored.label       "Der Passwort Manager hat Login Details für die folgenden Webseiten gespeichert:">
-<!ENTITY      spiel.signonsnotstored.label    "Der Passwort Manager soll keine Login Details für die folgenden Webseiten speichern:">
+<!ENTITY      spiel.signonsstored.label       "Der Passwort-Manager hat Login-Details für die folgenden Webseiten gespeichert:">
+<!ENTITY      spiel.signonsnotstored.label    "Der Passwort-Manager soll keine Login-Details für die folgenden Webseiten speichern:">
 <!ENTITY      spiel.nopreview.label           "Keine Formularvorschau vor Vorschlag für die folgenden Webseiten:">
 <!ENTITY      spiel.nocapture.label           "Nicht anbieten, die Formulardaten für die folgenden Webseiten zu speichern:">
 
