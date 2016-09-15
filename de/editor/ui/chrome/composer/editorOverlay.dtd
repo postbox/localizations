@@ -503,7 +503,7 @@
 -->
 
 <!ENTITY listprops.accesskey "l">
-<!ENTITY tableFix.label "Tabellen-Layout anpassen">
+<!ENTITY tableFix.label "Tabellenlayout anpassen">
 <!ENTITY ParagraphAbbr.label "P">
 <!ENTITY decreasefontsize.accesskey "r">
 <!ENTITY Heading3Abbr.label "H3">
@@ -625,7 +625,7 @@
 <!ENTITY formatalignmenu.accesskey "a">
 <!ENTITY paragraphpreformat.accesskey "f">
 <!ENTITY fileexporttotext.accesskey "T">
-<!ENTITY insertImageMapCmd.label "Bildkarte…">
+<!ENTITY insertImageMapCmd.label "Verweissensitive Grafik…">
 <!ENTITY editfindnext.accesskey "g">
 <!ENTITY listdefinition.accesskey "d">
 <!ENTITY tablejoincells.accesskey "j">

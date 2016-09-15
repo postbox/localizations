@@ -42,7 +42,7 @@
 <!ENTITY otherSubdir.label     "Unterverzeichnis für Grafiken:">
 
 <!ENTITY status.label          "Publizieren…">
-<!ENTITY fileList.label        "Publikations-Status">
+<!ENTITY fileList.label        "Publikationsstatus">
 <!ENTITY succeeded.label       "Erfolgreich">
 <!ENTITY failed.label          "Fehlgeschlagen">
 

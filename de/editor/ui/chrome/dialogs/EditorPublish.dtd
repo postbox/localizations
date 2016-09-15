@@ -64,7 +64,7 @@
 <!ENTITY pageTitle.label              "Seitentitel:">
 <!ENTITY pageTitle.accesskey          "t">
 <!ENTITY pageTitle.tooltip            "Geben Sie einen Titel an, um die Seite in Fenstern und Lesezeichen zu identifizieren">
-<!ENTITY pageTitleExample.label       "z.B.: &quot;Meine Web-Site&quot;">
+<!ENTITY pageTitleExample.label       "z.B.: &quot;Meine Website&quot;">
 <!ENTITY filename.label               "Dateiname:">
 <!ENTITY filename.accesskey           "e">
 <!ENTITY filename.tooltip             "Geben Sie einen Namen für diese Datei inklusive '.html' für eine Website an">
