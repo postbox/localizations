@@ -49,7 +49,6 @@
 
 <!ENTITY enterLicenseTitle.style "">
 <!ENTITY invalidLicenseVersion.style "">
-# do NOT localize entity validationTitle.style
 <!ENTITY validationTitle.style "font-size: 10px;">
 <!ENTITY thanksTitle.style "">
 <!ENTITY invalidLicense.style "">
