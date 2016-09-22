@@ -25,7 +25,7 @@
 <!ENTITY then.accesskey                       "o">
 <!ENTITY aboveQuote.label                     "inizia la risposta sopra il testo citato">
 <!ENTITY belowQuote.label                     "inizia la risposta sotto il testo citato">
-<!ENTITY selectAndQuote.label                 "seleziona il testo citato>
+<!ENTITY selectAndQuote.label                 "seleziona il testo citato">
 <!ENTITY place.label                          "e inserisci la mia firma">
 <!ENTITY place.accesskey                      "t">
 <!ENTITY belowText.label                      "sotto il testo citato (consigliato)">
