@@ -126,7 +126,7 @@
 <!ENTITY pbCloseFolderPane.label "Fechar Painel de Pastas">
 <!ENTITY pbOpenFolderPane.label "Abrir Painel de Pastas">
 <!ENTITY pbArchiveMessage.label "Arquivar Mensagem">
-<!ENTITY pbDeleteMessage.label "Excluir Mensagem>
+<!ENTITY pbDeleteMessage.label "Excluir Mensagem">
 <!ENTITY pbOpenMessage.label "Abrir Mensagem">
 <!ENTITY pbSwipeRight.label "Deslizar para Direita:">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
