@@ -90,3 +90,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY devPixelsPerPx.default      "Default">
 <!ENTITY devPixelsPerPx.highdpi      "High DPI">
 <!ENTITY devPixelsPerPx.lowdpi       "Low DPI">
+
+<!ENTITY boldUnread.label      "Bold Unread">

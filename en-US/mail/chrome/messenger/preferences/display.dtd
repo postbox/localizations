@@ -79,3 +79,5 @@
 <!ENTITY quotedColor3.label "Quoted color, level 3">
 <!ENTITY quotedColor4.label "Quoted color, level 4">
 <!ENTITY quotedColor5.label "Quoted color, level 5">
+
+<!ENTITY boldUnread.label      "Bold Unread">

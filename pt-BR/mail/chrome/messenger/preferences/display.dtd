@@ -90,3 +90,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY devPixelsPerPx.default      "Padrão">
 <!ENTITY devPixelsPerPx.highdpi      "DPI alto">
 <!ENTITY devPixelsPerPx.lowdpi       "DPI baixo">
+
+<!ENTITY boldUnread.label      "Negrito Não Lido">

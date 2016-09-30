@@ -90,3 +90,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY devPixelsPerPx.default      "Standaard">
 <!ENTITY devPixelsPerPx.highdpi      "Hoge DPI">
 <!ENTITY devPixelsPerPx.lowdpi       "Lage DPI">
+
+<!ENTITY boldUnread.label      "Vet ongelezen">

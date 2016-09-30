@@ -90,3 +90,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY devPixelsPerPx.default      "По умолчанию">
 <!ENTITY devPixelsPerPx.highdpi      "Высокое разрешение">
 <!ENTITY devPixelsPerPx.lowdpi       "Низкое разрешение">
+
+<!ENTITY boldUnread.label      "Полужирный Непрочитанное">

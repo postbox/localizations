@@ -90,3 +90,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY devPixelsPerPx.default      "Förinställd">
 <!ENTITY devPixelsPerPx.highdpi      "Hög DPI">
 <!ENTITY devPixelsPerPx.lowdpi       "Låg DPI">
+
+<!ENTITY boldUnread.label      "Fet oläst">

@@ -90,3 +90,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY devPixelsPerPx.default      "Par défaut">
 <!ENTITY devPixelsPerPx.highdpi      "Résolution élevée">
 <!ENTITY devPixelsPerPx.lowdpi       "Résolution faible">
+
+<!ENTITY boldUnread.label      "Gras Non Lu">
