@@ -488,3 +488,4 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbQuickPostEditor.email "Email">
 <!ENTITY pbQuickPostEditor.beforeSubject "Before Subject">
 <!ENTITY pbQuickPostEditor.afterSubject "After Subject">
+<!ENTITY pbQuickPostEditor.forwardAsAttachment "Forward as Attachment">

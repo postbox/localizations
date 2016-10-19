@@ -306,6 +306,7 @@
 <!ENTITY pbQuickPostEditor.email "Email">
 <!ENTITY pbQuickPostEditor.beforeSubject "Before Subject">
 <!ENTITY pbQuickPostEditor.afterSubject "After Subject">
+<!ENTITY pbQuickPostEditor.forwardAsAttachment "Forward as Attachment">
 
 <!-- pbSearchBox.xml -->
 <!ENTITY pbSearchScopePanel-location.label "Location">
@@ -376,3 +377,4 @@
 <!ENTITY pbFolderPaneSlider.label "Hide">
 
 <!ENTITY pbFavoritesBarContextMenu-remove.label "Remove From Favorites">
+<!ENTITY pbQuickPostEditor.forwardAsAttachment "Forward as Attachment">

@@ -69,5 +69,5 @@ with one or more of these troubleshooting options selected:">
 
 <!ENTITY safeModeDialogHelpButton.tooltip "Display online help for this dialog">
 
-<!ENTITY resetImapFolders.label           "Reset IMAP mail database">
+<!ENTITY resetImapFolders.label           "Reset IMAP mail databases and Search Indexes">
 <!ENTITY resetImapFolders.accesskey       "b">

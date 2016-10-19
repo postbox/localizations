@@ -407,3 +407,4 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbQuickPostEditor.email "E-mailadres">
 <!ENTITY pbQuickPostEditor.beforeSubject "Voor Onderwerp">
 <!ENTITY pbQuickPostEditor.afterSubject "Na Onderwerp">
+<!ENTITY pbQuickPostEditor.forwardAsAttachment "Forward as Attachment">
