@@ -435,4 +435,4 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbQuickPostEditor.email "E-post">
 <!ENTITY pbQuickPostEditor.beforeSubject "Före ämne">
 <!ENTITY pbQuickPostEditor.afterSubject "Efter ämne">
-<!ENTITY pbQuickPostEditor.forwardAsAttachment "Forward as Attachment">
+<!ENTITY pbQuickPostEditor.forwardAsAttachment "Framåt som bifogad fil">
