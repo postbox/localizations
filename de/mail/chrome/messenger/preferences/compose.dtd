@@ -122,9 +122,9 @@ entities below were automatically added by l10nmerge
 <!ENTITY accordingToEXIF.label "Bildausrichtung basierend auf EXIF Daten drehen">
 <!ENTITY accordingToEXIF.accesskey "o">
 
-<!ENTITY contactsSidebarDisplay.label          "Contacts Sidebar displays:">
+<!ENTITY contactsSidebarDisplay.label          "Sidebar angezeigt:">
 <!ENTITY contactsSidebarDisplay.accesskey      "S">
-<!ENTITY recentContacts.label                  "Recent Contacts">
+<!ENTITY recentContacts.label                  "Letzte Kontakte">
 <!ENTITY recentContacts.accesskey              "n">
-<!ENTITY addressBooks.label                    "Address Books">
+<!ENTITY addressBooks.label                    "Adressbuch">
 <!ENTITY addressBooks.accesskey                "B">
