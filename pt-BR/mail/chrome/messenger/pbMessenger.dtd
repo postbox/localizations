@@ -436,3 +436,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbQuickPostEditor.beforeSubject "Antes do assunto">
 <!ENTITY pbQuickPostEditor.afterSubject "Depois do assunto">
 <!ENTITY pbQuickPostEditor.forwardAsAttachment "Encaminhar como Anexo">
+<!ENTITY pbQuickPostEditor.openComposeWindow "Send via Compose Window">
+<!ENTITY pbQuickPostEditor.send "Send">

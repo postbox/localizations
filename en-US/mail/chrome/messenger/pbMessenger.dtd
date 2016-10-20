@@ -306,7 +306,9 @@
 <!ENTITY pbQuickPostEditor.email "Email">
 <!ENTITY pbQuickPostEditor.beforeSubject "Before Subject">
 <!ENTITY pbQuickPostEditor.afterSubject "After Subject">
-<!ENTITY pbQuickPostEditor.forwardAsAttachment "Forward as Attachment">
+<!ENTITY pbQuickPostEditor.forwardAsAttachment "Send as Attachment">
+<!ENTITY pbQuickPostEditor.openComposeWindow "Send via Compose Window">
+<!ENTITY pbQuickPostEditor.send "Send">
 
 <!-- pbSearchBox.xml -->
 <!ENTITY pbSearchScopePanel-location.label "Location">

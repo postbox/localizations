@@ -408,3 +408,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbQuickPostEditor.beforeSubject "Voor Onderwerp">
 <!ENTITY pbQuickPostEditor.afterSubject "Na Onderwerp">
 <!ENTITY pbQuickPostEditor.forwardAsAttachment "Doorsturen als bijlage">
+<!ENTITY pbQuickPostEditor.openComposeWindow "Send via Compose Window">
+<!ENTITY pbQuickPostEditor.send "Send">
