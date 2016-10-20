@@ -428,7 +428,7 @@
 <!ENTITY helpMenuWin.accesskey    "A">
 <!ENTITY releaseCmd.label "Notas de la versión">
 <!ENTITY releaseCmd.accesskey "r">
-<!ENTITY guideCmd.label "Quickstart Guide">
+<!ENTITY guideCmd.label "Guía de inicio rápido">
 <!ENTITY guideCmd.accesskey "r">
 <!ENTITY hintsAndTips.label "Ayuda de &brandFullName;">
 <!ENTITY hintsAndTipsMac.commandkey "?">
