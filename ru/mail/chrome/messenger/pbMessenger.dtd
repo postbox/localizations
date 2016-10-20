@@ -435,6 +435,6 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbQuickPostEditor.email "Адрес эл. почты">
 <!ENTITY pbQuickPostEditor.beforeSubject "Перед темой">
 <!ENTITY pbQuickPostEditor.afterSubject "После темы">
-<!ENTITY pbQuickPostEditor.forwardAsAttachment "Переслать как вложение">
-<!ENTITY pbQuickPostEditor.openComposeWindow "Send via Compose Window">
-<!ENTITY pbQuickPostEditor.send "Send">
+<!ENTITY pbQuickPostEditor.forwardAsAttachment "Отправить как вложение">
+<!ENTITY pbQuickPostEditor.openComposeWindow "Отправить с помощью Compose Window">
+<!ENTITY pbQuickPostEditor.send "Отправка">

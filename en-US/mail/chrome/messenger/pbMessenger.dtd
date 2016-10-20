@@ -379,4 +379,4 @@
 <!ENTITY pbFolderPaneSlider.label "Hide">
 
 <!ENTITY pbFavoritesBarContextMenu-remove.label "Remove From Favorites">
-<!ENTITY pbQuickPostEditor.forwardAsAttachment "Forward as Attachment">
+<!ENTITY pbQuickPostEditor.forwardAsAttachment "Send as Attachment">

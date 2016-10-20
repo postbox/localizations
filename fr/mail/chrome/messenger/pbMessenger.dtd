@@ -408,6 +408,6 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbQuickPostEditor.email "Email">
 <!ENTITY pbQuickPostEditor.beforeSubject "Avant l'objet">
 <!ENTITY pbQuickPostEditor.afterSubject "Après l'objet">
-<!ENTITY pbQuickPostEditor.forwardAsAttachment "Transmettre en pièce jointe">
-<!ENTITY pbQuickPostEditor.openComposeWindow "Send via Compose Window">
-<!ENTITY pbQuickPostEditor.send "Send">
+<!ENTITY pbQuickPostEditor.forwardAsAttachment "Envoyer en tant que pièce jointe">
+<!ENTITY pbQuickPostEditor.openComposeWindow "Envoyer via fenêtre de composition">
+<!ENTITY pbQuickPostEditor.send "Envoyer">
