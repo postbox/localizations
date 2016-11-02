@@ -119,7 +119,7 @@
 <!ENTITY WorkWebPage.label              "Pagina web:">
 
 <!ENTITY Picture.tab                    "Immagine">
-<!ENTITY locationEditField.label        Percorso immagine:">
+<!ENTITY locationEditField.label        "Percorso immagine:">
 <!ENTITY locationEditField.accessKey    "L">
 <!ENTITY locationEditField.tooltip      "Inserisci il nome del file o l'indirizzo dell'immagine">
 <!ENTITY chooseButton.label             "Scegli file…">
