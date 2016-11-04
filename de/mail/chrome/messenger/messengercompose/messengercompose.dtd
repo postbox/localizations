@@ -434,3 +434,49 @@ entities below were automatically added by l10nmerge
 <!ENTITY smallImageResize.label "Klein">
 <!ENTITY templatePlaceholderIdentity.label "Vollständiger Name">
 <!ENTITY templatePlaceholderDate.label "Datum">
+
+<!-- Image manipulation context menu -->
+<!ENTITY modifyAllImages.label "Modify All Images">
+<!ENTITY scaleImage.label  "Scale">
+<!ENTITY scale200PCT.label "200&#37;">
+<!ENTITY scale150PCT.label "150&#37;">
+<!ENTITY scale100PCT.label "100&#37;">
+<!ENTITY scale75PCT.label  "75&#37;">
+<!ENTITY scale50PCT.label  "50&#37;">
+<!ENTITY scale25PCT.label  "25&#37;">
+<!ENTITY marginImage.label "Margin">
+<!ENTITY margin10px.label "10px">
+<!ENTITY margin20px.label "20px">
+<!ENTITY margin30px.label "30px">
+<!ENTITY margin40px.label "40px">
+<!ENTITY shadowImage.label "Add a Shadow">
+<!ENTITY floatImage "Float">
+<!ENTITY leftFloat.label "Left">
+<!ENTITY rightFloat.label "Right">
+<!ENTITY fxImage.label "Effects">
+<!ENTITY noFx.label "No Effect">
+<!ENTITY equalizeFx.label "Equalize">
+<!ENTITY greyscaleFx.label "Greyscale">
+<!ENTITY sepiaFx.label "Sepia">
+<!ENTITY solarizeFx.label "Solarize">
+<!ENTITY retroFx.label "Retro">
+<!ENTITY vintageFx.label "Vintage">
+<!ENTITY frameImage.label "Frame">
+<!ENTITY frame1Fx.label "Frame 1">
+<!ENTITY frame2Fx.label "Frame 2">
+<!ENTITY frame3Fx.label "Frame 3">
+<!ENTITY frame4Fx.label "Frame 4">
+<!ENTITY frame5Fx.label "Frame 5">
+<!ENTITY frame6Fx.label "Frame 6">
+<!ENTITY frame7Fx.label "Frame 7">
+<!ENTITY frame8Fx.label "Frame 8">
+<!ENTITY frame9Fx.label "Frame 9">
+<!ENTITY frame10Fx.label "Frame 10">
+<!ENTITY frame11Fx.label "Frame 11">
+<!ENTITY rotateImage.label "Rotate">
+<!ENTITY rotate90.label "90 Degrees">
+<!ENTITY rotate180.label "180 Degrees">
+<!ENTITY rotate270.label "270 Degrees">
+<!ENTITY flipImage.label "Flip">
+<!ENTITY xflip.label "Horizontally">
+<!ENTITY yflip.label "Vertically">
