@@ -71,7 +71,7 @@
 <!ENTITY showhideTbarCmd.label "Masquer la barre d'outils">
 <!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
-<!ENTITY mapviewScale.label "Dimensions">
+<!ENTITY mapviewScale.label "Échelle">
 <!ENTITY mapviewScale.accesskey "D">
 <!ENTITY apercentCmd.label "100">
 <!ENTITY apercentCmd.accesskey "1">
