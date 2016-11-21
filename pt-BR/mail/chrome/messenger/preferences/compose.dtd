@@ -150,6 +150,6 @@ entities below were automatically added by l10nmerge
 <!ENTITY addressBooks.label                    "Catálogo">
 <!ENTITY addressBooks.accesskey                "B">
 
-<!ENTITY itemTypeCheck.label                 "Typing">
-<!ENTITY intlKeysPanel.label "International Characters panel">
-<!ENTITY emojiShortcuts.label "Emoji shortcuts">
+<!ENTITY itemTypeCheck.label                 "Digitando">
+<!ENTITY intlKeysPanel.label "Painel de Entrada Internacional de Caracteres">
+<!ENTITY emojiShortcuts.label "Atalhos Emoji">
