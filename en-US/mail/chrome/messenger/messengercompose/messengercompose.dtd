@@ -438,7 +438,7 @@
 <!ENTITY margin20px.label "20px">
 <!ENTITY margin30px.label "30px">
 <!ENTITY margin40px.label "40px">
-<!ENTITY shadowImage.label "Shadow">
+<!ENTITY shadowImage.label "Add a Shadow">
 <!ENTITY floatImage "Float">
 <!ENTITY leftFloat.label "Left">
 <!ENTITY rightFloat.label "Right">

@@ -1,6 +1,6 @@
 <!ENTITY itemGeneral.label                   "General">
 <!ENTITY itemAutoComplete.label              "Addressing">
-<!ENTITY itemSpellCheck.label                "Spelling">
+<!ENTITY itemTypeCheck.label                 "Typing">
 <!ENTITY itemSendFormat.label                "Send Format">
 <!ENTITY itemSignatures.label                "Signatures">
 <!ENTITY itemCannedResponses.label           "Responses">
@@ -120,3 +120,5 @@
 <!ENTITY messageSizeWarning.label "Warn me if the message size is above">
 <!ENTITY megabytes.label "MB">
 
+<!ENTITY intlKeysPanel.label "International Characters panel">
+<!ENTITY emojiShortcuts.label "Emoji shortcuts">

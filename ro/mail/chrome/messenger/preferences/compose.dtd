@@ -180,3 +180,7 @@ entities below were automatically added by l10nmerge
 <!ENTITY recentContacts.accesskey              "n">
 <!ENTITY addressBooks.label                    "Address Books">
 <!ENTITY addressBooks.accesskey                "B">
+
+<!ENTITY itemTypeCheck.label                 "Typing">
+<!ENTITY intlKeysPanel.label "International Characters panel">
+<!ENTITY emojiShortcuts.label "Emoji shortcuts">
