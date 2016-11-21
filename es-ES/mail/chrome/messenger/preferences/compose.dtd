@@ -181,6 +181,6 @@ entities below were automatically added by l10nmerge
 <!ENTITY addressBooks.label                    "Libreta de direcciones">
 <!ENTITY addressBooks.accesskey                "B">
 
-<!ENTITY itemTypeCheck.label                 "Typing">
-<!ENTITY intlKeysPanel.label "International Characters panel">
-<!ENTITY emojiShortcuts.label "Emoji shortcuts">
+<!ENTITY itemTypeCheck.label                 "Escritura">
+<!ENTITY intlKeysPanel.label "Panel de entrada de caracteres internacional">
+<!ENTITY emojiShortcuts.label "Atajos de Emoji">
