@@ -33,7 +33,7 @@
 <!ENTITY fti.indexMsgBodies.label "Indexer le corps des messages">
 <!ENTITY newsrcFilePath.label "newsrc file:">
 <!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Local directory:">
+<!ENTITY localPath.label "Dossier local:">
 <!ENTITY localPath.accesskey "L">
 <!ENTITY localFolderPicker.label "Sélection du répertoire local">
 <!ENTITY browseFolder.label "Rechercher...">
