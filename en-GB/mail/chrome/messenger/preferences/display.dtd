@@ -50,7 +50,7 @@
 <!ENTITY pb.conversations.sortoldest.label "Oldest messages first">
 <!ENTITY pb.conversations.sortnewest.label "Newest messages first">
 
-<!ENTITY pb.conversations.read.label "When displaying a converation, mark its messages as read">
+<!ENTITY pb.conversations.read.label "When displaying a conversation, mark its messages as read">
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Include contact photos for each participant in the conversation">
 <!ENTITY pb.conversations.photos.accesskey "I">
