@@ -109,4 +109,4 @@ entities below were automatically added by l10nmerge
 <!ENTITY devPixelsPerPx.highdpi      "PPP alto">
 <!ENTITY devPixelsPerPx.lowdpi       "PPP bajo">
 
-<!ENTITY boldUnread.label      "Negrita no leído">
+<!ENTITY boldUnread.label      "Mostrar en negrita los mensajes no leídos">

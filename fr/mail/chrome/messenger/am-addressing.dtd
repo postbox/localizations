@@ -30,13 +30,13 @@
 <!ENTITY place.accesskey                      "p">
 <!ENTITY belowText.label                      "sous la citation (recommandé)">
 <!ENTITY aboveText.label                      "sous ma réponse (au-dessus de la citation)">
-<!ENTITY includeSigOnReply.label              "Include signature for replies">
+<!ENTITY includeSigOnReply.label              "Inclure la signature pour Répondre">
 <!ENTITY includeSigOnReply.accesskey          "s">
-<!ENTITY includeSigOnForward.label            "Include signature for forwards">
+<!ENTITY includeSigOnForward.label            "Inclure la signature pour Transférer">
 <!ENTITY includeSigOnForward.accesskey        "w">
 
 <!-- Postbox Summary Mode -->
-<!ENTITY pbSummarizeOnReply.label             "By">
+<!ENTITY pbSummarizeOnReply.label             "Par">
 <!ENTITY pbSummarizeOnReply.accesskey         "y">
 <!ENTITY pbSummarizeOnReply.normal.label      "citer le message sélectionné">
 <!ENTITY pbSummarizeOnReply.summarize.label   "récapituler toute la conversation">
