@@ -698,13 +698,13 @@
 <!-- Statusbar -->
 <!ENTITY statusText.label "Klaar">
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.label "Minimaliseren">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Alles naar voren brengen">
 <!ENTITY zoomWindow.label "Zoom">
 
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!-- macOS Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "Voorkeuren…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">

@@ -5,5 +5,5 @@
 
 <!ENTITY insertMacro.label "Quick Bar">
 
-<!ENTITY pbMacroSearchPanel.firstrunWin "Bij het intypen van een URL vult Postbox deze automatisch aan met de URLs uit uw e-mails. Om URL automatisch aanvullen uit te schakelen gaat u naar Opties > Samenstelling > Geavanceerd">
-<!ENTITY pbMacroSearchPanel.firstrunMac "Bij het intypen van een URL vult Postbox deze automatisch aan met de URLs uit uw e-mails. Om URL automatisch aanvullen uit te schakelen gaat u naar Opties > Samenstelling > Geavanceerd">
+<!ENTITY pbMacroSearchPanel.firstrunWin "Bij het intypen van een URL vult Postbox deze automatisch aan met de URLs uit uw e-mails. Om URL automatisch aanvullen uit te schakelen gaat u naar Opties > Samenstelling > Typen">
+<!ENTITY pbMacroSearchPanel.firstrunMac "Bij het intypen van een URL vult Postbox deze automatisch aan met de URLs uit uw e-mails. Om URL automatisch aanvullen uit te schakelen gaat u naar Opties > Samenstelling > Typen">

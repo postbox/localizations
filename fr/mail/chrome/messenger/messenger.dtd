@@ -697,13 +697,13 @@
 <!-- Statusbar -->
 <!ENTITY statusText.label "Chargé">
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.label "Réduire">
 <!ENTITY minimizeWindow.key "R">
 <!ENTITY bringAllToFront.label "Tout amener à l'avant-plan">
 <!ENTITY zoomWindow.label "Zoomer">
 
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!-- macOS Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "Préférences...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">

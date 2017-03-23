@@ -5,5 +5,5 @@
 
 <!ENTITY insertMacro.label "Schnellleiste">
 
-<!ENTITY pbMacroSearchPanel.firstrunWin "Wenn Sie eine URL eingeben wird Postbox die URLs basierend auf Ihren E-Mails automatisch vervollständigen. Um die automatische Vervollständigung zu deaktivieren, gehen Sie auf Einstellungen > Schreiben > Erweitert">
-<!ENTITY pbMacroSearchPanel.firstrunMac "Wenn Sie eine URL eingeben wird Postbox die URLs basierend auf Ihren E-Mails automatisch vervollständigen. Um die automatische Vervollständigung zu deaktivieren, gehen Sie auf Präferenzen > Schreiben > Erweitert">
+<!ENTITY pbMacroSearchPanel.firstrunWin "Wenn Sie eine URL eingeben wird Postbox die URLs basierend auf Ihren E-Mails automatisch vervollständigen. Um die automatische Vervollständigung zu deaktivieren, gehen Sie auf Einstellungen > Schreiben > Eingabe">
+<!ENTITY pbMacroSearchPanel.firstrunMac "Wenn Sie eine URL eingeben wird Postbox die URLs basierend auf Ihren E-Mails automatisch vervollständigen. Um die automatische Vervollständigung zu deaktivieren, gehen Sie auf Präferenzen > Schreiben > Eingabe">

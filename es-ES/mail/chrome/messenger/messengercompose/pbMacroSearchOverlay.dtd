@@ -5,5 +5,5 @@
 
 <!ENTITY insertMacro.label "Barra rápida">
 
-<!ENTITY pbMacroSearchPanel.firstrunWin "Al teclear un URL, Postbox automáticamente lo finalizará basándose en los URLs de sus correos electrónicos. Para desactivar la función automática de finalización de URLs, vaya a Opciones > Composición > Advanzado">
-<!ENTITY pbMacroSearchPanel.firstrunMac "Al teclear un URL, Postbox automáticamente lo finalizará basándose en los URLs de sus correos electrónicos. Para desactivar la función automática de finalización de URLs, vaya a Preferencias > Composición > Advanzado">
+<!ENTITY pbMacroSearchPanel.firstrunWin "Al teclear un URL, Postbox automáticamente lo finalizará basándose en los URLs de sus correos electrónicos. Para desactivar la función automática de finalización de URLs, vaya a Opciones > Composición > Escritura">
+<!ENTITY pbMacroSearchPanel.firstrunMac "Al teclear un URL, Postbox automáticamente lo finalizará basándose en los URLs de sus correos electrónicos. Para desactivar la función automática de finalización de URLs, vaya a Preferencias > Composición > Escritura">

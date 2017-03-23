@@ -21,7 +21,7 @@
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Folosește agenda de contacte Mac OS X">
+<!ENTITY osxAddressBook.label                           "Folosește agenda de contacte macOS">
 <!ENTITY osxAddressBook.accesskey                       "o">
 <!ENTITY closeCmd.label                                 "Închide">
 <!ENTITY closeCmd.key                                   "w">
@@ -228,7 +228,7 @@
 <!-- Status Bar -->
 <!ENTITY statusText.label "">
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY windowMenu.label "Fereastră">
 <!ENTITY minimizeWindow.label "Minimizează">
 <!ENTITY minimizeWindow.key "M">
