@@ -5,5 +5,5 @@
 
 <!ENTITY insertMacro.label "Barra rapida">
 
-<!ENTITY pbMacroSearchPanel.firstrunWin "Quando digiti un URL, Postbox eseguirà l'autocompletamento in base agli URL delle tue e-mail. Per disabilitare l'autocompletamento URL, vai a Opzioni > Composizione > Avanzate">
-<!ENTITY pbMacroSearchPanel.firstrunMac "Quando digiti un URL, Postbox eseguirà l'autocompletamento in base agli URL delle tue e-mail. Per disabilitare l'autocompletamento URL, vai a Opzioni > Composizione > Avanzate">
+<!ENTITY pbMacroSearchPanel.firstrunWin "Quando digiti un URL, Postbox eseguirà l'autocompletamento in base agli URL delle tue e-mail. Per disabilitare l'autocompletamento URL, vai a Opzioni > Composizione > Digitazione">
+<!ENTITY pbMacroSearchPanel.firstrunMac "Quando digiti un URL, Postbox eseguirà l'autocompletamento in base agli URL delle tue e-mail. Per disabilitare l'autocompletamento URL, vai a Opzioni > Composizione > Digitazione">

@@ -5,5 +5,5 @@
 
 <!ENTITY insertMacro.label "Barre d'accès rapide">
 
-<!ENTITY pbMacroSearchPanel.firstrunWin "Lors de la saisie d'une URL, Postbox tentera automatiquement de la compléter en se basant sur les URLs contenus dans vos emails. Pour désactiver cette autocomplétion des URLs, allez dans Options > Composition > Avancé">
-<!ENTITY pbMacroSearchPanel.firstrunMac "Lors de la saisie d'une URL, Postbox tentera automatiquement de le compléter en se basant sur les URLs contenus dans vos emails. Pour désactiver cette autocomplétion des URLs, allez dans Préférences > Composition > Avancé">
+<!ENTITY pbMacroSearchPanel.firstrunWin "Lors de la saisie d'une URL, Postbox tentera automatiquement de la compléter en se basant sur les URLs contenus dans vos emails. Pour désactiver cette autocomplétion des URLs, allez dans Options > Composition > Frappe">
+<!ENTITY pbMacroSearchPanel.firstrunMac "Lors de la saisie d'une URL, Postbox tentera automatiquement de le compléter en se basant sur les URLs contenus dans vos emails. Pour désactiver cette autocomplétion des URLs, allez dans Préférences > Composition > Frappe">

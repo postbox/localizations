@@ -5,5 +5,5 @@
 
 <!ENTITY insertMacro.label "Snabbfält">
 
-<!ENTITY pbMacroSearchPanel.firstrunWin "Postbox kommer automatiskt komplettera en URL som skrivs in utifrån URLer från dina e-postmeddelanden. Gå till Alternativ > Komponera > Avancerat för att stänga av automatisk komplettering av URLer">
-<!ENTITY pbMacroSearchPanel.firstrunMac "Postbox kommer automatiskt komplettera en URL som skrivs in utifrån URLer från dina e-postmeddelanden. Gå till Egenskaper > Komponera > Avancerat för att stänga av automatisk komplettering av URLer">
+<!ENTITY pbMacroSearchPanel.firstrunWin "Postbox kommer automatiskt komplettera en URL som skrivs in utifrån URLer från dina e-postmeddelanden. Gå till Alternativ > Komponera > Inmatning för att stänga av automatisk komplettering av URLer">
+<!ENTITY pbMacroSearchPanel.firstrunMac "Postbox kommer automatiskt komplettera en URL som skrivs in utifrån URLer från dina e-postmeddelanden. Gå till Egenskaper > Komponera > Inmatning för att stänga av automatisk komplettering av URLer">
