@@ -21,7 +21,7 @@
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "N">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Mac OS X-Adressbuch verwenden">
+<!ENTITY osxAddressBook.label                           "macOS-Adressbuch verwenden">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Schließen">
 <!ENTITY closeCmd.key                                   "W">
@@ -228,7 +228,7 @@
 <!-- Status Bar -->
 <!ENTITY statusText.label "">
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY windowMenu.label "Fenster">
 <!ENTITY minimizeWindow.label "Fenster minimieren">
 <!ENTITY minimizeWindow.key "m">

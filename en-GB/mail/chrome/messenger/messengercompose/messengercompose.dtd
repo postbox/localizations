@@ -181,7 +181,7 @@
 <!ENTITY preferencesCmdUnix.label       "Preferences">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimise">
 <!ENTITY bringAllToFront.label "Bring All to Front">

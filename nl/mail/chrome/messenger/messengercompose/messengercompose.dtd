@@ -183,7 +183,7 @@
 <!ENTITY preferencesCmdUnix.label       "Voorkeuren">
 <!ENTITY preferencesCmdUnix.accesskey   "V"> 
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimaliseren">
 <!ENTITY bringAllToFront.label "Alles naar voren brengen">

@@ -691,13 +691,13 @@
 <!-- Statusbar -->
 <!ENTITY statusText.label "Klar">
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.label "Minimera">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Lägg i förgrunden">
 <!ENTITY zoomWindow.label "Zooma fönster">
 
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!-- macOS Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "Inställningar…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">

@@ -181,7 +181,7 @@
 <!ENTITY preferencesCmdUnix.label       "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey   "I">
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimera">
 <!ENTITY bringAllToFront.label "Lägg i förgrunden">

@@ -181,7 +181,7 @@
 <!ENTITY preferencesCmdUnix.label       "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey   "n">
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Убрать в Dock">
 <!ENTITY bringAllToFront.label "Все окна — на передний план">

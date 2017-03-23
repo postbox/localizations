@@ -181,7 +181,7 @@
 <!ENTITY preferencesCmdUnix.label       "Preferenze">
 <!ENTITY preferencesCmdUnix.accesskey   "P">
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Riduci">
 <!ENTITY bringAllToFront.label "Porta tutto in primo piano">

@@ -183,7 +183,7 @@
 <!ENTITY preferencesCmdUnix.label       "Préférences">
 <!ENTITY preferencesCmdUnix.accesskey   "n">
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.key "R">
 <!ENTITY minimizeWindow.label "Réduire">
 <!ENTITY bringAllToFront.label "Tout amener à l'avant-plan">

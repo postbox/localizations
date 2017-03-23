@@ -691,13 +691,13 @@
 <!-- Statusbar -->
 <!ENTITY statusText.label "Готово">
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.label "Убрать в Dock">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Все окна — на передний план">
 <!ENTITY zoomWindow.label "Изменить масштаб">
 
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!-- macOS Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "Настройки…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">

@@ -691,13 +691,13 @@
 <!-- Statusbar -->
 <!ENTITY statusText.label "Fatto">
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.label "Riduci">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Porta tutto in primo piano">
 <!ENTITY zoomWindow.label "Ingrandisci">
 
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!-- macOS Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "Preferenze…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">

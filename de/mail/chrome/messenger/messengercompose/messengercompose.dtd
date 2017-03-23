@@ -183,7 +183,7 @@
 <!ENTITY preferencesCmdUnix.label       "Einstellungen…">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Fenster minimieren">
 <!ENTITY bringAllToFront.label "Fenster zeigen">

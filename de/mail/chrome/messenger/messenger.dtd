@@ -698,13 +698,13 @@
 <!-- Statusbar -->
 <!ENTITY statusText.label "Fertig">
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.label "Fenster minimieren">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Fenster zeigen">
 <!ENTITY zoomWindow.label "Fenster maximieren">
 
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!-- macOS Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "Einstellungen…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">

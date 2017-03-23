@@ -674,13 +674,13 @@
 <!-- Statusbar -->
 <!ENTITY statusText.label "Gata">
 
-<!--  Mac OS X Window Menu -->
+<!--  macOS Window Menu -->
 <!ENTITY minimizeWindow.label "Minimizează">
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY bringAllToFront.label "Adu-le pe toate în față">
 <!ENTITY zoomWindow.label "Lupă">
 
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!-- macOS Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "Preferințe…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
