@@ -98,7 +98,7 @@
 <!ENTITY addNewTag.label "Nytt ämne...">
 <!ENTITY addNewTag.accesskey "T">
 <!ENTITY removeTag.label "ta bort ämne">
-<!ENTITY removeAllTag.label "Ta bort alla...">
+<!ENTITY removeAllTag.label "Ta bort alla">
 <!ENTITY removeAllTag.accesskey "A">
 
 <!-- search menu -->

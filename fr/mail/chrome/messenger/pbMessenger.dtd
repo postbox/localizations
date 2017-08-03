@@ -102,7 +102,7 @@
 <!ENTITY addNewTag.label "Nouvelle étiquette...">
 <!ENTITY addNewTag.accesskey "t">
 <!ENTITY removeTag.label "Supprimer étiquette">
-<!ENTITY removeAllTag.label "Tout supprimer...">
+<!ENTITY removeAllTag.label "Tout supprimer">
 <!ENTITY removeAllTag.accesskey "T">
 
 <!-- search menu -->

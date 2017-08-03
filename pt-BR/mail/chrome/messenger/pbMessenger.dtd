@@ -98,7 +98,7 @@
 <!ENTITY addNewTag.label "Novo tópico...">
 <!ENTITY addNewTag.accesskey "T">
 <!ENTITY removeTag.label "Remover tópico">
-<!ENTITY removeAllTag.label "Remove All...">
+<!ENTITY removeAllTag.label "Remove All">
 <!ENTITY removeAllTag.accesskey "A">
 
 <!-- search menu -->

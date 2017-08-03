@@ -71,7 +71,7 @@
 <!ENTITY addNewTag.label "Nueva etiqueta…">
 <!ENTITY addNewTag.accesskey "t">
 <!ENTITY removeTag.label "Eliminar etiqueta">
-<!ENTITY removeAllTag.label "Borrar todo...">
+<!ENTITY removeAllTag.label "Borrar todo">
 <!ENTITY removeAllTag.accesskey "a">
 
 <!-- search menu -->

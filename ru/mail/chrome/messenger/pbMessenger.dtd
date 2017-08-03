@@ -98,7 +98,7 @@
 <!ENTITY addNewTag.label "Новая метка…">
 <!ENTITY addNewTag.accesskey "T">
 <!ENTITY removeTag.label "Удалить метку">
-<!ENTITY removeAllTag.label "Удалить все…">
+<!ENTITY removeAllTag.label "Удалить все">
 <!ENTITY removeAllTag.accesskey "A">
 
 <!-- search menu -->

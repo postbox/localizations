@@ -102,7 +102,7 @@
 <!ENTITY addNewTag.label "Nieuw label…">
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY removeTag.label "Topic Verwijderen">
-<!ENTITY removeAllTag.label "Allen Verwijderen...">
+<!ENTITY removeAllTag.label "Allen Verwijderen">
 <!ENTITY removeAllTag.accesskey "A">
 
 <!-- search menu -->

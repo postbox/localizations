@@ -102,7 +102,7 @@
 <!ENTITY addNewTag.label "Neues Schlagwort…">
 <!ENTITY addNewTag.accesskey "t">
 <!ENTITY removeTag.label "Begriff entfernen">
-<!ENTITY removeAllTag.label "Alle löschen...">
+<!ENTITY removeAllTag.label "Alle löschen">
 <!ENTITY removeAllTag.accesskey "A">
 
 <!-- search menu -->
