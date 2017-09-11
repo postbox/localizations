@@ -327,7 +327,7 @@
 <!ENTITY redirectCmd.key "e">
 <!ENTITY createFilter.label "Skapa filterregel utifrån meddelandet…">
 <!ENTITY createFilter.accesskey "u">
-<!ENTITY archiveMsgMenu.label "Arkiv">
+<!ENTITY archiveMsgMenu.label "Arkivera">
 <!ENTITY archiveMsgMenu.accesskey "A">
 <!ENTITY moveMsgMenu.label "Flytta">
 <!ENTITY moveMsgMenu.accesskey "M">
@@ -618,7 +618,7 @@
 <!ENTITY contextForward.accesskey "V">
 <!ENTITY contextForwardAsAttachment.label "Vidarebefordra som bilaga">
 <!ENTITY contextForwardAsAttachment.accesskey "b">
-<!ENTITY contextArchiveMsg.label "Arkiv">
+<!ENTITY contextArchiveMsg.label "Arkivera">
 <!ENTITY contextArchiveMsg.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Flytta till">
 <!ENTITY contextMoveMsgMenu.accesskey "F">
