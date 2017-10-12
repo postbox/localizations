@@ -410,3 +410,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbQuickPostEditor.forwardAsAttachment "Als bijlage verzenden">
 <!ENTITY pbQuickPostEditor.openComposeWindow "Versturen via Compose Window">
 <!ENTITY pbQuickPostEditor.send "Verzenden">
+<!ENTITY pbMessagePaneContext-copyMessageLink.label "Copy Message Link">
+<!ENTITY pbMessagePaneContext-copyMessageLink.accesskey "l">

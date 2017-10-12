@@ -380,3 +380,5 @@
 
 <!ENTITY pbFavoritesBarContextMenu-remove.label "Remove From Favorites">
 <!ENTITY pbQuickPostEditor.forwardAsAttachment "Send as Attachment">
+<!ENTITY pbMessagePaneContext-copyMessageLink.label "Copy Message Link">
+<!ENTITY pbMessagePaneContext-copyMessageLink.accesskey "l">

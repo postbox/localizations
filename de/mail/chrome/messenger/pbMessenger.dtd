@@ -409,3 +409,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbQuickPostEditor.forwardAsAttachment "Als Anlage senden">
 <!ENTITY pbQuickPostEditor.openComposeWindow "Senden über Verfassungsfenster">
 <!ENTITY pbQuickPostEditor.send "Senden">
+<!ENTITY pbMessagePaneContext-copyMessageLink.label "Copy Message Link">
+<!ENTITY pbMessagePaneContext-copyMessageLink.accesskey "l">

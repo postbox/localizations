@@ -438,3 +438,5 @@ entities below were automatically added by l10nmerge
 <!ENTITY pbQuickPostEditor.forwardAsAttachment "Skicka som bifogad fil">
 <!ENTITY pbQuickPostEditor.openComposeWindow "Skicka via meddelandefönstret">
 <!ENTITY pbQuickPostEditor.send "Skicka">
+<!ENTITY pbMessagePaneContext-copyMessageLink.label "Copy Message Link">
+<!ENTITY pbMessagePaneContext-copyMessageLink.accesskey "l">
