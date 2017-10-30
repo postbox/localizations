@@ -1,13 +1,13 @@
-﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY addAccountDialog.title   "Настройка общего доступа к облачным файлам">
-<!ENTITY addAccountDialog.menuTitle "Выберите облачное хранилище данных">
+<!ENTITY addAccountDialog.title "Настроить Filelink">
+<!ENTITY addAccountDialog.menuTitle "Выберите службу онлайнового хранения">
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
-<!ENTITY addAccountDialog.accountName.label "Название учетной записи:">
-<!ENTITY addAccountDialog.noAccountText "К сожалению, текущая версия &brandShortName; поддерживает только одну учетную запись для каждого облачного хранилища.">
-<!ENTITY addAccountDialog.createAccountText2 "Вместо отправки вложенных файлов можно посылать ссылки на файлы с помощью одного из облачных хранилищ. Используйте существующую учетную запись или создайте новую.">
-<!ENTITY addAccountDialog.authorizing "Проверка авторизации…">
-<!ENTITY addAccountDialog.error "При настройке учетной записи произошла ошибка.">
-<!ENTITY addAccountDialog.acceptButton.label "Настроить учетную запись">
+<!ENTITY addAccountDialog.accountName.label "Имя учётной записи:">
+<!ENTITY addAccountDialog.noAccountText "Извините, но текущая версия of &brandShortName; позволяет иметь только одну учётную запись для каждой службы онлайнового хранения.">
+<!ENTITY addAccountDialog.createAccountText2 "Вы можете посылать большие вложения, используя одну из служб онлайнового хранения. Пожалуйста, подключитесь к существующей учётной записи, либо зарегистрируйте новую учётную запись.">
+<!ENTITY addAccountDialog.authorizing "Проверка авторизации...">
+<!ENTITY addAccountDialog.error "При настройке учётной записи произошла ошибка!">
+<!ENTITY addAccountDialog.acceptButton.label "Настроить учётную запись">
 <!ENTITY addAccountDialog.learnMore "Подробнее…">

@@ -1,99 +1,71 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 2000
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   David Bienvenu <bienvenu@netscape.com>
-   -   Mohan Bhamidipati <mohanb@netscape.com>
-   -   Lorenzo Colitti   <lorenzo@colitti.com>
-   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY folderProps.windowtitle.label           "Свойства">
+<!ENTITY folderProps.windowtitle.label "Свойства">
 
-<!ENTITY generalInfo.label                       "Основная информация">
-<!ENTITY folderCharsetTab.label                  "Кодировка по умолчанию:">
-<!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Использовать по умолчанию для всех сообщений в папке (игнорировать кодировки, указанные в отдельных сообщениях и автоматически определенные).">
-<!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Перестроить индекс">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Перестроить индексный файл">
+<!ENTITY generalInfo.label "Основная информация">
+<!ENTITY folderCharsetFallback2.label "Резервная кодировка текста:">
+<!ENTITY folderCharsetFallback2.accesskey "е">
+<!ENTITY folderCharsetEnforce2.label "Использовать как кодировку для всех сообщений в папке (игнорировать кодировки текста, определённые для отдельных сообщений, и автоопределение)">
+<!ENTITY folderCharsetEnforce2.accesskey "л">
+<!ENTITY folderRebuildSummaryFileTip2.label "Перестроить файл индекса">
+<!ENTITY folderRebuildSummaryFile2.label "Починить папку">
+<!ENTITY folderRebuildSummaryFile2.accesskey "ч">
+<!ENTITY folderRebuildSummaryFile.explanation "Иногда файл с индексом папки (.msf) становится повреждённым, и сообщения могут казаться пропавшими, либо могут появляться удалённые сообщения; починка папки может решить эти проблемы.">
+<!ENTITY folderIncludeInGlobalSearch.label "Включать сообщения в этой папке в результаты Глобального Поиска">
+<!ENTITY folderIncludeInGlobalSearch.accesskey "ю">
 
 <!ENTITY retention.label "Настройки хранения сообщений">
-<!ENTITY retentionUseDefault.label  "Использовать настройки сервера">
-<!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "дней">
+<!ENTITY retentionUseAccount.label "Использовать параметры моей учётной записи">
+<!ENTITY retentionUseAccount.accesskey "п">
 <!ENTITY daysOld.label "дней">
 <!ENTITY message.label "сообщений">
-<!ENTITY retentionCleanup.label "Для освобождения места на диске старые сообщения могут быть полностью удалены.">
-<!ENTITY retentionKeepMsg.label "Удалять сообщения старше">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены.">
+<!ENTITY retentionCleanupImap.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены (как локальные копии, так и оригиналы на удалённом сервере).">
+<!ENTITY retentionCleanupPop.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены (в том числе оригиналы на удалённом сервере).">
+<!ENTITY retentionDeleteMsg.label "Удалять сообщения старше">
+<!ENTITY retentionDeleteMsg.accesskey "с">
 <!ENTITY retentionKeepAll.label "Не удалять сообщения">
-<!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepNew.label "Удалять все, кроме последних">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Всегда удалять прочитанные сообщения">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepAll.accesskey "л">
+<!ENTITY retentionKeepRecent.label "Удалять все, кроме последних">
+<!ENTITY retentionKeepRecent.accesskey "ь">
+<!ENTITY retentionApplyToFlagged.label "Всегда хранить сообщения, отмеченные звёздочкой">
+<!ENTITY retentionApplyToFlagged.accesskey "х">
 
-<!ENTITY folderOfflineTab.label                  "Автономный режим">
-<!ENTITY folderCheckForNewMessages.label         "Проверять эту папку на наличие новых сообщений">
-<!ENTITY folderCheckForNewMessages.accesskey     "C">
+<!ENTITY folderSynchronizationTab.label "Синхронизация">
+<!ENTITY folderCheckForNewMessages2.label "При получении новых сообщений для этой учётной записи всегда проверять эту папку">
+<!ENTITY folderCheckForNewMessages2.accesskey "о">
 
-<!ENTITY offlineFolder.check.label               "Выбрать эту папку для автономного режима">
-<!ENTITY offlineFolder.check.accesskey           "S">
-<!ENTITY offlineFolder.button.label              "Загрузить">
-<!ENTITY offlineFolder.button.accesskey          "D">
+<!ENTITY offlineFolder.check.label "Выбрать эту папку для автономной работы">
+<!ENTITY offlineFolder.check.accesskey "ы">
+<!ENTITY offlineFolder.button.label "Загрузить">
+<!ENTITY offlineFolder.button.accesskey "а">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Выбрать эту группу новостей для автономного режима">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Использовать настройки учетной записи по умолчанию ">
-<!ENTITY offlineNewsgroup.button.label           "Загрузить">
-<!ENTITY offlineNewsgroup.button.accesskey       "D">
+<!ENTITY selectofflineNewsgroup.check.label "Выбрать эту группу новостей для автономной работы">
+<!ENTITY selectofflineNewsgroup.check.accesskey "э">
+<!ENTITY offlineNewsgroup.button.label "Загрузить">
+<!ENTITY offlineNewsgroup.button.accesskey "а">
 
-<!ENTITY folderProps.information.label           "Информация:">
-<!ENTITY folderProps.name.label                  "Имя:">
-<!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Адрес:">
-<!ENTITY folderProps.location.accesskey          "L">
+<!ENTITY folderProps.name.label "Имя:">
+<!ENTITY folderProps.name.accesskey "м">
+<!ENTITY folderProps.location.label "Адрес:">
+<!ENTITY folderProps.location.accesskey "д">
 
-<!ENTITY folderSharingTab.label                  "Совместное использование">
-<!ENTITY privilegesDesc.label                    "Использование этой и других папок совместно с сетевыми пользователями, а также отображение и настройка прав доступа">
-<!ENTITY privileges.button.label                 "Привилегии…">
-<!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "У вас есть следующие права:">
-<!ENTITY folderType.label                        "Тип папки:">
+<!ENTITY folderSharingTab.label "Совместное использование">
+<!ENTITY privileges.button.label "Привилегии…">
+<!ENTITY privileges.button.accesskey "и">
+<!ENTITY permissionsDesc.label "У вас есть следующие права:">
+<!ENTITY folderType.label "Тип папки:">
 
-<!ENTITY folderQuotaTab.label                    "Квота">
-<!ENTITY folderQuotaRoot.label                   "Квота:">
-<!ENTITY folderQuotaUsage.label                  "Использовано:">
-<!ENTITY folderQuotaStatus.label                 "Состояние:">
+<!ENTITY folderQuotaTab.label "Квота">
+<!ENTITY folderQuotaRoot.label "Квота:">
+<!ENTITY folderQuotaUsage.label "Использовано:">
+<!ENTITY folderQuotaStatus.label "Состояние:">
+
+<!ENTITY numberOfMessages.label "Число сообщений:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label "неизвестно">
+<!ENTITY sizeOnDisk.label "Размер на диске:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label "неизвестен">

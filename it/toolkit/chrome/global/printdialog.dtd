@@ -1,6 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from printdialog.xul -->
+
 <!ENTITY printButton.label "Stampa">
+
 <!ENTITY printDialog.title "Stampa">
+
 <!ENTITY fpDialog.title "Salva file">
+
 <!ENTITY fileCheck.label "Stampa su file">
 <!ENTITY fileCheck.accesskey "S">
 <!ENTITY propertiesButton.label "Proprietà…">
@@ -9,6 +18,7 @@
 <!ENTITY printer.label "Stampante">
 <!ENTITY printerInput.label "Stampante:">
 <!ENTITY printerInput.accesskey "m">
+
 <!ENTITY printrangeGroup.label "Intervallo di stampa">
 <!ENTITY allpagesRadio.label "Tutte le pagine">
 <!ENTITY allpagesRadio.accesskey "u">
@@ -20,9 +30,11 @@
 <!ENTITY topageInput.accesskey "a">
 <!ENTITY selectionRadio.label "Selezione">
 <!ENTITY selectionRadio.accesskey "z">
+
 <!ENTITY copies.label "Copie">
 <!ENTITY numCopies.label "Numero di copie:">
 <!ENTITY numCopies.accesskey "N">
+
 <!ENTITY printframeGroup.label "Stampa riquadri">
 <!ENTITY aslaidoutRadio.label "Come visualizzati a schermo">
 <!ENTITY aslaidoutRadio.accesskey "v">

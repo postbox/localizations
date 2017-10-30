@@ -1,10 +1,10 @@
-<!ENTITY editTagPanel.title             "Favoriete Labels:">
-<!ENTITY editTagPanelAssignTopic.label  "Label toewijzen">
-<!ENTITY editTagPanelMakeFavorite.label "Maak hier een favoriet label van">
+<!ENTITY editTagPanel.title             "Favorite Topics:">
+<!ENTITY editTagPanelAssignTopic.label  "Assign Topic">
+<!ENTITY editTagPanelMakeFavorite.label "Make this topic a favorite">
 <!ENTITY editTagPanelAddTopic.label     "OK">
 <!ENTITY showTopicsCmd.key              "t">
 <!ENTITY tagPanel.width                 "600">
-<!ENTITY tagpanel.expanderDown.tooltip  "Toon favoriete labels">
-<!ENTITY tagpanel.expanderUp.tooltip    "Verberg favoriete labels">
+<!ENTITY tagpanel.expanderDown.tooltip  "Show favorite topics">
+<!ENTITY tagpanel.expanderUp.tooltip    "Hide favorite topics">
 
 <!ENTITY showLabelCmd.key              "l">

@@ -1,5 +1,11 @@
-<!ENTITY dialog.title                 "Sende-Optionen">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title                 "Sendeoptionen">
 <!ENTITY sendMail.title               "Textformat">
+<!ENTITY autoDowngrade.label          "Nachrichten falls möglich als Reintext senden">
+<!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "Beim Senden von Nachrichten im HTML-Format an Empfänger, die laut Liste HTML nicht empfangen können oder wollen:">
 <!ENTITY askMe.label                  "Fragen, wie gesendet werden soll">
 <!ENTITY askMe.accesskey              "F">
@@ -9,7 +15,6 @@
 <!ENTITY sendHTML.accesskey           "a">
 <!ENTITY sendBoth.label               "Nachrichten als Reintext und HTML senden">
 <!ENTITY sendBoth.accesskey           "c">
-<!ENTITY receiveHTML.label            "Wenn Sie wissen, dass ein bestimmter Empfänger Nachrichten im HTML-Format empfangen kann, deaktivieren Sie das Kontrollkästchen 'E-Mail als reinen Text (kein HTML) schicken' im Adressbucheintrag des Empfängers.">
 <!ENTITY override.label               "Hinweis: 
 Nutzen Sie das Adressbuch, um das bevorzugte Format für einzelne Empfänger anzugeben.">
 
@@ -18,23 +23,16 @@ Nutzen Sie das Adressbuch, um das bevorzugte Format für einzelne Empfänger anz
 <!ENTITY HTMLTab.accesskey            "M">
 <!ENTITY PlainTextTab.label           "Reintext-Domains">
 <!ENTITY PlainTextTab.accesskey       "R">
-<!ENTITY AddButton.label              "Hinzufügen…">
-<!ENTITY AddHtmlDomain.accesskey      "a">
-<!ENTITY AddPlainText.accesskey       "d">
-<!ENTITY DeleteButton.label           "Löschen">
-<!ENTITY DeleteHtmlDomain.accesskey   "l">
-<!ENTITY DeletePlainText.accesskey    "t">
+<!ENTITY AddHtmlDomain.label          "Hinzufügen…">
+<!ENTITY AddHtmlDomain.accesskey      "H">
+<!ENTITY AddPlainText.label           "Hinzufügen…">
+<!ENTITY AddPlainText.accesskey       "H">
+<!ENTITY DeleteHtmlDomain.label       "Löschen">
+<!ENTITY DeleteHtmlDomain.accesskey   "L">
+<!ENTITY DeletePlainText.label        "Löschen">
+<!ENTITY DeletePlainText.accesskey    "L">
 
 <!ENTITY add.htmltitle                "HTML-Domain hinzufügen">
 <!ENTITY add.htmldomain               "HTML-Domainname:">
-<!ENTITY add.htmldomain.accesskey     "D">
 <!ENTITY add.plaintexttitle           "Reintext-Domain hinzufügen">
 <!ENTITY add.plaintextdomain          "Reintext-Domainname:">
-<!ENTITY add.plaintext.accesskey      "d">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Domainnamen-Fehler">
-<!ENTITY duplicationError.label       "Der Domainname @string@ ist bereits in der Liste enthalten.">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Ein Domainname kann nicht zugleich in HTML- und einfachen Textlisten stehen. Der Domainname @string@ existiert bereits.">

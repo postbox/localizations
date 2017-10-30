@@ -1,20 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "S/MIME-Sicherheit">
-<!ENTITY securityHeading.label "Um verschlüsselte Nachrichten zu senden und zu empfangen, sollten Sie sowohl ein Zertifikat für die Verschlüsselung als auch eines für digitale Unterschrift angeben.">
+<!ENTITY securityTab.label "S/MIME-Sicherheit">
+<!ENTITY securityHeading.label "Um verschlüsselte Nachrichten zu senden und zu empfangen, sollten Sie sowohl ein Zertifikat für Verschlüsselung als auch eines für digitale Unterschrift angeben.">
 <!ENTITY encryptionGroupTitle.label "Verschlüsselung">
 <!ENTITY encryptionChoiceLabel.label "Standard-Verschlüsselungseinstellung beim Senden von Nachrichten:">
 <!ENTITY neverEncrypt.label "Nie (keine Verschlüsselung verwenden)">
+<!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Notwendig (Senden nur möglich, wenn alle Empfänger ein Zertifikat besitzen)">
+<!ENTITY alwaysEncryptMessage.accesskey "o">
 <!ENTITY encryptionCert.message "Folgendes Zertifikat verwenden, um Nachrichten zu ver- und entschlüsseln:">
-<!ENTITY encryptionCert.notselected "Kein Zertifikat gesetzt">
-<!ENTITY certificate.button "Wählen…">
-<!ENTITY certificate_clear.button "Löschen">
+<!ENTITY digitalSign.certificate.button "Auswählen…">
+<!ENTITY digitalSign.certificate.accesskey "A">
+<!ENTITY digitalSign.certificate_clear.button "Leeren">
+<!ENTITY digitalSign.certificate_clear.accesskey "L">
+<!ENTITY encryption.certificate.button "Auswählen…">
+<!ENTITY encryption.certificate.accesskey "w">
+<!ENTITY encryption.certificate_clear.button "Leeren">
+<!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digitale Unterschrift">
 <!ENTITY signMessage.label "Nachrichten digital unterschreiben (als Standard)">
+<!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Folgendes Zertifikat verwenden, um Nachrichten digital zu unterschreiben:">
-<!ENTITY signingCert.notselected "Kein Zertifikat gesetzt">
 
-<!ENTITY certificates.label     "Zertifikate">
-<!ENTITY managecerts.label      "Zertifikate">
-<!ENTITY managecerts.accesskey  "Z">
-<!ENTITY managedevices.label    "Verschlüsselungsmodule">
-<!ENTITY managedevices.accesskey "K">
+<!ENTITY certificates.label "Zertifikate">
+<!ENTITY manageCerts2.label "Zertifikate verwalten…">
+<!ENTITY manageCerts2.accesskey "Z">
+<!ENTITY manageDevices.label "Kryptographie-Module verwalten…">
+<!ENTITY manageDevices.accesskey "M">
+
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Zertifikat auswählen">
+<!ENTITY certPicker.info  "Zertifikat:">
+<!ENTITY certPicker.detailsLabel "Details des ausgewählten Zertifikats:">

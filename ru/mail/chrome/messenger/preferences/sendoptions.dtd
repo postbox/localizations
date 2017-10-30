@@ -1,39 +1,37 @@
-﻿<!ENTITY dialog.title                 "Параметры отправки">
-<!ENTITY sendMail.title               "Текстовый формат">
-<!ENTITY sendMaildesc.label           "Если при отправке сообщений в формате HTML какой-либо получатель не указан в списке поддерживающих этот формат:">
-<!ENTITY askMe.label                  "Спрашивать, что делать">
-<!ENTITY askMe.accesskey              "k">
-<!ENTITY convertPlain.label           "Преобразовать сообщение в обычный текст">
-<!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "Отправить сообщение в формате HTML">
-<!ENTITY sendHTML.accesskey           "H">
-<!ENTITY sendBoth.label               "Отправить сообщение как в виде обычного текста, так и в виде HTML">
-<!ENTITY sendBoth.accesskey           "H">
-<!ENTITY receiveHTML.label            "Если известно, что получатель поддерживает почту в формате HTML, снимите флажок «Отправлять сообщения в виде обычного текста (без HTML)» в его карточке адресной книги.">
-<!ENTITY override.label               "Примечание. Предпочтительные форматы можно указывать в адресной книге.">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY domaindesc.label             "При отправке сообщения по адресу, который содержит одно из приведенных ниже имен домена, &brandShortName; автоматически отправляет сообщение в правильном формате.">
-<!ENTITY HTMLTab.label                "Домены, поддерживающие HTML">
-<!ENTITY HTMLTab.accesskey            "H">
-<!ENTITY PlainTextTab.label           "Домены, поддерживающие обычный текст">
-<!ENTITY PlainTextTab.accesskey       "P">
-<!ENTITY AddButton.label              "Добавить…">
-<!ENTITY AddHtmlDomain.accesskey      "a">
-<!ENTITY AddPlainText.accesskey       "d">
-<!ENTITY DeleteButton.label           "Удалить">
-<!ENTITY DeleteHtmlDomain.accesskey   "l">
-<!ENTITY DeletePlainText.accesskey    "t">
+<!ENTITY dialog.title "Параметры отправки">
+<!ENTITY sendMail.title "Текстовый формат">
+<!ENTITY autoDowngrade.label "По возможности отправлять сообщения в виде простого текста">
+<!ENTITY autoDowngrade.accesskey "ж">
+<!ENTITY sendMaildesc.label "При отправке сообщений в формате HTML, если указано, что один или более адресатов не могут получать почту в формате HTML:">
+<!ENTITY askMe.label "Спрашивать, что делать">
+<!ENTITY askMe.accesskey "п">
+<!ENTITY convertPlain.label "Преобразовывать сообщение в простой текст">
+<!ENTITY convertPlain.accesskey "р">
+<!ENTITY sendHTML.label "Отправлять сообщение в HTML">
+<!ENTITY sendHTML.accesskey "а">
+<!ENTITY sendBoth.label "Отправлять сообщение в виде как простого текста, так и HTML">
+<!ENTITY sendBoth.accesskey "т">
+<!ENTITY override.label "Примечание: предпочтительные форматы можно указывать в адресной книге.">
 
-<!ENTITY add.htmltitle                "Добавить имя домена, поддерживающего HTML">
-<!ENTITY add.htmldomain               "Имя домена, поддерживающего HTML:">
-<!ENTITY add.htmldomain.accesskey     "d">
-<!ENTITY add.plaintexttitle           "Добавить имя домена, поддерживающего обычный текст">
-<!ENTITY add.plaintextdomain          "Имя домена, поддерживающего обычный текст:">
-<!ENTITY add.plaintext.accesskey      "d">
+<!ENTITY domaindesc.label "При отправке сообщения на адрес, доменная часть которого находится в одном из списков ниже, &brandShortName; автоматически посылает сообщение в правильном формате.">
+<!ENTITY HTMLTab.label "Домены, поддерживающие HTML">
+<!ENTITY HTMLTab.accesskey "о">
+<!ENTITY PlainTextTab.label "Домены, поддерживающие простой текст">
+<!ENTITY PlainTextTab.accesskey "м">
+<!ENTITY AddHtmlDomain.label "Добавить…">
+<!ENTITY AddHtmlDomain.accesskey "б">
+<!ENTITY AddPlainText.label "Добавить…">
+<!ENTITY AddPlainText.accesskey "б">
+<!ENTITY DeleteHtmlDomain.label "Удалить">
+<!ENTITY DeleteHtmlDomain.accesskey "д">
+<!ENTITY DeletePlainText.label "Удалить">
+<!ENTITY DeletePlainText.accesskey "д">
 
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Ошибка в имени домена">
-<!ENTITY duplicationError.label       "Имя домена @string@ уже есть в этом списке.">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Нельзя указывать одно и то же имя домена в списке поддержки HTML и в списке поддержки обычного текста. Имя домена @string@ уже существует.">
+<!ENTITY add.htmltitle "Добавить имя в список «Поддержка HTML»">
+<!ENTITY add.htmldomain "Имя домена:">
+<!ENTITY add.plaintexttitle "Добавить имя в список «Поддержка простого текста»">
+<!ENTITY add.plaintextdomain "Имя домена:">

@@ -1,73 +1,41 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 2000
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   David Bienvenu <bienvenu@netscape.com>
-   -   Mohan Bhamidipati <mohanb@netscape.com>
-   -   Lorenzo Colitti   <lorenzo@colitti.com>
-   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY folderProps.windowtitle.label           "Eigenschaften">
 
 <!ENTITY generalInfo.label                       "Allgemein">
-<!ENTITY folderCharsetTab.label                  "Standard-Zeichenkodierung">
-<!ENTITY folderCharsetTab.accesskey              "Z">
-<!ENTITY folderCharsetOverride.label             "Standardmäßig allen Nachrichten im Ordner zuweisen (individuelle Zeichenkodierung und autom. Bestimmung werden ignoriert)">
-<!ENTITY folderCharsetOverride.accesskey         "S">
-<!ENTITY folderRebuildSummaryFile.label          "Index wiederherstellen">
-<!ENTITY folderRebuildSummaryFile.accesskey      "w">
-<!ENTITY folderRebuildSummaryFileTip.label       "Index-Datei wiederherstellen"> 
-     
+<!ENTITY folderCharsetFallback2.label            "Textkodierung bei fehlgeschlagener Erkennung:">
+<!ENTITY folderCharsetFallback2.accesskey        "f">
+<!ENTITY folderCharsetEnforce2.label             "Textkodierung auf alle Nachrichten in diesem Ordner anwenden (die jeweilige eingestellte oder automatisch bestimmte Zeichenkodierung wird ignoriert).">
+<!ENTITY folderCharsetEnforce2.accesskey         "k">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Zusammenfassungsdatei (*.msf) neu erstellen">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparieren">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Die Zusammenfassungsdatei (*.msf) wird manchmal beschädigt, dadurch fehlen scheinbar Nachrichten oder gelöschte Nachrichten werden weiterhin aufgelistet. Reparieren der Zusammenfassungsdatei kann die Probleme meist beheben.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Nachrichten dieses Ordners für die globale Suche indizieren">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "N">
+
 <!ENTITY retention.label "Speicherplatz">
-<!ENTITY retentionUseDefault.label  "Server-Standardeinstellungen verwenden">
-<!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "Tage">
+<!ENTITY retentionUseAccount.label "Einstellungen des Kontos verwenden">
+<!ENTITY retentionUseAccount.accesskey "E">
 <!ENTITY daysOld.label "Tage">
 <!ENTITY message.label "Nachrichten">
 <!ENTITY retentionCleanup.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben:">
-<!ENTITY retentionKeepMsg.label "Nachrichten, die älter sind als">
-<!ENTITY retentionKeepMsg.accesskey "N">
+<!ENTITY retentionCleanupImap.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben - sowohl lokale Kopien als auch auf dem IMAP-Server:">
+<!ENTITY retentionCleanupPop.label "Alte Nachrichten endgültig löschen, um Speicherplatz freizugeben - einschließlich der Originale auf dem POP-Server:">
+<!ENTITY retentionDeleteMsg.label "Nachrichten, die älter sind als">
+<!ENTITY retentionDeleteMsg.accesskey "N">
 <!ENTITY retentionKeepAll.label "Keine Nachrichten">
 <!ENTITY retentionKeepAll.accesskey "K">
-<!ENTITY retentionKeepNew.label "Alle bis auf die Letzte löschen">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Gelesene Nachrichten immer löschen">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepRecent.label "Alle außer den neuesten">
+<!ENTITY retentionKeepRecent.accesskey "u">
+<!ENTITY retentionApplyToFlagged.label "Gekennzeichnete Nachrichten immer behalten">
+<!ENTITY retentionApplyToFlagged.accesskey "z">
 
-<!ENTITY folderOfflineTab.label                  "Offline">
-<!ENTITY folderCheckForNewMessages.label         "Diesen Ordner auf neue Nachrichten überprüfen">
-<!ENTITY folderCheckForNewMessages.accesskey     "D">
+<!ENTITY folderSynchronizationTab.label          "Synchronisation">
+<!ENTITY folderCheckForNewMessages2.label        "Diesen Ordner auf neue Nachrichten überprüfen, wenn Nachrichten für dieses Konto empfangen werden">
+<!ENTITY folderCheckForNewMessages2.accesskey    "D">
 
 <!ENTITY offlineFolder.check.label               "Diesen Ordner zum Offline-Lesen auswählen">
 <!ENTITY offlineFolder.check.accesskey           "O">
@@ -76,24 +44,28 @@
 
 <!ENTITY selectofflineNewsgroup.check.label      "Diese Newsgruppe zum Offline-Lesen auswählen">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "N">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Standard aus den Kontoeinstellungen benutzen ">
 <!ENTITY offlineNewsgroup.button.label           "Jetzt herunterladen">
 <!ENTITY offlineNewsgroup.button.accesskey       "h">
 
-<!ENTITY folderProps.information.label           "Information:">
 <!ENTITY folderProps.name.label                  "Name des Ordners:">
-<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.name.accesskey              "O">
 <!ENTITY folderProps.location.label              "Adresse:">
 <!ENTITY folderProps.location.accesskey          "A">
 
 <!ENTITY folderSharingTab.label                  "Freigabe">
-<!ENTITY privilegesDesc.label                    "Diesen und andere Ordner im Netzwerk freigeben und Zugriffsberechtigungen anzeigen und setzen">
 <!ENTITY privileges.button.label                 "Berechtigungen…">
 <!ENTITY privileges.button.accesskey             "B">
 <!ENTITY permissionsDesc.label                   "Sie haben folgende Berechtigungen:">
 <!ENTITY folderType.label                        "Ordnertyp:">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
+<!ENTITY folderQuotaTab.label                    "Kontingent">
 <!ENTITY folderQuotaRoot.label                   "Limit gilt für:">
 <!ENTITY folderQuotaUsage.label                  "Belegung:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
+
+<!ENTITY numberOfMessages.label                  "Anzahl der Nachrichten:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "unbekannt">
+<!ENTITY sizeOnDisk.label                        "Größe auf Datenträger:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "unbekannt">

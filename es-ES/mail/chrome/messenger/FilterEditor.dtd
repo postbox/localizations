@@ -1,25 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Reglas de filtrado">
-<!ENTITY subject.label "asunto">
-<!ENTITY sender.label "remitente">
-<!ENTITY date.label "fecha">
-<!ENTITY anyText.label "cualquier texto">
-<!ENTITY keyword.label "clave">
-<!ENTITY age.label "tiempo en días">
-<!ENTITY to.label "para">
-
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-<!ENTITY cc.label "Cc:">
-
-<!ENTITY status.label "estado">
-<!ENTITY priority.label "prioridad">
-<!ENTITY body.label "cuerpo">
-<!ENTITY contains.label "contiene">
-<!ENTITY nocontains.label "no contiene">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nombre del filtro:">
 <!ENTITY filterName.accesskey "i">
 
-<!ENTITY junk.label "Basura">
-<!ENTITY notJunk.label "No es basura">
+<!ENTITY junk.label "Correo no deseado">
+<!ENTITY notJunk.label "Legítimo">
 
 <!ENTITY lowestPriorityCmd.label "La más baja">
 <!ENTITY lowPriorityCmd.label "Baja">
@@ -27,12 +16,25 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "La más alta">
 
-<!ENTITY conditionDesc.label "Para mensajes entrantes que:">
+<!ENTITY contextDesc.label "Aplicar filtro cuando:">
+<!ENTITY contextIncomingMail.label "Al recuperar el correo nuevo:">
+<!ENTITY contextIncomingMail.accesskey "A">
+<!ENTITY contextManual.label "se ejecute manualmente">
+<!ENTITY contextManual.accesskey "s">
+<!ENTITY contextBeforeCls.label "Filtrar antes de identificar el correo basura">
+<!ENTITY contextAfterCls.label "Filtrar tras identificar el correo basura">
+<!ENTITY contextOutgoing.label "Tras enviar">
+<!ENTITY contextOutgoing.accesskey "T">
+<!ENTITY contextArchive.label "Archivado">
+<!ENTITY contextArchive.accesskey "c">
+
 <!ENTITY filterActionDesc.label "Realizar estas acciones:">
 <!ENTITY filterActionDesc.accesskey "R">
 
-<!ENTITY newFolderButton.label "Nueva carpeta…">
-<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY filterActionOrderWarning.label "Nota: las acciones del filtro se ejecutarán en un orden diferente.">
+<!ENTITY filterActionOrder.label "Ver orden de ejecución">
+
+<!ENTITY globalFilterChekbox.label "This is a global filter">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Mover mensaje a">
@@ -40,50 +42,46 @@
 <!ENTITY forwardTo.label "Reenviar mensaje a">
 <!ENTITY replyWithTemplate.label "Responder con plantilla">
 <!ENTITY markMessageRead.label "Marcar como leído">
+<!ENTITY markMessageUnread.label "Marcar como no leído">
 <!ENTITY markMessageStarred.label "Añadir estrella">
-<!ENTITY labelMessage.label "Marcar mensaje como">
+<!ENTITY markMessagePending.label "Mark as Pending">
+<!ENTITY markMessageAs.label "Mark Message as">
 <!ENTITY setPriority.label "Fijar prioridad a">
 <!ENTITY addTag.label "Etiquetar mensaje">
-<!ENTITY setJunkScore.label "Fijar estado de correo basura a">
+<!ENTITY removeTag.label "Remove Topic">
+<!ENTITY setJunkScore.label "Fijar estado de correo no deseado a">
 <!ENTITY deleteMessage.label "Eliminar mensaje">
 <!ENTITY deleteFromPOP.label "Eliminar del servidor POP">
 <!ENTITY fetchFromPOP.label "Recuperar del servidor POP">
 <!ENTITY ignoreThread.label "Ignorar conversación">
+<!ENTITY ignoreSubthread.label "Ignorar sub-conversación">
 <!ENTITY watchThread.label "Observar conversación">
-<!ENTITY stopExecution.label "Detener ejecución del filtro">
+<!ENTITY stopExecution.label "Detener ejecución de los filtros">
+<!ENTITY launchScript.label "Run AppleScript">
 
+<!ENTITY playSound.label "Play Sound">
+<!ENTITY noSoundSelected.label "Select a Sound">
+<!ENTITY systemAlertSound.label "System Alert Sound">
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!ENTITY noScriptsInstalled.label "No Scripts installed">
+<!ENTITY openInFinder.label "Open in Finder">
+<!ENTITY noScriptSelected.label "Select an AppleScript">
+<!ENTITY readStatus.label "Read">
+<!ENTITY reminderStatus.label "Reminder">
+<!ENTITY pendingStatus.label "Pending">
+<!ENTITY unreadStatus.label "Unread">
+<!ENTITY notReminderStatus.label "Not Reminder">
+<!ENTITY notPendingStatus.label "Not Pending">
+<!ENTITY quickPost.label "Quick Post">
 
-<!ENTITY contextDesc.label "Aplicar filtro cuando:">
-<!ENTITY contextManual.label "Ejecutar manualmente">
-<!ENTITY contextBoth.label "Comprobando correos o ejecutados manualmente">
-<!ENTITY contextIncoming.label "Comprobando correos">
-<!ENTITY contextDesc.accesskey "w">
+<!ENTITY addAction.tooltip "Añadir una acción nueva">
+<!ENTITY removeAction.tooltip "Eliminar esta acción">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY playSound.label "Ejecutar sonido">
-<!ENTITY notPendingStatus.label "No pendientes">
-<!ENTITY noSoundSelected.label "Seleccione un sonido">
-<!ENTITY noScriptsInstalled.label "No hay Scripts instalados">
-<!ENTITY markMessageAs.label "Marcar mensaje como">
-<!ENTITY systemAlertSound.label "Sonido de alerta del sistema">
-<!ENTITY removeTag.label "Quitar tópico">
-<!ENTITY reminderStatus.label "Recordatorio">
-<!ENTITY markMessagePending.label "Marcar como pendiente">
-<!ENTITY noScriptSelected.label "Seleccionar un AppleScript">
-<!ENTITY globalFilterChekbox.label "Este es un filtro global">
-<!ENTITY readStatus.label "Leer">
-<!ENTITY launchScript.label "Ejecutar AppleScript">
-<!ENTITY openInFinder.label "Abrir en Finder">
-<!ENTITY pendingStatus.label "Pendiente">
-<!ENTITY notReminderStatus.label "Sin recordatorio">
-<!ENTITY unreadStatus.label "No leído">
-
-<!ENTITY quickPost.label "Publicación rápida">
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

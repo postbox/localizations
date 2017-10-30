@@ -1,39 +1,37 @@
-<!ENTITY dialog.title                 "Opzioni di invio">
-<!ENTITY sendMail.title               "Formato testo">
-<!ENTITY sendMaildesc.label           "Quando invii messaggi in HTML e uno o più destinatari non sono in grado di ricevere HTML:">
-<!ENTITY askMe.label                  "Chiedimi che cosa fare">
-<!ENTITY askMe.accesskey              "C">
-<!ENTITY convertPlain.label           "Converti il messaggio in testo semplice">
-<!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "Invia comunque il messaggio in HTML">
-<!ENTITY sendHTML.accesskey           "s">
-<!ENTITY sendBoth.label               "Invia il messaggio in testo semplice e in HTML">
-<!ENTITY sendBoth.accesskey           "e">
-<!ENTITY receiveHTML.label            "Se sei a conoscenza di destinatari che possono ricevere e-mail in HTML, togli la spunta ala casella di spunta 'Invia e-mail come testo semplice (no HTML)' nel contatto del destinatario della rubrica.">
-<!ENTITY override.label               "Nota: utilizza la rubrica per specificare il formato di testo preferito per ogni singolo destinatario.">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY domaindesc.label             "Quando invii un messaggio ad un indirizzo appartenente ad uno dei domini presenti nella seguente lista, &brandShortName; invia automaticamente il messaggio nel formato corretto.">
-<!ENTITY HTMLTab.label                "Domini HTML">
-<!ENTITY HTMLTab.accesskey            "H">
-<!ENTITY PlainTextTab.label           "Domini Testo semplice">
-<!ENTITY PlainTextTab.accesskey       "D">
-<!ENTITY AddButton.label              "Aggiungi…">
-<!ENTITY AddHtmlDomain.accesskey      "a">
-<!ENTITY AddPlainText.accesskey       "d">
-<!ENTITY DeleteButton.label           "Elimina">
-<!ENTITY DeleteHtmlDomain.accesskey   "l">
-<!ENTITY DeletePlainText.accesskey    "t">
+<!ENTITY dialog.title "Opzioni di invio">
+<!ENTITY sendMail.title "Formato testo">
+<!ENTITY autoDowngrade.label "Se possibile invia i messaggi come testo semplice.">
+<!ENTITY autoDowngrade.accesskey "t">
+<!ENTITY sendMaildesc.label "Quando si inviano messaggi in HTML e uno o più destinatari non sono elencati come in grado di ricevere HTML:">
+<!ENTITY askMe.label "Chiedi che cosa fare">
+<!ENTITY askMe.accesskey "c">
+<!ENTITY convertPlain.label "Converti il messaggio in testo semplice">
+<!ENTITY convertPlain.accesskey "C">
+<!ENTITY sendHTML.label "Invia comunque il messaggio in HTML">
+<!ENTITY sendHTML.accesskey "S">
+<!ENTITY sendBoth.label "Invia il messaggio sia in testo semplice sia in HTML">
+<!ENTITY sendBoth.accesskey "e">
+<!ENTITY override.label "Nota: utilizza la rubrica per specificare il formato testo preferito per ogni singolo destinatario.">
 
-<!ENTITY add.htmltitle                "Aggiungi un nome dominio HTML:">
-<!ENTITY add.htmldomain               "Nome dominio HTML:">
-<!ENTITY add.htmldomain.accesskey     "d">
-<!ENTITY add.plaintexttitle           "Aggiungi un nome dominio testo semplice:">
-<!ENTITY add.plaintextdomain          "Nome dominio testo semplice:">
-<!ENTITY add.plaintext.accesskey      "d">
+<!ENTITY domaindesc.label "Quando si invia un messaggio a un indirizzo appartenente ad uno dei domini presenti nel seguente elenco &brandShortName; invia automaticamente il messaggio nel formato corretto.">
+<!ENTITY HTMLTab.label "Domini HTML">
+<!ENTITY HTMLTab.accesskey "H">
+<!ENTITY PlainTextTab.label "Domini testo semplice">
+<!ENTITY PlainTextTab.accesskey "D">
+<!ENTITY AddHtmlDomain.label "Aggiungi…">
+<!ENTITY AddHtmlDomain.accesskey "A">
+<!ENTITY AddPlainText.label "Aggiungi…">
+<!ENTITY AddPlainText.accesskey "g">
+<!ENTITY DeleteHtmlDomain.label "Elimina">
+<!ENTITY DeleteHtmlDomain.accesskey "E">
+<!ENTITY DeletePlainText.label "Elimina">
+<!ENTITY DeletePlainText.accesskey "E">
 
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Errore nome dominio">
-<!ENTITY duplicationError.label       "Il nome dominio @string@ esiste già in questa lista.">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Un nome dominio non può essere presente sia in liste HTML sia in liste Testo semplice. Il nome dominio @string@ esiste già.">
+<!ENTITY add.htmltitle "Aggiungere un dominio HTML:">
+<!ENTITY add.htmldomain "Nome dominio HTML:">
+<!ENTITY add.plaintexttitle "Aggiungi un nome dominio testo semplice:">
+<!ENTITY add.plaintextdomain "Nome dominio testo semplice:">

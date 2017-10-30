@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY lookInMenuList.label "Cerca in:">
 <!ENTITY lookInMenuList.accesskey "C">
 <!ENTITY textInput.label "Nome file:">
@@ -9,7 +13,9 @@
 <!ENTITY lastModified.label "Ultima modifica">
 <!ENTITY showHiddenFiles.label "Visualizza file e cartelle nascosti">
 <!ENTITY showHiddenFiles.accesskey "V">
+
 <!ENTITY noPermissionError.label "Non si possiedono i permessi necessari per visualizzare questa cartella.">
+
 <!ENTITY folderUp.tooltiptext "Sali di un livello">
 <!ENTITY folderHome.tooltiptext "Vai alla cartella home">
 <!ENTITY folderNew.tooltiptext "Crea nuova cartella">

@@ -1,41 +1,38 @@
-<!-- Junk Mail Controls -->
-<!ENTITY manualMark.label "Cuando marque mensajes como basura:">
-<!ENTITY manualMark.accesskey "C">
-<!ENTITY manualMarkModeMove.label "Moverlos a la carpeta &quot;Basura&quot; de la cuenta">
-<!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Borrarlos">
-<!ENTITY manualMarkModeDelete.accesskey "B">
-<!ENTITY markAsReadOnSpam.label "Marcar mensajes basura como leídos">
-<!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Activar registro de filtros de basura">
-<!ENTITY enableJunkLogging.accesskey "g">
-<!ENTITY openJunkLog.label "Mostrar registro">
-<!ENTITY openJunkLog.accesskey "M">
-<!ENTITY resetTrainingData.label "Reiniciar los datos de práctica">
-<!ENTITY resetTrainingData.accesskey "d">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "Contenido de correo">
 
-<!-- Phishing Detector -->
-<!ENTITY enablePhishingDetector1.label    "Bloquear los mensajes marcados como fraudulentos">
-<!ENTITY enablePhishingDetector1.accesskey "B">
+<!ENTITY acceptRemoteContent.label "Permitir contenido remoto en los mensajes">
+<!ENTITY acceptRemoteContent.accesskey "P">
+<!ENTITY remoteContentExceptions.label "Excepciones…">
+<!ENTITY remoteContentExceptions.accesskey "x">
+<!ENTITY acceptRemoteContentInfo.label "Saber más sobre los problemas de privacidad del contenido remoto">
 
-<!-- Passwords -->
-<!ENTITY useMasterPassword.label              "Utilizar una contraseña maestra">
-<!ENTITY useMasterPassword.accesskey          "s">
-<!ENTITY changeMasterPassword.label           "Cambiar contraseña maestra...">
-<!ENTITY changeMasterPassword.accesskey       "m">
-<!ENTITY savedPasswords.label                 "Contraseñas guardadas...">
-<!ENTITY savedPasswords.accesskey             "s">
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Contenido web">
 
-<!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics2.label      "Ayude a mejorar &brandShortName; enviando estadísticas de uso anóminmas.">
-<!ENTITY enableAnonymousStatistics.accesskey   "H">
+<!ENTITY keepHistory.label "Recordar sitios web y enlaces que he visitado">
+<!ENTITY keepHistory.accesskey "R">
+<!ENTITY acceptCookies.label "Aceptar cookies de los sitios">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.pre.label "Aceptar cookies de terceros:">
+<!ENTITY acceptThirdParty.pre.accesskey "d">
+<!ENTITY acceptThirdParty.always.label "Siempre">
+<!ENTITY acceptThirdParty.never.label "Nunca">
+<!ENTITY acceptThirdParty.visited.label "De sitios visitados">
+<!ENTITY keepUntil.label "Conservar hasta que:">
+<!ENTITY keepUntil.accesskey "C">
+<!ENTITY expire.label "caduquen">
+<!ENTITY close.label "cierre &brandShortName;">
+<!ENTITY askEachTime.label "preguntarme cada vez">
+<!ENTITY cookieExceptions.label "Excepciones…">
+<!ENTITY cookieExceptions.accesskey "n">
+<!ENTITY showCookies.label "Mostrar cookies…">
+<!ENTITY showCookies.accesskey "M">
 
-<!-- Remote images -->
-<!ENTITY disableImageInMailNews.label  "Bloquear la carga de imágenes remotas en los mensajes de correo">
-<!ENTITY disableImageInMailNews.accesskey "r">
-
-<!ENTITY pbPrivacy.label "Privacidad:">
-<!ENTITY pbJunkMail.label "Basura:">
-<!ENTITY pbPasswords.label "Contraseñas:">
-<!ENTITY pbJunkMail.intro "Nota: La configuración específica de los correos basura puede ser llevada a cabo en Configuración de la cuenta.">
+<!ENTITY dntTrackingNotOkay.label2 "Indicar a los sitios que no quiero ser rastreado">
+<!ENTITY dntTrackingNotOkay.accesskey "">
+<!ENTITY doNotTrackInfo.label "Saber más sobre No rastrear">

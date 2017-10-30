@@ -1,37 +1,40 @@
-<!ENTITY  connectionsDialog.title       "Impostazioni di connessione">
-<!ENTITY  window.width                   "49em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  proxyTitle.label              "Configura proxy per l'accesso a Internet">
-<!ENTITY  noProxyTypeRadio.label        "Nessun proxy">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Utilizza le impostazioni proxy di sistema">
-<!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY  WPADTypeRadio.label           "Rileva automaticamente le impostazioni proxy per questa rete">
-<!ENTITY  WPADTypeRadio.accesskey       "x">
-<!ENTITY  manualTypeRadio.label         "Configurazione manuale proxy:">
-<!ENTITY  manualTypeRadio.accesskey     "m">
-<!ENTITY  autoTypeRadio.label           "URL per la configurazione automatica proxy:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
-<!ENTITY  reload.label                  "Ricarica">
-<!ENTITY  reload.accesskey              "R">
-<!ENTITY  http.label                    "Proxy HTTP:">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "Proxy SSL:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "Host SOCKS:">
-<!ENTITY  socks.accesskey               "C">
-<!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
-<!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
-<!ENTITY  HTTPport.label                "Porta:">
-<!ENTITY  HTTPport.accesskey            "P">
-<!ENTITY  SSLport.label                 "Porta:">
-<!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  SOCKSport.label               "Porta:">
-<!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Nessun proxy per:">
-<!ENTITY  noproxy.accesskey             "N">
-<!ENTITY  noproxyExplain.label          "Esempio: .mozilla.org, .net.nz, mozillaitalia.org, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Utilizza questo server proxy per tutti i protocolli">
-<!ENTITY  shareproxy.accesskey          "U">
+<!ENTITY connectionsDialog.title "Impostazioni di connessione">
+
+<!ENTITY proxyTitle.label "Configura proxy per l'accesso a Internet">
+<!ENTITY noProxyTypeRadio.label "Nessun proxy">
+<!ENTITY noProxyTypeRadio.accesskey "y">
+<!ENTITY systemTypeRadio.label "Utilizza le impostazioni del proxy di sistema">
+<!ENTITY systemTypeRadio.accesskey "u">
+<!ENTITY WPADTypeRadio.label "Configurazione automatica delle impostazioni del proxy per questa rete">
+<!ENTITY WPADTypeRadio.accesskey "x">
+<!ENTITY manualTypeRadio.label "Configurazione manuale del proxy:">
+<!ENTITY manualTypeRadio.accesskey "m">
+<!ENTITY autoTypeRadio.label "URL per la configurazione automatica del proxy:">
+<!ENTITY autoTypeRadio.accesskey "A">
+<!ENTITY reload.label "Ricarica">
+<!ENTITY reload.accesskey "R">
+<!ENTITY http.label "Proxy HTTP:">
+<!ENTITY http.accesskey "h">
+<!ENTITY ssl.label "Proxy SSL:">
+<!ENTITY ssl.accesskey "s">
+<!ENTITY socks.label "Server SOCKS:">
+<!ENTITY socks.accesskey "c">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "k">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "v">
+<!ENTITY HTTPport.label "Porta:">
+<!ENTITY HTTPport.accesskey "p">
+<!ENTITY SSLport.label "Porta:">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY SOCKSport.label "Porta:">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY noproxy.label "Nessun proxy per:">
+<!ENTITY noproxy.accesskey "n">
+<!ENTITY noproxyExplain.label "Esempio: .mozilla.org, .net.nz, mozillaitalia.org, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Utilizza questo proxy per tutti i protocolli">
+<!ENTITY shareproxy.accesskey "U">

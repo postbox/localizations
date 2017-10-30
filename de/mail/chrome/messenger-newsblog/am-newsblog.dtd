@@ -1,7 +1,11 @@
-<!ENTITY newsblogTitle.label "RSS Konto-Einstellungen">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY indexMsgBodies.label "Nachrichtentexte indexieren">
-<!ENTITY indexMsgBodies.accesskey "i">
+<!ENTITY accountTitle.label "RSS Settings">
+
+<!ENTITY indexMsgBodies.label "Index message bodies">
+<!ENTITY indexMsgBodies.accesskey "I">
 
 <!ENTITY biffStart.label "Neue Artikel alle">
 <!ENTITY biffStart.accesskey "N">
@@ -10,13 +14,16 @@
 <!ENTITY loginAtStartup.label "Neue Artikel beim Programmstart abrufen"> 
 <!ENTITY loginAtStartup.accesskey "e">
 
-<!ENTITY useQuickMode.label "Artikel-Zusammenfassung anstelle der Website anzeigen"> 
+<!ENTITY useQuickMode.label "Artikel-Zusammenfassung anstelle der Webseite anzeigen"> 
 <!ENTITY useQuickMode.accesskey "A">
 
 <!ENTITY manageSubscriptions.label "Abonnements verwalten…"> 
 <!ENTITY manageSubscriptions.accesskey "o">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Nachrichten &amp; Blogs">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "RSS News &amp; Blogs">
+<!ENTITY feedWindowTitle.label "Feed-Konten-Assistent">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Blogs &amp; News-Feeds">
+<!ENTITY feeds.wizardShortName "Feeds">
+<!ENTITY feeds.wizardLongName "Blogs &amp; News-Feeds">
+<!ENTITY feeds.wizardLongName.accesskey "B">

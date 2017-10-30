@@ -1,5 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title                  "Empfangsbestätigungen (MDN)">
-<!ENTITY receiptSettings.label         "Empfangsbestätigungen (MDN)">
 <!ENTITY requestReceipt.label          "Immer eine Empfangsbestätigung anfordern">
 <!ENTITY requestReceipt.accesskey      "m">
 <!ENTITY receiptArrive.label           "Wenn eine Empfangsbestätigung ankommt:">
@@ -15,7 +18,7 @@
 <!ENTITY notInToCc.label               "Wenn ich nicht in der An- oder CC-Zeile stehe:">
 <!ENTITY notInToCc.accesskey           "W">
 <!ENTITY outsideDomain.label           "Wenn der Absender außerhalb meiner Domain ist:">
-<!ENTITY outsideDomain.accesskey       "e">
+<!ENTITY outsideDomain.accesskey       "E">
 <!ENTITY otherCases.label              "In allen anderen Fällen:">
 <!ENTITY otherCases.accesskey          "n">
 <!ENTITY askMe.label                   "Fragen">

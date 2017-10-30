@@ -1,25 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
 <!ENTITY windowTitle.label "Mensagem com formatação">
 
 <!ENTITY recipient.label "Esta mensagem contém formatação. Alguns dos destinatários podem não conseguir abrí-la corretamente.">
 
-<!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleYes.label "Sua mensagem pode ser convertida para texto sem formatação sem que haja perda de informações.">
-<!ENTITY convertibleAltering.label "Sua mensagem pode ser convertida para texto sem formatação sem que haja perda de informações importantes. Contudo, a versão sem formatação pode ter uma apresentação diferente da que foi exibida ao criar a mensagem.">
-<!ENTITY convertibleNo.label "Entretanto, você utilizou formatações (por exemplo, cores) que não aparecerão no texto sem formatação.">
-
 <!ENTITY question.label "Deseja efetuar alguma conversão?">
 
 <!ENTITY plainTextAndHtml.label "Enviar junto uma versão sem formatação">
+<!ENTITY plainTextAndHtml.accesskey "n">
 <!ENTITY plainTextOnly.label "Enviar só uma versão sem formatação">
+<!ENTITY plainTextOnly.accesskey "E">
 <!ENTITY htmlOnly.label "Enviar só no formato original">
-
-<!ENTITY plainTextAndHtmlRecommended.label "Enviar texto sem formatação e HTML (recomendado)">
-<!ENTITY plainTextOnlyRecommended.label "Enviar apenas texto sem formatação (recomendado)">
-<!ENTITY htmlOnlyRecommended.label "Enviar apenas HTML (recomendado)">
-<!ENTITY recommended.label "(recomendado)">
+<!ENTITY htmlOnly.accesskey "E">
 
 <!ENTITY send.label "Enviar">
-<!ENTITY cancel.label "Cancelar">
-<!ENTITY recipients.label "Destinatários...">
-<!ENTITY help.label "Ajuda">
+<!ENTITY send.accesskey "E">

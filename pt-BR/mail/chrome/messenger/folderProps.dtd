@@ -1,99 +1,71 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 2000
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   David Bienvenu <bienvenu@netscape.com>
-   -   Mohan Bhamidipati <mohanb@netscape.com>
-   -   Lorenzo Colitti   <lorenzo@colitti.com>
-   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY folderProps.windowtitle.label           "Propriedades">
 
 <!ENTITY generalInfo.label                       "Geral">
-<!ENTITY folderCharsetTab.label                  "Codificação padrão:">
-<!ENTITY folderCharsetTab.accesskey              "C">
-<!ENTITY folderCharsetOverride.label             "Usar em todas as mensagens da pasta (ignorar codificação de cada mensagem e seleção automática)">
-<!ENTITY folderCharsetOverride.accesskey         "U">
-<!ENTITY folderRebuildSummaryFile.label          "Recriar índice">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Recriar arquivo de índice">
+<!ENTITY folderCharsetFallback2.label            "Codificação secundária do texto:">
+<!ENTITY folderCharsetFallback2.accesskey        "e">
+<!ENTITY folderCharsetEnforce2.label             "Aplicar codificação a todas as mensagens da pasta (a configuração individual de codificação de texto das mensagens e a detecção automática serão ignoradas)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Recriar arquivo de índice">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparar pasta">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "O arquivo de índice da pasta (.msf) pode ocasionalmente ser danificado e fazer com que mensagens aparentem estar perdidas ou mensagens excluídas continuem a ser exibidas; reparando a pasta estes problemas podem ser corrigidos.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Incluir as mensagens desta pasta nos resultados da pesquisa global">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
 
 <!ENTITY retention.label "Exclusão">
-<!ENTITY retentionUseDefault.label  "Usar os padrões do servidor">
-<!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "dias">
+<!ENTITY retentionUseAccount.label  "Usar minhas configurações da conta">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "dias">
 <!ENTITY message.label "mensagens">
 <!ENTITY retentionCleanup.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas.">
-<!ENTITY retentionKeepMsg.label "Excluir mensagens maiores que">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionCleanupImap.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas (tanto as cópias locais como as originais no servidor remoto).">
+<!ENTITY retentionCleanupPop.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas (incluindo as originais no servidor remoto).">
+<!ENTITY retentionDeleteMsg.label "Excluir mensagens com mais de">
+<!ENTITY retentionDeleteMsg.accesskey "x">
 <!ENTITY retentionKeepAll.label "Não excluir nenhuma mensagem">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Excluir todas, exceto a última">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Sempre excluir mensagens lidas">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepRecent.label "Excluir tudo, exceto as últimas">
+<!ENTITY retentionKeepRecent.accesskey "E">
+<!ENTITY retentionApplyToFlagged.label "Sempre preservar as mensagens com estrela">
+<!ENTITY retentionApplyToFlagged.accesskey "S">
 
-<!ENTITY folderOfflineTab.label                  "Offline">
-<!ENTITY folderCheckForNewMessages.label         "Verificar novas mensagens nesta pasta">
-<!ENTITY folderCheckForNewMessages.accesskey     "V">
+<!ENTITY folderSynchronizationTab.label          "Sincronização">
+<!ENTITY folderCheckForNewMessages2.label         "Ao receber novas mensagens desta conta, sempre verificar esta pasta">
+<!ENTITY folderCheckForNewMessages2.accesskey     "A">
 
-<!ENTITY offlineFolder.check.label               "Selecionar a pasta para leitura offline">
+<!ENTITY offlineFolder.check.label               "Selecionar a pasta para leitura off-line">
 <!ENTITY offlineFolder.check.accesskey           "S">
 <!ENTITY offlineFolder.button.label              "Receber agora">
 <!ENTITY offlineFolder.button.accesskey          "R">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Selecionar este grupo de notícias para leitura offline">
+<!ENTITY selectofflineNewsgroup.check.label      "Selecionar este newsgroup para leitura off-line">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "S">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Utilizar o padrão das configurações de conta ">
 <!ENTITY offlineNewsgroup.button.label           "Receber agora">
 <!ENTITY offlineNewsgroup.button.accesskey       "R">
 
-<!ENTITY folderProps.information.label           "Informações:">
 <!ENTITY folderProps.name.label                  "Nome:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Endereço:">
 <!ENTITY folderProps.location.accesskey          "E">
 
 <!ENTITY folderSharingTab.label                  "Compartilhamento">
-<!ENTITY privilegesDesc.label                    "Compartilhar esta e outras pastas com usuários da rede e exibir e configurar permissões de acesso">
-<!ENTITY privileges.button.label                 "Permissões…">
+<!ENTITY privileges.button.label                 "Direitos…">
 <!ENTITY privileges.button.accesskey             "D">
 <!ENTITY permissionsDesc.label                   "Você possui estas permissões:">
 <!ENTITY folderType.label                        "Pasta de tipo:">
 
 <!ENTITY folderQuotaTab.label                    "Cota">
-<!ENTITY folderQuotaRoot.label                   "Raiz da cota:">
+<!ENTITY folderQuotaRoot.label                   "Quota Root:">
 <!ENTITY folderQuotaUsage.label                  "Uso:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
+
+<!ENTITY numberOfMessages.label                  "Número de mensagens:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "desconhecido">
+<!ENTITY sizeOnDisk.label                        "Tamanho em disco:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "desconhecido">

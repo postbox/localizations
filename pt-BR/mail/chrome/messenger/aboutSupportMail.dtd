@@ -1,26 +1,31 @@
-<!ENTITY aboutSupport.appBasicsAppBuildID "ID da versão da aplicação">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.accountsTitle "Contas de e-mail e de notícias">
-<!ENTITY aboutSupport.showPrivateData.mainText "Incluir nomes das contas">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(informações que podem revelar identidade)">
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID da compilação do aplicativo">
+
+<!ENTITY aboutSupport.accountsTitle "Contas de mail e news">
+<!ENTITY aboutSupport.showPrivateData.mainText "Incluir nome das contas">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(possivelmente contém dados que podem lhe identificar)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Nome">
-<!ENTITY aboutSupport.accountsIncomingServer "Servidor de entrada">
-<!ENTITY aboutSupport.accountsOutgoingServers "Servidores de saída">
+<!ENTITY aboutSupport.accountsIncomingServer "Servidor de recebimento">
+<!ENTITY aboutSupport.accountsOutgoingServers "Servidores de envio">
 <!ENTITY aboutSupport.accountsServerName "Nome">
 <!ENTITY aboutSupport.accountsConnSecurity "Segurança da conexão">
-<!ENTITY aboutSupport.accountsAuthMethod "Método de autenticação">
-<!ENTITY aboutSupport.filterCount "Contagem de filtros">
+<!ENTITY aboutSupport.accountsAuthMethod "Modo de autenticação">
+<!ENTITY aboutSupport.filterCount "Filter Count">
 <!ENTITY aboutSupport.accountsDefault "Padrão?">
+<!ENTITY aboutSupport.identityName "Identidade">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Enviar por e-mail">
 
-<!ENTITY aboutSupport.pageTitle2 "Dados de Configuração">
+<!ENTITY aboutSupport.pageTitle2 "Configuration Data">
 
-<!ENTITY aboutSupport.indexerTitle "Indexação">
+<!ENTITY aboutSupport.indexerTitle "Indexer">
 
-<!ENTITY aboutSupport.miscTitle "Variados">
+<!ENTITY aboutSupport.miscTitle "Miscellaneous">
 
-<!ENTITY aboutSupport.appBasicsLicenseName "Nome da licença">
-<!ENTITY aboutSupport.ageInDays "Dias em uso">
-<!ENTITY aboutSupport.pbState "Estado">
+<!ENTITY aboutSupport.appBasicsLicenseName "License Name">
+<!ENTITY aboutSupport.ageInDays "Days In Use">
+<!ENTITY aboutSupport.pbState "State">

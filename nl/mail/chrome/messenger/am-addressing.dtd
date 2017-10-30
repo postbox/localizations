@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Opstellen &amp; adressering">
@@ -9,14 +13,15 @@
 <!ENTITY editDirectories.label     "Directory’s bewerken…">
 <!ENTITY editDirectories.accesskey "w">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Andere LDAP-server gebruiken:">
+<!ENTITY directories.label         "Een andere LDAP-server gebruiken:">
 <!ENTITY directories.accesskey     "n">
+<!ENTITY directoriesNone.label     "Geen">
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Opstellen">
+<!ENTITY compositionGroupTitle.label          "Opstellen">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label                        "Berichten opstellen in HTML-formaat">
+<!ENTITY useHtml.label                        "Berichten opstellen in HTML-indeling">
 <!ENTITY useHtml.accesskey                    "B">
 <!ENTITY autoQuote.label                      "Automatisch het originele bericht citeren bij antwoorden">
 <!ENTITY autoQuote.accesskey                  "A">
@@ -30,25 +35,24 @@
 <!ENTITY place.accesskey                      "o">
 <!ENTITY belowText.label                      "onder de geciteerde tekst (aanbevolen)">
 <!ENTITY aboveText.label                      "onder mijn antwoord (boven de geciteerde tekst)">
-<!ENTITY includeSigOnReply.label              "Handtekening bijvoegen in beantwoordde mails">
-<!ENTITY includeSigOnReply.accesskey          "s">
-<!ENTITY includeSigOnForward.label            "Handtekening bijvoegen in doorgestuurde mails">
-<!ENTITY includeSigOnForward.accesskey        "H">
+<!ENTITY includeSigOnReply.label              "Ondertekening invoegen bij antwoorden">
+<!ENTITY includeSigOnReply.accesskey          "t">
+<!ENTITY includeSigOnForward.label            "Ondertekening invoegen bij doorsturen">
+<!ENTITY includeSigOnForward.accesskey        "s">
+<!ENTITY markNotInWhitelist.label             "Mark addresses not ending with:">
+<!ENTITY markNotInWhitelist.accesskey         "m">
+<!ENTITY markInTrustedList.label              "Mark addresses when sending to:">
+<!ENTITY markInTrustedList.accesskey          "d">
+
+<!ENTITY globalComposingPrefs.label           "Algemene opstelvoorkeuren…">
+<!ENTITY globalComposingPrefs.accesskey       "e">
+
+<!ENTITY globalAddressingPrefs.label          "Algemene adresseringsvoorkeuren…">
+<!ENTITY globalAddressingPrefs.accesskey      "r">
 
 <!-- Postbox Summary Mode -->
-<!ENTITY pbSummarizeOnReply.label             "Door">
-<!ENTITY pbSummarizeOnReply.accesskey         "D">
-<!ENTITY pbSummarizeOnReply.normal.label      "het geselecteerde bericht te citeren">
-<!ENTITY pbSummarizeOnReply.summarize.label   "de gehele conversatie samen te vatten">
-<!ENTITY pbSummarizeOnReply.lastused.label    "de laatst gebruikte instelling toepassen">
-<!ENTITY pbSummarizeOnReply.photos.label       "Includeer contactfoto's van elke deelnemer bij samenvatten">
-<!ENTITY pbSummarizeOnReply.photos.accesskey   "I">
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY markNotInWhitelist.label             "Markeer adressen die niet eindigen met:">
-<!ENTITY markInTrustedList.accesskey          "d">
-<!ENTITY markNotInWhitelist.accesskey         "m">
-<!ENTITY markInTrustedList.label              "Markeer adressen bij het verzenden naar:">
+<!ENTITY pbSummarizeOnReply.label             "By">
+<!ENTITY pbSummarizeOnReply.accesskey         "y">
+<!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
+<!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
+<!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">

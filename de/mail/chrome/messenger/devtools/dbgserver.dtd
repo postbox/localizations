@@ -1,0 +1,4 @@
+<!ENTITY options.title "Entwicklerwerkzeuge - Einstellungen">
+<!ENTITY options.status.label "Status:">
+<!ENTITY options.port.label "Port:">
+<!ENTITY options.forcelocal.label "Verbindungen von anderen Computern zulassen">

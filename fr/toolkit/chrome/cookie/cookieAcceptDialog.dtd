@@ -1,10 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY     props.name.label               "Nom :">
 <!ENTITY     props.value.label              "Contenu :">
 <!ENTITY     props.domain.label             "Hôte :">
 <!ENTITY     props.path.label               "Chemin :">
 <!ENTITY     props.secure.label             "Envoi pour :">
 <!ENTITY     props.expires.label            "Expire :">
-<!ENTITY     props.policy.label             "Politique du site :">
 
 <!ENTITY     button.allow.label             "Autoriser">
 <!ENTITY     button.allow.accesskey         "A">

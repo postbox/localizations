@@ -1,8 +1,15 @@
-﻿<!ENTITY identitiesListTitle.label "Удостоверения, связанные с этой учетной записью">
-<!ENTITY identitiesListDesc.label "Поддержка нескольких удостоверений">
-<!ENTITY identitiesListAdd.label  "Добавить…">
-<!ENTITY identitiesListAdd.accesskey  "A">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY identitiesListManageDesc.label "Управление адресами эл. почты этой учётной записи. По умолчанию будет использоваться первый адрес эл. почты.">
+<!ENTITY identitiesListAdd.label "Добавить">
+<!ENTITY identitiesListAdd.accesskey "б">
 <!ENTITY identitiesListEdit.label "Изменить…">
-<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListEdit.accesskey "м">
+<!ENTITY identitiesListDefault.label "По умолчанию">
+<!ENTITY identitiesListDefault.accesskey "о">
 <!ENTITY identitiesListDelete.label "Удалить">
-<!ENTITY identitiesListDelete.accesskey "D">
+<!ENTITY identitiesListDelete.accesskey "д">
+<!ENTITY identitiesListClose.label "Закрыть">
+<!ENTITY identitiesListClose.accesskey "к">

@@ -1,10 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Para economizar espaço em disco, não receber:">
-<!ENTITY offlineNewFolder.label "Quando eu criar novas pastas, dispnibilizá-las para uso em modo offline">
+<!ENTITY offlineNewFolder.label "When I create new folders, select them for offline use">
 <!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY allFoldersOffline.label "Preservar as mensagens desta conta neste computador">
+<!ENTITY allFoldersOffline.accesskey "P">
 <!ENTITY offlineNotDownload.label "Mensagens com mais de">
 <!ENTITY offlineNotDownload.accesskey "s">
+<!ENTITY autosyncNotDownload.label "Não receber mensagens maiores que">
+<!ENTITY autosyncNotDownload.accesskey "N">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "dias">
 <!ENTITY daysOld.label "dias">
 <!ENTITY message.label "mensagens">
 <!ENTITY nntpNotDownloadRead.label "Mensagens lidas">
@@ -12,32 +19,38 @@
 <!ENTITY nntpDownloadMsg.label "Mensagens com mais de">
 <!ENTITY nntpDownloadMsg.accesskey "n">
 <!ENTITY retentionCleanup.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas.">
+<!ENTITY retentionCleanupImap.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas (tanto as cópias locais como as originais no servidor remoto).">
+<!ENTITY retentionCleanupPop.label "Para recuperar espaço em disco, mensagens antigas podem ser permanentemente excluídas (incluindo as originais no servidor remoto).">
 <!ENTITY retentionKeepMsg.label "Excluir mensagens com mais de">
 <!ENTITY retentionKeepMsg.accesskey "x">
 <!ENTITY retentionKeepAll.label "Não excluir nenhuma mensagem">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Excluir todas exceto a última">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Sempre excluir mensagens lidas">
-<!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY nntpRemoveBody.label "Apenas corpo de mensagens menor que">
-<!ENTITY nntpRemoveBody.accesskey "O">
-<!ENTITY offlineSelectNntp.label "Selecionar grupos de notícias para leitura offline…">
-<!ENTITY offlineSelectImap.label "Selecionar pastas para uso offline…">
-<!ENTITY offlineSelect.accesskey "S">
-<!ENTITY makeInboxMsgsAvailable.label "Deixar as mensagens na minha Caixa de Entrada disponíveis quando eu estiver trabalhando offline">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY retentionKeepRecent.label "Excluir tudo, exceto as últimas">
+<!ENTITY retentionKeepRecent.accesskey "E">
+<!ENTITY retentionApplyToFlagged.label "Sempre preservar as mensagens com estrela">
+<!ENTITY retentionApplyToFlagged.accesskey "S">
+<!ENTITY nntpRemoveMsgBody.label "Excluir o conteúdo de mensagens com mais de">
+<!ENTITY nntpRemoveMsgBody.accesskey "i">
+<!ENTITY offlineSelectNntp.label "Selecionar newsgroups para leitura off-line…">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineImapAdvancedOffline.label "Avançado…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY offlineGroupTitle.label "Offline">
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">
-<!ENTITY ftiGroupTitle.label "Pesquisa global">
-<!ENTITY fti.indexMsgBodies.label "Indexar corpo das mensagens">
-<!ENTITY newsrcFilePath.label "arquivo newsrc:">
+<!ENTITY ftiGroupTitle.label "Global Search">
+<!ENTITY fti.indexMsgBodies.label "Index message bodies">
+<!ENTITY newsrcFilePath.label "newsrc file:">
 <!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Diretório local:">
+<!ENTITY localPath.label "Local directory:">
 <!ENTITY localPath.accesskey "L">
-<!ENTITY localFolderPicker.label "Selecionar diretório local">
-<!ENTITY browseFolder.label "Procurar...">
+<!ENTITY localFolderPicker.label "Select Local Directory">
+<!ENTITY browseFolder.label "Browse...">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Selecionar arquivo newsrc">
-<!ENTITY browseNewsrc.label "Procurar...">
+<!ENTITY newsrcPicker.label "Select newsrc File">
+<!ENTITY browseNewsrc.label "Browse...">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY storeType.label "Message Store Type:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "File per folder (mbox)">
+<!ENTITY maildirStore.label "File per message (maildir)">

@@ -1,67 +1,46 @@
-﻿<!ENTITY alwaysCheckDefault.label          "Всегда проверять при запуске, является ли &brandShortName; почтовым клиентом по умолчанию">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY checkNow.label             "Проверить сейчас">
-<!ENTITY checkNow.accesskey         "N">
+<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.accesskey          "w">
 
-<!ENTITY allowSpotlight.label              "Разрешить Spotlight выполнять поиск сообщений">
-<!ENTITY allowSpotlight.accesskey          "S">
+<!ENTITY location.label "Адрес:">
+<!ENTITY location1.accesskey "е">
+<!ENTITY useDefault.label "Восстановить">
+<!ENTITY useDefault.accesskey "н">
 
-<!ENTITY location.label                   "Расположение:">
-<!ENTITY location1.accesskey               "д">
-<!ENTITY useDefault.label                 "Восстановить">
-<!ENTITY useDefault.accesskey             "R">
+<!ENTITY changeDockIconOptions.label "Изменить наcтройки значка приложения">
+<!ENTITY dockOptions.label "Наcтройки значка приложения…">
+<!ENTITY dockOptions.accesskey "ж">
 
-<!ENTITY bounceSystemDockIcon.label       "Анимация значка в Dock">
-<!ENTITY bounceSystemDockIcon.accesskey   "D">
+<!ENTITY newMessagesArrive.label "При появлении новых сообщений:">
+<!ENTITY playSound.label "Подавать звуковой сигнал">
+<!ENTITY playSound1.accesskey "в">
+<!ENTITY playSoundMac.label "Воспроизвести следующий звуковой файл:">
+<!ENTITY playSoundMac.accesskey "а">
+<!ENTITY showAnimatedAlert.label "Показывать уведомление">
+<!ENTITY showAnimatedAlert.accesskey "к">
+<!ENTITY notificationAlertSettings2.label "Уведомления и звук по умолчанию могут быть отключены на Панели Уведомления в «Системных настройках».">
+<!ENTITY customizeMailAlert.label "Настроить…">
+<!ENTITY customizeMailAlert.accesskey "и">
 
-<!ENTITY newMessagesArrive.label          "При получении новых сообщений:">
-<!ENTITY playSound.label                  "Воспроизвести звуковой сигнал">
-<!ENTITY playSound1.accesskey              "в">
-<!ENTITY showAnimatedAlert.label          "Показать уведомление">
-<!ENTITY showAnimatedAlert.accesskey      "S">
-<!ENTITY customizeMailAlert.label         "Настроить…">
-<!ENTITY customizeMailAlert.accesskey     "C">
+<!ENTITY showTrayIcon.label "Показать значок в трее">
+<!ENTITY showTrayIcon.accesskey "о">
 
-<!ENTITY soundNotification1.caption       "Звук">
-<!ENTITY play.label                       "Прослушать">
-<!ENTITY play.accesskey                   "P">
-<!ENTITY systemsound.label                "Системный звуковой сигнал для новой почты">
-<!ENTITY systemsoundMac.label             "Системный звуковой сигнал уведомления">
-<!ENTITY systemsoundMac.accesskey         "y">
-<!ENTITY systemsound.accesskey            "y">
-<!ENTITY customsound.label                "Использовать следующий звуковой файл">
-<!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "Обзор…">
-<!ENTITY browse.accesskey                 "B">
+<!ENTITY play.label "Прослушать">
+<!ENTITY play.accesskey "ш">
+<!ENTITY systemsound.label "Системный звуковой сигнал о приходе почты">
+<!ENTITY systemsound.accesskey "м">
+<!ENTITY customsound.label "Использовать следующий звуковой файл">
+<!ENTITY customsound.accesskey "з">
+<!ENTITY browse.label "Обзор…">
+<!ENTITY browse.accesskey "б">
 
-<!-- message list font size -->
+<!ENTITY defaultSearchEngine.label "Поисковая система по умолчанию">
 
-<!ENTITY pbChromeFontSizeSmall.label      "Мелкий">
-<!ENTITY pbChromeFontSizeMedium.label     "Средний">
-<!ENTITY pbChromeFontSizeLarge.label      "Крупный">
-<!ENTITY pbChromeFontSize.label           "Размер шрифта для папок и списка сообщений:">
-<!ENTITY pbChromeFontSize.accesskey       "M">
+<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
 
+<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
 
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY enableNotificationCenter.label   "Использовать «Центр уведомлений»">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY useRetina.label				  "Экран Retina">
-
-<!ENTITY showProfileManager.label   "Показывать «Диспетчер профилей» при запуске">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY storeLocation.label              "Папка для хранения меток, подписей, ответов и адресной книги:">
+<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">

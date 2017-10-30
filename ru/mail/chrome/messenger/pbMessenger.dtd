@@ -1,130 +1,140 @@
-﻿<!-- File Menu -->
-<!ENTITY pbLocalesMenu.label "Язык">
+<!-- File Menu -->
+<!ENTITY pbLocalesMenu.label "Language">
 <!ENTITY pbLocalesMenu.accesskey "g">
-<!ENTITY pbLocalesMenu_getMore.label "Загрузить другие…">
+<!ENTITY pbLocalesMenu_getMore.label "Get More...">
 <!ENTITY pbLocalesMenu_getMore.accesskey "G">
-<!ENTITY newAccountGroupCmd.label "Группа учетных записей…">
+<!ENTITY newAccountGroupCmd.label "Account Group...">
 <!ENTITY newAccountGroupCmd.accesskey "G">
-<!ENTITY closeTab.label "Закрыть вкладку">
+<!ENTITY closeTab.label "Close Tab">
 <!ENTITY closeTab.accesskey "C">
-<!ENTITY closeWindow.label "Закрыть окно">
+<!ENTITY closeWindow.label "Close Window">
 <!ENTITY closeWindow.accesskey "e">
 
 <!-- Messages Menu -->
-<!ENTITY quickReplyMsgCmd.label "Быстрый ответ">
+<!ENTITY quickReplyMsgCmd.label "Quick Reply">
 <!ENTITY quickReplyMsgCmd.accesskey "Q">
 
 <!-- Tools Menu -->
-<!ENTITY pbIndexingMenu.label "Индексация">
+<!ENTITY pbIndexingMenu.label "Indexing">
 <!ENTITY pbIndexingMenu.accesskey "x">
-<!ENTITY indexAllMessages.label "Индексировать все папки…">
-<!ENTITY indexAllMessages.accesskey "I">
-<!ENTITY indexMessagesInFolder.label "Индексировать эту папку…">
-<!ENTITY indexMessagesInFolder.accesskey "F">
-<!ENTITY resetIndexAllMessages.label "Сбросить параметры всех папок…">
-<!ENTITY resetIndexAllMessages.accesskey "R">
-<!ENTITY resetIndexMessagesInFolder.label "Сбросить параметры этой папки…">
+<!ENTITY indexAllMessages.label "Index All Folders...">
+<!ENTITY indexAllMessages.accesskey "i">
+<!ENTITY indexMessagesInFolder.label "Index This Folder...">
+<!ENTITY indexMessagesInFolder.accesskey "f">
+<!ENTITY resetIndexAllMessages.label "Reset All Folders...">
+<!ENTITY resetIndexAllMessages.accesskey "r">
+<!ENTITY resetIndexMessagesInFolder.label "Reset This Folder...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY updateCmd.label "Проверить наличие обновлений…">
+<!ENTITY updateCmd.label "Check for Updates…">
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
-<!ENTITY pinStarredMessages.label "Закрепить напоминания">
+<!ENTITY pinStarredMessages.label "Pin Reminders">
 <!ENTITY pinStarredMessages.accesskey "P">
-<!ENTITY showConversations.label "Показать беседы">
-<!ENTITY showConversations.accesskey "h">
-<!ENTITY viewMenuShowMessages.label        "Сообщения">
-<!ENTITY viewMenuShowMessages.accesskey    "M">
+<!ENTITY showConversations.label "Organize by Thread">
+<!ENTITY showConversations.accesskey "O">
+<!ENTITY viewMenuShowMessages.label        "Messages">
+<!ENTITY viewMenuShowMessages.accesskey    "m">
 <!ENTITY key_showMessages.key              "t">
-<!ENTITY viewMenuShowAttachments.label "Вложения">
+<!ENTITY viewMenuShowAttachments.label "Attachments">
 <!ENTITY viewMenuShowAttachments.accesskey "t">
 <!ENTITY key_showAttachments.key         "a">
-<!ENTITY viewMenuShowImages.label        "Изображения">
+<!ENTITY viewMenuShowImages.label        "Images">
 <!ENTITY viewMenuShowImages.accesskey    "m">
 <!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowTodos.label "Напоминания">
-<!ENTITY viewMenuShowTodos.accesskey "D">
+<!ENTITY viewMenuShowTodos.label "Reminders">
+<!ENTITY viewMenuShowTodos.accesskey "d">
 <!ENTITY key_showTodos.key           "o">
-<!ENTITY showFolderPaneCmd.label "Панель папок">
+<!ENTITY showFolderPaneCmd.label "Folder Pane">
 <!ENTITY showFolderPaneCmd.accesskey "F">
-<!ENTITY showFocusPaneCmd.label "Панель фокуса">
+<!ENTITY showFocusPaneCmd.label "Focus Pane">
 <!ENTITY showFocusPaneCmd.accesskey "o">
 <!ENTITY pbToggleFocusPane.key "P">
 <!ENTITY pbToggleFolderPaneMac.key "M">
 <!ENTITY pbToggleFolderPane.key "L">
 <!ENTITY pbToggleInspectorPane.key "I">
 <!ENTITY pbMessagePaneMac.key "E">
-<!ENTITY showInspectorPaneCmd.label "Панель инспектора">
+<!ENTITY showInspectorPaneCmd.label "Inspector Pane">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
-<!ENTITY pbExpandConversationMsgs.label "Развернуть беседу">
+<!ENTITY showFavoritesBarCmd.label "Favorites Bar">
+<!ENTITY showFavoritesBarCmd.accesskey "v">
+<!ENTITY pbExpandConversationMsgs.label "Expand Conversation">
 <!ENTITY pbExpandConversationMsgs.accesskey "x">
 <!ENTITY pbExpandConversationMsgs.key "o">
-<!ENTITY pbCollapseConversationMsgs.label "Свернуть беседу">
+<!ENTITY pbCollapseConversationMsgs.label "Collapse Conversation">
 <!ENTITY pbCollapseConversationMsgs.accesskey "n">
 <!ENTITY pbCollapseConversationMsgs.key "o">
-<!ENTITY showPanes.label "Показать">
+<!ENTITY showPanes.label "Show">
 <!ENTITY showPanes.accesskey "w">
+<!ENTITY fullScreenMode.accesskey "l">
+<!ENTITY fullScreenMode.label "Enter Full Screen">
 
 <!-- Mail Toolbar -->
-<!ENTITY tagButton.label "Назначить метку">
-<!ENTITY kindFocusToolbarItem.title "Тип">
-<!ENTITY focusPaneText.label            "Поиск">
-<!ENTITY focusPaneAttachments.label     "Вложения">
-<!ENTITY focusPaneEvents.label          "События">
-<!ENTITY focusPaneImages.label          "Изображения">
-<!ENTITY focusPaneMessages.label        "Просмотреть все">
-<!ENTITY viewButtons.label              "Просмотреть">
-<!ENTITY focusPaneTodos.label           "Напоминания">
-<!ENTITY tagButton.tooltip "Добавить метку к сообщениям">
-<!ENTITY newTaskButton.tooltip "Создать новое напоминание">
-<!ENTITY newTaskButton.label "Создать напоминание">
-<!ENTITY inspectorButton.label "Инспектор">
-<!ENTITY inspectorButton.tooltip "Показать/скрыть панель инспектора">
-<!ENTITY pbToolbarButton-home.label "В начало">
-<!ENTITY pbToolbarButton-home.tooltip "Показать папку «Входящие» и очистить все критерии поиска">
-<!ENTITY pbToolbarButton-promote.label   "Опубликовать">
-<!ENTITY pbToolbarButton-promote.tooltip   "Опубликовать это сообщение на веб-странице">
+<!ENTITY tagButton.label "Assign Topic">
+<!ENTITY kindFocusToolbarItem.title "Kind">
+<!ENTITY focusPaneText.label            "Search">
+<!ENTITY focusPaneAttachments.label     "Attachments">
+<!ENTITY focusPaneEvents.label          "Events">
+<!ENTITY focusPaneImages.label          "Images">
+<!ENTITY focusPaneMessages.label        "Messages">
+<!ENTITY viewButtons.label              "View">
+<!ENTITY focusPaneTodos.label           "Reminders">
+<!ENTITY tagButton.tooltip "Add topic to messages">
+<!ENTITY newReminderMenuitem.label "Create a new Reminder">
+<!ENTITY reminderButton.tooltip "Mark the selected messages as reminders">
+<!ENTITY removeReminderButton.tooltip "Mark the selected messages as not reminders">
+<!ENTITY reminderButton.label "Reminder">
+<!ENTITY inspectorButton.label "Inspector">
+<!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
+<!ENTITY evernoteButton.label "Evernote">
+<!ENTITY evernoteButton.tooltip "Add to Evernote">
+<!ENTITY quickpostButton.label "Quick Post">
+<!ENTITY quickpostButton.tooltip "Quick Post">
+<!ENTITY pbToolbarButton-home.label "Home">
+<!ENTITY pbToolbarButton-home.tooltip "Take me back to my Inbox and clear any search criteria">
+<!ENTITY pbToolbarButton-promote.label   "Post">
+<!ENTITY pbToolbarButton-promote.tooltip   "Post a message to the Web">
 <!ENTITY pbToolbarButton-promote-twitter.label "Twitter">
 <!ENTITY pbToolbarButton-promote-twitter.accesskey "T">
 <!ENTITY pbToolbarButton-promote-facebook.label "Facebook">
 <!ENTITY pbToolbarButton-promote-facebook.accesskey "F">
-<!ENTITY pbToolbarButton-promote-friendfeed.label "FriendFeed">
-<!ENTITY pbToolbarButton-promote-friendfeed.accesskey "r">
 <!ENTITY pbToolbarButton-promote-linkedin.label "LinkedIn">
 <!ENTITY pbToolbarButton-promote-linkedin.accesskey "L">
+<!ENTITY pbToolbarButton-runFiltersButton.label "Run Filters">
+<!ENTITY pbToolbarButton-runFiltersButton.tooltip "Run filters on the current folder">
 
 <!-- Tags Menu Popup -->
-<!ENTITY applyTag.label "Назначить метку">
-<!ENTITY addNewTag.label "Новая метка…">
-<!ENTITY addNewTag.accesskey "T">
-<!ENTITY removeTag.label "Удалить метку">
-<!ENTITY removeAllTag.label "Удалить все…">
+<!ENTITY applyTag.label "Add Topic">
+<!ENTITY addNewTag.label "New Topic...">
+<!ENTITY addNewTag.accesskey "t">
+<!ENTITY removeTag.label "Remove Topic">
+<!ENTITY removeAllTag.label "Remove All...">
 <!ENTITY removeAllTag.accesskey "A">
 
 <!-- search menu -->
-<!ENTITY pbFullTextSearchCmd.label "Поиск сообщений">
+<!ENTITY pbFullTextSearchCmd.label "Search Messages">
 <!ENTITY pbFullTextSearchCmd.accesskey "M">
 
 <!-- search result popup -->
-<!ENTITY searchResultPopup-imageZoom.label      "Увеличить изображение">
-<!ENTITY searchResultPopup-imageZoom.accesskey  "I">
-<!ENTITY searchResultPopup-openAttachment.label      "Открыть">
+<!ENTITY searchResultPopup-imageZoom.label      "Zoom">
+<!ENTITY searchResultPopup-imageZoom.accesskey  "z">
+<!ENTITY searchResultPopup-openAttachment.label      "Open">
 <!ENTITY searchResultPopup-openAttachment.accesskey  "O">
-<!ENTITY searchResultPopup-openMessage.label         "Открыть сообщение">
+<!ENTITY searchResultPopup-openMessage.label         "Open Message">
 <!ENTITY searchResultPopup-openMessage.accesskey     "M">
-<!ENTITY searchResultPopup-openFolder.label          "Открыть папку сообщения">
+<!ENTITY searchResultPopup-openFolder.label          "Open Message Folder">
 <!ENTITY searchResultPopup-openFolder.accesskey      "p">
-<!ENTITY searchResultPopup-quickLookMac.label           "Быстрый просмотр…">
+<!ENTITY searchResultPopup-quickLookMac.label           "Quick Look">
 <!ENTITY searchResultPopup-quickLookMac.accesskey       "Q">
-<!ENTITY searchResultPopup-quickLook.label           "Просмотр…">
+<!ENTITY searchResultPopup-quickLook.label           "Preview">
 <!ENTITY searchResultPopup-quickLook.accesskey       "w">
-<!ENTITY searchResultPopup-attachTo.label            "Вложить в">
+<!ENTITY searchResultPopup-attachTo.label            "Attach To">
 <!ENTITY searchResultPopup-attachTo.accesskey        "A">
-<!ENTITY pbSearchResultPopup-send.label              "Отправить…">
+<!ENTITY pbSearchResultPopup-send.label              "Send...">
 <!ENTITY pbSearchResultPopup-send.accesskey          "e">
-<!ENTITY pbSearchResultPopup-save.label              "Сохранить…">
+<!ENTITY pbSearchResultPopup-save.label              "Save...">
 <!ENTITY pbSearchResultPopup-save.accesskey          "S">
-<!ENTITY pbSearchResultPopup-upload.label            "Выгрузить в">
+<!ENTITY pbSearchResultPopup-upload.label            "Upload to">
 <!ENTITY pbSearchResultPopup-upload.accesskey        "U">
 <!ENTITY pbSearchResultPopup-addUrlToGoogle.label          "Google">
 <!ENTITY pbSearchResultPopup-addUrlToGoogle.accesskey      "l">
@@ -132,311 +142,240 @@
 <!ENTITY pbSearchResultPopup-addUrlToDelicious.accesskey   "d">
 <!ENTITY pbSearchResultPopup-addUrlToFacebook.label        "Facebook">
 <!ENTITY pbSearchResultPopup-addUrlToFacebook.accesskey    "F">
-<!ENTITY pbSearchResultPopup-addUrlToFriendFeed.label      "FriendFeed">
-<!ENTITY pbSearchResultPopup-addUrlToFriendFeed.accesskey  "r">
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.label         "Twitter">
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.accesskey     "T">
 <!ENTITY pbSearchResultPopup-addUrlToLinkedIn.label        "LinkedIn">
 <!ENTITY pbSearchResultPopup-addUrlToLinkedIn.accesskey    "L">
-<!ENTITY searchResultPopup-systemPhotoImportMac.label      "Добавить в iPhoto">
+<!ENTITY searchResultPopup-systemPhotoImportMac.label      "Add to Photos">
 <!ENTITY searchResultPopup-systemPhotoImportMac.accesskey  "h">
 
 <!-- inline edit subject bar -->
-<!ENTITY msgAnnotation.title                         "Изменить">
-<!ENTITY saveMessageEditing.button.label             "Сохранить">
-<!ENTITY saveMessageEditing.button.accesskey         "S">
-<!ENTITY saveMessageEditingAsCopy.button.label       "Сохранить как копию">
+<!ENTITY msgAnnotation.title                         "Subject:">
+<!ENTITY saveMessageEditing.button.label             "save">
+<!ENTITY saveMessageEditing.button.accesskey         "s">
+<!ENTITY saveMessageEditingAsCopy.button.label       "save copy">
 <!ENTITY saveMessageEditingAsCopy.button.accesskey   "a">
-<!ENTITY cancelMessageEditing.button.label           "Отмена">
-<!ENTITY cancelMessageEditing.button.accesskey       "C">
+<!ENTITY cancelMessageEditing.button.label           "cancel">
+<!ENTITY cancelMessageEditing.button.accesskey       "c">
 
 <!-- inline message editing toolbar -->
-<!ENTITY boldEditMsgToolbarCmd.tooltip               "Полужирный">
-<!ENTITY italicEditMsgToolbarCmd.tooltip             "Курсив">
-<!ENTITY underlineEditMsgToolbarCmd.tooltip          "Подчеркнутый">
-<!ENTITY strikethroughEditMsgToolbarCmd.tooltip      "Зачеркнутый">
-<!ENTITY cropTextEditMsgToolbarCmd.tooltip           "Обрезать текст">
-<!ENTITY insertLinkEditMsgToolbarCmd.tooltip         "Вставить новую ссылку или изменить свойства выбранной">
-<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Добавить или удалить маркированный или нумерованный список">
-<!ENTITY noneMsgToolbarCmd.label                     "Нет">
+<!ENTITY boldEditMsgToolbarCmd.tooltip               "Bold">
+<!ENTITY italicEditMsgToolbarCmd.tooltip             "Italic">
+<!ENTITY underlineEditMsgToolbarCmd.tooltip          "Underline">
+<!ENTITY strikethroughEditMsgToolbarCmd.tooltip      "Strikethrough">
+<!ENTITY cropTextEditMsgToolbarCmd.tooltip           "Crop Text">
+<!ENTITY insertLinkEditMsgToolbarCmd.tooltip         "Insert new link or edit selected link's properties">
+<!ENTITY insertImageEditMsgToolbarCmd.tooltip        "Insert new image or edit selected image's properties">
+<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Apply or remove bulleted or numbered list">
+<!ENTITY noneMsgToolbarCmd.label                     "None">
 <!ENTITY noneMsgToolbarCmd.accesskey                 "N">
-<!ENTITY listBulletMsgToolbarCmd.label               "Маркированный">
+<!ENTITY listBulletMsgToolbarCmd.label               "Bulleted">
 <!ENTITY listbulletMsgToolbarCmd.accesskey           "b">
-<!ENTITY listNumberedMsgToolbarCmd.label             "Нумерованный">
+<!ENTITY listNumberedMsgToolbarCmd.label             "Numbered">
 <!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
-<!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Вставить код HTML или изменить выбранный код HTML">
-<!ENTITY switchBetweenNormalAndCode.tooltip          "Переключение между обычным режимом просмотра и режимом просмотра кода">
-<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Выступ текста (переместить влево)">
-<!ENTITY indentEditMsgToolbarCmd.tooltip             "Отступ текста (переместить вправо)">
+<!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insert HTML or edit selected HTML">
+<!ENTITY switchBetweenNormalAndCode.tooltip          "Switch between Normal and Code views">
+<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Outdent text (move left)">
+<!ENTITY indentEditMsgToolbarCmd.tooltip             "Indent text (move right)">
 
 <!-- inline message editing context menu -->
-<!ENTITY spellAddToDictionary.label                  "Добавить в словарь">
+<!ENTITY spellAddToDictionary.label                  "Add to Dictionary">
 <!ENTITY spellAddToDictionary.accesskey              "o">
-<!ENTITY spellNoSuggestions.label                    "(нет вариантов)">
-<!ENTITY spellCheckIgnoreWord.label                  "Пропустить слово">
+<!ENTITY spellNoSuggestions.label                    "(No Spelling Suggestions)">
+<!ENTITY spellCheckIgnoreWord.label                  "Ignore Word">
 <!ENTITY spellCheckIgnoreWord.accesskey              "I">
-<!ENTITY spellCheckEnable.label                      "Проверка орфографии">
+<!ENTITY spellCheckEnable.label                      "Check Spelling">
 <!ENTITY spellCheckEnable.accesskey                  "S">
-<!ENTITY spellDictionaries.label                     "Языки">
-<!ENTITY spellDictionaries.accesskey                 "L">
+<!ENTITY spellDictionaries.label                     "Languages">
+<!ENTITY spellDictionaries.accesskey                 "l">
 
 <!-- indexer progress dialog -->
-<!ENTITY indexerProgress.title                       "Индексация сообщений">
-<!ENTITY indexerProgressMessages.label               "Сообщения:">
-<!ENTITY indexerProgressFolders.label                "Папки:">
-<!ENTITY indexerProgress.status                      "Состояние:">
-<!ENTITY stopIndexingButton.label                    "Стоп">
-<!ENTITY indexerProgressTitle.label                  "Индексация сообщений…">
+<!ENTITY indexerProgress.title                       "Indexing Messages">
+<!ENTITY indexerProgressMessages.label               "Messages:">
+<!ENTITY indexerProgressFolders.label                "Folders:">
+<!ENTITY indexerProgress.status                      "Status:">
+<!ENTITY stopIndexingButton.label                    "Stop">
+<!ENTITY indexerProgressTitle.label                  "Indexing Messages...">
 
 <!-- rich search bar -->
-<!ENTITY searchbar-defaultSearchText.label      "Поиск">
-<!ENTITY searchbar-caption.label                "Нажмите клавиши Ctrl и Enter для предварительного просмотра текста">
-<!ENTITY searchbar-captionMac.label             "Нажмите клавиши Command и Return для предварительного просмотра текста">
+<!ENTITY searchbar-defaultSearchText.label      "Search">
 
 <!-- advanced search panel -->
-<!ENTITY searchOptionsPanelTitle.label          "Параметры поиска">
-<!ENTITY searchContainsField.label              "Содержит">
-<!ENTITY searchFromField.label                  "От">
-<!ENTITY searchToField.label                    "Кому">
-<!ENTITY searchSubjectField.label               "Тема">
-<!ENTITY searchTopicField.label                 "Метка">
-<!ENTITY searchBeforeField.label                "До">
-<!ENTITY searchAfterField.label                 "После">
+<!ENTITY searchOptionsPanelTitle.label          "Search Options">
+<!ENTITY searchContainsField.label              "contains">
+<!ENTITY searchFromField.label                  "from">
+<!ENTITY searchToField.label                    "to">
+<!ENTITY searchSubjectField.label               "subject">
+<!ENTITY searchTopicField.label                 "topic">
+<!ENTITY searchBeforeField.label                "before">
+<!ENTITY searchAfterField.label                 "after">
 <!-- The number of characters that can be displayed in the search field textboxes -->
-<!ENTITY searchField.size                       "28">
-<!ENTITY searchBar-options.tooltip              "Показать параметры поиска">
-<!ENTITY searchButton.label                     "Поиск">
-<!ENTITY cancelButton.label                     "Отмена">
+<!ENTITY searchField.size                       "30">
+<!ENTITY searchBar-options.tooltip              "Show search options">
+<!ENTITY searchButton.label                     "Search">
+<!ENTITY cancelButton.label                     "Cancel">
 
 <!-- message pane progress text -->
-<!ENTITY messagePaneProgressText.label          "Выполняется загрузка…">
+<!ENTITY messagePaneProgressText.label          "Loading...">
 
 <!-- pbEditorPanel.inc -->
-<!ENTITY todoPanelSave.label                    "Сохранить">
-<!ENTITY todoPanelCancel.label                  "Отмена">
+<!ENTITY todoPanelSave.label                    "Save">
+<!ENTITY todoPanelCancel.label                  "Cancel">
 
 <!-- pbSharePanel.inc -->
-<!ENTITY sharePanelShare.label                   "Обновить">
-<!ENTITY sharePanelCancel.label                  "Отмена">
+<!ENTITY sharePanelShare.label                   "Update">
+<!ENTITY sharePanelCancel.label                  "Cancel">
 
 <!-- content URL context menu -->
 <!ENTITY pbContentURLContextMenu-bookmarkURL.accesskey    "B">
-<!ENTITY pbContentURLContextMenu-otherActions.label       "Другие действия">
-<!ENTITY pbContentURLContextMenu-otherActionsURL.accesskey "h">
-<!ENTITY pbContentURLContextMenu-openURL.label            "Открыть в браузере">
+<!ENTITY pbContentURLContextMenu-openURL.label            "Open in Browser">
 <!ENTITY pbContentURLContextMenu-openURL.accesskey        "O">
-<!ENTITY pbContentURLContextMenu-copyURL.label            "Копировать">
+<!ENTITY pbContentURLContextMenu-copyURL.label            "Copy">
 <!ENTITY pbContentURLContextMenu-copyURL.accesskey        "C">
-<!ENTITY pbContentURLContextMenu-sendURL.label            "Отправить ссылку…">
+<!ENTITY pbContentURLContextMenu-sendURL.label            "Send Link...">
 <!ENTITY pbContentURLContextMenu-sendURL.accesskey        "S">
-<!ENTITY pbContentURLContextMenu-addToGoogle.label        "Добавить в закладки Google">
+<!ENTITY pbContentURLContextMenu-addToGoogle.label        "Add to Google">
 <!ENTITY pbContentURLContextMenu-addToGoogle.accesskey    "G">
-<!ENTITY pbContentURLContextMenu-addToDelicious.label     "Добавить в del.icio.us">
-<!ENTITY pbContentURLContextMenu-addToDelicious.accesskey "d">
-<!ENTITY pbContentURLContextMenu-addToFacebook.label      "Опубликовать в Facebook…">
+<!ENTITY pbContentURLContextMenu-addToDelicious.label     "Add to del.icio.us">
+<!ENTITY pbContentURLContextMenu-addToDelicious.accesskey "A">
+<!ENTITY pbContentURLContextMenu-addToFacebook.label      "Post to Facebook...">
 <!ENTITY pbContentURLContextMenu-addToFacebook.accesskey  "F">
-<!ENTITY pbContentURLContextMenu-addToFriendFeed.label    "Опубликовать в FriendFeed…">
-<!ENTITY pbContentURLContextMenu-addToFriendFeed.accesskey "r">
-<!ENTITY pbContentURLContextMenu-addToTwitter.label       "Опубликовать в Twitter…">
+<!ENTITY pbContentURLContextMenu-addToTwitter.label       "Post to Twitter...">
 <!ENTITY pbContentURLContextMenu-addToTwitter.accesskey   "w">
-<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Опубликовать в LinkedIn…">
+<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Post to LinkedIn...">
 <!ENTITY pbContentURLContextMenu-addToLinkedIn.accesskey  "L">
 
 <!-- text context menu -->
 <!ENTITY pbContentTextContextMenu-websearch.accesskey    "S">
 <!ENTITY pbContentTextContextMenu-research.accesskey     "R">
 <!ENTITY pbContentTextContextMenu-review.accesskey       "e">
-<!ENTITY pbContentTextContextMenu-otherActions.label     "Другие действия">
-<!ENTITY pbContentTextContextMenu-otherActions.accesskey "O">
 <!ENTITY pbContentTextContextMenu-map.accesskey          "M">
-<!ENTITY pbContentTextContextMenu-phone.label            "Номер телефона">
-<!ENTITY pbContentTextContextMenu-phone.accesskey        "C">
-<!ENTITY pbContentTextContextMenu-systemSearchMac.label      "Искать в Spotlight">
+<!-- C is already used for Copy -->
+<!ENTITY pbContentTextContextMenu-phone.label            "Call Number">
+<!ENTITY pbContentTextContextMenu-phone.accesskey        "N">
+<!ENTITY pbContentTextContextMenu-date.label            "Add to Calendar">
+<!ENTITY pbContentTextContextMenu-date.accesskey        "d">
+<!ENTITY pbContentTextContextMenu-systemSearchMac.label      "Search in Spotlight">
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
-<!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Найти в словаре">
+<!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Look Up in Dictionary">
 <!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "L">
-<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: новое напоминание в виде заметки">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New Reminder with Selection as Note">
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
-<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: новое напоминание в виде заголовка">
+<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New Reminder with Selection as Title">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
-<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: отправить в папку «Входящие»">
+<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Send to Inbox">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
+<!ENTITY pbContentTextContextMenu-evernote.label       "Add to Evernote">
+<!ENTITY pbContentTextContextMenu-evernote.accesskey  "e">
+<!ENTITY pbContentTextContextMenu-postboxSearch.label      "Search in Postbox">
+<!ENTITY pbContentTextContextMenu-postboxSearch.accesskey  "P">
 
 <!-- topic context menu -->
-<!ENTITY pbTopicContextMenu-edit.label         "Переименовать">
-<!ENTITY pbTopicContextMenu-edit.accesskey     "e">
-<!ENTITY pbTopicContextMenu-favorite.label     "Избранная метка">
+<!ENTITY pbTopicContextMenu-edit.label         "Rename">
+<!ENTITY pbTopicContextMenu-edit.accesskey     "E">
+<!ENTITY pbTopicContextMenu-favorite.label     "Favorite Topic">
 <!ENTITY pbTopicContextMenu-favorite.accesskey "F">
-<!ENTITY pbTopicContextMenu-remove.label       "Удалить">
+<!ENTITY pbTopicContextMenu-remove.label       "Remove">
 <!ENTITY pbTopicContextMenu-remove.accesskey   "R">
-<!ENTITY pbTopicContextMenu-editAll.label      "Изменить метки…">
+<!ENTITY pbTopicContextMenu-editAll.label      "Edit Topics...">
 <!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
+<!ENTITY pbTopicContextMenu-delete.label       "Delete">
+<!ENTITY pbTopicContextMenu-delete.accesskey   "d">
+<!ENTITY pbTopicContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
 
 <!-- account tree context menu -->
-<!ENTITY pbAccountTreeContextMenu-newGroup.label "Новая группа учетных записей…">
+<!ENTITY pbAccountTreeContextMenu-newGroup.label "New Account Group...">
 <!ENTITY pbAccountTreeContextMenu-newGroup.accesskey "G">
-<!ENTITY pbAccountTreeContextMenu-settings.label "Настройки…">
+<!ENTITY pbAccountTreeContextMenu-settings.label "Settings...">
 <!ENTITY pbAccountTreeContextMenu-settings.accesskey "i">
 
-<!-- folder pane -->
-<!ENTITY accountTreeMac.label    "УЧЕТНЫЕ ЗАПИСИ">
-<!ENTITY folderTreeMac.label     "ПАПКИ">
-
 <!-- thread pane -->
-<!ENTITY threadPaneNoMatchesFound.desc "Нет сообщений, отвечающих условиям поиска.">
-<!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Попробуйте выбрать для поиска «Все папки».">
-<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Попробуйте выбрать для фокуса «Все».">
-<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Попробуйте выбрать для просмотра «Сообщения».">
-<!ENTITY threadPaneAddTextToSearch.desc "Чтобы приступить к поиску, начните вводить текст в строке поиска.">
+<!ENTITY threadPaneNoMatchesFound.desc "No messages matched your search.">
+<!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Try looking in All Folders.">
+<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Try setting your Focus to All.">
+<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
+<!ENTITY threadPaneAddTextToSearch.desc "Start typing in the search bar to begin your search.">
 
-<!ENTITY pbSignatureEditor.title "Новая подпись">
-<!ENTITY pbSignatureEditor.name "Имя">
-<!ENTITY pbSignatureEditor.body "Подпись">
+<!ENTITY pbSignatureEditor.title "New Signature">
+<!ENTITY pbSignatureEditor.name "Name">
+<!ENTITY pbSignatureEditor.body "Signature">
+
+<!ENTITY pbQuickPostEditor.title "New Quick Post">
+<!ENTITY pbQuickPostEditor.name "Name">
+<!ENTITY pbQuickPostEditor.email "Email">
+<!ENTITY pbQuickPostEditor.beforeSubject "Before Subject">
+<!ENTITY pbQuickPostEditor.afterSubject "After Subject">
+<!ENTITY pbQuickPostEditor.forwardAsAttachment "Send as Attachment">
+<!ENTITY pbQuickPostEditor.openComposeWindow "Send via Compose Window">
+<!ENTITY pbQuickPostEditor.send "Send">
 
 <!-- pbSearchBox.xml -->
-<!ENTITY pbSearchScopePanel-location.label "Расположение">
-<!ENTITY pbSearchScopePanel-recent.label "История поиска">
+<!ENTITY pbSearchScopePanel-location.label "Location">
+<!ENTITY pbSearchScopePanel-recent.label "Search History">
 
 <!-- facebook extension login.xul and auth.xul -->
-<!ENTITY login.window.title "Войти в Facebook">
-<!ENTITY login.wait "Подождите, выполняется подготовка к входу…">
-<!ENTITY login.close "Закрыть окно входа">
-<!ENTITY auth.window.title "Разрешить обновления статуса от Postbox">
-<!ENTITY auth.close "Закрыть окно">
+<!ENTITY login.window.title "Login to Facebook">
+<!ENTITY login.wait "Please wait while we prepare to log you in...">
+<!ENTITY login.close "Close login window">
+<!ENTITY auth.window.title "Allow Status Updates from Postbox">
+<!ENTITY auth.close "Close window">
 
 <!-- pbLanguageProgress.xul -->
-<!ENTITY downloadLanguage.title "Загрузить язык">
+<!ENTITY downloadLanguage.title "Download Language">
 
 <!-- thread pane context menu -->
-<!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: отправить в папку «Входящие»">
+<!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Send to Inbox">
 <!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "i">
 
 <!-- Vertical view sort by context menu -->
-<!ENTITY pbSortAscendingContextMenuItem.label "По возрастанию">
+<!ENTITY pbSortAscendingContextMenuItem.label "Ascending Order">
 <!ENTITY pbSortAscendingContextMenuItem.accesskey "A">
-<!ENTITY pbSortDescendingContextMenuItem.label "По убыванию">
+<!ENTITY pbSortDescendingContextMenuItem.label "Descending Order">
 <!ENTITY pbSortDescendingContextMenuItem.accesskey "D">
 
 <!-- message pane context menu -->
-<!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: отправить в папку «Входящие»">
+<!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Send to Inbox">
 <!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
+<!ENTITY pbMessagePaneContext-evernote.label     "Add to Evernote">
+<!ENTITY pbMessagePaneContext-evernote.accesskey "e">
 
 <!-- status bar -->
-<!ENTITY pbStatusBarOption-newAccount.label "Новая учетная запись…">
+<!ENTITY pbStatusBarOption-newAccount.label "New Account...">
 <!ENTITY pbStatusBarOption-newAccount.accesskey "N">
-<!ENTITY pbStatusBarOption-newGroup.label "Новая группа учетных записей…">
+<!ENTITY pbStatusBarOption-newGroup.label "New Account Group...">
 <!ENTITY pbStatusBarOption-newGroup.accesskey "G">
-<!ENTITY pbStatusBarOption-settings.label "Параметры учетной записи…">
+<!ENTITY pbStatusBarOption-settings.label "Account Settings...">
 <!ENTITY pbStatusBarOption-settings.accesskey "A">
-<!ENTITY pbStatusBarOption-newFolder.label "Новая папка…">
+<!ENTITY pbStatusBarOption-newFolder.label "New Folder...">
 <!ENTITY pbStatusBarOption-newFolder.accesskey "F">
-<!ENTITY pbStatusBarOption-folderProperties.label "Свойства папки…">
+<!ENTITY pbStatusBarOption-folderProperties.label "Folder Properties...">
 <!ENTITY pbStatusBarOption-folderProperties.accesskey "P">
-<!ENTITY pbStatusBarOption-subscribe.label "Подписаться…">
+<!ENTITY pbStatusBarOption-subscribe.label "Subscribe...">
 <!ENTITY pbStatusBarOption-subscribe.accesskey "S">
-<!ENTITY pbStatusBarOption-deleteGroup.label "Удалить группу учетных записей">
+<!ENTITY pbStatusBarOption-deleteGroup.label "Delete Account Group">
 <!ENTITY pbStatusBarOption-deleteGroup.accesskey "D">
 
 <!-- Messages Menu -->
-<!ENTITY pbMoveToFolderAgain.label "Переместить">
+<!ENTITY pbMoveToFolderAgain.label "Quick Move">
 <!ENTITY pbMoveToFolderAgain.accesskey "v">
 
 <!-- Conversation Action context menu -->
-<!ENTITY pbConversationHdrContextMenu-reply.label "Ответить">
+<!ENTITY pbConversationHdrContextMenu-reply.label "Reply">
 <!ENTITY pbConversationHdrContextMenu-reply.accesskey "R">
-<!ENTITY pbConversationHdrContextMenu-replyall.label "Ответить всем">
+<!ENTITY pbConversationHdrContextMenu-replyall.label "Reply All">
 <!ENTITY pbConversationHdrContextMenu-replyall.accesskey "A">
-<!ENTITY pbConversationHdrContextMenu-forward.label "Переслать">
+<!ENTITY pbConversationHdrContextMenu-forward.label "Forward">
 <!ENTITY pbConversationHdrContextMenu-forward.accesskey "F">
-<!ENTITY pbConversationHdrContextMenu-open.label "Открыть">
+<!ENTITY pbConversationHdrContextMenu-open.label "Open">
 <!ENTITY pbConversationHdrContextMenu-open.accesskey "O">
 
 <!-- Help Menu -->
-<!ENTITY pbKeyboardShortCuts.label "Сочетания клавиш">
+<!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">
 <!ENTITY pbKeyboardShortCuts.accesskey "K">
-<!ENTITY guideCmd.label "Краткое руководство по началу работы">
+<!ENTITY guideCmd.label "User Guide">
 <!ENTITY guideCmd.accesskey "r">
 
+<!ENTITY pbFolderPaneSlider.label "Hide">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbContentTextContextMenu-evernote.label       "Добавить в Evernote">
-<!ENTITY fullScreenMode.label "Перейти в полноэкранный режим">
-<!ENTITY pbMessagePaneContext-evernote.label     "Добавить в Evernote">
-<!ENTITY pbContentTextContextMenu-date.accesskey        "d">
-<!ENTITY fullScreenMode.accesskey "l">
-<!ENTITY evernoteButton.tooltip "Добавить в Evernote">
-<!ENTITY pbMessagePaneContext-evernote.accesskey "e">
-<!ENTITY pbContentTextContextMenu-date.label            "Добавить в календарь">
-<!ENTITY pbContentTextContextMenu-evernote.accesskey  "e">
-<!ENTITY evernoteButton.label "Evernote">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY showFavoritesBarCmd.accesskey "v">
-<!ENTITY pbFolderPaneSlider.label "Скрыть">
-<!ENTITY showFavoritesBarCmd.label "Панель избранного">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbFavoritesBarContextMenu-remove.label "Удалить из избранного">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbToolbarButton-runFiltersButton.label "Применить фильтры">
-<!ENTITY pbToolbarButton-runFiltersButton.tooltip "Применить фильтры к текущей папке">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbContentTextContextMenu-postboxSearch.accesskey  "P">
-<!ENTITY pbContentTextContextMenu-postboxSearch.label      "Поиск в Postbox">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbTopicContextMenu-delete.label       "Удалить">
-<!ENTITY pbTopicContextMenu-delete.accesskey   "d">
-<!ENTITY pbTopicContextMenu-assignColor.label  "Установить цвет метки">
-<!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY reminderButton.label "Напоминание">
-<!ENTITY removeReminderButton.tooltip "Пометить выбранные сообщения как НЕ напоминания">
-<!ENTITY reminderButton.tooltip "Пометить выбранные сообщения как напоминания">
-<!ENTITY newReminderMenuitem.label "Создать напоминание">
-<!ENTITY insertImageEditMsgToolbarCmd.tooltip        "Вставить новое изображение или изменить свойства выбранного">
-
-<!ENTITY quickpostButton.label "Быстрое сообщение">
-<!ENTITY quickpostButton.tooltip "Быстрое сообщение">
-
-<!ENTITY pbQuickPostEditor.title "Создать быстрое сообщение">
-<!ENTITY pbQuickPostEditor.name "Имя">
-<!ENTITY pbQuickPostEditor.email "Адрес эл. почты">
-<!ENTITY pbQuickPostEditor.beforeSubject "Перед темой">
-<!ENTITY pbQuickPostEditor.afterSubject "После темы">
-<!ENTITY pbQuickPostEditor.forwardAsAttachment "Отправить как вложение">
-<!ENTITY pbQuickPostEditor.openComposeWindow "Отправить с помощью Compose Window">
-<!ENTITY pbQuickPostEditor.send "Отправка">
-<!ENTITY pbMessagePaneContext-copyMessageLink.label "Copy Message Link">
-<!ENTITY pbMessagePaneContext-copyMessageLink.accesskey "l">
+<!ENTITY pbFavoritesBarContextMenu-remove.label "Remove From Favorites">

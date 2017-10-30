@@ -1,73 +1,58 @@
 <!-- strings used in both the focus pane and the full text search focus pane -->
-<!ENTITY focusPaneFilterByTags.label    "Favoritämnen">
-<!ENTITY focusPaneFilterByTagsMac.label "FAVORITÄMNEN">
-<!ENTITY focusPaneAllTags.label         "Alla">
-<!ENTITY focusPaneNoTags.label          "Inget">
+<!ENTITY focusPaneFilterByTags.label    "Favorite Topics">
+<!ENTITY focusPaneAllTags.label         "All">
+<!ENTITY focusPaneNoTags.label          "None">
 
 <!-- strings used only in the full text search focus pane -->
-<!ENTITY focusPaneSearchScopeTitle.label       "Sök">
-<!ENTITY focusPaneSearchScopeTitleMac.label    "SÖK">
-<!ENTITY focusPaneSearchScopeEverywhere.label  "Alla konto">
-<!ENTITY focusPaneSearchAttribute.label        "Attribut">
-<!ENTITY focusPaneSearchAttributeMac.label     "ATTRIBUT">
-<!ENTITY focusPaneHasAttachmentAttribute.label           "Har bilaga">
-<!ENTITY focusPaneUnreadAttribute.label           "Oläst">
-<!ENTITY focusPaneFilterByDate.label    "Datum">
-<!ENTITY focusPaneFilterByDateMac.label "DATUM">
-<!ENTITY focusPaneAnyDate.label         "Alla datum">
-<!ENTITY focusPaneToday.label           "Idag">
-<!ENTITY focusPaneYesterday.label       "Igår">
-<!ENTITY focusPaneThisWeek.label        "Denna vecka">
-<!ENTITY focusPaneThisMonth.label       "Denna månad">
-<!ENTITY focusPaneFilterByContact.label    "Favoritkontakter">
-<!ENTITY focusPaneFilterByContactMac.label "FAVORITKONTAKTER">
+<!ENTITY focusPaneSearchScopeTitle.label       "Search">
+<!ENTITY focusPaneSearchScopeEverywhere.label  "All Accounts">
+<!ENTITY focusPaneSearchAttribute.label        "Attributes">
+<!ENTITY focusPaneHasAttachmentAttribute.label           "Has Attachment">
+<!ENTITY focusPaneUnreadAttribute.label           "Unread">
+<!ENTITY focusPaneReadAttribute.label           "Read">
+<!ENTITY focusPaneNotRepliedAttribute.label           "Not Replied">
+<!ENTITY focusPaneRepliedAttribute.label           "Replied">
+<!ENTITY focusPanePendingAttribute.label           "Pending">
+<!ENTITY focusPaneNotPendingAttribute.label        "Not Pending">
+<!ENTITY focusPaneToDoAttribute.label              "Reminders">
+<!ENTITY focusPaneNotToDoAttribute.label           "Not Reminders">
+<!ENTITY focusPaneSubscriptionsAttribute.label     "Subscriptions">
+<!ENTITY focusPaneSocialAttribute.label            "Social">
+<!ENTITY focusPaneToMeOnlyAttribute.label          "To Me Only">
+<!ENTITY focusPaneFilterByDate.label    "Date">
+<!ENTITY focusPaneAnyDate.label         "Any Date">
+<!ENTITY focusPaneToday.label           "Today">
+<!ENTITY focusPaneYesterday.label       "Yesterday">
+<!ENTITY focusPaneThisWeek.label        "Past Week">
+<!ENTITY focusPaneThisMonth.label       "Past Month">
+<!ENTITY focusPaneFilterByContact.label    "Favorite Contacts">
 
 <!-- focus pane topics context menus -->
-<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Ändra namn">
+<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Rename">
 <!ENTITY pbFavoriteTopicsContextMenu-edit.accesskey     "n">
-<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Ta bort från favoriter">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Remove From Favorites">
 <!ENTITY pbFavoriteTopicsContextMenu-favorite.accesskey "R">
-<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Radera">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Delete">
 <!ENTITY pbFavoriteTopicsContextMenu-delete.accesskey   "D">
-<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Skapa nytt favoritämne">
+<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Create New Favorite Topic">
 <!ENTITY pbFavoriteTopicsContextMenu-add.accesskey      "C">
-<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Redigera ämnen...">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Edit Topics...">
 <!ENTITY pbFavoriteTopicsContextMenu-editAll.accesskey  "t">
+<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbFavoriteTopicsContextMenu-assignColor.accesskey "S">
+<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.accesskey "N">
 
 <!-- focus pane favorite contacts context menus -->
-<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Ta bort från favoriter">
-<!ENTITY pbFavoriteContactsContactsMenu-delete.accesskey "R">
-<!ENTITY pbFavoriteContactsContextMenu-email.label       "Skriv">
-<!ENTITY pbFavoriteContactsContactsMenu-email.accesskey  "e">
-<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Redigera kontakt...">
-<!ENTITY pbFavoriteContactsContactsMenu-edit.accesskey   "d">
-<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Skapa filter...">
-<!ENTITY pbFavoriteContactsContactsMenu-createfilter.accesskey "C">
-
-<!ENTITY pbFavoriteContacts.DragLabel "Dra hit dina favoritkontakter">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY focusPaneSocialAttribute.label            "Social">
-<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Öppna i ny flik">
-<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.accesskey "N">
-<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.accesskey "N">
-<!ENTITY focusPaneNotToDoAttribute.label           "Inga påminnelser">
-<!ENTITY focusPaneRepliedAttribute.label           "Besvarad">
-<!ENTITY pbFavoriteContactsContextMenu-edit.accesskey   "d">
-<!ENTITY focusPaneToDoAttribute.label              "Påminnelser">
-<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Öppna i ny flik">
-<!ENTITY pbFavoriteContactsContextMenu-createfilter.accesskey "F">
-<!ENTITY pbFavoriteTopicsContextMenu-assignColor.accesskey "S">
-<!ENTITY focusPaneNotRepliedAttribute.label           "Obesvarad">
-<!ENTITY focusPaneNotPendingAttribute.label        "Inte väntande">
+<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Remove From Favorites">
 <!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
-<!ENTITY focusPaneSubscriptionsAttribute.label     "Prenumerationer">
-<!ENTITY focusPanePendingAttribute.label           "Väntande">
-<!ENTITY focusPaneToMeOnlyAttribute.label          "Endast till mig">
-<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Ställ in ämnesfärg">
-<!ENTITY focusPaneReadAttribute.label           "Läs">
+<!ENTITY pbFavoriteContactsContextMenu-email.label       "Compose">
 <!ENTITY pbFavoriteContactsContextMenu-email.accesskey  "C">
+<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Edit Contact...">
+<!ENTITY pbFavoriteContactsContextMenu-edit.accesskey   "d">
+<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Create Filter...">
+<!ENTITY pbFavoriteContactsContextMenu-createfilter.accesskey "F">
+<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.accesskey "N">
+
+<!ENTITY pbFavoriteContacts.DragLabel "Drag your favorite contacts here">

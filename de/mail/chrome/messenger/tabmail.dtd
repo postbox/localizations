@@ -1,12 +1,20 @@
-<!ENTITY  untitledTab              "(Unbenannt)">
-<!ENTITY  newTab.label             "Neuer Tab">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  untitledTab              "(Untitled)">
+<!ENTITY  newTab.label             "New Tab">
 <!ENTITY  newTab.accesskey         "N">
+
 <!ENTITY  closeTab.label           "Tab schließen">
 <!ENTITY  closeTab.accesskey       "c">
-<!ENTITY  closeOtherTabs.accesskey "A">
-<!ENTITY  closeOtherTabs.label     "Andere Tabs schließen">
-<!ENTITY  reloadAllTabs.label      "Alle Tabs neu laden">
+<!ENTITY  closeOtherTabs.accesskey "o">
+<!ENTITY  closeOtherTabs.label     "Close Other Tabs">
+<!ENTITY  reloadAllTabs.label      "Reload All Tabs">
 <!ENTITY  reloadAllTabs.accesskey  "A">
-<!ENTITY  reloadTab.label          "Tab neu laden">
-<!ENTITY  reloadTab.accesskey      "T">
+<!ENTITY  reloadTab.label          "Reload Tab">
+<!ENTITY  reloadTab.accesskey      "r">
 <!ENTITY  listAllTabs.label        "Alle Tabs auflisten">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Startseite">

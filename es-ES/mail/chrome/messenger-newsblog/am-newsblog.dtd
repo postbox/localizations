@@ -1,6 +1,10 @@
-<!ENTITY newsblogTitle.label "Ajustes de cuenta RSS">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY indexMsgBodies.label "Indexar cuerpos de mensajes">
+<!ENTITY accountTitle.label "RSS Settings">
+
+<!ENTITY indexMsgBodies.label "Index message bodies">
 <!ENTITY indexMsgBodies.accesskey "I">
 
 <!ENTITY biffStart.label "Buscar mensajes nuevos cada ">
@@ -16,7 +20,10 @@
 <!ENTITY manageSubscriptions.label "Administrar suscripciones…"> 
 <!ENTITY manageSubscriptions.accesskey "A">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Noticias y Blogs">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "Noticias RSS y Blogs">
+<!ENTITY feedWindowTitle.label "Asistente de cuenta de canales web">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Canales de Blogs y Noticias">
+<!ENTITY feeds.wizardShortName "Canales">
+<!ENTITY feeds.wizardLongName "Canales de Blogs y Noticias">
+<!ENTITY feeds.wizardLongName.accesskey "N">

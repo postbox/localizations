@@ -1,23 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY migrationWizard.title          "Welcome to &brandShortName;">
 
-<!ENTITY importFromUnix.label           "Import Preferences, Account Settings, Address Book and other data from:">
+<!ENTITY importFromWin.label            "Import Options, Account Settings, Address Book, Filters and other data from:">
+<!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
+<!ENTITY importSourceNotFound.label     "No application to import data from found.">
 
 <!ENTITY cleanInstall.label             "Clean install (recommended)">
 <!ENTITY cleanInstall.accesskey  	"C">
 
+<!ENTITY importFromNothing.label        "Don't import anything">
+<!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromThunderbird.label    "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
-<!ENTITY importFromSeamonkey2.label     "SeaMonkey, Netscape 6, 7, or Mozilla 1.x">
-<!ENTITY importFromSeamonkey2.accesskey "S">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 or later">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook (Experimental)">
 <!ENTITY importFromOutlook.accesskey    "O">
-<!ENTITY importFromEudora.label         "Eudora">
-<!ENTITY importFromEudora.accesskey     "E">
-<!ENTITY importFromNothing.label        "Don't import anything">
-<!ENTITY importFromNothing.accesskey    "D">
 
 <!ENTITY welcome.title                  "Welcome to &brandShortName;">
 <!ENTITY tagline.label                  "A Better Way To Do Email">
@@ -33,8 +37,8 @@
 <!ENTITY importItems.title              "Items to Import">
 <!ENTITY importItems.label              "Select which items to import:">
 
-<!ENTITY migrating.title                "Importing...">
-<!ENTITY migrating.label                "The following items are currently being imported...">
+<!ENTITY migrating.title                "Importing…">
+<!ENTITY migrating.label                "The following items are currently being imported…">
 
 <!ENTITY selectProfile.title            "Select Profile">
 <!ENTITY selectProfile.label            "The following profiles are available to import from:">

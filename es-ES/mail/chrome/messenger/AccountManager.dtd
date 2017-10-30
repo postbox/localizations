@@ -1,17 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
 
 <!ENTITY accountManagerTitle.label "Configuración de la cuenta">
 
-<!ENTITY accountActionsButton.label "Acciones de cuenta">
-<!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Añadir cuenta de correo...">
+<!ENTITY accountActionsButton.label "Operaciones sobre la cuenta">
+<!ENTITY accountActionsButton.accesskey "O">
+<!ENTITY addMailAccountButton.label "Añadir cuenta de correo…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addOtherAccountButton.label "Añadir otra cuenta...">
-<!ENTITY addOtherAccountButton.accesskey "o">
+<!ENTITY addFeedAccountButton.label "Añadir cuenta de canales web…">
+<!ENTITY addFeedAccountButton.accesskey "w">
+<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Definir como predeterminada">
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Eliminar cuenta">
-<!ENTITY removeButton.accesskey "r">
+<!ENTITY removeButton.accesskey "R">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
@@ -22,7 +28,7 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY accountManager.size "width: 114ch; height: 50em;">
+<!ENTITY pbAccountManager.height "height: 42em;">
 
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
@@ -32,28 +38,10 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY macAccountManager.size "width: 106ch; height: 50em;">
-<!ENTITY accountTree.width "width: 31ch;">
-
-
-<!--
-# entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbAccountRemoveActionsButton.label "Quitar">
-<!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Añadir…">
-<!ENTITY pbAccountTree.width "width: 25ch;">
-<!ENTITY pbAccountRemoveActionsButton.accesskey "R">
 <!ENTITY pbMacAccountManager.height "height: 45em;">
-<!ENTITY pbAccountManager.height "height: 42em;">
+<!ENTITY pbAccountTree.width "width: 25ch;">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addRSSAccountButton.label "Añadir cuenta RSS …">
-<!ENTITY addNewsgroupAccountButton.accesskey "N">
-<!ENTITY addNewsgroupAccountButton.label "Añadir cuenta de grupo de noticias…">
+<!ENTITY pbAccountAddActionsButton.accesskey "A">
+<!ENTITY pbAccountAddActionsButton.label "Add…">
+<!ENTITY pbAccountRemoveActionsButton.label "Remove">
+<!ENTITY pbAccountRemoveActionsButton.accesskey "R">

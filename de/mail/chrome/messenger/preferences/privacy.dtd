@@ -1,41 +1,38 @@
-<!-- Junk Mail Controls -->
-<!ENTITY manualMark.label "Wenn Nachrichten als Junk markiert werden:">
-<!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Verschiebe sie in den Junk-Ordner des Kontos">
-<!ENTITY manualMarkModeMove.accesskey "O">
-<!ENTITY manualMarkModeDelete.label "Lösche sie">
-<!ENTITY manualMarkModeDelete.accesskey "L">
-<!ENTITY markAsReadOnSpam.label "Markiere als Junk definierte Nachrichten als gelesen">
-<!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Junk-Protokoll aktivieren">
-<!ENTITY enableJunkLogging.accesskey "J">
-<!ENTITY openJunkLog.label "Zeige Protokoll">
-<!ENTITY openJunkLog.accesskey "Z">
-<!ENTITY resetTrainingData.label "Setze Trainingsdaten zurück">
-<!ENTITY resetTrainingData.accesskey "d">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "E-Mail-Inhalte">
 
-<!-- Phishing Detector -->
-<!ENTITY enablePhishingDetector1.label    "Betrugserkennung">
-<!ENTITY enablePhishingDetector1.accesskey "B">
+<!ENTITY acceptRemoteContent.label "Externe Inhalte in Nachrichten erlauben">
+<!ENTITY acceptRemoteContent.accesskey "x">
+<!ENTITY remoteContentExceptions.label "Ausnahmen…">
+<!ENTITY remoteContentExceptions.accesskey "u">
+<!ENTITY acceptRemoteContentInfo.label "Erfahren Sie mehr über die Datenschutzaspekte externer Inhalte">
 
-<!-- Passwords -->
-<!ENTITY useMasterPassword.label              "Ein Master-Passwort benutzen">
-<!ENTITY useMasterPassword.accesskey          "s">
-<!ENTITY changeMasterPassword.label           "Master-Passwort ändern...">
-<!ENTITY changeMasterPassword.accesskey       "M">
-<!ENTITY savedPasswords.label                 "Gespeicherte Passwörter...">
-<!ENTITY savedPasswords.accesskey             "s">
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Webinhalte">
 
-<!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics2.label      "Helfen Sie mit bei der Verbesserung von &brandShortName;, indem Sie anonyme Statistiken zur Benutzung übertragen.">
-<!ENTITY enableAnonymousStatistics.accesskey   "H">
+<!ENTITY keepHistory.label "Besuchte Webseiten und Links merken">
+<!ENTITY keepHistory.accesskey "W">
+<!ENTITY acceptCookies.label "Cookies von Webseiten akzeptieren">
+<!ENTITY acceptCookies.accesskey "C">
+<!ENTITY acceptThirdParty.pre.label "Cookies von Drittanbietern akzeptieren:">
+<!ENTITY acceptThirdParty.pre.accesskey "k">
+<!ENTITY acceptThirdParty.always.label "Immer">
+<!ENTITY acceptThirdParty.never.label "Nie">
+<!ENTITY acceptThirdParty.visited.label "Nur von besuchten Drittanbietern">
+<!ENTITY keepUntil.label "Behalten, bis:">
+<!ENTITY keepUntil.accesskey "B">
+<!ENTITY expire.label "sie nicht mehr gültig sind">
+<!ENTITY close.label "&brandShortName; geschlossen wird">
+<!ENTITY askEachTime.label "jedes Mal nachfragen">
+<!ENTITY cookieExceptions.label "Ausnahmen…">
+<!ENTITY cookieExceptions.accesskey "A">
+<!ENTITY showCookies.label "Cookies anzeigen…">
+<!ENTITY showCookies.accesskey "o">
 
-<!-- Remote images -->
-<!ENTITY disableImageInMailNews.label  "Nachladen externer Bilder in E-Mail-Nachrichten blockieren">
-<!ENTITY disableImageInMailNews.accesskey "r">
-
-<!ENTITY pbPrivacy.label "Privatsphäre:">
-<!ENTITY pbJunkMail.label "Spam:">
-<!ENTITY pbPasswords.label "Passwörter:">
-<!ENTITY pbJunkMail.intro "Hinweis: Kontospezifische Einstellungen zur Behandlung von Spam-Nachrichten können in den Kontoeinstellungen getätigt werden.">
+<!ENTITY dntTrackingNotOkay.label2 "Websites mitteilen, meine Aktivitäten nicht zu verfolgen">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY doNotTrackInfo.label "Weitere Informationen über Do Not Track">

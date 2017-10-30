@@ -1,75 +1,58 @@
-<!-- these things need to move into utilityOverlay.xul -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-<!ENTITY fileMenu.label          "Arkiv">
-<!ENTITY fileMenu.accesskey        "A">
-<!ENTITY newMenu.label            "Nytt">
-<!ENTITY newMenu.accesskey          "N">
+<!ENTITY fileMenu.label                "Arkiv">
+<!ENTITY fileMenu.accesskey            "A">
+<!ENTITY newMenu.label                 "Nytt">
+<!ENTITY newMenu.accesskey             "N">
 
-<!ENTITY editMenu.label          "Redigera">
-<!ENTITY editMenu.accesskey        "R">
-<!ENTITY undoCmd.label            "Ångra">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "n">
-<!ENTITY redoCmd.label            "Gör om">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "G">
-<!ENTITY cutCmd.label            "Klipp ut">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "K">
-<!ENTITY copyCmd.label            "Kopiera">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "o">
-<!ENTITY pasteCmd.label            "Klistra in">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "l">
-<!ENTITY deleteCmd.label          "Ta bort">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "T">
-<!ENTITY selectAllCmd.label          "Markera allt">
-<!ENTITY selectAllCmd.key          "A">
+<!ENTITY editMenu.label                "Redigera">
+<!ENTITY editMenu.accesskey            "R">
+<!ENTITY undoCmd.label                 "Ångra">
+<!ENTITY undoCmd.key                   "Z">
+<!ENTITY undoCmd.accesskey             "Å">
+<!ENTITY redoCmd.label                 "Gör om">
+<!ENTITY redoCmd.key                   "Y">
+<!ENTITY redoCmd.accesskey             "G">
+<!ENTITY cutCmd.label                  "Klipp ut">
+<!ENTITY cutCmd.key                    "X">
+<!ENTITY cutCmd.accesskey              "K">
+<!ENTITY copyCmd.label                 "Kopiera">
+<!ENTITY copyCmd.key                   "C">
+<!ENTITY copyCmd.accesskey             "o">
+<!ENTITY pasteCmd.label                "Klistra in">
+<!ENTITY pasteCmd.key                  "V">
+<!ENTITY pasteCmd.accesskey            "l">
+<!ENTITY deleteCmd.label               "Ta bort">
+<!ENTITY deleteCmd.accesskey           "T">
+<!ENTITY selectAllCmd.label            "Markera allt">
+<!ENTITY selectAllCmd.key              "A">
 <!ENTITY selectAllCmd.accesskey        "M">
-<!ENTITY preferencesCmd.label        "Inställningar…">
-<!ENTITY preferencesCmd.accesskey      "I">
-<!ENTITY preferencesCmdUnix.label       "Inställningar">
-<!ENTITY preferencesCmdUnix.accesskey     "I">
+<!ENTITY preferencesCmd2.label 		   "Alternativ">
+<!ENTITY preferencesCmd2.accesskey 	   "e">
+<!ENTITY preferencesCmdUnix.label      "Inställningar">
+<!ENTITY preferencesCmdUnix.accesskey  "I">
 
-<!ENTITY findTypeTextCmd.label "Hitta text medan du skriver">
-<!ENTITY findTypeTextCmd.accesskey "x">
-
-<!ENTITY viewMenu.label          "Visa">
-<!ENTITY viewMenu.accesskey        "s">
+<!ENTITY viewMenu.label                "Visa">
+<!ENTITY viewMenu.accesskey            "s">
 <!ENTITY viewToolbarsMenu.label        "Verktygsfält">
-<!ENTITY viewToolbarsMenu.accesskey      "V">
+<!ENTITY viewToolbarsMenu.accesskey    "V">
 <!ENTITY showTaskbarCmd.label          "Statusfält">
-<!ENTITY showTaskbarCmd.accesskey        "S">
-
-<!ENTITY direct.label                                   "Online (proxy: ingen)">
-<!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "Online (proxy: manuell)">
-<!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "Online (proxy: auto)">
-<!ENTITY pac.accesskey                                  "a">
-
-<!ENTITY proxy.label                                    "Proxykonfiguration…">
-<!ENTITY proxy.accesskey                                "P">
-
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "'">
+<!ENTITY showTaskbarCmd.accesskey      "S">
 
 <!ENTITY closeCmd.label      "Stäng">
-<!ENTITY closeCmd.key      "W">
-<!ENTITY closeCmd.accesskey    "S">
+<!ENTITY closeCmd.key        "W">
+<!ENTITY closeCmd.accesskey  "ä">
 
-<!ENTITY closeWindow.label "Stäng Fönster">
-
-<!ENTITY quitApplicationCmd.label  "Avsluta">
-<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.label      "Avsluta">
+<!ENTITY quitApplicationCmd.key        "Q">
 <!ENTITY quitApplicationCmd.accesskey  "A">
 
-<!ENTITY quitApplicationCmdUnix.label  "Avsluta">
+<!ENTITY quitApplicationCmdUnix.label      "Avsluta">
 <!ENTITY quitApplicationCmdUnix.accesskey  "A">
 
-<!ENTITY quitApplicationCmdMac.label  "Avsluta &brandShortName;">
+<!ENTITY quitApplicationCmdMac.label      "Avsluta &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "A">

@@ -1,17 +1,17 @@
-<!ENTITY releaseNotes.label "Versionsinfo:">
-<!ENTITY cancelButton.label "Ångra">
-<!ENTITY installUpdateButton.label "Installera uppdatering">
-<!ENTITY newVersion.label "En ny version av Postbox är tillgänglig!">
+<!ENTITY releaseNotes.label "Release Notes:">
+<!ENTITY cancelButton.label "Cancel">
+<!ENTITY installUpdateButton.label "Install Update">
+<!ENTITY newVersion.label "A new version of Postbox is available!">
 
-<!ENTITY updatingPostbox.label "Uppdaterar Postbox">
-<!ENTITY downloading.label "Hämtar uppdatering...">
+<!ENTITY updatingPostbox.label "Updating Postbox">
+<!ENTITY downloading.label "Downloading update...">
 
-<!ENTITY errorTitle.label "Fel">
-<!ENTITY errorProse.description "Ett fel inträffade vid uppdateringen. Hämta och installera den senaste versionen av Postbox från vår hemsida.">
-<!ENTITY continueButton.label "Fortsätt">
+<!ENTITY errorTitle.label "Error">
+<!ENTITY errorProse.description "An error occured during the update. Please download and install the latest version of Postbox from our website.">
+<!ENTITY continueButton.label "Continue">
 
-<!ENTITY ready.label "Färdig att installera">
-<!ENTITY installButton.label "Installera och starta om">
+<!ENTITY ready.label "Ready to Install">
+<!ENTITY installButton.label "Install and Relaunch">
 
 <!ENTITY okButton.label "OK">
-<!ENTITY upToDateTitle.label "Du kör den senaste versionen!">
+<!ENTITY upToDateTitle.label "You're up-to-date!">

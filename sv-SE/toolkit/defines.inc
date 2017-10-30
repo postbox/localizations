@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Svenska (SE)
+#define MOZ_LANG_TITLE English (US)

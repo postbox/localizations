@@ -5,6 +5,8 @@
 <!ENTITY dataPaneEvent.label          "Events">
 <!ENTITY dataPaneURL.label            "Links">
 <!ENTITY dataPaneAddresses.label      "Addresses">
+<!ENTITY dataPaneSocial.label         "Social">
+<!ENTITY dataPaneShipping.label       "Track Packages">
 
 <!-- data pane attachment popup -->
 <!-- XX Localisation note: Do not translate service names -->
@@ -17,40 +19,39 @@
 <!ENTITY dataPaneContext.uploadToGoogleDocs.accesskey "G">
 <!ENTITY dataPaneContext.openAttachment.label         "Open">
 <!ENTITY dataPaneContext.openAttachment.accesskey     "O">
-<!ENTITY dataPaneContext.saveAsAttachment.label       "Save As...">
+<!ENTITY dataPaneContext.saveAsAttachment.label       "Save...">
 <!ENTITY dataPaneContext.saveAsAttachment.accesskey   "a">
-<!ENTITY dataPaneContext.quickLookAttachmentMac.label     "Quick Look...">
+<!ENTITY dataPaneContext.quickLookAttachmentMac.label     "Quick Look">
 <!ENTITY dataPaneContext.quickLookAttachmentMac.accesskey "Q">
-<!ENTITY dataPaneContext.quickLookAttachment.label    "Preview...">
+<!ENTITY dataPaneContext.quickLookAttachment.label    "Preview">
 <!ENTITY dataPaneContext.quickLookAttachment.accesskey "r">
-<!ENTITY dataPaneContext.detachAttachment.label       "Detach…">
+<!ENTITY dataPaneContext.detachAttachment.label       "Detach...">
 <!ENTITY dataPaneContext.deleteAttachment.label       "Delete">
 <!ENTITY dataPaneContext.saveAll.label                "Save All...">
 <!ENTITY dataPaneContext.saveAll.accesskey           "v">
-<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Add to iPhoto">
+<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Add to Photos">
 <!ENTITY dataPaneContext.systemPhotoImportMac.accesskey  "i">
 
 <!-- contact panel -->
-<!ENTITY contactPanel-name.label  "name:">
-<!ENTITY contactPanel-title.label "title:">
-<!ENTITY contactPanel-company.label  "company:">
+<!ENTITY contactPanel-name.label  "name">
+<!ENTITY contactPanel-title.label "title">
+<!ENTITY contactPanel-company.label  "company">
 
-<!ENTITY contactPanel-phone.label "phone:">
+<!ENTITY contactPanel-phone.label "phone">
 <!ENTITY contactPanel-work.label "(work)">
 <!ENTITY contactPanel-home.label "(home)">
 <!ENTITY contactPanel-mobile.label "(mobile)">
 
-<!ENTITY contactPanel-email.label "email:">
-<!ENTITY contactPanel-homeAddress.label "home:">
-<!ENTITY contactPanel-workAddress.label "work:">
-<!ENTITY contactPanel-onlineStatus.label "IM:">
-<!ENTITY contactPanel-facebook.label     "Facebook:">
-<!ENTITY contactPanel-twitter.label      "twitter:">
+<!ENTITY contactPanel-email.label "email">
+<!ENTITY contactPanel-homeAddress.label "home">
+<!ENTITY contactPanel-workAddress.label "work">
+<!ENTITY contactPanel-onlineStatus.label "IM">
+<!ENTITY contactPanel-twitter.label      "twitter">
 
-<!ENTITY contactPanel-favorite.label     "favorite:">
+<!ENTITY contactPanel-favorite.label     "favorite">
 <!ENTITY contactPanel-favorite-checkbox.label "make this contact a favorite">
-<!ENTITY contactPanel-actions.label "actions:">
-<!ENTITY contactPanel-find.label    "find recent:">
+<!ENTITY contactPanel-actions.label "actions">
+<!ENTITY contactPanel-find.label    "find recent">
 <!ENTITY contactPanel-findMessages.label "messages">
 <!ENTITY contactPanel-findDocuments.label "attachments">
 <!ENTITY contactPanel-findImages.label "images">
@@ -67,11 +68,3 @@
 <!ENTITY dataPaneContext.searchGoogleMaps.accesskey     "G">
 <!ENTITY dataPaneContext.searchYahooMaps.label          "Map to Yahoo!">
 <!ENTITY dataPaneContext.searchYahooMaps.accesskey      "Y">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY dataPaneSocial.label         "Social">
-<!ENTITY dataPaneShipping.label       "Track Packages">

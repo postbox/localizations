@@ -1,15 +1,10 @@
-<!ENTITY editTagPanel.title             "Argomenti preferiti:">
-<!ENTITY editTagPanelAssignTopic.label  "Assegna discussione">
-<!ENTITY editTagPanelMakeFavorite.label "Rendi questo argomento preferito">
-<!ENTITY editTagPanelAddTopic.label     "Ok">
+<!ENTITY editTagPanel.title             "Favorite Topics:">
+<!ENTITY editTagPanelAssignTopic.label  "Assign Topic">
+<!ENTITY editTagPanelMakeFavorite.label "Make this topic a favorite">
+<!ENTITY editTagPanelAddTopic.label     "OK">
 <!ENTITY showTopicsCmd.key              "t">
 <!ENTITY tagPanel.width                 "600">
-<!ENTITY tagpanel.expanderDown.tooltip  "Mostra argomenti preferiti">
-<!ENTITY tagpanel.expanderUp.tooltip    "Nascondi argomenti preferiti">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
+<!ENTITY tagpanel.expanderDown.tooltip  "Show favorite topics">
+<!ENTITY tagpanel.expanderUp.tooltip    "Hide favorite topics">
 
 <!ENTITY showLabelCmd.key              "l">

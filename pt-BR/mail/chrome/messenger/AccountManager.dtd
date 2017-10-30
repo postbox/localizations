@@ -1,19 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
 
 <!ENTITY accountManagerTitle.label "Configurar contas">
 
-<!ENTITY accountActionsButton.label "Ações da conta">
+<!ENTITY accountActionsButton.label "Ações de contas">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Adicionar conta de e-mail…">
-<!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addRSSAccountButton.label "Adicionar conta RSS…">
-<!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Adicionar conta de Grupo de Notícias…">
+<!ENTITY addMailAccountButton.label "Nova conta de e-mail…">
+<!ENTITY addMailAccountButton.accesskey "N">
+<!ENTITY addFeedAccountButton.label "Nova conta RSS…">
+<!ENTITY addFeedAccountButton.accesskey "R">
+<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Definir como conta padrão">
 <!ENTITY setDefaultButton.accesskey "D">
-<!ENTITY removeButton.label "Excluir conta…">
-<!ENTITY removeButton.accesskey "x">
+<!ENTITY removeButton.label "Remover conta">
+<!ENTITY removeButton.accesskey "R">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
@@ -38,6 +42,6 @@
 <!ENTITY pbAccountTree.width "width: 25ch;">
 
 <!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Adicionar…">
-<!ENTITY pbAccountRemoveActionsButton.label "Remover">
+<!ENTITY pbAccountAddActionsButton.label "Add…">
+<!ENTITY pbAccountRemoveActionsButton.label "Remove">
 <!ENTITY pbAccountRemoveActionsButton.accesskey "R">

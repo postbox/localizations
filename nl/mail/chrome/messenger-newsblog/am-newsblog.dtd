@@ -1,6 +1,10 @@
-<!ENTITY newsblogTitle.label "RSS Gebruikers instellingen">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY indexMsgBodies.label "Indexeer berichttext">
+<!ENTITY accountTitle.label "RSS Settings">
+
+<!ENTITY indexMsgBodies.label "Index message bodies">
 <!ENTITY indexMsgBodies.accesskey "I">
 
 <!ENTITY biffStart.label "Op nieuwe artikelen controleren na elke">
@@ -8,15 +12,18 @@
 <!ENTITY biffEnd.label "minuten">
 
 <!ENTITY loginAtStartup.label "Op nieuwe artikelen controleren bij opstarten"> 
-<!ENTITY loginAtStartup.accesskey "O">
+<!ENTITY loginAtStartup.accesskey "t">
 
 <!ENTITY useQuickMode.label "Standaard de artikelsamenvatting weergeven i.p.v. de webpagina laden"> 
 <!ENTITY useQuickMode.accesskey "S">
 
 <!ENTITY manageSubscriptions.label "Abonnementen beheren…"> 
-<!ENTITY manageSubscriptions.accesskey "b">
+<!ENTITY manageSubscriptions.accesskey "n">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Nieuws &amp; Blogs">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "RSS Nieuws &amp; Blogs">
+<!ENTITY feedWindowTitle.label "Feedaccountwizard">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Blogs &amp; nieuwsfeeds">
+<!ENTITY feeds.wizardShortName "Feeds">
+<!ENTITY feeds.wizardLongName "Blogs &amp; nieuwsfeeds">
+<!ENTITY feeds.wizardLongName.accesskey "f">

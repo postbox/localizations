@@ -1,14 +1,14 @@
-<!ENTITY mozilla.title
-'Mozillas bok, 11:9'>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY mozilla.quote
-'Mammon sov. Och det <em>återfödda djuret</em> förökade sig på jorden i
-oräkneligt antal. De förebådade framtiden, och med <em>rävens listighet</em>
-offrade de skörd på <em>elden</em>. Och de byggde en ny värld till sin avbild
-såsom utlovats i den <em><a href="http://www.mozilla.org/about/mozilla-manifesto.html">
-heliga skrift</a></em>, samt <em><a href="http://wiki.mozilla.org/About:mozilla">vittnade
-</a></em> om djuret för sina barn. Mammon vaknade, och se! det var nu <em>blott</em>
-en efterföljare.'>
+<!ENTITY mozilla.title.15.1
+'The Book of Mozilla, 15:1'>
 
-<!ENTITY mozilla.from
-'från <strong>Mozillas bok</strong> 11:9<br/><small>(tionde upplagan)</small>'>
+<!ENTITY mozilla.quote.15.1
+'The <em>twins</em> of Mammon quarrelled. Their warring plunged the world into a <em>new darkness</em>, and the beast 
+abhorred the darkness. So it began to move <em>swiftly</em>, and grew more powerful, and went forth and multiplied. 
+And the beasts brought <em>fire</em> and light to the darkness.'>
+
+<!ENTITY mozilla.from.15.1
+'from <strong>The Book of Mozilla,</strong> 15:1'>

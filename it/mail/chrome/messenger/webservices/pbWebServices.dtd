@@ -1,4 +1,4 @@
 <!-- Web services Prefs panel (binding) -->
-<!ENTITY webservice.login.label         "accedi">
-<!ENTITY webservice.logout.label        "esci">
-<!ENTITY webservice.account.label       "crea account">
+<!ENTITY webservice.login.label         "log in">
+<!ENTITY webservice.logout.label        "log out">
+<!ENTITY webservice.account.label       "create account">

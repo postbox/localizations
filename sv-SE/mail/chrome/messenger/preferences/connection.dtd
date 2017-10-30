@@ -1,11 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  connectionsDialog.title       "Anslutningsinställningar">
-<!ENTITY  window.width                   "39.5em">
 
 <!ENTITY  proxyTitle.label              "Ange proxy för anslutning till Internet">
 <!ENTITY  noProxyTypeRadio.label        "Ingen proxy">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  noProxyTypeRadio.accesskey    "I">
 <!ENTITY  systemTypeRadio.label         "Använd systemets proxyinställningar">
-<!ENTITY  systemTypeRadio.accesskey     "U">
+<!ENTITY  systemTypeRadio.accesskey     "d">
 <!ENTITY  WPADTypeRadio.label           "Automatisk identifiering av proxyinställningar">
 <!ENTITY  WPADTypeRadio.accesskey       "e">
 <!ENTITY  manualTypeRadio.label         "Manuell proxykonfiguration:">
@@ -34,4 +37,4 @@
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Exempel: .mozilla.org, .sunet.se, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Använd denna proxy för alla protokoll">
-<!ENTITY  shareproxy.accesskey          "A">
+<!ENTITY  shareproxy.accesskey          "ä">

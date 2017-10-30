@@ -1,41 +1,38 @@
-<!-- Junk Mail Controls -->
-<!ENTITY manualMark.label "Wanneer ik berichten markeer als ongewenst:">
-<!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Verplaats ze naar de map &quot;Ongewenste e-mail&quot; van dit account">
-<!ENTITY manualMarkModeMove.accesskey "O">
-<!ENTITY manualMarkModeDelete.label "Verwijder ze">
-<!ENTITY manualMarkModeDelete.accesskey "V">
-<!ENTITY markAsReadOnSpam.label "Markeer als ongewenst beschouwde berichten als gelezen">
-<!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Zet Ongewenste e-mail logboek aan">
-<!ENTITY enableJunkLogging.accesskey "g">
-<!ENTITY openJunkLog.label "Geef logboek weer">
-<!ENTITY openJunkLog.accesskey "G">
-<!ENTITY resetTrainingData.label "Training data resetten">
-<!ENTITY resetTrainingData.accesskey "d">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "E-mailinhoud">
 
-<!-- Phishing Detector -->
-<!ENTITY enablePhishingDetector1.label    "Blokkeer gerapporteerde aanvals e-mails">
-<!ENTITY enablePhishingDetector1.accesskey "B">
+<!ENTITY acceptRemoteContent.label "Externe inhoud in berichten toestaan">
+<!ENTITY acceptRemoteContent.accesskey "E">
+<!ENTITY remoteContentExceptions.label "Uitzonderingen…">
+<!ENTITY remoteContentExceptions.accesskey "z">
+<!ENTITY acceptRemoteContentInfo.label "Meer info over de privacyproblemen van externe inhoud">
 
-<!-- Passwords -->
-<!ENTITY useMasterPassword.label              "Gebruik een hoofdwachtwoord">
-<!ENTITY useMasterPassword.accesskey          "G">
-<!ENTITY changeMasterPassword.label           "Verander hoofdwachtwoord...">
-<!ENTITY changeMasterPassword.accesskey       "V">
-<!ENTITY savedPasswords.label                 "Opgeslagen wachtwoorden...">
-<!ENTITY savedPasswords.accesskey             "s">
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Webinhoud">
 
-<!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics2.label      "Help mee om &brandShortName; te verbeteren door anoniem gebuiksstatistieken te versturen.">
-<!ENTITY enableAnonymousStatistics.accesskey   "H">
+<!ENTITY keepHistory.label "Websites en koppelingen die ik heb bezocht onthouden">
+<!ENTITY keepHistory.accesskey "W">
+<!ENTITY acceptCookies.label "Cookies van websites accepteren">
+<!ENTITY acceptCookies.accesskey "C">
+<!ENTITY acceptThirdParty.pre.label "Cookies van derden accepteren:">
+<!ENTITY acceptThirdParty.pre.accesskey "o">
+<!ENTITY acceptThirdParty.always.label "Altijd">
+<!ENTITY acceptThirdParty.never.label "Nooit">
+<!ENTITY acceptThirdParty.visited.label "Van bezochte">
+<!ENTITY keepUntil.label "Bewaren totdat:">
+<!ENTITY keepUntil.accesskey "B">
+<!ENTITY expire.label "ze verlopen">
+<!ENTITY close.label "ik &brandShortName; afsluit">
+<!ENTITY askEachTime.label "mij elke keer vragen">
+<!ENTITY cookieExceptions.label "Uitzonderingen…">
+<!ENTITY cookieExceptions.accesskey "U">
+<!ENTITY showCookies.label "Cookies tonen…">
+<!ENTITY showCookies.accesskey "t">
 
-<!-- Remote images -->
-<!ENTITY disableImageInMailNews.label  "Blokkeer het laden van niet-geïntegreerde afbeeldingen in e-mails">
-<!ENTITY disableImageInMailNews.accesskey "r">
-
-<!ENTITY pbPrivacy.label "Privacy:">
-<!ENTITY pbJunkMail.label "Ongewenst:">
-<!ENTITY pbPasswords.label "Wachtwoorden:">
-<!ENTITY pbJunkMail.intro "Let op: Accountspecifieke e-mailinstellingen voor junkmail kunnen worden geconfigureerd in de Accountinstellingen.">
+<!ENTITY dntTrackingNotOkay.label2 "Websites laten weten dat ik niet gevolgd wil worden">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY doNotTrackInfo.label "Meer info over Niet volgen">

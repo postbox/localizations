@@ -1,25 +1,26 @@
 
-<!ENTITY copyrightText          "&#169;2007-2014 Postbox, Inc. e collaboratori. Tutti i diritti riservati. Postbox è sviluppato e curato da Postbox, Inc.">
+<!ENTITY copyrightText          "&#169;2007-2015 Postbox, Inc. and Contributors. All Rights Reserved. Postbox
+                                 is developed and maintained by Postbox, Inc.">
 
 
 <!ENTITY aboutDialog.title          "&brandFullName;">
 
-<!ENTITY productDescription.label    "Realizzato con amore a San Francisco, California.">
+<!ENTITY productDescription.label    "Hand-crafted, and made with love, in San Francisco, California.">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Informazioni sulla licenza">
 
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Informativa sulla privacy">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Controllo aggiornamenti...">
+<!ENTITY update.checkingForUpdates  "Controllo aggiornamenti…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Controllo compatibilità componente aggiuntivo...">
+<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; è aggiornato">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "aggiornamenti disabilitati dal tuo amministratore di sistema">
+<!ENTITY update.adminDisabled       "Aggiornamenti disabilitati dall'amministratore di sistema">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -27,28 +28,24 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Aggiornamento non riuscito. ">
-<!ENTITY update.failed.linkText     "Scarica l'ultima versione">
+<!ENTITY update.failed.linkText     "Scaricare l'ultima versione">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Aggiornamenti disponibili su ">
+<!ENTITY update.manual.start        "Scaricare la ">
 <!ENTITY update.manual.end          "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Download aggiornamento — ">
+<!ENTITY update.downloading.start   "Ricezione aggiornamento — ">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY cmdCloseMac.commandKey "w">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pb.safeMode.label "Esecuzione in Modalità provvisoria">
+<!ENTITY pb.safeMode.label "Running in Safe Mode">

@@ -1,155 +1,132 @@
-<!ENTITY itemGeneral.label                   "Generale">
-<!ENTITY itemAutoComplete.label              "Indirizzi">
-<!ENTITY itemSpellCheck.label                "Ortografia">
-<!ENTITY itemSendFormat.label                "Invia formato">
-<!ENTITY itemSignatures.label                "Firme">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY forwardReply.label                   "Inoltro messaggi">
-<!ENTITY forwardMsg.label                     "Inoltra i messaggi:">
-<!ENTITY forwardMsg.accesskey                 "I">
-<!ENTITY inline.label                         "nel corpo del messaggio">
-<!ENTITY inline.accesskey                     "i">
-<!ENTITY asAttachment.label                   "come allegati">
-<!ENTITY asAttachment.accesskey               "a">
+<!ENTITY itemGeneral.label "Generale">
+<!ENTITY itemAutoComplete.label "Indirizzi">
+<!ENTITY itemTypeCheck.label                 "Typing">
+<!ENTITY itemSendFormat.label                "Send Format">
+<!ENTITY itemSignatures.label                "Signatures">
+<!ENTITY itemCannedResponses.label           "Responses">
 
-<!ENTITY font.label                           "Carattere:">
-<!ENTITY font.accesskey                       "C">
-<!ENTITY fontColor.label                      "Colore del testo:">
-<!ENTITY fontColor.accesskey                  "o">
-<!ENTITY bgColor.label                        "Colore di sfondo:">
-<!ENTITY bgColor.accesskey                    "l">
-<!ENTITY restoreHTMLDefaults.label            "Ripristina predefiniti">
-<!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY dialogCompose.title "Composizione">
 
-<!ENTITY sendingMessagesHeader.label          "Composizione messaggi">
-<!ENTITY spellCheck.label                     "Controlla ortografia prima di inviare">
-<!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "Attiva il controllo ortografico durante la digitazione">
-<!ENTITY spellCheckInline1.accesskey           "A">
-<!ENTITY languagePopup.label                  "Lingua:">
-<!ENTITY languagePopup.accessKey              "L">
-<!ENTITY downloadDictionaries.label           "Scarica altri dizionari">
+<!ENTITY forwardMsg.label "Inoltra i messaggi:">
+<!ENTITY forwardMsg.accesskey "I">
+<!ENTITY inline.label "nel corpo del messaggio">
+<!ENTITY inline.accesskey                     "I">
+<!ENTITY asAttachment.label "come allegati">
+<!ENTITY asAttachment.accesskey               "A">
+<!ENTITY addExtension.label "Aggiungi l'estensione al nome del file">
+<!ENTITY addExtension.accesskey "e">
 
-<!ENTITY autoSave.label                       "Salva automaticamente ogni">
-<!ENTITY autoSave.accesskey                   "v">
-<!ENTITY autoSaveEnd.label                    "minuti">
+<!ENTITY font.label "Carattere:">
+<!ENTITY font.accesskey "c">
+<!ENTITY fontColor.label "Colore del testo:">
+<!ENTITY fontColor.accesskey "o">
+<!ENTITY bgColor.label "Colore di sfondo:">
+<!ENTITY bgColor.accesskey "l">
+<!ENTITY restoreHTMLDefaults.label "Ripristina predefiniti">
+<!ENTITY restoreHTMLDefaults.accesskey "R">
+<!ENTITY defaultToParagraph.label "Usare il formato paragrafo come predefinito al posto del Corpo del Messaggio">
+<!ENTITY defaultToParagraph.accesskey "P">
 
-<!ENTITY emailCollectionPicker.label           "Aggiungi automaticamente l'indirizzo della posta in uscita a:">
-<!ENTITY emailCollectionPicker.accesskey       "A">
-<!ENTITY autocompleteText.label                "Durante la scrittura dell'indirizzo controlla le corrispondenze in:">
-<!ENTITY addressingEnable.label                "Rubriche locali">
-<!ENTITY addressingEnable.accesskey            "u">
-<!ENTITY directories.label                     "Cartella server:">
-<!ENTITY directories.accesskey                 "R">
-<!ENTITY editDirectories.label                 "Modifica cartelle...">
-<!ENTITY editDirectories.accesskey             "M">
-<!ENTITY matchText.label                       "Se è presente una corrispondenza nelle tue rubriche locali:">
-<!ENTITY skipDirectory.label                   "Non cercare nella cartella">
+<!ENTITY spellCheck.label "Controlla ortografia prima di inviare">
+<!ENTITY spellCheck.accesskey "C">
+<!ENTITY spellCheckInline.label "Attiva il controllo ortografico durante la digitazione">
+<!ENTITY spellCheckInline1.accesskey "A">
+<!ENTITY languagePopup.label "Lingua:">
+<!ENTITY languagePopup.accessKey "L">
+<!ENTITY downloadDictionaries.label "Scarica altri dizionari">
 
-<!ENTITY sendOptions.label                     "Opzioni di invio...">
-<!ENTITY sendOptions.accesskey                 "d">
+<!ENTITY autoSave.label "Salvataggio automatico ogni">
+<!ENTITY autoSave.accesskey "v">
+<!ENTITY autoSaveEnd.label "minuti">
 
-<!ENTITY attachmentReminder.label              "Controlla gli allegati mancanti">
-<!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Parole chiave...">
-<!ENTITY attachmentReminderOptions.accesskey   "K">
+<!ENTITY emailCollectionPicker.label "Aggiungi automaticamente l'indirizzo della posta in uscita a:">
+<!ENTITY emailCollectionPicker.accesskey "A">
+<!ENTITY autocompleteText.label "Durante la scrittura dell'indirizzo controlla le corrispondenze in:">
+<!ENTITY addressingEnable.label "Rubriche locali">
+<!ENTITY addressingEnable.accesskey "u">
+<!ENTITY directories.label "Rubrica remota:">
+<!ENTITY directories.accesskey "R">
+<!ENTITY directoriesNone.label "nessuna">
+<!ENTITY editDirectories.label "Modifica cartelle…">
+<!ENTITY editDirectories.accesskey "M">
 
-<!ENTITY replyInDefaultCharset2.label     "Utilizzare la codifica dei caratteri predefinita nelle risposte">
+<!ENTITY contactsSidebarDisplay.label          "Contacts Sidebar displays:">
+<!ENTITY contactsSidebarDisplay.accesskey      "S">
+<!ENTITY recentContacts.label                  "Recent Contacts">
+<!ENTITY recentContacts.accesskey              "n">
+<!ENTITY addressBooks.label                    "Address Books">
+<!ENTITY addressBooks.accesskey                "B">
+
+<!ENTITY sendOptionsDescription.label "Configura la formattazione del testo:">
+<!ENTITY sendOptions.label "Opzioni di invio…">
+<!ENTITY sendOptions.accesskey "d">
+
+<!ENTITY attachmentReminder.label "Controlla allegati mancanti">
+<!ENTITY attachmentReminder.accesskey "m">
+<!ENTITY attachmentReminderOptions.label "Parole chiave…">
+<!ENTITY attachmentReminderOptions.accesskey "P">
+
+<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY composeLanguagesTitle.label            "Codifica dei caratteri:">
+<!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+
+<!ENTITY imageOrientation.label "Image Orientation:">
+<!ENTITY accordingToEXIF.label "Rotate images according to EXIF data">
+<!ENTITY accordingToEXIF.accesskey "o">
 
 <!-- signatures -->
-<!ENTITY addSignatureButton.label       "Nuovo">
+<!ENTITY addSignatureButton.label       "New">
 <!ENTITY addSignatureButton.accesskey   "N">
-<!ENTITY editSignatureButton.label      "Modifica">
+<!ENTITY editSignatureButton.label      "Edit">
 <!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY removeSignatureButton.label    "Elimina">
+<!ENTITY removeSignatureButton.label    "Delete">
 <!ENTITY removeSignatureButton.accesskey "l">
+<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
 
-<!ENTITY pbItemAdvanced.label "Avanzate">
-<!ENTITY pb.quotingConversationsSortOrder.label "Quando riassumi, cita:">
-<!ENTITY pb.quotingConversationsSortOrderOldest.label "Prima i messaggi meno recenti">
-<!ENTITY pb.quotingConversationsSortOrderNewest.label "Prima i messaggi più recenti">
-<!ENTITY pb.QuickReply.label "Risposta rapida predefinita:">
+<!ENTITY pbItemAdvanced.label "Advanced">
+<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
+<!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
+<!ENTITY pb.QuickReply.label "Default Quick Reply to:">
 <!ENTITY pb.QuickReply.accesskey "Q">
-<!ENTITY pb.quickreply.replyall.label "Rispondi a tutti">
+<!ENTITY pb.quickreply.replyall.label "Reply All">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
-<!ENTITY pb.quickreply.reply.label "Rispondi">
+<!ENTITY pb.quickreply.reply.label "Reply">
 <!ENTITY pb.quickreply.reply.accesskey "y">
-<!ENTITY pbNumConversationsToQuote.label "Includi al massimo">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "messaggi quando riassumi o rispondi">
+<!ENTITY pbNumConversationsToQuote.label "Include at most">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing">
+
+<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
+<!ENTITY pbQuoteOnQuickReply.accesskey "m">
 
 <!ENTITY pbDefaultFonSize.label                           "default">
 
-<!ENTITY pbPlaySoundOnSend.label "Riproduci un suono durante l'invio della mail">
+<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
+<!ENTITY pbSendAndArchive.label "Enable send and archive">
+<!ENTITY pbEnableDropbox.label "Send links when attaching files in your cloud folders">
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
+<!ENTITY pbStopwatchGoal.label "Stopwatch">
+<!ENTITY pbWordsGoal.label "Word Count">
+<!ENTITY pbCharactersGoal.label "Character Count">
+<!ENTITY pbAt.label "at">
+<!ENTITY pbMinutes.label "minutes">
+<!ENTITY pbWords.label "words">
+<!ENTITY pbCharacters.label "characters">
 
-<!ENTITY pbSendAndArchive.label "Abilita invia e archivia">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbQuoteOnQuickReply.accesskey "m">
-<!ENTITY pbQuoteOnQuickReply.label "Cita il messaggio nella Risposta rapida">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbEnableDropbox.label "Invia i link quando alleghi file nella tua cartella Dropbox">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY itemCannedResponses.label           "Risposte">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbCharactersGoal.label "Conteggio caratteri">
-<!ENTITY pbStopwatchGoal.label "Cronometro">
-<!ENTITY addSignatureDelimiters.label "Aggiungi un delimitatore sopra la firma">
-<!ENTITY pbSetCompositionGoals.label "Imposta obiettivi di composizione utilizzando">
-<!ENTITY pbWordsGoal.label "Conteggio parole">
-<!ENTITY pbMinutes.label "minuti">
-<!ENTITY pbAt.label "a">
-<!ENTITY sourceView.label "Visualizzazione codice:">
-<!ENTITY pbWords.label "parole">
+<!ENTITY sourceView.label "Code View:">
 <!ENTITY sourceView.accesskey "C">
-<!ENTITY pbCharacters.label "caratteri">
 
-<!ENTITY pbURLAutoComplete.label "Abilita autocompletamento URL">
+<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY messageSizeWarning.label "Avvisami se le dimensioni del messaggio superano">
+<!ENTITY messageSizeWarning.label "Warn me if the message size is above">
 <!ENTITY megabytes.label "MB">
 
-<!ENTITY imageOrientation.label "Orientamento immagine:">
-<!ENTITY accordingToEXIF.label "Ruota immagini in base ai dati EXIF">
-<!ENTITY accordingToEXIF.accesskey "o">
-<!ENTITY contactsSidebarDisplay.label          "Barra laterale:">
-<!ENTITY contactsSidebarDisplay.accesskey      "S">
-<!ENTITY recentContacts.label                  "Contatti recenti">
-<!ENTITY recentContacts.accesskey              "n">
-<!ENTITY addressBooks.label                    "Rubrica">
-<!ENTITY addressBooks.accesskey                "B">
-
-<!ENTITY itemTypeCheck.label                 "Digitazione">
-<!ENTITY intlKeysPanel.label "Internazionale Pannello inserimento caratteri">
-<!ENTITY emojiShortcuts.label "Emoji Scorciatoie">
+<!ENTITY intlKeysPanel.label "International Characters panel">
+<!ENTITY emojiShortcuts.label "Emoji shortcuts">

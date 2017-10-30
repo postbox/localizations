@@ -1,20 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "Säkerhet">
+<!ENTITY securityTab.label "Säkerhet">
 <!ENTITY securityHeading.label "För att kunna skicka och ta emot signerade eller krypterade meddelanden bör du ange både ett signeringscertifikat och ett krypteringscertifikat.">
 <!ENTITY encryptionGroupTitle.label "Kryptering">
 <!ENTITY encryptionChoiceLabel.label "Standardinställning för utgående meddelanden:">
 <!ENTITY neverEncrypt.label "Kryptera aldrig">
+<!ENTITY neverEncrypt.accesskey "d">
 <!ENTITY alwaysEncryptMessage.label "Kryptera alltid (Alla mottagare måste då ha varsitt certifikat)">
+<!ENTITY alwaysEncryptMessage.accesskey "K">
 <!ENTITY encryptionCert.message "Använd följande personliga certifikat:">
-<!ENTITY encryptionCert.notselected "Inga valda certifikat">
-<!ENTITY certificate.button "Välj…">
-<!ENTITY certificate_clear.button "Rensa">
+<!ENTITY digitalSign.certificate.button "Välj…">
+<!ENTITY digitalSign.certificate.accesskey "ä">
+<!ENTITY digitalSign.certificate_clear.button "Rensa">
+<!ENTITY digitalSign.certificate_clear.accesskey "R">
+<!ENTITY encryption.certificate.button "Välj…">
+<!ENTITY encryption.certificate.accesskey "l">
+<!ENTITY encryption.certificate_clear.button "Rensa">
+<!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digital signering">
 <!ENTITY signMessage.label "Signera alla meddelanden">
+<!ENTITY signMessage.accesskey "m">
 <!ENTITY signingCert.message "Använd följande personliga certifikat:">
-<!ENTITY signingCert.notselected "Inget valt certifikat">
 
-<!ENTITY certificates.label     "Certifikat">
-<!ENTITY managecerts.label      "Kolla certifikat">
-<!ENTITY managecerts.accesskey  "V">
-<!ENTITY managedevices.label    "Säkerhetsenheter">
-<!ENTITY managedevices.accesskey "S">
+<!ENTITY certificates.label "Certifikat">
+<!ENTITY manageCerts2.label "Hantera certifikat">
+<!ENTITY manageCerts2.accesskey "H">
+<!ENTITY manageDevices.label "Säkerhetsenheter">
+<!ENTITY manageDevices.accesskey "S">
+
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Välj certifikat">
+<!ENTITY certPicker.info  "Certifikat:">
+<!ENTITY certPicker.detailsLabel "Detaljer för valt certifikat:">

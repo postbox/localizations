@@ -1,14 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  fontsAndEncodingsDialog.title           "Lettertypen &amp; tekensets">
-<!ENTITY  window.width                            "42em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Lettertypen voor:">
 <!ENTITY  language.accesskey                      "L">
 
 <!ENTITY  size.label                              "Grootte:">
-<!ENTITY  proportionalSize.accesskey              "G">
-<!ENTITY  sizeMono.accesskey                      "i">
+<!ENTITY  sizeProportional.accesskey              "G">
+<!ENTITY  sizeMonospace.accesskey                 "o">
 
 <!ENTITY  proportional.label                      "Proportioneel:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -17,22 +18,20 @@
 <!ENTITY  serif.accesskey                         "s">
 <!ENTITY  sans-serif.label                        "Schreefloos:">
 <!ENTITY  sans-serif.accesskey                    "c">
-<!ENTITY  monospace.label                         "Vaste breedte:">
-<!ENTITY  monospace.accesskey                     "V">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "M">
 
-<!ENTITY  font.langGroup.latin1                   "Westers">
-<!ENTITY  font.langGroup.latin2                   "Centraal-Europees">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latijns">
 <!ENTITY  font.langGroup.japanese                 "Japans">
 <!ENTITY  font.langGroup.trad-chinese             "Traditioneel Chinees (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Vereenvoudigd Chinees">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Traditioneel Chinees (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreaans">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillisch">
-<!ENTITY  font.langGroup.baltic                   "Baltisch">
 <!ENTITY  font.langGroup.el                       "Grieks">
-<!ENTITY  font.langGroup.turkish                  "Turks">
-<!ENTITY  font.langGroup.unicode                  "Andere talen">
-<!ENTITY  font.langGroup.user-def                 "Door gebruiker gedefinieerd">
+<!ENTITY  font.langGroup.other                    "Andere schriftsystemen">
 <!ENTITY  font.langGroup.thai                     "Thais">
 <!ENTITY  font.langGroup.hebrew                   "Hebreeuws">
 <!ENTITY  font.langGroup.arabic                   "Arabisch">
@@ -46,8 +45,13 @@
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
-<!ENTITY  font.langGroup.malayalam                "Malay">
-
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.math                     "Wiskunde">
+<!ENTITY  font.langGroup.odia                     "Odia">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Singalees">
+<!ENTITY  font.langGroup.tibetan                  "Tibetaans">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimale lettergrootte:">
 <!ENTITY minSize.accesskey                        "n">
@@ -58,11 +62,12 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Schreefloos">
 
 <!-- fonts in message -->
-<!ENTITY  useFixedWidthForPlainText.label         "Gebruik lettertypes met vaste breedte voor platte tekst berichten">
-<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY  fontControl.label                       "Lettertype-instellingen">
+<!ENTITY  useFixedWidthForPlainText.label         "Vastebreedtelettertype gebruiken voor plattetekstberichten">
+<!ENTITY  fixedWidth.accesskey                    "b">
 <!ENTITY  useDocumentFonts.label                  "Berichten toestaan om andere lettertypen te gebruiken">
 <!ENTITY  useDocumentFonts.accesskey              "a">
 
 <!-- Language settings -->
-<!ENTITY viewDefaultCharsetList1.label     "Tekenset:">
-<!ENTITY viewDefaultCharsetList1.accesskey  "T">
+<!ENTITY viewDefaultCharsetList1.label     "Character encoding:">
+<!ENTITY viewDefaultCharsetList1.accesskey  "C">

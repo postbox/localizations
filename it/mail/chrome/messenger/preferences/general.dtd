@@ -1,10 +1,8 @@
-<!ENTITY alwaysCheckDefault.label          "Controlla sempre se &brandShortName; è il client e-mail predefinito all'avvio">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY checkNow.label             "Controlla ora">
-<!ENTITY checkNow.accesskey         "n">
-
-<!ENTITY allowSpotlight.label              "Consenti a Spotlight di ricercare i messaggi ">
+<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
 <!ENTITY allowSpotlight.accesskey          "w">
 
 <!ENTITY location.label                   "Posizione:">
@@ -12,56 +10,37 @@
 <!ENTITY useDefault.label                 "Ripristina predefinita">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "Aggiungi un'animazione all'icona del dock">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "Modifica le preferenze per l'icona dell'app">
+<!ENTITY dockOptions.label                "Opzioni icona applicazione…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "All'arrivo di un messaggio:">
 <!ENTITY playSound.label                  "Riproduci un suono">
-<!ENTITY playSound1.accesskey              "o">
+<!ENTITY playSound1.accesskey             "o">
+<!ENTITY playSoundMac.label               "Esegui questo file audio:">
+<!ENTITY playSoundMac.accesskey           "E">
 <!ENTITY showAnimatedAlert.label          "Mostra un avviso">
 <!ENTITY showAnimatedAlert.accesskey      "M">
+<!ENTITY notificationAlertSettings2.label "È possibile disattivare gli avvisi e il suono predefinito nella sezione Notifiche delle Preferenze di Sistema.">
 <!ENTITY customizeMailAlert.label         "Personalizza…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
-<!ENTITY soundNotification1.caption       "Suono">
-<!ENTITY play.label                       "Riproduci">
+<!ENTITY showTrayIcon.label               "Mostra un'icona nell'area di notifica">
+<!ENTITY showTrayIcon.accesskey           "t">
+
+<!ENTITY play.label                       "Ascolta">
 <!ENTITY play.accesskey                   "A">
-<!ENTITY systemsound.label                "Suono predefinito di sistema per nuova e-mail">
-<!ENTITY systemsoundMac.label             "Suono di avviso di sistema">
-<!ENTITY systemsoundMac.accesskey         "p">
+<!ENTITY systemsound.label                "Suono predefinito di sistema per nuova posta">
 <!ENTITY systemsound.accesskey            "p">
-<!ENTITY customsound.label                "Utilizza il seguente file audio">
+<!ENTITY customsound.label                "Utilizza questo file audio">
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Sfoglia…">
 <!ENTITY browse.accesskey                 "S">
 
-<!-- message list font size -->
+<!ENTITY defaultSearchEngine.label        "Motore di ricerca predefinito">
 
-<!ENTITY pbChromeFontSizeSmall.label      "Piccole">
-<!ENTITY pbChromeFontSizeMedium.label     "Medie">
-<!ENTITY pbChromeFontSizeLarge.label      "Grandi">
-<!ENTITY pbChromeFontSize.label           "Dimensioni caratteri Elenco messaggi e Cartelle:">
-<!ENTITY pbChromeFontSize.accesskey       "M">
+<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
 
+<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
 
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY enableNotificationCenter.label   "Utilizza Centro notifiche">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY useRetina.label				  "Retina Display">
-
-<!ENTITY showProfileManager.label   "Mostra Gestore profilo all'avvio">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY storeLocation.label              "Archivia Argomenti, Firme, Risposte e la Rubrica in:">
+<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">

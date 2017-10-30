@@ -1,41 +1,38 @@
-<!-- Junk Mail Controls -->
-<!ENTITY manualMark.label "När jag markerar meddelanden som skräp:">
-<!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Flytta dem till kontots &quot;Skräp&quot;-mapp">
-<!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Radera dem">
-<!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY markAsReadOnSpam.label "Markera meddelanden som bestämts vara skräp som lästa">
-<!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Aktivera logg för skräpfilter">
-<!ENTITY enableJunkLogging.accesskey "g">
-<!ENTITY openJunkLog.label "Visa logg">
-<!ENTITY openJunkLog.accesskey "h">
-<!ENTITY resetTrainingData.label "Återställ inlärningsdata">
-<!ENTITY resetTrainingData.accesskey "D">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "E-postinnehåll">
 
-<!-- Phishing Detector -->
-<!ENTITY enablePhishingDetector1.label    "Blockera rapporterade e-postbedrägerier">
-<!ENTITY enablePhishingDetector1.accesskey "B">
+<!ENTITY acceptRemoteContent.label "Tillåt fjärrinnehåll i meddelanden">
+<!ENTITY acceptRemoteContent.accesskey "T">
+<!ENTITY remoteContentExceptions.label "Undantag…">
+<!ENTITY remoteContentExceptions.accesskey "U">
+<!ENTITY acceptRemoteContentInfo.label "Läs mer om integritetsfrågor för fjärrinnehåll">
 
-<!-- Passwords -->
-<!ENTITY useMasterPassword.label              "Använd ett huvudlösenord">
-<!ENTITY useMasterPassword.accesskey          "s">
-<!ENTITY changeMasterPassword.label           "Ändra huvudlösenord...">
-<!ENTITY changeMasterPassword.accesskey       "M">
-<!ENTITY savedPasswords.label                 "Sparade lösenord...">
-<!ENTITY savedPasswords.accesskey             "S">
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Webbinnehåll">
 
-<!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics2.label      "Hjälp till och gör &brandShortName; bättre genom att skicka in anonym användarstatistik.">
-<!ENTITY enableAnonymousStatistics.accesskey   "H">
+<!ENTITY keepHistory.label "Kom ihåg webbplatser och länkar som jag har besökt">
+<!ENTITY keepHistory.accesskey "K">
+<!ENTITY acceptCookies.label "Tillåt kakor från webbplatser">
+<!ENTITY acceptCookies.accesskey "T">
+<!ENTITY acceptThirdParty.pre.label "Tillåt tredjepartskakor:">
+<!ENTITY acceptThirdParty.pre.accesskey "r">
+<!ENTITY acceptThirdParty.always.label "Alltid">
+<!ENTITY acceptThirdParty.never.label "Aldrig">
+<!ENTITY acceptThirdParty.visited.label "Från besökta">
+<!ENTITY keepUntil.label "Behålls tills:">
+<!ENTITY keepUntil.accesskey "B">
+<!ENTITY expire.label "de förfaller">
+<!ENTITY close.label "&brandShortName; stängs">
+<!ENTITY askEachTime.label "fråga mig varje gång">
+<!ENTITY cookieExceptions.label "Undantag…">
+<!ENTITY cookieExceptions.accesskey "U">
+<!ENTITY showCookies.label "Visa kakor…">
+<!ENTITY showCookies.accesskey "V">
 
-<!-- Remote images -->
-<!ENTITY disableImageInMailNews.label  "Blockera laddning av fjärrhämtade bilder i e-postmeddeladnen">
-<!ENTITY disableImageInMailNews.accesskey "r">
-
-<!ENTITY pbPrivacy.label "Integritet:">
-<!ENTITY pbJunkMail.label "Skräp:">
-<!ENTITY pbPasswords.label "Lösenord:">
-<!ENTITY pbJunkMail.intro "OBS: Kontospecifika inställningar för skräppost kan konfigureras i Kontoinställningar.">
+<!ENTITY dntTrackingNotOkay.label2 "Berätta för webbplatser att jag inte vill spåras">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY doNotTrackInfo.label "Läs mer om spårning">

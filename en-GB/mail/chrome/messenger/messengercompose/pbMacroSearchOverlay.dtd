@@ -5,5 +5,5 @@
 
 <!ENTITY insertMacro.label "Quick Bar">
 
-<!ENTITY pbMacroSearchPanel.firstrunWin "When typing a URL, Postbox will autocomplete against the URLs from your emails. To disable URL autocompletion, go to Options > Composition > Typing">
-<!ENTITY pbMacroSearchPanel.firstrunMac "When typing a URL, Postbox will autocomplete against the URLs from your emails. To disable URL autocompletion, go to Preferences > Composition > Typing">
+<!ENTITY pbMacroSearchPanel.firstrunWin "When typing a URL, Postbox will autocomplete against the URLs from your emails. To disable URL autocompletion, go to Options > Composition > Advanced">
+<!ENTITY pbMacroSearchPanel.firstrunMac "When typing a URL, Postbox will autocomplete against the URLs from your emails. To disable URL autocompletion, go to Preferences > Composition > Advanced">

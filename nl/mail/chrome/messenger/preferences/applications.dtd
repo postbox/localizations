@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  typeColumn.label            "Inhoudstype">
 <!ENTITY  typeColumn.accesskey        "t">
 
@@ -7,7 +11,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder            "Zoeken">
+<!ENTITY  filter.placeholder          "Zoeken">
 
 <!ENTITY saveTo.label                 "Bestanden opslaan in">
 <!ENTITY saveTo.accesskey             "o">
@@ -18,20 +22,17 @@
 <!ENTITY chooseFolderMac.label        "Kiezen…">
 <!ENTITY chooseFolderMac.accesskey    "z">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY enableCloudFileAccountOffer.mb "MB">
-<!ENTITY authRequired.button.label        "Autoriseren">
-<!ENTITY authRequired.button.accesskey    "U">
-<!ENTITY addCloudFileAccount.accesskey    "A">
-<!ENTITY removeCloudFileAccount.label     "Verwijderen">
-<!ENTITY addCloudFileAccount.description  "Voeg een nieuwe online opslagdienst toe">
-<!ENTITY authRequired.description         "Uw autorisatie is nodig om de instellingen voor deze opslagdienst te zien.">
-<!ENTITY addCloudFileAccount.label        "Toevoegen">
-<!ENTITY removeCloudFileAccount.accesskey "R">
 <!ENTITY attachments.incoming.label   "Inkomend">
 <!ENTITY attachments.outgoing.label   "Uitgaand">
-<!ENTITY enableCloudFileAccountOffer.label "Aanbieden om te delen als bestanden groter zijn dan">
+
+<!ENTITY addCloudFileAccount1.label       "Toevoegen…">
+<!ENTITY addCloudFileAccount1.accesskey   "T">
+<!ENTITY addCloudFileAccount.description  "Een nieuwe Filelink-opslagservice toevoegen">
+<!ENTITY removeCloudFileAccount.label     "Verwijderen">
+<!ENTITY removeCloudFileAccount.accesskey "V">
+<!ENTITY authRequired.description         "Uw autorisatie is vereist om de instellingen voor deze opslagservice te zien.">
+<!ENTITY authRequired.button.label        "Autoriseren">
+<!ENTITY authRequired.button.accesskey    "u">
+
+<!ENTITY enableCloudFileAccountOffer.label "Delen voorstellen bij bestanden groter dan">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

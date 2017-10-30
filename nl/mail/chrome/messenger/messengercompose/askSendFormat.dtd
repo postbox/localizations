@@ -1,25 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
 <!ENTITY windowTitle.label "HTML-e-mailvraag">
 
-<!ENTITY recipient.label "Van een aantal geadresseerden staat niet geregistreerd of ze HTML-e-mail kunnen ontvangen.">
-
-<!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleYes.label "Uw bericht kan worden omgezet naar platte tekst zonder informatie te verliezen.">
-<!ENTITY convertibleAltering.label "Uw bericht kan worden omgezet in platte-text zonder belangrijke informatie te verliezen. De platte-text versie kan er echter anders uitzien dan hoe het bericht in de Composer werd weergegeven.">
-<!ENTITY convertibleNo.label "U heeft opmaak toegepast (bijv. kleuren) die niet zullen worden omgezet in platte text.">
+<!ENTITY recipient.label "Van een aantal ontvangers wordt niet vermeld of ze HTML-e-mail kunnen ontvangen.">
 
 <!ENTITY question.label "Wilt u het bericht converteren naar platte tekst of toch verzenden als HTML?">
 
 <!ENTITY plainTextAndHtml.label "Als platte tekst en HTML verzenden">
+<!ENTITY plainTextAndHtml.accesskey "a">
 <!ENTITY plainTextOnly.label "Alleen als platte tekst verzenden">
+<!ENTITY plainTextOnly.accesskey "p">
 <!ENTITY htmlOnly.label "Alleen als HTML verzenden">
-
-<!ENTITY plainTextAndHtmlRecommended.label "Verstuur in Platte-Text en HTML (aanbevolen)">
-<!ENTITY plainTextOnlyRecommended.label "Verstuur alleen in Platte-Text (aanbevolen)">
-<!ENTITY htmlOnlyRecommended.label "Verstuur alleen in HTML (aanbevolen)">
-<!ENTITY recommended.label "(aanbevolen)">
+<!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "Verzenden">
-<!ENTITY cancel.label "Annuleren">
-<!ENTITY recipients.label "Ontvangers...">
-<!ENTITY help.label "Vat de conversatie samen">
+<!ENTITY send.accesskey "V">

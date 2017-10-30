@@ -1,17 +1,17 @@
 <!ENTITY releaseNotes.label "Release Notes:">
-<!ENTITY cancelButton.label "Annuleren">
-<!ENTITY installUpdateButton.label "Installeer Update">
-<!ENTITY newVersion.label "Er is een nieuwe versie van Postbox beschikbaar!">
+<!ENTITY cancelButton.label "Cancel">
+<!ENTITY installUpdateButton.label "Install Update">
+<!ENTITY newVersion.label "A new version of Postbox is available!">
 
-<!ENTITY updatingPostbox.label "Postbox updaten">
-<!ENTITY downloading.label "Update wordt gedownload...">
+<!ENTITY updatingPostbox.label "Updating Postbox">
+<!ENTITY downloading.label "Downloading update...">
 
-<!ENTITY errorTitle.label "Fout">
-<!ENTITY errorProse.description "Er is een fout opgetreden tijdens de update. Download en installeer de nieuwste versie van Postbox op onze website.">
-<!ENTITY continueButton.label "Doorgaan">
+<!ENTITY errorTitle.label "Error">
+<!ENTITY errorProse.description "An error occured during the update. Please download and install the latest version of Postbox from our website.">
+<!ENTITY continueButton.label "Continue">
 
-<!ENTITY ready.label "Klaar om te installeren">
-<!ENTITY installButton.label "Installeren en opnieuw opstarten">
+<!ENTITY ready.label "Ready to Install">
+<!ENTITY installButton.label "Install and Relaunch">
 
 <!ENTITY okButton.label "OK">
-<!ENTITY upToDateTitle.label "U bent up-to-date!">
+<!ENTITY upToDateTitle.label "You're up-to-date!">

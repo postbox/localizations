@@ -1,67 +1,46 @@
-<!ENTITY alwaysCheckDefault.label          "Bij opstarten altijd controleren of &brandShortName; de standaard e-mailclient is">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY checkNow.label             "Nu controleren">
-<!ENTITY checkNow.accesskey         "N">
-
-<!ENTITY allowSpotlight.label              "Sta Spotlight toe om berichten te doorzoeken">
-<!ENTITY allowSpotlight.accesskey          "S">
+<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.accesskey          "w">
 
 <!ENTITY location.label                   "Locatie:">
-<!ENTITY location1.accesskey               "L">
+<!ENTITY location1.accesskey              "L">
 <!ENTITY useDefault.label                 "Standaardinstelling herstellen">
 <!ENTITY useDefault.accesskey             "S">
 
-<!ENTITY bounceSystemDockIcon.label       "Het systeemvakpictogram animeren">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "Voorkeuren van het programmasymbool wijzigen">
+<!ENTITY dockOptions.label                "Programmasymboolopties…">
+<!ENTITY dockOptions.accesskey            "P">
 
-<!ENTITY newMessagesArrive.label          "Als nieuwe berichten arriveren:">
+<!ENTITY newMessagesArrive.label          "Als nieuwe berichten binnenkomen:">
 <!ENTITY playSound.label                  "Een geluid afspelen">
-<!ENTITY playSound1.accesskey              "u">
-<!ENTITY showAnimatedAlert.label          "Een melding tonen">
+<!ENTITY playSound1.accesskey             "u">
+<!ENTITY playSoundMac.label               "Het volgende geluidsbestand afspelen:">
+<!ENTITY playSoundMac.accesskey           "v">
+<!ENTITY showAnimatedAlert.label          "Een waarschuwing tonen">
 <!ENTITY showAnimatedAlert.accesskey      "t">
+<!ENTITY notificationAlertSettings2.label "Waarschuwingen en het standaardgeluid kunnen worden uitgeschakeld via het paneel Berichtgeving in Systeemvoorkeuren.">
 <!ENTITY customizeMailAlert.label         "Aanpassen…">
 <!ENTITY customizeMailAlert.accesskey     "A">
 
-<!ENTITY soundNotification1.caption       "Geluid">
+<!ENTITY showTrayIcon.label               "Een systeemvakpictogram tonen">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "Afspelen">
 <!ENTITY play.accesskey                   "f">
 <!ENTITY systemsound.label                "Standaard systeemgeluid voor nieuwe e-mail">
-<!ENTITY systemsoundMac.label             "Systeemalarmgeluid">
-<!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Het volgende geluidsbestand gebruiken">
 <!ENTITY customsound.accesskey            "v">
 <!ENTITY browse.label                     "Bladeren…">
 <!ENTITY browse.accesskey                 "B">
 
-<!-- message list font size -->
+<!ENTITY defaultSearchEngine.label        "Standaardzoekmachine">
 
-<!ENTITY pbChromeFontSizeSmall.label      "Klein">
-<!ENTITY pbChromeFontSizeMedium.label     "Gemiddeld">
-<!ENTITY pbChromeFontSizeLarge.label      "Groot">
-<!ENTITY pbChromeFontSize.label           "Berichtenlijst en Mappen Lettertype grootte:">
-<!ENTITY pbChromeFontSize.accesskey       "M">
+<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
 
+<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
 
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY enableNotificationCenter.label   "Gebruik het Notificatie Center">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY useRetina.label				  "Retina Scherm">
-
-<!ENTITY showProfileManager.label   "Toon Profielmanager bij opstarten">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY storeLocation.label              "Sla Onderwerpen, Handtekeningen, Antwoorden en het Adresboek op in:">
+<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">

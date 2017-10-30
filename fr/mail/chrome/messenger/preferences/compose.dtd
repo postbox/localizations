@@ -1,35 +1,43 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label                   "Général">
 <!ENTITY itemAutoComplete.label              "Adressage">
-<!ENTITY itemSpellCheck.label                "Orthographe">
-<!ENTITY itemSendFormat.label                "Format d'envoi">
+<!ENTITY itemTypeCheck.label                 "Typing">
+<!ENTITY itemSendFormat.label                "Send Format">
 <!ENTITY itemSignatures.label                "Signatures">
-<!ENTITY itemCannedResponses.label           "Réponses">
+<!ENTITY itemCannedResponses.label           "Responses">
 
-<!ENTITY forwardReply.label                   "Transférer les messages">
+<!ENTITY dialogCompose.title                 "Rédaction">
+
 <!ENTITY forwardMsg.label                     "Transférer les messages :">
 <!ENTITY forwardMsg.accesskey                 "T">
 <!ENTITY inline.label                         "intégrés">
-<!ENTITY inline.accesskey                     "i">
+<!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "en pièces jointes">
-<!ENTITY asAttachment.accesskey               "e">
+<!ENTITY asAttachment.accesskey               "A">
+<!ENTITY addExtension.label                   "ajouter une extension au nom de fichier">
+<!ENTITY addExtension.accesskey               "a">
 
 <!ENTITY font.label                           "Police :">
 <!ENTITY font.accesskey                       "P">
 <!ENTITY fontColor.label                      "Couleur du texte :">
 <!ENTITY fontColor.accesskey                  "C">
-<!ENTITY bgColor.label                        "Couleur de l'arrière-plan :">
+<!ENTITY bgColor.label                        "Couleur de l’arrière-plan :">
 <!ENTITY bgColor.accesskey                    "u">
 <!ENTITY restoreHTMLDefaults.label            "Restaurer les paramètres initiaux">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY defaultToParagraph.label             "Utiliser le format paragraphe à la place du format texte principal par défaut">
+<!ENTITY defaultToParagraph.accesskey         "P">
 
-<!ENTITY sendingMessagesHeader.label          "Rédiger des messages">
-<!ENTITY spellCheck.label                     "Vérifier l'orthographe avant l'envoi">
+<!ENTITY spellCheck.label                     "Vérifier l’orthographe avant l’envoi">
 <!ENTITY spellCheck.accesskey                 "V">
 <!ENTITY spellCheckInline.label               "Activer la vérification pendant la saisie">
-<!ENTITY spellCheckInline1.accesskey           "A">
+<!ENTITY spellCheckInline1.accesskey          "A">
 <!ENTITY languagePopup.label                  "Langue :">
 <!ENTITY languagePopup.accessKey              "L">
-<!ENTITY downloadDictionaries.label           "Télécharger d'autres dictionnaires">
+<!ENTITY downloadDictionaries.label           "Télécharger d’autres dictionnaires">
 
 <!ENTITY autoSave.label                       "Sauvegarde automatique toutes les">
 <!ENTITY autoSave.accesskey                   "S">
@@ -37,97 +45,88 @@
 
 <!ENTITY emailCollectionPicker.label           "Ajouter les adresses des messages sortants dans :">
 <!ENTITY emailCollectionPicker.accesskey       "A">
-<!ENTITY autocompleteText.label                "Lors de la recherche d'adresses, chercher les correspondances dans :">
-<!ENTITY addressingEnable.label                "Carnet d'adresses locaux">
+<!ENTITY autocompleteText.label                "Lors de la recherche d’adresses, chercher les correspondances dans :">
+<!ENTITY addressingEnable.label                "les carnets d’adresses locaux">
 <!ENTITY addressingEnable.accesskey            "C">
-<!ENTITY directories.label                     "Serveur d'annuaire :">
-<!ENTITY directories.accesskey                 "S">
+<!ENTITY directories.label                     "un serveur d’annuaire :">
+<!ENTITY directories.accesskey                 "s">
+<!ENTITY directoriesNone.label                 "Aucun">
 <!ENTITY editDirectories.label                 "Modifier les annuaires…">
 <!ENTITY editDirectories.accesskey             "M">
-<!ENTITY matchText.label                       "S'il y a une correspondance dans vos carnets d'adresses locaux :">
-<!ENTITY skipDirectory.label                   "Ne pas chercher dans ce répertoire">
 
-<!ENTITY sendOptions.label                     "Options d'expédition…">
+<!ENTITY contactsSidebarDisplay.label          "Contacts Sidebar displays:">
+<!ENTITY contactsSidebarDisplay.accesskey      "S">
+<!ENTITY recentContacts.label                  "Recent Contacts">
+<!ENTITY recentContacts.accesskey              "n">
+<!ENTITY addressBooks.label                    "Address Books">
+<!ENTITY addressBooks.accesskey                "B">
+
+<!ENTITY sendOptionsDescription.label          "Configuration du comportement pour l’envoi en format texte">
+<!ENTITY sendOptions.label                     "Options d’expédition…">
 <!ENTITY sendOptions.accesskey                 "O">
 
-<!ENTITY attachmentReminder.label              "Vérifier les pièces jointes manquantes">
-<!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Mots-clefs…">
-<!ENTITY attachmentReminderOptions.accesskey   "K">
+<!ENTITY attachmentReminder.label              "Vérification de pièces jointes manquantes">
+<!ENTITY attachmentReminder.accesskey          "V">
+<!ENTITY attachmentReminderOptions.label       "Mots-clés">
+<!ENTITY attachmentReminderOptions.accesskey   "M">
 
-<!ENTITY replyInDefaultCharset2.label     "Utiliser l'encodage des caractères par défaut dans les réponses">
+<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY composeLanguagesTitle.label            "Encodage des caractères:">
+<!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+
+<!ENTITY imageOrientation.label "Image Orientation:">
+<!ENTITY accordingToEXIF.label "Rotate images according to EXIF data">
+<!ENTITY accordingToEXIF.accesskey "o">
 
 <!-- signatures -->
-<!ENTITY addSignatureButton.label       "Nouveau">
+<!ENTITY addSignatureButton.label       "New">
 <!ENTITY addSignatureButton.accesskey   "N">
-<!ENTITY editSignatureButton.label      "Modifier">
+<!ENTITY editSignatureButton.label      "Edit">
 <!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY removeSignatureButton.label    "Supprimer">
+<!ENTITY removeSignatureButton.label    "Delete">
 <!ENTITY removeSignatureButton.accesskey "l">
+<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
 
-<!ENTITY pbItemAdvanced.label "Avancé">
-<!ENTITY pb.quotingConversationsSortOrder.label "En récapitulant, citer:">
-<!ENTITY pb.quotingConversationsSortOrderOldest.label "Messages les plus anciens en premier">
-<!ENTITY pb.quotingConversationsSortOrderNewest.label "Messages les plus récents en premier">
+<!ENTITY pbItemAdvanced.label "Advanced">
+<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
+<!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
 <!ENTITY pb.QuickReply.label "Default Quick Reply to:">
 <!ENTITY pb.QuickReply.accesskey "Q">
-<!ENTITY pb.quickreply.replyall.label "Répondre à tous">
+<!ENTITY pb.quickreply.replyall.label "Reply All">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
 <!ENTITY pb.quickreply.reply.label "Reply">
 <!ENTITY pb.quickreply.reply.accesskey "y">
-<!ENTITY pbNumConversationsToQuote.label "Inclure au plus">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing on reply">
+<!ENTITY pbNumConversationsToQuote.label "Include at most">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing">
 
-<!ENTITY pbQuoteOnQuickReply.label "Citer le message en réponse rapide">
+<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
 <!ENTITY pbQuoteOnQuickReply.accesskey "m">
 
-<!ENTITY pbDefaultFonSize.label                           "par défaut">
+<!ENTITY pbDefaultFonSize.label                           "default">
 
-<!ENTITY pbPlaySoundOnSend.label "Jouer un son lors de l'envoie d'un mail">
+<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
-<!ENTITY pbSendAndArchive.label "Activer Envoyer et archiver">
-<!ENTITY pbEnableDropbox.label "Envoyer en liens quand vous joignez des fichiers de votre repertoire Dropbox">
+<!ENTITY pbSendAndArchive.label "Enable send and archive">
+<!ENTITY pbEnableDropbox.label "Send links when attaching files in your cloud folders">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbCharactersGoal.label "Nombre de caractères">
-<!ENTITY pbStopwatchGoal.label "Chronomètre">
-<!ENTITY addSignatureDelimiters.label "Ajouter un séparateur au dessus de la signature">
-<!ENTITY pbSetCompositionGoals.label "Définir les objectifs de composition en utilisant">
-<!ENTITY pbWordsGoal.label "Nombre de mots">
+<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
+<!ENTITY pbStopwatchGoal.label "Stopwatch">
+<!ENTITY pbWordsGoal.label "Word Count">
+<!ENTITY pbCharactersGoal.label "Character Count">
+<!ENTITY pbAt.label "at">
 <!ENTITY pbMinutes.label "minutes">
-<!ENTITY pbAt.label "à">
-<!ENTITY sourceView.label "Vue du code:">
-<!ENTITY pbWords.label "mots">
+<!ENTITY pbWords.label "words">
+<!ENTITY pbCharacters.label "characters">
+
+<!ENTITY sourceView.label "Code View:">
 <!ENTITY sourceView.accesskey "C">
-<!ENTITY pbCharacters.label "caractères">
 
-<!ENTITY pbURLAutoComplete.label "Activer l'autocomplétion d'URL">
+<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY messageSizeWarning.label "M'avertir si la taille du message excède">
+<!ENTITY messageSizeWarning.label "Warn me if the message size is above">
 <!ENTITY megabytes.label "MB">
 
-<!ENTITY imageOrientation.label "Orientation de l'image:">
-<!ENTITY accordingToEXIF.label "Pivoter l'image selon les données EXIF">
-<!ENTITY accordingToEXIF.accesskey "o">
-<!ENTITY contactsSidebarDisplay.label          "Affiche la barre latérale:">
-<!ENTITY contactsSidebarDisplay.accesskey      "S">
-<!ENTITY recentContacts.label                  "Contacts récents">
-<!ENTITY recentContacts.accesskey              "n">
-<!ENTITY addressBooks.label                    "Carnet d'adresses">
-<!ENTITY addressBooks.accesskey                "B">
-
-<!ENTITY itemTypeCheck.label                 "Frappe">
-<!ENTITY intlKeysPanel.label "Panneau de saisie de caractère international">
-<!ENTITY emojiShortcuts.label "Raccourcis Emoji">
+<!ENTITY intlKeysPanel.label "International Characters panel">
+<!ENTITY emojiShortcuts.label "Emoji shortcuts">

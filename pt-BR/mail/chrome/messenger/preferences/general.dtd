@@ -1,10 +1,8 @@
-<!ENTITY alwaysCheckDefault.label          "Sempre verificar se o &brandShortName; é o cliente padrão de e-mails ao iniciar">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY checkNow.label             "Verificar agora">
-<!ENTITY checkNow.accesskey         "N">
-
-<!ENTITY allowSpotlight.label              "Permitir que o Spotlight pesquise mensagens">
+<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
 <!ENTITY allowSpotlight.accesskey          "w">
 
 <!ENTITY location.label                   "Endereço:">
@@ -12,56 +10,37 @@
 <!ENTITY useDefault.label                 "Restaurar o padrão">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "Animar ícone do dock">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "Mudar preferências do ícone">
+<!ENTITY dockOptions.label                "Opções do ícone…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Ao chegarem novas mensagens">
 <!ENTITY playSound.label                  "Tocar um som">
-<!ENTITY playSound1.accesskey              "c">
+<!ENTITY playSound1.accesskey             "c">
+<!ENTITY playSoundMac.label               "Tocar o arquivo de som:">
+<!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Mostrar um alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
+<!ENTITY notificationAlertSettings2.label "Alertas e a notificação sonoras padrão podem ser desativados no Painel de Notificações nas Preferências do Sistema.">
 <!ENTITY customizeMailAlert.label         "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
-<!ENTITY soundNotification1.caption       "Som">
+<!ENTITY showTrayIcon.label               "Exibir ícone na bandeja">
+<!ENTITY showTrayIcon.accesskey           "n">
+
 <!ENTITY play.label                       "Testar">
 <!ENTITY play.accesskey                   "T">
 <!ENTITY systemsound.label                "Som padrão do sistema para novas mensagens">
-<!ENTITY systemsoundMac.label             "Som de alerta do sistema">
-<!ENTITY systemsoundMac.accesskey         "S">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Usar este arquivo de som:">
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Procurar…">
 <!ENTITY browse.accesskey                 "P">
 
-<!-- message list font size -->
+<!ENTITY defaultSearchEngine.label        "Mecanismo de pesquisa padrão">
 
-<!ENTITY pbChromeFontSizeSmall.label      "Pequeno">
-<!ENTITY pbChromeFontSizeMedium.label     "Médio">
-<!ENTITY pbChromeFontSizeLarge.label      "Grande">
-<!ENTITY pbChromeFontSize.label           "Tamanho da fonte para a lista de mensagens e pastas:">
-<!ENTITY pbChromeFontSize.accesskey       "M">
+<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
 
+<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
 
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY enableNotificationCenter.label   "Usar a Central de Notificações">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY useRetina.label				  "Tela de retina">
-
-<!ENTITY showProfileManager.label   "Exibir o Gerenciador de Perfis ao iniciar">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY storeLocation.label              "Armazenar Tópicos, Assinaturas, Respostas e Catálogos de Endereços em:">
+<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">

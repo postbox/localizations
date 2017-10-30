@@ -1,29 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Berichten zoeken in:">
 <!ENTITY searchHeading.accesskey     "k">
 <!ENTITY searchSubfolders.label      "Submappen doorzoeken">
-<!ENTITY searchSubfolders.accesskey  "S">
+<!ENTITY searchSubfolders.accesskey  "u">
+<!ENTITY searchOnServer.label        "Op de server zoeken">
+<!ENTITY searchOnServer.accesskey    "r">
 <!ENTITY resetButton.label           "Wissen">
 <!ENTITY resetButton.accesskey       "W">
-<!ENTITY optionsButton.label         "Opties">
-<!ENTITY closeButton.label           "Sluiten">
 <!ENTITY openButton.label            "Openen">
 <!ENTITY openButton.accesskey        "O">
 <!ENTITY deleteButton.label          "Verwijderen">
 <!ENTITY deleteButton.accesskey      "V">
 <!ENTITY searchDialogTitle.label     "Berichten zoeken">
-<!ENTITY conditionDesc.label         "Zoek naar berichten die overeenkomen met:">
-<!ENTITY conditions.label            "Criteria">
 <!ENTITY results.label               "Resultaten">
-<!ENTITY fileHereMenu.label          "Hier opslaan">
-<!ENTITY fileHereMenu.accesskey      "H">
-<!ENTITY fileButton.label            "Opslaan in">
-<!ENTITY fileButton.accesskey        "l">
+<!ENTITY moveButton.label            "Verplaatsen naar">
+<!ENTITY moveButton.accesskey        "n">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "Berichtenmap Openen">
-<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY openInFolder.label          "Openen in map">
+<!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Opslaan als zoekmap">
-<!ENTITY saveAsVFButton.accesskey    "m">
+<!ENTITY saveAsVFButton.accesskey    "s">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Zoeken in:">
@@ -32,12 +32,15 @@
 <!ENTITY propertiesButton.accesskey  "E">
 <!ENTITY composeButton.label         "Opstellen">
 <!ENTITY composeButton.accesskey     "O">
+<!ENTITY deleteCardButton.label      "Verwijderen">
+<!ENTITY deleteCardButton.accesskey  "V">
 <!ENTITY abSearchDialogTitle.label   "Adresboek uitgebreid doorzoeken">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Conversatie">
 <!ENTITY fromColumn.label "Van">
 <!ENTITY recipientColumn.label "Ontvanger">
+<!ENTITY correspondentColumn.label "Correspondenten">
 <!ENTITY subjectColumn.label "Onderwerp">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Prioriteit">
@@ -46,7 +49,6 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Grootte">
 <!ENTITY junkStatusColumn.label "Ongewenstberichtstatus">
-<!ENTITY linesColumn.label "Regels">
 <!ENTITY unreadColumn.label "Ongelezen">
 <!ENTITY totalColumn.label "Totaal">
 <!ENTITY readColumn.label "Gelezen">
@@ -56,22 +58,23 @@
 <!ENTITY idColumn.label "Volgorde van ontvangst">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Klik om weer te geven kolommen te selecteren">
-<!ENTITY threadColumn.tooltip "Klik om berichtconversaties weer te geven"> 
-<!ENTITY fromColumn.tooltip "Klik om te sorteren op van">
-<!ENTITY recipientColumn.tooltip "Klik om te sorteren op ontvanger">
-<!ENTITY subjectColumn.tooltip "Klik om te sorteren op onderwerp">
-<!ENTITY dateColumn.tooltip "Klik om te sorteren op datum">
-<!ENTITY priorityColumn.tooltip "Klik om te sorteren op prioriteit">
-<!ENTITY tagsColumn.tooltip "Klik om te sorteren op labels">
-<!ENTITY accountColumn.tooltip "Klik om te sorteren op account">
-<!ENTITY statusColumn.tooltip "Klik om te sorteren op status">
-<!ENTITY sizeColumn.tooltip "Klik om te sorteren op grootte">
-<!ENTITY junkStatusColumn.tooltip "Klik om te sorteren op ongewenstberichtstatus">
-<!ENTITY unreadColumn.tooltip "Aantal ongelezen berichten in conversatie">
-<!ENTITY totalColumn.tooltip "Totale aantal berichten in conversatie">
-<!ENTITY readColumn.tooltip "Klik om te sorteren op gelezen">
-<!ENTITY receivedColumn.tooltip "Klik om te sorteren op ontvangstdatum">
-<!ENTITY starredColumn.tooltip "Klik om te sorteren op ster">
-<!ENTITY locationColumn.tooltip "Klik om te sorteren op locatie">
-<!ENTITY idColumn.tooltip "Klik om te sorteren op volgorde van ontvangst">
+<!ENTITY columnChooser2.tooltip "Weer te geven kolommen selecteren">
+<!ENTITY threadColumn2.tooltip "Berichtconversaties weergeven">
+<!ENTITY fromColumn2.tooltip "Sorteren op van">
+<!ENTITY recipientColumn2.tooltip "Sorteren op ontvanger">
+<!ENTITY correspondentColumn2.tooltip "Sorteren op correspondenten">
+<!ENTITY subjectColumn2.tooltip "Sorteren op onderwerp">
+<!ENTITY dateColumn2.tooltip "Sorteren op datum">
+<!ENTITY priorityColumn2.tooltip "Sorteren op prioriteit">
+<!ENTITY tagsColumn2.tooltip "Sorteren op labels">
+<!ENTITY accountColumn2.tooltip "Sorteren op account">
+<!ENTITY statusColumn2.tooltip "Sorteren op status">
+<!ENTITY sizeColumn2.tooltip "Sorteren op grootte">
+<!ENTITY junkStatusColumn2.tooltip "Sorteren op ongewenstberichtstatus">
+<!ENTITY unreadColumn2.tooltip "Aantal ongelezen berichten in conversatie">
+<!ENTITY totalColumn2.tooltip "Totale aantal berichten in conversatie">
+<!ENTITY readColumn2.tooltip "Sorteren op gelezen">
+<!ENTITY receivedColumn2.tooltip "Sorteren op ontvangstdatum">
+<!ENTITY starredColumn2.tooltip "Sorteren op ster">
+<!ENTITY locationColumn2.tooltip "Sorteren op locatie">
+<!ENTITY idColumn2.tooltip "Sorteren op volgorde van ontvangst">

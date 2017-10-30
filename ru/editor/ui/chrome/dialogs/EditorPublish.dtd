@@ -1,53 +1,23 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-1999
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Alexander L. Slovesnik <unghost@mozilla-russia.org> (Russian translation)
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Публикация страницы">
 <!ENTITY windowTitleSettings.label "Параметры публикации">
 <!ENTITY publishTab.label "Опубликовать">
 <!ENTITY settingsTab.label "Параметры">
 <!ENTITY publishButton.label "Опубликовать">
+
+<!-- Publish Tab Panel -->
 <!ENTITY siteList.label "Имя сайта:">
 <!ENTITY siteList.accesskey "я">
-<!ENTITY siteList.tooltip "Выберите сайт, на котором опубликовать">
+<!ENTITY siteList.tooltip "Выберите сайт, в который произвести публикацию">
 <!ENTITY newSiteButton.label "Добавить сайт">
 <!ENTITY newSiteButton.accesskey "б">
 <!ENTITY docDirList.label "Каталог сайта для этой страницы:">
 <!ENTITY docDirList.accesskey "т">
-<!ENTITY docDirList.tooltip "Выберите или введите имя удаленного каталога для этой страницы">
+<!ENTITY docDirList.tooltip "Выберите или введите имя удалённого каталога для этой страницы">
 <!ENTITY publishImgCheckbox.label "Включать изображения и другие файлы">
 <!ENTITY publishImgCheckbox.accesskey "з">
 <!ENTITY publishImgCheckbox.tooltip "Опубликовать изображения и другие файлы, ссылки на которые содержатся на этой странице">
@@ -56,8 +26,8 @@
 <!ENTITY sameLocationRadio.tooltip "Опубликовать файлы вместе со страницей">
 <!ENTITY useSubdirRadio.label "Использовать этот подкаталог:">
 <!ENTITY useSubdirRadio.accesskey "к">
-<!ENTITY useSubdirRadio.tooltip "Опубликовать файлы в выбранном удаленном каталоге">
-<!ENTITY otherDirList.tooltip "Выберите или введите имя удаленного каталога для публикации файлов">
+<!ENTITY useSubdirRadio.tooltip "Опубликовать файлы в выбранном удалённом каталоге">
+<!ENTITY otherDirList.tooltip "Выберите или введите имя удалённого каталога для публикации файлов">
 <!ENTITY pageTitle.label "Заголовок страницы:">
 <!ENTITY pageTitle.accesskey "г">
 <!ENTITY pageTitle.tooltip "Введите название, которое будет отображаться в строке заголовка окна и в закладках">
@@ -70,24 +40,26 @@
 <!ENTITY setDefaultButton.accesskey "у">
 <!ENTITY removeButton.label "Удалить сайт">
 <!ENTITY removeButton.accesskey "д">
+
+<!-- Settings Tab Panel -->
 <!ENTITY publishSites.label "Публикация сайтов">
 <!ENTITY serverInfo.label "Информация о сервере">
 <!ENTITY loginInfo.label "Регистрационная информация">
 <!ENTITY siteName.label "Имя сайта:">
 <!ENTITY siteName.accesskey "а">
 <!ENTITY siteName.tooltip "Псевдоним, идентифицирующий этот сайт (например, «Мой сайт»)">
-<!ENTITY siteUrl.label "URL-адрес публикации (например, «ftp://ftp.myisp.com/myusername»):">
+<!ENTITY siteUrl.label "URL публикации (например, «ftp://ftp.myisp.com/myusername»):">
 <!ENTITY siteUrl.accesskey "б">
-<!ENTITY siteUrl.tooltip "FTP- или HTTP-адрес, предоставленный провайдером Интернета или службой веб-хостинга">
-<!ENTITY browseUrl.label "HTTP-адрес вашей домашней страницы (например, «http://www.myisp.com/myusername»):">
+<!ENTITY siteUrl.tooltip "FTP- или HTTP-адрес, данный вам поставщиком услуг Интернета или услуг по размещению информации в сети">
+<!ENTITY browseUrl.label "HTTP-адрес вашей домашней страницы (например, «http://www.test.ru/myusername»):">
 <!ENTITY browseUrl.accesskey "а">
 <!ENTITY browseUrl.tooltip "HTTP-адрес вашего домашнего каталога (без имени файла)">
 <!ENTITY username.label "Имя пользователя:">
 <!ENTITY username.accesskey "л">
-<!ENTITY username.tooltip "Имя пользователя, предоставленный провайдером Интернета или службой веб-хостинга">
+<!ENTITY username.tooltip "Имя пользователя, данное вам поставщиком услуг Интернета или услуг по размещению информации в сети">
 <!ENTITY password.label "Пароль:">
 <!ENTITY password.accesskey "р">
 <!ENTITY password.tooltip "Пароль, связанный с вашим именем пользователя">
 <!ENTITY savePassword.label "Сохранить пароль">
 <!ENTITY savePassword.accesskey "х">
-<!ENTITY savePassword.tooltip "Выбор этой опции позволит менеджеру паролей запомнить ваш пароль">
+<!ENTITY savePassword.tooltip "Выбор этой опции позволит сохранить ваш пароль в хранилище паролей">

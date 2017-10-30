@@ -1,67 +1,46 @@
-<!ENTITY alwaysCheckDefault.label          "Comprobar siempre al iniciar si &brandShortName; es el cliente de correo por defecto">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY checkNow.label             "Comprobar ahora">
-<!ENTITY checkNow.accesskey         "C">
-
-<!ENTITY allowSpotlight.label              "Permitir que Spotlight busque mensajes">
+<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
 <!ENTITY allowSpotlight.accesskey          "w">
 
-<!ENTITY location.label                   "Dirección:">
-<!ENTITY location1.accesskey               "D">
-<!ENTITY useDefault.label                 "Restablecer predeterminado">
-<!ENTITY useDefault.accesskey             "R">
+<!ENTITY location.label "Dirección:">
+<!ENTITY location1.accesskey "D">
+<!ENTITY useDefault.label "Restablecer predeterminado">
+<!ENTITY useDefault.accesskey "R">
 
-<!ENTITY bounceSystemDockIcon.label       "Animar el icono de notificación">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label "Cambiar preferencias del icono de la aplicación">
+<!ENTITY dockOptions.label "Opciones del icono de la aplicación…">
+<!ENTITY dockOptions.accesskey "c">
 
-<!ENTITY newMessagesArrive.label          "Cuando lleguen mensajes nuevos:">
-<!ENTITY playSound.label                  "Reproducir un sonido">
-<!ENTITY playSound1.accesskey              "o">
-<!ENTITY showAnimatedAlert.label          "Mostrar una alerta">
-<!ENTITY showAnimatedAlert.accesskey      "s">
-<!ENTITY customizeMailAlert.label         "Personalizar…">
-<!ENTITY customizeMailAlert.accesskey     "P">
+<!ENTITY newMessagesArrive.label "Cuando lleguen mensajes nuevos:">
+<!ENTITY playSound.label "Reproducir un sonido">
+<!ENTITY playSound1.accesskey "o">
+<!ENTITY playSoundMac.label "Reproducir el siguiente archivo de sonido:">
+<!ENTITY playSoundMac.accesskey "h">
+<!ENTITY showAnimatedAlert.label "Mostrar una alerta">
+<!ENTITY showAnimatedAlert.accesskey "M">
+<!ENTITY notificationAlertSettings2.label "Las alertas y el sonido predeterminado pueden desactivarse en el panel Notificaciones de las preferencias del sistema.">
+<!ENTITY customizeMailAlert.label "Personalizar…">
+<!ENTITY customizeMailAlert.accesskey "P">
 
-<!ENTITY soundNotification1.caption       "Sonido">
-<!ENTITY play.label                       "Reproducir">
-<!ENTITY play.accesskey                   "R">
-<!ENTITY systemsound.label                "Sonido por defecto del sistema para nuevo correo">
-<!ENTITY systemsoundMac.label             "Sonido de alerta del sistema">
-<!ENTITY systemsoundMac.accesskey         "m">
-<!ENTITY systemsound.accesskey            "n">
-<!ENTITY customsound.label                "Usar el siguiente archivo de sonido">
-<!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "Examinar…">
-<!ENTITY browse.accesskey                 "E">
+<!ENTITY showTrayIcon.label "Mostrar un icono en la bandeja">
+<!ENTITY showTrayIcon.accesskey "a">
 
-<!-- message list font size -->
+<!ENTITY play.label "Reproducir">
+<!ENTITY play.accesskey "r">
+<!ENTITY systemsound.label "Sonido por defecto del sistema para nuevo correo">
+<!ENTITY systemsound.accesskey "n">
+<!ENTITY customsound.label "Usar el siguiente archivo de sonido">
+<!ENTITY customsound.accesskey "U">
+<!ENTITY browse.label "Examinar…">
+<!ENTITY browse.accesskey "E">
 
-<!ENTITY pbChromeFontSizeSmall.label      "Pequeña">
-<!ENTITY pbChromeFontSizeMedium.label     "Mediana">
-<!ENTITY pbChromeFontSizeLarge.label      "Grande">
-<!ENTITY pbChromeFontSize.label           "Tamaño de la letra de la Carpeta y Lista de mensajes:">
-<!ENTITY pbChromeFontSize.accesskey       "M">
+<!ENTITY defaultSearchEngine.label "Buscador predeterminado">
 
+<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
 
-<!--
-entities below were automatically added by l10nmerge
--->
+<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
 
-<!ENTITY enableNotificationCenter.label   "Usar el Centro de notificaciones">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY useRetina.label				  "Pantalla de retina">
-
-<!ENTITY showProfileManager.label   "Mostrar el Perfil del administrador al inicio">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY storeLocation.label              "Almacenar tópicos, firmas, respuestas y la libreta de direcciones en:">
+<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">

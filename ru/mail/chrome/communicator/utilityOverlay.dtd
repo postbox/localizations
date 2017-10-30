@@ -1,75 +1,58 @@
-﻿<!-- these things need to move into utilityOverlay.xul -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-<!ENTITY fileMenu.label          "Файл">
-<!ENTITY fileMenu.accesskey        "F">
-<!ENTITY newMenu.label            "Создать">
-<!ENTITY newMenu.accesskey          "N">
+<!ENTITY fileMenu.label "Файл">
+<!ENTITY fileMenu.accesskey "Ф">
+<!ENTITY newMenu.label "Создать">
+<!ENTITY newMenu.accesskey "з">
 
-<!ENTITY editMenu.label          "Правка">
-<!ENTITY editMenu.accesskey        "E">
-<!ENTITY undoCmd.label            "Отменить">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "U">
-<!ENTITY redoCmd.label            "Повторить">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label            "Вырезать">
-<!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label            "Копировать">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "Вставить">
-<!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "P">
-<!ENTITY deleteCmd.label          "Удалить">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.label          "Выбрать все">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "A">
-<!ENTITY preferencesCmd.label        "Настройки…">
-<!ENTITY preferencesCmd.accesskey      "O">
-<!ENTITY preferencesCmdUnix.label       "Настройки">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY editMenu.label "Правка">
+<!ENTITY editMenu.accesskey "П">
+<!ENTITY undoCmd.label "Отменить">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "О">
+<!ENTITY redoCmd.label "Повторить">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "р">
+<!ENTITY cutCmd.label "Вырезать">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "В">
+<!ENTITY copyCmd.label "Копировать">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "К">
+<!ENTITY pasteCmd.label "Вставить">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "с">
+<!ENTITY deleteCmd.label "Удалить">
+<!ENTITY deleteCmd.accesskey "У">
+<!ENTITY selectAllCmd.label "Выделить всё">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "д">
+<!ENTITY preferencesCmd2.label "Настройки">
+<!ENTITY preferencesCmd2.accesskey "а">
+<!ENTITY preferencesCmdUnix.label "Настройки">
+<!ENTITY preferencesCmdUnix.accesskey "Н">
 
-<!ENTITY findTypeTextCmd.label "Искать текст при вводе">
-<!ENTITY findTypeTextCmd.accesskey "x">
+<!ENTITY viewMenu.label "Вид">
+<!ENTITY viewMenu.accesskey "В">
+<!ENTITY viewToolbarsMenu.label "Показать/скрыть">
+<!ENTITY viewToolbarsMenu.accesskey "П">
+<!ENTITY showTaskbarCmd.label "Строка состояния">
+<!ENTITY showTaskbarCmd.accesskey "С">
 
-<!ENTITY viewMenu.label          "Вид">
-<!ENTITY viewMenu.accesskey        "V">
-<!ENTITY viewToolbarsMenu.label        "Панели инструментов">
-<!ENTITY viewToolbarsMenu.accesskey      "T">
-<!ENTITY showTaskbarCmd.label          "Строка состояния">
-<!ENTITY showTaskbarCmd.accesskey        "S">
+<!ENTITY closeCmd.label "Закрыть">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "З">
 
-<!ENTITY direct.label                                   "Онлайн (прокси-сервер: нет)">
-<!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "Онлайн (прокси-сервер: вручную)">
-<!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "Онлайн (прокси-сервер: авто)">
-<!ENTITY pac.accesskey                                  "a">
+<!ENTITY quitApplicationCmd.label "Выход">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "ы">
 
-<!ENTITY proxy.label                                    "Конфигурация прокси-сервера…">
-<!ENTITY proxy.accesskey                                "C">
+<!ENTITY quitApplicationCmdUnix.label "Выход">
+<!ENTITY quitApplicationCmdUnix.accesskey "ы">
 
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "'">
-
-<!ENTITY closeCmd.label      "Закрыть">
-<!ENTITY closeCmd.key      "W">
-<!ENTITY closeCmd.accesskey    "C">
-
-<!ENTITY closeWindow.label "Закрыть окно">
-
-<!ENTITY quitApplicationCmd.label  "Завершить">
-<!ENTITY quitApplicationCmd.key    "Q">
-<!ENTITY quitApplicationCmd.accesskey  "x">
-
-<!ENTITY quitApplicationCmdUnix.label  "Завершить">
-<!ENTITY quitApplicationCmdUnix.accesskey  "Q">
-
-<!ENTITY quitApplicationCmdMac.label  "Завершить &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "b">
+<!ENTITY quitApplicationCmdMac.label "Завершить &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "в">

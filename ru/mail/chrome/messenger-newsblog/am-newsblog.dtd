@@ -1,22 +1,29 @@
-﻿<!ENTITY newsblogTitle.label "Параметры учетной записи RSS">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY indexMsgBodies.label "Индексировать текст сообщений">
+<!ENTITY accountTitle.label "RSS Settings">
+
+<!ENTITY indexMsgBodies.label "Index message bodies">
 <!ENTITY indexMsgBodies.accesskey "I">
 
 <!ENTITY biffStart.label "Проверять наличие новых статей каждые">
-<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffStart.accesskey "р">
 <!ENTITY biffEnd.label "минут">
 
-<!ENTITY loginAtStartup.label "Проверять наличие новых статей при запуске">
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY loginAtStartup.label "Проверять наличие новых статей при запуске"> 
+<!ENTITY loginAtStartup.accesskey "П">
 
-<!ENTITY useQuickMode.label "По умолчанию показывать краткое описание статьи вместо загрузки веб-страницы">
-<!ENTITY useQuickMode.accesskey "-">
+<!ENTITY useQuickMode.label "По умолчанию показывать краткое описание статьи вместо загрузки веб-страницы"> 
+<!ENTITY useQuickMode.accesskey "к">
 
-<!ENTITY manageSubscriptions.label "Управление подписками…">
-<!ENTITY manageSubscriptions.accesskey "M">
+<!ENTITY manageSubscriptions.label "Управление подписками…"> 
+<!ENTITY manageSubscriptions.accesskey "У">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Новости и блоги">
-<!ENTITY rss.wizardShortName        "RSS">
-<!ENTITY rss.wizardLongName         "RSS-новости и блоги">
+<!ENTITY feedWindowTitle.label "Мастер учетной записи лент новостей">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Блоги и ленты новостей">
+<!ENTITY feeds.wizardShortName "Ленты новостей">
+<!ENTITY feeds.wizardLongName "Блоги и ленты новостей">
+<!ENTITY feeds.wizardLongName.accesskey "н">

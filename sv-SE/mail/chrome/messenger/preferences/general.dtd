@@ -1,67 +1,46 @@
-<!ENTITY alwaysCheckDefault.label          "Kolla alltid om &brandShortName; är förinställd e-postklient vid start">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY checkNow.label             "Kolla nu">
-<!ENTITY checkNow.accesskey         "N">
-
-<!ENTITY allowSpotlight.label              "Tillåt Spotlight att söka meddelanden">
+<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
 <!ENTITY allowSpotlight.accesskey          "w">
 
 <!ENTITY location.label                   "Adress:">
 <!ENTITY location1.accesskey               "A">
 <!ENTITY useDefault.label                 "Återställ standard">
-<!ENTITY useDefault.accesskey             "t">
+<!ENTITY useDefault.accesskey             "Å">
 
-<!ENTITY bounceSystemDockIcon.label       "Animera dock-ikonen">
-<!ENTITY bounceSystemDockIcon.accesskey   "m">
+<!ENTITY changeDockIconOptions.label      "Ändra inställningar för programsymbol">
+<!ENTITY dockOptions.label                "Alternativ för programsymbol…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "När ny e-post kommer:">
 <!ENTITY playSound.label                  "Spela upp ett ljud">
-<!ENTITY playSound1.accesskey              "u">
+<!ENTITY playSound1.accesskey             "u">
+<!ENTITY playSoundMac.label               "Spela följande ljudfil:">
+<!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Visa en meddelanderuta">
 <!ENTITY showAnimatedAlert.accesskey      "V">
+<!ENTITY notificationAlertSettings2.label "Varningar och standardljud kan stängas av aviseringsfältet i Systeminställningar.">
 <!ENTITY customizeMailAlert.label         "Anpassa…">
 <!ENTITY customizeMailAlert.accesskey     "n">
 
-<!ENTITY soundNotification1.caption       "Ljud">
+<!ENTITY showTrayIcon.label               "Visa ikon i aktivitetsfältet">
+<!ENTITY showTrayIcon.accesskey           "a">
+
 <!ENTITY play.label                       "Spela upp">
 <!ENTITY play.accesskey                   "e">
 <!ENTITY systemsound.label                "Systemets standardljud">
-<!ENTITY systemsoundMac.label             "Systemets standardljud">
-<!ENTITY systemsoundMac.accesskey         "S">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Använd följande ljudfil">
 <!ENTITY customsound.accesskey            "d">
 <!ENTITY browse.label                     "Bläddra…">
 <!ENTITY browse.accesskey                 "B">
 
-<!-- message list font size -->
+<!ENTITY defaultSearchEngine.label        "Standardsökmotor">
 
-<!ENTITY pbChromeFontSizeSmall.label      "Liten">
-<!ENTITY pbChromeFontSizeMedium.label     "Medel">
-<!ENTITY pbChromeFontSizeLarge.label      "Stor">
-<!ENTITY pbChromeFontSize.label           "Teckensnittets storlek för meddelande lista och mappe:">
-<!ENTITY pbChromeFontSize.accesskey       "M">
+<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
 
+<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
 
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY enableNotificationCenter.label   "Använd meddelandecenter">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY useRetina.label				  "Retina-visning">
-
-<!ENTITY showProfileManager.label   "Visa profilhanteraren vid start">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY storeLocation.label              "Lagra ämnen, signaturer, svar och adressboken hos:">
+<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">

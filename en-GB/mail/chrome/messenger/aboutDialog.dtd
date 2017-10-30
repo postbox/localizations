@@ -1,16 +1,16 @@
 
-<!ENTITY copyrightText          "&#169;2007-2014 Postbox, Inc. and Contributors. All Rights Reserved. Postbox
+<!ENTITY copyrightText          "&#169;2007-2015 Postbox, Inc. and Contributors. All Rights Reserved. Postbox
                                  is developed and maintained by Postbox, Inc.">
 
 
-<!ENTITY aboutDialog.title          "About &brandFullName;">
+<!ENTITY aboutDialog.title      "About &brandFullName;">
 
 <!ENTITY productDescription.label    "Hand-crafted, and made with love, in San Francisco, California.">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Licensing Information">
 
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Privacy Policy">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -35,7 +35,7 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Updates available at ">
+<!ENTITY update.manual.start        "Download the ">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -46,10 +46,6 @@
 <!ENTITY update.downloading.start   "Downloading update — ">
 <!ENTITY update.downloading.end     "">
 
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
+<!ENTITY cmdCloseMac.commandKey "w">
 
 <!ENTITY pb.safeMode.label "Running in Safe Mode">

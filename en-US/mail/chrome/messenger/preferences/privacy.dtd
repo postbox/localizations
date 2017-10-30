@@ -1,41 +1,38 @@
-<!-- Junk Mail Controls -->
-<!ENTITY manualMark.label "When I mark messages as junk:">
-<!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
-<!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Delete them">
-<!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
-<!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Enable junk filter logging">
-<!ENTITY enableJunkLogging.accesskey "g">
-<!ENTITY openJunkLog.label "Show log">
-<!ENTITY openJunkLog.accesskey "h">
-<!ENTITY resetTrainingData.label "Reset Training Data">
-<!ENTITY resetTrainingData.accesskey "D">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "Mail Content">
 
-<!-- Phishing Detector -->
-<!ENTITY enablePhishingDetector1.label    "Block reported e-mail scams">
-<!ENTITY enablePhishingDetector1.accesskey "B">
+<!ENTITY acceptRemoteContent.label "Allow remote content in messages">
+<!ENTITY acceptRemoteContent.accesskey "m">
+<!ENTITY remoteContentExceptions.label "Exceptions…">
+<!ENTITY remoteContentExceptions.accesskey "x">
+<!ENTITY acceptRemoteContentInfo.label "Learn more about the privacy issues of remote content">
 
-<!-- Passwords -->
-<!ENTITY useMasterPassword.label              "Use a master password">
-<!ENTITY useMasterPassword.accesskey          "s">
-<!ENTITY changeMasterPassword.label           "Change Master Password...">
-<!ENTITY changeMasterPassword.accesskey       "M">
-<!ENTITY savedPasswords.label                 "Saved Passwords...">
-<!ENTITY savedPasswords.accesskey             "S">
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Web Content">
 
-<!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics2.label      "Help make &brandShortName; better by sending anonymous usage statistics.">
-<!ENTITY enableAnonymousStatistics.accesskey   "H">
+<!ENTITY keepHistory.label "Remember websites and links I've visited">
+<!ENTITY keepHistory.accesskey "R">
+<!ENTITY acceptCookies.label "Accept cookies from sites">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.pre.label "Accept third-party cookies:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.always.label "Always">
+<!ENTITY acceptThirdParty.never.label "Never">
+<!ENTITY acceptThirdParty.visited.label "From visited">
+<!ENTITY keepUntil.label "Keep until:">
+<!ENTITY keepUntil.accesskey "K">
+<!ENTITY expire.label "they expire">
+<!ENTITY close.label "I close &brandShortName;">
+<!ENTITY askEachTime.label "ask me every time">
+<!ENTITY cookieExceptions.label "Exceptions…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Show Cookies…">
+<!ENTITY showCookies.accesskey "S">
 
-<!-- Remote images -->
-<!ENTITY disableImageInMailNews.label  "Block loading of remote images in mail messages">
-<!ENTITY disableImageInMailNews.accesskey "r">
-
-<!ENTITY pbPrivacy.label "Privacy:">
-<!ENTITY pbJunkMail.label "Junk:">
-<!ENTITY pbPasswords.label "Passwords:">
-<!ENTITY pbJunkMail.intro "Note: Account-specific junk mail settings can be configured in the settings for the account.">
+<!ENTITY dntTrackingNotOkay.label2 "Tell sites that I do not want to be tracked">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY doNotTrackInfo.label "Learn more about Do Not Track">

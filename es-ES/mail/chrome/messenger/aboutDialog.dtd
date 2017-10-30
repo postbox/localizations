@@ -1,50 +1,51 @@
-<!ENTITY aboutDialog.title      "Acerca de &brandFullName;">
-<!ENTITY credits.label          "Créditos">
-<!ENTITY credits.accesskey      "C">
-<!ENTITY aboutLink.label        "&lt; Acerca de &brandFullName;">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "versión">
-<!ENTITY copyrightText          "&#169;2007-2014 Postbox, Inc. y Colaboradores. Todos los derectos reservados. Postbox
-                                 está desarrollado y mantenido por Postbox, Inc.">
+
+<!ENTITY copyrightText          "&#169;2007-2015 Postbox, Inc. and Contributors. All Rights Reserved. Postbox
+                                 is developed and maintained by Postbox, Inc.">
 
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!ENTITY aboutDialog.title "Acerca de &brandFullName;">
 
-<!ENTITY update.failed.end          "">
-<!ENTITY update.noUpdatesFound      "&brandShortName; está actualizado">
-<!ENTITY update.downloading.start   "Descargando actualización — ">
-<!ENTITY update.manual.end          "">
-<!ENTITY update.checkingForUpdates  "Buscando actualizaciones…">
-<!ENTITY community.middle2          ", a ">
-<!ENTITY update.checkingAddonCompat "Comprobando la compatibilidad del Add-on…">
-<!ENTITY update.manual.start        "Actualizaciones disponibles en ">
-<!ENTITY community.start2           "&brandShortName; ha sido diseñado por ">
-<!ENTITY bottomLinks.license        "Información de la licencia">
-<!ENTITY contribute.end             "">
-<!ENTITY update.failed.linkText     "Descargar la última versión">
-<!ENTITY update.adminDisabled       "Las descargas han sido bloqueadas por el administrador de su sistema">
-<!ENTITY community.end2             " trabajando unidos para mejorar el Internet. Creemos que el Internet debería ser abierto, público y accesible a todos, sin restricciones.">
-<!ENTITY contribute.start           "¿Suena interesante? ">
-<!ENTITY community.creditsLink      "comunidad global">
-<!ENTITY bottomLinks.privacy        "Política de privacidad">
-<!ENTITY update.downloading.end     "">
-<!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY contribute.getInvolvedLink "¡Involúcrese!">
-<!ENTITY bottomLinks.rights         "Derechos del usuario final">
-<!ENTITY update.failed.start        "La actualización ha fallado. ">
+<!ENTITY productDescription.label    "Hand-crafted, and made with love, in San Francisco, California.">
 
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license "Información de licencia">
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy "Política de privacidad">
 
-<!ENTITY productDescription.label    "hecho a mano, con mucho amor, en San Francisco, California.">
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates "Buscando actualizaciones…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound "&brandShortName; está actualizado">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled "Actualizaciones desactivada por el administrador de su sistema">
 
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start "Actualización fallida. ">
+<!ENTITY update.failed.linkText "Descargar la última versión">
+<!ENTITY update.failed.end "">
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start "Descargar la ">
+<!ENTITY update.manual.end "">
 
-<!ENTITY pb.safeMode.label "Ejecutándose en modo seguro">
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start "Descargando actualización — ">
+<!ENTITY update.downloading.end "">
+
+<!ENTITY cmdCloseMac.commandKey "w">
+
+<!ENTITY pb.safeMode.label "Running in Safe Mode">

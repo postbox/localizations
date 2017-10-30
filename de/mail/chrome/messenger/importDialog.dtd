@@ -1,39 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 2001
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
@@ -44,36 +11,44 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Importieren">
-<!ENTITY importDialog.allTitle    "Alles importieren">
-<!ENTITY importDialog.mailTitle   "E-Mail">
-<!ENTITY importDialog.addressbookTitle "Adressbücher">
-<!ENTITY importDialog.settingsTitle "Einstellungen">
+<!ENTITY importAll.label          "Alles importieren">
+<!ENTITY importAll.accesskey      "A">
+<!ENTITY importMail.label         "Nachrichten">
+<!ENTITY importMail.accesskey     "N">
+<!ENTITY importFeeds.label        "Feed-Abonnements">
+<!ENTITY importFeeds.accesskey    "e">
+<!ENTITY importAddressbook.label  "Adressbücher">
+<!ENTITY importAddressbook.accesskey "d">
+<!ENTITY importSettings.label     "Einstellungen">
+<!ENTITY importSettings.accesskey "E">
+<!ENTITY importFilters.label      "Filter">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "&brandShortName; Import-Assistent">
-<!ENTITY importDesc.label         "Import von Nachrichten, Adressbüchern und Voreinstellungen von anderen Programmen">
+<!ENTITY importShortDesc.label    "Nachrichten, Adressbücher, Einstellungen und Filter von anderen Anwendungen importieren">
 
-<!ENTITY importDescription.label  "Dieser Assistent hilft beim Importieren von E-Mails, Adressbuch-Einträgen und/oder Einstellungen anderer E-Mail Programme und allgemeiner Adressbuch-Formate in &brandShortName;.">
+<!ENTITY importDescription1.label "Dieser Assistent importiert Nachrichten, Adressbucheinträge, Einstellungen und/oder Filter von anderen Mail-Anwendungen und verbreiteten Adressbuchformaten in &brandShortName;.">
 <!ENTITY importDescription2.label "Anschließend können Sie mit den importierten Daten in &brandShortName; arbeiten.">
 
-<!ENTITY selectDescription.label  "Bitte wählen Sie den Typ der Datei aus, den Sie importieren wollen:">
+<!ENTITY selectDescription.label  "Bitte wählen Sie den Typ der Datei, aus der Sie importieren wollen:">
+<!ENTITY selectDescriptionB.label "Bitte wählen Sie ein bestehendes Konto oder erstellen Sie ein neues Konto:">
+<!ENTITY selectDescription.accesskey "B">
+<!ENTITY acctName.label           "Name:">
+<!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Es wurde keine Anwendungen und keine Dateien gefunden, aus denen Daten importiert werden können.">
 
 <!ENTITY back.label               "&lt; Zurück">
 <!ENTITY forward.label            "Weiter &gt;">
 <!ENTITY finish.label             "Fertigstellen">
 <!ENTITY cancel.label             "Abbrechen">
 
-<!ENTITY select.label             "oder wählen Sie aus, was importiert werden soll:">
+<!ENTITY select.label             "oder wählen was importiert werden soll:">
 
 <!ENTITY title.label              "Titel">
 <!ENTITY processing.label         "Importieren…">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x speichert nur eine Postadresse pro Kontakt, während &brandShortName; zwei speichert (private und dienstliche).">
-<!ENTITY FieldDiscInputText2.label  "Wählen Sie die Kategorie aus, in der Sie importierte Postadressen speichern möchten:">
-<!ENTITY FieldDiscWarning.label  "Diese Kategorie wird für alle Einträge des gewählten Adressbuchs verwendet: ">
-<!ENTITY importDialog.homeTitle  "Start">
-<!ENTITY importDialog.workTitle  "Dienstlich">
 
-<!ENTITY pbSelect.label             "Wählen Sie die Art der zu importierenden Daten aus:">
+<!ENTITY pbSelect.label             "Select the type of material to import:">

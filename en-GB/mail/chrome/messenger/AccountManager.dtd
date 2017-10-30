@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
 
 <!ENTITY accountManagerTitle.label "Account Settings">
@@ -6,12 +10,12 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Add Mail Account…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addRSSAccountButton.label "Add RSS Account…">
-<!ENTITY addRSSAccountButton.accesskey "R">
+<!ENTITY addFeedAccountButton.label "Add Feed Account…">
+<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Set as Default">
-<!ENTITY setDefaultButton.accesskey "D">
+<!ENTITY setDefaultButton.accesskey "f">
 <!ENTITY removeButton.label "Remove Account">
 <!ENTITY removeButton.accesskey "R">
 

@@ -1,203 +1,214 @@
-﻿<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Создание сообщения: (без темы)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Файл">
-<!ENTITY fileMenu.accesskey "F">
+<!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newMenu.label "Создать">
-<!ENTITY newMenu.accesskey "N">
+<!ENTITY newMenu.accesskey "С">
 <!ENTITY newMessage.label "Сообщение">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Карточку адресной книги…">
-<!ENTITY newCard.accesskey "C">
-<!ENTITY emptyAttachmentBucket.label "Добавить файлы…">
+<!ENTITY newMessage.accesskey "б">
+<!ENTITY newContact.label "Контакт адресной книги…">
+<!ENTITY newContact.accesskey "н">
+<!ENTITY emptyAttachmentBucket.label "Add files...">
 <!ENTITY attachMenu.label "Вложить">
-<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachMenu.accesskey "ж">
 <!ENTITY attachFileCmd.label "Файл(ы)…">
-<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.accesskey "л">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Веб-страницу…">
-<!ENTITY attachPageCmd.accesskey "-">
+<!ENTITY attachPageCmd.accesskey "е">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Визитную карточку (vCard)">
-<!ENTITY attachVCardCmd.accesskey "v">
+<!ENTITY attachVCardCmd.accesskey "з">
+<!ENTITY remindLater.label "Напомнить позже">
+<!ENTITY remindLater.accesskey "а">
 <!ENTITY closeCmd.label "Закрыть">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.accesskey "З">
 <!ENTITY saveCmd.label "Сохранить">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveCmd.accesskey "о">
 <!ENTITY saveAsCmd.label "Сохранить как">
-<!ENTITY saveAsCmd.accesskey "a">
+<!ENTITY saveAsCmd.accesskey "к">
 <!ENTITY saveAsFileCmd.label "Файл…">
-<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsFileCmd.accesskey "Ф">
 <!ENTITY saveAsDraftCmd.label "Черновик">
-<!ENTITY saveAsDraftCmd.accesskey "D">
+<!ENTITY saveAsDraftCmd.accesskey "Ч">
 <!ENTITY saveAsTemplateCmd.label "Шаблон">
-<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY saveAsTemplateCmd.accesskey "Ш">
 <!ENTITY sendNowCmd.label "Отправить">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendCmdMac.keycode "D">
-<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendNowCmd.accesskey "п">
 <!ENTITY sendLaterCmd.label "Отправить позже">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY sendLaterCmd.accesskey "з">
+<!ENTITY sendAndArchive.label "Send and Archive">
+<!ENTITY sendLaterAndArchive.label "Send Later and Archive">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.accesskey "а">
+<!ENTITY printPreviewCmd.label "Предварительный просмотр">
+<!ENTITY printPreviewCmd.accesskey "е">
 <!ENTITY printCmd.label "Печать…">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY quitApplicationCmdWin.label                    "Выход">
-<!ENTITY quitApplicationCmdWin.accesskey                "x">
-<!ENTITY quitApplicationCmd.label                       "Завершить">
-<!ENTITY quitApplicationCmd.accesskey                   "Q">
-<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY printCmd.accesskey "П">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Правка">
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.accesskey "П">
 <!ENTITY undoCmd.label "Отменить">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "U">
+<!ENTITY undoCmd.accesskey "О">
 <!ENTITY redoCmd.label "Повторить">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R">
+<!ENTITY redoCmd.accesskey "П">
 <!ENTITY cutCmd.label "Вырезать">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
+<!ENTITY cutCmd.accesskey "В">
 <!ENTITY copyCmd.label "Копировать">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C">
+<!ENTITY copyCmd.accesskey "К">
 <!ENTITY pasteCmd.label "Вставить">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY pasteCmd.accesskey "с">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.accesskey "е">
+<!ENTITY deleteCmd.label "Удалить">
+<!ENTITY deleteCmd.accesskey "У">
 <!ENTITY editRewrapCmd.label "Переформатировать">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "w">
-<!ENTITY deleteCmd.label "Удалить">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "D">
-<!ENTITY selectAllCmd.label "Выбрать все">
+<!ENTITY renameAttachmentCmd.label "Переименовать вложение…">
+<!ENTITY renameAttachmentCmd.accesskey "и">
+<!ENTITY selectAllCmd.label "Выделить всё">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY findCmd.label "Найти и заменить…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findAgainCmd.label "Найти еще">
+<!ENTITY selectAllCmd.accesskey "ы">
+<!ENTITY findBarCmd.label "Найти…">
+<!ENTITY findBarCmd.accesskey "и">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Найти и заменить…">
+<!ENTITY findReplaceCmd.accesskey "а">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findAgainCmd.label "Найти ещё раз">
+<!ENTITY findAgainCmd.accesskey "а">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Найти предыдущее">
+<!ENTITY findPrevCmd.accesskey "щ">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Вид">
-<!ENTITY viewMenu.accesskey "V">
-<!ENTITY customizeToolbar.label "Настроить панель инструментов…">
-<!ENTITY customizeToolbar.accesskey "t">
-<!ENTITY showFormatToolbarCmd.label "Панель инструментов форматирования">
-<!ENTITY showFormatToolbarCmd.accesskey "F">
-<!ENTITY pbShowCcField.label "Поле «Копия»">
+<!ENTITY viewMenu.accesskey "В">
+<!ENTITY customizeToolbar.label "Настроить…">
+<!ENTITY customizeToolbar.accesskey "Н">
+<!ENTITY menubarCmd.label "Панель меню">
+<!ENTITY menubarCmd.accesskey "е">
+<!ENTITY showFormattingBarCmd.label "Панель форматирования">
+<!ENTITY showFormattingBarCmd.accesskey "ф">
+<!ENTITY pbShowCcField.label "Cc Field">
 <!ENTITY pbShowCcField.accesskey "C">
 <!ENTITY pbShowCcField.key "c">
-<!ENTITY pbShowBccField.label "Поле «Скрытая копия»">
+<!ENTITY pbShowBccField.label "Bcc Field">
 <!ENTITY pbShowBccField.accesskey "B">
 <!ENTITY pbShowBccField.key "b">
-<!ENTITY pbShowReplyField.label "Поле «Обратный адрес»">
+<!ENTITY pbShowReplyField.label "Reply-To Field">
 <!ENTITY pbShowReplyField.accesskey "R">
 <!ENTITY pbShowReplyField.key "r">
-<!ENTITY pbShowNewsgroupsField.label "Поле «Группа новостей»">
-<!ENTITY pbShowNewsgroupsField.accesskey "N">
-<!ENTITY pbShowFollowupField.label "Поле «Ответ в группу новостей»">
+<!ENTITY pbShowNewsgroupsField.label "Newsgroups Field">
+<!ENTITY pbShowNewsgroupsField.accesskey "N"> 
+<!ENTITY pbShowFollowupField.label "Followup-To Field">
 <!ENTITY pbShowFollowupField.accesskey "o">
+<!ENTITY pbShowCompositionGoalsToolbarCmd.label "Goal Status Bar">
+<!ENTITY pbShowCompositionGoalsToolbarCmd.accesskey "G">
+<!ENTITY pbSourceView.label "Code View">
+<!ENTITY pbSourceView.accesskey "d">
+<!ENTITY pbSourceViewThemes.label "Theme">
+<!ENTITY pbSourceViewThemes.accesskey "T">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Формат">
-<!ENTITY formatMenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "Ф">
 
 <!-- Options Menu -->
-<!ENTITY optionsMenu.label "Параметры">
-<!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "Проверка орфографии…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY optionsMenu.label "Настройки">
+<!ENTITY optionsMenu.accesskey "й">
+<!ENTITY checkSpellingCmd2.label "Проверить орфографию…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "в">
 <!ENTITY enableInlineSpellChecker.label "Проверка орфографии при наборе текста">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY enableInlineSpellChecker.accesskey "о">
 <!ENTITY quoteCmd.label "Цитировать сообщение">
-<!ENTITY quoteCmd.accesskey "Q">
+<!ENTITY quoteCmd.accesskey "Ц">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Вложить визитную карточку (vCard)">
-<!ENTITY attachVCard.accesskey "v">
+<!ENTITY attachVCard.accesskey "в">
 
 <!ENTITY returnReceiptMenu.label "Уведомление о прочтении">
-<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY returnReceiptMenu.accesskey "У">
 <!ENTITY dsnMenu.label "Уведомление о доставке">
-<!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Формат">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY dsnMenu.accesskey "с">
+<!ENTITY deliveryFormatMenu.label "Формат доставки">
+<!ENTITY deliveryFormatMenu.accesskey "м">
 <!ENTITY autoFormatCmd.label "Автоопределение">
-<!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "Только обычный текст">
-<!ENTITY plainTextFormatCmd.accesskey "P">
+<!ENTITY autoFormatCmd.accesskey "А">
+<!ENTITY plainTextFormatCmd.label "Только простой текст">
+<!ENTITY plainTextFormatCmd.accesskey "О">
 <!ENTITY htmlFormatCmd.label "Форматированный текст (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "H">
+<!ENTITY htmlFormatCmd.accesskey "т">
 <!ENTITY bothFormatCmd.label "Обычный текст и HTML">
-<!ENTITY bothFormatCmd.accesskey "H">
+<!ENTITY bothFormatCmd.accesskey "б">
 <!ENTITY priorityMenu.label "Важность">
-<!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityMenu.accesskey "ж">
+<!ENTITY priorityButton.title "Важность">
+<!ENTITY priorityButton.tooltiptext "Изменить важность сообщения">
 <!ENTITY priorityButton.label "Важность:">
 <!ENTITY lowestPriorityCmd.label "Самая низкая">
-<!ENTITY lowestPriorityCmd.accesskey "L">
+<!ENTITY lowestPriorityCmd.accesskey "с">
 <!ENTITY lowPriorityCmd.label "Низкая">
-<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY lowPriorityCmd.accesskey "н">
 <!ENTITY normalPriorityCmd.label "Обычная">
-<!ENTITY normalPriorityCmd.accesskey "N">
+<!ENTITY normalPriorityCmd.accesskey "о">
 <!ENTITY highPriorityCmd.label "Высокая">
-<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highPriorityCmd.accesskey "в">
 <!ENTITY highestPriorityCmd.label "Самая высокая">
-<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY highestPriorityCmd.accesskey "а">
 <!ENTITY fileCarbonCopyCmd.label "Поместить копию в папку">
-<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileCarbonCopyCmd.accesskey "к">
 <!ENTITY fileHereMenu.label "Поместить сюда">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Инструменты">
-<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY tasksMenu.accesskey "И">
 <!ENTITY messengerCmd.label "Почта и группы новостей">
-<!ENTITY messengerCmd.accesskey "M">
+<!ENTITY messengerCmd.accesskey "П">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адресная книга">
-<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.accesskey "А">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY preferencesCmd.label "Параметры…">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "Настройки">
-<!ENTITY preferencesCmdUnix.accesskey   "n">
+<!ENTITY preferencesCmd2.label "Настройки">
+<!ENTITY preferencesCmd2.accesskey "а">
+<!ENTITY preferencesCmdUnix.label "Настройки">
+<!ENTITY preferencesCmdUnix.accesskey "а">
 
-<!--  macOS Window Menu -->
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Убрать в Dock">
 <!ENTITY bringAllToFront.label "Все окна — на передний план">
 <!ENTITY zoomWindow.label "Изменить масштаб">
 <!ENTITY windowMenu.label "Окно">
-
-<!-- Help Menu -->
-<!ENTITY helpMenu.label "Справка">
-<!ENTITY helpMenu.accesskey "H">
-<!ENTITY releaseCmd.label "Заметки о выпуске">
-<!ENTITY releaseCmd.accesskey "R">
-<!ENTITY hintsAndTips.label "Справка &brandShortName;">
-<!ENTITY hintsAndTips.accesskey "H">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "О приложении &brandShortName;">
-<!ENTITY aboutCmd.accesskey "A">
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Отправить">
@@ -206,29 +217,39 @@
 <!ENTITY attachButton.label "Вложить">
 <!ENTITY spellingButton.label "Орфография">
 <!ENTITY saveButton.label "Сохранить">
-<!ENTITY tagButton.label "Назначить метку">
-<!ENTITY throbberItem.title "Индикатор активности">
-<!ENTITY signatureButton.label "Подписи">
-<!ENTITY compose.sidebar.label "Боковая панель">
+<!ENTITY printButton.label "Печать">
+<!ENTITY tagButton.label "Assign Topic">
+<!ENTITY tagButton.key "T">
+<!ENTITY signatureButton.label "Signatures">
+<!ENTITY responseButton.label "Responses">
+<!ENTITY compose.sidebar.label "Sidebar">
+<!ENTITY compositionGoals.label "Goals">
+<!ENTITY formattingToolbar.label "Toolbar">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Отправить это сообщение сейчас">
 <!ENTITY sendlaterButton.tooltip "Отправить это сообщение позже">
-<!ENTITY quoteButton.tooltip "Цитировать выбранное сообщение">
-<!ENTITY addressButton.tooltip "Выбрать получателя из адресной книги">
+<!ENTITY quoteButton.tooltip "Цитировать предыдущее сообщение"> 
+<!ENTITY addressButton.tooltip "Выбрать адресата из адресной книги">
 <!ENTITY attachButton.tooltip "Вложить файл в это сообщение">
+<!ENTITY spellingButton.tooltip "Проверить орфографию выделенного отрывка или всего сообщения">
+<!ENTITY statusLanguageText.tooltip "Язык проверки орфографии">
 <!ENTITY saveButton.tooltip "Сохранить это сообщение">
-<!ENTITY cutButton.tooltip              "Вырезать">
-<!ENTITY copyButton.tooltip             "Копировать">
-<!ENTITY pasteButton.tooltip            "Вставить">
-<!ENTITY tagButton.tooltip "Добавить метку(и) для сообщения">
-<!ENTITY signatureButton.tooltip "Вставить подпись">
-<!ENTITY compose.sidebar.tooltip "Показать боковую панель">
+<!ENTITY cutButton.tooltip "Вырезать">
+<!ENTITY copyButton.tooltip "Копировать">
+<!ENTITY pasteButton.tooltip "Вставить">
+<!ENTITY printButton.tooltip "Распечатать это сообщение">
+<!ENTITY tagButton.tooltip "Add topic(s) to message">
+<!ENTITY signatureButton.tooltip "Insert a signature">
+<!ENTITY responseButton.tooltip "Insert a response">
+<!ENTITY compose.sidebar.tooltip "Open the sidebar">
+<!ENTITY compositionGoals.tooltip "Show or hide the Composition Goals status bar">
+<!ENTITY formattingToolbar.tooltip "Show or hide the toolbar">
 
 <!-- Headers -->
-<!ENTITY fromHeader.label "От:">
+<!ENTITY fromHeader.label "From:">
 <!ENTITY fromHeader.accesskey "r">
-<!ENTITY subjectHeader.label "Тема:">
+<!ENTITY subjectHeader.label "Subject:">
 <!ENTITY subjectHeader.accesskey "S">
 <!ENTITY toAddr.label "Кому:">
 <!ENTITY ccAddr.label "Копия:">
@@ -236,16 +257,12 @@
 <!ENTITY replyAddr.label "Обратный адрес:">
 <!ENTITY newsgroupsAddr.label "Группа новостей:">
 <!ENTITY followupAddr.label "Ответ в группу новостей:">
-<!ENTITY tagHeader.label "Метки">
+<!ENTITY tagHeader.label "Topics:">
 <!ENTITY tagHeader.accesskey "o">
-<!ENTITY tagMessageButton.tooltip     "Назначить метку(и) этому сообщению.">
-<!ENTITY compose.addresses.label "Адреса">
+<!ENTITY tagMessageButton.tooltip     "Assign topic(s) to the message.">
+<!ENTITY compose.addresses.label "Addresses">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Вставить смайлик">
 <!ENTITY smiley1Cmd.label "Улыбка">
 <!ENTITY smiley2Cmd.label "Нахмуриться">
@@ -265,53 +282,75 @@
 <!ENTITY smiley16Cmd.label "Рот на замке">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellAddToDictionary.label                  "Добавить в словарь">
+<!ENTITY spellAddToDictionary.label                  "Add to Dictionary">
 <!ENTITY spellAddToDictionary.accesskey              "o">
-<!ENTITY spellNoSuggestions.label                    "(нет вариантов)">
-<!ENTITY spellCheckEnable.label                      "Проверка орфографии">
+<!ENTITY spellNoSuggestions.label                    "(No Spelling Suggestions)">
+<!ENTITY spellCheckEnable.label                      "Check Spelling">
 <!ENTITY spellCheckEnable.accesskey                  "S">
-<!ENTITY spellDictionaries.label                     "Языки">
-<!ENTITY spellDictionaries.accesskey                 "L">
+<!ENTITY spellDictionaries.label                     "Languages">
+<!ENTITY spellDictionaries.accesskey                 "l">
 <!ENTITY spellCheckIgnoreWord.label "Пропустить слово">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckIgnoreWord.accesskey "П">
 <!ENTITY undo.label "Отменить">
-<!ENTITY undo.accesskey "U">
+<!ENTITY undo.accesskey "О">
 <!ENTITY cut.label "Вырезать">
-<!ENTITY cut.accesskey "t">
+<!ENTITY cut.accesskey "В">
 <!ENTITY copy.label "Копировать">
-<!ENTITY copy.accesskey "C">
+<!ENTITY copy.accesskey "К">
 <!ENTITY paste.label "Вставить">
-<!ENTITY paste.accesskey "P">
+<!ENTITY paste.accesskey "с">
 <!ENTITY pasteQuote.label "Вставить как цитату">
-<!ENTITY pasteQuote.accesskey "Q">
+<!ENTITY pasteQuote.accesskey "ц">
 
 <!ENTITY openAttachment.label "Открыть">
-<!ENTITY openAttachment.accesskey "O">
-<!ENTITY quickLookAttachment.label "Быстрый просмотр">
+<!ENTITY openAttachment.accesskey "О">
+<!ENTITY quickLookAttachment.label "Quick Look">
 <!ENTITY quickLookAttachment.accesskey "Q">
 <!ENTITY delete.label "Удалить">
-<!ENTITY delete.accesskey "D">
-<!ENTITY selectAll.label "Выбрать все">
-<!ENTITY selectAll.accesskey "A">
+<!ENTITY delete.accesskey "У">
+<!ENTITY removeAttachment.label "Удалить вложение">
+<!ENTITY removeAttachment.accesskey "л">
+<!ENTITY renameAttachment.label "Переименовать…">
+<!ENTITY renameAttachment.accesskey "м">
+<!ENTITY selectAll.label "Выделить всё">
+<!ENTITY selectAll.accesskey "ы">
 <!ENTITY attachFile.label "Вложить файл(ы)…">
-<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachFile.accesskey "ф">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Конвертировать в…">
+<!ENTITY convertCloud.accesskey "в">
+<!ENTITY cancelUpload.label "Отменить выгрузку">
+<!ENTITY cancelUpload.accesskey "м">
+<!ENTITY convertRegularAttachment.label "Обычное вложение">
+<!ENTITY convertRegularAttachment.accesskey "ы">
 <!ENTITY attachPage.label "Вложить веб-страницу…">
-<!ENTITY attachPage.accesskey "-">
-<!ENTITY editSignatures.label "Изменить подписи…">
-<!ENTITY newSignature.label "Создать подпись…">
+<!ENTITY attachPage.accesskey "е">
+<!ENTITY editSignatures.label "Edit Signatures...">
+<!ENTITY newSignature.label "New Signature...">
+<!ENTITY editResponses.label "Edit Responses...">
+<!ENTITY newResponse.label "New Response...">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Добавить словари…">
+<!ENTITY spellAddDictionaries.accesskey "Д">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Контакты">
 
-<!-- for rich search in compose -->
-<!ENTITY contactsButton.tooltip                 "Поиск контактов">
-<!ENTITY imagesButton.tooltip                   "Поиск изображений">
-<!ENTITY attachmentsButton.tooltip              "Поиск вложений">
-<!ENTITY placesButton.tooltip                   "Поиск мест">
-<!ENTITY researchButton.tooltip                 "Поиск ссылок">
-<!ENTITY signaturesButton.tooltip               "Поиск подписей">
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Настроить адрес отправителя…">
+<!ENTITY customizeFromAddress.accesskey "и">
 
-<!-- this is an entity because it can vary by locale, and which type has the most kinds on the locale
+<!-- for rich search in compose -->
+<!ENTITY contactsButton.tooltip                 "Find contacts">
+<!ENTITY imagesButton.tooltip                   "Find images">
+<!ENTITY attachmentsButton.tooltip              "Find attachments">
+<!ENTITY placesButton.tooltip                   "Find places">
+<!ENTITY researchButton.tooltip                 "Find references">
+<!ENTITY signaturesButton.tooltip               "Find signatures">
+
+<!-- this is an entity because it can vary by locale, and which type has the most kinds on the locale 
      for en-US, it is "Research", which has "Wikipedia" + "Dictionary" + "Thesaurus" -->
 <!ENTITY compose-sidebar-default-width            "302">
 
@@ -320,153 +359,113 @@
 <!ENTITY formatToolbarPaddingLeftMac "75">
 
 <!-- topic context menu -->
-<!ENTITY pbTopicContextMenu-edit.label         "Изменить">
+<!ENTITY pbTopicContextMenu-edit.label         "Rename">
 <!ENTITY pbTopicContextMenu-edit.accesskey     "E">
-<!ENTITY pbTopicContextMenu-favorite.label     "Избранная метка">
+<!ENTITY pbTopicContextMenu-favorite.label     "Favorite Topic">
 <!ENTITY pbTopicContextMenu-favorite.accesskey "F">
-<!ENTITY pbTopicContextMenu-remove.label       "Удалить">
+<!ENTITY pbTopicContextMenu-remove.label       "Remove">
 <!ENTITY pbTopicContextMenu-remove.accesskey   "R">
-<!ENTITY pbTopicContextMenu-editAll.label      "Изменить метки…">
+<!ENTITY pbTopicContextMenu-editAll.label      "Edit Topics...">
 <!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
+<!ENTITY pbTopicContextMenu-delete.label       "Delete">
+<!ENTITY pbTopicContextMenu-delete.accesskey   "d">
+<!ENTITY pbTopicContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
 
 <!-- bubble context menu XXX TODO ACCESS KEYS-->
-<!ENTITY pbBubbleContextMenu-remove.label      "Удалить адрес">
-<!ENTITY pbBubbleContextMenu-copy.label        "Копировать адрес">
-<!ENTITY pbBubbleContextMenu-edit.label        "Изменить адрес">
-<!ENTITY pbBubbleContextMenu-open.label        "Открыть в адресной книге">
-<!ENTITY pbBubbleContextMenu-add.label         "Добавить в адресную книгу">
+<!ENTITY pbBubbleContextMenu-remove.label      "Remove Address">
+<!ENTITY pbBubbleContextMenu-copy.label        "Copy Address">
+<!ENTITY pbBubbleContextMenu-edit.label        "Edit Address">
+<!ENTITY pbBubbleContextMenu-open.label        "Open in Address Book">
+<!ENTITY pbBubbleContextMenu-add.label         "Add to Address Book">
 
-<!ENTITY pbInsertHTMLToolbarCmd.label "Вставить или изменить HTML">
-<!ENTITY pbRemoveTextToolbarCmd.label "Удалить стили текста">
+<!ENTITY pbInsertHTMLToolbarCmd.label "Insert HTML or edit selected HTML">
+<!ENTITY pbRemoveTextToolbarCmd.label "Remove text styles">
+<!ENTITY switchBetweenNormalAndCode.tooltip "Switch between Normal and Code views">
 
-<!ENTITY pbComposeSidebar.label "Боковая панель">
+<!ENTITY pbComposeSidebar.label "Sidebar">
 <!ENTITY pbComposeSidebar.accesskey "S">
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">
-<!ENTITY pbReplyButton.label       "Ответить">
-<!ENTITY pbReplyAllButton.tooltiptext    "Ответить отправителю выбранного сообщения">
-<!ENTITY pbReplyAllButton.label    "Ответить всем">
-<!ENTITY pbReplyAllButton.tooltiptext    "Ответить всем получателям выбранного сообщения">
+<!ENTITY pbReplyButton.label       "Reply">
+<!ENTITY pbReplyAllButton.tooltiptext    "Reply to all recipients for selected message">
+<!ENTITY pbReplyAllButton.label    "Reply All">
+<!ENTITY pbReplyAllButton.tooltiptext    "Reply to all recipients for selected message">
 <!ENTITY pbToggleReplyRecipients.accesskey "R">
 <!ENTITY pbToggleReplyRecipients.key "R">
 
-<!ENTITY pbQuoteMessageButton.label       "Цитировать">
-<!ENTITY pbQuoteMessageButton.tooltiptext "Цитировать выбранное сообщение">
-<!ENTITY pbQuoteConversationButton.label  "Конспект">
-<!ENTITY pbQuoteConversationButton.tooltiptext "Конспект беседы">
+<!ENTITY pbQuoteMessageButton.label       "Quote">
+<!ENTITY pbQuoteMessageButton.tooltiptext "Quote the selected message">
+<!ENTITY pbQuoteConversationButton.label  "Summarize">
+<!ENTITY pbQuoteConversationButton.tooltiptext "Summarize the conversation">
 <!ENTITY pbToggleReplyQuotingMode.accesskey   "u">
 <!ENTITY pbToggleReplyQuotingMode.key   "O">
 <!ENTITY pbFocusIdentityPicker.key "R">
 
 <!-- Insert Link Dialog -->
 
-<!ENTITY pbInsertLink.label "Введите URL-адрес этой ссылки.">
+<!ENTITY pbInsertLink.label "Enter the Internet address (URL) for this link.">
 <!ENTITY pbInsertLink.accesskey "E">
 
-<!ENTITY pbInsertImage.label "Введите URL-адрес этой ссылки или расположение файла:">
+<!ENTITY pbInsertImage.label "Enter a Internet address (URL) or local file location:">
 <!ENTITY pbInsertImage.accesskey "E">
 
-<!ENTITY insertListButton.tooltip "Добавить или удалить маркированный или нумерованный список">
+<!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">
 
+<!-- Statistics -->
+<!ENTITY pbStatsWords.label "words:">
+<!ENTITY pbStatsChars.label "characters:">
+<!ENTITY pbStatsTime.label "time:">
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!ENTITY pbCreateResponse.label "Create Response...">
+<!ENTITY pbSearchGoogle.label "Search in Google">
 
-<!ENTITY sendAndArchive.label "Отправить и архивировать">
-<!ENTITY sendLaterAndArchive.label "Отправить позже и архивировать">
+<!-- Template Placeholders -->
+<!ENTITY templatePlaceholders.tooltiptext "Insert a Template Placeholder">
 
+<!ENTITY templatePlaceholderCustom.label "Custom Placeholder">
+<!ENTITY templatePlaceholderMySelectedIdentity.label "My Selected Identity">
+<!ENTITY templatePlaceholderSourceMessage.label "Source Message">
+<!ENTITY templatePlaceholderSender.label "Sender">
+<!ENTITY templatePlaceholderToRecipients.label "To Recipients">
+<!ENTITY templatePlaceholderCcRecipients.label "Cc Recipients">
+<!ENTITY templatePlaceholderIdentity.label "Full Name">
+<!ENTITY templatePlaceholderEmail.label "Email Address">
+<!ENTITY templatePlaceholderFirstName.label "First Name">
+<!ENTITY templatePlaceholderLastName.label "Last Name">
+<!ENTITY templatePlaceholderMessageId.label "Message ID">
+<!ENTITY templatePlaceholderDate.label "Date">
+<!ENTITY templatePlaceholderSubject.label "Subject">
+<!ENTITY templatePlaceholderThisMessage.label "This Message">
+<!ENTITY templacePlaceholderFillValues.label "Fill Values">
 
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY newResponse.label "Новый ответ…">
-<!ENTITY editResponses.label "Изменить ответы…">
-<!ENTITY responseButton.tooltip "Вставить ответ">
-<!ENTITY responseButton.label "Ответы">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
-<!ENTITY pbTopicContextMenu-delete.label       "Удалить">
-<!ENTITY pbTopicContextMenu-delete.accesskey   "d">
-<!ENTITY pbTopicContextMenu-assignColor.label  "Выбрать цвет метки">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbStatsWords.label "Слов:">
-<!ENTITY pbSourceView.accesskey "d">
-<!ENTITY pbSourceViewThemes.accesskey "T">
-<!ENTITY pbStatsChars.label "Символов:">
-<!ENTITY formattingToolbar.label "Панель инструментов">
-<!ENTITY pbShowCompositionGoalsToolbarCmd.label "Строка состояния ограничений">
-<!ENTITY pbStatsTime.label "Время:">
-<!ENTITY pbSourceViewThemes.label "Тема">
-<!ENTITY compositionGoals.tooltip "Показать или скрыть строку состояния ограничений в окне создания сообщения">
-<!ENTITY switchBetweenNormalAndCode.tooltip "Переключение между обычным режимом просмотра и режимом просмотра кода">
-<!ENTITY compositionGoals.label "Ограничения">
-<!ENTITY tagButton.key "T">
-<!ENTITY pbSourceView.label "Просмотр кода">
-<!ENTITY pbShowCompositionGoalsToolbarCmd.accesskey "G">
-<!ENTITY formattingToolbar.tooltip "Показать или скрыть панель инструментов">
-
-<!ENTITY pbCreateResponse.label "Создать ответ…">
-<!ENTITY pbSearchGoogle.label "Поиск Google">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY templatePlaceholderLastName.label "Фамилия">
-<!ENTITY templatePlaceholderToRecipients.label "Получатели">
-<!ENTITY templatePlaceholderCcRecipients.label "Получатели копии">
-<!ENTITY templatePlaceholders.tooltiptext "Вставить заполнитель шаблона">
-<!ENTITY messageSize.label "Размер сообщения:">
-<!ENTITY templatePlaceholderFirstName.label "Имя">
-<!ENTITY templatePlaceholderEmail.label "Адрес эл. почты">
-<!ENTITY templatePlaceholderMessageId.label "Код сообщения">
-<!ENTITY templatePlaceholderCustom.label "Настраиваемый заполнитель">
-<!ENTITY templatePlaceholderThisMessage.label "Это сообщение">
-<!ENTITY imageSize.label "Размер изображения:">
-<!ENTITY largeImageResize.label "Большое">
-<!ENTITY templatePlaceholderMySelectedIdentity.label "Мое удостоверение">
-<!ENTITY templacePlaceholderFillValues.label "Заполнить значения">
-<!ENTITY templatePlaceholderSourceMessage.label "Исходное сообщение">
-<!ENTITY templatePlaceholderSender.label "Отправитель">
-<!ENTITY mediumImageResize.label "Среднее">
-<!ENTITY templatePlaceholderSubject.label "Тема">
-<!ENTITY smallImageResize.label "Маленькое">
-<!ENTITY templatePlaceholderIdentity.label "Полное имя">
-<!ENTITY templatePlaceholderDate.label "Дата">
+<!-- Image Resizing and Message Size -->
+<!ENTITY messageSize.label "Message size:">
+<!ENTITY imageSize.label "Image size:">
+<!ENTITY smallImageResize.label "Small">
+<!ENTITY mediumImageResize.label "Medium">
+<!ENTITY largeImageResize.label "Large">
 
 <!-- Image manipulation context menu -->
-<!ENTITY modifyAllImages.label "Изменение всех изображений">
-<!ENTITY scaleImage.label  "Масштаб">
+<!ENTITY modifyAllImages.label "Modify All Images">
+<!ENTITY scaleImage.label  "Scale">
 <!ENTITY scale200PCT.label "200&#37;">
 <!ENTITY scale150PCT.label "150&#37;">
 <!ENTITY scale100PCT.label "100&#37;">
 <!ENTITY scale75PCT.label  "75&#37;">
 <!ENTITY scale50PCT.label  "50&#37;">
 <!ENTITY scale25PCT.label  "25&#37;">
-<!ENTITY marginImage.label "Поле">
+<!ENTITY marginImage.label "Margin">
 <!ENTITY margin10px.label "10px">
 <!ENTITY margin20px.label "20px">
 <!ENTITY margin30px.label "30px">
 <!ENTITY margin40px.label "40px">
-<!ENTITY shadowImage.label "Тень">
+<!ENTITY shadowImage.label "Add a Shadow">
 <!ENTITY floatImage "Float">
-<!ENTITY leftFloat.label "влево">
-<!ENTITY rightFloat.label "прямоугольная">
-<!ENTITY fxImage.label "Видоизменение">
-<!ENTITY noFx.label "Нет Видоизменение">
+<!ENTITY leftFloat.label "Left">
+<!ENTITY rightFloat.label "Right">
+<!ENTITY fxImage.label "Effects">
+<!ENTITY noFx.label "No Effect">
 <!ENTITY equalizeFx.label "Equalize">
 <!ENTITY greyscaleFx.label "Greyscale">
 <!ENTITY sepiaFx.label "Sepia">
@@ -485,10 +484,10 @@ entities below were automatically added by l10nmerge
 <!ENTITY frame9Fx.label "Frame 9">
 <!ENTITY frame10Fx.label "Frame 10">
 <!ENTITY frame11Fx.label "Frame 11">
-<!ENTITY rotateImage.label "Повернуть">
-<!ENTITY rotate90.label "90 градусов">
-<!ENTITY rotate180.label "180 градусов">
-<!ENTITY rotate270.label "270 градусов">
-<!ENTITY flipImage.label "Отразить">
-<!ENTITY xflip.label "горизонтально">
-<!ENTITY yflip.label "вертикально">
+<!ENTITY rotateImage.label "Rotate">
+<!ENTITY rotate90.label "90 Degrees">
+<!ENTITY rotate180.label "180 Degrees">
+<!ENTITY rotate270.label "270 Degrees">
+<!ENTITY flipImage.label "Flip">
+<!ENTITY xflip.label "Horizontally">
+<!ENTITY yflip.label "Vertically">

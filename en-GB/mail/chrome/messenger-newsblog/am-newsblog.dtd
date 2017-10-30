@@ -1,4 +1,8 @@
-<!ENTITY newsblogTitle.label "RSS Account Settings">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY accountTitle.label "RSS Settings">
 
 <!ENTITY indexMsgBodies.label "Index message bodies">
 <!ENTITY indexMsgBodies.accesskey "I">
@@ -16,7 +20,10 @@
 <!ENTITY manageSubscriptions.label "Manage Subscriptions…"> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "News &amp; Blogs">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "RSS News &amp; Blogs">
+<!ENTITY feedWindowTitle.label "Feed Account Wizard">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Blogs &amp; News Feeds">
+<!ENTITY feeds.wizardShortName "Feeds">
+<!ENTITY feeds.wizardLongName "Blogs &amp; News Feeds">
+<!ENTITY feeds.wizardLongName.accesskey "F">

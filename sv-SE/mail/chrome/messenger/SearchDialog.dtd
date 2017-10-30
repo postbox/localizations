@@ -1,43 +1,46 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Sök efter meddelanden i:">
 <!ENTITY searchHeading.accesskey     "m">
 <!ENTITY searchSubfolders.label      "Sök i undermappar">
 <!ENTITY searchSubfolders.accesskey  "u">
+<!ENTITY searchOnServer.label        "Sök på servern">
+<!ENTITY searchOnServer.accesskey    "å">
 <!ENTITY resetButton.label           "Rensa">
 <!ENTITY resetButton.accesskey       "n">
-<!ENTITY optionsButton.label         "Alternativ">
-<!ENTITY closeButton.label           "Stäng">
 <!ENTITY openButton.label            "Öppna">
-<!ENTITY openButton.accesskey        "p">
+<!ENTITY openButton.accesskey        "Ö">
 <!ENTITY deleteButton.label          "Ta bort">
-<!ENTITY deleteButton.accesskey      "T">
+<!ENTITY deleteButton.accesskey      "b">
 <!ENTITY searchDialogTitle.label     "Sök efter meddelanden">
-<!ENTITY conditionDesc.label         "Sök efter meddelanden som matchar:">
-<!ENTITY conditions.label            "Kriteria">
 <!ENTITY results.label               "Sökresultat">
-<!ENTITY fileHereMenu.label          "Arkivera här">
-<!ENTITY fileHereMenu.accesskey      "h">
-<!ENTITY fileButton.label            "Arkivera">
-<!ENTITY fileButton.accesskey        "v">
-<!ENTITY closeCmd.key                "W">
-<!ENTITY goToFolderButton.label      "Öppna meddelandemapp">
-<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY moveButton.label            "Flytta till">
+<!ENTITY moveButton.accesskey        "t">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Öppna i mapp">
+<!ENTITY openInFolder.accesskey      "p">
 <!ENTITY saveAsVFButton.label        "Spara som sökmapp">
 <!ENTITY saveAsVFButton.accesskey    "k">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Sök i:">
-<!ENTITY abSearchHeading.accesskey   "S">
+<!ENTITY abSearchHeading.accesskey   "ö">
 <!ENTITY propertiesButton.label      "Egenskaper">
 <!ENTITY propertiesButton.accesskey  "E">
 <!ENTITY composeButton.label         "Skriv">
 <!ENTITY composeButton.accesskey     "r">
+<!ENTITY deleteCardButton.label      "Ta bort">
+<!ENTITY deleteCardButton.accesskey  "T">
 <!ENTITY abSearchDialogTitle.label   "Avancerad sökning i adressbok">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Från">
 <!ENTITY recipientColumn.label "Mottagare">
+<!ENTITY correspondentColumn.label "Korrespondenter">
 <!ENTITY subjectColumn.label "Ämne">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Prioritet">
@@ -46,7 +49,6 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Storlek">
 <!ENTITY junkStatusColumn.label "Skräpstatus">
-<!ENTITY linesColumn.label "Rader">
 <!ENTITY unreadColumn.label "Olästa">
 <!ENTITY totalColumn.label "Totalt">
 <!ENTITY readColumn.label "Lästa">
@@ -56,22 +58,23 @@
 <!ENTITY idColumn.label "Mottagen ordning">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Klicka för att välja vilka kolumner som ska visas">
-<!ENTITY threadColumn.tooltip "Klicka för att visa meddelandetrådar">
-<!ENTITY fromColumn.tooltip "Klicka för att ordna efter avsändare">
-<!ENTITY recipientColumn.tooltip "Klicka för att ordna efter mottagare">
-<!ENTITY subjectColumn.tooltip "Klicka för att ordna efter ämne">
-<!ENTITY dateColumn.tooltip "Klicka för att ordna efter datum">
-<!ENTITY priorityColumn.tooltip "Klicka för att ordna efter prioritet">
-<!ENTITY tagsColumn.tooltip "Klicka för att ordna efter etikett">
-<!ENTITY accountColumn.tooltip "Klicka för att ordna efter konto">
-<!ENTITY statusColumn.tooltip "Klicka för att ordna efter status">
-<!ENTITY sizeColumn.tooltip "Klicka för att ordna efter storlek">
-<!ENTITY junkStatusColumn.tooltip "Klicka för att ordna efter skräpstatus">
-<!ENTITY unreadColumn.tooltip "Antalet olästa meddelanden i tråden">
-<!ENTITY totalColumn.tooltip "Totala antalet meddelanden i tråden">
-<!ENTITY readColumn.tooltip "Klicka för att ordna efter lästa">
-<!ENTITY receivedColumn.tooltip "Klicka för att ordna efter mottagningsdatum">
-<!ENTITY starredColumn.tooltip "Klicka för att ordna efter märken">
-<!ENTITY locationColumn.tooltip "Klicka för att ordna efter plats">
-<!ENTITY idColumn.tooltip "Klicka för att ordna efter mottagen ordning">
+<!ENTITY columnChooser2.tooltip "Välj kolumner att visa">
+<!ENTITY threadColumn2.tooltip "Visa meddelandetrådar">
+<!ENTITY fromColumn2.tooltip "Sortera efter avsändare">
+<!ENTITY recipientColumn2.tooltip "Sortera efter mottagare">
+<!ENTITY correspondentColumn2.tooltip "Sortera efter korrespondenter">
+<!ENTITY subjectColumn2.tooltip "Sortera efter ämne">
+<!ENTITY dateColumn2.tooltip "Sortera efter datum">
+<!ENTITY priorityColumn2.tooltip "Sortera efter prioritet">
+<!ENTITY tagsColumn2.tooltip "Sortera efter etiketter">
+<!ENTITY accountColumn2.tooltip "Sortera efter konto">
+<!ENTITY statusColumn2.tooltip "Sortera efter status">
+<!ENTITY sizeColumn2.tooltip "Sortera efter storlek">
+<!ENTITY junkStatusColumn2.tooltip "Sortera efter skräpstatus">
+<!ENTITY unreadColumn2.tooltip "Antal olästa meddelanden i tråden">
+<!ENTITY totalColumn2.tooltip "Totala antalet meddelanden i tråden">
+<!ENTITY readColumn2.tooltip "Sortera efter lästa">
+<!ENTITY receivedColumn2.tooltip "Sortera efter datum mottaget">
+<!ENTITY starredColumn2.tooltip "Sortera efter märken">
+<!ENTITY locationColumn2.tooltip "Sortera efter plats">
+<!ENTITY idColumn2.tooltip "Sortera efter ordning mottaget">

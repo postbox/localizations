@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  typeColumn.label            "Content Type">
 <!ENTITY  typeColumn.accesskey        "T">
 
@@ -7,7 +11,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder            "Search">
+<!ENTITY  filter.placeholder          "Search">
 
 <!ENTITY saveTo.label                 "Save files to">
 <!ENTITY saveTo.accesskey             "S">
@@ -21,8 +25,8 @@
 <!ENTITY attachments.incoming.label   "Incoming">
 <!ENTITY attachments.outgoing.label   "Outgoing">
 
-<!ENTITY addCloudFileAccount.label        "Add">
-<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount1.label       "Add…">
+<!ENTITY addCloudFileAccount1.accesskey   "A">
 <!ENTITY addCloudFileAccount.description  "Add a new online storage service">
 <!ENTITY removeCloudFileAccount.label     "Remove">
 <!ENTITY removeCloudFileAccount.accesskey "R">

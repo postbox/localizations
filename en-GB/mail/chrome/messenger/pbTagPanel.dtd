@@ -7,9 +7,4 @@
 <!ENTITY tagpanel.expanderDown.tooltip  "Show favorite topics">
 <!ENTITY tagpanel.expanderUp.tooltip    "Hide favorite topics">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
 <!ENTITY showLabelCmd.key              "l">

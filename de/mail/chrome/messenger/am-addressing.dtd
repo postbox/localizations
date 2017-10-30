@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Verfassen &amp; Adressieren">
@@ -11,6 +15,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Einen anderen LDAP-Verzeichnisserver verwenden:">
 <!ENTITY directories.accesskey     "E">
+<!ENTITY directoriesNone.label     "Keine">
 
 <!-- am-addressing.xul -->
 
@@ -30,25 +35,24 @@
 <!ENTITY place.accesskey                      "u">
 <!ENTITY belowText.label                      "unter das Zitat platzieren. (empfohlen)">
 <!ENTITY aboveText.label                      "unter meiner Antwort, aber über dem Zitat platzieren.">
-<!ENTITY includeSigOnReply.label              "Signatur bei Antworten benutzen">
-<!ENTITY includeSigOnReply.accesskey          "S">
-<!ENTITY includeSigOnForward.label            "Signatur bei Weiterleitungen benutzen">
+<!ENTITY includeSigOnReply.label              "Signatur beim Antworten beifügen">
+<!ENTITY includeSigOnReply.accesskey          "A">
+<!ENTITY includeSigOnForward.label            "Signatur beim Weiterleiten beifügen">
 <!ENTITY includeSigOnForward.accesskey        "W">
+<!ENTITY markNotInWhitelist.label             "Mark addresses not ending with:">
+<!ENTITY markNotInWhitelist.accesskey         "m">
+<!ENTITY markInTrustedList.label              "Mark addresses when sending to:">
+<!ENTITY markInTrustedList.accesskey          "d">
+
+<!ENTITY globalComposingPrefs.label           "Globale Einstellungen…">
+<!ENTITY globalComposingPrefs.accesskey       "t">
+
+<!ENTITY globalAddressingPrefs.label          "Globale Einstellungen…">
+<!ENTITY globalAddressingPrefs.accesskey      "s">
 
 <!-- Postbox Summary Mode -->
-<!ENTITY pbSummarizeOnReply.label             "Von">
-<!ENTITY pbSummarizeOnReply.accesskey         "V">
-<!ENTITY pbSummarizeOnReply.normal.label      "Zitiere die gewählte E-Mail">
-<!ENTITY pbSummarizeOnReply.summarize.label   "gesamte Unterhaltung zusammenfassen">
-<!ENTITY pbSummarizeOnReply.lastused.label    "zuletzt benutzte Einstellung verwenden">
-<!ENTITY pbSummarizeOnReply.photos.label       "Kontaktfotos für jeden Teilnehmer bei der Zusammenfassung einfügen">
-<!ENTITY pbSummarizeOnReply.photos.accesskey   "I">
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY markNotInWhitelist.label             "Markiere Adressen, die nicht enden mit:">
-<!ENTITY markInTrustedList.accesskey          "d">
-<!ENTITY markNotInWhitelist.accesskey         "m">
-<!ENTITY markInTrustedList.label              "Markiere Adressen beim Senden an:">
+<!ENTITY pbSummarizeOnReply.label             "By">
+<!ENTITY pbSummarizeOnReply.accesskey         "y">
+<!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
+<!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
+<!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">

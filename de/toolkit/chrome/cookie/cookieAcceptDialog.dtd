@@ -1,10 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY     props.name.label               "Name:">
 <!ENTITY     props.value.label              "Information:">
 <!ENTITY     props.domain.label             "Host:">
 <!ENTITY     props.path.label               "Pfad:">
 <!ENTITY     props.secure.label             "Senden für:">
 <!ENTITY     props.expires.label            "Gültig bis:">
-<!ENTITY     props.policy.label             "Richtlinie:"> 
 
 <!ENTITY     button.allow.label             "Erlauben">
 <!ENTITY     button.allow.accesskey         "E">
@@ -14,6 +17,5 @@
 <!ENTITY     button.deny.accesskey          "A">
 
 <!ENTITY     dialog.title                   "Das Setzen des Cookies bestätigen">
-<!ENTITY     dialog.remember.label          "Diese Auswahl bei allen Cookies von dieser Website verwenden">
+<!ENTITY     dialog.remember.label          "Diese Auswahl bei allen Cookies von dieser Site verwenden">
 <!ENTITY     dialog.remember.accesskey      "D">
-

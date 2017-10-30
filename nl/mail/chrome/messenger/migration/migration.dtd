@@ -1,43 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY migrationWizard.title          "Importeerassistent">
 
-<!ENTITY importFromUnix.label           "Importeer Voorkeuren, Account instellingen, Adresboek en andere data van:">
+<!ENTITY migrationWizard.title          "Importeerwizard">
 
+<!ENTITY importFromWin.label            "Opties, accountinstellingen, adresboek, filters en andere gegevens importeren uit:">
+<!ENTITY importFromNonWin.label         "Voorkeuren, accountinstellingen, adresboek en andere gegevens importeren uit:">
+<!ENTITY importSourceNotFound.label     "Er is geen toepassing gevonden om gegevens uit te importeren.">
+
+<!ENTITY cleanInstall.label             "Clean install (recommended)">
+<!ENTITY cleanInstall.accesskey  	"C">
+
+<!ENTITY importFromNothing.label        "Niets importeren">
+<!ENTITY importFromNothing.accesskey    "t">
 <!ENTITY importFromThunderbird.label    "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x of Seamonkey">
-<!ENTITY importFromSeamonkey2.accesskey "N">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 of nieuwer">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
-<!ENTITY importFromEudora.label         "Eudora">
-<!ENTITY importFromEudora.accesskey     "E">
-<!ENTITY importFromNothing.label        "Niets importeren">
-<!ENTITY importFromNothing.accesskey    "t">
 
-<!ENTITY welcome.title                  "Welkom bij &brandShortName;">
-<!ENTITY tagline.label                  "Een betere manier om te e-mailen">
-<!ENTITY thanks.label                   "Bedankt voor het uitproberen van &brandShortName;!">
-<!ENTITY quickStart1.label              "Zie de ">
-<!ENTITY quickStart2.label              "Snelstart handleiding"> 
-<!ENTITY quickStart3.label              " om meer te leren over alle functies.">
-<!ENTITY start.label                    "Begin het gebruik van &brandShortName;">
+<!ENTITY welcome.title                  "Welcome to &brandShortName;">
+<!ENTITY tagline.label                  "A Better Way To Do Email">
+<!ENTITY thanks.label                   "Thanks for trying out &brandShortName;!">
+<!ENTITY quickStart1.label              "See the ">
+<!ENTITY quickStart2.label              "Quickstart Guide"> 
+<!ENTITY quickStart3.label              " to learn about all the features.">
+<!ENTITY start.label                    "Start using &brandShortName;">
     
-<!ENTITY migration.title                "Accountmigratie Wizard">
-<!ENTITY migrationMac.title             "Accountmigratie Assistent">
-<!ENTITY importOptions.title            "Importeerinstellingen">
+<!ENTITY migration.title                "Account Migration Wizard">
+<!ENTITY migrationMac.title             "Account Migration Assistant">
+<!ENTITY importOptions.title            "Import Options">
 <!ENTITY importItems.title              "Te importeren items">
 <!ENTITY importItems.label              "Selecteer de te importeren items:">
 
-<!ENTITY migrating.title                "Bezig met importeren…">
+<!ENTITY migrating.title                "Importeren…">
 <!ENTITY migrating.label                "De volgende items worden momenteel geïmporteerd…">
 
 <!ENTITY selectProfile.title            "Profiel selecteren">
 <!ENTITY selectProfile.label            "De volgende profielen zijn beschikbaar om uit te importeren:">
 
 <!ENTITY done.title                     "Importeren voltooid">
-<!ENTITY done.label                     "De volgende items zijn succesvol geïmporteerd:">
+<!ENTITY done.label                     "De volgende items zijn met succes geïmporteerd:">
 
 <!ENTITY importFromAppleMail.label    "Apple Mail">
 <!ENTITY importFromAppleMail.accesskey "A">
@@ -52,16 +59,7 @@
 <!ENTITY explanation-text.top "50">
 <!ENTITY radio.top "72">
 <!ENTITY import.top "86">
-<!ENTITY progress.top "140">
-<!ENTITY start.left "279">
+<!ENTITY progress.top "160">
 <!ENTITY start.top "264">
 <!ENTITY startMac.top "266">
 <!ENTITY guide.top "159">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY cleanInstall.accesskey  	"C">
-<!ENTITY cleanInstall.label             "Schone installatie (aanbevolen)">

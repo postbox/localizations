@@ -1,8 +1,12 @@
-<!ENTITY aboutSupport.appBasicsAppBuildID "Applicatie Build ID">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.accountsTitle "Mail en Nieuws Accounts">
-<!ENTITY aboutSupport.showPrivateData.mainText "Includeer accountnamen">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(identificeert mogelijk informatie)">
+<!ENTITY aboutSupport.appBasicsAppBuildID "Build-ID van de toepassing">
+
+<!ENTITY aboutSupport.accountsTitle "E-mail- en nieuwsaccounts">
+<!ENTITY aboutSupport.showPrivateData.mainText "Accountnamen bijsluiten">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(mogelijke indentificatiegegevens)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Naam">
 <!ENTITY aboutSupport.accountsIncomingServer "Inkomende server">
@@ -10,17 +14,18 @@
 <!ENTITY aboutSupport.accountsServerName "Naam">
 <!ENTITY aboutSupport.accountsConnSecurity "Verbindingsbeveiliging">
 <!ENTITY aboutSupport.accountsAuthMethod "Authenticatiemethode">
-<!ENTITY aboutSupport.filterCount "Filter Aantal">
+<!ENTITY aboutSupport.filterCount "Filter Count">
 <!ENTITY aboutSupport.accountsDefault "Standaard?">
+<!ENTITY aboutSupport.identityName "Identiteit">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Verzend via e-mail">
+<!ENTITY aboutSupport.sendViaEmail.label "Verzenden via e-mail">
 
-<!ENTITY aboutSupport.pageTitle2 "Configuratie Data">
+<!ENTITY aboutSupport.pageTitle2 "Configuration Data">
 
 <!ENTITY aboutSupport.indexerTitle "Indexer">
 
-<!ENTITY aboutSupport.miscTitle "Divers">
+<!ENTITY aboutSupport.miscTitle "Miscellaneous">
 
-<!ENTITY aboutSupport.appBasicsLicenseName "Licentie Naam">
-<!ENTITY aboutSupport.ageInDays "Dagen In Gebruik">
-<!ENTITY aboutSupport.pbState "Staat">
+<!ENTITY aboutSupport.appBasicsLicenseName "License Name">
+<!ENTITY aboutSupport.ageInDays "Days In Use">
+<!ENTITY aboutSupport.pbState "State">

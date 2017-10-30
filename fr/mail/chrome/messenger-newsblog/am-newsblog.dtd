@@ -1,4 +1,8 @@
-<!ENTITY newsblogTitle.label "RSS Account Settings">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY accountTitle.label "RSS Settings">
 
 <!ENTITY indexMsgBodies.label "Index message bodies">
 <!ENTITY indexMsgBodies.accesskey "I">
@@ -7,16 +11,19 @@
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutes">
 
-<!ENTITY loginAtStartup.label "Vérifier la disponibilité de nouveaux articles au démarrage">
+<!ENTITY loginAtStartup.label "Vérifier les nouveaux articles au démarrage"> 
 <!ENTITY loginAtStartup.accesskey "r">
 
-<!ENTITY useQuickMode.label "Par défaut, afficher le résumé de l'article plutôt que de télécharger la page Web">
-<!ENTITY useQuickMode.accesskey "P">
+<!ENTITY useQuickMode.label "Par défaut, afficher le résumé de l’article plutôt que de télécharger la page web"> 
+<!ENTITY useQuickMode.accesskey "a">
 
-<!ENTITY manageSubscriptions.label "Gérer les abonnements…">
+<!ENTITY manageSubscriptions.label "Gérer les abonnements…"> 
 <!ENTITY manageSubscriptions.accesskey "G">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Infos &amp; Blogs">
-<!ENTITY rss.wizardShortName        "RSS">
-<!ENTITY rss.wizardLongName         "Flux RSS &amp; Blogs">
+<!ENTITY feedWindowTitle.label "Assistant de compte de flux">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Blogs et nouvelles">
+<!ENTITY feeds.wizardShortName "Flux">
+<!ENTITY feeds.wizardLongName "Blogs et nouvelles">
+<!ENTITY feeds.wizardLongName.accesskey "B">

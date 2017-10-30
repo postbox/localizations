@@ -1,17 +1,8 @@
-<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-<!ENTITY sendWindow.title "Skickar meddelanden">
-<!ENTITY titlePrefixSave "Sparar meddelanden -">
-<!ENTITY titlePrefixSend "Skickar meddelanden -">
-<!ENTITY status   "Status:">
-<!ENTITY progress "Förlopp:">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (percentMsg):
-
-    This string is used to format the text to the right of the progress
-    meter.
-
-    #1 will be replaced by the percentage of the file that has been saved -->
-<!ENTITY percentMsg "#1&#037;">
-
-<!ENTITY messageSent "Ditt meddelande har skickats">
-<!ENTITY messageSaved "Ditt meddelande har sparats">
+<!--LOCALIZATION NOTE sendProgress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendDialog.title "Skickar meddelande">
+<!ENTITY status.label "Status:">
+<!ENTITY progress.label "Förlopp:">

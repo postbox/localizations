@@ -1,49 +1,67 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1999
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Alexander L. Slovesnik <unghost@mozilla-russia.org> (Russian translation)
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-<!ENTITY editorWindow.titlemodifier "Компоновщик">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY editorWindow.titlemodifier "Компоновщик"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
-<!ENTITY viewMenu.label "Вид">
-<!ENTITY viewMenu.accesskey "и">
+
+<!-- Menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Панель компоновки">
+<!ENTITY previewToolbarCmd.label "Просмотр">
+<!ENTITY previewToolbarCmd.tooltip "Загрузить эту страницу в браузер">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Экспорт в текстовый формат…">
+<!ENTITY exportToTextCmd.accesskey "т">
+<!ENTITY previewCmd.label "Просмотр страницы">
+<!ENTITY previewCmd.accesskey "м">
+<!ENTITY sendPageCmd.label "Отправить страницу…">
+<!ENTITY sendPageCmd.accesskey "т">
+
+<!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Панель компоновки">
 <!ENTITY compositionToolbarCmd.accesskey "к">
 <!ENTITY formattingToolbarCmd.label "Панель форматирования">
 <!ENTITY formattingToolbarCmd.accesskey "ф">
-<!ENTITY editmodeToolbarCmd.label "Панель режима редактирования">
+<!ENTITY editmodeToolbarCmd.label "Панель режимов редактирования">
 <!ENTITY editmodeToolbarCmd.accesskey "р">
+
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "Формат">
 <!ENTITY formatMenu.accesskey "м">
+<!ENTITY grid.label "Сетка">
+<!ENTITY grid.accesskey "е">
+<!ENTITY pageProperties.label "Заголовок и свойства страницы…">
+<!ENTITY pageProperties.accesskey "г">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Проверить HTML">
+<!ENTITY validateCmd.accesskey "в">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Обычный">
+<!ENTITY NormalMode.label "Обычный режим редактирования">
+<!ENTITY NormalMode.accesskey "О">
+<!ENTITY NormalMode.tooltip "Показываются границы таблиц и имена якорей">
+<!ENTITY AllTagsModeTab.label "HTML-теги">
+<!ENTITY AllTagsMode.label "HTML-теги">
+<!ENTITY AllTagsMode.accesskey "т">
+<!ENTITY AllTagsMode.tooltip "Показываются значки для всех HTML-тегов">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Исходный код">
+<!ENTITY HTMLSourceMode.label "Исходный код HTML">
+<!ENTITY HTMLSourceMode.accesskey "к">
+<!ENTITY HTMLSourceMode.tooltip "Редактировать исходный код HTML">
+<!ENTITY PreviewModeTab.label "Предварительный просмотр">
+<!ENTITY PreviewMode.label "Предварительный просмотр">
+<!ENTITY PreviewMode.accesskey "р">
+<!ENTITY PreviewMode.tooltip "Показывать страницу, как в браузере">

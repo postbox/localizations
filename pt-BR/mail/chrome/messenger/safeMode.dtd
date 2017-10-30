@@ -1,77 +1,39 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-#if 0
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org Code.
-   -
-   - The Initial Developer of the Original Code is Mike Connor.
-   - Portions created by the Initial Developer are Copyright (C) 2005
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Mike Connor <mconnor@steelgryphon.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-#endif
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY changeAndRestartButton2.label     "Salvar e reiniciar">
-<!ENTITY changeAndRestartButton2.accesskey "S">
+<!ENTITY changeAndRestartButton2.label     "Apply and Restart">
+<!ENTITY changeAndRestartButton2.accesskey "A">
 
 
 <!ENTITY safeModeOptionsWindow.width       "width: 49em;">
-<!ENTITY safeModeOptionsDialog.title       "Solução de Problemas do &brandShortName;">
+<!ENTITY safeModeOptionsDialog.title       "&brandShortName; Troubleshooting">
 
-<!ENTITY safeModeOptionsDescription2.label "Se você estiver com dificuldades no Postbox, tente reiniciar com uma dessas opções de solução de problemas selecionada:">
+<!ENTITY safeModeOptionsDescription2.label "If you are experiencing difficulty with Postbox, try restarting 
+with one or more of these troubleshooting options selected:">
 
 
-<!ENTITY disableAddons.label              "Desabilitar permanentemente todos os Add-ons">
+<!ENTITY disableAddons.label              "Desativar todas as extensões, temas e plugins">
 <!ENTITY disableAddons.accesskey          "D">
 
-<!ENTITY resetToolbars.label              "Redefinir a Interface de Usuário">
+<!ENTITY resetToolbars.label              "Restaurar barras de ferramentas e controles">
 <!ENTITY resetToolbars.accesskey          "R">
 
-<!ENTITY resetIndex.label                 "Redefinir o índice de pesquisas">
-<!ENTITY resetIndex.accesskey             "I">
+<!ENTITY resetCacheAndIndex.label         "Reset Caches and Search Index">
+<!ENTITY resetCacheAndIndex.accesskey     "I">
 
-<!ENTITY safeMode.label                   "Modo Seguro (desabilita temporariamente todos os Add-ons e as configurações personalizadas)">
+<!ENTITY safeMode.label                   "Safe Mode (temporarily disables all Add-ons and custom settings)">
 <!ENTITY safeMode.accesskey               "M">
 
-<!ENTITY profileManager.label                   "Abrir o Gerenciador de Perfis ao reiniciar">
+<!ENTITY profileManager.label                   "Open Profile Manager on Restart">
 <!ENTITY profileManager.accesskey               "P">
 
-<!ENTITY protocolLogging.label                   "Criar arquivo de log de protocolo">
+<!ENTITY protocolLogging.label                   "Create Protocol Log File">
 <!ENTITY protocolLogging.accesskey               "L">
 
+<!ENTITY safeModeDialogHeader.label       "Troubleshooting">
 
-<!--
-entities below were automatically added by l10nmerge
--->
+<!ENTITY safeModeDialogHelpButton.tooltip "Display online help for this dialog">
 
+<!ENTITY resetImapFolders.label           "Reset IMAP mail databases and Search Indexes">
 <!ENTITY resetImapFolders.accesskey       "b">
-<!ENTITY resetCacheAndIndex.accesskey     "I">
-<!ENTITY resetImapFolders.label           "Redefinir a base de dados de e-mails IMAP">
-<!ENTITY resetCacheAndIndex.label         "Apagar os dados temporários e o índice de pesquisas">
-<!ENTITY safeModeDialogHelpButton.tooltip "Exibir ajuda online para esta janela">
-<!ENTITY safeModeDialogHeader.label       "Solução de problemas">

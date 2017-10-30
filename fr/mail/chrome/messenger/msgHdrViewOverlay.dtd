@@ -1,90 +1,65 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pbToField.label "To:">
 <!ENTITY pbFromField.label "From:">
-<!ENTITY pbSenderField.label "Émetteur:">
+<!ENTITY pbSenderField.label "Sender:">
 <!ENTITY pbOrganizationField.label "Organization:">
-<!ENTITY pbReplyToField.label "Répondre à:">
+<!ENTITY pbReplyToField.label "Reply-To:">
 
-<!ENTITY subjectField.label "Sujet: ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY pbCcField.label "Copie à:">
-<!ENTITY pbBccField.label "Copie cachée à:">
-<!ENTITY pbNewsgroupsField.label "Newsgroups:">
-<!ENTITY pbFollowupToField.label "Faire suivre à:">
-<!ENTITY pbLinkField.label "Lien:">
-<!ENTITY pbTagsHdr.label "Étiquettes:">
+<!ENTITY subjectField.label "Subject:">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY pbCcField.label "Cc:">
+<!ENTITY pbBccField.label "Bcc:">
+<!ENTITY pbNewsgroupsField.label "Groups:">
+<!ENTITY pbFollowupToField.label "Followup-To:">
+<!ENTITY pbLinkField.label "Link:">
+<!ENTITY pbTagsHdr.label "Topics:">
 <!ENTITY pbDateField.label "Date:">
 <!ENTITY pbUserAgentField.label "User-Agent:">
-<!ENTITY pbReferencesField.label "Références:">
-<!ENTITY pbMessageIdField.label "ID-Message:">
-<!ENTITY pbInReplyToField.label "En-Réponse-À:">
-<!ENTITY pbOriginalWebsite.label "Site web:">
+<!ENTITY pbReferencesField.label "References:">
+<!ENTITY pbMessageIdField.label "Message-ID:">
+<!ENTITY pbInReplyToField.label "In-Reply-To:">
+<!ENTITY pbOriginalWebsite.label "Website:">
 <!ENTITY pbParticipantsField.label "Participants:">
-<!ENTITY saveAll.label "Sauvegarder tout...">
+<!ENTITY saveAll.label "Save All..">
 
-<!ENTITY openAttachmentCmd.label    "Ouvrir">
-<!ENTITY openAttachmentCmd.accesskey    "O">
-<!ENTITY saveAsAttachmentCmd.label    "Enregistrer sous…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "E">
-<!ENTITY printAttachmentCmd.label    "Imprimer">
-<!ENTITY printAttachmentCmd.accesskey    "p">
-<!ENTITY detachAttachmentCmd.label    "Détacher…">
-<!ENTITY deleteAttachmentCmd.label    "Supprimer">
-<!ENTITY saveAllAttachmentsCmd.label    "Tout enregistrer…">
-<!ENTITY saveAllAttachmentsCmd.accesskey    "T">
-<!ENTITY detachAllAttachmentsCmd.label    "Tout détacher…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "d">
-<!ENTITY deleteAllAttachmentsCmd.label    "Tout supprimer…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "s">
+<!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label "Ouvrir">
+<!ENTITY openAttachmentCmd.accesskey "O">
+<!ENTITY saveAsAttachmentCmd.label "Enregistrer sous…">
+<!ENTITY saveAsAttachmentCmd.accesskey "E">
+<!ENTITY detachAttachmentCmd.label "Détacher…">
+<!ENTITY detachAttachmentCmd.accesskey "a">
+<!ENTITY deleteAttachmentCmd.label "Supprimer">
+<!ENTITY deleteAttachmentCmd.accesskey "u">
+<!ENTITY openAllAttachmentsCmd.label "Tout ouvrir…">
+<!ENTITY openAllAttachmentsCmd.accesskey "v">
+<!ENTITY saveAllAttachmentsCmd.label "Tout enregistrer…">
+<!ENTITY saveAllAttachmentsCmd.accesskey "T">
+<!ENTITY detachAllAttachmentsCmd.label "Tout détacher…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "D">
+<!ENTITY deleteAllAttachmentsCmd.label "Tout supprimer…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "s">
 
-<!ENTITY copyLinkCmd.label        "Copier l'adresse du lien">
-<!ENTITY copyLinkCmd.accesskey    "C">
+<!ENTITY openAttachment.tooltip "Ouvrir la pièce jointe">
 
-<!ENTITY CopyMessageId.label "Copier l'identifiant du message">
-<!ENTITY OpenMessageForMsgId.label "Ouvrir le message pour l'identifiant">
-<!ENTITY OpenBrowserWithMsgId.label "Ouvrir le navigateur avec l'identifiant de message">
+<!ENTITY copyLinkCmd.label "Copier l’adresse du lien">
+<!ENTITY copyLinkCmd.accesskey "C">
 
-<!ENTITY msgHdrViewOpenMessage.label "ouvrir le message">
-<!ENTITY pbMsgHdrView.showDetails.label "montrer les détails">
-<!ENTITY pbMsgHdrView.hideDetails.label "masquer les détails">
-<!ENTITY pbMsgHdrView.conversationMsgReply.label "répondre">
-<!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "répondre à tous">
-<!ENTITY pbMsgHdrView.conversationMsgForward.label "transférer">
+<!ENTITY CopyMessageId.label "Copier l’identifiant du message">
+<!ENTITY CopyMessageId.accesskey "C">
+<!ENTITY OpenMessageForMsgId.label "Ouvrir le message pour l’identifiant">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
+<!ENTITY OpenBrowserWithMsgId.label "Ouvrir le navigateur avec l’identifiant de message">
+<!ENTITY OpenBrowserWithMsgId.accesskey "v">
 
-<!ENTITY pbMsgHdrView.loadingMessageBody.label "Chargement...">
+<!ENTITY msgHdrViewOpenMessage.label "open message">
+<!ENTITY pbMsgHdrView.showDetails.label "show details">
+<!ENTITY pbMsgHdrView.hideDetails.label "hide details">
+<!ENTITY pbMsgHdrView.conversationMsgReply.label "reply">
+<!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "reply all">
+<!ENTITY pbMsgHdrView.conversationMsgForward.label "forward">
+
+<!ENTITY pbMsgHdrView.loadingMessageBody.label "Loading...">

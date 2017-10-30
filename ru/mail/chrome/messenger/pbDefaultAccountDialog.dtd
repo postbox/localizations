@@ -1,5 +1,5 @@
-﻿<!ENTITY defaultAccount.title  "Учетная запись по умолчанию">
-<!ENTITY defaultAccount.intro  "Выберите учетную запись по умолчанию:">
+<!ENTITY defaultAccount.title  "Default Account">
+<!ENTITY defaultAccount.intro  "Select your default account:">
 
-<!ENTITY defaultAccount.desc   "Бесплатная версия Postbox поддерживает только одну учетную запись. Для использования нескольких учетных записей обновите Postbox до полной версии.">
+<!ENTITY defaultAccount.desc   "Postbox Free supports one email account.  Upgrade to Postbox to use multiple accounts.">
 <!ENTITY pb.macDefaultAccountDialog.size "width: 35em;">

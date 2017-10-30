@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Account Wizard">
@@ -6,9 +10,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "In order to receive messages, you first need to set up a Mail or Newsgroup account.">
+<!ENTITY accountSetupInfo2.label "In order to receive messages, you first need to set up an account.">
 <!ENTITY accountTypeTitle.label "New Account Setup">
-<!ENTITY accountTypeDesc.label "This Wizard will collect the information necessary to set up a Mail or Newsgroup account. If you do not know the information requested, please contact your System Administrator or Internet Service Provider.">
+<!ENTITY accountTypeDesc2.label "This Wizard will collect the information necessary to set up an account. If you do not know the information requested, please contact your System Administrator or Internet Service Provider.">
 <!ENTITY accountTypeDirections.label "Select the type of account you would like to set up:">
 <!ENTITY accountTypeMail.label "Other email account">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -25,80 +29,75 @@
 
 <!ENTITY emailLabel.label "Email Address:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY emailDesc.label "Enter your email address; this is the address others will use to send email to you">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(for example: user@example.net).">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "Server Information">
-<!ENTITY incomingServerTitle.label "Incoming Server">
+<!ENTITY incomingTitle.label "Incoming Server Information">
 <!ENTITY incomingServerTypeDesc.label "Select the type of incoming server you are using.">
-<!ENTITY incomingServerTypeLabel.label "Server Type:">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Enter the name of your incoming server (for example, &quot;mail.example.net&quot;).">
-<!ENTITY incomingServerLabel.label "Incoming Server:">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Enter the name of your news server (NNTP) (for example, &quot;news.example.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "Outgoing Server (SMTP)">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
-<!ENTITY smtpServerLabel.label "Outgoing Server:">
-<!ENTITY smtpServerLabel.accesskey "O">
-<!ENTITY newsServerLabel.label "News Server:">
-<!ENTITY newsServerLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "News Server">
+<!ENTITY leaveMsgsOnSrvr.label "Leave messages on server">
+<!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY portNum.label "Port:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Default:">
+<!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Enter the name of your incoming server (for example, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "Incoming Server:">
+<!ENTITY incomingServer.accesskey "S">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Enter the incoming user name given to you by your email provider (for example, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "User Name:">
+<!ENTITY incomingUsername.accesskey "U">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Enter the name of your news server (NNTP) (for example, &quot;news.example.net&quot;).">
+<!ENTITY newsServerLabel.label "News Server:">
+<!ENTITY newsServerLabel.accesskey "S">
 
-<!-- for when the user has an SMTP server pre-configured -->
-<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
-     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
-    inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Outgoing Server Information">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Outgoing Server:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "Enter the outgoing user name given to you by your email provider (this is typically the same as your incoming user name).">
+<!ENTITY outgoingUsername.label "Outgoing User Name:">
+<!ENTITY outgoingUsername.accesskey "U">
+
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!ENTITY modifyOutgoing.suffix "You can change outgoing servers in the account settings.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Your existing outgoing server (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, will be used. You can modify outgoing server settings by choosing Account Settings from the Tools menu.">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "User Names">
-<!ENTITY usernameDesc.label "Enter the incoming user name given to you by your email provider ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(for example, &quot;jsmith&quot;).">
-<!ENTITY usernameLabel.label "Incoming User Name:">
-<!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "Enter the outgoing user name given to you by your email provider (this is typically the same as your incoming user name).">
-<!ENTITY usernameSmtpLabel.label "Outgoing User Name:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!ENTITY haveSmtp1.suffix3 "&quot;, will be used.">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Your existing outgoing (SMTP) username, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, will be used. You can modify outgoing server settings by choosing Account Settings from the Tools menu.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix3 "&quot;, will be used.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Your outgoing (SMTP) server, &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, is identical to your incoming server, your incoming user name will be used to access it. You can modify outgoing server settings by choosing Account Settings from the Tools menu.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, is identical to your incoming server, your incoming user name will be used to access it.">
 
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Account Name">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Enter the name by which you would like to refer to this account (for example, &quot;Work Account&quot;, &quot;Home Account&quot; or &quot;News Account&quot;).">
-<!ENTITY accnameExample.label "For example, Work Account, Home Account or News Account">
 <!ENTITY accnameLabel.label "Name:">
 <!ENTITY accnameLabel.accesskey "A">
 
@@ -111,8 +110,10 @@
 <!ENTITY smtpServerNamePrefix.label "Outgoing Server Name (SMTP):">
 <!ENTITY newsServerNamePrefix.label "News Server Name (NNTP):">
 <!ENTITY downloadOnLogin.label "Download messages now">
+<!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Advanced:">
 <!ENTITY deferStorage.label "Use Global Inbox (store mail in Local Folders)">
+<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Click Finish to save these settings and exit the Account Wizard.">
 <!ENTITY clickFinish.labelMac "Click Done to save these settings and exit the Account Wizard.">
 

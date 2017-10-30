@@ -1,18 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Account Settings">
 
-<!ENTITY accountNameDesc.label "The account name is used to identify each account">
 <!ENTITY name.label "Your Name:">
 <!ENTITY name.accesskey "Y">
 <!ENTITY email.label "Email Address:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Reply-to Address:">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "Recipients will reply to this other address">
 <!ENTITY organization.label "Organisation:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Attach this signature:">
-<!ENTITY signature.accesskey "t">
+<!ENTITY signatureText.label "Signature text:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Use HTML (e.g., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Attach the signature from a file instead (text, HTML, or image):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Edit…">
 <!ENTITY choose.label "Choose…">
 <!ENTITY choose.accesskey "C">

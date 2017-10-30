@@ -1,7 +1,7 @@
-﻿<!ENTITY quickfilePanelFileMessage.label  "Переместить сообщение">
-<!ENTITY quickswitchPanelSwitch.label     "Перейти к папке">
-<!ENTITY quickfilePanelFile.label         "ОК">
-<!ENTITY quickfilePanelCancel.label       "Отмена">
+<!ENTITY quickfilePanelFileMessage.label  "Quick Move">
+<!ENTITY quickswitchPanelSwitch.label     "Quick Switch">
+<!ENTITY quickfilePanelFile.label         "OK">
+<!ENTITY quickfilePanelCancel.label       "Cancel">
 <!ENTITY showQuickfileCmd.key             "v">
 <!ENTITY showQuickswitchCmd.key           "g">
 <!ENTITY quickfilePanel.width             "600">

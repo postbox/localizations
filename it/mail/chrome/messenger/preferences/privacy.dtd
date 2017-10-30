@@ -1,41 +1,38 @@
-<!-- Junk Mail Controls -->
-<!ENTITY manualMark.label "Quando contrassegno i messaggi come posta indesiderata:">
-<!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Sposta i messaggi nella cartella &quot;posta indesiderata&quot;">
-<!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Elimina i messaggi">
-<!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY markAsReadOnSpam.label "Contrassegna i messaggi indesiderati come già letti">
-<!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Abilita il registro del filtro posta indesiderata">
-<!ENTITY enableJunkLogging.accesskey "g">
-<!ENTITY openJunkLog.label "Mostra registro">
-<!ENTITY openJunkLog.accesskey "h">
-<!ENTITY resetTrainingData.label "Ripristina i dati di training">
-<!ENTITY resetTrainingData.accesskey "D">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "Contenuto della posta">
 
-<!-- Phishing Detector -->
-<!ENTITY enablePhishingDetector1.label    "Blocca le presunte e-mail truffa">
-<!ENTITY enablePhishingDetector1.accesskey "B">
+<!ENTITY acceptRemoteContent.label "Permetti contenuti remoti dentro i messaggi">
+<!ENTITY acceptRemoteContent.accesskey "m">
+<!ENTITY remoteContentExceptions.label "Eccezioni…">
+<!ENTITY remoteContentExceptions.accesskey "z">
+<!ENTITY acceptRemoteContentInfo.label "Maggiori informazioni sui problemi di privacy dei contenuti remoti">
 
-<!-- Passwords -->
-<!ENTITY useMasterPassword.label              "Utilizza una Password principale">
-<!ENTITY useMasterPassword.accesskey          "s">
-<!ENTITY changeMasterPassword.label           "Cambia la Password principale...">
-<!ENTITY changeMasterPassword.accesskey       "M">
-<!ENTITY savedPasswords.label                 "Password salvate...">
-<!ENTITY savedPasswords.accesskey             "S">
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Contenuto web">
 
-<!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics2.label      "Aiuta a migliorare &brandShortName; inviando statistiche di utilizzo anonime.">
-<!ENTITY enableAnonymousStatistics.accesskey   "H">
+<!ENTITY keepHistory.label "Ricordare siti web e link visitati">
+<!ENTITY keepHistory.accesskey "R">
+<!ENTITY acceptCookies.label "Accetta i cookie dai siti">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.pre.label "Accetta i cookie di terze parti:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.always.label "sempre">
+<!ENTITY acceptThirdParty.never.label "mai">
+<!ENTITY acceptThirdParty.visited.label "dai siti visitati">
+<!ENTITY keepUntil.label "Conservali fino:">
+<!ENTITY keepUntil.accesskey "f">
+<!ENTITY expire.label "alla loro scadenza">
+<!ENTITY close.label "alla chiusura di &brandShortName;">
+<!ENTITY askEachTime.label "chiedi ogni volta">
+<!ENTITY cookieExceptions.label "Eccezioni…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Mostra i cookie…">
+<!ENTITY showCookies.accesskey "o">
 
-<!-- Remote images -->
-<!ENTITY disableImageInMailNews.label  "Blocca il caricamento delle immagini remote nei messaggi e-mail">
-<!ENTITY disableImageInMailNews.accesskey "r">
-
-<!ENTITY pbPrivacy.label "Privacy:">
-<!ENTITY pbJunkMail.label "Posta indesiderata:">
-<!ENTITY pbPasswords.label "Password:">
-<!ENTITY pbJunkMail.intro "Nota: Le impostazioni della posta indesiderata specifiche per l'account possono essere configurate anche nelle impostazioni dell'account.">
+<!ENTITY dntTrackingNotOkay.label2 "Informa i siti che non desidero essere tracciato">
+<!ENTITY dntTrackingNotOkay.accesskey "I">
+<!ENTITY doNotTrackInfo.label "Maggiori informazioni su Non tracciare">

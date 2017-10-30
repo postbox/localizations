@@ -1,20 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Filter Rules">
-<!ENTITY subject.label "subject">
-<!ENTITY sender.label "sender">
-<!ENTITY date.label "date">
-<!ENTITY anyText.label "any text">
-<!ENTITY keyword.label "keyword">
-<!ENTITY age.label "age in days">
-<!ENTITY to.label "to">
-
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-<!ENTITY cc.label "Cc">
-
-<!ENTITY status.label "status">
-<!ENTITY priority.label "priority">
-<!ENTITY body.label "body">
-<!ENTITY contains.label "contains">
-<!ENTITY nocontains.label "doesn't contain">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Filter name:">
 <!ENTITY filterName.accesskey "i">
 
@@ -27,12 +16,25 @@
 <!ENTITY highPriorityCmd.label "High">
 <!ENTITY highestPriorityCmd.label "Highest">
 
-<!ENTITY conditionDesc.label "For incoming messages which:">
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextIncomingMail.label "Getting New Mail:">
+<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Filter before Junk Classification">
+<!ENTITY contextAfterCls.label "Filter after Junk Classification">
+<!ENTITY contextOutgoing.label "After Sending">
+<!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextArchive.label "Archiving">
+<!ENTITY contextArchive.accesskey "A">
+
 <!ENTITY filterActionDesc.label "Perform these actions:">
 <!ENTITY filterActionDesc.accesskey "P">
 
-<!ENTITY newFolderButton.label "New Folder...">
-<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY filterActionOrderWarning.label "Note: Filter actions will be run in a different order.">
+<!ENTITY filterActionOrder.label "See execution order">
+
+<!ENTITY globalFilterChekbox.label "This is a global filter">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Move Message to">
@@ -40,50 +42,46 @@
 <!ENTITY forwardTo.label "Forward Message to">
 <!ENTITY replyWithTemplate.label "Reply with Template">
 <!ENTITY markMessageRead.label "Mark As Read">
+<!ENTITY markMessageUnread.label "Mark As Unread">
 <!ENTITY markMessageStarred.label "Add Star">
-<!ENTITY labelMessage.label "Label Message As">
+<!ENTITY markMessagePending.label "Mark as Pending">
+<!ENTITY markMessageAs.label "Mark Message as">
 <!ENTITY setPriority.label "Set Priority to">
 <!ENTITY addTag.label "Tag Message">
+<!ENTITY removeTag.label "Remove Topic">
 <!ENTITY setJunkScore.label "Set Junk Status to">
 <!ENTITY deleteMessage.label "Delete Message">
 <!ENTITY deleteFromPOP.label "Delete From POP Server">
 <!ENTITY fetchFromPOP.label "Fetch From POP Server">
 <!ENTITY ignoreThread.label "Ignore Thread">
+<!ENTITY ignoreSubthread.label "Ignore Subthread">
 <!ENTITY watchThread.label "Watch Thread">
 <!ENTITY stopExecution.label "Stop Filter Execution">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextDesc.accesskey "w">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
+<!ENTITY launchScript.label "Run AppleScript">
 
 <!ENTITY playSound.label "Play Sound">
-<!ENTITY notPendingStatus.label "Not Pending">
 <!ENTITY noSoundSelected.label "Select a Sound">
-<!ENTITY noScriptsInstalled.label "No Scripts installed">
-<!ENTITY markMessageAs.label "Mark Message as">
 <!ENTITY systemAlertSound.label "System Alert Sound">
-<!ENTITY removeTag.label "Remove Topic">
-<!ENTITY reminderStatus.label "Reminder">
-<!ENTITY markMessagePending.label "Mark as Pending">
-<!ENTITY noScriptSelected.label "Select an AppleScript">
-<!ENTITY globalFilterChekbox.label "This is a global filter">
-<!ENTITY readStatus.label "Read">
-<!ENTITY launchScript.label "Run AppleScript">
-<!ENTITY openInFinder.label "Open in Finder">
-<!ENTITY pendingStatus.label "Pending">
-<!ENTITY notReminderStatus.label "Not Reminder">
-<!ENTITY unreadStatus.label "Unread">
 
+<!ENTITY noScriptsInstalled.label "No Scripts installed">
+<!ENTITY openInFinder.label "Open in Finder">
+<!ENTITY noScriptSelected.label "Select an AppleScript">
+<!ENTITY readStatus.label "Read">
+<!ENTITY reminderStatus.label "Reminder">
+<!ENTITY pendingStatus.label "Pending">
+<!ENTITY unreadStatus.label "Unread">
+<!ENTITY notReminderStatus.label "Not Reminder">
+<!ENTITY notPendingStatus.label "Not Pending">
 <!ENTITY quickPost.label "Quick Post">
+
+<!ENTITY addAction.tooltip "Add a new action">
+<!ENTITY removeAction.tooltip "Remove this action">
+
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

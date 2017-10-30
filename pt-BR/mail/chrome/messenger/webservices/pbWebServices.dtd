@@ -1,4 +1,4 @@
 <!-- Web services Prefs panel (binding) -->
-<!ENTITY webservice.login.label         "iniciar sessão">
-<!ENTITY webservice.logout.label        "encerrar sessão">
-<!ENTITY webservice.account.label       "criar conta">
+<!ENTITY webservice.login.label         "log in">
+<!ENTITY webservice.logout.label        "log out">
+<!ENTITY webservice.account.label       "create account">

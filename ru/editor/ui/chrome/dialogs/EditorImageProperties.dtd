@@ -1,59 +1,37 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-2000
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Alexander L. Slovesnik <unghost@mozilla-russia.org> (Russian translation)
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Свойства изображения">
+
 <!ENTITY pixelsPopup.value "пикселов">
+
+<!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Адрес изображения:">
 <!ENTITY locationEditField.accessKey "А">
 <!ENTITY locationEditField.tooltip "Введите имя файла с изображением или его адрес">
+<!ENTITY locationEditField.shortenedDataURI "Укороченный URI данных (копия поместит полный URI в буфер обмена)">
 <!ENTITY title.label "Всплывающая подсказка:">
 <!ENTITY title.accessKey "В">
 <!ENTITY title.tooltip "Атрибут «title», отображаемый как всплывающая подсказка">
 <!ENTITY altText.label "Альтернативный текст:">
 <!ENTITY altText.accessKey "л">
-<!ENTITY altTextEditField.tooltip "Введите текст, отображаемый на месте изображения">
+<!ENTITY altTextEditField.tooltip "Введите текст, показываемый на месте изображения">
 <!ENTITY noAltText.label "Не использовать альтернативный текст">
 <!ENTITY noAltText.accessKey "Н">
+
 <!ENTITY previewBox.label "Предварительный просмотр изображения">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "Исходный размер:">
 <!ENTITY actualSizeRadio.label "Исходный размер">
 <!ENTITY actualSizeRadio.accessKey "И">
 <!ENTITY actualSizeRadio.tooltip "Вернуться к исходным размерам изображения">
-<!ENTITY customSizeRadio.label "Настроить размер">
+<!ENTITY customSizeRadio.label "Задать размер">
 <!ENTITY customSizeRadio.accessKey "З">
 <!ENTITY customSizeRadio.tooltip "Изменить размер изображения так, как это выглядит на странице">
 <!ENTITY heightEditField.label "Высота:">
@@ -63,17 +41,21 @@
 <!ENTITY constrainCheckbox.label "Соблюдать пропорции">
 <!ENTITY constrainCheckbox.accessKey "С">
 <!ENTITY constrainCheckbox.tooltip "Соблюдать пропорции при изменении размера изображения">
-<!ENTITY imagemapBox.label "Гиперкарта">
-<!ENTITY removeImageMapButton.label "Удалить">
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Карта изображения">
+<!ENTITY removeImageMapButton.label "Убрать">
 <!ENTITY removeImageMapButton.accessKey "У">
-<!ENTITY editImageMapButton.label "Изменить…">
-<!ENTITY editImageMapButton.tooltip "Создать области, чувствительные к щелчку мышью">
+
+<!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Расположение текста по отношению к изображению">
-<!ENTITY bottomPopup.value "Снизу">
-<!ENTITY topPopup.value "Сверху">
+<!ENTITY bottomPopup.value "Внизу">
+<!ENTITY topPopup.value "Вверху">
 <!ENTITY centerPopup.value "По центру">
-<!ENTITY wrapRightPopup.value "Окружить текстом справа">
-<!ENTITY wrapLeftPopup.value "Окружить текстом слева">
+<!ENTITY wrapRightPopup.value "Влево, окружить текстом справа">
+<!ENTITY wrapLeftPopup.value "Вправо, окружить текстом слева">
+
+<!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Поля">
 <!ENTITY leftRightEditField.label "Слева и справа:">
 <!ENTITY leftRightEditField.accessKey "е">
@@ -81,8 +63,15 @@
 <!ENTITY topBottomEditField.accessKey "в">
 <!ENTITY borderEditField.label "Сплошная граница:">
 <!ENTITY borderEditField.accessKey "п">
+
+<!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Показывать границу вокруг изображения, содержащего ссылку">
 <!ENTITY showImageLinkBorder.accessKey "г">
+<!ENTITY LinkAdvancedEditButton.label "Редактор свойств ссылки…">
+<!ENTITY LinkAdvancedEditButton.accessKey "д">
+<!ENTITY LinkAdvancedEditButton.tooltip "Добавление или изменение HTML-атрибутов, атрибутов стилей и JavaScript">
+
+<!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Форма">
 <!ENTITY imageLocationTab.label "Адрес">
 <!ENTITY imageDimensionsTab.label "Размеры">

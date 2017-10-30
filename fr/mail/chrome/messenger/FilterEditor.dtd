@@ -1,20 +1,9 @@
-<!ENTITY window.title "Modifier le filtre">
-<!ENTITY subject.label "sujet">
-<!ENTITY sender.label "expéditeur">
-<!ENTITY date.label "date">
-<!ENTITY anyText.label "n'importe quel texte">
-<!ENTITY keyword.label "mot clé">
-<!ENTITY age.label "ancienneté en jours">
-<!ENTITY to.label "à">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-<!ENTITY cc.label "Copie à">
-
-<!ENTITY status.label "statut">
-<!ENTITY priority.label "priorité">
-<!ENTITY body.label "corps">
-<!ENTITY contains.label "contient">
-<!ENTITY nocontains.label "ne contient pas">
+<!ENTITY window.title "Règles de filtrage">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nom du filtre :">
 <!ENTITY filterName.accesskey "i">
 
@@ -27,16 +16,25 @@
 <!ENTITY highPriorityCmd.label "Haute">
 <!ENTITY highestPriorityCmd.label "Maximale">
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Relever les messages">
-<!ENTITY contextManual.label "Lancez manuellement">
-<!ENTITY contextBoth.label "Vérification courier ou lancement manuel">
+<!ENTITY contextDesc.label "Appliquer le filtre :">
+<!ENTITY contextIncomingMail.label "Lors de la réception du courrier :">
+<!ENTITY contextIncomingMail.accesskey "L">
+<!ENTITY contextManual.label "Lors de son exécution manuelle">
+<!ENTITY contextManual.accesskey "r">
+<!ENTITY contextBeforeCls.label "Filtrer avant la vérification des indésirables">
+<!ENTITY contextAfterCls.label "Filtrer après la vérification des indésirables">
+<!ENTITY contextOutgoing.label "Après l’envoi">
+<!ENTITY contextOutgoing.accesskey "s">
+<!ENTITY contextArchive.label "Lors de l’archivage">
+<!ENTITY contextArchive.accesskey "a">
+
 <!ENTITY filterActionDesc.label "Exécuter ces actions :">
 <!ENTITY filterActionDesc.accesskey "x">
 
-<!ENTITY newFolderButton.label "Nouveau dossier…">
-<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY filterActionOrderWarning.label "Note : les actions des filtres sont exécutées dans un ordre différent.">
+<!ENTITY filterActionOrder.label "Voir l’ordre d’exécution">
+
+<!ENTITY globalFilterChekbox.label "This is a global filter">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Déplacer le message vers">
@@ -44,39 +42,46 @@
 <!ENTITY forwardTo.label "Transférer le message à">
 <!ENTITY replyWithTemplate.label "Répondre avec le modèle">
 <!ENTITY markMessageRead.label "Marquer comme lu">
+<!ENTITY markMessageUnread.label "Marquer comme non lu">
 <!ENTITY markMessageStarred.label "Suivre ce message">
-<!ENTITY labelMessage.label "Étiqueté le message comme">
+<!ENTITY markMessagePending.label "Mark as Pending">
+<!ENTITY markMessageAs.label "Mark Message as">
 <!ENTITY setPriority.label "Définir la priorité à">
 <!ENTITY addTag.label "Étiqueter le message">
+<!ENTITY removeTag.label "Remove Topic">
 <!ENTITY setJunkScore.label "Définir le statut indésirable à">
 <!ENTITY deleteMessage.label "Supprimer le message">
 <!ENTITY deleteFromPOP.label "Supprimer du serveur POP">
 <!ENTITY fetchFromPOP.label "Télécharger depuis le serveur POP">
 <!ENTITY ignoreThread.label "Ignorer la discussion">
+<!ENTITY ignoreSubthread.label "Ignorer le sous-fil de discussion">
 <!ENTITY watchThread.label "Surveiller la discussion">
-<!ENTITY stopExecution.label "Arrêter l'exécution du filtre">
+<!ENTITY stopExecution.label "Arrêter l’exécution du filtre">
+<!ENTITY launchScript.label "Run AppleScript">
 
+<!ENTITY playSound.label "Play Sound">
+<!ENTITY noSoundSelected.label "Select a Sound">
+<!ENTITY systemAlertSound.label "System Alert Sound">
 
-<!--
-entities below were automatically added by l10nmerge
--->
+<!ENTITY noScriptsInstalled.label "No Scripts installed">
+<!ENTITY openInFinder.label "Open in Finder">
+<!ENTITY noScriptSelected.label "Select an AppleScript">
+<!ENTITY readStatus.label "Read">
+<!ENTITY reminderStatus.label "Reminder">
+<!ENTITY pendingStatus.label "Pending">
+<!ENTITY unreadStatus.label "Unread">
+<!ENTITY notReminderStatus.label "Not Reminder">
+<!ENTITY notPendingStatus.label "Not Pending">
+<!ENTITY quickPost.label "Quick Post">
 
-<!ENTITY playSound.label "Jouer un son">
-<!ENTITY notPendingStatus.label "N'est pas en cours de traitement">
-<!ENTITY noSoundSelected.label "choisir un son">
-<!ENTITY noScriptsInstalled.label "Pas de script installé">
-<!ENTITY markMessageAs.label "Marquer le message comme">
-<!ENTITY systemAlertSound.label "Son d'alerte système">
-<!ENTITY removeTag.label "Supprimer le sujet">
-<!ENTITY reminderStatus.label "rappel">
-<!ENTITY markMessagePending.label "Marquer en cours de traitement">
-<!ENTITY noScriptSelected.label "Choisir un AppleScript">
-<!ENTITY globalFilterChekbox.label "C'est un filtre global">
-<!ENTITY readStatus.label "Lire">
-<!ENTITY launchScript.label "Lancer AppleScript">
-<!ENTITY openInFinder.label "Ouvrir dans le Finder">
-<!ENTITY pendingStatus.label "En cours de traitement">
-<!ENTITY notReminderStatus.label "Supprimer le rappel">
-<!ENTITY unreadStatus.label "Non lu">
+<!ENTITY addAction.tooltip "Ajouter une nouvelle action">
+<!ENTITY removeAction.tooltip "Supprimer cette action">
 
-<!ENTITY quickPost.label "Post rapide">
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

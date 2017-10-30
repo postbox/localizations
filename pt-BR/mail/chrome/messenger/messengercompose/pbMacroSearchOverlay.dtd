@@ -3,7 +3,7 @@
 <!ENTITY insertMacro.key "l">
 <!ENTITY insertMacro.modifiers "accel">
 
-<!ENTITY insertMacro.label "Barra rápida">
+<!ENTITY insertMacro.label "Quick Bar">
 
-<!ENTITY pbMacroSearchPanel.firstrunWin "Ao digitar um URL, o Postbox preencherá automaticamente a partir do histórico de e-mails. Para desabilitar a funcionalidade de preenchimento automático de URL, vá para Opções > Edição > Digitando.">
-<!ENTITY pbMacroSearchPanel.firstrunMac "Ao digitar um URL, o Postbox preencherá automaticamente a partir do histórico de e-mails. Para desabilitar a funcionalidade de preenchimento automático de URL, vá para Preferências > Edição > Digitando.">
+<!ENTITY pbMacroSearchPanel.firstrunWin "When typing a URL, Postbox will autocomplete against the URLs from your emails. To disable URL autocompletion, go to Options > Composition > Advanced">
+<!ENTITY pbMacroSearchPanel.firstrunMac "When typing a URL, Postbox will autocomplete against the URLs from your emails. To disable URL autocompletion, go to Preferences > Composition > Advanced">

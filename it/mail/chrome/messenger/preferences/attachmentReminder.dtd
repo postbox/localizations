@@ -1,8 +1,12 @@
-<!ENTITY attachmentReminderDialog.title   "Parole chiave promemoria allegato">
-<!ENTITY attachKeywordText.label          "&brandShortName; ti avviserà in caso di allegati mancanti se stai per inviare una e-mail contenente una di queste parole chiave.">
-<!ENTITY addKeywordButton.label           "Aggiungi">
-<!ENTITY addKeywordButton.accesskey       "A">
-<!ENTITY editKeywordButton.label          "Modifica">
-<!ENTITY editKeywordButton.accesskey      "M">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY attachmentReminderDialog.title   "Parole chiave promemoria allegati">
+<!ENTITY attachKeywordText.label          "&brandShortName; avviserà nel caso si stia per inviare una email priva di allegati e che contenga una di queste parole chiave.">
+<!ENTITY newKeywordButton.label           "Nuovo…">
+<!ENTITY newKeywordButton.accesskey       "N">
+<!ENTITY editKeywordButton1.label         "Modifica…">
+<!ENTITY editKeywordButton1.accesskey     "d">
 <!ENTITY removeKeywordButton.label        "Elimina">
 <!ENTITY removeKeywordButton.accesskey    "E">

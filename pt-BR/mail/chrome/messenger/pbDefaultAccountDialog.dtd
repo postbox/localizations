@@ -1,5 +1,5 @@
-<!ENTITY defaultAccount.title  "Conta padrão">
-<!ENTITY defaultAccount.intro  "Selecione sua conta padrão:">
+<!ENTITY defaultAccount.title  "Default Account">
+<!ENTITY defaultAccount.intro  "Select your default account:">
 
-<!ENTITY defaultAccount.desc   "O Postbox Free tem suporte a apenas uma conta de e-mail.  Atualize para o Postbox para usar múltiplas contas.">
+<!ENTITY defaultAccount.desc   "Postbox Free supports one email account.  Upgrade to Postbox to use multiple accounts.">
 <!ENTITY pb.macDefaultAccountDialog.size "width: 35em;">

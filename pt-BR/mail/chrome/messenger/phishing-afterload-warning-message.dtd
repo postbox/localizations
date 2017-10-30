@@ -1,28 +1,28 @@
-<!ENTITY safeb.palm.warning.title "Suspeita de falsificação na Internet">
+<!ENTITY safeb.palm.warning.title "Suspected Web Forgery">
 
-<!ENTITY safeb.palm.message.p1 "Esta página foi reportada como falsificação projetada para enganar os usuários e fazer com que forneçam dados pessoais ou informações financeiras. Digitar informações pessoais nesta página pode resultar em roubo de identidade ou outros tipos de fraude. &#160;">
-<!ENTITY safeb.palm.message.p1.linkText "Leia mais em &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "Leia mais em &#133;">
+<!ENTITY safeb.palm.message.p1 "This page has been reported as a web forgery designed to trick users into sharing personal or financial information. Entering any personal information on this page may result in identity theft or other fraud. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Read more &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Read more &#133;">
 
-<!ENTITY safeb.palm.message.p2.start "Esses tipos de falsificações são utilizados em golpes conhecidos como ataques de phishing, em que páginas de Internet falsas e e-mails são utilizados para imitar fontes nas quais você confia. Você pode saber mais sobre ">
-<!ENTITY safeb.palm.message.p2.linkText "como o &brandShortName; te protege">
-<!ENTITY safeb.palm.message.p2.end " de ataques de phishing.">
+<!ENTITY safeb.palm.message.p2.start "These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust. You can find out more about ">
+<!ENTITY safeb.palm.message.p2.linkText "how &brandShortName; protects you">
+<!ENTITY safeb.palm.message.p2.end " from phishing attacks.">
 
-<!ENTITY safeb.palm.accept.label "Me tire daqui!">
-<!ENTITY safeb.palm.accept.statustext "Navegar para minha página inicial">
-<!ENTITY safeb.palm.decline.label "Ignorar este aviso">
-<!ENTITY safeb.palm.decline.statustext "Fechar aviso" >
-<!ENTITY safeb.palm.notforgery.label2 "Não é uma falsificação…">
-<!ENTITY safeb.palm.report.label "Por que este site foi bloqueado?">
+<!ENTITY safeb.palm.accept.label "Get me out of here!">
+<!ENTITY safeb.palm.accept.statustext "Navigate to my home page">
+<!ENTITY safeb.palm.decline.label "Ignore this warning">
+<!ENTITY safeb.palm.decline.statustext "Close warning" >
+<!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
+<!ENTITY safeb.palm.report.label "Why was this site blocked?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Esta página pode ser perigosa. Clique para mais detalhes.">
+<!ENTITY safeb.urlbaricon.tooltip "This page might be dangerous; click for details.">
 
-<!ENTITY safeb.blocked.malware.title "Site de ataque reportado!">
+<!ENTITY safeb.blocked.malware.title "Reported Attack Site!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "O site em <span id='malware_sitename'/> foi reportado como um site que realiza ataques e foi bloqueado com base nas suas preferências de segurança.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Sites que realizam ataques tentam instalar programas que roubam informações privadas, utlizam seu computador para atacar outros usuários ou danificam o seu sistema.</p><p>Alguns sites distribuem de forma intencional software malicioso, mas muitos estão comprometidos sem conhecimento ou permissão dos proprietários.</p>">
+<!ENTITY safeb.blocked.malware.shortDesc "This web site at <span id='malware_sitename'/> has been reported as an attack site and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack sites intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "Falsificação na Internet reportada!!">
+<!ENTITY safeb.blocked.phishing.title "Reported Web Forgery!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "O site em <span id='phishing_sitename'/> foi reportado como uma falsificação na Internet e foi bloqueado com base nas suas preferências de segurança.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Falsificações na Internet são projetadas para fazer com que você forneça informações pessoais ou financeiras ao imitar fontes nas quais você confia.</p><p>Digitar informações pessoais nesta página pode resultar em roubo de identidade ou outros tipos de fraude.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "This web site at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">

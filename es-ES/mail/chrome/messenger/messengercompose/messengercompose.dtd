@@ -1,41 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Redacción: (sin asunto)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Archivo"> 
-<!ENTITY fileMenu.accesskey "A">
+<!ENTITY fileMenu.label "Archivo">
+<!ENTITY fileMenu.accesskey "a">
 <!ENTITY newMenu.label "Nuevo">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Mensaje">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Tarjeta de libreta de direcciones...">
-<!ENTITY newCard.accesskey "c">
-<!ENTITY emptyAttachmentBucket.label "Añadir ficheros...">
+<!ENTITY newContact.label "Contacto de la libreta de direcciones…">
+<!ENTITY newContact.accesskey "C">
+<!ENTITY emptyAttachmentBucket.label "Add files...">
 <!ENTITY attachMenu.label "Adjuntar">
-<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachMenu.accesskey "A">
 <!ENTITY attachFileCmd.label "Archivo(s)…">
 <!ENTITY attachFileCmd.accesskey "v">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Adjuntar página web…">
-<!ENTITY attachPageCmd.accesskey "w">
+<!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Tarjeta personal (vCard)">
-<!ENTITY attachVCardCmd.accesskey "p">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "Recordármelo más tarde">
+<!ENTITY remindLater.accesskey "R">
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.accesskey "c">
 <!ENTITY saveCmd.label "Guardar">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Guardar como">
-<!ENTITY saveAsCmd.accesskey "a">
+<!ENTITY saveAsCmd.accesskey "A">
 <!ENTITY saveAsFileCmd.label "Archivo…">
 <!ENTITY saveAsFileCmd.accesskey "A">
 <!ENTITY saveAsDraftCmd.label "Borrador">
-<!ENTITY saveAsDraftCmd.accesskey "d">
+<!ENTITY saveAsDraftCmd.accesskey "D">
 <!ENTITY saveAsTemplateCmd.label "Plantilla">
-<!ENTITY saveAsTemplateCmd.accesskey "t">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY sendNowCmd.label "Enviar ahora">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendCmdMac.keycode "D">
@@ -43,63 +52,89 @@
 <!ENTITY sendLaterCmd.label "Enviar más tarde">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "t">
+<!ENTITY sendAndArchive.label "Send and Archive">
+<!ENTITY sendLaterAndArchive.label "Send Later and Archive">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Vista preliminar">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY quitApplicationCmdWin.label                    "Salir"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "S">
-<!ENTITY quitApplicationCmd.label                       "Salir"> 
-<!ENTITY quitApplicationCmd.accesskey                   "S">
-<!ENTITY quitApplicationCmd.key "Q"> 
+<!ENTITY printCmd.accesskey "P">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Editar"> 
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.label "Editar">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Deshacer">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "h"> 
+<!ENTITY undoCmd.accesskey "h">
 <!ENTITY redoCmd.label "Rehacer">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R"> 
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t"> 
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C"> 
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY editRewrapCmd.label "Reajuste de línea">
-<!ENTITY editRewrapCmd.key "R">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "j">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "r">
+<!ENTITY editRewrapCmd.label "Reajuste de línea">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Renombrar adjunto…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "t"> 
-<!ENTITY findCmd.label "Buscar y reemplazar…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "B">
+<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY findBarCmd.label "Buscar…">
+<!ENTITY findBarCmd.accesskey "B">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Buscar y reemplazar…">
+<!ENTITY findReplaceCmd.accesskey "R">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Repetir la búsqueda">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "q">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Buscar anterior">
+<!ENTITY findPrevCmd.accesskey "i">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "i"> 
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Ver"> 
-<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewMenu.label "Ver">
+<!ENTITY viewMenu.accesskey "v">
 <!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "P">
-<!ENTITY showFormatToolbarCmd.label "Barra de herramientas de formato">
-<!ENTITY showFormatToolbarCmd.accesskey "f">
+<!ENTITY menubarCmd.label "Barra de menú">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY showFormattingBarCmd.label "Barra de formato">
+<!ENTITY showFormattingBarCmd.accesskey "F">
+<!ENTITY pbShowCcField.label "Cc Field">
+<!ENTITY pbShowCcField.accesskey "C">
+<!ENTITY pbShowCcField.key "c">
+<!ENTITY pbShowBccField.label "Bcc Field">
+<!ENTITY pbShowBccField.accesskey "B">
+<!ENTITY pbShowBccField.key "b">
+<!ENTITY pbShowReplyField.label "Reply-To Field">
+<!ENTITY pbShowReplyField.accesskey "R">
+<!ENTITY pbShowReplyField.key "r">
+<!ENTITY pbShowNewsgroupsField.label "Newsgroups Field">
+<!ENTITY pbShowNewsgroupsField.accesskey "N"> 
+<!ENTITY pbShowFollowupField.label "Followup-To Field">
+<!ENTITY pbShowFollowupField.accesskey "o">
+<!ENTITY pbShowCompositionGoalsToolbarCmd.label "Goal Status Bar">
+<!ENTITY pbShowCompositionGoalsToolbarCmd.accesskey "G">
+<!ENTITY pbSourceView.label "Code View">
+<!ENTITY pbSourceView.accesskey "d">
+<!ENTITY pbSourceViewThemes.label "Theme">
+<!ENTITY pbSourceViewThemes.accesskey "T">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formato">
@@ -108,12 +143,12 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opciones">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "Comprobar ortografía...">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "C">
+<!ENTITY checkSpellingCmd2.label "Revisar ortografía…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY enableInlineSpellChecker.label "Revisar mientras escribe">
-<!ENTITY enableInlineSpellChecker.accesskey "s">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "Citar mensaje">
 <!ENTITY quoteCmd.accesskey "m">
 
@@ -122,13 +157,13 @@
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Acuse de recibo">
-<!ENTITY returnReceiptMenu.accesskey "d">
+<!ENTITY returnReceiptMenu.accesskey "D">
 <!ENTITY dsnMenu.label "Notificación de estado de entrega">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Formato">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.label "Formato de entrega">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Autodetectar">
-<!ENTITY autoFormatCmd.accesskey "A">
+<!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Sólo texto sin formato">
 <!ENTITY plainTextFormatCmd.accesskey "S">
 <!ENTITY htmlFormatCmd.label "Sólo texto enriquecido (HTML)">
@@ -136,14 +171,16 @@
 <!ENTITY bothFormatCmd.label "Texto simple y texto enriquecido (HTML)">
 <!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Prioridad">
-<!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY priorityButton.title "Prioridad">
+<!ENTITY priorityButton.tooltiptext "Cambiar la prioridad del mensaje">
 <!ENTITY priorityButton.label "Prioridad:">
 <!ENTITY lowestPriorityCmd.label "La más baja">
-<!ENTITY lowestPriorityCmd.accesskey "m">
+<!ENTITY lowestPriorityCmd.accesskey "M">
 <!ENTITY lowPriorityCmd.label "Baja">
 <!ENTITY lowPriorityCmd.accesskey "B">
 <!ENTITY normalPriorityCmd.label "Normal">
-<!ENTITY normalPriorityCmd.accesskey "N">
+<!ENTITY normalPriorityCmd.accesskey "n">
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highPriorityCmd.accesskey "A">
 <!ENTITY highestPriorityCmd.label "La más alta">
@@ -154,39 +191,24 @@
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Herramientas">
-<!ENTITY tasksMenu.accesskey "t">
+<!ENTITY tasksMenu.accesskey "T">
 <!ENTITY messengerCmd.label "Correo y noticias">
 <!ENTITY messengerCmd.accesskey "o">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Libreta de direcciones">
-<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Configuración de las cuentas…">
-<!ENTITY accountManagerCmd.accesskey "n">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Opciones…">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "Preferencias">
-<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+<!ENTITY preferencesCmd2.label "Opciones">
+<!ENTITY preferencesCmd2.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Preferencias">
+<!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!--  macOS Window Menu -->
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimizar ventana">
 <!ENTITY bringAllToFront.label "Traer todo al frente">
-<!ENTITY zoomWindow.label "Acercar ventana"> 
-<!ENTITY windowMenu.label "Ventana"> 
-
-<!-- Help Menu -->
-<!ENTITY helpMenu.label "Ayuda">
-<!ENTITY helpMenu.accesskey "A"> 
-<!ENTITY releaseCmd.label "Notas de la versión">
-<!ENTITY releaseCmd.accesskey "r"> 
-<!ENTITY hintsAndTips.label "Ayuda de &brandShortName;">
-<!ENTITY hintsAndTips.accesskey "A"> 
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Acerca de &brandShortName;">
-<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY zoomWindow.label "Acercar ventana">
+<!ENTITY windowMenu.label "Ventana">
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Enviar">
@@ -195,47 +217,53 @@
 <!ENTITY attachButton.label "Adjuntar">
 <!ENTITY spellingButton.label "Ortografía">
 <!ENTITY saveButton.label "Guardar">
-<!ENTITY tagButton.label "Asignar etiqueta">
-<!ENTITY throbberItem.title "Indicador de actividad">
+<!ENTITY printButton.label "Imprimir">
+<!ENTITY tagButton.label "Assign Topic">
+<!ENTITY tagButton.key "T">
+<!ENTITY signatureButton.label "Signatures">
+<!ENTITY responseButton.label "Responses">
+<!ENTITY compose.sidebar.label "Sidebar">
+<!ENTITY compositionGoals.label "Goals">
+<!ENTITY formattingToolbar.label "Toolbar">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Enviar este mensaje ahora"> 
-<!ENTITY sendlaterButton.tooltip "Enviar este mensaje más tarde"> 
+<!ENTITY sendButton.tooltip "Enviar este mensaje ahora">
+<!ENTITY sendlaterButton.tooltip "Enviar este mensaje más tarde">
 <!ENTITY quoteButton.tooltip "Citar el mensaje anterior"> 
-<!ENTITY addressButton.tooltip "Seleccionar un destinatario de una libreta de direcciones"> 
-<!ENTITY attachButton.tooltip "Incluir un adjunto"> 
-<!ENTITY saveButton.tooltip "Guardar este mensaje"> 
-<!ENTITY cutButton.tooltip              "Cortar">
-<!ENTITY copyButton.tooltip             "Copiar">
-<!ENTITY pasteButton.tooltip            "Pegar">
-<!ENTITY tagButton.tooltip "Añadir etiqueta(s) al mensaje">
+<!ENTITY addressButton.tooltip "Seleccionar un destinatario de una libreta de direcciones">
+<!ENTITY attachButton.tooltip "Incluir un adjunto">
+<!ENTITY spellingButton.tooltip "Revisar ortografía de la selección o del mensaje completo">
+<!ENTITY statusLanguageText.tooltip "Idioma para corrección ortográfica">
+<!ENTITY saveButton.tooltip "Guardar este mensaje">
+<!ENTITY cutButton.tooltip "Cortar">
+<!ENTITY copyButton.tooltip "Copiar">
+<!ENTITY pasteButton.tooltip "Pegar">
+<!ENTITY printButton.tooltip "Imprimir este mensaje">
+<!ENTITY tagButton.tooltip "Add topic(s) to message">
+<!ENTITY signatureButton.tooltip "Insert a signature">
+<!ENTITY responseButton.tooltip "Insert a response">
+<!ENTITY compose.sidebar.tooltip "Open the sidebar">
+<!ENTITY compositionGoals.tooltip "Show or hide the Composition Goals status bar">
+<!ENTITY formattingToolbar.tooltip "Show or hide the toolbar">
 
 <!-- Headers -->
-<!ENTITY fromHeader.label "De">
-<!ENTITY fromHeader.accesskey "D">
-<!ENTITY subjectHeader.label "Asunto">
-<!ENTITY subjectHeader.accesskey "s">
-<!ENTITY toAddr.label "Para:"> 
-<!ENTITY ccAddr.label "Cc:"> 
-<!ENTITY bccAddr.label "Bcc:"> 
-<!ENTITY replyAddr.label "Responder-a:"> 
-<!ENTITY newsgroupsAddr.label "Grupo de noticias:"> 
-<!ENTITY followupAddr.label "Followup-To:"> 
-<!ENTITY attachmentsHeader.label "Adjuntos">
-<!ENTITY attachmentsHeader.accesskey "A">
-<!ENTITY tagHeader.label "Etiquetas">
-<!ENTITY tagHeader.accesskey "E">
-<!ENTITY tagMessageButton.tooltip     "Asignar etiqueta(s) al mensaje.">
-<!ENTITY compose.todo.label "Tarea">
-<!ENTITY compose.todo.tooltip "Convertir este mensaje en tarea">
-<!ENTITY compose.addresses.label "Direcciones">
+<!ENTITY fromHeader.label "From:">
+<!ENTITY fromHeader.accesskey "r">
+<!ENTITY subjectHeader.label "Subject:">
+<!ENTITY subjectHeader.accesskey "S">
+<!ENTITY toAddr.label "Para:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY bccAddr.label "Bcc:">
+<!ENTITY replyAddr.label "Responder-a:">
+<!ENTITY newsgroupsAddr.label "Grupo de noticias:">
+<!ENTITY followupAddr.label "Followup-To:">
+<!ENTITY tagHeader.label "Topics:">
+<!ENTITY tagHeader.accesskey "o">
+<!ENTITY tagMessageButton.tooltip     "Assign topic(s) to the message.">
+<!ENTITY compose.addresses.label "Addresses">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
-<!ENTITY SmileButton.tooltip "Insertar un emoticón">
+<!ENTITY SmileButton.tooltip "Insertar un emoticono">
 <!ENTITY smiley1Cmd.label "Sonriendo">
 <!ENTITY smiley2Cmd.label "Triste">
 <!ENTITY smiley3Cmd.label "Pícaro">
@@ -254,13 +282,13 @@
 <!ENTITY smiley16Cmd.label "Labios sellados">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellAddToDictionary.label                  "Añadir al diccionario">
+<!ENTITY spellAddToDictionary.label                  "Add to Dictionary">
 <!ENTITY spellAddToDictionary.accesskey              "o">
-<!ENTITY spellNoSuggestions.label                    "(No hay sugerencias de ortografía)">
-<!ENTITY spellCheckEnable.label                      "Revisar ortografía">
-<!ENTITY spellCheckEnable.accesskey                  "s">
-<!ENTITY spellDictionaries.label                     "Idiomas">
-<!ENTITY spellDictionaries.accesskey                 "I">
+<!ENTITY spellNoSuggestions.label                    "(No Spelling Suggestions)">
+<!ENTITY spellCheckEnable.label                      "Check Spelling">
+<!ENTITY spellCheckEnable.accesskey                  "S">
+<!ENTITY spellDictionaries.label                     "Languages">
+<!ENTITY spellDictionaries.accesskey                 "l">
 <!ENTITY spellCheckIgnoreWord.label "Ignorar palabra">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY undo.label "Deshacer">
@@ -276,259 +304,168 @@
 
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "A">
+<!ENTITY quickLookAttachment.label "Quick Look">
+<!ENTITY quickLookAttachment.accesskey "Q">
 <!ENTITY delete.label "Eliminar">
 <!ENTITY delete.accesskey "l">
+<!ENTITY removeAttachment.label "Eliminar adjunto">
+<!ENTITY removeAttachment.accesskey "M">
+<!ENTITY renameAttachment.label "Renombrar…">
+<!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Seleccionar todo">
-<!ENTITY selectAll.accesskey "a">
+<!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Adjuntar archivo(s)…">
 <!ENTITY attachFile.accesskey "j">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Convertir a…">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY cancelUpload.label "Cancelar subida">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "Adjunto normal">
+<!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Adjuntar página web…">
-<!ENTITY attachPage.accesskey "w">
+<!ENTITY attachPage.accesskey "W">
+<!ENTITY editSignatures.label "Edit Signatures...">
+<!ENTITY newSignature.label "New Signature...">
+<!ENTITY editResponses.label "Edit Responses...">
+<!ENTITY newResponse.label "New Response...">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Añadir diccionarios…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactos">
 
+<!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Personalizar dirección De…">
+<!ENTITY customizeFromAddress.accesskey "D">
+
 <!-- for rich search in compose -->
-<!ENTITY contactsButton.tooltip                 "Buscar contactos">
-<!ENTITY imagesButton.tooltip                   "Buscar imágenes">
-<!ENTITY attachmentsButton.tooltip              "Buscar archivos adjuntos">
-<!ENTITY placesButton.tooltip                   "Buscar lugares">
-<!ENTITY researchButton.tooltip                 "Buscar referencias">
-<!ENTITY signaturesButton.tooltip               "Buscar firmas">
+<!ENTITY contactsButton.tooltip                 "Find contacts">
+<!ENTITY imagesButton.tooltip                   "Find images">
+<!ENTITY attachmentsButton.tooltip              "Find attachments">
+<!ENTITY placesButton.tooltip                   "Find places">
+<!ENTITY researchButton.tooltip                 "Find references">
+<!ENTITY signaturesButton.tooltip               "Find signatures">
 
 <!-- this is an entity because it can vary by locale, and which type has the most kinds on the locale 
      for en-US, it is "Research", which has "Wikipedia" + "Dictionary" + "Thesaurus" -->
-<!ENTITY compose-alley-default-width            "260">
-
-<!-- topic context menu -->
-<!ENTITY pbTopicContextMenu-edit.label         "Editar">
-<!ENTITY pbTopicContextMenu-edit.accesskey     "E">
-<!ENTITY pbTopicContextMenu-favorite.label     "Favorito">
-<!ENTITY pbTopicContextMenu-favorite.accesskey "F">
-<!ENTITY pbTopicContextMenu-remove.label       "Eliminar">
-<!ENTITY pbTopicContextMenu-remove.accesskey   "r">
-<!ENTITY pbTopicContextMenu-editAll.label      "Editar etiquetas...">
-<!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
-
-<!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
-
-<!ENTITY pbComposeSidebar.label "Barra lateral">
-<!ENTITY pbComposeSidebar.accesskey "B">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbAddAttachmentCmd.keycode "A">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY signatureButton.tooltip "Insertar una firma">
-<!ENTITY newSignature.label "Nueva firma...">
-<!ENTITY editSignatures.label "Modificar firmas...">
-<!ENTITY signatureButton.label "Firmas">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbQuoteConversationButton.label  "Resumir">
-<!ENTITY pbToggleReplyQuotingMode.key   "O">
-<!ENTITY pbQuoteMessageButton.label       "Cita">
-<!ENTITY pbToggleReplyRecipients.key "R">
-<!ENTITY pbReplyButton.label       "Contestar">
-<!ENTITY pasteNoFormattingCmd.key "V">
-<!ENTITY quickLookAttachment.label "Vista rápida">
-<!ENTITY pbReplyAllButton.tooltiptext    "Contestar a todos los destinatarios del mensaje seleccionado">
-<!ENTITY pbReplyAllButton.label    "Contestar a todos">
-<!ENTITY pbToggleReplyQuotingMode.accesskey   "u">
-<!ENTITY quickLookAttachment.accesskey "Q">
-<!ENTITY pbQuoteConversationButton.tooltiptext "Resumir la conversación">
-<!ENTITY pbQuoteMessageButton.tooltiptext "Citar el mensaje seleccionado">
-<!ENTITY pbToggleReplyRecipients.accesskey "R">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbShowNewsgroupsField.accesskey "N">
-<!ENTITY pbShowBccField.accesskey "B">
-<!ENTITY pbBubbleContextMenu-edit.label        "Modificar dirección">
-<!ENTITY pbShowReplyField.accesskey "R">
-<!ENTITY pbShowBccField.label "Campo Bcc de dirección">
-<!ENTITY pbShowReplyField.label "Campo de dirección de Contestar a todos">
-<!ENTITY pbBubbleContextMenu-copy.label        "Copiar dirección">
-<!ENTITY pbShowCcField.accesskey "C">
-<!ENTITY pbShowFollowupField.accesskey "o">
-<!ENTITY pbShowNewsgroupsField.label "Campo de dirección de Grupos de noticias">
-<!ENTITY pbShowFollowupField.label "Campo de dirección de Seguimiento de">
-<!ENTITY pbShowCcField.label "Campo Cc de dirección">
-<!ENTITY pbBubbleContextMenu-remove.label      "Eliminar dirección">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbShowCcField.key "c">
-<!ENTITY pbBubbleContextMenu-open.label        "Abrir en Libreta de direcciones">
-<!ENTITY pbShowBccField.key "b">
-<!ENTITY pbShowReplyField.key "r">
-<!ENTITY pbBubbleContextMenu-add.label         "Añadir a Libreta de direcciones">
 <!ENTITY compose-sidebar-default-width            "302">
 
+<!-- this is an entity so that we can line up the format toolbar with the addressing rows.  see bug #7715 for details -->
+<!ENTITY formatToolbarPaddingLeft    "70">
+<!ENTITY formatToolbarPaddingLeftMac "75">
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!-- topic context menu -->
+<!ENTITY pbTopicContextMenu-edit.label         "Rename">
+<!ENTITY pbTopicContextMenu-edit.accesskey     "E">
+<!ENTITY pbTopicContextMenu-favorite.label     "Favorite Topic">
+<!ENTITY pbTopicContextMenu-favorite.accesskey "F">
+<!ENTITY pbTopicContextMenu-remove.label       "Remove">
+<!ENTITY pbTopicContextMenu-remove.accesskey   "R">
+<!ENTITY pbTopicContextMenu-editAll.label      "Edit Topics...">
+<!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
+<!ENTITY pbTopicContextMenu-delete.label       "Delete">
+<!ENTITY pbTopicContextMenu-delete.accesskey   "d">
+<!ENTITY pbTopicContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
 
-<!ENTITY insertListButton.tooltip "Aplicar o eliminar lista numerada o con viñetas">
-<!ENTITY pbInsertLink.label "Introducir la dirección de Internet (URL) de este enlace.">
-<!ENTITY pbInsertLink.accesskey "E">
+<!-- bubble context menu XXX TODO ACCESS KEYS-->
+<!ENTITY pbBubbleContextMenu-remove.label      "Remove Address">
+<!ENTITY pbBubbleContextMenu-copy.label        "Copy Address">
+<!ENTITY pbBubbleContextMenu-edit.label        "Edit Address">
+<!ENTITY pbBubbleContextMenu-open.label        "Open in Address Book">
+<!ENTITY pbBubbleContextMenu-add.label         "Add to Address Book">
 
+<!ENTITY pbInsertHTMLToolbarCmd.label "Insert HTML or edit selected HTML">
+<!ENTITY pbRemoveTextToolbarCmd.label "Remove text styles">
+<!ENTITY switchBetweenNormalAndCode.tooltip "Switch between Normal and Code views">
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!ENTITY pbComposeSidebar.label "Sidebar">
+<!ENTITY pbComposeSidebar.accesskey "S">
 
-<!ENTITY compose.sidebar.tooltip "Abrir la barra lateral">
-<!ENTITY compose.sidebar.label "Barra lateral">
+<!ENTITY pbAddAttachmentCmd.keycode "A">
+<!ENTITY pbReplyButton.label       "Reply">
+<!ENTITY pbReplyAllButton.tooltiptext    "Reply to all recipients for selected message">
+<!ENTITY pbReplyAllButton.label    "Reply All">
+<!ENTITY pbReplyAllButton.tooltiptext    "Reply to all recipients for selected message">
+<!ENTITY pbToggleReplyRecipients.accesskey "R">
+<!ENTITY pbToggleReplyRecipients.key "R">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
+<!ENTITY pbQuoteMessageButton.label       "Quote">
+<!ENTITY pbQuoteMessageButton.tooltiptext "Quote the selected message">
+<!ENTITY pbQuoteConversationButton.label  "Summarize">
+<!ENTITY pbQuoteConversationButton.tooltiptext "Summarize the conversation">
+<!ENTITY pbToggleReplyQuotingMode.accesskey   "u">
+<!ENTITY pbToggleReplyQuotingMode.key   "O">
 <!ENTITY pbFocusIdentityPicker.key "R">
 
+<!-- Insert Link Dialog -->
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!ENTITY pbInsertLink.label "Enter the Internet address (URL) for this link.">
+<!ENTITY pbInsertLink.accesskey "E">
 
-<!ENTITY formatToolbarPaddingLeftMac "75">
-<!ENTITY formatToolbarPaddingLeft    "70">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbRemoveTextToolbarCmd.label "Eliminar los estilos de texto">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbInsertImage.label "Introducir una dirección de Internet (URL) o la ubicación local del archivo:">
+<!ENTITY pbInsertImage.label "Enter a Internet address (URL) or local file location:">
 <!ENTITY pbInsertImage.accesskey "E">
 
+<!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!-- Statistics -->
+<!ENTITY pbStatsWords.label "words:">
+<!ENTITY pbStatsChars.label "characters:">
+<!ENTITY pbStatsTime.label "time:">
 
-<!ENTITY sendAndArchive.label "Enviar y archivar">
-<!ENTITY sendLaterAndArchive.label "Enviar más tarde y archivar">
+<!ENTITY pbCreateResponse.label "Create Response...">
+<!ENTITY pbSearchGoogle.label "Search in Google">
 
+<!-- Template Placeholders -->
+<!ENTITY templatePlaceholders.tooltiptext "Insert a Template Placeholder">
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!ENTITY templatePlaceholderCustom.label "Custom Placeholder">
+<!ENTITY templatePlaceholderMySelectedIdentity.label "My Selected Identity">
+<!ENTITY templatePlaceholderSourceMessage.label "Source Message">
+<!ENTITY templatePlaceholderSender.label "Sender">
+<!ENTITY templatePlaceholderToRecipients.label "To Recipients">
+<!ENTITY templatePlaceholderCcRecipients.label "Cc Recipients">
+<!ENTITY templatePlaceholderIdentity.label "Full Name">
+<!ENTITY templatePlaceholderEmail.label "Email Address">
+<!ENTITY templatePlaceholderFirstName.label "First Name">
+<!ENTITY templatePlaceholderLastName.label "Last Name">
+<!ENTITY templatePlaceholderMessageId.label "Message ID">
+<!ENTITY templatePlaceholderDate.label "Date">
+<!ENTITY templatePlaceholderSubject.label "Subject">
+<!ENTITY templatePlaceholderThisMessage.label "This Message">
+<!ENTITY templacePlaceholderFillValues.label "Fill Values">
 
-<!ENTITY newResponse.label "Nueva contestación...">
-<!ENTITY editResponses.label "Modificar contestaciones...">
-<!ENTITY responseButton.tooltip "Insertar una contestación">
-<!ENTITY responseButton.label "Contestaciones">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
-<!ENTITY pbTopicContextMenu-delete.label       "Eliminar">
-<!ENTITY pbTopicContextMenu-delete.accesskey   "d">
-<!ENTITY pbTopicContextMenu-assignColor.label  "Configurar el color del tópico">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbStatsWords.label "palabras:">
-<!ENTITY pbSourceView.accesskey "d">
-<!ENTITY pbSourceViewThemes.accesskey "T">
-<!ENTITY pbStatsChars.label "caracteres:">
-<!ENTITY formattingToolbar.label "Barra de herramientas">
-<!ENTITY pbShowCompositionGoalsToolbarCmd.label "Barra de estado de objetivos">
-<!ENTITY pbStatsTime.label "hora:">
-<!ENTITY pbSourceViewThemes.label "Tema">
-<!ENTITY compositionGoals.tooltip "Mostrar u ocultar la barra de estado de objetivos de la composición">
-<!ENTITY switchBetweenNormalAndCode.tooltip "Cambiar entre vistas normal y de código">
-<!ENTITY compositionGoals.label "Objetivos">
-<!ENTITY tagButton.key "T">
-<!ENTITY pbSourceView.label "Vista de código">
-<!ENTITY pbShowCompositionGoalsToolbarCmd.accesskey "G">
-<!ENTITY formattingToolbar.tooltip "Mostrar u ocultar la barra de herramientas">
-
-<!ENTITY pbCreateResponse.label "Crear respuesta...">
-<!ENTITY pbSearchGoogle.label "Buscar en Google">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY templatePlaceholderLastName.label "Apellido">
-<!ENTITY templatePlaceholderToRecipients.label "A destinatarios">
-<!ENTITY templatePlaceholderCcRecipients.label "Cc Destinatarios">
-<!ENTITY templatePlaceholders.tooltiptext "Insertar un marcador de posición para la plantilla">
-<!ENTITY messageSize.label "Tamaño del mensaje:">
-<!ENTITY templatePlaceholderFirstName.label "Nombre">
-<!ENTITY templatePlaceholderEmail.label "Dirección de correo electrónico">
-<!ENTITY templatePlaceholderMessageId.label "Ref. del mensaje">
-<!ENTITY templatePlaceholderCustom.label "Marcador de posición personalizado">
-<!ENTITY templatePlaceholderThisMessage.label "Este mensaje">
-<!ENTITY imageSize.label "Tamaño de la imagen:">
-<!ENTITY largeImageResize.label "Grande">
-<!ENTITY templatePlaceholderMySelectedIdentity.label "Mi identidad seleccionada">
-<!ENTITY templacePlaceholderFillValues.label "Rellenar valores">
-<!ENTITY templatePlaceholderSourceMessage.label "Mensaje original">
-<!ENTITY templatePlaceholderSender.label "Remitente">
-<!ENTITY mediumImageResize.label "Media">
-<!ENTITY templatePlaceholderSubject.label "Asunto">
-<!ENTITY smallImageResize.label "Pequeña">
-<!ENTITY templatePlaceholderIdentity.label "Nombre completo">
-<!ENTITY templatePlaceholderDate.label "Fecha">
+<!-- Image Resizing and Message Size -->
+<!ENTITY messageSize.label "Message size:">
+<!ENTITY imageSize.label "Image size:">
+<!ENTITY smallImageResize.label "Small">
+<!ENTITY mediumImageResize.label "Medium">
+<!ENTITY largeImageResize.label "Large">
 
 <!-- Image manipulation context menu -->
-<!ENTITY modifyAllImages.label "Modificar todas las imágenes">
-<!ENTITY scaleImage.label  "Escala">
+<!ENTITY modifyAllImages.label "Modify All Images">
+<!ENTITY scaleImage.label  "Scale">
 <!ENTITY scale200PCT.label "200&#37;">
 <!ENTITY scale150PCT.label "150&#37;">
 <!ENTITY scale100PCT.label "100&#37;">
 <!ENTITY scale75PCT.label  "75&#37;">
 <!ENTITY scale50PCT.label  "50&#37;">
 <!ENTITY scale25PCT.label  "25&#37;">
-<!ENTITY marginImage.label "Margen">
+<!ENTITY marginImage.label "Margin">
 <!ENTITY margin10px.label "10px">
 <!ENTITY margin20px.label "20px">
 <!ENTITY margin30px.label "30px">
 <!ENTITY margin40px.label "40px">
-<!ENTITY shadowImage.label "Sombra">
+<!ENTITY shadowImage.label "Add a Shadow">
 <!ENTITY floatImage "Float">
-<!ENTITY leftFloat.label "Izquierda">
-<!ENTITY rightFloat.label "Derecha">
-<!ENTITY fxImage.label "Efectos">
-<!ENTITY noFx.label "No hay efectos">
+<!ENTITY leftFloat.label "Left">
+<!ENTITY rightFloat.label "Right">
+<!ENTITY fxImage.label "Effects">
+<!ENTITY noFx.label "No Effect">
 <!ENTITY equalizeFx.label "Equalize">
 <!ENTITY greyscaleFx.label "Greyscale">
 <!ENTITY sepiaFx.label "Sepia">
@@ -547,10 +484,10 @@ entities below were automatically added by l10nmerge
 <!ENTITY frame9Fx.label "Frame 9">
 <!ENTITY frame10Fx.label "Frame 10">
 <!ENTITY frame11Fx.label "Frame 11">
-<!ENTITY rotateImage.label "Girar">
-<!ENTITY rotate90.label "90 Grados">
-<!ENTITY rotate180.label "180 Grados">
-<!ENTITY rotate270.label "270 Grados">
-<!ENTITY flipImage.label "Voltear">
-<!ENTITY xflip.label "Horizontalmente">
-<!ENTITY yflip.label "Verticalmente">
+<!ENTITY rotateImage.label "Rotate">
+<!ENTITY rotate90.label "90 Degrees">
+<!ENTITY rotate180.label "180 Degrees">
+<!ENTITY rotate270.label "270 Degrees">
+<!ENTITY flipImage.label "Flip">
+<!ENTITY xflip.label "Horizontally">
+<!ENTITY yflip.label "Vertically">

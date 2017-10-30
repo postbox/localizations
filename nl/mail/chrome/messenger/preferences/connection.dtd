@@ -1,10 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  connectionsDialog.title       "Verbindingsinstellingen">
-<!ENTITY  window.width                   "41em">
 
 <!ENTITY  proxyTitle.label              "Proxy’s voor toegang tot het internet configureren">
 <!ENTITY  noProxyTypeRadio.label        "Geen proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Gebruik proxy instellingen van systeem">
+<!ENTITY  systemTypeRadio.label         "Proxyinstellingen van systeem gebruiken">
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Proxyinstellingen voor dit netwerk automatisch detecteren">
 <!ENTITY  WPADTypeRadio.accesskey       "w">

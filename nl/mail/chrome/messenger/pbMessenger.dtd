@@ -1,134 +1,140 @@
 <!-- File Menu -->
-<!ENTITY pbLocalesMenu.label "Taal">
-<!ENTITY pbLocalesMenu.accesskey "T">
-<!ENTITY pbLocalesMenu_getMore.label "Meer verkrijgen...">
-<!ENTITY pbLocalesMenu_getMore.accesskey "g">
-<!ENTITY newAccountGroupCmd.label "Account Groep...">
+<!ENTITY pbLocalesMenu.label "Language">
+<!ENTITY pbLocalesMenu.accesskey "g">
+<!ENTITY pbLocalesMenu_getMore.label "Get More...">
+<!ENTITY pbLocalesMenu_getMore.accesskey "G">
+<!ENTITY newAccountGroupCmd.label "Account Group...">
 <!ENTITY newAccountGroupCmd.accesskey "G">
-<!ENTITY closeTab.label "Tabblad sluiten">
-<!ENTITY closeTab.accesskey "T">
-<!ENTITY closeWindow.label "Sluit venster">
+<!ENTITY closeTab.label "Close Tab">
+<!ENTITY closeTab.accesskey "C">
+<!ENTITY closeWindow.label "Close Window">
 <!ENTITY closeWindow.accesskey "e">
 
 <!-- Messages Menu -->
-<!ENTITY quickReplyMsgCmd.label "Snel Reageren">
-<!ENTITY quickReplyMsgCmd.accesskey "S">
+<!ENTITY quickReplyMsgCmd.label "Quick Reply">
+<!ENTITY quickReplyMsgCmd.accesskey "Q">
 
 <!-- Tools Menu -->
-<!ENTITY pbIndexingMenu.label "Indexeren">
+<!ENTITY pbIndexingMenu.label "Indexing">
 <!ENTITY pbIndexingMenu.accesskey "x">
-<!ENTITY indexAllMessages.label "Indexeer alle mappen...">
-<!ENTITY indexAllMessages.accesskey "I">
-<!ENTITY indexMessagesInFolder.label "Indexeer deze map...">
-<!ENTITY indexMessagesInFolder.accesskey "I">
-<!ENTITY resetIndexAllMessages.label "Reset alle mappen...">
-<!ENTITY resetIndexAllMessages.accesskey "R">
-<!ENTITY resetIndexMessagesInFolder.label "Reset deze map...">
+<!ENTITY indexAllMessages.label "Index All Folders...">
+<!ENTITY indexAllMessages.accesskey "i">
+<!ENTITY indexMessagesInFolder.label "Index This Folder...">
+<!ENTITY indexMessagesInFolder.accesskey "f">
+<!ENTITY resetIndexAllMessages.label "Reset All Folders...">
+<!ENTITY resetIndexAllMessages.accesskey "r">
+<!ENTITY resetIndexMessagesInFolder.label "Reset This Folder...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY updateCmd.label "Controleer op Updates…">
+<!ENTITY updateCmd.label "Check for Updates…">
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
-<!ENTITY pinStarredMessages.label "Reminder's vastzetten">
-<!ENTITY pinStarredMessages.accesskey "T">
-<!ENTITY showConversations.label "Conversaties weergeven">
-<!ENTITY showConversations.accesskey "C">
-<!ENTITY viewMenuShowMessages.label        "Berichten">
-<!ENTITY viewMenuShowMessages.accesskey    "B">
+<!ENTITY pinStarredMessages.label "Pin Reminders">
+<!ENTITY pinStarredMessages.accesskey "P">
+<!ENTITY showConversations.label "Organize by Thread">
+<!ENTITY showConversations.accesskey "O">
+<!ENTITY viewMenuShowMessages.label        "Messages">
+<!ENTITY viewMenuShowMessages.accesskey    "m">
 <!ENTITY key_showMessages.key              "t">
-<!ENTITY viewMenuShowAttachments.label "Bijlagen">
-<!ENTITY viewMenuShowAttachments.accesskey "B">
+<!ENTITY viewMenuShowAttachments.label "Attachments">
+<!ENTITY viewMenuShowAttachments.accesskey "t">
 <!ENTITY key_showAttachments.key         "a">
-<!ENTITY viewMenuShowImages.label        "Afbeeldingen">
-<!ENTITY viewMenuShowImages.accesskey    "A">
+<!ENTITY viewMenuShowImages.label        "Images">
+<!ENTITY viewMenuShowImages.accesskey    "m">
 <!ENTITY key_showImages.key              "i">
-<!ENTITY viewMenuShowTodos.label "Reminder's">
+<!ENTITY viewMenuShowTodos.label "Reminders">
 <!ENTITY viewMenuShowTodos.accesskey "d">
 <!ENTITY key_showTodos.key           "o">
-<!ENTITY showFolderPaneCmd.label "Mappenvenster">
-<!ENTITY showFolderPaneCmd.accesskey "M">
-<!ENTITY showFocusPaneCmd.label "Focus Venster">
-<!ENTITY showFocusPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneCmd.label "Folder Pane">
+<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFocusPaneCmd.label "Focus Pane">
+<!ENTITY showFocusPaneCmd.accesskey "o">
 <!ENTITY pbToggleFocusPane.key "P">
 <!ENTITY pbToggleFolderPaneMac.key "M">
 <!ENTITY pbToggleFolderPane.key "L">
 <!ENTITY pbToggleInspectorPane.key "I">
 <!ENTITY pbMessagePaneMac.key "E">
-<!ENTITY showInspectorPaneCmd.label "Inspector Venster">
+<!ENTITY showInspectorPaneCmd.label "Inspector Pane">
 <!ENTITY showInspectorPaneCmd.accesskey "I">
 <!ENTITY showFavoritesBarCmd.label "Favorites Bar">
 <!ENTITY showFavoritesBarCmd.accesskey "v">
-<!ENTITY pbExpandConversationMsgs.label "Conversatie uitvouwen">
-<!ENTITY pbExpandConversationMsgs.accesskey "C">
+<!ENTITY pbExpandConversationMsgs.label "Expand Conversation">
+<!ENTITY pbExpandConversationMsgs.accesskey "x">
 <!ENTITY pbExpandConversationMsgs.key "o">
-<!ENTITY pbCollapseConversationMsgs.label "Conversatie inklappen">
+<!ENTITY pbCollapseConversationMsgs.label "Collapse Conversation">
 <!ENTITY pbCollapseConversationMsgs.accesskey "n">
 <!ENTITY pbCollapseConversationMsgs.key "o">
-<!ENTITY showPanes.label "Weergeven">
-<!ENTITY showPanes.accesskey "W">
+<!ENTITY showPanes.label "Show">
+<!ENTITY showPanes.accesskey "w">
 <!ENTITY fullScreenMode.accesskey "l">
 <!ENTITY fullScreenMode.label "Enter Full Screen">
 
 <!-- Mail Toolbar -->
-<!ENTITY tagButton.label "Topic toewijzen">
-<!ENTITY kindFocusToolbarItem.title "Type">
-<!ENTITY focusPaneText.label            "Zoeken">
-<!ENTITY focusPaneAttachments.label     "Bijlagen">
-<!ENTITY focusPaneEvents.label          "Gebeurtenissen">
-<!ENTITY focusPaneImages.label          "Afbeeldingen">
-<!ENTITY focusPaneMessages.label        "Alles Weergeven">
-<!ENTITY viewButtons.label              "Weergave">
-<!ENTITY focusPaneTodos.label           "Reminder's">
-<!ENTITY tagButton.tooltip "Wijs topic aan berichten toe">
-<!ENTITY newTaskButton.tooltip "Maak een nieuw Reminder">
-<!ENTITY newTaskButton.label "Nieuwe Reminder">
+<!ENTITY tagButton.label "Assign Topic">
+<!ENTITY kindFocusToolbarItem.title "Kind">
+<!ENTITY focusPaneText.label            "Search">
+<!ENTITY focusPaneAttachments.label     "Attachments">
+<!ENTITY focusPaneEvents.label          "Events">
+<!ENTITY focusPaneImages.label          "Images">
+<!ENTITY focusPaneMessages.label        "Messages">
+<!ENTITY viewButtons.label              "View">
+<!ENTITY focusPaneTodos.label           "Reminders">
+<!ENTITY tagButton.tooltip "Add topic to messages">
+<!ENTITY newReminderMenuitem.label "Create a new Reminder">
+<!ENTITY reminderButton.tooltip "Mark the selected messages as reminders">
+<!ENTITY removeReminderButton.tooltip "Mark the selected messages as not reminders">
+<!ENTITY reminderButton.label "Reminder">
 <!ENTITY inspectorButton.label "Inspector">
 <!ENTITY inspectorButton.tooltip "Toggle the Inspector Pane">
 <!ENTITY evernoteButton.label "Evernote">
-<!ENTITY evernoteButton.tooltip "Aan Evernote toevoegen">
-<!ENTITY pbToolbarButton-home.label "Startpagina">
-<!ENTITY pbToolbarButton-home.tooltip "Ga terug naar mijn Inbox en wis alle zoekvelden">
-<!ENTITY pbToolbarButton-promote.label   "Posten">
-<!ENTITY pbToolbarButton-promote.tooltip   "Plaats een bericht op het Web">
+<!ENTITY evernoteButton.tooltip "Add to Evernote">
+<!ENTITY quickpostButton.label "Quick Post">
+<!ENTITY quickpostButton.tooltip "Quick Post">
+<!ENTITY pbToolbarButton-home.label "Home">
+<!ENTITY pbToolbarButton-home.tooltip "Take me back to my Inbox and clear any search criteria">
+<!ENTITY pbToolbarButton-promote.label   "Post">
+<!ENTITY pbToolbarButton-promote.tooltip   "Post a message to the Web">
 <!ENTITY pbToolbarButton-promote-twitter.label "Twitter">
 <!ENTITY pbToolbarButton-promote-twitter.accesskey "T">
 <!ENTITY pbToolbarButton-promote-facebook.label "Facebook">
 <!ENTITY pbToolbarButton-promote-facebook.accesskey "F">
 <!ENTITY pbToolbarButton-promote-linkedin.label "LinkedIn">
 <!ENTITY pbToolbarButton-promote-linkedin.accesskey "L">
+<!ENTITY pbToolbarButton-runFiltersButton.label "Run Filters">
+<!ENTITY pbToolbarButton-runFiltersButton.tooltip "Run filters on the current folder">
 
 <!-- Tags Menu Popup -->
-<!ENTITY applyTag.label "Bericht labelen">
-<!ENTITY addNewTag.label "Nieuw label…">
-<!ENTITY addNewTag.accesskey "N">
-<!ENTITY removeTag.label "Topic Verwijderen">
-<!ENTITY removeAllTag.label "Allen Verwijderen...">
+<!ENTITY applyTag.label "Add Topic">
+<!ENTITY addNewTag.label "New Topic...">
+<!ENTITY addNewTag.accesskey "t">
+<!ENTITY removeTag.label "Remove Topic">
+<!ENTITY removeAllTag.label "Remove All...">
 <!ENTITY removeAllTag.accesskey "A">
 
 <!-- search menu -->
-<!ENTITY pbFullTextSearchCmd.label "Berichten zoeken">
-<!ENTITY pbFullTextSearchCmd.accesskey "B">
+<!ENTITY pbFullTextSearchCmd.label "Search Messages">
+<!ENTITY pbFullTextSearchCmd.accesskey "M">
 
 <!-- search result popup -->
-<!ENTITY searchResultPopup-imageZoom.label      "Afbeelding zoomen">
-<!ENTITY searchResultPopup-imageZoom.accesskey  "i">
-<!ENTITY searchResultPopup-openAttachment.label      "Openen">
+<!ENTITY searchResultPopup-imageZoom.label      "Zoom">
+<!ENTITY searchResultPopup-imageZoom.accesskey  "z">
+<!ENTITY searchResultPopup-openAttachment.label      "Open">
 <!ENTITY searchResultPopup-openAttachment.accesskey  "O">
-<!ENTITY searchResultPopup-openMessage.label         "Bericht openen">
-<!ENTITY searchResultPopup-openMessage.accesskey     "B">
-<!ENTITY searchResultPopup-openFolder.label          "Berichtenmap Openen">
+<!ENTITY searchResultPopup-openMessage.label         "Open Message">
+<!ENTITY searchResultPopup-openMessage.accesskey     "M">
+<!ENTITY searchResultPopup-openFolder.label          "Open Message Folder">
 <!ENTITY searchResultPopup-openFolder.accesskey      "p">
-<!ENTITY searchResultPopup-quickLookMac.label           "Quick Look...">
+<!ENTITY searchResultPopup-quickLookMac.label           "Quick Look">
 <!ENTITY searchResultPopup-quickLookMac.accesskey       "Q">
-<!ENTITY searchResultPopup-quickLook.label           "Voorbeeld...">
-<!ENTITY searchResultPopup-quickLook.accesskey       "V">
-<!ENTITY searchResultPopup-attachTo.label            "Koppelen Aan">
-<!ENTITY searchResultPopup-attachTo.accesskey        "K">
-<!ENTITY pbSearchResultPopup-send.label              "Versturen...">
+<!ENTITY searchResultPopup-quickLook.label           "Preview">
+<!ENTITY searchResultPopup-quickLook.accesskey       "w">
+<!ENTITY searchResultPopup-attachTo.label            "Attach To">
+<!ENTITY searchResultPopup-attachTo.accesskey        "A">
+<!ENTITY pbSearchResultPopup-send.label              "Send...">
 <!ENTITY pbSearchResultPopup-send.accesskey          "e">
-<!ENTITY pbSearchResultPopup-save.label              "Opslaan...">
-<!ENTITY pbSearchResultPopup-save.accesskey          "s">
-<!ENTITY pbSearchResultPopup-upload.label            "Uploaden naar">
+<!ENTITY pbSearchResultPopup-save.label              "Save...">
+<!ENTITY pbSearchResultPopup-save.accesskey          "S">
+<!ENTITY pbSearchResultPopup-upload.label            "Upload to">
 <!ENTITY pbSearchResultPopup-upload.accesskey        "U">
 <!ENTITY pbSearchResultPopup-addUrlToGoogle.label          "Google">
 <!ENTITY pbSearchResultPopup-addUrlToGoogle.accesskey      "l">
@@ -140,103 +146,104 @@
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.accesskey     "T">
 <!ENTITY pbSearchResultPopup-addUrlToLinkedIn.label        "LinkedIn">
 <!ENTITY pbSearchResultPopup-addUrlToLinkedIn.accesskey    "L">
-<!ENTITY searchResultPopup-systemPhotoImportMac.label      "Toevoegen aan iPhoto">
+<!ENTITY searchResultPopup-systemPhotoImportMac.label      "Add to Photos">
 <!ENTITY searchResultPopup-systemPhotoImportMac.accesskey  "h">
 
 <!-- inline edit subject bar -->
-<!ENTITY msgAnnotation.title                         "Bewerken">
-<!ENTITY saveMessageEditing.button.label             "Opslaan">
+<!ENTITY msgAnnotation.title                         "Subject:">
+<!ENTITY saveMessageEditing.button.label             "save">
 <!ENTITY saveMessageEditing.button.accesskey         "s">
-<!ENTITY saveMessageEditingAsCopy.button.label       "Opslaan als Kopie">
+<!ENTITY saveMessageEditingAsCopy.button.label       "save copy">
 <!ENTITY saveMessageEditingAsCopy.button.accesskey   "a">
-<!ENTITY cancelMessageEditing.button.label           "Annuleren">
-<!ENTITY cancelMessageEditing.button.accesskey       "A">
+<!ENTITY cancelMessageEditing.button.label           "cancel">
+<!ENTITY cancelMessageEditing.button.accesskey       "c">
 
 <!-- inline message editing toolbar -->
-<!ENTITY boldEditMsgToolbarCmd.tooltip               "Vet">
-<!ENTITY italicEditMsgToolbarCmd.tooltip             "Cursief">
-<!ENTITY underlineEditMsgToolbarCmd.tooltip          "Cursief">
-<!ENTITY strikethroughEditMsgToolbarCmd.tooltip      "Doorhalen">
-<!ENTITY cropTextEditMsgToolbarCmd.tooltip           "Tekst bijsnijden">
-<!ENTITY insertLinkEditMsgToolbarCmd.tooltip         "Nieuwe koppeling invoegen of eigenschappen van geselecteerde koppeling bewerken">
-<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Genummerde lijst of opsommingstekens neerzetten of weghalen">
+<!ENTITY boldEditMsgToolbarCmd.tooltip               "Bold">
+<!ENTITY italicEditMsgToolbarCmd.tooltip             "Italic">
+<!ENTITY underlineEditMsgToolbarCmd.tooltip          "Underline">
+<!ENTITY strikethroughEditMsgToolbarCmd.tooltip      "Strikethrough">
+<!ENTITY cropTextEditMsgToolbarCmd.tooltip           "Crop Text">
+<!ENTITY insertLinkEditMsgToolbarCmd.tooltip         "Insert new link or edit selected link's properties">
+<!ENTITY insertImageEditMsgToolbarCmd.tooltip        "Insert new image or edit selected image's properties">
+<!ENTITY insertListEditMsgToolbarCmd.tooltip         "Apply or remove bulleted or numbered list">
 <!ENTITY noneMsgToolbarCmd.label                     "None">
 <!ENTITY noneMsgToolbarCmd.accesskey                 "N">
-<!ENTITY listBulletMsgToolbarCmd.label               "Opsommingstekens">
+<!ENTITY listBulletMsgToolbarCmd.label               "Bulleted">
 <!ENTITY listbulletMsgToolbarCmd.accesskey           "b">
-<!ENTITY listNumberedMsgToolbarCmd.label             "Genummerd">
+<!ENTITY listNumberedMsgToolbarCmd.label             "Numbered">
 <!ENTITY listnumberedMsgToolbarCmd.accesskey         "m">
-<!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Voer HTML in of bewerk de geselecteerde HTML">
-<!ENTITY switchBetweenNormalAndCode.tooltip          "Wissel tussen Normale en Code weergaves">
-<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Tekst laten terugspringen (verplaatsen naar links)">
-<!ENTITY indentEditMsgToolbarCmd.tooltip             "Tekst laten inspringen (verplaatsen naar rechts)">
+<!ENTITY insertHTMLEditMsgToolbarCmd.tooltip         "Insert HTML or edit selected HTML">
+<!ENTITY switchBetweenNormalAndCode.tooltip          "Switch between Normal and Code views">
+<!ENTITY outdentEditMsgToolbarCmd.tooltip            "Outdent text (move left)">
+<!ENTITY indentEditMsgToolbarCmd.tooltip             "Indent text (move right)">
 
 <!-- inline message editing context menu -->
-<!ENTITY spellAddToDictionary.label                  "Toevoegen aan woordenboek">
+<!ENTITY spellAddToDictionary.label                  "Add to Dictionary">
 <!ENTITY spellAddToDictionary.accesskey              "o">
-<!ENTITY spellNoSuggestions.label                    "(Geen spellingsuggesties)">
-<!ENTITY spellCheckIgnoreWord.label                  "Woord negeren">
-<!ENTITY spellCheckIgnoreWord.accesskey              "W">
-<!ENTITY spellCheckEnable.label                      "Spelling controleren">
+<!ENTITY spellNoSuggestions.label                    "(No Spelling Suggestions)">
+<!ENTITY spellCheckIgnoreWord.label                  "Ignore Word">
+<!ENTITY spellCheckIgnoreWord.accesskey              "I">
+<!ENTITY spellCheckEnable.label                      "Check Spelling">
 <!ENTITY spellCheckEnable.accesskey                  "S">
-<!ENTITY spellDictionaries.label                     "Talen">
+<!ENTITY spellDictionaries.label                     "Languages">
 <!ENTITY spellDictionaries.accesskey                 "l">
 
 <!-- indexer progress dialog -->
-<!ENTITY indexerProgress.title                       "Berichten aan het Indexeren">
-<!ENTITY indexerProgressMessages.label               "Berichten:">
-<!ENTITY indexerProgressFolders.label                "Mappen:">
-<!ENTITY indexerProgress.status                      "Status">
-<!ENTITY stopIndexingButton.label                    "Stoppen">
-<!ENTITY indexerProgressTitle.label                  "Berichten aan het Indexeren...">
+<!ENTITY indexerProgress.title                       "Indexing Messages">
+<!ENTITY indexerProgressMessages.label               "Messages:">
+<!ENTITY indexerProgressFolders.label                "Folders:">
+<!ENTITY indexerProgress.status                      "Status:">
+<!ENTITY stopIndexingButton.label                    "Stop">
+<!ENTITY indexerProgressTitle.label                  "Indexing Messages...">
 
 <!-- rich search bar -->
-<!ENTITY searchbar-defaultSearchText.label      "Zoeken">
+<!ENTITY searchbar-defaultSearchText.label      "Search">
 
 <!-- advanced search panel -->
-<!ENTITY searchOptionsPanelTitle.label          "Zoek Opties">
-<!ENTITY searchContainsField.label              "Bevat">
-<!ENTITY searchFromField.label                  "Van">
-<!ENTITY searchToField.label                    "Aan">
-<!ENTITY searchSubjectField.label               "Onderwerp">
-<!ENTITY searchTopicField.label                 "Label">
-<!ENTITY searchBeforeField.label                "Voor">
-<!ENTITY searchAfterField.label                 "Na">
+<!ENTITY searchOptionsPanelTitle.label          "Search Options">
+<!ENTITY searchContainsField.label              "contains">
+<!ENTITY searchFromField.label                  "from">
+<!ENTITY searchToField.label                    "to">
+<!ENTITY searchSubjectField.label               "subject">
+<!ENTITY searchTopicField.label                 "topic">
+<!ENTITY searchBeforeField.label                "before">
+<!ENTITY searchAfterField.label                 "after">
 <!-- The number of characters that can be displayed in the search field textboxes -->
 <!ENTITY searchField.size                       "30">
-<!ENTITY searchBar-options.tooltip              "Geef Zoekopties weer">
-<!ENTITY searchButton.label                     "Zoeken">
-<!ENTITY cancelButton.label                     "Annuleren">
+<!ENTITY searchBar-options.tooltip              "Show search options">
+<!ENTITY searchButton.label                     "Search">
+<!ENTITY cancelButton.label                     "Cancel">
 
 <!-- message pane progress text -->
-<!ENTITY messagePaneProgressText.label          "Laden...">
+<!ENTITY messagePaneProgressText.label          "Loading...">
 
 <!-- pbEditorPanel.inc -->
-<!ENTITY todoPanelSave.label                    "Opslaan">
-<!ENTITY todoPanelCancel.label                  "Annuleren">
+<!ENTITY todoPanelSave.label                    "Save">
+<!ENTITY todoPanelCancel.label                  "Cancel">
 
 <!-- pbSharePanel.inc -->
-<!ENTITY sharePanelShare.label                   "Bijwerken">
-<!ENTITY sharePanelCancel.label                  "Annuleren">
+<!ENTITY sharePanelShare.label                   "Update">
+<!ENTITY sharePanelCancel.label                  "Cancel">
 
 <!-- content URL context menu -->
 <!ENTITY pbContentURLContextMenu-bookmarkURL.accesskey    "B">
-<!ENTITY pbContentURLContextMenu-openURL.label            "Openen in Webbrowser">
+<!ENTITY pbContentURLContextMenu-openURL.label            "Open in Browser">
 <!ENTITY pbContentURLContextMenu-openURL.accesskey        "O">
-<!ENTITY pbContentURLContextMenu-copyURL.label            "Kopiëren">
-<!ENTITY pbContentURLContextMenu-copyURL.accesskey        "K">
-<!ENTITY pbContentURLContextMenu-sendURL.label            "Stuur Link...">
+<!ENTITY pbContentURLContextMenu-copyURL.label            "Copy">
+<!ENTITY pbContentURLContextMenu-copyURL.accesskey        "C">
+<!ENTITY pbContentURLContextMenu-sendURL.label            "Send Link...">
 <!ENTITY pbContentURLContextMenu-sendURL.accesskey        "S">
-<!ENTITY pbContentURLContextMenu-addToGoogle.label        "Voeg toe aan Google">
-<!ENTITY pbContentURLContextMenu-addToGoogle.accesskey    "g">
-<!ENTITY pbContentURLContextMenu-addToDelicious.label     "Voeg toe aan del.icio.us">
-<!ENTITY pbContentURLContextMenu-addToDelicious.accesskey "a">
-<!ENTITY pbContentURLContextMenu-addToFacebook.label      "Plaats op Facebook...">
+<!ENTITY pbContentURLContextMenu-addToGoogle.label        "Add to Google">
+<!ENTITY pbContentURLContextMenu-addToGoogle.accesskey    "G">
+<!ENTITY pbContentURLContextMenu-addToDelicious.label     "Add to del.icio.us">
+<!ENTITY pbContentURLContextMenu-addToDelicious.accesskey "A">
+<!ENTITY pbContentURLContextMenu-addToFacebook.label      "Post to Facebook...">
 <!ENTITY pbContentURLContextMenu-addToFacebook.accesskey  "F">
-<!ENTITY pbContentURLContextMenu-addToTwitter.label       "Plaats op Twitter...">
+<!ENTITY pbContentURLContextMenu-addToTwitter.label       "Post to Twitter...">
 <!ENTITY pbContentURLContextMenu-addToTwitter.accesskey   "w">
-<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Plaats op LinkedIn...">
-<!ENTITY pbContentURLContextMenu-addToLinkedIn.accesskey  "l">
+<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Post to LinkedIn...">
+<!ENTITY pbContentURLContextMenu-addToLinkedIn.accesskey  "L">
 
 <!-- text context menu -->
 <!ENTITY pbContentTextContextMenu-websearch.accesskey    "S">
@@ -244,171 +251,131 @@
 <!ENTITY pbContentTextContextMenu-review.accesskey       "e">
 <!ENTITY pbContentTextContextMenu-map.accesskey          "M">
 <!-- C is already used for Copy -->
-<!ENTITY pbContentTextContextMenu-phone.label            "Bel Nummer">
-<!ENTITY pbContentTextContextMenu-phone.accesskey        "B">
-<!ENTITY pbContentTextContextMenu-date.label            "Voeg toe aan Agenda">
+<!ENTITY pbContentTextContextMenu-phone.label            "Call Number">
+<!ENTITY pbContentTextContextMenu-phone.accesskey        "N">
+<!ENTITY pbContentTextContextMenu-date.label            "Add to Calendar">
 <!ENTITY pbContentTextContextMenu-date.accesskey        "d">
-<!ENTITY pbContentTextContextMenu-systemSearchMac.label      "Zoeken in Spotlight">
+<!ENTITY pbContentTextContextMenu-systemSearchMac.label      "Search in Spotlight">
 <!ENTITY pbContentTextContextMenu-systemSearchMac.accesskey  "t">
-<!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Opzoeken in woordenboek">
-<!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "O">
-<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: Nieuwe Reminder met de huidige selectie als aantekening">
+<!ENTITY pbContentTextContextMenu-dictionaryMac.label        "Look Up in Dictionary">
+<!ENTITY pbContentTextContextMenu-dictionaryMac.accesskey    "L">
+<!ENTITY pbContentTextContextMenu-thingsNotesMac.label       "Things: New Reminder with Selection as Note">
 <!ENTITY pbContentTextContextMenu-thingsNotesMac.accesskey   "T">
-<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: Nieuwe Reminder met huidige selectie als titel">
+<!ENTITY pbContentTextContextMenu-thingsTitleMac.label       "Things: New Reminder with Selection as Title">
 <!ENTITY pbContentTextContextMenu-thingsTitleMac.accesskey   "i">
-<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Stuur naar Inbox">
+<!ENTITY pbContentTextContextMenu-omniFocusMac.label       "OmniFocus: Send to Inbox">
 <!ENTITY pbContentTextContextMenu-omniFocusMac.accesskey   "i">
-<!ENTITY pbContentTextContextMenu-evernote.label       "Voeg toe aan Evernote">
-<!ENTITY pbContentTextContextMenu-evernote.accesskey  "E">
+<!ENTITY pbContentTextContextMenu-evernote.label       "Add to Evernote">
+<!ENTITY pbContentTextContextMenu-evernote.accesskey  "e">
+<!ENTITY pbContentTextContextMenu-postboxSearch.label      "Search in Postbox">
+<!ENTITY pbContentTextContextMenu-postboxSearch.accesskey  "P">
 
 <!-- topic context menu -->
-<!ENTITY pbTopicContextMenu-edit.label         "Naam wijzigen">
-<!ENTITY pbTopicContextMenu-edit.accesskey     "e">
-<!ENTITY pbTopicContextMenu-favorite.label     "Favoriet Topic">
+<!ENTITY pbTopicContextMenu-edit.label         "Rename">
+<!ENTITY pbTopicContextMenu-edit.accesskey     "E">
+<!ENTITY pbTopicContextMenu-favorite.label     "Favorite Topic">
 <!ENTITY pbTopicContextMenu-favorite.accesskey "F">
-<!ENTITY pbTopicContextMenu-remove.label       "Verwijderen">
-<!ENTITY pbTopicContextMenu-remove.accesskey   "r">
-<!ENTITY pbTopicContextMenu-editAll.label      "Topics Bewerken...">
-<!ENTITY pbTopicContextMenu-editAll.accesskey  "T">
+<!ENTITY pbTopicContextMenu-remove.label       "Remove">
+<!ENTITY pbTopicContextMenu-remove.accesskey   "R">
+<!ENTITY pbTopicContextMenu-editAll.label      "Edit Topics...">
+<!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
+<!ENTITY pbTopicContextMenu-delete.label       "Delete">
+<!ENTITY pbTopicContextMenu-delete.accesskey   "d">
+<!ENTITY pbTopicContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
 
 <!-- account tree context menu -->
-<!ENTITY pbAccountTreeContextMenu-newGroup.label "Nieuwe Account Groep...">
+<!ENTITY pbAccountTreeContextMenu-newGroup.label "New Account Group...">
 <!ENTITY pbAccountTreeContextMenu-newGroup.accesskey "G">
-<!ENTITY pbAccountTreeContextMenu-settings.label "Instellingen...">
-<!ENTITY pbAccountTreeContextMenu-settings.accesskey "I">
-
-<!-- folder pane -->
-<!ENTITY accountTreeMac.label    "ACCOUNTS">
-<!ENTITY folderTreeMac.label     "MAPPEN">
+<!ENTITY pbAccountTreeContextMenu-settings.label "Settings...">
+<!ENTITY pbAccountTreeContextMenu-settings.accesskey "i">
 
 <!-- thread pane -->
-<!ENTITY threadPaneNoMatchesFound.desc "Geen berichten komen met de zoekopdracht overeen.">
-<!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Probeer in Alle Mappen te zoeken.">
-<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Probeer het filter op Alle te zetten.">
-<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Probeer de Berichten-weergave te kiezen.">
-<!ENTITY threadPaneAddTextToSearch.desc "Begin met typen in de zoekbalk om het zoeken te starten.">
+<!ENTITY threadPaneNoMatchesFound.desc "No messages matched your search.">
+<!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Try looking in All Folders.">
+<!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Try setting your Focus to All.">
+<!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Try setting your view to Messages.">
+<!ENTITY threadPaneAddTextToSearch.desc "Start typing in the search bar to begin your search.">
 
-<!ENTITY pbSignatureEditor.title "Nieuwe Handtekening">
-<!ENTITY pbSignatureEditor.name "Naam">
-<!ENTITY pbSignatureEditor.body "Handtekening">
+<!ENTITY pbSignatureEditor.title "New Signature">
+<!ENTITY pbSignatureEditor.name "Name">
+<!ENTITY pbSignatureEditor.body "Signature">
+
+<!ENTITY pbQuickPostEditor.title "New Quick Post">
+<!ENTITY pbQuickPostEditor.name "Name">
+<!ENTITY pbQuickPostEditor.email "Email">
+<!ENTITY pbQuickPostEditor.beforeSubject "Before Subject">
+<!ENTITY pbQuickPostEditor.afterSubject "After Subject">
+<!ENTITY pbQuickPostEditor.forwardAsAttachment "Send as Attachment">
+<!ENTITY pbQuickPostEditor.openComposeWindow "Send via Compose Window">
+<!ENTITY pbQuickPostEditor.send "Send">
 
 <!-- pbSearchBox.xml -->
-<!ENTITY pbSearchScopePanel-location.label "Locatie">
-<!ENTITY pbSearchScopePanel-recent.label "Zoekgeschiedenis">
+<!ENTITY pbSearchScopePanel-location.label "Location">
+<!ENTITY pbSearchScopePanel-recent.label "Search History">
 
 <!-- facebook extension login.xul and auth.xul -->
-<!ENTITY login.window.title "Login op Facebook">
-<!ENTITY login.wait "Wacht a.u.b. even terwijl we u proberen in te loggen...">
-<!ENTITY login.close "Loginscherm Sluiten">
-<!ENTITY auth.window.title "Sta status updates van Postbox toe">
-<!ENTITY auth.close "Venster Sluiten">
+<!ENTITY login.window.title "Login to Facebook">
+<!ENTITY login.wait "Please wait while we prepare to log you in...">
+<!ENTITY login.close "Close login window">
+<!ENTITY auth.window.title "Allow Status Updates from Postbox">
+<!ENTITY auth.close "Close window">
 
 <!-- pbLanguageProgress.xul -->
-<!ENTITY downloadLanguage.title "Taal Downloaden">
+<!ENTITY downloadLanguage.title "Download Language">
 
 <!-- thread pane context menu -->
-<!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Stuur naar Inbox">
+<!ENTITY pbThreadPaneContext-omniFocusMac.label      "OmniFocus: Send to Inbox">
 <!ENTITY pbThreadPaneContext-omniFocusMac.accesskey  "i">
 
 <!-- Vertical view sort by context menu -->
-<!ENTITY pbSortAscendingContextMenuItem.label "Oplopend sorteren">
-<!ENTITY pbSortAscendingContextMenuItem.accesskey "O">
-<!ENTITY pbSortDescendingContextMenuItem.label "Aflopend sorteren">
-<!ENTITY pbSortDescendingContextMenuItem.accesskey "d">
+<!ENTITY pbSortAscendingContextMenuItem.label "Ascending Order">
+<!ENTITY pbSortAscendingContextMenuItem.accesskey "A">
+<!ENTITY pbSortDescendingContextMenuItem.label "Descending Order">
+<!ENTITY pbSortDescendingContextMenuItem.accesskey "D">
 
 <!-- message pane context menu -->
-<!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Stuur naar Inbox">
+<!ENTITY pbMessagePaneContext-omniFocusMac.label     "OmniFocus: Send to Inbox">
 <!ENTITY pbMessagePaneContext-omniFocusMac.accesskey "i">
 <!ENTITY pbMessagePaneContext-evernote.label     "Add to Evernote">
-<!ENTITY pbMessagePaneContext-evernote.accesskey "E">
+<!ENTITY pbMessagePaneContext-evernote.accesskey "e">
 
 <!-- status bar -->
-<!ENTITY pbStatusBarOption-newAccount.label "Nieuw Account...">
+<!ENTITY pbStatusBarOption-newAccount.label "New Account...">
 <!ENTITY pbStatusBarOption-newAccount.accesskey "N">
-<!ENTITY pbStatusBarOption-newGroup.label "Nieuwe Account Groep...">
+<!ENTITY pbStatusBarOption-newGroup.label "New Account Group...">
 <!ENTITY pbStatusBarOption-newGroup.accesskey "G">
-<!ENTITY pbStatusBarOption-settings.label "Accountinstellingen…">
+<!ENTITY pbStatusBarOption-settings.label "Account Settings...">
 <!ENTITY pbStatusBarOption-settings.accesskey "A">
-<!ENTITY pbStatusBarOption-newFolder.label "Nieuwe map…">
-<!ENTITY pbStatusBarOption-newFolder.accesskey "N">
-<!ENTITY pbStatusBarOption-folderProperties.label "Mapeigenschappen…">
-<!ENTITY pbStatusBarOption-folderProperties.accesskey "p">
-<!ENTITY pbStatusBarOption-subscribe.label "Abonneren…">
-<!ENTITY pbStatusBarOption-subscribe.accesskey "A">
-<!ENTITY pbStatusBarOption-deleteGroup.label "Verwijder Account Groep">
-<!ENTITY pbStatusBarOption-deleteGroup.accesskey "d">
+<!ENTITY pbStatusBarOption-newFolder.label "New Folder...">
+<!ENTITY pbStatusBarOption-newFolder.accesskey "F">
+<!ENTITY pbStatusBarOption-folderProperties.label "Folder Properties...">
+<!ENTITY pbStatusBarOption-folderProperties.accesskey "P">
+<!ENTITY pbStatusBarOption-subscribe.label "Subscribe...">
+<!ENTITY pbStatusBarOption-subscribe.accesskey "S">
+<!ENTITY pbStatusBarOption-deleteGroup.label "Delete Account Group">
+<!ENTITY pbStatusBarOption-deleteGroup.accesskey "D">
 
 <!-- Messages Menu -->
-<!ENTITY pbMoveToFolderAgain.label "Verplaats">
+<!ENTITY pbMoveToFolderAgain.label "Quick Move">
 <!ENTITY pbMoveToFolderAgain.accesskey "v">
 
 <!-- Conversation Action context menu -->
-<!ENTITY pbConversationHdrContextMenu-reply.label "Beantwoorden">
-<!ENTITY pbConversationHdrContextMenu-reply.accesskey "r">
-<!ENTITY pbConversationHdrContextMenu-replyall.label "Allen beantwoorden">
+<!ENTITY pbConversationHdrContextMenu-reply.label "Reply">
+<!ENTITY pbConversationHdrContextMenu-reply.accesskey "R">
+<!ENTITY pbConversationHdrContextMenu-replyall.label "Reply All">
 <!ENTITY pbConversationHdrContextMenu-replyall.accesskey "A">
-<!ENTITY pbConversationHdrContextMenu-forward.label "Doorsturen">
-<!ENTITY pbConversationHdrContextMenu-forward.accesskey "D">
-<!ENTITY pbConversationHdrContextMenu-open.label "Openen">
+<!ENTITY pbConversationHdrContextMenu-forward.label "Forward">
+<!ENTITY pbConversationHdrContextMenu-forward.accesskey "F">
+<!ENTITY pbConversationHdrContextMenu-open.label "Open">
 <!ENTITY pbConversationHdrContextMenu-open.accesskey "O">
 
 <!-- Help Menu -->
-<!ENTITY pbKeyboardShortCuts.label "Sneltoetsen">
-<!ENTITY pbKeyboardShortCuts.accesskey "S">
-<!ENTITY guideCmd.label "Snelstart handleiding">
+<!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">
+<!ENTITY pbKeyboardShortCuts.accesskey "K">
+<!ENTITY guideCmd.label "User Guide">
 <!ENTITY guideCmd.accesskey "r">
 
-<!ENTITY pbFolderPaneSlider.label "Verbergen">
+<!ENTITY pbFolderPaneSlider.label "Hide">
 
-<!ENTITY pbFavoritesBarContextMenu-remove.label "Verwijderen uit favorieten">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbToolbarButton-runFiltersButton.label "Filters Draaien">
-<!ENTITY pbToolbarButton-runFiltersButton.tooltip "Pas filters toe voor de huidige map">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbContentTextContextMenu-postboxSearch.accesskey  "P">
-<!ENTITY pbContentTextContextMenu-postboxSearch.label      "Zoek in Postbox">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbTopicContextMenu-delete.label       "Verwijderen">
-<!ENTITY pbTopicContextMenu-delete.accesskey   "d">
-<!ENTITY pbTopicContextMenu-assignColor.label  "Stel Onderwerpkleur in">
-<!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY reminderButton.label "Herinnering">
-<!ENTITY removeReminderButton.tooltip "Markeer de geselecteerde berichten niet als herinneringen">
-<!ENTITY reminderButton.tooltip "Markeer de geselecteerde berichten als herinneringen">
-<!ENTITY newReminderMenuitem.label "Maak een nieuwe Herinnering aan">
-<!ENTITY insertImageEditMsgToolbarCmd.tooltip        "Voer een nieuwe afbeelding in of pas de eigenschappen van de geselecteerde afbeelding aan">
-
-<!ENTITY quickpostButton.label "Snelle Post">
-<!ENTITY quickpostButton.tooltip "Snelle Post">
-
-<!ENTITY pbQuickPostEditor.title "Nieuwe Snelle Post">
-<!ENTITY pbQuickPostEditor.name "Naam">
-<!ENTITY pbQuickPostEditor.email "E-mailadres">
-<!ENTITY pbQuickPostEditor.beforeSubject "Voor Onderwerp">
-<!ENTITY pbQuickPostEditor.afterSubject "Na Onderwerp">
-<!ENTITY pbQuickPostEditor.forwardAsAttachment "Als bijlage verzenden">
-<!ENTITY pbQuickPostEditor.openComposeWindow "Versturen via Compose Window">
-<!ENTITY pbQuickPostEditor.send "Verzenden">
-<!ENTITY pbMessagePaneContext-copyMessageLink.label "Copy Message Link">
-<!ENTITY pbMessagePaneContext-copyMessageLink.accesskey "l">
+<!ENTITY pbFavoritesBarContextMenu-remove.label "Remove From Favorites">

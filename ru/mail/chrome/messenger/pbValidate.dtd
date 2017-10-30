@@ -1,30 +1,30 @@
-﻿<!ENTITY changeLicenseKey.label "Код">
-<!ENTITY changeName.label "Имя">
-<!ENTITY licenseKey.label "Код лицензии:">
-<!ENTITY name.label "Имя:">
-<!ENTITY enterLicense.label "Ввести код лицензии сейчас">
-<!ENTITY enterLicenseTitle.label "Введите код лицензии Postbox">
-<!ENTITY enterLicenseInfo.label "Введите свое имя и код лицензии ниже:">
-<!ENTITY invalidLicense.label "Почти готово… Введите свое имя и код лицензии так, как они отображаются в сообщении с лицензией.">
-<!ENTITY invalidLicenseVersion.label "Этот ключ лицензии не будет работать с данной версией Postbox. Обновите приложение до последней версии.">
-<!ENTITY invalidLicenseInvalid1.label "Введите действительный код лицензии или обратитесь в">
-<!ENTITY invalidLicenseInvalid2.label "службу поддержки Postbox">
-<!ENTITY invalidLicenseInvalid3.label "для получения помощи.">
+<!ENTITY changeLicenseKey.label "Code">
+<!ENTITY changeName.label "Name">
+<!ENTITY licenseKey.label "Code:">
+<!ENTITY name.label "Name:">
+<!ENTITY enterLicense.label "Enter license code now">
+<!ENTITY enterLicenseTitle.label "Enter Postbox license code">
+<!ENTITY enterLicenseInfo.label "Please enter your name and license code below:">
+<!ENTITY invalidLicense.label "Please enter your name and license code exactly as they appear in your license email.">
+<!ENTITY invalidLicenseVersion.label "This license code will not work with this version of Postbox.  Please visit our store to purchase an upgrade.">
+<!ENTITY invalidLicenseInvalid1.label "Please enter a valid license code, or contact us at">
+<!ENTITY invalidLicenseInvalid2.label "Postbox Support">
+<!ENTITY invalidLicenseInvalid3.label "for immediate assistance.">
 
-<!ENTITY changeLicenseTitle.label "Код лицензии Postbox">
-<!ENTITY changeLicenseInfo.label "Эта копия Postbox зарегистрирована на:">
+<!ENTITY changeLicenseTitle.label "Postbox License Code">
+<!ENTITY changeLicenseInfo.label "This copy of Postbox is licensed to:">
 
-<!ENTITY licensedThroughMAS.label "Эта копия зарегистрирована с помощью Apple Mac App Store.">
+<!ENTITY licensedThroughMAS.label "This copy is licensed through the Apple Mac App Store.">
 
-<!ENTITY licenseConfirmed.label "Код лицензии подтвержден.">
+<!ENTITY licenseConfirmed.label "License code confirmed!">
 
-<!ENTITY thanksTitle.label "Спасибо за приобретение Postbox!">
-<!ENTITY helpUs.label "Сообщите о нас другим!">
-<!ENTITY composeFacebook.label "Расскажите друзьям на ">
+<!ENTITY thanksTitle.label "Thank you for purchasing Postbox!">
+<!ENTITY helpUs.label "Help us get the word out!">
+<!ENTITY composeFacebook.label "Tell your friends on ">
 <!ENTITY helpUsFacebook.label "Facebook">
-<!ENTITY composeTwitter.label "Опубликуйте сообщение в ">
+<!ENTITY composeTwitter.label "Post an update on ">
 <!ENTITY helpUsTwitter.label "Twitter">
-<!ENTITY okButton.label "ОК">
+<!ENTITY okButton.label "OK">
 
 <!ENTITY title.top "20">
 <!ENTITY title.left "20">
@@ -37,21 +37,17 @@
 <!ENTITY buttonsMac.top "179">
 <!ENTITY buttons.top "187">
 
-<!ENTITY facebook.top "100">
-<!ENTITY twitter.top "130">
+<!ENTITY facebook.top "110">
+<!ENTITY twitter.top "140">
 <!ENTITY facebook.left "30">
 <!ENTITY facebookLink.left "65">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY enterLicenseTitle.style "">
-<!ENTITY invalidLicenseVersion.style "">
 <!ENTITY validationTitle.style "">
-<!ENTITY thanksTitle.style "">
-<!ENTITY invalidLicense.style "">
+<!ENTITY enterLicenseTitle.style "">
 <!ENTITY enterLicenseInfo.style "">
-<!ENTITY changeLicenseTitle.style "">
+<!ENTITY invalidLicense.style "">
+<!ENTITY invalidLicenseVersion.style "">
 <!ENTITY invalidLicenseInvalid1.style "">
+<!ENTITY thanksTitle.style "">
+<!ENTITY changeLicenseTitle.style "">
+

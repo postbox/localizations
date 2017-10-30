@@ -1,22 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "Almacenamiento de mensajes">
 <!ENTITY serverSettings.label "Configuración del servidor">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Servidor de correo POP">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Servidor de correo IMAP">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Servidor de noticias (NNTP)">
-<!ENTITY webmail.label "Cuenta de correo web">
 <!ENTITY serverType.label "Tipo de servidor:">
 <!ENTITY serverName.label "Nombre del servidor:">
-<!ENTITY serverName.accesskey "s">
+<!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Nombre de usuario:">
 <!ENTITY userName.accesskey "N">
 <!ENTITY port.label "Puerto:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Predet.:">
-<!ENTITY savePassword.label "Guardar contraseña">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -25,13 +22,15 @@
 <!ENTITY biffStart.label "Buscar nuevos mensajes cada ">
 <!ENTITY biffStart.accesskey "j">
 <!ENTITY biffEnd.label "minutos">
+<!ENTITY useIdleNotifications.label "Permitir notificaciones inmediatas del servidor cuando lleguen nuevos mensajes">
+<!ENTITY useIdleNotifications.accesskey "P">
 <!ENTITY connectionSecurity.label "Seguridad de la conexión:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Ninguna">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, si disponible">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, si está disponible">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Autenticación:">
+<!ENTITY authMethod.label "Método de identificación:">
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Dejar los mensajes en el servidor.">
 <!ENTITY leaveOnServer.accesskey "a">
@@ -44,10 +43,7 @@
 <!ENTITY deleteOnServer2.accesskey "b">
 <!ENTITY downloadOnBiff.label "Descargar automáticamente los mensajes nuevos">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY hostname.label "Nombre del servidor">
 <!ENTITY username.label "Nombre de la cuenta">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Información del servidor POP">
 <!ENTITY deleteMessagePrefix.label "Cuando borre un mensaje:">
 <!ENTITY modelMoveToTrash.label "Moverlo a esta carpeta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -57,27 +53,34 @@
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Limpiar (&quot;Purgar&quot;) la bandeja de entrada al salir">
-<!ENTITY expungeOnExit.accesskey "e">
+<!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Vaciar papelera al salir">
-<!ENTITY emptyTrashOnExit.accesskey "V">
+<!ENTITY emptyTrashOnExit.accesskey "v">
 <!ENTITY loginAtStartup.label "Comprobar si hay mensajes nuevos al iniciar">
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart1.label "Preguntar si descargar más de">
+<!ENTITY maxMessagesStart1.label "Ask when downloading more than">
 <!ENTITY maxMessagesStart1.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mensajes">
-<!ENTITY alwaysAuthenticate1.label "Solicitar autenticación siempre">
+<!ENTITY alwaysAuthenticate1.label "Always request authentication">
 <!ENTITY alwaysAuthenticate1.accesskey "w">
 <!ENTITY abbreviate.label "Mostar los nombres de los grupos de noticas en la carpeta de correo como:">
 <!ENTITY abbreviateOn.label "Nombres completos (Por ejemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nombres abreviados (Por ejemplo,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzadas…">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset1.label "Cifrado:">
+<!ENTITY serverDefaultCharset2.label "Codificación de texto predeterminada:">
 
-<!ENTITY accountName.label "Nombre de la cuenta:">
-<!ENTITY accountName.accesskey "n">
+<!ENTITY accountName.label "Account Name:">
+<!ENTITY accountName.accesskey "N">
+
+<!ENTITY accountTitle.label "Configuración de cuenta">
+<!ENTITY accountSettingsDesc.label "La siguiente cuenta es especial. No tiene identidades asociadas con ella.">
+<!ENTITY storeType.label "Tipo de almacenamiento de mensajes:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "Archivo por carpeta (mbox)">
+<!ENTITY maildirStore.label "Archivo por mensaje (maildir)">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label                   "General">
 <!ENTITY itemAutoComplete.label              "Addressing">
 <!ENTITY itemTypeCheck.label                 "Typing">
@@ -5,47 +9,50 @@
 <!ENTITY itemSignatures.label                "Signatures">
 <!ENTITY itemCannedResponses.label           "Responses">
 
-<!ENTITY forwardReply.label                   "Forwarding Messages">
+<!ENTITY dialogCompose.title                 "Composing">
+
 <!ENTITY forwardMsg.label                     "Forward messages:">
-<!ENTITY forwardMsg.accesskey                 "f">
+<!ENTITY forwardMsg.accesskey                 "F">
 <!ENTITY inline.label                         "Inline">
 <!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "As Attachment">
 <!ENTITY asAttachment.accesskey               "A">
+<!ENTITY addExtension.label                   "add extension to file name">
+<!ENTITY addExtension.accesskey               "e">
 
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "n">
 <!ENTITY fontColor.label                      "Text Color:">
-<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Background Color:">
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Restore Defaults">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY defaultToParagraph.label             "Use Paragraph format instead of Body Text by default">
+<!ENTITY defaultToParagraph.accesskey         "P">
 
-<!ENTITY sendingMessagesHeader.label          "Composing Messages">
 <!ENTITY spellCheck.label                     "Check spelling before sending">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Enable spell check as you type">
-<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY spellCheckInline1.accesskey          "E">
 <!ENTITY languagePopup.label                  "Language:">
-<!ENTITY languagePopup.accessKey              "g">
+<!ENTITY languagePopup.accessKey              "L">
 <!ENTITY downloadDictionaries.label           "Download More Dictionaries">
 
 <!ENTITY autoSave.label                       "Auto Save every">
-<!ENTITY autoSave.accesskey                   "u">
+<!ENTITY autoSave.accesskey                   "A">
 <!ENTITY autoSaveEnd.label                    "minutes">
 
 <!ENTITY emailCollectionPicker.label           "Add outgoing e-mail addresses to my:">
-<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY autocompleteText.label                "When addressing messages, look for matching entries in:">
 <!ENTITY addressingEnable.label                "Local Address Books">
-<!ENTITY addressingEnable.accesskey            "A">
+<!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY directories.label                     "Directory Server:">
 <!ENTITY directories.accesskey                 "D">
-<!ENTITY editDirectories.label                 "Edit Directories...">
+<!ENTITY directoriesNone.label                 "None">
+<!ENTITY editDirectories.label                 "Edit Directories…">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY matchText.label                       "If there is a match in your local address books:">
-<!ENTITY skipDirectory.label                   "Do not search in the directory">
 
 <!ENTITY contactsSidebarDisplay.label          "Contacts Sidebar displays:">
 <!ENTITY contactsSidebarDisplay.accesskey      "S">
@@ -54,7 +61,8 @@
 <!ENTITY addressBooks.label                    "Address Books">
 <!ENTITY addressBooks.accesskey                "B">
 
-<!ENTITY sendOptions.label                     "Send Options...">
+<!ENTITY sendOptionsDescription.label          "Configure text format behavior">
+<!ENTITY sendOptions.label                     "Send Options…">
 <!ENTITY sendOptions.accesskey                 "S">
 
 <!ENTITY attachmentReminder.label              "Check for missing attachments">

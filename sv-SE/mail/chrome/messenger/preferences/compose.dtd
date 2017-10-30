@@ -1,16 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label                   "Allmänt">
 <!ENTITY itemAutoComplete.label              "Adressering">
-<!ENTITY itemSpellCheck.label                "Stavning">
-<!ENTITY itemSendFormat.label                "Skicka format">
-<!ENTITY itemSignatures.label                "Signaturer">
+<!ENTITY itemTypeCheck.label                 "Typing">
+<!ENTITY itemSendFormat.label                "Send Format">
+<!ENTITY itemSignatures.label                "Signatures">
+<!ENTITY itemCannedResponses.label           "Responses">
 
-<!ENTITY forwardReply.label                   "Vidarebefordrar meddelanden">
+<!ENTITY dialogCompose.title                 "Skriva">
+
 <!ENTITY forwardMsg.label                     "Vidarebefordra meddelanden:">
 <!ENTITY forwardMsg.accesskey                 "V">
 <!ENTITY inline.label                         "Infogade">
 <!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "Bifogade">
-<!ENTITY asAttachment.accesskey               "a">
+<!ENTITY asAttachment.accesskey               "A">
+<!ENTITY addExtension.label                   "med ett filnamnstillägg">
+<!ENTITY addExtension.accesskey               "m">
 
 <!ENTITY font.label                           "Teckensnitt:">
 <!ENTITY font.accesskey                       "T">
@@ -19,13 +27,14 @@
 <!ENTITY bgColor.label                        "Bakgrundsfärg:">
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Återställ standard">
-<!ENTITY restoreHTMLDefaults.accesskey        "t">
+<!ENTITY restoreHTMLDefaults.accesskey        "Å">
+<!ENTITY defaultToParagraph.label             "Använd styckeformat istället för brödtext som standard">
+<!ENTITY defaultToParagraph.accesskey         "t">
 
-<!ENTITY sendingMessagesHeader.label          "Skapa meddelanden">
 <!ENTITY spellCheck.label                     "Kontrollera stavningen innan meddelanden skickas">
 <!ENTITY spellCheck.accesskey                 "K">
 <!ENTITY spellCheckInline.label               "Använd automatisk stavningskontroll">
-<!ENTITY spellCheckInline1.accesskey           "A">
+<!ENTITY spellCheckInline1.accesskey          "A">
 <!ENTITY languagePopup.label                  "Språk:">
 <!ENTITY languagePopup.accessKey              "S">
 <!ENTITY downloadDictionaries.label           "Hämta fler ordlistor">
@@ -41,115 +50,83 @@
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY directories.label                     "Katalogserver:">
 <!ENTITY directories.accesskey                 "K">
+<!ENTITY directoriesNone.label                 "Ingen">
 <!ENTITY editDirectories.label                 "Redigera kataloger…">
 <!ENTITY editDirectories.accesskey             "R">
-<!ENTITY matchText.label                       "Om det finns en träff i dina lokala adressböcker:">
-<!ENTITY skipDirectory.label                   "Sök inte i katalogen">
 
+<!ENTITY contactsSidebarDisplay.label          "Contacts Sidebar displays:">
+<!ENTITY contactsSidebarDisplay.accesskey      "S">
+<!ENTITY recentContacts.label                  "Recent Contacts">
+<!ENTITY recentContacts.accesskey              "n">
+<!ENTITY addressBooks.label                    "Address Books">
+<!ENTITY addressBooks.accesskey                "B">
+
+<!ENTITY sendOptionsDescription.label          "Anpassa valet av textformat:">
 <!ENTITY sendOptions.label                     "Anpassa…">
 <!ENTITY sendOptions.accesskey                 "A">
 
-<!ENTITY attachmentReminder.label              "Kolla efter saknade bilagor">
-<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminder.label              "Kontrollera om bilagor saknas">
+<!ENTITY attachmentReminder.accesskey          "K">
 <!ENTITY attachmentReminderOptions.label       "Nyckelord…">
-<!ENTITY attachmentReminderOptions.accesskey   "K">
+<!ENTITY attachmentReminderOptions.accesskey   "N">
 
-<!ENTITY replyInDefaultCharset2.label     "Använd den förinställda teckenkodningen i svar">
+<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY composeLanguagesTitle.label            "Teckenkodning:">
+<!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+
+<!ENTITY imageOrientation.label "Image Orientation:">
+<!ENTITY accordingToEXIF.label "Rotate images according to EXIF data">
+<!ENTITY accordingToEXIF.accesskey "o">
 
 <!-- signatures -->
-<!ENTITY addSignatureButton.label       "Ny">
+<!ENTITY addSignatureButton.label       "New">
 <!ENTITY addSignatureButton.accesskey   "N">
-<!ENTITY editSignatureButton.label      "Redigera">
+<!ENTITY editSignatureButton.label      "Edit">
 <!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY removeSignatureButton.label    "Radera">
+<!ENTITY removeSignatureButton.label    "Delete">
 <!ENTITY removeSignatureButton.accesskey "l">
+<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
 
-<!ENTITY pbItemAdvanced.label "Avancerat">
-<!ENTITY pb.quotingConversationsSortOrder.label "Vid sammanfattning, citera:">
-<!ENTITY pb.quotingConversationsSortOrderOldest.label "Äldsta meddelanden först">
-<!ENTITY pb.quotingConversationsSortOrderNewest.label "Senaste meddelanden först">
-<!ENTITY pb.QuickReply.label "Förinställt snabbsvar till:">
+<!ENTITY pbItemAdvanced.label "Advanced">
+<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
+<!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
+<!ENTITY pb.QuickReply.label "Default Quick Reply to:">
 <!ENTITY pb.QuickReply.accesskey "Q">
-<!ENTITY pb.quickreply.replyall.label "Svara alla">
+<!ENTITY pb.quickreply.replyall.label "Reply All">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
-<!ENTITY pb.quickreply.reply.label "Svara">
+<!ENTITY pb.quickreply.reply.label "Reply">
 <!ENTITY pb.quickreply.reply.accesskey "y">
-<!ENTITY pbNumConversationsToQuote.label "Inkludera som mest">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "meddelanden vid sammanfattning av svar">
+<!ENTITY pbNumConversationsToQuote.label "Include at most">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing">
 
-<!ENTITY pbDefaultFonSize.label                           "förinställd">
+<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
+<!ENTITY pbQuoteOnQuickReply.accesskey "m">
 
-<!ENTITY pbPlaySoundOnSend.label "Spela ljud när e-post skickas">
+<!ENTITY pbDefaultFonSize.label                           "default">
+
+<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
+<!ENTITY pbSendAndArchive.label "Enable send and archive">
+<!ENTITY pbEnableDropbox.label "Send links when attaching files in your cloud folders">
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
+<!ENTITY pbStopwatchGoal.label "Stopwatch">
+<!ENTITY pbWordsGoal.label "Word Count">
+<!ENTITY pbCharactersGoal.label "Character Count">
+<!ENTITY pbAt.label "at">
+<!ENTITY pbMinutes.label "minutes">
+<!ENTITY pbWords.label "words">
+<!ENTITY pbCharacters.label "characters">
 
-<!ENTITY pbSendAndArchive.label "Aktivera skicka och arkivera">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbQuoteOnQuickReply.accesskey "m">
-<!ENTITY pbQuoteOnQuickReply.label "Citera meddelandet i snabbsvar">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbEnableDropbox.label "Skicka länkar när du bifogar filer från din mapp för Dropbox">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY itemCannedResponses.label           "Svar">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbCharactersGoal.label "Antal tecken">
-<!ENTITY pbStopwatchGoal.label "Stoppur">
-<!ENTITY addSignatureDelimiters.label "Lägg till avgränsare ovanför signauren">
-<!ENTITY pbSetCompositionGoals.label "Ställ in mål för komposition">
-<!ENTITY pbWordsGoal.label "Antal ord">
-<!ENTITY pbMinutes.label "minuter">
-<!ENTITY pbAt.label "vid">
-<!ENTITY sourceView.label "Kodvy:">
-<!ENTITY pbWords.label "ord">
+<!ENTITY sourceView.label "Code View:">
 <!ENTITY sourceView.accesskey "C">
-<!ENTITY pbCharacters.label "tecken">
 
-<!ENTITY pbURLAutoComplete.label "Aktivera automatisk komplettering av URL">
+<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY messageSizeWarning.label "Varna mig om meddelandets storlek är mer än">
+<!ENTITY messageSizeWarning.label "Warn me if the message size is above">
 <!ENTITY megabytes.label "MB">
 
-<!ENTITY imageOrientation.label "Bildriktning:">
-<!ENTITY accordingToEXIF.label "Rotera bilden i enlighet med EXIF-data">
-<!ENTITY accordingToEXIF.accesskey "o">
-<!ENTITY contactsSidebarDisplay.label          "Sidofält visar:">
-<!ENTITY contactsSidebarDisplay.accesskey      "S">
-<!ENTITY recentContacts.label                  "Senaste kontakter">
-<!ENTITY recentContacts.accesskey              "n">
-<!ENTITY addressBooks.label                    "Adressboken">
-<!ENTITY addressBooks.accesskey                "B">
-
-<!ENTITY itemTypeCheck.label                 "Inmatning">
-<!ENTITY intlKeysPanel.label "Internationell Teckeninmatningspanelen">
-<!ENTITY emojiShortcuts.label "Emoji Genvägar">
+<!ENTITY intlKeysPanel.label "International Characters panel">
+<!ENTITY emojiShortcuts.label "Emoji shortcuts">

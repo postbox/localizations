@@ -1,7 +1,7 @@
-<!ENTITY quickfilePanelFileMessage.label  "Sposta messaggio">
-<!ENTITY quickswitchPanelSwitch.label     "Vai alla cartella">
+<!ENTITY quickfilePanelFileMessage.label  "Quick Move">
+<!ENTITY quickswitchPanelSwitch.label     "Quick Switch">
 <!ENTITY quickfilePanelFile.label         "OK">
-<!ENTITY quickfilePanelCancel.label       "Annulla">
+<!ENTITY quickfilePanelCancel.label       "Cancel">
 <!ENTITY showQuickfileCmd.key             "v">
 <!ENTITY showQuickswitchCmd.key           "g">
 <!ENTITY quickfilePanel.width             "600">

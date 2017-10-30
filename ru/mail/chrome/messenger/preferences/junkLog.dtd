@@ -1,6 +1,0 @@
-﻿<!ENTITY junkLog.title "Журнал фильтра спама">
-<!ENTITY junkLogInfo.label "Журнал фильтрации спама.">
-<!ENTITY clearLog.label "Очистить журнал">
-<!ENTITY clearLog.accesskey "C">
-<!ENTITY closeLog.label "Закрыть">
-<!ENTITY closeLog.accesskey "o">

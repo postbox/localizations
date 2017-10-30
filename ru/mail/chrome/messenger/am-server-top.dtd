@@ -1,83 +1,86 @@
-﻿<!-- extracted from am-server-top.xul -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY messageStorage.label "Хранилище сообщений">
 <!ENTITY serverSettings.label "Параметры сервера">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Почтовый сервер POP">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Почтовый сервер IMAP">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Сервер новостей (NNTP)">
-<!ENTITY webmail.label "Учетная запись веб-почты">
 <!ENTITY serverType.label "Тип сервера:">
 <!ENTITY serverName.label "Имя сервера:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "я">
 <!ENTITY userName.label "Имя пользователя:">
-<!ENTITY userName.accesskey "N">
+<!ENTITY userName.accesskey "м">
 <!ENTITY port.label "Порт:">
-<!ENTITY port.accesskey "P">
+<!ENTITY port.accesskey "р">
 <!ENTITY serverPortDefault.label "По умолчанию:">
-<!ENTITY savePassword.label "Сохранить пароль">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
 <!ENTITY biffStart.label "Проверять наличие новых сообщений каждые">
-<!ENTITY biffStart.accesskey "y">
+<!ENTITY biffStart.accesskey "к">
 <!ENTITY biffEnd.label "минут">
-<!ENTITY connectionSecurity.label "Безопасность подключения:">
-<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY useIdleNotifications.label "Разрешить серверу при поступлении новых сообщений немедленно отображать уведомление">
+<!ENTITY useIdleNotifications.accesskey "н">
+<!ENTITY connectionSecurity.label "Защита соединения:">
+<!ENTITY connectionSecurity.accesskey "щ">
 <!ENTITY connectionSecurityType-0.label "Нет">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, если доступно">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Проверка подлинности:">
-<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.label "Метод аутентификации:">
+<!ENTITY authMethod.accesskey "е">
 <!ENTITY leaveOnServer.label "Оставлять копии сообщений на сервере">
-<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY leaveOnServer.accesskey "с">
 <!ENTITY headersOnly.label "Загружать только заголовки сообщений">
-<!ENTITY headersOnly.accesskey "F">
+<!ENTITY headersOnly.accesskey "г">
 <!ENTITY deleteByAgeFromServer.label "Не более">
-<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY deleteByAgeFromServer.accesskey "л">
 <!ENTITY daysEnd.label "дней">
 <!ENTITY deleteOnServer2.label "Пока я не удалю их">
-<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY deleteOnServer2.accesskey "у">
 <!ENTITY downloadOnBiff.label "Автоматически загружать новые сообщения">
-<!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY hostname.label "Имя сервера">
-<!ENTITY username.label "Имя для входа">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Сведения о сервере POP">
+<!ENTITY downloadOnBiff.accesskey "а">
+<!ENTITY username.label "Ваше регистрационное имя">
 <!ENTITY deleteMessagePrefix.label "При удалении сообщения:">
-<!ENTITY modelMoveToTrash.label "Переместить в папку:">
-<!ENTITY modelMoveToTrash.accesskey "o">
-<!ENTITY modelMarkDeleted.label "Пометить как удаленное">
-<!ENTITY modelMarkDeleted.accesskey "k">
-<!ENTITY modelDeleteImmediately.label "Удалить сразу">
-<!ENTITY modelDeleteImmediately.accesskey "d">
+<!ENTITY modelMoveToTrash.label "Переместить его в папку:">
+<!ENTITY modelMoveToTrash.accesskey "и">
+<!ENTITY modelMarkDeleted.label "Отметить его как удалённое">
+<!ENTITY modelMarkDeleted.accesskey "т">
+<!ENTITY modelDeleteImmediately.label "Удалить его сразу">
+<!ENTITY modelDeleteImmediately.accesskey "д">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Сжимать папку «Входящие» при выходе">
-<!ENTITY expungeOnExit.accesskey "e">
-<!ENTITY emptyTrashOnExit.label "Очищать корзину при выходе">
-<!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY loginAtStartup.label "Проверять наличие новых сообщений при запуске">
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY expungeOnExit.label "Сжимать при выходе папку «Входящие»">
+<!ENTITY expungeOnExit.accesskey "ж">
+<!ENTITY emptyTrashOnExit.label "Очищать при выходе папку «Удалённые»">
+<!ENTITY emptyTrashOnExit.accesskey "ч">
+<!ENTITY loginAtStartup.label "Проверять почту при запуске">
+<!ENTITY loginAtStartup.accesskey "в">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart1.label "Спрашивать при загрузке более">
+<!ENTITY maxMessagesStart1.label "Ask when downloading more than">
 <!ENTITY maxMessagesStart1.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "сообщений">
-<!ENTITY alwaysAuthenticate1.label "Всегда запрашивать проверку подлинности">
+<!ENTITY alwaysAuthenticate1.label "Always request authentication">
 <!ENTITY alwaysAuthenticate1.accesskey "w">
-<!ENTITY abbreviate.label "Показывать названия групп новостей:">
-<!ENTITY abbreviateOn.label "Полностью (например, netscape.public.mozilla.mail-news)">
-<!ENTITY abbreviateOff.label "В виде аббревиатуры (например, n.p.m.mail-news)">
+<!ENTITY abbreviate.label "Показывать имена групп новостей:">
+<!ENTITY abbreviateOn.label "Полностью (например «netscape.public.mozilla.mail-news»)">
+<!ENTITY abbreviateOff.label "Аббревиатурой (например «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Дополнительно…">
-<!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset1.label "Кодировка:">
+<!ENTITY advancedButton.accesskey "п">
+<!ENTITY serverDefaultCharset2.label "Кодировка текста по умолчанию:">
 
-<!ENTITY accountName.label "Название учетной записи:">
-<!ENTITY accountName.accesskey "n">
+<!ENTITY accountName.label "Account Name:">
+<!ENTITY accountName.accesskey "N">
+
+<!ENTITY accountTitle.label "Параметры учётной записи">
+<!ENTITY accountSettingsDesc.label "Эта учётная запись особенная. С ней не связаны никакие персональные данные.">
+<!ENTITY storeType.label "Тип хранилища сообщений:">
+<!ENTITY storeType.accesskey "х">
+<!ENTITY mboxStore2.label "Каждая папка в отдельном файле (mbox)">
+<!ENTITY maildirStore.label "Каждое сообщение в отдельном файле (maildir)">

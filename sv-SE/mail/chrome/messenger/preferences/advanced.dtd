@@ -1,143 +1,175 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label       "Allmänt">
+<!ENTITY dataChoicesTab.label    "Dataval">
 <!ENTITY itemUpdate.label        "Uppdateringar">
 <!ENTITY itemNetworking.label    "Nätverk &amp; diskutrymme">
 <!ENTITY itemCertificates.label  "Certifikat">
-<!ENTITY itemWebServices.label   "Webbtjänster">
+<!ENTITY itemWebServices.label   "Web Services">
+<!ENTITY itemQuickPost.label     "Quick Post">
 
 <!-- General Settings -->
-
-<!ENTITY showCondensedAddresses.label  "Visa endast kortnamnen för personer som finns i adressboken">
-<!ENTITY showCondensedAddresses.accesskey "V">
-
-<!ENTITY autoMarkAsRead.label          "Märk automatiskt meddelanden som lästa">
-<!ENTITY autoMarkAsRead.accesskey      "M">
-<!ENTITY markAsReadNoDelay.label       "Omedelbart vid visning">
-<!ENTITY markAsReadNoDelay.accesskey   "O">
+<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "Immediately on display">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Efter att ha visats i">
-<!ENTITY markAsReadDelay.accesskey     "E">
-<!ENTITY secondsLabel.label            "sekunder">
-<!ENTITY showFolderColumns.label       "Visa expanderade kolumner i mappvyn">
-<!ENTITY showFolderColumns.accesskey   "l">
-<!ENTITY rememberLastMsg.label         "Kom ihåg senast valda meddelande">
+<!ENTITY markAsReadDelay.label         "After displaying for">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "seconds">
+<!ENTITY rememberLastMsg.label         "Remember the last selected message">
 <!ENTITY rememberLastMsg.accesskey     "b">
-<!ENTITY openMsgIn1.label              "Nya meddelanden ska öppnas i:">
-<!ENTITY openMsgInNewTab.label          "en ny flik">
-<!ENTITY openMsgInNewTab.accesskey      "n">
-<!ENTITY openMsgInNewWindow.label       "ett nytt fönster">
+<!ENTITY openMsgIn1.label              "Open messages in:">
+<!ENTITY openMsgInNewTab.label          "a new tab">
+<!ENTITY openMsgInNewTab.accesskey      "a">
+<!ENTITY openMsgInNewWindow.label       "a new window">
 <!ENTITY openMsgInNewWindow.accesskey   "i">
-<!ENTITY openMsgInExistingWindow.label  "ett befintligt fönster">
+<!ENTITY openMsgInExistingWindow.label  "an existing window">
 <!ENTITY openMsgInExistingWindow.accesskey "x">
-<!ENTITY connectionTimeout.label       "Tidsgränsen för anslutningen nåddes: ">
+<!ENTITY connectionTimeout.label       "Connection timeout: ">
 <!ENTITY connectionTimeout.accesskey   "C">
-<!ENTITY connectionSeconds.label       "sekunder">
+<!ENTITY connectionSeconds.label       "seconds">
+<!ENTITY enableGlodaSearch.label       "Aktivera global sökning och indexering">
+<!ENTITY enableGlodaSearch.accesskey   "A">
+<!ENTITY allowHWAccel.label            "Använd hårdvaruacceleration när det finns">
+<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Lagringstyp för meddelande i nya konton:">
+<!ENTITY storeType.accesskey           "t">
+<!ENTITY mboxStore2.label              "Fil per mapp (mbox)">
+<!ENTITY maildirStore.label            "Fil per meddelande (maildir)">
+
+<!ENTITY scrolling.label               "Scrollning">
+<!ENTITY useAutoScroll.label           "Använd automatisk scrollning">
+<!ENTITY useAutoScroll.accesskey       "u">
+<!ENTITY useSmoothScrolling.label      "Använd mjuk scrollning">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
+<!ENTITY systemIntegration.label       "Systemintegration">
+<!ENTITY alwaysCheckDefault.label      "Kontrollera vid start om &brandShortName; är standardklient för e-post">
+<!ENTITY alwaysCheckDefault.accesskey  "o">
+<!ENTITY searchIntegration.label       "Låt &searchIntegration.engineName; söka igenom meddelanden">
+<!ENTITY searchIntegration.accesskey   "L">
+<!ENTITY checkDefaultsNow.label        "Kontrollera nu…">
+<!ENTITY checkDefaultsNow.accesskey    "n">
 <!ENTITY configEditDesc.label          "Avancerade inställningar">
 <!ENTITY configEdit.label              "Konfigurationsredigerare…">
 <!ENTITY configEdit.accesskey          "K">
 <!ENTITY returnReceiptsInfo.label      "Ange hur &brandShortName; ska hantera mottagningskvitto">
 <!ENTITY showReturnReceipts.label      "Mottagningskvitton…">
 <!ENTITY showReturnReceipts.accesskey  "M">
-<!ENTITY macEnableSpotlight.label      "Aktivera fokusintegration">
-<!ENTITY macEnableSpotlight.accesskey  "S">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetri">
+<!ENTITY telemetryDesc.label             "Dela data för din e-postklient om prestanda, användning, hårdvara och anpassningar med &vendorShortName; för att hjälpa oss att förbättra &brandShortName;">
+<!ENTITY enableTelemetry.label           "Aktivera telemetri">
+<!ENTITY enableTelemetry.accesskey       "m">
+<!ENTITY telemetryLearnMore.label        "Läs mer">
+
+<!ENTITY crashReporterSection.label      "Kraschrapporter">
+<!ENTITY crashReporterDesc.label         "&brandShortName; skickar in kraschrapporter för att hjälpa &vendorShortName; att göra din e-postklient stabilare och säkrare">
+<!ENTITY enableCrashReporter.label       "Aktivera kraschrapporter">
+<!ENTITY enableCrashReporter.accesskey   "p">
+<!ENTITY crashReporterLearnMore.label    "Läs mer">
+
 <!-- Update -->
-<!ENTITY autoCheck.label                "Sök automatiskt efter uppdateringar till:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "P">
-<!ENTITY enableAddonsUpdate.label       "Tillägg">
-<!ENTITY enableAddonsUpdate.accesskey   "T">
-<!ENTITY checkNow.label                 "Kontrollera nu">
-<!ENTITY whenUpdatesFound.label         "När det finns uppdateringar till &brandShortName;:">
-<!ENTITY modeAskMe.label                "Fråga vad jag vill göra">
-<!ENTITY modeAskMe.accesskey            "F">
-<!ENTITY modeAutomatic.label            "Hämta och installera uppdateringen automatiskt">
-<!ENTITY modeAutomatic.accesskey        "H">
-<!ENTITY modeAutoAddonWarn.label        "Varna om tillägg kommer att inaktiveras">
-<!ENTITY modeAutoAddonWarn.accesskey    "o">
-<!ENTITY showUpdates.label              "Visa tidigare uppdateringar">
-<!ENTITY showUpdates.accesskey          "V">
+<!ENTITY updateApp.label                 "&brandShortName; uppdateringar:">
+<!ENTITY updateAuto.label                "Installera uppdateringar automatiskt (rekommenderas: förbättrad säkerhet)">
+<!ENTITY updateAuto.accesskey            "I">
+<!ENTITY updateCheck.label               "Sök efter uppdateringar, men låt mig välja om de ska installeras">
+<!ENTITY updateCheck.accesskey           "S">
+<!ENTITY updateManual.label              "Sök aldrig efter uppdateringar (rekommenderas inte: säkerhetsrisk)">
+<!ENTITY updateManual.accesskey          "a">
+<!ENTITY updateHistory.label             "Visa uppdateringshistorik">
+<!ENTITY updateHistory.accesskey         "h">
+
+<!ENTITY useService.label                "Använd en bakgrundstjänst för att installera uppdateringar">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY deleteSelectOrder.label        "After deleting a message select the:">
+<!ENTITY showPreviousMessage.label      "Previous Message">
+<!ENTITY showNextMessage.label          "Next Message">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Anslutning...">
+<!ENTITY showConnections.label         "Connection...">
 <!ENTITY showConnections.accesskey     "n">
 
-<!ENTITY offlineCompact.label "Komprimera mappar när det kan spara över">
-<!ENTITY offlineCompact.accesskey "K">
-<!ENTITY kb.label "kB">
+<!ENTITY offlineCompactFolders.label     "Komprimera alla mappar när det kommer spara över">
+<!ENTITY offlineCompactFolders.accesskey "K">
+<!ENTITY offlineCompactFoldersMB.label   "MB totalt">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Använd upp till">
+<!ENTITY useCacheBefore.accesskey        "A">
+<!ENTITY useCacheAfter.label             "MB utrymme för cachen">
+<!ENTITY clearCacheNow.label             "Rensa nu">
+<!ENTITY clearCacheNow.accesskey         "R">
 
 <!-- Certificates -->
-<!ENTITY certSelection.label "När en server frågar efter mitt certifikat:">
+<!ENTITY certSelection.label "When a server requests my certificate:">
 <!ENTITY certs.auto                      "Välj ett automatiskt">
-<!ENTITY certs.ask                       "Fråga mig varje gång">
+<!ENTITY certs.auto.accesskey            "a">
+<!ENTITY certs.ask                       "Fråga varje gång">
+<!ENTITY certs.ask.accesskey             "F">
+<!ENTITY enableOCSP.label                "Använd OCSP-mekanism för att bekräfta giltigheten på certifikaten">
+<!ENTITY enableOCSP.accesskey            "o">
 
-<!ENTITY viewCertificates.label         "Visa certifikat">
-<!ENTITY viewCertificates.accesskey     "c">
-<!ENTITY viewCRLs.label                 "Spärrlistor">
-<!ENTITY viewCRLs.accesskey             "S">
-<!ENTITY viewOCSP.label                 "Verifikation">
+<!ENTITY manageCertificates.label "Hantera certifikat">
+<!ENTITY manageCertificates.accesskey "H">
+<!ENTITY viewCRLs.label                 "Revocation Lists">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY viewOCSP.label                 "Verification">
 <!ENTITY viewOCSP.accesskey             "f">
-<!ENTITY viewSecurityDevices.label      "Säkerhetsenheter">
-<!ENTITY viewSecurityDevices.accesskey  "k">
+<!ENTITY viewSecurityDevices.label "Säkerhetsenheter">
+<!ENTITY viewSecurityDevices.accesskey "k">
 
 <!-- Web Services -->
-<!ENTITY webservicesInfo.label          "Konfigurera webbtjänsterna som används med Postbox.">
+<!ENTITY webservicesInfo.label          "Configure the Web services used within &brandShortName;.">
 
-<!ENTITY textStartUp   "Vid start:">
-<!ENTITY radioRememberPrevState "Kom ihåg föregående online-läge">
+<!ENTITY textStartUp   "When starting up:">
+<!ENTITY radioRememberPrevState "Remember previous online state">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe "Fråga mig om online-läge vid start">
+<!ENTITY radioAskMe "Ask me for online state at startup">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline "Starta alltid online">
+<!ENTITY radioAlwaysOnline "Always start up online">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline1 "När online-läge aktiveras:">
-<!ENTITY radioAutoSend1 "Skicka osända meddelanden">
-<!ENTITY radioNotSend1 "Skicka inte osända meddelanden">
-<!ENTITY radioAskUnsent1 "Fråga om osända meddelanden ska skickas">
+<!ENTITY textGoingOnline1 "When going online:">
+<!ENTITY radioAutoSend1 "Send unsent messages">
+<!ENTITY radioNotSend1 "Do not send unsent messages">
+<!ENTITY radioAskUnsent1 "Ask to send unsent messages">
 
-<!ENTITY textGoingOffline "Ladda ner meddelanden för offline-användning vid övergång till offline-läge?">
-<!ENTITY radioAutoDownload "ja">
+<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
+<!ENTITY radioAutoDownload "Yes">
 <!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload "Nej">
+<!ENTITY radioNotDownload "No">
 <!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload "Fråga mig">
-<!ENTITY radioAskDownload.accesskey "A">
+<!ENTITY radioAskDownload "Ask me">
+<!ENTITY radioAskDownload.accesskey "a">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbUseGravatar.label "Använd Gravatar-tjänsten för att hitta bilder på kontakter.">
+<!ENTITY useGmailShortcuts.label "Use Gmail keyboard shortcuts">
 <!ENTITY useGmailShortcuts.accesskey "l">
-<!ENTITY pbUseGravatar.accesskey "g">
-<!ENTITY useGmailShortcuts.label "Använd Gmail-tangentbordets genvägar">
 
+<!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
+<!ENTITY pbUseGravatar.accesskey "G">
 
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbUseGoogleCalendar.label "Använd Google Calendar för funna datum.">
-<!ENTITY pbNextMessage.label "Välj nästa meddelande">
-<!ENTITY pbPreviousMessage.label "Välj föregående meddelande">
-<!ENTITY pbSwipeLeft.label "Dra vänster:">
-<!ENTITY pbCloseFolderPane.label "Stäng mappvyn">
-<!ENTITY pbOpenFolderPane.label "Öppna mappvyn">
-<!ENTITY pbArchiveMessage.label "Arkivera meddelande">
-<!ENTITY pbDeleteMessage.label "Radera meddelande">
-<!ENTITY pbOpenMessage.label "Öppna meddelande">
-<!ENTITY pbSwipeRight.label "Dra höger:">
+<!ENTITY pbUseGoogleCalendar.label "Use Google Calendar for detected dates.">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY showNextMessage.label          "Nästa meddelande">
-<!ENTITY showPreviousMessage.label      "Föregående meddelande">
-<!ENTITY deleteSelectOrder.label        "Efter att ett meddelande raderats välj:">
-
-<!ENTITY itemQuickPost.label     "Snabbpost">
+<!ENTITY pbSwipeLeft.label "Swipe Left:">
+<!ENTITY pbSwipeRight.label "Swipe Right:">
+<!ENTITY pbNextMessage.label "Select Next Message">
+<!ENTITY pbPreviousMessage.label "Select Previous Message">
+<!ENTITY pbDeleteMessage.label "Delete Message">
+<!ENTITY pbArchiveMessage.label "Archive Message">
+<!ENTITY pbOpenMessage.label "Open Message">
+<!ENTITY pbOpenFolderPane.label "Open Folder Pane">
+<!ENTITY pbCloseFolderPane.label "Close Folder Pane">

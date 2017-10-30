@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY lookInMenuList.label       "Kijken in:">
 <!ENTITY lookInMenuList.accesskey   "K">
 <!ENTITY textInput.label            "Bestandsnaam:">
@@ -14,4 +18,4 @@
 
 <!ENTITY folderUp.tooltiptext   "Een niveau omhoog gaan">
 <!ENTITY folderHome.tooltiptext "Naar startmap gaan">
-<!ENTITY folderNew.tooltiptext  "Nieuwe map creëren">
+<!ENTITY folderNew.tooltiptext  "Nieuwe map maken">

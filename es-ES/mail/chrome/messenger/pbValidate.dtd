@@ -1,91 +1,53 @@
-<!ENTITY licenseKey.label "Código de licencia:">
-<!ENTITY name.label "Nombre:">
-<!ENTITY enterLicense.label "Teclee el código de licencia">
-<!ENTITY enterLicenseTitle.label "Teclee el código de licencia de Postbox">
-<!ENTITY enterLicenseInfo.label "Por favor, a continuación teclee su nombre y el código de licencia:">
-<!ENTITY invalidLicense.label "Casi... por favor teclee su nombre y código de licencia exactamente a como aparece en su correo de licencia.">
+<!ENTITY changeLicenseKey.label "Code">
+<!ENTITY changeName.label "Name">
+<!ENTITY licenseKey.label "Code:">
+<!ENTITY name.label "Name:">
+<!ENTITY enterLicense.label "Enter license code now">
+<!ENTITY enterLicenseTitle.label "Enter Postbox license code">
+<!ENTITY enterLicenseInfo.label "Please enter your name and license code below:">
+<!ENTITY invalidLicense.label "Please enter your name and license code exactly as they appear in your license email.">
+<!ENTITY invalidLicenseVersion.label "This license code will not work with this version of Postbox.  Please visit our store to purchase an upgrade.">
+<!ENTITY invalidLicenseInvalid1.label "Please enter a valid license code, or contact us at">
+<!ENTITY invalidLicenseInvalid2.label "Postbox Support">
+<!ENTITY invalidLicenseInvalid3.label "for immediate assistance.">
 
-<!ENTITY changeLicenseTitle.label "Código de licencia Postbox">
-<!ENTITY changeLicenseInfo.label "Esta copia de Postbox pertenece a:">
-<!ENTITY changeLicense.label "Cambiar código de licencia">
+<!ENTITY changeLicenseTitle.label "Postbox License Code">
+<!ENTITY changeLicenseInfo.label "This copy of Postbox is licensed to:">
 
-<!ENTITY referFriend.label "Obtener código de referencia">
+<!ENTITY licensedThroughMAS.label "This copy is licensed through the Apple Mac App Store.">
 
-<!ENTITY licenseConfirmed.label "Código de licencia confirmado!">
+<!ENTITY licenseConfirmed.label "License code confirmed!">
 
-<!ENTITY thanksTitle.label "Gracias por comprar Postbox!">
-
-<!ENTITY thanksInfo2a.label "Manténgase informado de noticias, modificaciones y promociones especiales de Postbox al suscribirse a nuestro ">
-<!ENTITY PostboxNewsletter.label "boletín de noticias">
-<!ENTITY thanksInfo2b.label ".">
-
-<!ENTITY thanksInfo3a.label "Para las últimas novedades, visite nuestro ">
-<!ENTITY PostboxBlog.label "Blog">
-<!ENTITY thanksInfo3b.label " o síganos en ">
-<!ENTITY PostboxTwitter.label "Twitter">
-<!ENTITY thanksInfo3c.label ".">
-
-
-<!--
-# entities below were automatically added by l10nmerge
--->
-
-<!ENTITY invalidLicenseVersion.label "Este código de licencia no funcionará con esta versión de Postbox. Por favor, actualice a la versión más moderna.">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY changeLicenseKey.label "Código">
-<!ENTITY buttons.top "187">
-<!ENTITY fourthRow.top "140">
+<!ENTITY thanksTitle.label "Thank you for purchasing Postbox!">
+<!ENTITY helpUs.label "Help us get the word out!">
+<!ENTITY composeFacebook.label "Tell your friends on ">
+<!ENTITY helpUsFacebook.label "Facebook">
+<!ENTITY composeTwitter.label "Post an update on ">
+<!ENTITY helpUsTwitter.label "Twitter">
 <!ENTITY okButton.label "OK">
-<!ENTITY buttonsMac.top "179">
-<!ENTITY facebookLink.left "65">
-<!ENTITY facebook.top "100">
-<!ENTITY helpUs.label "¡Ayúdenos a correr la voz!">
-<!ENTITY licensedThroughMAS.label "La licencia de esta copia ha sido vendida a través del App Store de Apple Mac.">
-<!ENTITY secondRow.top "100">
+
+<!ENTITY title.top "20">
+<!ENTITY title.left "20">
 <!ENTITY subtitle.top "40">
 <!ENTITY firstRow.top "80">
-<!ENTITY facebook.left "30">
-<!ENTITY title.left "20">
-<!ENTITY changeName.label "Nombre">
-<!ENTITY compose.label "Redactar una actualización en">
-<!ENTITY helpUsFacebook.label "Facebook">
-<!ENTITY twitter.top "130">
-<!ENTITY title.top "20">
-<!ENTITY helpUsTwitter.label "Twitter">
+<!ENTITY secondRow.top "100">
 <!ENTITY thirdRow.top "120">
+<!ENTITY fourthRow.top "140">
 
+<!ENTITY buttonsMac.top "179">
+<!ENTITY buttons.top "187">
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!ENTITY facebook.top "110">
+<!ENTITY twitter.top "140">
+<!ENTITY facebook.left "30">
+<!ENTITY facebookLink.left "65">
 
-<!ENTITY composeTwitter.label "Publicar una actualización en ">
-<!ENTITY composeFacebook.label "Cuénteselo a sus amigos en ">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY invalidLicenseInvalid3.label "para asistencia inmediata.">
-<!ENTITY invalidLicenseInvalid2.label "Soporte de Postbox">
-<!ENTITY invalidLicenseInvalid1.label "Por favor, introduzca un código de licencia válido o póngase en contacto con nosotros en">
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
+<!ENTITY validationTitle.style "">
 <!ENTITY enterLicenseTitle.style "">
-<!ENTITY invalidLicenseVersion.style "">
-<!ENTITY validationTitle.style "font-size: 10px;">
-<!ENTITY thanksTitle.style "">
-<!ENTITY invalidLicense.style "">
 <!ENTITY enterLicenseInfo.style "">
-<!ENTITY changeLicenseTitle.style "">
+<!ENTITY invalidLicense.style "">
+<!ENTITY invalidLicenseVersion.style "">
 <!ENTITY invalidLicenseInvalid1.style "">
+<!ENTITY thanksTitle.style "">
+<!ENTITY changeLicenseTitle.style "">
+

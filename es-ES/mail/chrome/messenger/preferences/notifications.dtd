@@ -1,11 +1,24 @@
-<!ENTITY notificationsDialog2.title       "Personalizar alerta de nuevo correo">
-<!ENTITY window.width                     "30em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY alertCustomization.intro         "Escoja qué campos mostrar en la notificación de alerta:">
-<!ENTITY previewText.label                "Texto de previsualización de mensaje">
-<!ENTITY previewText.accesskey            "T">
-<!ENTITY subject.label                    "Asunto">
-<!ENTITY subject.accesskey                "A">
-<!ENTITY sender.label                     "Remitente">
-<!ENTITY sender.accesskey                 "R">
+<!ENTITY notificationsDialog2.title "Personalizar alerta de nuevo correo">
+<!ENTITY window.width "30em">
 
+<!ENTITY alertCustomization.intro "Escoja qué campos mostrar en la notificación de alerta:">
+<!ENTITY previewText.label "Texto de previsualización de mensaje">
+<!ENTITY previewText.accesskey "T">
+<!ENTITY subject.label "Asunto">
+<!ENTITY subject.accesskey "A">
+<!ENTITY sender.label "Remitente">
+<!ENTITY sender.accesskey "R">
+
+<!-- LOCALIZATION NOTE: totalOpenTimeBefore.label is displayed first, then
+there's a field where the user can enter a number, and totalOpenTimeEnd.label
+is displayed at the end of the line. The translations of the
+totalOpenTimeBefore.label and totalOpenTimeEnd.label parts don't have to mean
+the exact same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY totalOpenTimeBefore.label "Mostrar alertas de nuevo correo durante">
+<!ENTITY totalOpenTimeBefore.accesskey "M">
+<!ENTITY totalOpenTimeEnd.label "segundos">

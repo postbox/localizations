@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
@@ -38,10 +41,13 @@
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "If this product incorporates web services, any applicable service terms for the service(s) should be linked to the ">
-<!ENTITY rights.intro-point4b-unbranded "Web Site Services">
+<!ENTITY rights.intro-point4b-unbranded "Website Services">
 <!ENTITY rights.intro-point4c-unbranded " section.">
 
 <!ENTITY rights2.webservices-header "&brandFullName; Web-Based Information Services">
+
+<!-- point 5 -->
+<!ENTITY rights.intro-point5 "In order to play back certain types of video content, &brandShortName; downloads certain content decryption modules from third parties.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -50,14 +56,14 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
 <!ENTITY rights2.webservices-b "here">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". Other features and Services can be disabled in the application preferences.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
 <!ENTITY rights.safebrowsing-b "Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites.  If you wish to disable the feature completely, follow these steps:">
 <!ENTITY rights.safebrowsing-term1 "Open the application preferences">
 <!ENTITY rights.safebrowsing-term2 "Select the Security selection">
-<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights2.safebrowsing-term3 "Uncheck the option to &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
 
 <!-- location aware browsing points for branded builds -->
@@ -70,7 +76,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
+<!ENTITY rights.webservices-unbranded "An overview of the website services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Any applicable service terms for this product should be listed here.">

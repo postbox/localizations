@@ -1,16 +1,19 @@
-<!ENTITY dialog.title                  "Confirmações de entrega">
-<!ENTITY receiptSettings.label         "Confirmações de entrega">
-<!ENTITY requestReceipt.label          "Sempre solicitar uma confirmação de entrega">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title                  "Confirmações de leitura">
+<!ENTITY requestReceipt.label          "Sempre solicitar uma confirmação de leitura">
 <!ENTITY requestReceipt.accesskey      "S">
 <!ENTITY receiptArrive.label           "Ao receber uma confirmação que eu solicitei:">
 <!ENTITY leaveIt.label                 "Deixar na pasta “Entrada”">
-<!ENTITY leaveIt.accesskey             "e">
+<!ENTITY leaveIt.accesskey             "E">
 <!ENTITY moveToSent.label              "Mover para a pasta “Enviados”">
 <!ENTITY moveToSent.accesskey          "v">
-<!ENTITY requestMDN.label              "Se alguém me solicitar uma confirmação de entrega:">
+<!ENTITY requestMDN.label              "Se alguém me solicitar uma confirmação de leitura:">
 <!ENTITY never.label                   "Não enviar">
 <!ENTITY never.accesskey               "N">
-<!ENTITY returnSome.label              "Permitir confirmações de entrega nestas situações:">
+<!ENTITY returnSome.label              "Permitir confirmações de leitura nestas situações:">
 <!ENTITY returnSome.accesskey          "r">
 <!ENTITY notInToCc.label               "Eu não estou em Para ou Cc:">
 <!ENTITY notInToCc.accesskey           "u">

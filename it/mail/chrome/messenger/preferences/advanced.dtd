@@ -1,143 +1,175 @@
-<!ENTITY itemGeneral.label       "Generale">
-<!ENTITY itemUpdate.label        "Aggiornamenti">
-<!ENTITY itemNetworking.label    "Rete e spazio su disco">
-<!ENTITY itemCertificates.label  "Certificati">
-<!ENTITY itemWebServices.label   "Servizi Web">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label "Generale">
+<!ENTITY dataChoicesTab.label "Scelta dei dati">
+<!ENTITY itemUpdate.label "Aggiornamenti">
+<!ENTITY itemNetworking.label "Rete e spazio su disco">
+<!ENTITY itemCertificates.label "Certificati">
+<!ENTITY itemWebServices.label   "Web Services">
+<!ENTITY itemQuickPost.label     "Quick Post">
 
 <!-- General Settings -->
-
-<!ENTITY showCondensedAddresses.label  "Mostra solo il &quot;nome visualizzato&quot; per i contatti presenti nella mia rubrica">
-<!ENTITY showCondensedAddresses.accesskey "o">
-
-<!ENTITY autoMarkAsRead.label          "Contrassegna automaticamente i messaggi come letti">
-<!ENTITY autoMarkAsRead.accesskey      "u">
-<!ENTITY markAsReadNoDelay.label       "Appena visualizzati">
-<!ENTITY markAsReadNoDelay.accesskey   "A">
+<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "Immediately on display">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Dopo averli visualizzati per">
-<!ENTITY markAsReadDelay.accesskey     "D">
-<!ENTITY secondsLabel.label            "secondi">
-<!ENTITY showFolderColumns.label       "Mostra colonne espanse nel pannello cartelle">
-<!ENTITY showFolderColumns.accesskey   "l">
-<!ENTITY rememberLastMsg.label         "Ricorda l'ultimo messaggio selezionato">
+<!ENTITY markAsReadDelay.label         "After displaying for">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "seconds">
+<!ENTITY rememberLastMsg.label         "Remember the last selected message">
 <!ENTITY rememberLastMsg.accesskey     "b">
-<!ENTITY openMsgIn1.label              "I nuovi messaggi devono essere aperti in:">
-<!ENTITY openMsgInNewTab.label          "una nuova scheda">
-<!ENTITY openMsgInNewTab.accesskey      "u">
-<!ENTITY openMsgInNewWindow.label       "una nuova finestra">
+<!ENTITY openMsgIn1.label              "Open messages in:">
+<!ENTITY openMsgInNewTab.label          "a new tab">
+<!ENTITY openMsgInNewTab.accesskey      "a">
+<!ENTITY openMsgInNewWindow.label       "a new window">
 <!ENTITY openMsgInNewWindow.accesskey   "i">
-<!ENTITY openMsgInExistingWindow.label  "una finestra esistente">
+<!ENTITY openMsgInExistingWindow.label  "an existing window">
 <!ENTITY openMsgInExistingWindow.accesskey "x">
-<!ENTITY connectionTimeout.label       "Timeout di connessione: ">
+<!ENTITY connectionTimeout.label       "Connection timeout: ">
 <!ENTITY connectionTimeout.accesskey   "C">
-<!ENTITY connectionSeconds.label       "secondi">
-<!ENTITY configEditDesc.label          "Configurazione avanzata">
-<!ENTITY configEdit.label              "Editor di configurazione…">
-<!ENTITY configEdit.accesskey          "o">
-<!ENTITY returnReceiptsInfo.label      "Determina come &brandShortName; deve gestire le ricevute di ritorno">
-<!ENTITY showReturnReceipts.label      "Ricevute di ritorno…">
-<!ENTITY showReturnReceipts.accesskey  "R">
-<!ENTITY macEnableSpotlight.label      "Attiva Integrazione Spotlight">
-<!ENTITY macEnableSpotlight.accesskey  "S">
+<!ENTITY connectionSeconds.label       "seconds">
+<!ENTITY enableGlodaSearch.label "Attiva la ricerca globale e l'indicizzazione">
+<!ENTITY enableGlodaSearch.accesskey "E">
+<!ENTITY allowHWAccel.label "Utilizza l'accelerazione hardware quando disponibile">
+<!ENTITY allowHWAccel.accesskey "h">
+<!ENTITY storeType.label "Modalità di salvataggio dei messaggi per i nuovi account:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "File per cartella (mbox)">
+<!ENTITY maildirStore.label "Un file per ogni messaggio (maildir)">
+
+<!ENTITY scrolling.label "Scrolling">
+<!ENTITY useAutoScroll.label "Utilizza lo scorrimento automatico">
+<!ENTITY useAutoScroll.accesskey "U">
+<!ENTITY useSmoothScrolling.label "Utilizza lo scorrimento continuo">
+<!ENTITY useSmoothScrolling.accesskey "m">
+
+<!ENTITY systemIntegration.label "Integrazione col sistema">
+<!ENTITY alwaysCheckDefault.label "Controlla sempre all'avvio se &brandShortName; è il programma di posta predefinito">
+<!ENTITY alwaysCheckDefault.accesskey "A">
+<!ENTITY searchIntegration.label "Permetti a &searchIntegration.engineName; di cercare nei messaggi">
+<!ENTITY searchIntegration.accesskey "P">
+<!ENTITY checkDefaultsNow.label "Controlla ora…">
+<!ENTITY checkDefaultsNow.accesskey "O">
+<!ENTITY configEditDesc.label "Impostazioni avanzate">
+<!ENTITY configEdit.label "Editor di configurazione…">
+<!ENTITY configEdit.accesskey "o">
+<!ENTITY returnReceiptsInfo.label "Determina come &brandShortName; gestisce le ricevute di ritorno">
+<!ENTITY showReturnReceipts.label "Ricevute di ritorno…">
+<!ENTITY showReturnReceipts.accesskey "R">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label "Telemetria">
+<!ENTITY telemetryDesc.label "Condivide dati sulle prestazioni, sull'uso, sull'hardware e sulle personalizzazioni del programma di email con &vendorShortName; per aiutarci a migliorare &brandShortName; ">
+<!ENTITY enableTelemetry.label "Attivare la telemetria">
+<!ENTITY enableTelemetry.accesskey "T">
+<!ENTITY telemetryLearnMore.label "Ulteriori informazioni">
+
+<!ENTITY crashReporterSection.label "Crash Reporter">
+<!ENTITY crashReporterDesc.label "&brandShortName; invia rapporti di crash per aiutare &vendorShortName; a farlo diventare più stabile e sicuro">
+<!ENTITY enableCrashReporter.label "Attivare il Crash Reporter">
+<!ENTITY enableCrashReporter.accesskey "C">
+<!ENTITY crashReporterLearnMore.label "Ulteriori informazioni">
+
 <!-- Update -->
-<!ENTITY autoCheck.label                "Controlla automaticamente la presenza di aggiornamenti per:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "P">
-<!ENTITY enableAddonsUpdate.label       "Componenti aggiuntivi installati">
-<!ENTITY enableAddonsUpdate.accesskey   "C">
-<!ENTITY checkNow.label                 "Controlla ora">
-<!ENTITY whenUpdatesFound.label         "Quando è disponibile un aggiornamento per &brandShortName;:">
-<!ENTITY modeAskMe.label                "Chiedimi che cosa fare">
-<!ENTITY modeAskMe.accesskey            "e">
-<!ENTITY modeAutomatic.label            "Scarica e installa automaticamente l'aggiornamento">
-<!ENTITY modeAutomatic.accesskey        "S">
-<!ENTITY modeAutoAddonWarn.label        "Avvisa se verranno disattivati alcuni dei miei componenti aggiuntivi">
-<!ENTITY modeAutoAddonWarn.accesskey    "A">
-<!ENTITY showUpdates.label              "Mostra cronologia aggiornamenti">
-<!ENTITY showUpdates.accesskey          "M">
+<!ENTITY updateApp.label "Aggiornamenti di &brandShortName;:">
+<!ENTITY updateAuto.label "Installa automaticamente aggiornamenti (consigliato: maggiore sicurezza)">
+<!ENTITY updateAuto.accesskey "n">
+<!ENTITY updateCheck.label "Controlla aggiornamenti ma permetti all'utente di scegliere se installarli">
+<!ENTITY updateCheck.accesskey "C">
+<!ENTITY updateManual.label "Non cercare aggiornamenti (non consigliato: rischi per la sicurezza)">
+<!ENTITY updateManual.accesskey "N">
+<!ENTITY updateHistory.label "Mostra cronologia aggiornamenti">
+<!ENTITY updateHistory.accesskey "S">
+
+<!ENTITY useService.label "Utilizza un servizio di sistema per installare gli aggiornamenti">
+<!ENTITY useService.accesskey "U">
+
+<!ENTITY deleteSelectOrder.label        "After deleting a message select the:">
+<!ENTITY showPreviousMessage.label      "Previous Message">
+<!ENTITY showNextMessage.label          "Next Message">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Connessione...">
+<!ENTITY showConnections.label         "Connection...">
 <!ENTITY showConnections.accesskey     "n">
 
-<!ENTITY offlineCompact.label "Comprimi le cartelle se lo spazio risparmiato è maggiore di ">
-<!ENTITY offlineCompact.accesskey "C">
-<!ENTITY kb.label "kB">
+<!ENTITY offlineCompactFolders.label "Compatta le cartelle se serve a risparmiare spazio">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label "Mb in totale">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label "Utilizza al massimo">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "MB di spazio per la cache">
+<!ENTITY clearCacheNow.label "Pulisci ora">
+<!ENTITY clearCacheNow.accesskey "P">
 
 <!-- Certificates -->
-<!ENTITY certSelection.label "Quando un server richiede il mio certificato:">
-<!ENTITY certs.auto                      "Seleziona certificato automaticamente">
-<!ENTITY certs.ask                       "Chiedi ogni volta">
+<!ENTITY certSelection.label "When a server requests my certificate:">
+<!ENTITY certs.auto "Selezionane uno automaticamente">
+<!ENTITY certs.auto.accesskey "S">
+<!ENTITY certs.ask "Chiedere ogni volta">
+<!ENTITY certs.ask.accesskey "C">
+<!ENTITY enableOCSP.label "Interrogare i risponditori OCSP per confermare l'attuale validità dei certificati">
+<!ENTITY enableOCSP.accesskey "e">
 
-<!ENTITY viewCertificates.label         "Visualizza certificati">
-<!ENTITY viewCertificates.accesskey     "M">
-<!ENTITY viewCRLs.label                 "Elenchi di revoca">
-<!ENTITY viewCRLs.accesskey             "E">
-<!ENTITY viewOCSP.label                 "Verifica">
+<!ENTITY manageCertificates.label "Gestisci certificati">
+<!ENTITY manageCertificates.accesskey "G">
+<!ENTITY viewCRLs.label                 "Revocation Lists">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY viewOCSP.label                 "Verification">
 <!ENTITY viewOCSP.accesskey             "f">
-<!ENTITY viewSecurityDevices.label      "Dispositivi di sicurezza">
-<!ENTITY viewSecurityDevices.accesskey  "D">
+<!ENTITY viewSecurityDevices.label "Dispositivi di sicurezza">
+<!ENTITY viewSecurityDevices.accesskey "D">
 
 <!-- Web Services -->
-<!ENTITY webservicesInfo.label          "Configura i servizi web utilizzati all'interno di Postbox.">
+<!ENTITY webservicesInfo.label          "Configure the Web services used within &brandShortName;.">
 
-<!ENTITY textStartUp   "All'avvio:">
-<!ENTITY radioRememberPrevState "Ricorda il precedente stato online">
+<!ENTITY textStartUp   "When starting up:">
+<!ENTITY radioRememberPrevState "Remember previous online state">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe "Chiedimi lo stato online all'avvio">
+<!ENTITY radioAskMe "Ask me for online state at startup">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline "Avvia sempre online">
+<!ENTITY radioAlwaysOnline "Always start up online">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline1 "Quando vai online:">
-<!ENTITY radioAutoSend1 "Invia i messaggi non inviati">
-<!ENTITY radioNotSend1 "Non inviare i messaggi non inviati">
-<!ENTITY radioAskUnsent1 "Chiedi se inviare messaggi non inviati">
+<!ENTITY textGoingOnline1 "When going online:">
+<!ENTITY radioAutoSend1 "Send unsent messages">
+<!ENTITY radioNotSend1 "Do not send unsent messages">
+<!ENTITY radioAskUnsent1 "Ask to send unsent messages">
 
-<!ENTITY textGoingOffline "Scaricare i messaggi per l'utilizzo offline quando passi in modalità offline?">
-<!ENTITY radioAutoDownload "Sì">
+<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
+<!ENTITY radioAutoDownload "Yes">
 <!ENTITY radioAutoDownload.accesskey "e">
 <!ENTITY radioNotDownload "No">
 <!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload "Chiedimi">
-<!ENTITY radioAskDownload.accesskey "A">
+<!ENTITY radioAskDownload "Ask me">
+<!ENTITY radioAskDownload.accesskey "a">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbUseGravatar.label "Utilizza il servizio Gravatar per la ricerca di foto dei contatti.">
+<!ENTITY useGmailShortcuts.label "Use Gmail keyboard shortcuts">
 <!ENTITY useGmailShortcuts.accesskey "l">
-<!ENTITY pbUseGravatar.accesskey "g">
-<!ENTITY useGmailShortcuts.label "Utilizza le scorciatoie da tastiera di Gmail">
 
+<!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
+<!ENTITY pbUseGravatar.accesskey "G">
 
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbUseGoogleCalendar.label "Utilizza Google Calendar per le date rilevate.">
-<!ENTITY pbNextMessage.label "Seleziona messaggio successivo">
-<!ENTITY pbPreviousMessage.label "Seleziona messaggio precedente">
-<!ENTITY pbSwipeLeft.label "Swipe a sinistra:">
-<!ENTITY pbCloseFolderPane.label "Chiudi Pannello cartella">
-<!ENTITY pbOpenFolderPane.label "Apri Pannello cartella">
-<!ENTITY pbArchiveMessage.label "Archivia messaggio">
-<!ENTITY pbDeleteMessage.label "Elimina messaggio">
-<!ENTITY pbOpenMessage.label "Apri messaggio">
-<!ENTITY pbSwipeRight.label "Swipe a destra:">
+<!ENTITY pbUseGoogleCalendar.label "Use Google Calendar for detected dates.">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
 
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY showNextMessage.label          "Messaggio successivo">
-<!ENTITY showPreviousMessage.label      "Messaggio precedente">
-<!ENTITY deleteSelectOrder.label        "Dopo l'eliminazione di un messaggio seleziona:">
-
-<!ENTITY itemQuickPost.label     "Post rapido">
+<!ENTITY pbSwipeLeft.label "Swipe Left:">
+<!ENTITY pbSwipeRight.label "Swipe Right:">
+<!ENTITY pbNextMessage.label "Select Next Message">
+<!ENTITY pbPreviousMessage.label "Select Previous Message">
+<!ENTITY pbDeleteMessage.label "Delete Message">
+<!ENTITY pbArchiveMessage.label "Archive Message">
+<!ENTITY pbOpenMessage.label "Open Message">
+<!ENTITY pbOpenFolderPane.label "Open Folder Pane">
+<!ENTITY pbCloseFolderPane.label "Close Folder Pane">

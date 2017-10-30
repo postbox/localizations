@@ -1,13 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Server för utgående e-post">
+<!ENTITY smtpServer.label "Server (SMTP) för utgående e-post">
 
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Att ange fler än en server för utgående e-post (SMTP) rekommenderas endast för avancerade användare. Att ange flera SMTP-servrar kan orsaka problem när du skickar meddelanden.">
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "När du hanterar dina identiteter kan du använda en server från listan genom att markera den som server för utgående e-post (SMTP), eller så kan du använda den förvalda servern från den här listan genom att välja &quot;Använd standardserver&quot;.">
 
 <!ENTITY smtpListAdd.label  "Lägg till…">
-<!ENTITY smtpListAdd.accesskey  "L">
+<!ENTITY smtpListAdd.accesskey  "ä">
 <!ENTITY smtpListEdit.label "Redigera…">
 <!ENTITY smtpListEdit.accesskey "R">
 <!ENTITY smtpListDelete.label "Ta bort">
@@ -15,9 +19,10 @@
 <!ENTITY smtpListSetDefault.label "Ange standard">
 <!ENTITY smtpListSetDefault.accesskey "e">
 
+<!ENTITY serverDetails.label "Information om vald server:">
 <!ENTITY serverDescription.label "Beskrivning: ">
 <!ENTITY serverName.label "Servernamn: ">
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "Användarnamn: ">
 <!ENTITY connectionSecurity.label "Anslutningssäkerhet: ">
-<!ENTITY authMethod.label   "Autentisering: ">
+<!ENTITY authMethod.label   "Autentiseringsmetod: ">

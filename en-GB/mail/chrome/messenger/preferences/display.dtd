@@ -1,5 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemFormatting.label             "Formatting">
 <!ENTITY itemTags.label                   "Tags">
+<!ENTITY itemAdvanced.label               "Advanced">
 
 <!ENTITY style.label                      "Style:">
 <!ENTITY style.accesskey                  "y">
@@ -8,34 +13,62 @@
 <!ENTITY italic.label                     "Italic">
 <!ENTITY boldItalic.label                 "Bold Italic">
 <!ENTITY size.label                       "Size:">
-<!ENTITY size.accesskey                   "S">
+<!ENTITY size.accesskey                   "z">
 <!ENTITY regularSize.label                "Regular">
 <!ENTITY bigger.label                     "Bigger">
 <!ENTITY smaller.label                    "Smaller">
-<!ENTITY textColor.label                  "Text Colour:">
+<!ENTITY textColor.label                  "Text Color:">
 <!ENTITY textColor.accesskey              "T">
-<!ENTITY backgroundColor.label            "Background Colour:">
-<!ENTITY backgroundColor.accesskey        "B">
+<!ENTITY backgroundColor.label            "Background Color:">
+<!ENTITY backgroundColor.accesskey        "b">
 
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Topic">
 <!ENTITY tagActiveColumn.label    "Favorite">
-<!ENTITY addTagButton.label       "Add">
-<!ENTITY addTagButton.accesskey   "A">
-<!ENTITY editTagButton.label      "Edit">
-<!ENTITY editTagButton.accesskey   "E">
-<!ENTITY removeTagButton.label    "Delete">
-<!ENTITY removeTagButton.accesskey "l">
+<!ENTITY newTagButton.label        "New…">
+<!ENTITY newTagButton.accesskey    "N">
+<!ENTITY editTagButton1.label      "Edit…">
+<!ENTITY editTagButton1.accesskey  "E">
+<!ENTITY removeTagButton.label     "Delete">
+<!ENTITY removeTagButton.accesskey "D">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Fonts">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "Fonts &amp; Colours">
 <!ENTITY defaultFont.label       "Default font:">
 <!ENTITY defaultFont.accesskey   "D">
 <!ENTITY defaultSize.label       "Size:">
 <!ENTITY defaultSize.accesskey   "S">
-<!ENTITY fontOptions.accesskey   "F">
-<!ENTITY fontOptions.label       "Fonts…">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Advanced…">
+<!ENTITY colorButton.label       "Colours…">
+<!ENTITY colorButton.accesskey   "C">
+
+<!-- Advanced -->
+<!ENTITY reading.caption                  "Reading">
+<!ENTITY display.caption                  "Display">
+<!ENTITY showCondensedAddresses.label     "Show only display name for people in my address book">
+<!ENTITY showCondensedAddresses.accesskey "S">
+
+<!ENTITY autoMarkAsRead.label             "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY markAsReadNoDelay.label          "Immediately on display">
+<!ENTITY markAsReadNoDelay.accesskey      "m">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "After displaying for">
+<!ENTITY markAsReadDelay.accesskey        "d">
+<!ENTITY secondsLabel.label               "seconds">
+<!ENTITY openMsgIn.label                  "Open messages in:">
+<!ENTITY openMsgInNewTab.label            "A new tab">
+<!ENTITY openMsgInNewTab.accesskey        "t">
+<!ENTITY reuseExpRadio0.label             "A new message window">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "An existing message window">
+<!ENTITY reuseExpRadio1.accesskey         "e">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Close message window/tab on move or delete">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
 <!ENTITY pb.messagelist.colortagrow.label "Apply the topic color to the entire row in the message list pane">
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">
@@ -55,40 +88,29 @@
 <!ENTITY pb.conversations.photos.label "Include contact photos for each participant in the conversation">
 <!ENTITY pb.conversations.photos.accesskey "I">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
-<!ENTITY useRetina.label             "Retina Display">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
+<!-- general -->
 <!ENTITY pb.itemGeneral.label        "General">
+<!ENTITY useRetina.label             "Retina Display">
+<!ENTITY devPixelsPerPx.label        "DPI scaling:">
+<!ENTITY devPixelsPerPx.accesskey    "D">
+<!ENTITY devPixelsPerPx.default      "Default">
+<!ENTITY devPixelsPerPx.lowdpi       "Low DPI">
+<!ENTITY devPixelsPerPx.highdpi      "High DPI">
+
+<!-- message list font size -->
+
+<!ENTITY pbChromeFontSizeSmall.label      "Small">
+<!ENTITY pbChromeFontSizeMedium.label     "Medium">
+<!ENTITY pbChromeFontSizeLarge.label      "Large">
+<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY quotedColor2.label "Quoted color, level 2">
-<!ENTITY devPixelsPerPx.label        "High DPI scaling:">
-<!ENTITY devPixelsPerPx.accesskey    "D">
-<!ENTITY quotedColor5.label "Quoted color, level 5">
+<!-- quoted colors -->
 <!ENTITY quotedColors.label "Quoted colors, levels 1 to 5:">
 <!ENTITY quotedColor1.label "Quoted color, level 1">
+<!ENTITY quotedColor2.label "Quoted color, level 2">
 <!ENTITY quotedColor3.label "Quoted color, level 3">
 <!ENTITY quotedColor4.label "Quoted color, level 4">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY devPixelsPerPx.default      "Default">
-<!ENTITY devPixelsPerPx.highdpi      "High DPI">
-<!ENTITY devPixelsPerPx.lowdpi       "Low DPI">
+<!ENTITY quotedColor5.label "Quoted color, level 5">
 
 <!ENTITY boldUnread.label      "Bold Unread">

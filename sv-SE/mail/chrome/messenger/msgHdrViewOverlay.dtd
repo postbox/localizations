@@ -1,71 +1,41 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
+<!ENTITY pbToField.label "To:">
+<!ENTITY pbFromField.label "From:">
+<!ENTITY pbSenderField.label "Sender:">
+<!ENTITY pbOrganizationField.label "Organization:">
+<!ENTITY pbReplyToField.label "Reply-To:">
 
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY pbToField.label "Till:">
-<!ENTITY pbFromField.label "Från:">
-<!ENTITY pbSenderField.label "Avsändare:">
-<!ENTITY pbOrganizationField.label "Organisation:">
-<!ENTITY pbReplyToField.label "Svara-Till:">
-
-<!ENTITY subjectField.label "Ämne: ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
+<!ENTITY subjectField.label "Subject:">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY pbCcField.label "Cc:">
 <!ENTITY pbBccField.label "Bcc:">
-<!ENTITY pbNewsgroupsField.label "Diskussionsgrupper:">
-<!ENTITY pbFollowupToField.label "Uppföljning-Till:">
-<!ENTITY pbLinkField.label "Länk:">
-<!ENTITY pbTagsHdr.label "Ämnen:">
-<!ENTITY pbDateField.label "Datum:">
-<!ENTITY pbUserAgentField.label "Användaragent:">
-<!ENTITY pbReferencesField.label "Referenser:">
-<!ENTITY pbMessageIdField.label "Meddelande-ID:">
-<!ENTITY pbInReplyToField.label "I-Svar-Till:">
-<!ENTITY pbOriginalWebsite.label "Hemsida:">
-<!ENTITY pbParticipantsField.label "Deltagare:">
-<!ENTITY saveAll.label "Spara alla..">
+<!ENTITY pbNewsgroupsField.label "Groups:">
+<!ENTITY pbFollowupToField.label "Followup-To:">
+<!ENTITY pbLinkField.label "Link:">
+<!ENTITY pbTagsHdr.label "Topics:">
+<!ENTITY pbDateField.label "Date:">
+<!ENTITY pbUserAgentField.label "User-Agent:">
+<!ENTITY pbReferencesField.label "References:">
+<!ENTITY pbMessageIdField.label "Message-ID:">
+<!ENTITY pbInReplyToField.label "In-Reply-To:">
+<!ENTITY pbOriginalWebsite.label "Website:">
+<!ENTITY pbParticipantsField.label "Participants:">
+<!ENTITY saveAll.label "Save All..">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Öppna">
 <!ENTITY openAttachmentCmd.accesskey    "p">
 <!ENTITY saveAsAttachmentCmd.label    "Spara som…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "S">
-<!ENTITY printAttachmentCmd.label    ".Skriv ut">
-<!ENTITY printAttachmentCmd.accesskey    "P">
+<!ENTITY saveAsAttachmentCmd.accesskey    "s">
 <!ENTITY detachAttachmentCmd.label    "Avskilj…">
+<!ENTITY detachAttachmentCmd.accesskey    "k">
 <!ENTITY deleteAttachmentCmd.label    "Ta bort">
+<!ENTITY deleteAttachmentCmd.accesskey    "b">
+<!ENTITY openAllAttachmentsCmd.label    "Öppna alla…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "p">
 <!ENTITY saveAllAttachmentsCmd.label    "Spara alla…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "a">
 <!ENTITY detachAllAttachmentsCmd.label    "Avskilj alla…">
@@ -73,18 +43,23 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Ta bort alla…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "T">
 
+<!ENTITY openAttachment.tooltip "Öppna den bifogade filen">
+
 <!ENTITY copyLinkCmd.label        "Kopiera länkadress">
 <!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopiera meddelande-ID">
+<!ENTITY CopyMessageId.accesskey "K">
 <!ENTITY OpenMessageForMsgId.label "Öppna meddelande för ID">
+<!ENTITY OpenMessageForMsgId.accesskey "p">
 <!ENTITY OpenBrowserWithMsgId.label "Öppna webbläsare med meddelande-ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey "w">
 
-<!ENTITY msgHdrViewOpenMessage.label "öppna meddelande">
-<!ENTITY pbMsgHdrView.showDetails.label "visa info">
-<!ENTITY pbMsgHdrView.hideDetails.label "dölj info">
-<!ENTITY pbMsgHdrView.conversationMsgReply.label "svara">
-<!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "svara alla">
-<!ENTITY pbMsgHdrView.conversationMsgForward.label "vidarebefordrar">
+<!ENTITY msgHdrViewOpenMessage.label "open message">
+<!ENTITY pbMsgHdrView.showDetails.label "show details">
+<!ENTITY pbMsgHdrView.hideDetails.label "hide details">
+<!ENTITY pbMsgHdrView.conversationMsgReply.label "reply">
+<!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "reply all">
+<!ENTITY pbMsgHdrView.conversationMsgForward.label "forward">
 
-<!ENTITY pbMsgHdrView.loadingMessageBody.label "Laddar...">
+<!ENTITY pbMsgHdrView.loadingMessageBody.label "Loading...">

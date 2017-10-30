@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Nederlands (NL)
+#define MOZ_LANG_TITLE English (US)

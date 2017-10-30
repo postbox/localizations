@@ -1,20 +1,28 @@
-<!ENTITY emailSectionHdr.label        "E-Mail"> 
-<!ENTITY readMsgsLink.label           "Nachrichten lesen"> 
-<!ENTITY composeMsgLink.label         "Neue Nachricht verfassen"> 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newsSectionHdr.label         "Newsgruppen"> 
-<!ENTITY subscribeNewsLink.label      "Newsgruppen abonnieren"> 
+<!ENTITY emailSectionHdr.label        "E-Mail">
+<!ENTITY readMsgsLink.label           "Nachrichten lesen">
+<!ENTITY composeMsgLink.label         "Neue Nachricht verfassen">
 
-<!ENTITY accountsSectionHdr.label     "Konten"> 
+<!ENTITY newsSectionHdr.label         "Newsgruppen">
+<!ENTITY subscribeNewsLink.label      "Newsgruppen abonnieren">
+
+<!ENTITY feedsSectionHdr.label        "Feeds">
+<!ENTITY subscribeFeeds.label         "Abonnements verwalten">
+
+<!ENTITY chat.label                   "Chat">
+<!ENTITY movemail.label               "Movemail">
+
+<!ENTITY accountsSectionHdr.label     "Konten">
 <!ENTITY subscribeImapFolders.label   "IMAP-Ordner abonnieren">
-<!ENTITY settingsLink.label           "Konto-Einstellungen bearbeiten"> 
-<!ENTITY newAcctLink.label            "Neues Konto erstellen"> 
+<!ENTITY settingsLink.label           "Konten-Einstellungen bearbeiten">
+<!ENTITY newAcctLink.label            "Neues Konto erstellen">
+<!ENTITY newAcct.label                "Neues Konto erstellen:">
 
-<!ENTITY advFeaturesSectionHdr.label  "Erweiterte Funktionen"> 
-<!ENTITY searchMsgsLink.label         "Nachrichten suchen"> 
+<!ENTITY advFeaturesSectionHdr.label  "Erweiterte Funktionen">
+<!ENTITY searchMsgsLink.label         "Nachrichten suchen">
 <!ENTITY filtersLink.label            "Filter erstellen">
 <!ENTITY junkSettings.label           "Junk-Filter-Einstellungen">
 <!ENTITY offlineLink.label            "Offline-Einstellungen bearbeiten">
-
-<!ENTITY rssSectionHdr.label          "RSS News &amp; Blogs"> 
-<!ENTITY subscibeRSS.label            "Abonnements verwalten">

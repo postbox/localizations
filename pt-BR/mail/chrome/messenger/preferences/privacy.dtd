@@ -1,41 +1,38 @@
-<!-- Junk Mail Controls -->
-<!ENTITY manualMark.label "Quando eu marcar mensagens como spam:">
-<!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Mover para a pasta &quot;Spam&quot; da conta">
-<!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Excluir">
-<!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY markAsReadOnSpam.label "Marcar como lidas as mensagens determinadas como Spam">
-<!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Habilitar os logs de filtragem de Spam">
-<!ENTITY enableJunkLogging.accesskey "g">
-<!ENTITY openJunkLog.label "Exibir log">
-<!ENTITY openJunkLog.accesskey "h">
-<!ENTITY resetTrainingData.label "Redefinir dados de treinamento de spam">
-<!ENTITY resetTrainingData.accesskey "D">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "Conteúdo do e-mail">
 
-<!-- Phishing Detector -->
-<!ENTITY enablePhishingDetector1.label    "Bloquear os e-mails já reportados como fraude">
-<!ENTITY enablePhishingDetector1.accesskey "B">
+<!ENTITY acceptRemoteContent.label "Permitir conteúdo remoto nas mensagens">
+<!ENTITY acceptRemoteContent.accesskey "m">
+<!ENTITY remoteContentExceptions.label "Exceções…">
+<!ENTITY remoteContentExceptions.accesskey "x">
+<!ENTITY acceptRemoteContentInfo.label "Aprenda mais sobre os problemas de privacidade de conteúdo remoto">
 
-<!-- Passwords -->
-<!ENTITY useMasterPassword.label              "Usar uma senha-mestre">
-<!ENTITY useMasterPassword.accesskey          "s">
-<!ENTITY changeMasterPassword.label           "Alterar senha-mestre...">
-<!ENTITY changeMasterPassword.accesskey       "M">
-<!ENTITY savedPasswords.label                 "Senhas salvas...">
-<!ENTITY savedPasswords.accesskey             "S">
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Conteúdo da web">
 
-<!-- Anonymous Access -->
-<!ENTITY enableAnonymousStatistics2.label      "Ajudar a melhorar o &brandShortName; enviando anonimamente estatísticas de uso.">
-<!ENTITY enableAnonymousStatistics.accesskey   "H">
+<!ENTITY keepHistory.label "Lembrar sites e links que eu visitei">
+<!ENTITY keepHistory.accesskey "r">
+<!ENTITY acceptCookies.label "Aceitar cookies dos sites">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.pre.label "Aceitar cookies de terceiros:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.always.label "Sempre">
+<!ENTITY acceptThirdParty.never.label "Nunca">
+<!ENTITY acceptThirdParty.visited.label "De sites visitados">
+<!ENTITY keepUntil.label "Manter até:">
+<!ENTITY keepUntil.accesskey "a">
+<!ENTITY expire.label "eles expiram">
+<!ENTITY close.label "eu feche o &brandShortName;">
+<!ENTITY askEachTime.label "perguntar todas as vezes">
+<!ENTITY cookieExceptions.label "Exceções…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Mostrar cookies…">
+<!ENTITY showCookies.accesskey "M">
 
-<!-- Remote images -->
-<!ENTITY disableImageInMailNews.label  "Bloquear o carregamento de imagens remotas em mensagens de e-mail">
-<!ENTITY disableImageInMailNews.accesskey "r">
-
-<!ENTITY pbPrivacy.label "Privacidade:">
-<!ENTITY pbJunkMail.label "Spam:">
-<!ENTITY pbPasswords.label "Senhas:">
-<!ENTITY pbJunkMail.intro "Observação: definições de spam específicas para a conta podem ser definidas em Configurações de conta">
+<!ENTITY dntTrackingNotOkay.label2 "Avisar aos sites que eu não quero ser rastreado">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY doNotTrackInfo.label "Saiba mais sobre o Não rastrear">

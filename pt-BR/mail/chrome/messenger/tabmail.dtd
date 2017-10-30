@@ -1,12 +1,20 @@
-<!ENTITY  untitledTab              "(Sem título)">
-<!ENTITY  newTab.label             "Nova aba">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  untitledTab              "(Untitled)">
+<!ENTITY  newTab.label             "New Tab">
 <!ENTITY  newTab.accesskey         "N">
+
 <!ENTITY  closeTab.label           "Fechar aba">
 <!ENTITY  closeTab.accesskey       "c">
 <!ENTITY  closeOtherTabs.accesskey "o">
-<!ENTITY  closeOtherTabs.label     "Fechar as outras abas">
-<!ENTITY  reloadAllTabs.label      "Recarregar todas as abas">
-<!ENTITY  reloadAllTabs.accesskey  "a">
-<!ENTITY  reloadTab.label          "Recarregar aba">
-<!ENTITY  reloadTab.accesskey      "R">
+<!ENTITY  closeOtherTabs.label     "Close Other Tabs">
+<!ENTITY  reloadAllTabs.label      "Reload All Tabs">
+<!ENTITY  reloadAllTabs.accesskey  "A">
+<!ENTITY  reloadTab.label          "Reload Tab">
+<!ENTITY  reloadTab.accesskey      "r">
 <!ENTITY  listAllTabs.label        "Listar todas as abas">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Endereço residencial">

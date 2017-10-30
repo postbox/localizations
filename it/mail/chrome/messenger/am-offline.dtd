@@ -1,43 +1,56 @@
-<!ENTITY doNotDownloadPop3Movemail.label "Per risparmiare spazio su disco, non scaricare:">
-<!ENTITY offlineNewFolder.label "Quando creo nuove cartelle, selezionale per l'uso offline">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY doNotDownloadPop3Movemail.label "Al fine di risparmiare spazio su disco, non scaricare:">
+<!ENTITY offlineNewFolder.label "When I create new folders, select them for offline use">
 <!ENTITY offlineNewFolder.accesskey "c">
-<!ENTITY offlineNotDownload.label "Messaggi maggiori di">
+<!ENTITY allFoldersOffline.label "Conserva in questo computer i messaggi di questo account">
+<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY offlineNotDownload.label "Messaggi più grandi di">
 <!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY autosyncNotDownload.label "Non scaricare messaggi più grandi di">
+<!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "kB">
-<!ENTITY days.label "giorni">
 <!ENTITY daysOld.label "giorni">
 <!ENTITY message.label "messaggi più recenti">
-<!ENTITY nntpNotDownloadRead.label "Messaggi letti">
+<!ENTITY nntpNotDownloadRead.label "Messaggi già letti">
 <!ENTITY nntpNotDownloadRead.accesskey "g">
-<!ENTITY nntpDownloadMsg.label "Messaggi più di">
+<!ENTITY nntpDownloadMsg.label "Messaggi più vecchi di">
 <!ENTITY nntpDownloadMsg.accesskey "v">
-<!ENTITY retentionCleanup.label "Per recuperare spazio su disco è possibile eliminare definitivamente i messaggi meno recenti.">
-<!ENTITY retentionKeepMsg.label "Elimina i messaggi meno recenti di">
+<!ENTITY retentionCleanup.label "Per recuperare spazio su disco è possibile eliminare definitivamente i vecchi messaggi.">
+<!ENTITY retentionCleanupImap.label "Per recuperare spazio su disco è possibile eliminare definitivamente i vecchi messaggi, sia le copie locali sia quelle memorizzate nel server remoto.">
+<!ENTITY retentionCleanupPop.label "Per recuperare spazio su disco è possibile eliminare definitivamente i vecchi messaggi, incluse le copie memorizzate nel server remoto.">
+<!ENTITY retentionKeepMsg.label "Elimina i messaggi più vecchi di">
 <!ENTITY retentionKeepMsg.accesskey "h">
-<!ENTITY retentionKeepAll.label "Non eliminare nessun messaggio">
+<!ENTITY retentionKeepAll.label "Non eliminare alcun messaggio">
 <!ENTITY retentionKeepAll.accesskey "c">
-<!ENTITY retentionKeepNew.label "Elimina tutti tranne l'ultimo">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Elimina sempre i messaggi letti">
-<!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY nntpRemoveBody.label "solo i corpi dei messaggi meno di">
-<!ENTITY nntpRemoveBody.accesskey "O">
-<!ENTITY offlineSelectNntp.label "Seleziona i Newsgroup per l'utilizzo offline…">
-<!ENTITY offlineSelectImap.label "Seleziona le cartelle per l'utilizzo offline...">
-<!ENTITY offlineSelect.accesskey "S">
-<!ENTITY makeInboxMsgsAvailable.label "Rendi i messaggi della mia Posta in entrata disponibili quando lavoro offline">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY retentionKeepRecent.label "Elimina tutti eccetto i">
+<!ENTITY retentionKeepRecent.accesskey "n">
+<!ENTITY retentionApplyToFlagged.label "Conserva sempre i messaggi speciali">
+<!ENTITY retentionApplyToFlagged.accesskey "r">
+<!ENTITY nntpRemoveMsgBody.label "Elimina il corpo del messaggio per messaggi più grandi di">
+<!ENTITY nntpRemoveMsgBody.accesskey "o">
+<!ENTITY offlineSelectNntp.label "Selezionare i gruppi di discussione per uso non in linea…">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineImapAdvancedOffline.label "Avanzate…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY offlineGroupTitle.label "Offline">
 <!ENTITY diskspaceGroupTitle.label "Spazio su disco">
-<!ENTITY ftiGroupTitle.label "Ricerca globale">
-<!ENTITY fti.indexMsgBodies.label "Indice dei corpi dei messaggi">
-<!ENTITY newsrcFilePath.label "file newsrc:">
+<!ENTITY ftiGroupTitle.label "Global Search">
+<!ENTITY fti.indexMsgBodies.label "Index message bodies">
+<!ENTITY newsrcFilePath.label "newsrc file:">
 <!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Cartella locale:">
+<!ENTITY localPath.label "Local directory:">
 <!ENTITY localPath.accesskey "L">
-<!ENTITY localFolderPicker.label "Seleziona Cartella locale">
-<!ENTITY browseFolder.label "Sfoglia...">
+<!ENTITY localFolderPicker.label "Select Local Directory">
+<!ENTITY browseFolder.label "Browse...">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Seleziona file newsrc">
-<!ENTITY browseNewsrc.label "Sfoglia...">
+<!ENTITY newsrcPicker.label "Select newsrc File">
+<!ENTITY browseNewsrc.label "Browse...">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY storeType.label "Message Store Type:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "File per folder (mbox)">
+<!ENTITY maildirStore.label "File per message (maildir)">

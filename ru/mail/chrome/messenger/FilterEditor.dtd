@@ -1,89 +1,87 @@
-﻿<!ENTITY window.title "Правила фильтра">
-<!ENTITY subject.label "тема">
-<!ENTITY sender.label "отправитель">
-<!ENTITY date.label "дата">
-<!ENTITY anyText.label "любой текст">
-<!ENTITY keyword.label "ключевое слово">
-<!ENTITY age.label "возраст в днях">
-<!ENTITY to.label "кому">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-<!ENTITY cc.label "копия">
-
-<!ENTITY status.label "состояние">
-<!ENTITY priority.label "важность">
-<!ENTITY body.label "текст сообщения">
-<!ENTITY contains.label "содержит">
-<!ENTITY nocontains.label "не содержит">
-<!ENTITY filterName.label "Название фильтра:">
-<!ENTITY filterName.accesskey "i">
+<!ENTITY window.title "Правила фильтрации">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
+<!ENTITY filterName.label "Имя фильтра:">
+<!ENTITY filterName.accesskey "м">
 
 <!ENTITY junk.label "Спам">
 <!ENTITY notJunk.label "Не спам">
 
-<!ENTITY lowestPriorityCmd.label "Самая низкая">
-<!ENTITY lowPriorityCmd.label "Низкая">
-<!ENTITY normalPriorityCmd.label "Обычная">
-<!ENTITY highPriorityCmd.label "Высокая">
-<!ENTITY highestPriorityCmd.label "Самая высокая">
+<!ENTITY lowestPriorityCmd.label "самую низкую">
+<!ENTITY lowPriorityCmd.label "низкую">
+<!ENTITY normalPriorityCmd.label "обычную">
+<!ENTITY highPriorityCmd.label "высокую">
+<!ENTITY highestPriorityCmd.label "самую высокую">
 
-<!ENTITY conditionDesc.label "Применять фильтр, когда:">
-<!ENTITY filterActionDesc.label "Выполнять следующие действия:">
-<!ENTITY filterActionDesc.accesskey "P">
+<!ENTITY contextDesc.label "Применять фильтр при:">
+<!ENTITY contextIncomingMail.label "Получении новой почты:">
+<!ENTITY contextIncomingMail.accesskey "о">
+<!ENTITY contextManual.label "Запуске вручную">
+<!ENTITY contextManual.accesskey "а">
+<!ENTITY contextBeforeCls.label "Фильтровать перед анализом на спам">
+<!ENTITY contextAfterCls.label "Фильтровать после анализа на спам">
+<!ENTITY contextOutgoing.label "После отправки почты">
+<!ENTITY contextOutgoing.accesskey "е">
+<!ENTITY contextArchive.label "Архивации">
+<!ENTITY contextArchive.accesskey "х">
 
-<!ENTITY newFolderButton.label "Создать папку…">
-<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY filterActionDesc.label "Производить следующие действия:">
+<!ENTITY filterActionDesc.accesskey "и">
+
+<!ENTITY filterActionOrderWarning.label "Примечание: Действия фильтра будут запускаться в другом порядке.">
+<!ENTITY filterActionOrder.label "Посмотреть порядок выполнения">
+
+<!ENTITY globalFilterChekbox.label "This is a global filter">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Переместить сообщение в">
 <!ENTITY copyMessage.label "Копировать сообщение в">
-<!ENTITY forwardTo.label "Переслать сообщение">
+<!ENTITY forwardTo.label "Переслать сообщение на">
 <!ENTITY replyWithTemplate.label "Ответить по шаблону">
-<!ENTITY markMessageRead.label "Пометить как прочитанное">
-<!ENTITY markMessageStarred.label "Пометить звездочкой">
-<!ENTITY labelMessage.label "Пометить сообщение как">
-<!ENTITY setPriority.label "Назначить важность">
+<!ENTITY markMessageRead.label "Отметить как прочитанное">
+<!ENTITY markMessageUnread.label "Отметить как непрочитанное">
+<!ENTITY markMessageStarred.label "Отметить звёздочкой">
+<!ENTITY markMessagePending.label "Mark as Pending">
+<!ENTITY markMessageAs.label "Mark Message as">
+<!ENTITY setPriority.label "Изменить важность на">
 <!ENTITY addTag.label "Присвоить сообщению метку">
+<!ENTITY removeTag.label "Remove Topic">
 <!ENTITY setJunkScore.label "Установить метку спама">
 <!ENTITY deleteMessage.label "Удалить сообщение">
 <!ENTITY deleteFromPOP.label "Удалить с сервера POP">
 <!ENTITY fetchFromPOP.label "Загрузить с сервера POP">
 <!ENTITY ignoreThread.label "Пропустить обсуждение">
+<!ENTITY ignoreSubthread.label "Пропустить ветку обсуждения">
 <!ENTITY watchThread.label "Отслеживать обсуждение">
-<!ENTITY stopExecution.label "Остановить применение фильтра">
+<!ENTITY stopExecution.label "Остановить выполнение фильтра">
+<!ENTITY launchScript.label "Run AppleScript">
 
+<!ENTITY playSound.label "Play Sound">
+<!ENTITY noSoundSelected.label "Select a Sound">
+<!ENTITY systemAlertSound.label "System Alert Sound">
 
-<!--
- entities below were automatically added by l10nmerge
--->
+<!ENTITY noScriptsInstalled.label "No Scripts installed">
+<!ENTITY openInFinder.label "Open in Finder">
+<!ENTITY noScriptSelected.label "Select an AppleScript">
+<!ENTITY readStatus.label "Read">
+<!ENTITY reminderStatus.label "Reminder">
+<!ENTITY pendingStatus.label "Pending">
+<!ENTITY unreadStatus.label "Unread">
+<!ENTITY notReminderStatus.label "Not Reminder">
+<!ENTITY notPendingStatus.label "Not Pending">
+<!ENTITY quickPost.label "Quick Post">
 
-<!ENTITY contextDesc.label "Применять фильтр:">
-<!ENTITY contextManual.label "Вручную">
-<!ENTITY contextBoth.label "Вручную или при проверке почты">
-<!ENTITY contextIncoming.label "При проверке почты">
-<!ENTITY contextDesc.accesskey "w">
+<!ENTITY addAction.tooltip "Добавить новое действие">
+<!ENTITY removeAction.tooltip "Удалить это действие">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY playSound.label "Воспроизвести звуковой сигнал">
-<!ENTITY notPendingStatus.label "Не ожидающее">
-<!ENTITY noSoundSelected.label "Выбрать звук">
-<!ENTITY noScriptsInstalled.label "Сценарии не установлены">
-<!ENTITY markMessageAs.label "Пометить сообщение как">
-<!ENTITY systemAlertSound.label "Системный звуковой сигнал уведомления">
-<!ENTITY removeTag.label "Удалить метку">
-<!ENTITY reminderStatus.label "Напоминание">
-<!ENTITY markMessagePending.label "Пометить как ожидающее">
-<!ENTITY noScriptSelected.label "Выбрать AppleScript">
-<!ENTITY globalFilterChekbox.label "Это общий фильтр">
-<!ENTITY readStatus.label "Прочитанное">
-<!ENTITY launchScript.label "Запустить AppleScript">
-<!ENTITY openInFinder.label "Открыть в Finder">
-<!ENTITY pendingStatus.label "Ожидающее">
-<!ENTITY notReminderStatus.label "Не напоминание">
-<!ENTITY unreadStatus.label "Непрочитанное">
-
-<!ENTITY quickPost.label "Быстрое сообщение">
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

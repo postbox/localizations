@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  updateWizard.title              "Software-Update">
 
 <!ENTITY  offline.title                   "&brandShortName; ist offline">
@@ -10,7 +14,7 @@
 <!ENTITY  mismatch.bottom.label           "&brandShortName; kann überprüfen, ob kompatible Versionen dieser Add-ons verfügbar sind.">
 
 <!ENTITY  checking.wizard.title           "Auf kompatible Add-ons überprüfen">
-<!ENTITY  checking.top.label              "&brandShortName; überprüft nun, ob Updates der inkompatiblen Add-ons verfügbar sind…">
+<!ENTITY  checking.top.label              "Es wird überprüft, ob Updates für inkompatible Add-ons verfügbar sind…">
 <!ENTITY  checking.status                 "Dies kann ein paar Minuten dauern…">
 
 <!ENTITY  found.wizard.title               "Kompatible Updates für Add-ons sind verfügbar">

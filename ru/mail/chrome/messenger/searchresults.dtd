@@ -1,24 +1,24 @@
-﻿<!-- rich search results -->
-<!ENTITY searchresults.showthumbnail.label         "Показать эскизы">
+<!-- rich search results -->
+<!ENTITY searchresults.showthumbnail.label         "Show Thumbnails">
 <!ENTITY searchresults.showthumbnail.accesskey     "S">
-<!ENTITY viewByRelevance.label                     "Отсортировано по релевантности">
-<!ENTITY viewByDate.label                          "Отсортировано по дате">
-<!ENTITY searchresults.viewByRelevance.label       "Сортировать по релевантности">
-<!ENTITY searchresults.viewByDate.label            "Сортировать по дате">
-<!ENTITY addToCalendar.label                       "Добавить в календарь">
-<!ENTITY prevNextResults.label                     "Назад/Далее">
-<!ENTITY searchResultsNoMatchesFound.desc          "Нет элементов, отвечающих условиям поиска.">
-<!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Выберите для поиска «Все папки».">
-<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Выберите на панели фокуса «Все».">
-<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Выберите представление «Сообщения».">
-<!ENTITY showSearchOptions.label                   "Показать параметры поиска">
+<!ENTITY viewByRelevance.label                     "Sorted By Relevance">
+<!ENTITY viewByDate.label                          "Sorted By Date">
+<!ENTITY searchresults.viewByRelevance.label       "Sort By Relevance">
+<!ENTITY searchresults.viewByDate.label            "Sort By Date">
+<!ENTITY addToCalendar.label                       "Add to Calendar">
+<!ENTITY prevNextResults.label                     "Prev / Next">
+<!ENTITY searchResultsNoMatchesFound.desc          "No items matched your search.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Try searching in All Folders.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Try setting your Focus to All.">
+<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
+<!ENTITY showSearchOptions.label                   "Show search options">
 
 <!-- attachments -->
-<!ENTITY searchresults.upload.label                   "Загрузить">
-<!ENTITY searchresults.uploadToGoogleDocs.label       "Документы Google">
+<!ENTITY searchresults.upload.label                   "Upload">
+<!ENTITY searchresults.uploadToGoogleDocs.label       "Google Docs">
 <!ENTITY searchresults.uploadToGoogleDocs.accesskey   "G">
-<!ENTITY attachmentInfo.label                         "Свойства документа">
-<!ENTITY attachmentActions.label                      "Действия с документом">
+<!ENTITY attachmentInfo.label                         "Document Info">
+<!ENTITY attachmentActions.label                      "Document Actions">
 
 <!-- images -->
 <!-- XX Localization note - Service names do not need to be translated -->
@@ -26,8 +26,8 @@
 <!ENTITY searchresults.uploadPhotoToPicasa.accesskey   "P">
 <!ENTITY searchresults.uploadPhotoToPhotobucket.label       "Photobucket">
 <!ENTITY searchresults.uploadPhotoToPhotobucket.accesskey   "b">
-<!ENTITY imageInfo.label                               "Свойства изображения">
-<!ENTITY imageActions.label                            "Действия с изображением">
+<!ENTITY imageInfo.label                               "Image Info">
+<!ENTITY imageActions.label                            "Image Actions">
 
 <!-- urls -->
 <!-- XXX start localization note: Do not translate these service names -->
@@ -37,8 +37,6 @@
 <!ENTITY searchresults.addUrlToDelicious.accesskey "d">
 <!ENTITY searchresults.addUrlToFacebook.label      "Facebook">
 <!ENTITY searchresults.addUrlToFacebook.accesskey  "F">
-<!ENTITY searchresults.addUrlToFriendFeed.label      "FriendFeed">
-<!ENTITY searchresults.addUrlToFriendFeed.accesskey  "r">
 <!ENTITY searchresults.addUrlToTwitter.label      "Twitter">
 <!ENTITY searchresults.addUrlToTwitter.accesskey  "T">
 <!ENTITY searchresults.addUrlToLinkedIn.label      "LinkedIn">
@@ -46,32 +44,32 @@
 <!-- XXX end localization note: Do not translate these service names -->
 
 <!-- action buttons -->
-<!ENTITY searchresults.saveButton.label            "Сохранить">
-<!ENTITY searchresults.sendButton.label            "Отправить">
+<!ENTITY searchresults.saveButton.label            "Save">
+<!ENTITY searchresults.sendButton.label            "Send">
 <!-- XXX localization note: should "Quick Look" be translated? -->
-<!ENTITY searchresults.quickLookButton.label       "Быстрый просмотр">
-<!ENTITY searchresults.importPhotoButtonMac.label  "iPhoto">
+<!ENTITY searchresults.quickLookButton.label       "Quick Look">
+<!ENTITY searchresults.importPhotoButtonMac.label  "Photos">
 
-<!ENTITY searchBar-options.tooltip                 "Показать параметры поиска">
-<!ENTITY location.label                            "Вблизи:">
-<!ENTITY location.placeholder                        "Город, область или почтовый код">
-<!ENTITY flickr.private.tooltip                    "Только вы сможете видеть это фото на flickr.com">
+<!ENTITY searchBar-options.tooltip                 "Show search options">
+<!ENTITY location.label                            "Near:">
+<!ENTITY location.placeholder                        "City, State or ZIP">
+<!ENTITY flickr.private.tooltip                    "Only you can see this photo on flickr.com">
 
 <!-- for rich search in compose -->
-<!ENTITY attachments.label "Вложения">
-<!ENTITY dictionary.label "Словарь">
-<!ENTITY thesaurus.label "Тезаурус">
-<!ENTITY documents.label "Вложения">
-<!ENTITY images.label "Изображения">
-<!ENTITY signatures.label "Подписи">
-<!ENTITY contacts.label "Контакты">
+<!ENTITY attachments.label "Attachments">
+<!ENTITY dictionary.label "Dictionary">
+<!ENTITY thesaurus.label "Thesaurus">
+<!ENTITY documents.label "Attachments">
+<!ENTITY images.label "Images">
+<!ENTITY signatures.label "Signatures">
+<!ENTITY contacts.label "Contacts">
 
 <!-- XXX start localization note: Do not translate these service names -->
 <!ENTITY google.label "Google">
 <!ENTITY googleMaps.label "Google">
-<!ENTITY wikipedia.label "Википедия">
+<!ENTITY wikipedia.label "Wikipedia">
 <!ENTITY yelp.label "Yelp">
 <!ENTITY flickr.label "Flickr">
-<!ENTITY picasa.label "Веб-альбомы Picasa">
-<!ENTITY photobucket.label "Photobucket">
+<!ENTITY picasa.label "Picasa Web Albums">
+<!ENTITY photobucket.label "My Photobucket">
 <!-- XXX end localization note: Do not translate these service names -->

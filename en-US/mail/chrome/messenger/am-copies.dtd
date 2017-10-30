@@ -1,42 +1,52 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Copies &amp; Folders">
 <!ENTITY fccMailFolder.label "Place a copy in:">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
-<!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "Choose Folder...">
+<!ENTITY fccReplyFollowsParent.accesskey "R">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Cc these email addresses:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.placeholder "Separate addresses with commas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc these email addresses:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "Special Folders">
-<!ENTITY draftMailFolder.label "Keep message drafts in:">
-<!ENTITY templateMailFolder.label "Keep message templates in:">
+<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
 <!ENTITY saveMessageDlg.label "Show confirmation dialog when messages are saved">
-<!ENTITY saveMessageDlg.accesskey "S">
+<!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn1.label "Sent:">
 <!ENTITY sentFolderOn1.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Other:">
 <!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Message Archives">
+<!ENTITY keepArchives.label "Keep message archives in:">
+<!ENTITY keepArchives.accesskey "K">
+<!ENTITY archiveHierarchyButton.label "Archive options…">
+<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archivesFolderOn1.label "Archive:">
+<!ENTITY archivesFolderOn1.accesskey "n">
+<!ENTITY archiveInOtherFolder.label "Other:">
+<!ENTITY archiveInOtherFolder.accesskey "h">
+<!ENTITY specialFolders.label "Drafts and Templates">
+<!ENTITY keepDrafts2.label "Keep Draft messages in:">
 <!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn1.label "Drafts:">
 <!ENTITY draftsFolderOn1.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Other:">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn1.label "Archive:">
-<!ENTITY archivesFolderOn1.accesskey "n">
-<!ENTITY archiveInOtherFolder.label "Other:">
-<!ENTITY archiveInOtherFolder.accesskey "h">
+<!ENTITY keepTemplates.label "Keep message templates in:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn1.label "Templates:">
 <!ENTITY templatesFolderOn1.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Other:">
-<!ENTITY templateInOtherFolder.accesskey "r">
-<!ENTITY keepDrafts.label "Keep Draft messages in:">
-<!ENTITY keepArchives.label "Save Archive messages to:">
-<!ENTITY keepTempltes.label "Keep Template messages in:">
+<!ENTITY templateInOtherFolder.accesskey "e">
 
 <!ENTITY pbSentSettings.label "Sent">
 <!ENTITY pbDraftsSettings.label "Drafts">

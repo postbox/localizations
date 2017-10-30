@@ -1,45 +1,15 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-1999
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Pubblicazione pagina">
 <!ENTITY windowTitleSettings.label "Impostazioni pubblicazione">
 <!ENTITY publishTab.label "Pubblicazione">
 <!ENTITY settingsTab.label "Impostazioni">
 <!ENTITY publishButton.label "Pubblica">
+
+<!-- Publish Tab Panel -->
 <!ENTITY siteList.label "Nome sito:">
 <!ENTITY siteList.accesskey "e">
 <!ENTITY siteList.tooltip "Scegli il sito su cui si vuole pubblicare">
@@ -70,6 +40,8 @@
 <!ENTITY setDefaultButton.accesskey "d">
 <!ENTITY removeButton.label "Rimuovi sito">
 <!ENTITY removeButton.accesskey "R">
+
+<!-- Settings Tab Panel -->
 <!ENTITY publishSites.label "Siti di pubblicazione">
 <!ENTITY serverInfo.label "Informazioni server">
 <!ENTITY loginInfo.label "Informazioni di accesso">
@@ -79,9 +51,9 @@
 <!ENTITY siteUrl.label "Percorso di pubblicazione (ad es.: 'ftp://ftp.isp.com/nomeutente'):">
 <!ENTITY siteUrl.accesskey "P">
 <!ENTITY siteUrl.tooltip "L'indirizzo ftp:// o http:// fornito dal proprio ISP o servizio di hosting web">
-<!ENTITY browseUrl.label "Indirizzo HTTP della pagina home (ad es.: 'http://www.isp.com/nomeutente'):">
+<!ENTITY browseUrl.label "Indirizzo HTTP della pagina iniziale (ad es.: 'http://www.isp.com/nomeutente'):">
 <!ENTITY browseUrl.accesskey "H">
-<!ENTITY browseUrl.tooltip "L'indirizzo http:// della cartella home (senza il nome del file)">
+<!ENTITY browseUrl.tooltip "L'indirizzo http:// della cartella iniziale (senza il nome del file)">
 <!ENTITY username.label "Nome utente:">
 <!ENTITY username.accesskey "u">
 <!ENTITY username.tooltip "Il nome utente usato per accedere all'ISP od al servizio di hosting web">

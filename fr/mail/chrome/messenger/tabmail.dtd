@@ -1,12 +1,20 @@
-<!ENTITY  untitledTab              "(SansTitre)">
-<!ENTITY  newTab.label             "Nouvel onglet">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  untitledTab              "(Untitled)">
+<!ENTITY  newTab.label             "New Tab">
 <!ENTITY  newTab.accesskey         "N">
-<!ENTITY  closeTab.label           "Fermer l'onglet">
-<!ENTITY  closeTab.accesskey       "F">
+
+<!ENTITY  closeTab.label           "Fermer l’onglet">
+<!ENTITY  closeTab.accesskey       "c">
 <!ENTITY  closeOtherTabs.accesskey "o">
-<!ENTITY  closeOtherTabs.label     "Fermer les autres onglets">
-<!ENTITY  reloadAllTabs.label      "Recharger tous les onglets">
-<!ENTITY  reloadAllTabs.accesskey  "a">
-<!ENTITY  reloadTab.label          "Recharger l'onglet">
-<!ENTITY  reloadTab.accesskey      "R">
+<!ENTITY  closeOtherTabs.label     "Close Other Tabs">
+<!ENTITY  reloadAllTabs.label      "Reload All Tabs">
+<!ENTITY  reloadAllTabs.accesskey  "A">
+<!ENTITY  reloadTab.label          "Reload Tab">
+<!ENTITY  reloadTab.accesskey      "r">
 <!ENTITY  listAllTabs.label        "Lister tous les onglets">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "Accueil">

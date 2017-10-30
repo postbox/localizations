@@ -1,3 +1,4 @@
 <!-- Intl Chars -->
-<!ENTITY moveToNextPage.label "Toon volgende pagina met tekens">
-<!ENTITY moveToPreviousPage.label "Toon vorige pagina met tekens">
+<!ENTITY moveToNextPage.label "Show next page of characters">
+<!ENTITY moveToPreviousPage.label "Show previous page of characters">
+

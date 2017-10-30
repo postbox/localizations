@@ -1,77 +1,80 @@
-﻿<!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label         "Искать в папке:">
-<!ENTITY searchHeading.accesskey     "h">
-<!ENTITY searchSubfolders.label      "Включая вложенные папки">
-<!ENTITY searchSubfolders.accesskey  "e">
-<!ENTITY resetButton.label           "Очистить">
-<!ENTITY resetButton.accesskey       "C">
-<!ENTITY optionsButton.label         "Настройки">
-<!ENTITY closeButton.label           "Закрыть">
-<!ENTITY openButton.label            "Открыть">
-<!ENTITY openButton.accesskey        "n">
-<!ENTITY deleteButton.label          "Удалить">
-<!ENTITY deleteButton.accesskey      "D">
-<!ENTITY searchDialogTitle.label     "Поиск сообщений…">
-<!ENTITY conditionDesc.label         "Поиск сообщений, которые соответствуют:">
-<!ENTITY conditions.label            "Критерии">
-<!ENTITY results.label               "Результаты">
-<!ENTITY fileHereMenu.label          "Поместить сюда">
-<!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "Поместить">
-<!ENTITY fileButton.accesskey        "i">
-<!ENTITY closeCmd.key                "W">
-<!ENTITY goToFolderButton.label      "Открыть папку сообщений">
-<!ENTITY goToFolderButton.accesskey  "r">
-<!ENTITY saveAsVFButton.label        "Сохранить как виртуальную папку">
-<!ENTITY saveAsVFButton.accesskey    "v">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Искать в папке:">
+<!ENTITY searchHeading.accesskey "с">
+<!ENTITY searchSubfolders.label "Включая вложенные папки">
+<!ENTITY searchSubfolders.accesskey "ю">
+<!ENTITY searchOnServer.label "Запустить поиск на сервере">
+<!ENTITY searchOnServer.accesskey "п">
+<!ENTITY resetButton.label "Очистить">
+<!ENTITY resetButton.accesskey "и">
+<!ENTITY openButton.label "Открыть">
+<!ENTITY openButton.accesskey "т">
+<!ENTITY deleteButton.label "Удалить">
+<!ENTITY deleteButton.accesskey "д">
+<!ENTITY searchDialogTitle.label "Поиск сообщений…">
+<!ENTITY results.label "Результаты">
+<!ENTITY moveButton.label "Переместить в">
+<!ENTITY moveButton.accesskey "м">
+<!ENTITY closeCmd.key "W"> 
+<!ENTITY openInFolder.label "Открыть в папке">
+<!ENTITY openInFolder.accesskey "ы">
+<!ENTITY saveAsVFButton.label "Сохранить как виртуальную папку">
+<!ENTITY saveAsVFButton.accesskey "х">
 
 <!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label       "Место поиска:">
-<!ENTITY abSearchHeading.accesskey   "h">
-<!ENTITY propertiesButton.label      "Свойства">
-<!ENTITY propertiesButton.accesskey  "P">
-<!ENTITY composeButton.label         "Создать">
-<!ENTITY composeButton.accesskey     "W">
-<!ENTITY abSearchDialogTitle.label   "Расширенный режим поиска в адресной книге">
+<!ENTITY abSearchHeading.label "Место поиска:">
+<!ENTITY abSearchHeading.accesskey "с">
+<!ENTITY propertiesButton.label "Свойства">
+<!ENTITY propertiesButton.accesskey "о">
+<!ENTITY composeButton.label "Создать">
+<!ENTITY composeButton.accesskey "з">
+<!ENTITY deleteCardButton.label "Удалить">
+<!ENTITY deleteCardButton.accesskey "а">
+<!ENTITY abSearchDialogTitle.label "Расширенный режим поиска в адресной книге">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Обсуждение">
 <!ENTITY fromColumn.label "От">
-<!ENTITY recipientColumn.label "Получатель">
+<!ENTITY recipientColumn.label "Адресат">
+<!ENTITY correspondentColumn.label "Корреспонденты">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Важность">
 <!ENTITY tagsColumn.label "Метки">
-<!ENTITY accountColumn.label "Учетная запись">
+<!ENTITY accountColumn.label "Учётная запись">
 <!ENTITY statusColumn.label "Состояние">
 <!ENTITY sizeColumn.label "Размер">
 <!ENTITY junkStatusColumn.label "Спам">
-<!ENTITY linesColumn.label "Строк">
 <!ENTITY unreadColumn.label "Не прочитано">
 <!ENTITY totalColumn.label "Всего">
 <!ENTITY readColumn.label "Прочитано">
 <!ENTITY receivedColumn.label "Получено">
-<!ENTITY starredColumn.label "Со звездочкой">
+<!ENTITY starredColumn.label "Звёздочка">
 <!ENTITY locationColumn.label "Расположение">
 <!ENTITY idColumn.label "Порядок получения">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Щелкните, чтобы выбрать столбцы для отображения">
-<!ENTITY threadColumn.tooltip "Щелкните здесь, чтобы просмотреть обсуждения">
-<!ENTITY fromColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по автору">
-<!ENTITY recipientColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по получателю">
-<!ENTITY subjectColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по теме">
-<!ENTITY dateColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по дате">
-<!ENTITY priorityColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по важности">
-<!ENTITY tagsColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по метке">
-<!ENTITY accountColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по учетной записи">
-<!ENTITY statusColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по состоянию">
-<!ENTITY sizeColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по размеру">
-<!ENTITY junkStatusColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по метке спама">
-<!ENTITY unreadColumn.tooltip "Количество непрочитанных сообщений в обсуждении">
-<!ENTITY totalColumn.tooltip "Общее количество сообщений в обсуждении">
-<!ENTITY readColumn.tooltip "Щелкните здесь, чтобы отсортировать прочитанные сообщения">
-<!ENTITY receivedColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по дате получения">
-<!ENTITY starredColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по наличию звездочки">
-<!ENTITY locationColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения по их расположению">
-<!ENTITY idColumn.tooltip "Щелкните здесь, чтобы отсортировать сообщения в порядке получения">
+<!ENTITY columnChooser2.tooltip "Выбрать колонки для отображения">
+<!ENTITY threadColumn2.tooltip "Просмотреть сообщения по обсуждениям">
+<!ENTITY fromColumn2.tooltip "Сортировать по автору">
+<!ENTITY recipientColumn2.tooltip "Сортировать по адресату">
+<!ENTITY correspondentColumn2.tooltip "Сортировать по корреспондентам">
+<!ENTITY subjectColumn2.tooltip "Сортировать по теме">
+<!ENTITY dateColumn2.tooltip "Сортировать по дате отправки">
+<!ENTITY priorityColumn2.tooltip "Сортировать по важности">
+<!ENTITY tagsColumn2.tooltip "Сортировать по меткам">
+<!ENTITY accountColumn2.tooltip "Сортировать по учётной записи">
+<!ENTITY statusColumn2.tooltip "Сортировать по состоянию">
+<!ENTITY sizeColumn2.tooltip "Сортировать по размеру">
+<!ENTITY junkStatusColumn2.tooltip "Сортировать по метке спама">
+<!ENTITY unreadColumn2.tooltip "Число непрочитанных сообщений в обсуждении">
+<!ENTITY totalColumn2.tooltip "Общее число сообщений в обсуждении">
+<!ENTITY readColumn2.tooltip "Сортировать по прочтению">
+<!ENTITY receivedColumn2.tooltip "Сортировать по дате получения">
+<!ENTITY starredColumn2.tooltip "Сортировать по наличию звёздочки">
+<!ENTITY locationColumn2.tooltip "Сортировать по расположению">
+<!ENTITY idColumn2.tooltip "Сортировать по порядку получения">

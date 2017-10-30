@@ -1,79 +1,54 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 2001
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
-Netscape Communicator, Please translate using the brandname in respective
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
+Netscape Communicator, Please translate using the brandname in respective 
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
 "&brandShortName;" below.
 -->
 
 <!ENTITY importDialog.windowTitle "Импорт">
-<!ENTITY importDialog.allTitle    "Импорт всего">
-<!ENTITY importDialog.mailTitle   "Почта">
-<!ENTITY importDialog.addressbookTitle "Адресные книги">
-<!ENTITY importDialog.settingsTitle "Параметры">
+<!ENTITY importAll.label "Импортировать всё">
+<!ENTITY importAll.accesskey "п">
+<!ENTITY importMail.label "Почту">
+<!ENTITY importMail.accesskey "ч">
+<!ENTITY importFeeds.label "Подписки на ленты новостей">
+<!ENTITY importFeeds.accesskey "и">
+<!ENTITY importAddressbook.label "Адресные книги">
+<!ENTITY importAddressbook.accesskey "д">
+<!ENTITY importSettings.label "Настройки">
+<!ENTITY importSettings.accesskey "с">
+<!ENTITY importFilters.label "Фильтры">
+<!ENTITY importFilters.accesskey "л">
 
-<!ENTITY  window.width            "50em">
-<!ENTITY  window.macWidth         "55em">
+<!ENTITY window.width "50em">
+<!ENTITY window.macWidth "55em">
 
-<!ENTITY importTitle.label        "Мастер импорта &brandShortName;">
-<!ENTITY importDesc.label         "Импорт почты, адресных книг и настроек из других программ">
+<!ENTITY importTitle.label "Мастер импорта &brandShortName;">
+<!ENTITY importShortDesc.label "Импорт почты, адресных книг, настроек и фильтров из других программ">
 
-<!ENTITY importDescription.label  "Этот мастер позволяет импортировать сообщения, адресные книги и/или параметры из других почтовых программ и популярных форматов адресных книг в &brandShortName;.">
-<!ENTITY importDescription2.label "После импорта эта информация будет доступна в приложении &brandShortName;.">
+<!ENTITY importDescription1.label "Мастер импортирует почтовые сообщения, содержимое адресных книг, подписки на ленты новостей, настройки и/или фильтры из других почтовых программ и распространённых форматов адресных книг в &brandShortName;.">
+<!ENTITY importDescription2.label "Импортированная однажды, эта информация будет доступна для вас из &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Выберите тип файла, который необходимо импортировать:">
+<!ENTITY selectDescription.label "Выберите программу, из которой хотите произвести импорт:">
+<!ENTITY selectDescriptionB.label "Выберите существующую учётную запись или создайте новую учётную запись:">
+<!ENTITY selectDescription.accesskey "ы">
+<!ENTITY acctName.label "Имя:">
+<!ENTITY acctName.accesskey "м">
+<!ENTITY noModulesFound.label "Не найдено приложения или файла, из которого можно импортировать данные.">
 
-<!ENTITY back.label               "&lt; Назад">
-<!ENTITY forward.label            "Далее &gt;">
-<!ENTITY finish.label             "Готово">
-<!ENTITY cancel.label             "Отмена">
+<!ENTITY back.label "&lt; Назад">
+<!ENTITY forward.label "Далее &gt;">
+<!ENTITY finish.label "Готово">
+<!ENTITY cancel.label "Отмена">
 
-<!ENTITY select.label             "или выберите тип импортируемого содержимого:">
+<!ENTITY select.label "или выберите то, что хотите импортировать:">
 
-<!ENTITY title.label              "Заголовок">
-<!ENTITY processing.label         "Выполняется импорт…">
+<!ENTITY title.label "Заголовок">
+<!ENTITY processing.label "Идёт импорт…">
 
-<!ENTITY FieldDiscInputText1.label  "В Netscape Communicator 4.x для каждой карточки можно задать только один адрес электронной почты, а в &brandShortName; — два (домашний и рабочий).">
-<!ENTITY FieldDiscInputText2.label  "Выберите категорию для сохранения импортированных адресов электронной почты:">
-<!ENTITY FieldDiscWarning.label  "Эта категория будет использоваться для всех записей выбранной адресной книги: ">
-<!ENTITY importDialog.homeTitle  "Домашний">
-<!ENTITY importDialog.workTitle  "Рабочий">
 
-<!ENTITY pbSelect.label             "Выберите тип импортируемого содержимого:">
+<!ENTITY pbSelect.label             "Select the type of material to import:">

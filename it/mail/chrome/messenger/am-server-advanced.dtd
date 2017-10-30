@@ -1,33 +1,30 @@
-<!ENTITY serverAdvanced.label "Impostazioni account avanzate">
-<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Impostazioni avanzate server IMAP">
-<!ENTITY serverDirectory.label "Directory server IMAP:">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY serverAdvanced.label "Impostazioni avanzate per l'account">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "Cartella del server IMAP:">
 <!ENTITY serverDirectory.accesskey "d">
-<!ENTITY usingSubscription.label "Mostra solo le cartelle iscritte">
+<!ENTITY usingSubscription.label "Mostra solo le cartelle sottoscritte">
 <!ENTITY usingSubscription.accesskey "r">
-<!ENTITY dualUseFolders.label "Il server supporta cartelle contenenti sottocartelle e messaggi">
+<!ENTITY dualUseFolders.label "Il server supporta cartelle contenenti altre cartelle e messaggi">
 <!ENTITY dualUseFolders.accesskey "s">
-<!ENTITY useIdle.label "Utilizza il comando IDLE se supportato dal server">
-<!ENTITY useIdle.accesskey "i">
-<!ENTITY maximumConnectionsNumber.label "Numero massimo di connessioni al server da tenere in cache">
-<!ENTITY maximumConnectionsNumber.accesskey "m">
-<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Queste preferenze specificano i namespace sul tuo server IMAP">
-<!ENTITY personalNamespace.label "Namespace personale:">
-<!ENTITY personalNamespace.accesskey "p">
+<!ENTITY maximumConnectionsNumber.label "Numero massimo di collegamenti verso il server da tenere in cache">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Queste preferenze definiscono i domini sul server IMAP">
+<!ENTITY personalNamespace.label "Dominio personale:">
+<!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "Pubblico (condiviso):">
 <!ENTITY publicNamespace.accesskey "u">
 <!ENTITY otherUsersNamespace.label "Altri utenti:">
 <!ENTITY otherUsersNamespace.accesskey "A">
-<!ENTITY overrideNamespaces.label "Permetti al server di sovrascrivere questi namespace">
-<!ENTITY overrideNamespaces.accesskey "a">
-<!ENTITY pop3Desc.label "Durante il download di e-mail POP3 da questo server, utilizza la seguente cartella per le nuove e-mail:" >
-<!ENTITY folderStorage.label "Dove archiviare le e-mail">
-<!ENTITY globalInbox.label "In entrata globale (Account cartelle Locali)">
-<!ENTITY globalInbox.accesskey "g">
-<!ENTITY accountDirectory.label "In entrata per l'account di questo server">
-<!ENTITY accountDirectory.accesskey "s">
-<!ENTITY deferToServer.label "In entrata per un account differente">
+<!ENTITY overrideNamespaces.label "Permetti al server di sovrascrivere questi domini">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3DeferringDesc.label "Quando si scarica la posta dal server di questo account, utilizzare la seguente cartella per memorizzare i nuovi messaggi:">
+<!ENTITY accountInbox.accesskey "I">
+<!ENTITY deferToServer.label "Posta in arrivo di un altro account.">
 <!ENTITY deferToServer.accesskey "d">
-<!ENTITY deferGetNewMail.label "Includi questo server quando ricevi nuove e-mail">
+<!ENTITY deferGetNewMail.label "Includi questo account durante la ricezione della posta">
 <!ENTITY deferGetNewMail.accesskey "I">

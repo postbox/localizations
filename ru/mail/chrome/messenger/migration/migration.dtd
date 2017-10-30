@@ -1,43 +1,50 @@
-﻿
-<!ENTITY migrationWizard.title          "Мастер импорта">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY importFromUnix.label           "Импорт настроек, параметров учетных записей, адресных книг и прочей информации из:">
 
+<!ENTITY migrationWizard.title "Мастер импорта">
+
+<!ENTITY importFromWin.label "Импортировать настройки, параметры учётной записи, адресную книгу, фильтры и другие данные из:">
+<!ENTITY importFromNonWin.label "Импортировать настройки, параметры учётной записи, адресную книгу, фильтры и другие данные из:">
+<!ENTITY importSourceNotFound.label "Не найдено приложения, из которого можно импортировать данные.">
+
+<!ENTITY cleanInstall.label             "Clean install (recommended)">
+<!ENTITY cleanInstall.accesskey  	"C">
+
+<!ENTITY importFromNothing.label "Не импортировать ничего">
+<!ENTITY importFromNothing.accesskey "н">
 <!ENTITY importFromThunderbird.label    "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x или SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "s">
-<!ENTITY importFromOExpress.label       "Outlook Express">
-<!ENTITY importFromOExpress.accesskey   "u">
-<!ENTITY importFromOutlook.label        "Outlook">
-<!ENTITY importFromOutlook.accesskey    "O">
-<!ENTITY importFromEudora.label         "Eudora">
-<!ENTITY importFromEudora.accesskey     "E">
-<!ENTITY importFromNothing.label        "Не импортировать ничего">
-<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSeamonkey3.label "SeaMonkey 2 или позже">
+<!ENTITY importFromSeamonkey3.accesskey "S">
+<!ENTITY importFromOExpress.label "Outlook Express">
+<!ENTITY importFromOExpress.accesskey "u">
+<!ENTITY importFromOutlook.label "Outlook">
+<!ENTITY importFromOutlook.accesskey "O">
 
-<!ENTITY welcome.title                  "Добро пожаловать в &brandShortName;,">
-<!ENTITY tagline.label                  "лучшее приложение для работы с почтой!">
-<!ENTITY thanks.label                   "Благодарим за выбор &brandShortName;.">
-<!ENTITY quickStart1.label              "Прочитав">
-<!ENTITY quickStart2.label              "«Краткое руководство по началу работы»,">
-<!ENTITY quickStart3.label              "вы узнаете обо всех возможностях приложения.">
-<!ENTITY start.label                    "Начать работу с &brandShortName;">
+<!ENTITY welcome.title                  "Welcome to &brandShortName;">
+<!ENTITY tagline.label                  "A Better Way To Do Email">
+<!ENTITY thanks.label                   "Thanks for trying out &brandShortName;!">
+<!ENTITY quickStart1.label              "See the ">
+<!ENTITY quickStart2.label              "Quickstart Guide"> 
+<!ENTITY quickStart3.label              " to learn about all the features.">
+<!ENTITY start.label                    "Start using &brandShortName;">
+    
+<!ENTITY migration.title                "Account Migration Wizard">
+<!ENTITY migrationMac.title             "Account Migration Assistant">
+<!ENTITY importOptions.title            "Import Options">
+<!ENTITY importItems.title "Объекты для импорта">
+<!ENTITY importItems.label "Выберите объекты для импорта:">
 
-<!ENTITY migration.title                "Мастер импорта учетной записи">
-<!ENTITY migrationMac.title             "Помощник по импорту учетной записи">
-<!ENTITY importOptions.title            "Параметры импорта">
-<!ENTITY importItems.title              "Объекты для импорта">
-<!ENTITY importItems.label              "Выберите объекты для импорта:">
+<!ENTITY migrating.title "Идёт импорт…">
+<!ENTITY migrating.label "В данный момент происходит импорт следующих объектов…">
 
-<!ENTITY migrating.title                "Выполняется импорт…">
-<!ENTITY migrating.label                "В данный момент выполняется импорт следующих объектов…">
+<!ENTITY selectProfile.title "Выбор профиля">
+<!ENTITY selectProfile.label "Импорт может быть произведён из следующих профилей:">
 
-<!ENTITY selectProfile.title            "Выбор профиля">
-<!ENTITY selectProfile.label            "Импорт может быть выполнен из следующих профилей:">
-
-<!ENTITY done.title                     "Импорт завершен">
-<!ENTITY done.label                     "Следующие объекты успешно импортированы:">
+<!ENTITY done.title "Импорт завершён">
+<!ENTITY done.label "Следующие объекты были успешно импортированы:">
 
 <!ENTITY importFromAppleMail.label    "Apple Mail">
 <!ENTITY importFromAppleMail.accesskey "A">
@@ -52,16 +59,7 @@
 <!ENTITY explanation-text.top "50">
 <!ENTITY radio.top "72">
 <!ENTITY import.top "86">
-<!ENTITY progress.top "140">
-<!ENTITY start.left "279">
+<!ENTITY progress.top "160">
 <!ENTITY start.top "264">
 <!ENTITY startMac.top "266">
 <!ENTITY guide.top "159">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY cleanInstall.accesskey  	"C">
-<!ENTITY cleanInstall.label             "Чистая установка (рекомендуется)">

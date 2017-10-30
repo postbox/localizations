@@ -1,24 +1,24 @@
 <!-- rich search results -->
-<!ENTITY searchresults.showthumbnail.label         "Visa miniatyrer">
+<!ENTITY searchresults.showthumbnail.label         "Show Thumbnails">
 <!ENTITY searchresults.showthumbnail.accesskey     "S">
-<!ENTITY viewByRelevance.label                     "Ordna på relevans">
-<!ENTITY viewByDate.label                          "Ordna på datum">
-<!ENTITY searchresults.viewByRelevance.label       "Ordna på relevans">
-<!ENTITY searchresults.viewByDate.label            "Ordna på datum">
-<!ENTITY addToCalendar.label                       "Lägg till i kalender">
-<!ENTITY prevNextResults.label                     "Förra / Nästa">
-<!ENTITY searchResultsNoMatchesFound.desc          "Inga poster matchade din sökning.">
-<!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Försök genom att söka i alla mappar.">
-<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Försök genom att ställa in Fokus till alla.">
-<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Försök genom att ställa in din vy till meddelanden.">
-<!ENTITY showSearchOptions.label                   "Visa sökalternativ">
+<!ENTITY viewByRelevance.label                     "Sorted By Relevance">
+<!ENTITY viewByDate.label                          "Sorted By Date">
+<!ENTITY searchresults.viewByRelevance.label       "Sort By Relevance">
+<!ENTITY searchresults.viewByDate.label            "Sort By Date">
+<!ENTITY addToCalendar.label                       "Add to Calendar">
+<!ENTITY prevNextResults.label                     "Prev / Next">
+<!ENTITY searchResultsNoMatchesFound.desc          "No items matched your search.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Try searching in All Folders.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Try setting your Focus to All.">
+<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
+<!ENTITY showSearchOptions.label                   "Show search options">
 
 <!-- attachments -->
-<!ENTITY searchresults.upload.label                   "ladda upp">
+<!ENTITY searchresults.upload.label                   "Upload">
 <!ENTITY searchresults.uploadToGoogleDocs.label       "Google Docs">
 <!ENTITY searchresults.uploadToGoogleDocs.accesskey   "G">
-<!ENTITY attachmentInfo.label                         "Dokumentinfo">
-<!ENTITY attachmentActions.label                      "Dokumentåtgärder">
+<!ENTITY attachmentInfo.label                         "Document Info">
+<!ENTITY attachmentActions.label                      "Document Actions">
 
 <!-- images -->
 <!-- XX Localization note - Service names do not need to be translated -->
@@ -26,8 +26,8 @@
 <!ENTITY searchresults.uploadPhotoToPicasa.accesskey   "P">
 <!ENTITY searchresults.uploadPhotoToPhotobucket.label       "Photobucket">
 <!ENTITY searchresults.uploadPhotoToPhotobucket.accesskey   "b">
-<!ENTITY imageInfo.label                               "Bildinfo">
-<!ENTITY imageActions.label                            "Bildåtgärder">
+<!ENTITY imageInfo.label                               "Image Info">
+<!ENTITY imageActions.label                            "Image Actions">
 
 <!-- urls -->
 <!-- XXX start localization note: Do not translate these service names -->
@@ -37,8 +37,6 @@
 <!ENTITY searchresults.addUrlToDelicious.accesskey "d">
 <!ENTITY searchresults.addUrlToFacebook.label      "Facebook">
 <!ENTITY searchresults.addUrlToFacebook.accesskey  "F">
-<!ENTITY searchresults.addUrlToFriendFeed.label      "FriendFeed">
-<!ENTITY searchresults.addUrlToFriendFeed.accesskey  "r">
 <!ENTITY searchresults.addUrlToTwitter.label      "Twitter">
 <!ENTITY searchresults.addUrlToTwitter.accesskey  "T">
 <!ENTITY searchresults.addUrlToLinkedIn.label      "LinkedIn">
@@ -46,25 +44,25 @@
 <!-- XXX end localization note: Do not translate these service names -->
 
 <!-- action buttons -->
-<!ENTITY searchresults.saveButton.label            "Spara">
-<!ENTITY searchresults.sendButton.label            "Skicka">
+<!ENTITY searchresults.saveButton.label            "Save">
+<!ENTITY searchresults.sendButton.label            "Send">
 <!-- XXX localization note: should "Quick Look" be translated? -->
-<!ENTITY searchresults.quickLookButton.label       "Snabbkoll">
-<!ENTITY searchresults.importPhotoButtonMac.label  "iPhoto">
+<!ENTITY searchresults.quickLookButton.label       "Quick Look">
+<!ENTITY searchresults.importPhotoButtonMac.label  "Photos">
 
-<!ENTITY searchBar-options.tooltip                 "Visa sökalternativ">
-<!ENTITY location.label                            "Nära:">
-<!ENTITY location.placeholder                        "Stad, län eller postnummer">
-<!ENTITY flickr.private.tooltip                    "Endast du kan se denna bild på flickr.com">
+<!ENTITY searchBar-options.tooltip                 "Show search options">
+<!ENTITY location.label                            "Near:">
+<!ENTITY location.placeholder                        "City, State or ZIP">
+<!ENTITY flickr.private.tooltip                    "Only you can see this photo on flickr.com">
 
 <!-- for rich search in compose -->
-<!ENTITY attachments.label "Bilagor">
-<!ENTITY dictionary.label "Katalog">
+<!ENTITY attachments.label "Attachments">
+<!ENTITY dictionary.label "Dictionary">
 <!ENTITY thesaurus.label "Thesaurus">
-<!ENTITY documents.label "Bilagor">
-<!ENTITY images.label "Bilder">
-<!ENTITY signatures.label "Signaturer">
-<!ENTITY contacts.label "Adress">
+<!ENTITY documents.label "Attachments">
+<!ENTITY images.label "Images">
+<!ENTITY signatures.label "Signatures">
+<!ENTITY contacts.label "Contacts">
 
 <!-- XXX start localization note: Do not translate these service names -->
 <!ENTITY google.label "Google">

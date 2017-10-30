@@ -1,20 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Filterregels">
-<!ENTITY subject.label "onderwerp">
-<!ENTITY sender.label "afzender">
-<!ENTITY date.label "datum">
-<!ENTITY anyText.label "elke tekst">
-<!ENTITY keyword.label "sleutelwoord">
-<!ENTITY age.label "leeftijd in dagen">
-<!ENTITY to.label "aan">
-
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-<!ENTITY cc.label "Cc">
-
-<!ENTITY status.label "status">
-<!ENTITY priority.label "prioriteit">
-<!ENTITY body.label "inhoud">
-<!ENTITY contains.label "bevat">
-<!ENTITY nocontains.label "bevat niet">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Filternaam:">
 <!ENTITY filterName.accesskey "F">
 
@@ -27,56 +16,72 @@
 <!ENTITY highPriorityCmd.label "Hoog">
 <!ENTITY highestPriorityCmd.label "Hoogst">
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "E-mail aan het controleren">
+<!ENTITY contextDesc.label "Filter toepassen bij het:">
+<!ENTITY contextIncomingMail.label "Ophalen van nieuwe e-mail:">
+<!ENTITY contextIncomingMail.accesskey "O">
 <!ENTITY contextManual.label "Handmatig uitvoeren">
-<!ENTITY contextBoth.label "Controleren van Mail of Handmatig uitgevoerd">
+<!ENTITY contextManual.accesskey "H">
+<!ENTITY contextBeforeCls.label "Filteren voor ongewensteberichtenclassificatie">
+<!ENTITY contextAfterCls.label "Filteren na ongewensteberichtenclassificatie">
+<!ENTITY contextOutgoing.label "Na verzenden">
+<!ENTITY contextOutgoing.accesskey "N">
+<!ENTITY contextArchive.label "Archiveren">
+<!ENTITY contextArchive.accesskey "r">
+
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
 <!ENTITY filterActionDesc.accesskey "v">
 
-<!ENTITY newFolderButton.label "Nieuwe map…">
-<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY filterActionOrderWarning.label "Noot: filteracties worden in een andere volgorde uitgevoerd.">
+<!ENTITY filterActionOrder.label "Uitvoeringsvolgorde bekijken">
+
+<!ENTITY globalFilterChekbox.label "This is a global filter">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Bericht verplaatsen naar">
 <!ENTITY copyMessage.label "Bericht kopiëren naar">
 <!ENTITY forwardTo.label "Bericht doorsturen naar">
-<!ENTITY replyWithTemplate.label "Met sjabloon antwoorden">
-<!ENTITY markMessageRead.label "Bericht als gelezen markeren">
+<!ENTITY replyWithTemplate.label "Antwoorden met sjabloon">
+<!ENTITY markMessageRead.label "Markeren als gelezen">
+<!ENTITY markMessageUnread.label "Markeren als ongelezen">
 <!ENTITY markMessageStarred.label "Ster toevoegen">
-<!ENTITY labelMessage.label "Label bericht als">
-<!ENTITY setPriority.label "Prioriteit wijzigen in">
+<!ENTITY markMessagePending.label "Mark as Pending">
+<!ENTITY markMessageAs.label "Mark Message as">
+<!ENTITY setPriority.label "Prioriteit wijzigen naar">
 <!ENTITY addTag.label "Bericht labelen">
+<!ENTITY removeTag.label "Remove Topic">
 <!ENTITY setJunkScore.label "Ongewenstberichtstatus instellen op">
 <!ENTITY deleteMessage.label "Bericht verwijderen">
-<!ENTITY deleteFromPOP.label "Van POP-server verwijderen">
-<!ENTITY fetchFromPOP.label "Van POP-server ophalen">
+<!ENTITY deleteFromPOP.label "Verwijderen van POP-server">
+<!ENTITY fetchFromPOP.label "Ophalen van POP-server">
 <!ENTITY ignoreThread.label "Conversatie negeren">
+<!ENTITY ignoreSubthread.label "Subconversatie negeren">
 <!ENTITY watchThread.label "Conversatie volgen">
 <!ENTITY stopExecution.label "Uitvoeren van filter stoppen">
+<!ENTITY launchScript.label "Run AppleScript">
 
+<!ENTITY playSound.label "Play Sound">
+<!ENTITY noSoundSelected.label "Select a Sound">
+<!ENTITY systemAlertSound.label "System Alert Sound">
 
-<!--
-entities below were automatically added by l10nmerge
--->
+<!ENTITY noScriptsInstalled.label "No Scripts installed">
+<!ENTITY openInFinder.label "Open in Finder">
+<!ENTITY noScriptSelected.label "Select an AppleScript">
+<!ENTITY readStatus.label "Read">
+<!ENTITY reminderStatus.label "Reminder">
+<!ENTITY pendingStatus.label "Pending">
+<!ENTITY unreadStatus.label "Unread">
+<!ENTITY notReminderStatus.label "Not Reminder">
+<!ENTITY notPendingStatus.label "Not Pending">
+<!ENTITY quickPost.label "Quick Post">
 
-<!ENTITY playSound.label "Geluid Afspelen">
-<!ENTITY notPendingStatus.label "Niet In Behandeling">
-<!ENTITY noSoundSelected.label "Selecteer een Geluid">
-<!ENTITY noScriptsInstalled.label "Geen Scripts geïnstalleerd">
-<!ENTITY markMessageAs.label "Markeer Bericht als">
-<!ENTITY systemAlertSound.label "Systeemmelding Geluid">
-<!ENTITY removeTag.label "Verwijder Onderwerp">
-<!ENTITY reminderStatus.label "Herinnering">
-<!ENTITY markMessagePending.label "Markeer als in behandeling">
-<!ENTITY noScriptSelected.label "Selecteer een AppleScript">
-<!ENTITY globalFilterChekbox.label "Dit is een globale filter">
-<!ENTITY readStatus.label "Lezen">
-<!ENTITY launchScript.label "AppleScript draaien">
-<!ENTITY openInFinder.label "Openen in Finder">
-<!ENTITY pendingStatus.label "In behandeling">
-<!ENTITY notReminderStatus.label "Geen Herinnering">
-<!ENTITY unreadStatus.label "Ongelezen">
+<!ENTITY addAction.tooltip "Een nieuwe actie toevoegen">
+<!ENTITY removeAction.tooltip "Deze actie verwijderen">
 
-<!ENTITY quickPost.label "Snel Plaatsen">
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

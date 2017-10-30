@@ -1,8 +1,6 @@
-<!ENTITY alwaysCheckDefault.label          "Check if &brandShortName; is the default mail client on startup">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
-
-<!ENTITY checkNow.label             "Check Now">
-<!ENTITY checkNow.accesskey         "N">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
 <!ENTITY allowSpotlight.accesskey          "w">
@@ -12,28 +10,34 @@
 <!ENTITY useDefault.label                 "Restore to Default">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "Animate the dock icon">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "Change preferences for the app icon">
+<!ENTITY dockOptions.label                "App Icon Options…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "When new messages arrive:">
 <!ENTITY playSound.label                  "Play a sound">
-<!ENTITY playSound1.accesskey              "d">
+<!ENTITY playSound1.accesskey             "d">
+<!ENTITY playSoundMac.label               "Play the following sound file:">
+<!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Show an alert">
 <!ENTITY showAnimatedAlert.accesskey      "S">
-<!ENTITY customizeMailAlert.label         "Customize...">
+<!ENTITY notificationAlertSettings2.label "Alerts and the default sound can be disabled on the Notification pane of System Preferences.">
+<!ENTITY customizeMailAlert.label         "Customize…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
-<!ENTITY soundNotification1.caption       "Sound">
+<!ENTITY showTrayIcon.label               "Show a tray icon">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "Play">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "Default system sound for new mail">
-<!ENTITY systemsoundMac.label             "System Alert Sound">
-<!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Use the following sound file">
 <!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "Browse...">
+<!ENTITY browse.label                     "Browse…">
 <!ENTITY browse.accesskey                 "B">
+
+<!ENTITY defaultSearchEngine.label        "Default Search Engine">
 
 <!ENTITY enableNotificationCenter.label   "Use the Notification Center">
 

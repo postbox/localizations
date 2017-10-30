@@ -1,11 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  connectionsDialog.title       "Configurar conexão">
-<!ENTITY  window.width                   "37em">
 
 <!ENTITY  proxyTitle.label              "Acesso à internet">
 <!ENTITY  noProxyTypeRadio.label        "Sem proxy">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  noProxyTypeRadio.accesskey    "S">
 <!ENTITY  systemTypeRadio.label         "Usar as configurações de proxy do sistema">
-<!ENTITY  systemTypeRadio.accesskey     "U">
+<!ENTITY  systemTypeRadio.accesskey     "a">
 <!ENTITY  WPADTypeRadio.label           "Autodetectar as configurações de proxy para esta rede">
 <!ENTITY  WPADTypeRadio.accesskey       "d">
 <!ENTITY  manualTypeRadio.label         "Configuração manual de proxy:">
@@ -21,9 +24,9 @@
 <!ENTITY  socks.label                   "SOCKS:">
 <!ENTITY  socks.accesskey               "K">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socks5.accesskey              "5">
 <!ENTITY  HTTPport.label                "Porta:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.label                 "Porta:">

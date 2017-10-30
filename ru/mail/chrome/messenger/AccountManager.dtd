@@ -1,19 +1,23 @@
-﻿<!-- extracted from AccountManager.xul -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountManagerTitle.label "Параметры учетной записи">
+<!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountActionsButton.label "Действия с учетной записью">
-<!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Добавить учетную запись почты…">
-<!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addRSSAccountButton.label "Добавить учетную запись RSS…">
-<!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Добавить учетную запись группы новостей…">
+<!ENTITY accountManagerTitle.label "Параметры учётной записи">
+
+<!ENTITY accountActionsButton.label "Действия для учётной записи">
+<!ENTITY accountActionsButton.accesskey "в">
+<!ENTITY addMailAccountButton.label "Добавить учётную запись почты…">
+<!ENTITY addMailAccountButton.accesskey "и">
+<!ENTITY addFeedAccountButton.label "Добавить учётную запись лент новостей…">
+<!ENTITY addFeedAccountButton.accesskey "о">
+<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
-<!ENTITY setDefaultButton.label "По умолчанию">
-<!ENTITY setDefaultButton.accesskey "f">
-<!ENTITY removeButton.label "Удалить учетную запись">
-<!ENTITY removeButton.accesskey "R">
+<!ENTITY setDefaultButton.label "Установить по умолчанию">
+<!ENTITY setDefaultButton.accesskey "п">
+<!ENTITY removeButton.label "Удалить учётную запись">
+<!ENTITY removeButton.accesskey "д">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
@@ -38,6 +42,6 @@
 <!ENTITY pbAccountTree.width "width: 25ch;">
 
 <!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Добавить…">
-<!ENTITY pbAccountRemoveActionsButton.label "Удалить">
+<!ENTITY pbAccountAddActionsButton.label "Add…">
+<!ENTITY pbAccountRemoveActionsButton.label "Remove">
 <!ENTITY pbAccountRemoveActionsButton.accesskey "R">

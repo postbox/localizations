@@ -1,39 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org code.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Ian McGreer <mcgreer@netscape.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY certmgr.title "Gestionnaire de certificats">
 
@@ -42,9 +9,6 @@
 <!ENTITY certmgr.tab.websites3 "Serveurs">
 <!ENTITY certmgr.tab.ca "Autorités">
 <!ENTITY certmgr.tab.orphan2 "Autres">
-
-<!ENTITY certmgr.ca.builtins "Certificats embarqués">
-<!ENTITY certmgr.ca.mycas "Certificats que vous gérez">
 
 <!ENTITY certmgr.mine "Vous possédez des certificats de ces organisations qui vous identifient :">
 <!ENTITY certmgr.others "Vous possédez des certificats enregistrés identifiant ces personnes :">
@@ -60,43 +24,28 @@
 <!ENTITY certmgr.pending.label "Vérification des certificats en cours…">
 <!ENTITY certmgr.subjectinfo.label "Émis pour">
 <!ENTITY certmgr.issuerinfo.label "Émis par">
-<!ENTITY certmgr.validity.label "Validité" >
-<!ENTITY certmgr.fingerprints.label "Empreintes numériques">
+<!ENTITY certmgr.periodofvalidity.label "Période de validité">
 <!ENTITY certmgr.certdetail.title "Détails du certificat">
 <!ENTITY certmgr.certdetail.cn "Nom commun (CN)">
 <!ENTITY certmgr.certdetail.o "Organisation (O)">
-<!ENTITY certmgr.certdetail.ou "Unité d'organisation (OU)">
+<!ENTITY certmgr.certdetail.ou "Unité d’organisation (OU)">
 <!ENTITY certmgr.certdetail.serialnumber "Numéro de série">
+<!ENTITY certmgr.certdetail.sha256fingerprint "Empreinte numérique SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint "Empreinte numérique SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint "Empreinte numérique MD5">
 
-<!ENTITY certmgr.editcert.title "Édition des paramètres des certificats de sécurité">
-<!ENTITY certmgr.editcacert.title "Édition des paramètres de confiance de l'autorité de certification (CA)">
-<!ENTITY certmgr.editsslcert.title "Édition des paramètres du contrat de certificat du site Web">
+<!ENTITY certmgr.editcacert.title "Édition des paramètres de confiance de l’autorité de certification (CA)">
 <!ENTITY certmgr.editcert.edittrust "Modifier les paramètres de confiance :">
-<!ENTITY certmgr.editcert.trustssl "Ce certificat peut identifier des sites Web.">
+<!ENTITY certmgr.editcert.trustssl "Ce certificat peut identifier des sites web.">
 <!ENTITY certmgr.editcert.trustemail "Ce certificat peut identifier des utilisateurs de courrier électronique.">
 <!ENTITY certmgr.editcert.trustobjsign "Ce certificat peut identifier des créateurs de logiciels.">
-<!ENTITY certmgr.editsslcert.edittrust "Modifier les paramètres de confiance des certificats :">
-<!ENTITY certmgr.editsslcert.dotrust "Avoir confiance en l'authenticité de ce certificat.">
-<!ENTITY certmgr.editsslcert.donttrust "Ne pas avoir confiance en l'authenticité de ce certificat.">
-<!ENTITY certmgr.editemailcert.title "Édition des paramètres de confiance d'un certificat de courrier">
-<!ENTITY certmgr.editemailcert.edittrust "Modifier les paramètres de confiance :">
-<!ENTITY certmgr.editemailcert.dotrust "Avoir confiance en l'authenticité de ce certificat.">
-<!ENTITY certmgr.editemailcert.donttrust "Ne pas avoir confiance en l'authenticité de ce certificat.">
 
-<!ENTITY certmgr.deletecert.title "Suppression d'un certificat">
-<!ENTITY certmgr.deletecert.beforename "Vous souhaitez supprimer ce certificat :">
-<!ENTITY certmgr.deletecert.aftername "Voulez-vous vraiment supprimer ce certificat ?">
-<!ENTITY certmgr.deleteusercert.title "Suppression d'un certificat">
-<!ENTITY certmgr.deleteusercert.beforename "Vous souhaitez supprimer ce certificat :">
-<!ENTITY certmgr.deleteusercert.aftername "Une fois le certificat supprimé, vous ne pourrez plus lire le courrier chiffré avec ce certificat.">
+<!ENTITY certmgr.deletecert.title "Suppression d’un certificat">
 
 <!ENTITY certmgr.certname "Nom du certificat">
 <!ENTITY certmgr.certserver "Serveur">
 <!ENTITY certmgr.override_lifetime "Durée de vie">
 <!ENTITY certmgr.tokenname "Périphérique de sécurité">
-<!ENTITY certmgr.issued "Émis le">
+<!ENTITY certmgr.begins "Débute le">
 <!ENTITY certmgr.expires "Expire le">
 <!ENTITY certmgr.email "Adresse électronique">
 <!ENTITY certmgr.serial "Numéro de série">
@@ -107,10 +56,6 @@
 <!ENTITY certmgr.view2.accesskey "V">
 <!ENTITY certmgr.edit3.label                  "Modifier la confiance…">
 <!ENTITY certmgr.edit3.accesskey              "M">
-<!ENTITY certmgr.editca.label "Modifier le niveau de confiance de l'AC">
-<!ENTITY certmgr.editca.accesskey "o">
-<!ENTITY certmgr.add.label "Ajouter">
-<!ENTITY certmgr.add.accesskey "A">
 <!ENTITY certmgr.export.label "Exporter…">
 <!ENTITY certmgr.export.accesskey "x">
 <!ENTITY certmgr.delete2.label "Supprimer…">
@@ -128,14 +73,14 @@
 <!ENTITY certmgr.fields.label "Valeur du champ">
 <!ENTITY certmgr.fields.accesskey "l">
 <!ENTITY certmgr.hierarchy.label "Hiérarchie des certificats">
-<!ENTITY certmgr.hierarchy.accesskey "H">
+<!ENTITY certmgr.hierarchy.accesskey2 "H">
 <!ENTITY certmgr.addException.label "Ajouter une exception…">
 <!ENTITY certmgr.addException.accesskey "u">
 
-<!ENTITY exceptionMgr.title "Ajout d'une exception de sécurité">
-<!ENTITY exceptionMgr.exceptionButton.label "Confirmer l'exception de sécurité">
+<!ENTITY exceptionMgr.title "Ajout d’une exception de sécurité">
+<!ENTITY exceptionMgr.exceptionButton.label "Confirmer l’exception de sécurité">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
-<!ENTITY exceptionMgr.supplementalWarning "Les banques, magasins et autres sites Web publics légitimes ne vous demanderont pas de faire cela.">
+<!ENTITY exceptionMgr.supplementalWarning "Les banques, magasins et autres sites web publics légitimes ne vous demanderont pas de faire cela.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Serveur">
 <!ENTITY exceptionMgr.certlocation.url "Adresse :">
 <!ENTITY exceptionMgr.certlocation.download "Obtenir le certificat">

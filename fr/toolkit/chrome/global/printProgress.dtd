@@ -1,11 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title  "Impression">
-<!ENTITY title              "Titre :">
+<!ENTITY printWindow.title  "Impression"> 
+<!ENTITY title              "Titre :"> 
 <!ENTITY progress           "Progression :">
 <!ENTITY preparing          "Préparation…">
-<!ENTITY printComplete      "L'impression est terminée.">
+<!ENTITY printComplete      "L’impression est terminée.">
 
-<!ENTITY dialogCancel.label "Annuler">
+<!ENTITY dialogCancel.label "Annuler"> 
 <!ENTITY dialogClose.label  "Fermer">
 
 <!-- LOCALIZATION NOTE (percentPrint):

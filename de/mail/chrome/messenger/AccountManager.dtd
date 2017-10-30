@@ -1,19 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Konto-Einstellungen">
+<!ENTITY accountManagerTitle.label "Konten-Einstellungen">
 
-<!ENTITY accountActionsButton.label "Konto-Aktionen">
-<!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Mail-Konto hinzufügen…">
-<!ENTITY addMailAccountButton.accesskey "a">
-<!ENTITY addRSSAccountButton.label "RSS-Konto hinzufügen…">
-<!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Newsgruppen-Konto hinzufügen…">
+<!ENTITY accountActionsButton.label "Konten-Aktionen">
+<!ENTITY accountActionsButton.accesskey "K">
+<!ENTITY addMailAccountButton.label "E-Mail-Konto hinzufügen…">
+<!ENTITY addMailAccountButton.accesskey "E">
+<!ENTITY addFeedAccountButton.label "Feed-Konto hinzufügen…">
+<!ENTITY addFeedAccountButton.accesskey "F">
+<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Als Standard festlegen">
-<!ENTITY setDefaultButton.accesskey "s">
+<!ENTITY setDefaultButton.accesskey "S">
 <!ENTITY removeButton.label "Konto entfernen">
-<!ENTITY removeButton.accesskey "e">
+<!ENTITY removeButton.accesskey "o">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
@@ -37,7 +41,7 @@
 <!ENTITY pbMacAccountManager.height "height: 45em;">
 <!ENTITY pbAccountTree.width "width: 25ch;">
 
-<!ENTITY pbAccountAddActionsButton.accesskey "H">
-<!ENTITY pbAccountAddActionsButton.label "Hinzufügen…">
-<!ENTITY pbAccountRemoveActionsButton.label "Entfernen">
-<!ENTITY pbAccountRemoveActionsButton.accesskey "r">
+<!ENTITY pbAccountAddActionsButton.accesskey "A">
+<!ENTITY pbAccountAddActionsButton.label "Add…">
+<!ENTITY pbAccountRemoveActionsButton.label "Remove">
+<!ENTITY pbAccountRemoveActionsButton.accesskey "R">

@@ -1,25 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
-<!ENTITY windowTitle.label "E-mail in HTML o Testo semplice">
+<!ENTITY windowTitle.label "Richiesta posta HTML">
 
-<!ENTITY recipient.label "Alcuni destinatari non sono in grado di ricevere e-mail in formato HTML.">
+<!ENTITY recipient.label "Alcuni dei destinatari in rubrica non sono indicati come in grado di ricevere posta HTML.">
 
-<!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleYes.label "Il tuo messaggio può essere convertito in testo semplice senza perdere informazioni.">
-<!ENTITY convertibleAltering.label "Il tuo messaggio può essere convertito in testo semplice senza perdere informazioni importanti. Tuttavia, la versione in testo semplice potrebbe essere differente da quella che hai visualizzato nel composer.">
-<!ENTITY convertibleNo.label "Tuttavia, hai utilizzato una formattazione (es. colori) che non sarà convertita in testo semplice.">
+<!ENTITY question.label "Convertire il messaggio in testo semplice o inviarlo ugualmente in HTML?">
 
-<!ENTITY question.label "Vuoi convertire il messaggio in testo semplice o inviarlo ugualmente in HTML?">
-
-<!ENTITY plainTextAndHtml.label "Invia in testo semplice e in HTML">
+<!ENTITY plainTextAndHtml.label "Invia in testo semplice e HTML">
+<!ENTITY plainTextAndHtml.accesskey "a">
 <!ENTITY plainTextOnly.label "Invia solo in testo semplice">
+<!ENTITY plainTextOnly.accesskey "P">
 <!ENTITY htmlOnly.label "Invia solo in HTML">
-
-<!ENTITY plainTextAndHtmlRecommended.label "Invia in testo semplice e HTML (consigliato)">
-<!ENTITY plainTextOnlyRecommended.label "Invia solo in testo semplice (consigliato)">
-<!ENTITY htmlOnlyRecommended.label "Invia solo in HTML (consigliato)">
-<!ENTITY recommended.label "(consigliato)">
+<!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "Invia">
-<!ENTITY cancel.label "Annulla">
-<!ENTITY recipients.label "Destinatari...">
-<!ENTITY help.label "Aiuto">
+<!ENTITY send.accesskey "n">

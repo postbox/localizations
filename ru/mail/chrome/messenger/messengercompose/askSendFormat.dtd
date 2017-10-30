@@ -1,25 +1,20 @@
-﻿<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
 <!ENTITY windowTitle.label "Формат исходящего сообщения">
 
-<!ENTITY recipient.label "Некоторые из адресатов не могут получать сообщения в формате HTML.">
+<!ENTITY recipient.label "Некоторые из адресатов не могут получать письма в формате HTML.">
 
-<!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleYes.label "Сообщение можно преобразовать в обычный текст без потери информации.">
-<!ENTITY convertibleAltering.label "Сообщение можно преобразовать в обычный текст без потери информации. Однако оформление такого сообщения будет отличаться от первоначального.">
-<!ENTITY convertibleNo.label "Однако использованные элементы форматирования (например, цвета) при преобразовании в обычный текст будут утеряны.">
+<!ENTITY question.label "Преобразовать сообщение в простой текст или отправить в HTML?">
 
-<!ENTITY question.label "Преобразовать сообщение в обычный текст или отправить в виде HTML?">
-
-<!ENTITY plainTextAndHtml.label "Отправить в виде обычного текста и HTML">
-<!ENTITY plainTextOnly.label "Отправить только в виде обычного текста">
-<!ENTITY htmlOnly.label "Отправить только в виде HTML">
-
-<!ENTITY plainTextAndHtmlRecommended.label "Отправить в виде обычного текста и HTML (рекомендуется)">
-<!ENTITY plainTextOnlyRecommended.label "Отправить только в виде обычного текста (рекомендуется)">
-<!ENTITY htmlOnlyRecommended.label "Отправить только в виде HTML (рекомендуется)">
-<!ENTITY recommended.label "(рекомендуется)">
+<!ENTITY plainTextAndHtml.label "Отправить в виде простого текста и HTML">
+<!ENTITY plainTextAndHtml.accesskey "и">
+<!ENTITY plainTextOnly.label "Отправить только в виде простого текста">
+<!ENTITY plainTextOnly.accesskey "е">
+<!ENTITY htmlOnly.label "Отправить только в HTML">
+<!ENTITY htmlOnly.accesskey "т">
 
 <!ENTITY send.label "Отправить">
-<!ENTITY cancel.label "Отмена">
-<!ENTITY recipients.label "Получатели…">
-<!ENTITY help.label "Справка">
+<!ENTITY send.accesskey "п">

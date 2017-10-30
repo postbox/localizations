@@ -1,38 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  fontsAndEncodingsDialog.title           "Fonts &amp; Encodings">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Fonts for:">
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Size:">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  sizeMono.accesskey                      "i">
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "Proportional:">
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "m">
+<!ENTITY  monospace.accesskey                     "M">
 
-<!ENTITY  font.langGroup.latin1                   "Western">
-<!ENTITY  font.langGroup.latin2                   "Central European">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Japanese">
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Korean">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
-<!ENTITY  font.langGroup.baltic                   "Baltic">
 <!ENTITY  font.langGroup.el                       "Greek">
-<!ENTITY  font.langGroup.turkish                  "Turkish">
-<!ENTITY  font.langGroup.unicode                  "Other Languages">
-<!ENTITY  font.langGroup.user-def                 "User Defined">
+<!ENTITY  font.langGroup.other                    "Other Writing Systems">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebrew">
 <!ENTITY  font.langGroup.arabic                   "Arabic">
@@ -47,7 +46,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
+<!ENTITY  font.langGroup.math                     "Mathematics">
+<!ENTITY  font.langGroup.odia                     "Odia">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimum font size:">
 <!ENTITY minSize.accesskey                        "z">
@@ -58,6 +62,7 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Font Control">
 <!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Allow messages to use other fonts">

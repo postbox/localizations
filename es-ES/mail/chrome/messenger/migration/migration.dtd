@@ -1,74 +1,65 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY migrationWizard.title          "Asistente de importación">
 
-<!ENTITY importFrom.label               "Opciones de importación, Configuración de cuenta, Libreta de direcciones y otros datos desde:">
-<!ENTITY importFromUnix.label           "Importar preferencias, Configuración de cuenta, Libreta de direcciones y otros datos desde:">
+<!ENTITY migrationWizard.title "Asistente para importar">
 
+<!ENTITY importFromWin.label "Importar opciones, configuración de cuentas, libretas de direcciones, filtros y otros datos de:">
+<!ENTITY importFromNonWin.label "Importar preferencias, configuraciones de cuentas, libretas de direcciones, filtros y otros datos de:">
+<!ENTITY importSourceNotFound.label "No se ha encontrado aplicación de la que importar datos.">
+
+<!ENTITY cleanInstall.label             "Clean install (recommended)">
+<!ENTITY cleanInstall.accesskey  	"C">
+
+<!ENTITY importFromNothing.label "No importar nada">
+<!ENTITY importFromNothing.accesskey "D">
 <!ENTITY importFromThunderbird.label    "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x o SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "s">
-<!ENTITY importFromOExpress.label       "Outlook Express">
-<!ENTITY importFromOExpress.accesskey   "u">
-<!ENTITY importFromOutlook.label        "Outlook">
-<!ENTITY importFromOutlook.accesskey    "O">
-<!ENTITY importFromEudora.label         "Eudora">
-<!ENTITY importFromEudora.accesskey     "E">
-<!ENTITY importFromNothing.label        "No importar nada">
-<!ENTITY importFromNothing.accesskey    "d">
+<!ENTITY importFromSeamonkey3.label "SeaMonkey 2 o posterior">
+<!ENTITY importFromSeamonkey3.accesskey "S">
+<!ENTITY importFromOExpress.label "Outlook Express">
+<!ENTITY importFromOExpress.accesskey "u">
+<!ENTITY importFromOutlook.label "Outlook">
+<!ENTITY importFromOutlook.accesskey "O">
 
-<!ENTITY importSource.title             "Importar configuración y carpetas de correo">
-<!ENTITY importItems.title              "Elementos a importar">
-<!ENTITY importItems.label              "Seleccionar los elementos a importar:">
+<!ENTITY welcome.title                  "Welcome to &brandShortName;">
+<!ENTITY tagline.label                  "A Better Way To Do Email">
+<!ENTITY thanks.label                   "Thanks for trying out &brandShortName;!">
+<!ENTITY quickStart1.label              "See the ">
+<!ENTITY quickStart2.label              "Quickstart Guide"> 
+<!ENTITY quickStart3.label              " to learn about all the features.">
+<!ENTITY start.label                    "Start using &brandShortName;">
+    
+<!ENTITY migration.title                "Account Migration Wizard">
+<!ENTITY migrationMac.title             "Account Migration Assistant">
+<!ENTITY importOptions.title            "Import Options">
+<!ENTITY importItems.title "Elementos a importar">
+<!ENTITY importItems.label "Seleccionar los elementos a importar:">
 
-<!ENTITY migrating.title                "Importando…">
-<!ENTITY migrating.label                "Se están importando los siguientes elementos…">
+<!ENTITY migrating.title "Importando…">
+<!ENTITY migrating.label "Se están importando los siguientes elementos…">
 
-<!ENTITY selectProfile.title            "Seleccionar perfil">
-<!ENTITY selectProfile.label            "Los siguientes perfiles están disponibles para importar:">
+<!ENTITY selectProfile.title "Seleccionar perfil">
+<!ENTITY selectProfile.label "Los siguientes perfiles están disponibles para importar:">
 
-<!ENTITY done.title                     "Importación completa">
-<!ENTITY done.label                     "Los siguientes elementos se importaron correctamente:">
+<!ENTITY done.title "Importación completa">
+<!ENTITY done.label "Los siguientes elementos se importaron correctamente:">
 
-<!ENTITY importFromAppleMail.label    "Correo Apple">
+<!ENTITY importFromAppleMail.label    "Apple Mail">
 <!ENTITY importFromAppleMail.accesskey "A">
 
-
-
-<!--
- entities below were automatically added by l10nmerge
--->
-
-<!ENTITY start.left "279">
-<!ENTITY migrationMac.title             "Asistente de migración de cuentas">
-<!ENTITY explanation-text.left "26">
-<!ENTITY startMac.top "266">
-<!ENTITY thanks.label                   "¡Gracias por probar &brandShortName;!">
-<!ENTITY thanks.top "130">
-<!ENTITY guide.top "159">
-<!ENTITY title-text.top "15">
-<!ENTITY import.top "86">
-<!ENTITY radio.top "72">
-<!ENTITY progress.top "140">
-<!ENTITY quickStart1.label              "Ver el ">
-<!ENTITY tagline.label                  "El mejor modo de trabajar con email">
-<!ENTITY tagline.top "65">
-<!ENTITY explanation-text.top "50">
 <!ENTITY tagline.left "45">
-<!ENTITY welcome.title                  "Bienvenido a &brandShortName;">
-<!ENTITY quickStart2.label              "Guía rápida">
-<!ENTITY start.top "264">
-<!ENTITY importOptions.title            "Opciones de importación">
-<!ENTITY migration.title                "Asistente de migración de cuentas">
-<!ENTITY title-text.left "14">
+<!ENTITY tagline.top "65">
 <!ENTITY thanks.left "35">
-<!ENTITY quickStart3.label              " para aprender sobre todas las opciones.">
-<!ENTITY start.label                    "Empiece a usar &brandShortName;">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY cleanInstall.accesskey  	"C">
-<!ENTITY cleanInstall.label             "Instalación limpia (recomendada)">
+<!ENTITY thanks.top "130">
+<!ENTITY title-text.left "14">
+<!ENTITY title-text.top "15">
+<!ENTITY explanation-text.left "26">
+<!ENTITY explanation-text.top "50">
+<!ENTITY radio.top "72">
+<!ENTITY import.top "86">
+<!ENTITY progress.top "160">
+<!ENTITY start.top "264">
+<!ENTITY startMac.top "266">
+<!ENTITY guide.top "159">

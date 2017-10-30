@@ -1,66 +1,46 @@
-<!ENTITY alwaysCheckDefault.label          "Beim Start immer überprüfen, ob &brandShortName; der Standard E-Mail Client ist">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY checkNow.label             "Jetzt prüfen">
-<!ENTITY checkNow.accesskey         "n">
-
-<!ENTITY allowSpotlight.label              "Spotlight erlauben, Nachrichten zu durchsuchen">
-<!ENTITY allowSpotlight.accesskey          "S">
+<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.accesskey          "w">
 
 <!ENTITY location.label                   "Adresse:">
-<!ENTITY location1.accesskey               "r">
+<!ENTITY location1.accesskey              "r">
 <!ENTITY useDefault.label                 "Standard wiederherstellen">
 <!ENTITY useDefault.accesskey             "w">
 
-<!ENTITY bounceSystemDockIcon.label       "Das Dock-Symbol animieren">
-<!ENTITY bounceSystemDockIcon.accesskey   "D">
+<!ENTITY changeDockIconOptions.label      "Einstellungen für Dock-Symbol ändern">
+<!ENTITY dockOptions.label                "Dock-Symbol-Einstellungen…">
+<!ENTITY dockOptions.accesskey            "D">
 
 <!ENTITY newMessagesArrive.label          "Wenn neue Nachrichten eintreffen">
 <!ENTITY playSound.label                  "Einen Klang abspielen">
-<!ENTITY playSound1.accesskey              "K">
+<!ENTITY playSound1.accesskey             "K">
+<!ENTITY playSoundMac.label               "Folgende Audiodatei abspielen:">
+<!ENTITY playSoundMac.accesskey           "F">
 <!ENTITY showAnimatedAlert.label          "Eine Benachrichtigung anzeigen">
 <!ENTITY showAnimatedAlert.accesskey      "B">
+<!ENTITY notificationAlertSettings2.label "Benachrichtigungen und Standardton können in der Mitteilungszentrale der Systemeinstellungen deaktiviert werden.">
 <!ENTITY customizeMailAlert.label         "Anpassen…">
 <!ENTITY customizeMailAlert.accesskey     "A">
 
-<!ENTITY soundNotification1.caption       "Ton">
+<!ENTITY showTrayIcon.label               "Im Infobereich anzeigen">
+<!ENTITY showTrayIcon.accesskey           "n">
+
 <!ENTITY play.label                       "Probe hören">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "Systemklang für neue Nachrichten">
-<!ENTITY systemsoundMac.label             "System-Warnton">
-<!ENTITY systemsoundMac.accesskey         "S">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Benutzerdefinierter Klang">
 <!ENTITY customsound.accesskey            "e">
 <!ENTITY browse.label                     "Durchsuchen…">
 <!ENTITY browse.accesskey                 "u">
 
-<!-- message list font size -->
+<!ENTITY defaultSearchEngine.label        "Standardsuchmaschine">
 
-<!ENTITY pbChromeFontSizeSmall.label      "Klein">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeLarge.label      "Groß">
-<!ENTITY pbChromeFontSize.label           "Nachrichtenliste und -Ordner Schriftgröße:">
-<!ENTITY pbChromeFontSize.accesskey       "N">
+<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
 
+<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
 
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY enableNotificationCenter.label   "Benachrichtigungszentrum verwenden">
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY useRetina.label				  "Retina-Display">
-
-<!ENTITY showProfileManager.label   "Zeige Profilmanager beim Start">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY storeLocation.label              "Speichere Themen, Signaturen, Antworten und Adressbücher auf:">
+<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
