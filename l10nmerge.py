@@ -12,7 +12,7 @@ def loadini(strings, src, file):
     raise Exception("Unexpected characters %s in INI file %s" % (src, file))
 
 def mergeini(strings, src):
-  return re.sub(r'^\s*(\w+)\s*=.*', lambda match: strings[match.group(1)], src, 0, re.MULTILINE)
+  return re.sub(r'^\s*(\S+?)\s*=.*', lambda match: strings[match.group(1)], src, 0, re.MULTILINE)
 
 def loaddtd(strings, src, file):
   for match in re.finditer(r'<!ENTITY\s+(\S*)\s+".*?">', src, re.DOTALL):

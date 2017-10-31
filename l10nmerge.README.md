@@ -16,8 +16,8 @@ If you want to then push the resulting output, the easiest approach is as follow
    `--output` argument
 
 Algorithm used by the script:
-1. Iterate over all languages. For each:
-2. Iterate over all strings in Postbox 7. For each:
+1. Iterate over all strings in Postbox 7. For each:
+2. Iterate over all languages. For each:
 3. If you find a corresponding string in Postbox 5 translations, use that.
 4. Else, if you find a corresponding string in Thunderbird 52 translations, use that.
 5. Else, use the Postbox 7 string in English.
