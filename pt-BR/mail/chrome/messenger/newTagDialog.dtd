@@ -4,5 +4,5 @@
 
 <!-- New Tag Dialog -->
 <!ENTITY newTagDialog1.title     "New Topic">
-<!ENTITY name.label              "Nome da etiqueta:">
+<!ENTITY name.label              "Nome da tag:">
 <!ENTITY name.accesskey          "N">

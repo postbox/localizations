@@ -1,51 +1,50 @@
 
-<!ENTITY copyrightText          "&#169;2007-2015 Postbox, Inc. and Contributors. All Rights Reserved. Postbox
-                                 is developed and maintained by Postbox, Inc.">
+<!ENTITY copyrightText          "&#169;2007-2014 Postbox, Inc. und Mitwirkende. Alle Rechte vorbehalten. Postbox wird entwickelt und betrieben von Postbox, Inc.">
 
 
 <!ENTITY aboutDialog.title          "Über &brandFullName;">
 
-<!ENTITY productDescription.label    "Hand-crafted, and made with love, in San Francisco, California.">
+<!ENTITY productDescription.label    "Von Hand und mit Liebe gemacht in San Francisco, Kalifornien.">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Informationen zur Lizenzierung">
+<!ENTITY bottomLinks.license        "Lizenz-Informationen">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Datenschutzbestimmungen">
+<!ENTITY bottomLinks.privacy        "Datenschutz">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Nach Updates suchen…">
+<!ENTITY update.checkingForUpdates  "Auf Updates überprüfen">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.checkingAddonCompat "Add-on Kompatiblität überprüfen">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; ist aktuell">
+<!ENTITY update.noUpdatesFound      "&brandShortName; ist auf dem neusten Stand">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Updates von Ihrem System-Administrator deaktiviert">
+<!ENTITY update.adminDisabled       "Updates sind durch den Systemadministrator Ihres Systems ausgeschaltet">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Update fehlgeschlagen. ">
-<!ENTITY update.failed.linkText     "Laden Sie die neueste Version herunter">
+<!ENTITY update.failed.start        "Update fehlgeschlagen.">
+<!ENTITY update.failed.linkText     "Neueste Version herunterladen">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Die ">
-<!ENTITY update.manual.end          " herunterladen">
+<!ENTITY update.manual.start        "Updates verfügbar auf ">
+<!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Update wird heruntergeladen — ">
+<!ENTITY update.downloading.start   "Lade Update herunter — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY cmdCloseMac.commandKey "w">
 
-<!ENTITY pb.safeMode.label "Running in Safe Mode">
+<!ENTITY pb.safeMode.label "Wird im abgesicherten Modus betrieben">

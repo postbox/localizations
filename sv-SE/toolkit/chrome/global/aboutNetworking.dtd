@@ -30,7 +30,7 @@
 <!ENTITY aboutNetworking.bytesSent             "Skickade byte">
 <!ENTITY aboutNetworking.bytesReceived         "Mottagna byte">
 <!ENTITY aboutNetworking.logging               "Loggning">
-<!ENTITY aboutNetworking.logTutorial           "Se <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP-loggning</a> för instruktioner om hur du använder detta verktyg.">
+<!ENTITY aboutNetworking.logTutorial           "Se <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> for instructions on how to use this tool.">
 <!ENTITY aboutNetworking.currentLogFile        "Aktuell loggfil:">
 <!ENTITY aboutNetworking.currentLogModules     "Aktuella loggmoduler:">
 <!ENTITY aboutNetworking.setLogFile            "Ange loggfil">

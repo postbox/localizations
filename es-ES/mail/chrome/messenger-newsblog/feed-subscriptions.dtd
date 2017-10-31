@@ -27,17 +27,17 @@
 <!ENTITY autotagUsePrefix.accesskey "P">
 <!ENTITY autoTagPrefix.placeholder "Introduzca un prefijo de etiqueta">
 
-<!ENTITY button.addFeed.label "Añadir">
-<!ENTITY button.addFeed.accesskey "A">
+<!ENTITY button.addFeed.label       "Añadir">
+<!ENTITY button.addFeed.accesskey   "A">
 <!ENTITY button.updateFeed.label "Actualizar">
 <!ENTITY button.updateFeed.accesskey "c">
 <!ENTITY button.removeFeed.label "Eliminar">
-<!ENTITY button.removeFeed.accesskey "R">
+<!ENTITY button.removeFeed.accesskey   "r">
 <!ENTITY button.importOPML.label "Importar">
-<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "Exportar">
-<!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY button.exportOPML.accesskey   "x">
 <!ENTITY button.exportOPML.tooltip "Exportar canales con la estructura de canales; ctrl clic o ctrl enter para exportar los canales como una lista">
 
-<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close.commandKey             "w">
 <!ENTITY button.close.label "Cerrar">

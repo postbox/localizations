@@ -8,6 +8,6 @@
 <!ENTITY id.heading                 "Identifiant du rapport">
 <!ENTITY dateCrashed.heading        "Date du plantage">
 <!ENTITY dateSubmitted.heading      "Date d’envoi">
-<!ENTITY noReports.label            "Aucun rapport de plantage n’a été envoyé.">
-<!ENTITY noConfig.label             "Cette application n’est pas configurée pour afficher les rapports de plantage. Vous devez définir la variable <code>breakpad.reportURL</code>.">
+<!ENTITY noReports.label            "Aucun rapport de plantage n'a été envoyé.">
+<!ENTITY noConfig.label             "Cette application n'est pas configurée pour afficher les rapports de plantage. Vous devez définir la variable <code>breakpad.reportURL</code>.">
 <!ENTITY clearAllReports.label      "Supprimer tous les rapports">

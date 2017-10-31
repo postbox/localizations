@@ -7,5 +7,5 @@
 <!ENTITY mailViewSetupTitle.label "Berichtenweergave-instellingen">
 <!ENTITY mailViewHeading.label "Berichtenweergavenaam:">
 <!ENTITY mailViewHeading.accesskey "B">
-<!ENTITY searchTermCaption.label "Als deze weergave is geselecteerd, alleen berichten weergeven die:">
+<!ENTITY searchTermCaption.label "Als deze weergave is geselecteerd, alleen berichten weergeven:">
 

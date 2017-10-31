@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY doNotDownloadPop3Movemail.label "Om schijfruimte te besparen, niet downloaden:">
-<!ENTITY offlineNewFolder.label "When I create new folders, select them for offline use">
-<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY offlineNewFolder.label "Als ik nieuwe mappen aanmaak, deze instellen voor offline gebruik">
+<!ENTITY offlineNewFolder.accesskey "A">
 <!ENTITY allFoldersOffline.label "Berichten voor deze account op deze computer bewaren">
 <!ENTITY allFoldersOffline.accesskey "c">
 <!ENTITY offlineNotDownload.label "Berichten groter dan">
@@ -13,7 +13,7 @@
 <!ENTITY autosyncNotDownload.accesskey "B">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "dagen">
-<!ENTITY message.label "">
+<!ENTITY message.label "berichten">
 <!ENTITY nntpNotDownloadRead.label "Gelezen berichten">
 <!ENTITY nntpNotDownloadRead.accesskey "G">
 <!ENTITY nntpDownloadMsg.label "Berichten ouder dan">
@@ -35,19 +35,19 @@
 <!ENTITY offlineSelectNntp.accesskey "s">
 <!ENTITY offlineImapAdvancedOffline.label "Geavanceerd…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "G">
-<!ENTITY offlineGroupTitle.label "Offline">
+<!ENTITY offlineGroupTitle.label "Niet verbonden">
 <!ENTITY diskspaceGroupTitle.label "Schijfruimte">
-<!ENTITY ftiGroupTitle.label "Global Search">
-<!ENTITY fti.indexMsgBodies.label "Index message bodies">
-<!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Local directory:">
+<!ENTITY ftiGroupTitle.label "Globaal Zoeken">
+<!ENTITY fti.indexMsgBodies.label "Indexeer berichttext">
+<!ENTITY newsrcFilePath.label "newsrc-bestand:">
+<!ENTITY newsrcFilePath.accesskey "n">
+<!ENTITY localPath.label "Lokale map:">
 <!ENTITY localPath.accesskey "L">
-<!ENTITY localFolderPicker.label "Select Local Directory">
-<!ENTITY browseFolder.label "Browse...">
+<!ENTITY localFolderPicker.label "Lokale map selecteren">
+<!ENTITY browseFolder.label "Bladeren…">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Select newsrc File">
-<!ENTITY browseNewsrc.label "Browse...">
+<!ENTITY newsrcPicker.label "newsrc-bestand selecteren">
+<!ENTITY browseNewsrc.label "Bladeren…">
 <!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY storeType.label "Message Store Type:">

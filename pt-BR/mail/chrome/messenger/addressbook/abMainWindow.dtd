@@ -16,7 +16,7 @@
 <!ENTITY newContact.key                                 "n">
 <!ENTITY newListCmd.label                               "Lista de e-mails…">
 <!ENTITY newListCmd.accesskey                           "L">
-<!ENTITY newAddressBookCmd.label                        "Catálogo de endereços…">
+<!ENTITY newAddressBookCmd.label                        "Catálogo…">
 <!ENTITY newAddressBookCmd.accesskey                    "a">
 <!ENTITY newLDAPDirectoryCmd.label                      "Diretório LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
@@ -24,7 +24,7 @@
 <!ENTITY newMessageCmd.key                              "m">
 <!ENTITY newMessageCmd.accesskey                        "M">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Usar o catálogo de endereços do Mac OS X">
+<!ENTITY osxAddressBook.label                           "Usar o catálogo de endereços do macOS">
 <!ENTITY osxAddressBook.accesskey                       "U">
 <!ENTITY closeCmd.label                                 "Fechar">
 <!ENTITY closeCmd.key                                   "w">
@@ -38,7 +38,7 @@
 <!ENTITY printContactCmd.label                          "Imprimir contato…">
 <!ENTITY printContactCmd.accesskey                      "I">
 <!ENTITY printContactCmd.key                            "p">
-<!ENTITY printAddressBook.label                         "Imprimir catálogo de endereços…">
+<!ENTITY printAddressBook.label                         "Imprimir catálogo…">
 <!ENTITY printAddressBook.accesskey                     "a">
 
 <!-- Edit Menu -->
@@ -71,14 +71,14 @@
 <!ENTITY selectAllCmd.key                               "a">
 <!ENTITY searchAddressesCmd.key                         "F">
 <!ENTITY selectAllCmd.accesskey                         "S">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Inverter Nome/Sobrenome">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "I">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Trocar primeiro e último nome">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "T">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesMenu.label                           "Propriedades">
 <!ENTITY propertiesMenu.accesskey                       "i">
-<!ENTITY propertiesCmd.key                              "i">
+<!ENTITY propertiesCmd.key                              "I">
 <!ENTITY abPropertiesMenu.label                         "Propriedades do catálogo de endereços">
 <!ENTITY abPropertiesMenu.accesskey                     "i">
 <!ENTITY contactPropertiesMenu.label                    "Propriedades do contato">
@@ -87,7 +87,7 @@
 <!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label                                 "Ver">
+<!ENTITY viewMenu.label                                 "Exibir">
 <!ENTITY viewMenu.accesskey                             "x">
 <!ENTITY viewToolbarsMenu.label                         "Barras de ferramentas">
 <!ENTITY viewToolbarsMenu.accesskey                     "B">
@@ -122,7 +122,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Mensagens">
 <!ENTITY messengerCmd.accesskey                         "M">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Pesquisar endereços…">
+<!ENTITY searchAddressesCmd.label                       "Pesquisar catálogo…">
 <!ENTITY searchAddressesCmd.accesskey                   "e">
 <!ENTITY importCmd.label                                "Importar…">
 <!ENTITY importCmd.accesskey                            "I">
@@ -158,13 +158,13 @@ because displayed names don't have the comma in between. -->
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Criar um novo contato de catálogo de endereços">
-<!ENTITY newlistButton.tooltip                          "Criar uma nova lista">
+<!ENTITY newlistButton.tooltip                          "Criar nova lista">
 <!ENTITY editPropertiesButton.tooltip                   "Editar item selecionado">
 <!ENTITY editAbPropertiesButton.tooltip                 "Editar as propriedades do catálogo de endereços selecionado">
 <!ENTITY editContactPropertiesButton.tooltip            "Editar o contato selecionado">
 <!ENTITY editMailingListPropertiesButton.tooltip        "Editar a lista de discussão selecionada">
 <!ENTITY newmsgButton.tooltip                           "Nova mensagem">
-<!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de bate-papo">
+<!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou chat">
 <!ENTITY deleteButton2.tooltip                          "Excluir o item selecionado">
 
 <!-- Dir Tree header -->
@@ -175,7 +175,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.accesskey                    "z">
 <!ENTITY advancedButton.tooltip                         "Mais opções de pesquisa">
 <!ENTITY quickSearchCmd.key                             "K">
-<!ENTITY searchItem.title "Busca Rápida">
+<!ENTITY searchItem.title "Campo de pesquisa">
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Catálogo de endereços">
@@ -201,7 +201,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY PagerNumber.label                              "Pager">
 <!ENTITY PagerNumber.accesskey                          "P">
 <!ENTITY FaxNumber.label                                "Fax">
-<!ENTITY FaxNumber.accesskey                            "x">
+<!ENTITY FaxNumber.accesskey                            "F">
 <!ENTITY HomePhone.label                                "Telefone residencial">
 <!ENTITY HomePhone.accesskey                            "d">
 <!ENTITY WorkPhone.label                                "Telefone comercial">
@@ -226,14 +226,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY addresses.heading                              "Endereços">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Mapa">
-<!ENTITY mapIt.tooltip                                  "Exibir um mapa deste endereço web">
+<!ENTITY mapIt.tooltip                                  "Pesquisar um mapa deste endereço web">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label                               "">
+<!ENTITY statusText.label "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label                               "Janela">
-<!ENTITY minimizeWindow.label                           "Minimizar">
-<!ENTITY minimizeWindow.key                             "M">
-<!ENTITY bringAllToFront.label                          "Trazer todas para frente">
-<!ENTITY zoomWindow.label                               "Zoom">
+<!ENTITY windowMenu.label "Janela">
+<!ENTITY minimizeWindow.label "Minimizar">
+<!ENTITY minimizeWindow.key "M">
+<!ENTITY bringAllToFront.label "Trazer Todas para Frente">
+<!ENTITY zoomWindow.label "Ampliar/Reduzir">

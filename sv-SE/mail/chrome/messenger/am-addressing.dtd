@@ -4,22 +4,22 @@
 
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label                     "Skriva &amp; adressera">
-<!ENTITY addressingGroupTitle.label           "Adressera">
-<!ENTITY addressingText.label                 "För att söka efter adresser:">
+<!ENTITY addressing.label          "Skriva &amp; adressera">
+<!ENTITY addressingGroupTitle.label "Adressera">
+<!ENTITY addressingText.label      "För att söka efter adresser:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label                      "Använd mina globala LDAP-serverinställningar för detta konto">
-<!ENTITY useGlobal.accesskey                  "A">
-<!ENTITY editDirectories.label                "Redigera kataloger…">
-<!ENTITY editDirectories.accesskey            "R">
+<!ENTITY useGlobal.label           "Använd mina globala LDAP-serverinställningar för detta konto">
+<!ENTITY useGlobal.accesskey       "A">
+<!ENTITY editDirectories.label     "Redigera kataloger…">
+<!ENTITY editDirectories.accesskey "R">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label                    "Använd en annan LDAP-server:">
-<!ENTITY directories.accesskey                "e">
+<!ENTITY directories.label         "Använd en annan LDAP-server:">
+<!ENTITY directories.accesskey     "e">
 <!ENTITY directoriesNone.label                "Ingen">
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label          "Skriva">
+<!ENTITY compositionGroupTitle.label "Skriva">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Skriv meddelanden i HTML-format">
 <!ENTITY useHtml.accesskey                    "S">
@@ -35,13 +35,13 @@
 <!ENTITY place.accesskey                      "o">
 <!ENTITY belowText.label                      "efter citerad text (rekommenderas)">
 <!ENTITY aboveText.label                      "efter mitt svar (före citerad text)">
-<!ENTITY includeSigOnReply.label              "Använd signatur för svar">
-<!ENTITY includeSigOnReply.accesskey          "n">
-<!ENTITY includeSigOnForward.label            "Använd signatur för vidarebefordring">
-<!ENTITY includeSigOnForward.accesskey        "v">
-<!ENTITY markNotInWhitelist.label             "Mark addresses not ending with:">
+<!ENTITY includeSigOnReply.label              "Inkludera signatur vid svar">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Inkludera signatur vid vidarebefordringar">
+<!ENTITY includeSigOnForward.accesskey        "w">
+<!ENTITY markNotInWhitelist.label             "Markera adresser som inte slutar med:">
 <!ENTITY markNotInWhitelist.accesskey         "m">
-<!ENTITY markInTrustedList.label              "Mark addresses when sending to:">
+<!ENTITY markInTrustedList.label              "Markera adresser när utskick sker till:">
 <!ENTITY markInTrustedList.accesskey          "d">
 
 <!ENTITY globalComposingPrefs.label           "Globala skrivinställningar…">
@@ -51,8 +51,8 @@
 <!ENTITY globalAddressingPrefs.accesskey      "a">
 
 <!-- Postbox Summary Mode -->
-<!ENTITY pbSummarizeOnReply.label             "By">
+<!ENTITY pbSummarizeOnReply.label             "Genom">
 <!ENTITY pbSummarizeOnReply.accesskey         "y">
-<!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
-<!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
-<!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">
+<!ENTITY pbSummarizeOnReply.normal.label      "citera valt meddelande">
+<!ENTITY pbSummarizeOnReply.summarize.label   "sammanfatta hela samtalet">
+<!ENTITY pbSummarizeOnReply.lastused.label    "använd den senaste inställningen">

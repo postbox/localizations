@@ -21,8 +21,8 @@
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "Attach the signature from a file instead (text, HTML, or image):">
 <!ENTITY signatureFile.accesskey "t">
-<!ENTITY edit.label "Edit…">
-<!ENTITY choose.label "Choose…">
+<!ENTITY edit.label "Edit...">
+<!ENTITY choose.label "Choose...">
 <!ENTITY choose.accesskey "C">
 <!ENTITY editVCard1.label "Edit...">
 <!ENTITY editVCard1.accesskey "d">
@@ -30,7 +30,7 @@
 <!ENTITY attachVCard.label "Attach my vCard to messages">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY manageIdentities.label "Manage Identities…">
+<!ENTITY manageIdentities.label "Manage Identities...">
 <!ENTITY manageIdentities.accesskey "M">
 
 <!ENTITY smtpName1.label "Outgoing Server:">

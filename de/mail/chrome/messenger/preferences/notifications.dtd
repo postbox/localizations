@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY notificationsDialog2.title       "Benachrichtigungen">
-<!ENTITY window.width                     "35em">
+<!ENTITY window.width                     "31em">
 
 <!ENTITY alertCustomization.intro         "In den Benachrichtigungen Folgendes anzeigen:">
 <!ENTITY previewText.label                "Textausschnitt">

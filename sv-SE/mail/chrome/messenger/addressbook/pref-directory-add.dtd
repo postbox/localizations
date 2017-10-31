@@ -13,7 +13,7 @@
 <!ENTITY directorySecure.label             "Använd säker förbindelse (SSL)">
 <!ENTITY directorySecure.accesskey         "A">
 <!ENTITY directoryLogin.label              "Bind DN">
-<!ENTITY directoryLogin.accesskey          "D">
+<!ENTITY directoryLogin.accesskey          "d">
 <!ENTITY General.tab                       "Allmänt">
 <!ENTITY Offline.tab                       "Nedkopplad">
 <!ENTITY Advanced.tab                      "Avancerat">

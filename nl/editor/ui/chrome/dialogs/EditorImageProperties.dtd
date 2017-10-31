@@ -16,10 +16,10 @@
 <!ENTITY locationEditField.shortenedDataURI "Gegevens-URI is ingekort (Kopiëren plaatst de volledige URI op het klembord)">
 <!ENTITY title.label "Tooltip:">
 <!ENTITY title.accessKey "T">
-<!ENTITY title.tooltip "Het HTML-attribuut ‘title’ dat als tooltip verschijnt">
+<!ENTITY title.tooltip "Het HTML-attribuut ‘title’ dat verschijnt als tooltip">
 <!ENTITY altText.label "Alternatieve tekst:">
 <!ENTITY altText.accessKey "e">
-<!ENTITY altTextEditField.tooltip "Typ tekst die op de plaats van de afbeelding moet worden weergegeven">
+<!ENTITY altTextEditField.tooltip "Typ tekst die moet worden weergegeven op de plaats van de afbeelding">
 <!ENTITY noAltText.label "Geen alternatieve tekst gebruiken">
 <!ENTITY noAltText.accessKey "G">
 

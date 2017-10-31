@@ -15,7 +15,7 @@
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "e">
+<!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans Serif:">
 <!ENTITY  sans-serif.accesskey                    "a">
 <!ENTITY  monospace.label                         "Feste Breite:">
@@ -39,13 +39,13 @@
 <!ENTITY  font.langGroup.tamil                    "Tamilisch">
 <!ENTITY  font.langGroup.armenian                 "Armenisch">
 <!ENTITY  font.langGroup.bengali                  "Bengalisch">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
+<!ENTITY  font.langGroup.canadian                 "Einheitliche Kanadische Silbenschrift">
 <!ENTITY  font.langGroup.ethiopic                 "Äthiopisch">
 <!ENTITY  font.langGroup.georgian                 "Georgisch">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
-<!ENTITY  font.langGroup.khmer                    "Khmer">
-<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.khmer                    "Kambodianisch">
+<!ENTITY  font.langGroup.malayalam                "Malajalam">
 <!ENTITY  font.langGroup.math                     "Mathematisch">
 <!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
@@ -53,21 +53,21 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetisch">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Mindestschriftgröße:">
+<!ENTITY minSize.label                            "Minimale Schriftgröße:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Keine">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+<!ENTITY  useDefaultFontSerif.label               "Serifenschrift">
+<!ENTITY  useDefaultFontSansSerif.label           "Serifenlose Schrift">
 
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Schriftartenkontrolle">
-<!ENTITY  useFixedWidthForPlainText.label         "Unproportionale Schriftart für Reintext-Nachrichten verwenden">
-<!ENTITY  fixedWidth.accesskey                    "U">
+<!ENTITY  useFixedWidthForPlainText.label         "Zeichensatz mit fester Breite für Nachrichten in Klartext benutzen">
+<!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Nachrichten das Verwenden eigener statt der oben gewählten Schriftarten erlauben">
 <!ENTITY  useDocumentFonts.accesskey              "N">
 
 <!-- Language settings -->
-<!ENTITY viewDefaultCharsetList1.label     "Character encoding:">
-<!ENTITY viewDefaultCharsetList1.accesskey  "C">
+<!ENTITY viewDefaultCharsetList1.label     "Zeichenkodierung:">
+<!ENTITY viewDefaultCharsetList1.accesskey  "c">

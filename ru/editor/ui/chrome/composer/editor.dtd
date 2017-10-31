@@ -27,7 +27,7 @@
 <!ENTITY compositionToolbarCmd.accesskey "к">
 <!ENTITY formattingToolbarCmd.label "Панель форматирования">
 <!ENTITY formattingToolbarCmd.accesskey "ф">
-<!ENTITY editmodeToolbarCmd.label "Панель режимов редактирования">
+<!ENTITY editmodeToolbarCmd.label "Панель режима редактирования">
 <!ENTITY editmodeToolbarCmd.accesskey "р">
 
 <!-- Format menu items -->

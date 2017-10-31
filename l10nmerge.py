@@ -3,27 +3,38 @@ import os
 import re
 
 def loadini(strings, src, file):
-  for match in re.finditer(r'^\s*(\S+?)\s*=.*', src, re.MULTILINE):
+  if src.startswith("\xef\xbb\xbf"):
+    src = src[3:]
+  for match in re.finditer(r'^ *(\S+?) *=.*', src, re.MULTILINE):
     strings[match.group(1)] = match.group()
   src = re.sub(r'^.*\S.*=.*', '', src, 0, re.MULTILINE)
-  src = re.sub(r'^\s*#.*', '', src, 0, re.MULTILINE)
-  src = re.sub(r'^\s*;.*', '', src, 0, re.MULTILINE) # Not a true ini comment...
+  src = re.sub(r'^\[.*]$', '', src, 0, re.MULTILINE)
+  src = re.sub(r'^ *#.*', '', src, 0, re.MULTILINE)
+  src = re.sub(r'^ *;.*', '', src, 0, re.MULTILINE)
   if re.match(r'\S', src):
     raise Exception("Unexpected characters %s in INI file %s" % (src, file))
 
 def mergeini(strings, src):
-  return re.sub(r'^\s*(\S+?)\s*=.*', lambda match: strings[match.group(1)], src, 0, re.MULTILINE)
+  if src.startswith("\xef\xbb\xbf"):
+    return src[:3] + mergeini(strings, src[3:])
+  return re.sub(r'^ *(\S+?) *=.*', lambda match: strings[match.group(1)], src, 0, re.MULTILINE)
 
 def loaddtd(strings, src, file):
-  for match in re.finditer(r'<!ENTITY\s+(\S*)\s+".*?">', src, re.DOTALL):
+  if src.startswith("\xef\xbb\xbf"):
+    src = src[3:]
+  for match in re.finditer(r'''<!ENTITY\s+(\S*)\s+["'].*?["']>''', src, re.DOTALL):
     strings[match.group(1)] = match.group()
-  src = re.sub(r'<!ENTITY\s+(\S*)\s+".*?">', '', src, 0, re.DOTALL)
+  src = re.sub(r'''<!ENTITY\s+(\S*)\s+["'].*?["']>''', '', src, 0, re.DOTALL)
+  src = re.sub(r'<!ENTITY\s+%\s+(\S*)\s+SYSTEM\s+".*?">', '', src, 0, re.DOTALL)
+  src = re.sub(r'%\S*;', '', src, 0, re.DOTALL)
   src = re.sub(r'<!--.*?-->', '', src, 0, re.DOTALL)
   if re.match(r'\S', src):
     raise Exception("Unexpected characters %s in DTD file %s" % (src, file))
 
 def mergedtd(strings, src):
-  return re.sub(r'<!ENTITY\s+(\S*)\s+".*?">', lambda match: strings[match.group(1)], src, 0, re.DOTALL)
+  if src.startswith("\xef\xbb\xbf"):
+    return src[:3] + mergedtd(strings, src[3:])
+  return re.sub(r'''<!ENTITY +(\S*) +["'].*?["']>''', lambda match: strings[match.group(1)], src, 0, re.DOTALL)
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-s", "--srcdir", required=True, help="Postbox merge result");
@@ -68,9 +79,9 @@ for dir in subdirs:
           if os.path.exists(os.path.join(tb52, locale, dir, relpath)):
             with open(os.path.join(tb52, locale, dir, relpath)) as handle:
               loadini(strings, handle.read(), os.path.join(tb52, locale, dir, relpath))
-          if os.path.exists(os.path.join(postbox52, locale, dir, relpath)):
-            with open(os.path.join(postbox52, locale, dir, relpath)) as handle:
-              loadini(strings, handle.read(), os.path.join(postbox52, locale, dir, relpath))
+          if os.path.exists(os.path.join(postbox2, locale, dir, relpath)):
+            with open(os.path.join(postbox2, locale, dir, relpath)) as handle:
+              loadini(strings, handle.read(), os.path.join(postbox2, locale, dir, relpath))
           data = mergeini(strings, src)
         elif file.endswith(".dtd"):
           strings = {}
@@ -78,9 +89,9 @@ for dir in subdirs:
           if os.path.exists(os.path.join(tb52, locale, dir, relpath)):
             with open(os.path.join(tb52, locale, dir, relpath)) as handle:
               loaddtd(strings, handle.read(), os.path.join(tb52, locale, dir, relpath))
-          if os.path.exists(os.path.join(postbox52, locale, dir, relpath)):
-            with open(os.path.join(postbox52, locale, dir, relpath)) as handle:
-              loaddtd(strings, handle.read(), os.path.join(postbox52, locale, dir, relpath))
+          if os.path.exists(os.path.join(postbox2, locale, dir, relpath)):
+            with open(os.path.join(postbox2, locale, dir, relpath)) as handle:
+              loaddtd(strings, handle.read(), os.path.join(postbox2, locale, dir, relpath))
           data = mergedtd(strings, src)
         else:
           raise Exception("Unmergable file type: %s" % os.path.join(dir, file))

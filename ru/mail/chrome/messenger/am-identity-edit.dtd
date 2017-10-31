@@ -6,11 +6,11 @@
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
 <!ENTITY identityDialog.style "min-width: 85ch;">
-<!ENTITY identityListDesc.label "Настроить параметры данного адреса электронной почты:">
+<!ENTITY identityListDesc.label "Настройте параметры этого удостоверения:">
 
-<!ENTITY settingsTab.label "Настройки">
+<!ENTITY settingsTab.label       "Параметры">
 <!ENTITY copiesFoldersTab.label "Копии и папки">
-<!ENTITY addressingTab.label "Составление и адресация">
+<!ENTITY addressingTab.label    "Создание">
 
 <!ENTITY publicData.label "Публичные данные">
 <!ENTITY privateData.label "Приватные данные">

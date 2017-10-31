@@ -5,26 +5,26 @@
 <!ENTITY directoryName.label               "Name:">
 <!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "Serveradresse:">
-<!ENTITY directoryHostname.accesskey       "A">
+<!ENTITY directoryHostname.accesskey       "a">
 <!ENTITY directoryBaseDN.label             "Basis-DN:">
-<!ENTITY directoryBaseDN.accesskey         "b">
+<!ENTITY directoryBaseDN.accesskey         "B">
 <!ENTITY findButton.label                  "Suchen">
 <!ENTITY findButton.accesskey              "S">
 <!ENTITY directorySecure.label             "Verschlüsselte Verbindung (SSL) verwenden">
-<!ENTITY directorySecure.accesskey         "L">
+<!ENTITY directorySecure.accesskey         "l">
 <!ENTITY directoryLogin.label              "Bind-DN:">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Allgemein">
 <!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Erweitert">
 <!ENTITY portNumber.label                  "Port-Nummer:">
-<!ENTITY portNumber.accesskey              "p">
+<!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Suchfilter:">
 <!ENTITY searchFilter.accesskey            "f">
 <!ENTITY scope.label                       "Umfang:">
 <!ENTITY scope.accesskey                   "U">
 <!ENTITY scopeOneLevel.label               "Nur eine Ebene">
-<!ENTITY scopeOneLevel.accesskey           "E">
+<!ENTITY scopeOneLevel.accesskey           "e">
 <!ENTITY scopeSubtree.label                "Unterverzeichnisse">
 <!ENTITY scopeSubtree.accesskey            "U">
 <!ENTITY return.label                      "Nicht mehr als">

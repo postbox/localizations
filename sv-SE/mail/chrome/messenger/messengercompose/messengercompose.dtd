@@ -13,10 +13,10 @@
 <!ENTITY newMessage.label "Nytt meddelande">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
+<!ENTITY newMessage.accesskey "m">
 <!ENTITY newContact.label "Ny adressbokskontakt…">
 <!ENTITY newContact.accesskey "A">
-<!ENTITY emptyAttachmentBucket.label "Add files...">
+<!ENTITY emptyAttachmentBucket.label "Lägg till filer...">
 <!ENTITY attachMenu.label "Bifoga">
 <!ENTITY attachMenu.accesskey "f">
 <!ENTITY attachFileCmd.label "Bifoga fil…">
@@ -25,7 +25,7 @@
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Bifoga webbsida…">
-<!ENTITY attachPageCmd.accesskey "W">
+<!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Visitkort (vCard)">
 <!ENTITY attachVCardCmd.accesskey "V">
@@ -33,10 +33,10 @@
 <!ENTITY remindLater.accesskey "P">
 <!ENTITY closeCmd.label "Stäng">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "ä">
+<!ENTITY closeCmd.accesskey "S">
 <!ENTITY saveCmd.label "Spara">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Spara som">
 <!ENTITY saveAsCmd.accesskey "m">
 <!ENTITY saveAsFileCmd.label "Fil…">
@@ -52,8 +52,8 @@
 <!ENTITY sendLaterCmd.label "Skicka senare">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "r">
-<!ENTITY sendAndArchive.label "Send and Archive">
-<!ENTITY sendLaterAndArchive.label "Send Later and Archive">
+<!ENTITY sendAndArchive.label "Skicka och arkivera">
+<!ENTITY sendLaterAndArchive.label "Skicka senare och arkivera">
 <!ENTITY printSetupCmd.label "Utskriftsformat…">
 <!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printPreviewCmd.label "Förhandsgranska">
@@ -67,7 +67,7 @@
 <!ENTITY editMenu.accesskey "R">
 <!ENTITY undoCmd.label "Ångra">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "Å">
+<!ENTITY undoCmd.accesskey "n">
 <!ENTITY redoCmd.label "Gör om">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "G">
@@ -103,7 +103,7 @@
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Sök tidigare">
-<!ENTITY findPrevCmd.accesskey "d">
+<!ENTITY findPrevCmd.accesskey "r">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
@@ -116,24 +116,24 @@
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showFormattingBarCmd.label "Formateringsverktyg">
 <!ENTITY showFormattingBarCmd.accesskey "F">
-<!ENTITY pbShowCcField.label "Cc Field">
+<!ENTITY pbShowCcField.label "Cc Adressfält">
 <!ENTITY pbShowCcField.accesskey "C">
 <!ENTITY pbShowCcField.key "c">
-<!ENTITY pbShowBccField.label "Bcc Field">
+<!ENTITY pbShowBccField.label "Bcc Adressfält">
 <!ENTITY pbShowBccField.accesskey "B">
 <!ENTITY pbShowBccField.key "b">
-<!ENTITY pbShowReplyField.label "Reply-To Field">
+<!ENTITY pbShowReplyField.label "Svara-till Adressfält">
 <!ENTITY pbShowReplyField.accesskey "R">
 <!ENTITY pbShowReplyField.key "r">
-<!ENTITY pbShowNewsgroupsField.label "Newsgroups Field">
+<!ENTITY pbShowNewsgroupsField.label "Adressfält för nyhetsgrupp">
 <!ENTITY pbShowNewsgroupsField.accesskey "N"> 
-<!ENTITY pbShowFollowupField.label "Followup-To Field">
+<!ENTITY pbShowFollowupField.label "Adressfält för uppföljning-till">
 <!ENTITY pbShowFollowupField.accesskey "o">
-<!ENTITY pbShowCompositionGoalsToolbarCmd.label "Goal Status Bar">
+<!ENTITY pbShowCompositionGoalsToolbarCmd.label "Målstatusfält">
 <!ENTITY pbShowCompositionGoalsToolbarCmd.accesskey "G">
-<!ENTITY pbSourceView.label "Code View">
+<!ENTITY pbSourceView.label "Kodvy">
 <!ENTITY pbSourceView.accesskey "d">
-<!ENTITY pbSourceViewThemes.label "Theme">
+<!ENTITY pbSourceViewThemes.label "Tema">
 <!ENTITY pbSourceViewThemes.accesskey "T">
 
 <!-- Format Menu -->
@@ -162,8 +162,8 @@
 <!ENTITY dsnMenu.accesskey "L">
 <!ENTITY deliveryFormatMenu.label "Leveransformat">
 <!ENTITY deliveryFormatMenu.accesskey "f">
-<!ENTITY autoFormatCmd.label "Auto-avkänning">
-<!ENTITY autoFormatCmd.accesskey "A">
+<!ENTITY autoFormatCmd.label "Känn igen">
+<!ENTITY autoFormatCmd.accesskey "K">
 <!ENTITY plainTextFormatCmd.label "Endast vanlig text">
 <!ENTITY plainTextFormatCmd.accesskey "v">
 <!ENTITY htmlFormatCmd.label "Endast HTML">
@@ -178,11 +178,11 @@
 <!ENTITY lowestPriorityCmd.label "Lägsta">
 <!ENTITY lowestPriorityCmd.accesskey "L">
 <!ENTITY lowPriorityCmd.label "Låg">
-<!ENTITY lowPriorityCmd.accesskey "å">
+<!ENTITY lowPriorityCmd.accesskey "g">
 <!ENTITY normalPriorityCmd.label "Normal">
 <!ENTITY normalPriorityCmd.accesskey "N">
 <!ENTITY highPriorityCmd.label "Hög">
-<!ENTITY highPriorityCmd.accesskey "ö">
+<!ENTITY highPriorityCmd.accesskey "H">
 <!ENTITY highestPriorityCmd.label "Högsta">
 <!ENTITY highestPriorityCmd.accesskey "t">
 <!ENTITY fileCarbonCopyCmd.label "Skicka en kopia till">
@@ -200,8 +200,8 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY preferencesCmd2.label "Alternativ">
 <!ENTITY preferencesCmd2.accesskey "e">
-<!ENTITY preferencesCmdUnix.label "Inställningar">
-<!ENTITY preferencesCmdUnix.accesskey "I">
+<!ENTITY preferencesCmdUnix.label       "Inställningar">
+<!ENTITY preferencesCmdUnix.accesskey   "I">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -218,13 +218,13 @@
 <!ENTITY spellingButton.label "Stavning">
 <!ENTITY saveButton.label "Spara">
 <!ENTITY printButton.label "Skriv ut">
-<!ENTITY tagButton.label "Assign Topic">
+<!ENTITY tagButton.label "Tilldela ämne">
 <!ENTITY tagButton.key "T">
-<!ENTITY signatureButton.label "Signatures">
-<!ENTITY responseButton.label "Responses">
-<!ENTITY compose.sidebar.label "Sidebar">
-<!ENTITY compositionGoals.label "Goals">
-<!ENTITY formattingToolbar.label "Toolbar">
+<!ENTITY signatureButton.label "Signaturer">
+<!ENTITY responseButton.label "Svar">
+<!ENTITY compose.sidebar.label "Sidofält">
+<!ENTITY compositionGoals.label "Mål">
+<!ENTITY formattingToolbar.label "Verktygsfält">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Skickar meddelandet nu">
@@ -239,17 +239,17 @@
 <!ENTITY copyButton.tooltip             "Kopiera">
 <!ENTITY pasteButton.tooltip            "Klistra in">
 <!ENTITY printButton.tooltip "Skriv ut det här meddelandet">
-<!ENTITY tagButton.tooltip "Add topic(s) to message">
-<!ENTITY signatureButton.tooltip "Insert a signature">
-<!ENTITY responseButton.tooltip "Insert a response">
-<!ENTITY compose.sidebar.tooltip "Open the sidebar">
-<!ENTITY compositionGoals.tooltip "Show or hide the Composition Goals status bar">
-<!ENTITY formattingToolbar.tooltip "Show or hide the toolbar">
+<!ENTITY tagButton.tooltip "Lägg till ämne(n) till meddelandet">
+<!ENTITY signatureButton.tooltip "Infoga signatur">
+<!ENTITY responseButton.tooltip "Sätt in ett svar">
+<!ENTITY compose.sidebar.tooltip "öppna sidofältet">
+<!ENTITY compositionGoals.tooltip "Visa eller dölj målstatusfältet för sammansättningen">
+<!ENTITY formattingToolbar.tooltip "Visa eller dölj verktygsfältet">
 
 <!-- Headers -->
-<!ENTITY fromHeader.label "From:">
+<!ENTITY fromHeader.label "Från">
 <!ENTITY fromHeader.accesskey "r">
-<!ENTITY subjectHeader.label "Subject:">
+<!ENTITY subjectHeader.label "Ämne">
 <!ENTITY subjectHeader.accesskey "S">
 <!ENTITY toAddr.label "Till:">
 <!ENTITY ccAddr.label "Kopia:">
@@ -257,10 +257,10 @@
 <!ENTITY replyAddr.label "Svar-till:">
 <!ENTITY newsgroupsAddr.label "Diskussionsgrupp:">
 <!ENTITY followupAddr.label "Uppföljning-till:">
-<!ENTITY tagHeader.label "Topics:">
+<!ENTITY tagHeader.label "Ämnen">
 <!ENTITY tagHeader.accesskey "o">
-<!ENTITY tagMessageButton.tooltip     "Assign topic(s) to the message.">
-<!ENTITY compose.addresses.label "Addresses">
+<!ENTITY tagMessageButton.tooltip     "Tilldela ämne(n) till meddelandet.">
+<!ENTITY compose.addresses.label "Adresser">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Infoga en smilis">
@@ -282,17 +282,17 @@
 <!ENTITY smiley16Cmd.label "Tiger">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellAddToDictionary.label                  "Add to Dictionary">
+<!ENTITY spellAddToDictionary.label                  "lägg till i ordlista">
 <!ENTITY spellAddToDictionary.accesskey              "o">
-<!ENTITY spellNoSuggestions.label                    "(No Spelling Suggestions)">
-<!ENTITY spellCheckEnable.label                      "Check Spelling">
+<!ENTITY spellNoSuggestions.label                    "(Inga stavningsförslag)">
+<!ENTITY spellCheckEnable.label                      "Kolla stavning">
 <!ENTITY spellCheckEnable.accesskey                  "S">
-<!ENTITY spellDictionaries.label                     "Languages">
-<!ENTITY spellDictionaries.accesskey                 "l">
+<!ENTITY spellDictionaries.label                     "Språk">
+<!ENTITY spellDictionaries.accesskey                 "L">
 <!ENTITY spellCheckIgnoreWord.label "Ignorera ord">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY undo.label "Ångra">
-<!ENTITY undo.accesskey "Å">
+<!ENTITY undo.accesskey "n">
 <!ENTITY cut.label "Klipp ut">
 <!ENTITY cut.accesskey "K">
 <!ENTITY copy.label "Kopiera">
@@ -303,8 +303,8 @@
 <!ENTITY pasteQuote.accesskey "c">
 
 <!ENTITY openAttachment.label "Öppna">
-<!ENTITY openAttachment.accesskey "Ö">
-<!ENTITY quickLookAttachment.label "Quick Look">
+<!ENTITY openAttachment.accesskey "p">
+<!ENTITY quickLookAttachment.label "Snabbtitt">
 <!ENTITY quickLookAttachment.accesskey "Q">
 <!ENTITY delete.label "Ta bort">
 <!ENTITY delete.accesskey "T">
@@ -326,10 +326,10 @@
 <!ENTITY convertRegularAttachment.accesskey "V">
 <!ENTITY attachPage.label "Bifoga webbsida…">
 <!ENTITY attachPage.accesskey "w">
-<!ENTITY editSignatures.label "Edit Signatures...">
-<!ENTITY newSignature.label "New Signature...">
-<!ENTITY editResponses.label "Edit Responses...">
-<!ENTITY newResponse.label "New Response...">
+<!ENTITY editSignatures.label "Redigera signaturer...">
+<!ENTITY newSignature.label "Ny signatur...">
+<!ENTITY editResponses.label "Redigera svar...">
+<!ENTITY newResponse.label "Nytt svar...">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Lägg till ordlista…">
@@ -343,12 +343,12 @@
 <!ENTITY customizeFromAddress.accesskey "A">
 
 <!-- for rich search in compose -->
-<!ENTITY contactsButton.tooltip                 "Find contacts">
-<!ENTITY imagesButton.tooltip                   "Find images">
-<!ENTITY attachmentsButton.tooltip              "Find attachments">
-<!ENTITY placesButton.tooltip                   "Find places">
-<!ENTITY researchButton.tooltip                 "Find references">
-<!ENTITY signaturesButton.tooltip               "Find signatures">
+<!ENTITY contactsButton.tooltip                 "Hitta kontakter">
+<!ENTITY imagesButton.tooltip                   "Hitta bilder">
+<!ENTITY attachmentsButton.tooltip              "Hitta bilagor">
+<!ENTITY placesButton.tooltip                   "Hitta platser">
+<!ENTITY researchButton.tooltip                 "Hitta referenser">
+<!ENTITY signaturesButton.tooltip               "Hitta signaturer">
 
 <!-- this is an entity because it can vary by locale, and which type has the most kinds on the locale 
      for en-US, it is "Research", which has "Wikipedia" + "Dictionary" + "Thesaurus" -->
@@ -359,113 +359,113 @@
 <!ENTITY formatToolbarPaddingLeftMac "75">
 
 <!-- topic context menu -->
-<!ENTITY pbTopicContextMenu-edit.label         "Rename">
+<!ENTITY pbTopicContextMenu-edit.label         "Redigera">
 <!ENTITY pbTopicContextMenu-edit.accesskey     "E">
-<!ENTITY pbTopicContextMenu-favorite.label     "Favorite Topic">
+<!ENTITY pbTopicContextMenu-favorite.label     "Favorit">
 <!ENTITY pbTopicContextMenu-favorite.accesskey "F">
-<!ENTITY pbTopicContextMenu-remove.label       "Remove">
+<!ENTITY pbTopicContextMenu-remove.label       "Ta bort">
 <!ENTITY pbTopicContextMenu-remove.accesskey   "R">
-<!ENTITY pbTopicContextMenu-editAll.label      "Edit Topics...">
+<!ENTITY pbTopicContextMenu-editAll.label      "Redigera ämnen...">
 <!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
-<!ENTITY pbTopicContextMenu-delete.label       "Delete">
+<!ENTITY pbTopicContextMenu-delete.label       "Radera">
 <!ENTITY pbTopicContextMenu-delete.accesskey   "d">
-<!ENTITY pbTopicContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbTopicContextMenu-assignColor.label  "Ställ in ämnesfärg">
 <!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
 
 <!-- bubble context menu XXX TODO ACCESS KEYS-->
-<!ENTITY pbBubbleContextMenu-remove.label      "Remove Address">
-<!ENTITY pbBubbleContextMenu-copy.label        "Copy Address">
-<!ENTITY pbBubbleContextMenu-edit.label        "Edit Address">
-<!ENTITY pbBubbleContextMenu-open.label        "Open in Address Book">
-<!ENTITY pbBubbleContextMenu-add.label         "Add to Address Book">
+<!ENTITY pbBubbleContextMenu-remove.label      "Ta bort adress">
+<!ENTITY pbBubbleContextMenu-copy.label        "Kopiera adress">
+<!ENTITY pbBubbleContextMenu-edit.label        "Redigera adress">
+<!ENTITY pbBubbleContextMenu-open.label        "Öppna i adressboken">
+<!ENTITY pbBubbleContextMenu-add.label         "Lägg till i adressboken">
 
-<!ENTITY pbInsertHTMLToolbarCmd.label "Insert HTML or edit selected HTML">
-<!ENTITY pbRemoveTextToolbarCmd.label "Remove text styles">
-<!ENTITY switchBetweenNormalAndCode.tooltip "Switch between Normal and Code views">
+<!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
+<!ENTITY pbRemoveTextToolbarCmd.label "ta bort textstiler">
+<!ENTITY switchBetweenNormalAndCode.tooltip "Växla mellan vanlig vy och kodvy">
 
-<!ENTITY pbComposeSidebar.label "Sidebar">
+<!ENTITY pbComposeSidebar.label "Sidofält">
 <!ENTITY pbComposeSidebar.accesskey "S">
 
 <!ENTITY pbAddAttachmentCmd.keycode "A">
-<!ENTITY pbReplyButton.label       "Reply">
-<!ENTITY pbReplyAllButton.tooltiptext    "Reply to all recipients for selected message">
-<!ENTITY pbReplyAllButton.label    "Reply All">
-<!ENTITY pbReplyAllButton.tooltiptext    "Reply to all recipients for selected message">
+<!ENTITY pbReplyButton.label       "Svara">
+<!ENTITY pbReplyAllButton.tooltiptext    "Svara alla mottagare av valt meddelande">
+<!ENTITY pbReplyAllButton.label    "Svara alla">
+<!ENTITY pbReplyAllButton.tooltiptext    "Svara alla mottagare av valt meddelande">
 <!ENTITY pbToggleReplyRecipients.accesskey "R">
 <!ENTITY pbToggleReplyRecipients.key "R">
 
-<!ENTITY pbQuoteMessageButton.label       "Quote">
-<!ENTITY pbQuoteMessageButton.tooltiptext "Quote the selected message">
-<!ENTITY pbQuoteConversationButton.label  "Summarize">
-<!ENTITY pbQuoteConversationButton.tooltiptext "Summarize the conversation">
+<!ENTITY pbQuoteMessageButton.label       "Citera">
+<!ENTITY pbQuoteMessageButton.tooltiptext "Citera valt meddelande">
+<!ENTITY pbQuoteConversationButton.label  "Sammanfatta">
+<!ENTITY pbQuoteConversationButton.tooltiptext "Sammanfatta samtalen">
 <!ENTITY pbToggleReplyQuotingMode.accesskey   "u">
 <!ENTITY pbToggleReplyQuotingMode.key   "O">
 <!ENTITY pbFocusIdentityPicker.key "R">
 
 <!-- Insert Link Dialog -->
 
-<!ENTITY pbInsertLink.label "Enter the Internet address (URL) for this link.">
+<!ENTITY pbInsertLink.label "Skriv in denna länkens internetadress (URL).">
 <!ENTITY pbInsertLink.accesskey "E">
 
-<!ENTITY pbInsertImage.label "Enter a Internet address (URL) or local file location:">
+<!ENTITY pbInsertImage.label "Skriv in en internetadress (URL) eller plats för lokal fil:">
 <!ENTITY pbInsertImage.accesskey "E">
 
-<!ENTITY insertListButton.tooltip "Apply or remove bulleted or numbered list">
+<!ENTITY insertListButton.tooltip "Använd eller ta bort punktlista eller numrerad lista">
 
 <!-- Statistics -->
-<!ENTITY pbStatsWords.label "words:">
-<!ENTITY pbStatsChars.label "characters:">
-<!ENTITY pbStatsTime.label "time:">
+<!ENTITY pbStatsWords.label "ord:">
+<!ENTITY pbStatsChars.label "tecken:">
+<!ENTITY pbStatsTime.label "tid:">
 
-<!ENTITY pbCreateResponse.label "Create Response...">
-<!ENTITY pbSearchGoogle.label "Search in Google">
+<!ENTITY pbCreateResponse.label "Skapa svar...">
+<!ENTITY pbSearchGoogle.label "Sök i Google">
 
 <!-- Template Placeholders -->
-<!ENTITY templatePlaceholders.tooltiptext "Insert a Template Placeholder">
+<!ENTITY templatePlaceholders.tooltiptext "Sätt in en platshållare för mallen">
 
-<!ENTITY templatePlaceholderCustom.label "Custom Placeholder">
-<!ENTITY templatePlaceholderMySelectedIdentity.label "My Selected Identity">
-<!ENTITY templatePlaceholderSourceMessage.label "Source Message">
-<!ENTITY templatePlaceholderSender.label "Sender">
-<!ENTITY templatePlaceholderToRecipients.label "To Recipients">
-<!ENTITY templatePlaceholderCcRecipients.label "Cc Recipients">
-<!ENTITY templatePlaceholderIdentity.label "Full Name">
-<!ENTITY templatePlaceholderEmail.label "Email Address">
-<!ENTITY templatePlaceholderFirstName.label "First Name">
-<!ENTITY templatePlaceholderLastName.label "Last Name">
-<!ENTITY templatePlaceholderMessageId.label "Message ID">
-<!ENTITY templatePlaceholderDate.label "Date">
-<!ENTITY templatePlaceholderSubject.label "Subject">
-<!ENTITY templatePlaceholderThisMessage.label "This Message">
-<!ENTITY templacePlaceholderFillValues.label "Fill Values">
+<!ENTITY templatePlaceholderCustom.label "Anpassad platshållare">
+<!ENTITY templatePlaceholderMySelectedIdentity.label "Min valda identitet">
+<!ENTITY templatePlaceholderSourceMessage.label "Källmeddelande">
+<!ENTITY templatePlaceholderSender.label "Avsändare">
+<!ENTITY templatePlaceholderToRecipients.label "Till mottagare">
+<!ENTITY templatePlaceholderCcRecipients.label "Cc mottagare">
+<!ENTITY templatePlaceholderIdentity.label "Fullständigt namn">
+<!ENTITY templatePlaceholderEmail.label "E-postadress">
+<!ENTITY templatePlaceholderFirstName.label "Förnamn">
+<!ENTITY templatePlaceholderLastName.label "Efternamn">
+<!ENTITY templatePlaceholderMessageId.label "ID på meddelande">
+<!ENTITY templatePlaceholderDate.label "Datum">
+<!ENTITY templatePlaceholderSubject.label "Ämne">
+<!ENTITY templatePlaceholderThisMessage.label "Detta meddelande">
+<!ENTITY templacePlaceholderFillValues.label "Fyllningsvärden">
 
 <!-- Image Resizing and Message Size -->
-<!ENTITY messageSize.label "Message size:">
-<!ENTITY imageSize.label "Image size:">
-<!ENTITY smallImageResize.label "Small">
-<!ENTITY mediumImageResize.label "Medium">
-<!ENTITY largeImageResize.label "Large">
+<!ENTITY messageSize.label "Meddelandestorlek:">
+<!ENTITY imageSize.label "Bildstorlek:">
+<!ENTITY smallImageResize.label "Liten">
+<!ENTITY mediumImageResize.label "Medel">
+<!ENTITY largeImageResize.label "Stor">
 
 <!-- Image manipulation context menu -->
-<!ENTITY modifyAllImages.label "Modify All Images">
-<!ENTITY scaleImage.label  "Scale">
+<!ENTITY modifyAllImages.label "Ändra alla bilder">
+<!ENTITY scaleImage.label  "Skala">
 <!ENTITY scale200PCT.label "200&#37;">
 <!ENTITY scale150PCT.label "150&#37;">
 <!ENTITY scale100PCT.label "100&#37;">
 <!ENTITY scale75PCT.label  "75&#37;">
 <!ENTITY scale50PCT.label  "50&#37;">
 <!ENTITY scale25PCT.label  "25&#37;">
-<!ENTITY marginImage.label "Margin">
+<!ENTITY marginImage.label "Marginal">
 <!ENTITY margin10px.label "10px">
 <!ENTITY margin20px.label "20px">
 <!ENTITY margin30px.label "30px">
 <!ENTITY margin40px.label "40px">
-<!ENTITY shadowImage.label "Add a Shadow">
+<!ENTITY shadowImage.label "Skugga">
 <!ENTITY floatImage "Float">
-<!ENTITY leftFloat.label "Left">
-<!ENTITY rightFloat.label "Right">
-<!ENTITY fxImage.label "Effects">
-<!ENTITY noFx.label "No Effect">
+<!ENTITY leftFloat.label "Vänster">
+<!ENTITY rightFloat.label "Höger">
+<!ENTITY fxImage.label "Effekter">
+<!ENTITY noFx.label "Inga effekter">
 <!ENTITY equalizeFx.label "Equalize">
 <!ENTITY greyscaleFx.label "Greyscale">
 <!ENTITY sepiaFx.label "Sepia">
@@ -484,10 +484,10 @@
 <!ENTITY frame9Fx.label "Frame 9">
 <!ENTITY frame10Fx.label "Frame 10">
 <!ENTITY frame11Fx.label "Frame 11">
-<!ENTITY rotateImage.label "Rotate">
-<!ENTITY rotate90.label "90 Degrees">
-<!ENTITY rotate180.label "180 Degrees">
-<!ENTITY rotate270.label "270 Degrees">
-<!ENTITY flipImage.label "Flip">
-<!ENTITY xflip.label "Horizontally">
-<!ENTITY yflip.label "Vertically">
+<!ENTITY rotateImage.label "Rotera">
+<!ENTITY rotate90.label "90 Grader">
+<!ENTITY rotate180.label "180 Grader">
+<!ENTITY rotate270.label "270 Grader">
+<!ENTITY flipImage.label "Vänd">
+<!ENTITY xflip.label "Vågrätt">
+<!ENTITY yflip.label "Lodrätt">

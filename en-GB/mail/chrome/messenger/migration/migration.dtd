@@ -59,7 +59,7 @@
 <!ENTITY explanation-text.top "50">
 <!ENTITY radio.top "72">
 <!ENTITY import.top "86">
-<!ENTITY progress.top "160">
+<!ENTITY progress.top "140">
 <!ENTITY start.top "264">
 <!ENTITY startMac.top "266">
 <!ENTITY guide.top "159">

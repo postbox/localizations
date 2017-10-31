@@ -5,7 +5,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowtitle.label "&brandShortName; - Scelta del profilo utente">
+<!ENTITY windowtitle.label "&brandShortName; - Scegliere un profilo utente">
 
 <!ENTITY profilename.label "Nome profilo:">
 
@@ -22,7 +22,7 @@
 <!ENTITY deleteButton.accesskey "E">
 
 <!-- manager entities -->
-<!ENTITY pmDescription.label "&brandShortName; salva le informazioni personali, le opzioni e gli altri oggetti dell’utente nel profilo personale.">
+<!ENTITY pmDescription.label "&brandShortName; salva le informazioni personali, le opzioni e gli altri oggetti dell'utente nel profilo personale.">
 
 <!ENTITY offlineState.label "Lavora non in linea">
 <!ENTITY offlineState.accesskey "L">

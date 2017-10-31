@@ -26,11 +26,11 @@
 <!ENTITY NameField1.label               "Primeiro:">
 <!ENTITY NameField1.accesskey           "m">
 <!ENTITY NameField2.label               "Último:">
-<!ENTITY NameField2.accesskey           "l">
+<!ENTITY NameField2.accesskey           "t">
 <!ENTITY PhoneticField1.label           "Fonético:">
 <!ENTITY PhoneticField2.label           "Fonético:">
 <!ENTITY DisplayName.label              "Apresentar como:">
-<!ENTITY DisplayName.accesskey          "A">
+<!ENTITY DisplayName.accesskey          "s">
 <!ENTITY preferDisplayName.label        "Usar o nome de “Apresentar como” ao exibir mensagens">
 <!ENTITY preferDisplayName.accesskey    "i">
 <!ENTITY NickName.label                 "Apelido:">
@@ -42,15 +42,15 @@
 <!ENTITY SecondEmail.label              "E-mail alternativo:">
 <!ENTITY SecondEmail.accesskey          "v">
 <!ENTITY PreferMailFormat.label         "Prefere receber como:">
-<!ENTITY PreferMailFormat.accesskey     "P">
+<!ENTITY PreferMailFormat.accesskey     "b">
 <!ENTITY PlainText.label                "Texto sem formatação">
 <!ENTITY HTML.label                     "Texto formatado (HTML)">
 <!ENTITY Unknown.label                  "Sem preferência">
 <!ENTITY chatName.label                 "Bate-papo:">
-<!ENTITY ScreenName.label               "Screen Name:">
-<!ENTITY ScreenName.accesskey           "S">
+<!ENTITY ScreenName.label               "Nome de tela:">
+<!ENTITY ScreenName.accesskey           "N">
 
-<!ENTITY Phones.box                     "Phones">
+<!ENTITY Phones.box                     "Telefones">
 <!ENTITY WorkPhone.label                "Comercial:">
 <!ENTITY WorkPhone.accesskey            "C">
 <!ENTITY HomePhone.label                "Residencial:">
@@ -62,8 +62,8 @@
 <!ENTITY CellularNumber.label           "Celular:">
 <!ENTITY CellularNumber.accesskey       "u">
 
-<!ENTITY Address.tab                    "Address">
-<!ENTITY Home.box                       "Home">
+<!ENTITY Address.tab                    "Endereço">
+<!ENTITY Home.box                       "Residencial">
 <!ENTITY HomeAddress.label              "Endereço:">
 <!ENTITY HomeAddress.accesskey          "n">
 <!ENTITY HomeAddress2.label             "">
@@ -86,7 +86,7 @@
 <!ENTITY Age.placeholder                "Idade">
 <!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.box                       "Work">
+<!ENTITY Work.box                       "Trabalho">
 <!ENTITY JobTitle.label                 "Cargo:">
 <!ENTITY JobTitle.accesskey             "C">
 <!ENTITY Department.label               "Setor:">
@@ -105,16 +105,16 @@
 <!ENTITY WorkZipCode.accesskey          "E">
 <!ENTITY WorkCountry.label              "País:">
 <!ENTITY WorkCountry.accesskey          "P">
-<!ENTITY WorkWebPage.label              "Página da web:">
+<!ENTITY WorkWebPage.label              "Endereço web:">
 <!ENTITY WorkWebPage.accesskey          "w">
-<!ENTITY Picture.tab                    "Picture">
-<!ENTITY locationEditField.label        "Image Location:">
+<!ENTITY Picture.tab                    "Foto">
+<!ENTITY locationEditField.label        "Caminho da imagem:">
 <!ENTITY locationEditField.accessKey    "L">
-<!ENTITY locationEditField.tooltip      "Type the image's filename or location">
-<!ENTITY chooseButton.label             "Choose File…">
+<!ENTITY locationEditField.tooltip      "Digite o caminho ou o nome da imagem:">
+<!ENTITY chooseButton.label             "Escolher arquivo…">
 <!ENTITY chooseFile.accessKey           "C">
 
-<!ENTITY Social.tab                    "Social">
+<!ENTITY Social.tab                    "Redes Sociais">
 <!ENTITY twitter.label                 "Twitter">
 <!ENTITY facebook.label                "Facebook">
 <!ENTITY linkedin.label                "LinkedIn">
@@ -123,7 +123,7 @@
 <!ENTITY Other.accesskey                "O">
 <!ENTITY Birthday.label                 "Aniversário:">
 <!ENTITY Birthday.accesskey             "v">
-<!ENTITY birthdayFormat.label           "mm/dd/yyyy">
+<!ENTITY birthdayFormat.label           "dd/mm/yyyy">
 <!ENTITY Custom1.label                  "Personalizado 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Personalizado 2:">
@@ -132,7 +132,7 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Personalizado 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Notes">
+<!ENTITY Notes.box                      "Notas">
 <!ENTITY Notes.accesskey                "v">
 
 <!ENTITY Chat.tab                       "Bate-papo">

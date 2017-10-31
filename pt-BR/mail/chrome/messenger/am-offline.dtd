@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY doNotDownloadPop3Movemail.label "Para economizar espaço em disco, não receber:">
-<!ENTITY offlineNewFolder.label "When I create new folders, select them for offline use">
+<!ENTITY offlineNewFolder.label "Quando eu criar novas pastas, dispnibilizá-las para uso em modo offline">
 <!ENTITY offlineNewFolder.accesskey "c">
 <!ENTITY allFoldersOffline.label "Preservar as mensagens desta conta neste computador">
 <!ENTITY allFoldersOffline.accesskey "P">
@@ -31,23 +31,23 @@
 <!ENTITY retentionApplyToFlagged.accesskey "S">
 <!ENTITY nntpRemoveMsgBody.label "Excluir o conteúdo de mensagens com mais de">
 <!ENTITY nntpRemoveMsgBody.accesskey "i">
-<!ENTITY offlineSelectNntp.label "Selecionar newsgroups para leitura off-line…">
+<!ENTITY offlineSelectNntp.label "Selecionar grupos de notícias para leitura offline…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avançado…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY offlineGroupTitle.label "Offline">
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">
-<!ENTITY ftiGroupTitle.label "Global Search">
-<!ENTITY fti.indexMsgBodies.label "Index message bodies">
-<!ENTITY newsrcFilePath.label "newsrc file:">
+<!ENTITY ftiGroupTitle.label "Pesquisa global">
+<!ENTITY fti.indexMsgBodies.label "Indexar corpo das mensagens">
+<!ENTITY newsrcFilePath.label "arquivo newsrc:">
 <!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Local directory:">
+<!ENTITY localPath.label "Diretório local:">
 <!ENTITY localPath.accesskey "L">
-<!ENTITY localFolderPicker.label "Select Local Directory">
-<!ENTITY browseFolder.label "Browse...">
+<!ENTITY localFolderPicker.label "Selecionar diretório local">
+<!ENTITY browseFolder.label "Procurar...">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Select newsrc File">
-<!ENTITY browseNewsrc.label "Browse...">
+<!ENTITY newsrcPicker.label "Selecionar arquivo newsrc">
+<!ENTITY browseNewsrc.label "Procurar...">
 <!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY storeType.label "Message Store Type:">

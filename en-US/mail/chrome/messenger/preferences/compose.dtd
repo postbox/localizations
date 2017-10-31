@@ -12,7 +12,7 @@
 <!ENTITY dialogCompose.title                 "Composing">
 
 <!ENTITY forwardMsg.label                     "Forward messages:">
-<!ENTITY forwardMsg.accesskey                 "F">
+<!ENTITY forwardMsg.accesskey                 "f">
 <!ENTITY inline.label                         "Inline">
 <!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "As Attachment">
@@ -23,7 +23,7 @@
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "n">
 <!ENTITY fontColor.label                      "Text Color:">
-<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "Background Color:">
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Restore Defaults">
@@ -34,24 +34,24 @@
 <!ENTITY spellCheck.label                     "Check spelling before sending">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Enable spell check as you type">
-<!ENTITY spellCheckInline1.accesskey          "E">
+<!ENTITY spellCheckInline1.accesskey           "k">
 <!ENTITY languagePopup.label                  "Language:">
-<!ENTITY languagePopup.accessKey              "L">
+<!ENTITY languagePopup.accessKey              "g">
 <!ENTITY downloadDictionaries.label           "Download More Dictionaries">
 
 <!ENTITY autoSave.label                       "Auto Save every">
-<!ENTITY autoSave.accesskey                   "A">
+<!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "minutes">
 
 <!ENTITY emailCollectionPicker.label           "Add outgoing e-mail addresses to my:">
-<!ENTITY emailCollectionPicker.accesskey       "A">
+<!ENTITY emailCollectionPicker.accesskey       "t">
 <!ENTITY autocompleteText.label                "When addressing messages, look for matching entries in:">
 <!ENTITY addressingEnable.label                "Local Address Books">
-<!ENTITY addressingEnable.accesskey            "L">
+<!ENTITY addressingEnable.accesskey            "A">
 <!ENTITY directories.label                     "Directory Server:">
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "None">
-<!ENTITY editDirectories.label                 "Edit Directories…">
+<!ENTITY editDirectories.label                 "Edit Directories...">
 <!ENTITY editDirectories.accesskey             "E">
 
 <!ENTITY contactsSidebarDisplay.label          "Contacts Sidebar displays:">
@@ -62,7 +62,7 @@
 <!ENTITY addressBooks.accesskey                "B">
 
 <!ENTITY sendOptionsDescription.label          "Configure text format behavior">
-<!ENTITY sendOptions.label                     "Send Options…">
+<!ENTITY sendOptions.label                     "Send Options...">
 <!ENTITY sendOptions.accesskey                 "S">
 
 <!ENTITY attachmentReminder.label              "Check for missing attachments">

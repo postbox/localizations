@@ -51,4 +51,4 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY processing.label         "Importerar…">
 
 
-<!ENTITY pbSelect.label             "Select the type of material to import:">
+<!ENTITY pbSelect.label             "Välj den typ av material som du vill importera:">

@@ -1,28 +1,28 @@
-<!ENTITY changeLicenseKey.label "Code">
-<!ENTITY changeName.label "Name">
-<!ENTITY licenseKey.label "Code:">
-<!ENTITY name.label "Name:">
-<!ENTITY enterLicense.label "Enter license code now">
-<!ENTITY enterLicenseTitle.label "Enter Postbox license code">
-<!ENTITY enterLicenseInfo.label "Please enter your name and license code below:">
-<!ENTITY invalidLicense.label "Please enter your name and license code exactly as they appear in your license email.">
-<!ENTITY invalidLicenseVersion.label "This license code will not work with this version of Postbox.  Please visit our store to purchase an upgrade.">
-<!ENTITY invalidLicenseInvalid1.label "Please enter a valid license code, or contact us at">
+<!ENTITY changeLicenseKey.label "Kod">
+<!ENTITY changeName.label "Namn">
+<!ENTITY licenseKey.label "Licenskod:">
+<!ENTITY name.label "Namn:">
+<!ENTITY enterLicense.label "Skriv in licenskoden nu">
+<!ENTITY enterLicenseTitle.label "Skriv in licenskod för Postbox">
+<!ENTITY enterLicenseInfo.label "Skriv in ditt namn och licenskod nedan:">
+<!ENTITY invalidLicense.label "Nästan klar... Skriv in ditt namn och licenskod exakt som de visas i ditt e-postmeddelande för licensen.">
+<!ENTITY invalidLicenseVersion.label "Denna licensnyckel kommer inte fungera med denna versionen av Postbox.  Uppgradera till den senaste versionen.">
+<!ENTITY invalidLicenseInvalid1.label "Skriv in en giltig licenskod, eller kontakta oss på">
 <!ENTITY invalidLicenseInvalid2.label "Postbox Support">
-<!ENTITY invalidLicenseInvalid3.label "for immediate assistance.">
+<!ENTITY invalidLicenseInvalid3.label "för omedelbar hjälp.">
 
-<!ENTITY changeLicenseTitle.label "Postbox License Code">
-<!ENTITY changeLicenseInfo.label "This copy of Postbox is licensed to:">
+<!ENTITY changeLicenseTitle.label "Postbox licenskod">
+<!ENTITY changeLicenseInfo.label "Denna kopia av Postbox är licenserad till:">
 
-<!ENTITY licensedThroughMAS.label "This copy is licensed through the Apple Mac App Store.">
+<!ENTITY licensedThroughMAS.label "Denna kopia är licenserad genom Apple Mac App Store.">
 
-<!ENTITY licenseConfirmed.label "License code confirmed!">
+<!ENTITY licenseConfirmed.label "Licenskod har bekräftats!">
 
-<!ENTITY thanksTitle.label "Thank you for purchasing Postbox!">
-<!ENTITY helpUs.label "Help us get the word out!">
-<!ENTITY composeFacebook.label "Tell your friends on ">
+<!ENTITY thanksTitle.label "Tack för ditt köp av Postbox!">
+<!ENTITY helpUs.label "Hjälp oss att nå ut!">
+<!ENTITY composeFacebook.label "Tipsa dina vänner på ">
 <!ENTITY helpUsFacebook.label "Facebook">
-<!ENTITY composeTwitter.label "Post an update on ">
+<!ENTITY composeTwitter.label "Posta en uppdatering på ">
 <!ENTITY helpUsTwitter.label "Twitter">
 <!ENTITY okButton.label "OK">
 
@@ -37,12 +37,12 @@
 <!ENTITY buttonsMac.top "179">
 <!ENTITY buttons.top "187">
 
-<!ENTITY facebook.top "110">
-<!ENTITY twitter.top "140">
+<!ENTITY facebook.top "100">
+<!ENTITY twitter.top "130">
 <!ENTITY facebook.left "30">
 <!ENTITY facebookLink.left "65">
 
-<!ENTITY validationTitle.style "">
+<!ENTITY validationTitle.style "font-size: 10px;">
 <!ENTITY enterLicenseTitle.style "">
 <!ENTITY enterLicenseInfo.style "">
 <!ENTITY invalidLicense.style "">

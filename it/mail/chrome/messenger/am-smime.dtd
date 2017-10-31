@@ -4,14 +4,14 @@
 
 <!ENTITY securityTitle.label "Sicurezza">
 <!ENTITY securityTab.label "Sicurezza">
-<!ENTITY securityHeading.label "Per poter inviare e ricevere messaggi firmati o cifrati, devono essere specificati un certificato per la firma digitale e un certificato per la cifratura.">
-<!ENTITY encryptionGroupTitle.label "Cifratura">
-<!ENTITY encryptionChoiceLabel.label "Impostazioni cifratura predefinite per l'invio dei messaggi:">
-<!ENTITY neverEncrypt.label "Mai (non cifrare)">
+<!ENTITY securityHeading.label "Per poter inviare e ricevere messaggi firmati o crittografati, devi specificare un certificato per la firma digitale e un certificato per la crittografia.">
+<!ENTITY encryptionGroupTitle.label "Crittografia">
+<!ENTITY encryptionChoiceLabel.label "Impostazioni crittografia predefinite durante l'invio dei messaggi:">
+<!ENTITY neverEncrypt.label "Mai (non utilizzare la crittografia)">
 <!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Sempre (impedisce l'invio se tutti i destinatari non possiedono un certificato)">
+<!ENTITY alwaysEncryptMessage.label "Richiesta (non inviare il messaggio a meno che tutti i destinatari abbiano certificati)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Utilizza il seguente certificato per cifrare o decifrare i messaggi ricevuti:">
+<!ENTITY encryptionCert.message "Utilizza questo certificato per crittografare e decifrare i messaggi inviati a te:">
 <!ENTITY digitalSign.certificate.button "Seleziona…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Pulisci">
@@ -21,11 +21,11 @@
 <!ENTITY encryption.certificate_clear.button "Pulisci">
 <!ENTITY encryption.certificate_clear.accesskey "c">
 <!ENTITY signingGroupTitle.label "Firma digitale">
-<!ENTITY signMessage.label "Apponi una firma digitale ai messaggi">
+<!ENTITY signMessage.label "Aggiungi una firma digitale ai messaggi (predefinito)">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Utilizza il seguente certificato per firmare digitalmente i messaggi inviati:">
+<!ENTITY signingCert.message "Utilizza questo certificato per firmare digitalmente i messaggi che invii:">
 
-<!ENTITY certificates.label "Certificati">
+<!ENTITY certificates.label     "Certificati">
 <!ENTITY manageCerts2.label "Gestisci certificati">
 <!ENTITY manageCerts2.accesskey "G">
 <!ENTITY manageDevices.label "Dispositivi di sicurezza">

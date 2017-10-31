@@ -47,10 +47,10 @@
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Vet ej">
 <!ENTITY chatName.label                 "Chattnamn:">
-<!ENTITY ScreenName.label               "Screen Name:">
+<!ENTITY ScreenName.label               "Skärmnamn:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY Phones.box                     "Phones">
+<!ENTITY Phones.box                     "Telefoner">
 <!ENTITY WorkPhone.label                "Arbete:">
 <!ENTITY WorkPhone.accesskey            "b">
 <!ENTITY HomePhone.label                "Hem:">
@@ -62,8 +62,8 @@
 <!ENTITY CellularNumber.label           "Mobil:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "Address">
-<!ENTITY Home.box                       "Home">
+<!ENTITY Address.tab                    "Adress">
+<!ENTITY Home.box                       "Hem">
 <!ENTITY HomeAddress.label              "Adress:">
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
@@ -79,14 +79,14 @@
 <!ENTITY HomeWebPage.label              "Webbplats:">
 <!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Birthday.label                 "Födelsedag:">
-<!ENTITY Birthday.accesskey             "ö">
+<!ENTITY Birthday.accesskey             "F">
 <!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "År">
 <!ENTITY Or.value                       "eller">
 <!ENTITY Age.placeholder                "Ålder">
 <!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.box                       "Work">
+<!ENTITY Work.box                       "Arbete">
 <!ENTITY JobTitle.label                 "Titel:">
 <!ENTITY JobTitle.accesskey             "T">
 <!ENTITY Department.label               "Avdelning:">
@@ -107,11 +107,11 @@
 <!ENTITY WorkCountry.accesskey          "L">
 <!ENTITY WorkWebPage.label              "Webbplats:">
 <!ENTITY WorkWebPage.accesskey          "W">
-<!ENTITY Picture.tab                    "Picture">
-<!ENTITY locationEditField.label        "Image Location:">
+<!ENTITY Picture.tab                    "Bild">
+<!ENTITY locationEditField.label        "Bildens plats:">
 <!ENTITY locationEditField.accessKey    "L">
-<!ENTITY locationEditField.tooltip      "Type the image's filename or location">
-<!ENTITY chooseButton.label             "Choose File…">
+<!ENTITY locationEditField.tooltip      "Ange bildens filnamn eller plats">
+<!ENTITY chooseButton.label             "Välj fil...">
 <!ENTITY chooseFile.accessKey           "C">
 
 <!ENTITY Social.tab                    "Social">
@@ -122,8 +122,8 @@
 <!ENTITY Other.tab                      "Övrigt">
 <!ENTITY Other.accesskey                "Ö">
 <!ENTITY Birthday.label                 "Födelsedag:">
-<!ENTITY Birthday.accesskey             "ö">
-<!ENTITY birthdayFormat.label           "mm/dd/yyyy">
+<!ENTITY Birthday.accesskey             "F">
+<!ENTITY birthdayFormat.label           "dd/mm/åååå">
 <!ENTITY Custom1.label                  "Övrigt 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Övrigt 2:">
@@ -132,7 +132,7 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Övrigt 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Notes">
+<!ENTITY Notes.box                      "Anteckningar">
 <!ENTITY Notes.accesskey                "n">
 
 <!ENTITY Chat.tab                       "Chatt">

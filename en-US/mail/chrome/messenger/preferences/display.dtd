@@ -13,7 +13,7 @@
 <!ENTITY italic.label                     "Italic">
 <!ENTITY boldItalic.label                 "Bold Italic">
 <!ENTITY size.label                       "Quoted plain text size:">
-<!ENTITY size.accesskey                   "z">
+<!ENTITY size.accesskey                   "s">
 <!ENTITY regularSize.label                "Regular">
 <!ENTITY bigger.label                     "Bigger">
 <!ENTITY smaller.label                    "Smaller">
@@ -30,8 +30,8 @@
 <!ENTITY newTagButton.accesskey    "N">
 <!ENTITY editTagButton1.label      "Edit…">
 <!ENTITY editTagButton1.accesskey  "E">
-<!ENTITY removeTagButton.label     "Delete">
-<!ENTITY removeTagButton.accesskey "D">
+<!ENTITY removeTagButton.label    "Delete">
+<!ENTITY removeTagButton.accesskey "l">
 
 <!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Fonts &amp; Colors">
@@ -40,7 +40,7 @@
 <!ENTITY defaultSize.label       "Size:">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "A">
-<!ENTITY fontOptions.label       "Advanced…">
+<!ENTITY fontOptions.label       "Advanced...">
 <!ENTITY colorButton.label       "Colors…">
 <!ENTITY colorButton.accesskey   "C">
 

@@ -5,9 +5,11 @@
 <!ENTITY aboutSupport.pageTitle "Dados para suporte">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "  Esta página contém informações técnicas que podem ser úteis se você estiver 
-tentando solucionar um problema. Se estiver procurando respostas para as dúvidas mais comuns 
-do &brandShortName;, confira o <a id='supportLink'>site de suporte</a>.">
+<!ENTITY aboutSupport.pageSubtitle "
+  Esta página contém informações técnicas que podem ser úteis se você estiver
+  tentando solucionar um problema. Se estiver procurando respostas para as dúvidas mais comuns
+  do &brandShortName;, confira o <a id='supportLink'>support website</a>.
+">
 
 <!ENTITY aboutSupport.crashes.title "Relatórios de travamentos">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -19,7 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.extensionsTitle "Extensões">
 <!ENTITY aboutSupport.extensionName "Nome">
-<!ENTITY aboutSupport.extensionEnabled "Habilitado">
+<!ENTITY aboutSupport.extensionEnabled "Ativa">
 <!ENTITY aboutSupport.extensionVersion "Versão">
 <!ENTITY aboutSupport.extensionId "ID">
 
@@ -43,13 +45,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Histórico de atualizações">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Mostrar histórico de atualizações">
 
-<!ENTITY aboutSupport.appBasicsProfileDir "Diretório do perfil">
+<!ENTITY aboutSupport.appBasicsProfileDir "Pasta do perfil">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Pasta do perfil">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins habilitados">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins ativos">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuração da compilação">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsOS "OS">
@@ -69,7 +71,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Mostrar no Finder">
+<!ENTITY aboutSupport.showMac.label "Abrir no Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "Abrir pasta">
@@ -80,7 +82,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Preferências do user.js">
-<!ENTITY aboutSupport.userJSDescription "Sua pasta do perfil contém um <a id='prefs-user-js-link'>arquivo user.js</a>, que inclui preferências que não foram criadas pelo &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "Sua pasta do perfil contém um <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Preferências importantes bloqueadas">
 <!ENTITY aboutSupport.lockedPrefsName "Nome">

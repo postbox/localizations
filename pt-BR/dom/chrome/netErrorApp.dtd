@@ -12,7 +12,10 @@
 <!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
 <!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
 
-<!ENTITY securityOverride.warningContent "<p>Você não deve adicionar uma exceção se estiver usando uma conexão com a internet que não confie totalmente ou se você não costumava ver um alerta para este servidor.</p>
-<p>Caso ainda deseje adicionar uma exceção para este site, pode fazê-lo nas configurações avançadas de criptografia.</p>">
+<!ENTITY securityOverride.warningContent "
+<p>Você não deve adicionar uma exceção se estiver usando uma conexão com a internet que não confie totalmente ou se você não costumava ver um alerta para este servidor.</p>
+<p>Caso ainda deseje adicionar uma exceção para este site, pode fazê-lo nas configurações avançadas de criptografia.</p>">&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
 
 -->

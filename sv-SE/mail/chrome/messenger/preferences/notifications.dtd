@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY notificationsDialog2.title       "Anpassa ny e-postavisering">
+<!ENTITY notificationsDialog2.title       "Anpassa meddelande om ny e-post">
 <!ENTITY window.width                     "30em">
 
 <!ENTITY alertCustomization.intro         "Välj vilka fält som ska visas i meddelanderutan:">
 <!ENTITY previewText.label                "Meddelandetext">
 <!ENTITY previewText.accesskey            "M">
 <!ENTITY subject.label                    "Ämne">
-<!ENTITY subject.accesskey                "Ä">
+<!ENTITY subject.accesskey                "m">
 <!ENTITY sender.label                     "Avsändare">
 <!ENTITY sender.accesskey                 "A">
 

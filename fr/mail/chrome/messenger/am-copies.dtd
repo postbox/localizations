@@ -8,17 +8,17 @@
 <!ENTITY fccMailFolder.label "Placer une copie dans :">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Placer les réponses dans le dossier du message auquel il a été répondu">
-<!ENTITY fccReplyFollowsParent.accesskey "n">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Mettre en copie ces adresses :">
 <!ENTITY ccAddress.accesskey "M">
 <!ENTITY ccAddressList.placeholder "Adresses séparées par des virgules">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Mettre en copie cachée ces adresses :">
-<!ENTITY bccAddress.accesskey "c">
+<!ENTITY bccAddress.label "Copie cachée à ces adresses :">
+<!ENTITY bccAddress.accesskey "C">
 <!ENTITY bccAddressList.placeholder "Adresses séparées par des virgules">
 <!ENTITY saveMessageDlg.label "Demander une confirmation quand les messages sont enregistrés">
-<!ENTITY saveMessageDlg.accesskey "q">
+<!ENTITY saveMessageDlg.accesskey "m">
 <!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn1.label "Sent:">
 <!ENTITY sentFolderOn1.accesskey "e">
@@ -31,8 +31,8 @@
 <!ENTITY archiveHierarchyButton.label "Options d’archivage…">
 <!ENTITY archiveHierarchyButton.accesskey "O">
 <!ENTITY archivesFolderOn1.label "Archive:">
-<!ENTITY archivesFolderOn1.accesskey "n">
-<!ENTITY archiveInOtherFolder.label "Autre :">
+<!ENTITY archivesFolderOn1.accesskey "A">
+<!ENTITY archiveInOtherFolder.label "Autre dossier :">
 <!ENTITY archiveInOtherFolder.accesskey "u">
 <!ENTITY specialFolders.label "Brouillons et modèles">
 <!ENTITY keepDrafts2.label "Conserver les brouillons dans :">
@@ -43,12 +43,12 @@
 <!ENTITY draftInOtherFolder.accesskey "t">
 <!ENTITY keepTemplates.label "Conserver les modèles dans :">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY templatesFolderOn1.label "Modèles:">
 <!ENTITY templatesFolderOn1.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Autre dossier :">
 <!ENTITY templateInOtherFolder.accesskey "e">
 
-<!ENTITY pbSentSettings.label "Sent">
-<!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
+<!ENTITY pbSentSettings.label "Envoyés">
+<!ENTITY pbDraftsSettings.label "Brouillons">
+<!ENTITY pbArchiveSettings.label "Archives">
+<!ENTITY pbTemplatesSettings.label "Modèles">

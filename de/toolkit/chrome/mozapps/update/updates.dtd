@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY  updateWizard.title              "Software-Update">
 
-<!ENTITY  checking.title                  "Auf verfügbare Updates wird überprüft…">
-<!ENTITY  updateCheck.label               "Nach neueren Versionen von &brandShortName; wird gesucht…">
+<!ENTITY  checking.title                  "Überprüfe auf verfügbare Updates">
+<!ENTITY  updateCheck.label               "Suche nach neueren Versionen von &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Keine Updates verfügbar">
 <!ENTITY  noupdatesautoenabled.intro      "Es sind keine neuen Updates verfügbar. &brandShortName; wird regelmäßig prüfen,
@@ -18,7 +18,7 @@
                                            Ihren Systemadministrator oder versuchen Sie es mit einem Benutzer nochmals, der
                                            die Rechte hat, um auf Ihrem Computer Software zu installieren.">
 <!ENTITY  manualUpdate.space.desc         "Ein empfohlenes Sicherheits- und Stabilitäts-Update ist verfügbar, aber Sie
-                                           haben nicht genügend Speicherplatz, um es zu installieren">
+ 					   					   haben nicht genügend Speicherplatz, um es zu installieren">
 <!ENTITY  manualUpdateGetMsg.label        "Die letzte Version von &brandShortName; erhalten Sie immer auf:">
 
 <!ENTITY  unsupported.title               "System nicht unterstützt">
@@ -54,19 +54,18 @@
 <!ENTITY  errorpatching.intro             "Das inkrementelle Update für &brandShortName; konnte nicht installiert werden.
                                            Es wird nun für einen neuen Versuch das komplette Update-Paket heruntergeladen.">
 
-<!ENTITY  genericBackgroundError.label    "Es konnte nicht festgestellt werden, ob ein Update zur Verfügung steht. Bitte
-                                           stellen Sie sicher, dass Sie die letzte Version von &brandShortName; haben, von:">
+<!ENTITY  genericBackgroundError.label    "Es konnte nicht festgestellt werden, ob ein Update zur Verfügung steht. Bitte stellen Sie sicher, dass Sie die letzte Version von &brandShortName; haben, von:">
 
 <!ENTITY  finishedPage.title              "Update bereit zur Installation">
 <!ENTITY  finishedPage.text               "Das Update wird beim nächsten &brandShortName;-Start installiert. Sie können
-                                           &brandShortName; jetzt neu starten oder weiterarbeiten und später neu starten.">
+                                           &brandShortName; jetzt neu starten oder weiter arbeiten und später neu starten.">
 
 <!ENTITY  finishedBackgroundPage.text     "Ein Sicherheits- und Stabilitäts-Update für &brandShortName; wurde heruntergeladen
                                            und ist bereit zur Installation.">
 <!ENTITY  finishedBackground.name         "Update:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Das Update wird beim nächsten &brandShortName;-Start installiert. Sie können
-                                           &brandShortName; jetzt neu starten oder weiterarbeiten und später neu starten.">
+                                           &brandShortName; jetzt neu starten oder weiter arbeiten und später neu starten.">
 <!ENTITY  finishedBackground.moreElevated "Dieses Update benötigt Administrator-Berechtigungen. Es wird beim nächsten Neustart von &brandShortName; installiert. Sie können &brandShortName; jetzt neu starten oder weiterarbeiten und später neu starten oder dieses Update ablehnen.">
 
 <!ENTITY  update.details.label            "Details">

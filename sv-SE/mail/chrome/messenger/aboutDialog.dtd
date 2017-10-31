@@ -1,26 +1,26 @@
 
-<!ENTITY copyrightText          "&#169;2007-2015 Postbox, Inc. and Contributors. All Rights Reserved. Postbox
+<!ENTITY copyrightText          "&#169;2007-2014 Postbox, Inc. and Contributors. All Rights Reserved. Postbox
                                  is developed and maintained by Postbox, Inc.">
 
 
 <!ENTITY aboutDialog.title          "Om &brandFullName;">
 
-<!ENTITY productDescription.label    "Hand-crafted, and made with love, in San Francisco, California.">
+<!ENTITY productDescription.label    "Handgjord, och skapad med kärlek, i San Francisco, Kalifonien.">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Licensinformation">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Sekretesspolicy">
+<!ENTITY bottomLinks.privacy        "Integritetspolicy">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Söker efter uppdateringar…">
+<!ENTITY update.checkingForUpdates  "Söker uppdateringar…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.checkingAddonCompat "Kollar tilläggskompatibilitet…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; är redan uppdaterad">
+<!ENTITY update.noUpdatesFound      "&brandShortName; kör senaste versionen">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Uppdateringar är inaktiverade av systemadministratören">
+<!ENTITY update.adminDisabled       "Uppdateringar nekas av din systemadministratör">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -35,7 +35,7 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Hämta den ">
+<!ENTITY update.manual.start        "Uppdateringar tillgängliga på ">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -48,4 +48,4 @@
 
 <!ENTITY cmdCloseMac.commandKey "w">
 
-<!ENTITY pb.safeMode.label "Running in Safe Mode">
+<!ENTITY pb.safeMode.label "Kör i säkert läge">

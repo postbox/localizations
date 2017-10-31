@@ -1,16 +1,16 @@
-<!ENTITY pane.title                 "Delivery Status Notification">
-<!ENTITY useGlobalPrefs.label       "Use my global Delivery Status Notification preferences for this account">
-<!ENTITY useGlobalPrefs.accesskey   "U">
-<!ENTITY useCustomPrefs.label       "Customize Delivery Status Notification for this account">
-<!ENTITY useCustomPrefs.accesskey   "C">
-<!ENTITY requestAlways.label        "When sending messages, always request a Delivery Status Notification">
-<!ENTITY requestAlways.accesskey    "W">
-<!ENTITY optionTitle.label          "Ask notification on :">
-<!ENTITY requestOnSucess.label      "Success in delivering">
-<!ENTITY requestOnSucess.accesskey  "S">
-<!ENTITY requestOnFailure.label     "Failure in delivering">
-<!ENTITY requestOnFailure.accesskey "F">
-<!ENTITY requestOnDelay.label       "Delay in delivering">
-<!ENTITY requestOnDelay.accesskey   "D">
-<!ENTITY requestNever.label         "Never receive Delivery Status Notification">
+<!ENTITY pane.title                 "Übermittlungsstatus (DSN) anfordern">
+<!ENTITY useGlobalPrefs.label       "Meine globalen Einstellungen für Sendestatus-Benachrichtigungen dieses Kontos verwenden">
+<!ENTITY useGlobalPrefs.accesskey   "u">
+<!ENTITY useCustomPrefs.label       "Versandstatusmitteilung für diese Konto anpassen">
+<!ENTITY useCustomPrefs.accesskey   "V">
+<!ENTITY requestAlways.label        "Beim Senden von Nachrichten immer eine Versandstatusmeldung anfordern">
+<!ENTITY requestAlways.accesskey    "B">
+<!ENTITY optionTitle.label          "Nach Bestätigung fragen bei:">
+<!ENTITY requestOnSucess.label      "Erfolgreich zugestellt">
+<!ENTITY requestOnSucess.accesskey  "s">
+<!ENTITY requestOnFailure.label     "Zustellung fehlgeschlagen">
+<!ENTITY requestOnFailure.accesskey "f">
+<!ENTITY requestOnDelay.label       "Zustellung verzögert">
+<!ENTITY requestOnDelay.accesskey   "Z">
+<!ENTITY requestNever.label         "Niemals eine Benachrichtigung über den Zustellstatus empfangen">
 <!ENTITY requestNever.accesskey     "N">

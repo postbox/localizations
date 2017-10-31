@@ -4,25 +4,25 @@
 
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Cartelle e copie">
-<!ENTITY fccMailFolder.label "copia il messaggio in:">
-<!ENTITY fccMailFolder.accesskey "P">
-<!ENTITY fccReplyFollowsParent.label "Salva le risposte nella cartella del messaggio a cui si è risposto">
+<!ENTITY copyAndFolderTitle.label "Copie e cartelle">
+<!ENTITY fccMailFolder.label "Salva una copia in:">
+<!ENTITY fccMailFolder.accesskey "p">
+<!ENTITY fccReplyFollowsParent.label "Salva le risposte nella cartella del messaggio che ha ricevuto le risposte">
 <!ENTITY fccReplyFollowsParent.accesskey "u">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc a questi indirizzi di posta:">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Separare gli indirizzi con virgole">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Copia nascosta a questi indirizzi di posta:">
+<!ENTITY bccAddress.label "Bcc questi indirizzi e-mail:">
 <!ENTITY bccAddress.accesskey "n">
 <!ENTITY bccAddressList.placeholder "Separare gli indirizzi con virgole">
-<!ENTITY saveMessageDlg.label "Chiedi conferma quando si salvano i messaggi">
+<!ENTITY saveMessageDlg.label "Mostra riquadro di conferma quando si salvano i messaggi">
 <!ENTITY saveMessageDlg.accesskey "h">
 <!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY sentFolderOn1.label "Inviata:">
 <!ENTITY sentFolderOn1.accesskey "e">
-<!ENTITY sentInOtherFolder.label "altra:">
+<!ENTITY sentInOtherFolder.label "Altra:">
 <!ENTITY sentInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Archivi messaggi">
@@ -30,25 +30,25 @@
 <!ENTITY keepArchives.accesskey "C">
 <!ENTITY archiveHierarchyButton.label "Opzioni di archiviazione…">
 <!ENTITY archiveHierarchyButton.accesskey "O">
-<!ENTITY archivesFolderOn1.label "Archive:">
-<!ENTITY archivesFolderOn1.accesskey "n">
-<!ENTITY archiveInOtherFolder.label "altra:">
+<!ENTITY archivesFolderOn1.label "Archivio:">
+<!ENTITY archivesFolderOn1.accesskey "A">
+<!ENTITY archiveInOtherFolder.label "Altra:">
 <!ENTITY archiveInOtherFolder.accesskey "a">
 <!ENTITY specialFolders.label "Bozze e modelli">
 <!ENTITY keepDrafts2.label "Mantenere le bozze in:">
 <!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn1.label "Drafts:">
+<!ENTITY draftsFolderOn1.label "Bozze:">
 <!ENTITY draftsFolderOn1.accesskey "D">
-<!ENTITY draftInOtherFolder.label "altra:">
+<!ENTITY draftInOtherFolder.label "Altra:">
 <!ENTITY draftInOtherFolder.accesskey "l">
 <!ENTITY keepTemplates.label "Tenere i modelli di messaggio in:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn1.label "Templates:">
+<!ENTITY templatesFolderOn1.label "Modelli:">
 <!ENTITY templatesFolderOn1.accesskey "m">
-<!ENTITY templateInOtherFolder.label "altra:">
+<!ENTITY templateInOtherFolder.label "Altra:">
 <!ENTITY templateInOtherFolder.accesskey "r">
 
-<!ENTITY pbSentSettings.label "Sent">
-<!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
+<!ENTITY pbSentSettings.label "Inviato">
+<!ENTITY pbDraftsSettings.label "Bozza">
+<!ENTITY pbArchiveSettings.label "Archivio">
+<!ENTITY pbTemplatesSettings.label "Modelli">

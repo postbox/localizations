@@ -8,11 +8,11 @@
 <!ENTITY pbOrganizationField.label "Organization:">
 <!ENTITY pbReplyToField.label "Reply-To:">
 
-<!ENTITY subjectField.label "Subject:">
+<!ENTITY subjectField.label "Subject: ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY pbCcField.label "Cc:">
 <!ENTITY pbBccField.label "Bcc:">
-<!ENTITY pbNewsgroupsField.label "Groups:">
+<!ENTITY pbNewsgroupsField.label "Newsgroups:">
 <!ENTITY pbFollowupToField.label "Followup-To:">
 <!ENTITY pbLinkField.label "Link:">
 <!ENTITY pbTagsHdr.label "Topics:">
@@ -29,7 +29,7 @@
 <!ENTITY openAttachmentCmd.label    "Open">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Save As…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "S">
+<!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY detachAttachmentCmd.label    "Detach…">
 <!ENTITY detachAttachmentCmd.accesskey    "D">
 <!ENTITY deleteAttachmentCmd.label    "Delete">

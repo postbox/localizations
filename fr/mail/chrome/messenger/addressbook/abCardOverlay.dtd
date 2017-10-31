@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab                    "Contact">
+<!ENTITY Contact.tab                     "Contact">
 <!ENTITY Contact.accesskey              "C">
-<!ENTITY Name.box                       "Identité">
+<!ENTITY Name.box                        "Identité">
 
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -19,9 +19,9 @@
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
 <!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName">
+<!ENTITY PhoneticField1.id              "Prénom phonétique">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName">
+<!ENTITY PhoneticField2.id              "Nom phonétique">
 
 <!ENTITY NameField1.label               "Prénom :">
 <!ENTITY NameField1.accesskey           "P">
@@ -47,10 +47,10 @@
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Inconnu">
 <!ENTITY chatName.label                 "Pseudo pour discussion :">
-<!ENTITY ScreenName.label               "Screen Name:">
-<!ENTITY ScreenName.accesskey           "S">
+<!ENTITY ScreenName.label               "Pseudo AIM :">
+<!ENTITY ScreenName.accesskey           "e">
 
-<!ENTITY Phones.box                     "Phones">
+<!ENTITY Phones.box                     "Numéros de téléphone">
 <!ENTITY WorkPhone.label                "Travail :">
 <!ENTITY WorkPhone.accesskey            "l">
 <!ENTITY HomePhone.label                "Domicile :">
@@ -59,11 +59,11 @@
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pager :">
 <!ENTITY PagerNumber.accesskey          "g">
-<!ENTITY CellularNumber.label           "Mobile :">
-<!ENTITY CellularNumber.accesskey       "b">
+<!ENTITY CellularNumber.label           "Portable :">
+<!ENTITY CellularNumber.accesskey       "t">
 
-<!ENTITY Address.tab                    "Address">
-<!ENTITY Home.box                       "Home">
+<!ENTITY Address.tab                    "Adresse">
+<!ENTITY Home.box                       "Maison">
 <!ENTITY HomeAddress.label              "Adresse :">
 <!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
@@ -76,7 +76,7 @@
 <!ENTITY HomeZipCode.accesskey          "d">
 <!ENTITY HomeCountry.label              "Pays :">
 <!ENTITY HomeCountry.accesskey          "P">
-<!ENTITY HomeWebPage.label              "Page web :">
+<!ENTITY HomeWebPage.label              "Page Web :">
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Anniversaire :">
 <!ENTITY Birthday.accesskey             "A">
@@ -86,7 +86,7 @@
 <!ENTITY Age.placeholder                "Âge">
 <!ENTITY YearsOld.label                 " ans">
 
-<!ENTITY Work.box                       "Work">
+<!ENTITY Work.box                       "Travail">
 <!ENTITY JobTitle.label                 "Fonction :">
 <!ENTITY JobTitle.accesskey             "F">
 <!ENTITY Department.label               "Service :">
@@ -101,20 +101,20 @@
 <!ENTITY WorkCity.accesskey             "L">
 <!ENTITY WorkState.label                "État/Prov. :">
 <!ENTITY WorkState.accesskey            "v">
-<!ENTITY WorkZipCode.label              "Code postal :">
+<!ENTITY WorkZipCode.label              "Code Postal :">
 <!ENTITY WorkZipCode.accesskey          "t">
 <!ENTITY WorkCountry.label              "Pays :">
 <!ENTITY WorkCountry.accesskey          "s">
-<!ENTITY WorkWebPage.label              "Page web :">
+<!ENTITY WorkWebPage.label              "Page Web :">
 <!ENTITY WorkWebPage.accesskey          "b">
-<!ENTITY Picture.tab                    "Picture">
-<!ENTITY locationEditField.label        "Image Location:">
+<!ENTITY Picture.tab                    "Image">
+<!ENTITY locationEditField.label        "URL de l'image">
 <!ENTITY locationEditField.accessKey    "L">
-<!ENTITY locationEditField.tooltip      "Type the image's filename or location">
-<!ENTITY chooseButton.label             "Choose File…">
+<!ENTITY locationEditField.tooltip      "Taper le nom de fichier et l'emplacement de l'image">
+<!ENTITY chooseButton.label             "Choisir un fichier…">
 <!ENTITY chooseFile.accessKey           "C">
 
-<!ENTITY Social.tab                    "Social">
+<!ENTITY Social.tab                    "Réseaux sociaux">
 <!ENTITY twitter.label                 "Twitter">
 <!ENTITY facebook.label                "Facebook">
 <!ENTITY linkedin.label                "LinkedIn">
@@ -123,7 +123,7 @@
 <!ENTITY Other.accesskey                "n">
 <!ENTITY Birthday.label                 "Anniversaire :">
 <!ENTITY Birthday.accesskey             "A">
-<!ENTITY birthdayFormat.label           "mm/dd/yyyy">
+<!ENTITY birthdayFormat.label           "jj/mm/aaaa">
 <!ENTITY Custom1.label                  "Divers 1 :">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Divers 2 :">
@@ -132,7 +132,7 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Divers 4 :">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Notes">
+<!ENTITY Notes.box                      "Remarques">
 <!ENTITY Notes.accesskey                "N">
 
 <!ENTITY Chat.tab                       "Discussion">

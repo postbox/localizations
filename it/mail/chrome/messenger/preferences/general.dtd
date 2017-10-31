@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.label              "Consenti a Spotlight di ricercare i messaggi ">
 <!ENTITY allowSpotlight.accesskey          "w">
 
 <!ENTITY location.label                   "Posizione:">
@@ -16,7 +16,7 @@
 
 <!ENTITY newMessagesArrive.label          "All'arrivo di un messaggio:">
 <!ENTITY playSound.label                  "Riproduci un suono">
-<!ENTITY playSound1.accesskey             "o">
+<!ENTITY playSound1.accesskey              "o">
 <!ENTITY playSoundMac.label               "Esegui questo file audio:">
 <!ENTITY playSoundMac.accesskey           "E">
 <!ENTITY showAnimatedAlert.label          "Mostra un avviso">
@@ -28,19 +28,19 @@
 <!ENTITY showTrayIcon.label               "Mostra un'icona nell'area di notifica">
 <!ENTITY showTrayIcon.accesskey           "t">
 
-<!ENTITY play.label                       "Ascolta">
+<!ENTITY play.label                       "Riproduci">
 <!ENTITY play.accesskey                   "A">
-<!ENTITY systemsound.label                "Suono predefinito di sistema per nuova posta">
+<!ENTITY systemsound.label                "Suono predefinito di sistema per nuova e-mail">
 <!ENTITY systemsound.accesskey            "p">
-<!ENTITY customsound.label                "Utilizza questo file audio">
+<!ENTITY customsound.label                "Utilizza il seguente file audio">
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Sfoglia…">
 <!ENTITY browse.accesskey                 "S">
 
 <!ENTITY defaultSearchEngine.label        "Motore di ricerca predefinito">
 
-<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+<!ENTITY enableNotificationCenter.label   "Utilizza Centro notifiche">
 
-<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
+<!ENTITY showProfileManager.label   "Mostra Gestore profilo all'avvio">
 
-<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
+<!ENTITY storeLocation.label              "Archivia Argomenti, Firme, Risposte e la Rubrica in:">

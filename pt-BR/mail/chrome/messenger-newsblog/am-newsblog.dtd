@@ -4,10 +4,10 @@
 
 <!ENTITY accountTitle.label "RSS Settings">
 
-<!ENTITY indexMsgBodies.label "Index message bodies">
+<!ENTITY indexMsgBodies.label "Indexar corpo das mensagens">
 <!ENTITY indexMsgBodies.accesskey "I">
 
-<!ENTITY biffStart.label "Verificar novos itens a cada  ">
+<!ENTITY biffStart.label "Verificar novos itens a cada ">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutos">
 

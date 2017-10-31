@@ -2,33 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  connectionsDialog.title       "Verbindungs-Einstellungen">
+<!ENTITY  connectionsDialog.title       "Verbindungseinstellungen">
 
 <!ENTITY  proxyTitle.label              "Proxies für den Zugriff auf das Internet konfigurieren">
 <!ENTITY  noProxyTypeRadio.label        "Kein Proxy">
-<!ENTITY  noProxyTypeRadio.accesskey    "K">
-<!ENTITY  systemTypeRadio.label         "Proxy-Einstellungen des Systems verwenden">
-<!ENTITY  systemTypeRadio.accesskey     "r">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Proxy-Einstellungen des Systems benutzen">
+<!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Die Proxy-Einstellungen für dieses Netzwerk automatisch erkennen">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "Manuelle Proxy-Konfiguration:">
-<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "Automatische Proxy-Konfigurations-URL:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Neu laden">
 <!ENTITY  reload.accesskey              "l">
 <!ENTITY  http.label                    "HTTP-Proxy:">
-<!ENTITY  http.accesskey                "h">
+<!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL-Proxy:">
-<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "SOCKS-Host">
-<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  HTTPport.label                "Port:">
-<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  HTTPport.label                "Port">
+<!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.label                 "Port:">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  SOCKSport.label               "Port:">

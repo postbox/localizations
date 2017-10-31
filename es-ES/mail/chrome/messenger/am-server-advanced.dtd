@@ -11,20 +11,20 @@
 <!ENTITY dualUseFolders.label "El servidor admite carpetas que contengan sub-carpetas y mensajes">
 <!ENTITY dualUseFolders.accesskey "g">
 <!ENTITY maximumConnectionsNumber.label "Número máximo de conexiones del servidor a la caché">
-<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Estas preferencias especifican los espacios de nombres en su servidor IMAP">
 <!ENTITY personalNamespace.label "Espacio de nombres personal:">
-<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY personalNamespace.accesskey "p">
 <!ENTITY publicNamespace.label "Público (compartido):">
 <!ENTITY publicNamespace.accesskey "b">
 <!ENTITY otherUsersNamespace.label "Otros usuarios:">
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "Permitir que el servidor reemplace estos espacios de nombres">
-<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3DeferringDesc.label "Al descargar mensajes del servidor de esta cuenta, usar la siguiente carpeta para guardar los nuevos mensajes:">
 <!ENTITY accountInbox.accesskey "e">
 <!ENTITY deferToServer.label "Bandeja de entrada para una cuenta distinta">
-<!ENTITY deferToServer.accesskey "c">
+<!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Incluir este servidor al recibir correo nuevo">
 <!ENTITY deferGetNewMail.accesskey "I">

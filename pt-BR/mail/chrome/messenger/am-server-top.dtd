@@ -25,13 +25,13 @@
 <!ENTITY useIdleNotifications.label "Permitir notificações imediatas do servidor quando novas mensagens chegarem">
 <!ENTITY useIdleNotifications.accesskey "P">
 <!ENTITY connectionSecurity.label "Segurança da conexão:">
-<!ENTITY connectionSecurity.accesskey "d">
+<!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Nenhuma">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, se disponível">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Modo de autenticação:">
-<!ENTITY authMethod.accesskey "o">
+<!ENTITY authMethod.label "Autenticação:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Manter mensagens no servidor">
 <!ENTITY leaveOnServer.accesskey "M">
 <!ENTITY headersOnly.label "Receber somente os cabeçalhos">
@@ -49,7 +49,7 @@
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Somente marcar como excluída">
 <!ENTITY modelMarkDeleted.accesskey "S">
-<!ENTITY modelDeleteImmediately.label "Remover imediatamente">
+<!ENTITY modelDeleteImmediately.label "Excluir imediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Limpar a pasta “Entrada” ao sair">
@@ -62,21 +62,21 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart1.label "Ask when downloading more than">
+<!ENTITY maxMessagesStart1.label "Perguntar quando baixar mais que">
 <!ENTITY maxMessagesStart1.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mensagens">
-<!ENTITY alwaysAuthenticate1.label "Always request authentication">
+<!ENTITY alwaysAuthenticate1.label "Sempre solicitar autenticação">
 <!ENTITY alwaysAuthenticate1.accesskey "w">
-<!ENTITY abbreviate.label "Exibir nomes de newsgroups na área de pastas como:">
+<!ENTITY abbreviate.label "Exibir nomes de grupos de notícias na área de pastas como:">
 <!ENTITY abbreviateOn.label "Nome completo (exemplo: netscape.public.mozilla.mail-news)">
 <!ENTITY abbreviateOff.label "Nomes abreviados (exemplo: n.p.m.mail-news)">
 <!ENTITY advancedButton.label "Avançado…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset2.label "Codificação padrão do texto:">
 
-<!ENTITY accountName.label "Account Name:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.label "Nome da conta:">
+<!ENTITY accountName.accesskey "n">
 
 <!ENTITY accountTitle.label "Configurações da conta">
 <!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não há identidades associadas a ela.">

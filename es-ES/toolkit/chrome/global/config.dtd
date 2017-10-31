@@ -42,9 +42,9 @@
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "Nuevo">
 <!ENTITY new.accesskey "o">
-<!ENTITY string.label "cadena">
+<!ENTITY string.label "Cadena">
 <!ENTITY string.accesskey "C">
-<!ENTITY integer.label "entero">
+<!ENTITY integer.label "Entero">
 <!ENTITY integer.accesskey "E">
-<!ENTITY boolean.label "sí/no">
-<!ENTITY boolean.accesskey "s">
+<!ENTITY boolean.label "Lógico">
+<!ENTITY boolean.accesskey "L">

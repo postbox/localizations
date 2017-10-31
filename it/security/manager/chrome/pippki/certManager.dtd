@@ -11,7 +11,7 @@
 <!ENTITY certmgr.tab.orphan2 "Altro">
 
 <!ENTITY certmgr.mine "Sono presenti certificati rilasciati dalle seguenti organizzazioni che attestano la propria identità:">
-<!ENTITY certmgr.others "Sono presenti certificati su file che identificano le seguenti persone:">
+<!ENTITY certmgr.others "Sono presenti certificati che identificano le seguenti persone:">
 <!ENTITY certmgr.websites2 "Sono presenti certificati su file che identificano i seguenti server:">
 <!ENTITY certmgr.cas "Sono presenti certificati su file che identificano le seguenti autorità di certificazione:">
 <!ENTITY certmgr.orphans "Sono presenti certificati su file che non rientrano in nessuna delle altre categorie:">
@@ -26,12 +26,12 @@
 <!ENTITY certmgr.issuerinfo.label "Rilasciato da">
 <!ENTITY certmgr.periodofvalidity.label "Periodo di validità">
 <!ENTITY certmgr.certdetail.title "Dettagli certificato">
-<!ENTITY certmgr.certdetail.cn "Nome comune (CN)">
+<!ENTITY certmgr.certdetail.cn "Nome Comune (CN)">
 <!ENTITY certmgr.certdetail.o "Organizzazione (O)">
-<!ENTITY certmgr.certdetail.ou "Unità organizzativa (OU)">
+<!ENTITY certmgr.certdetail.ou "Unità Organizzativa (OU)">
 <!ENTITY certmgr.certdetail.serialnumber "Numero seriale">
 <!ENTITY certmgr.certdetail.sha256fingerprint "Impronta digitale SHA-256">
-<!ENTITY certmgr.certdetail.sha1fingerprint "Impronta digitale SHA1">
+<!ENTITY certmgr.certdetail.sha1fingerprint "Impronta digitale SH1">
 
 <!ENTITY certmgr.editcacert.title "Modifica impostazioni fiducia certificato CA">
 <!ENTITY certmgr.editcert.edittrust "Modifica impostazioni attendibilità:">
@@ -39,15 +39,15 @@
 <!ENTITY certmgr.editcert.trustemail "Questo certificato può identificare utenti di posta.">
 <!ENTITY certmgr.editcert.trustobjsign "Questo certificato può identificare produttori software.">
 
-<!ENTITY certmgr.deletecert.title "Eliminazione certificato">
+<!ENTITY certmgr.deletecert.title "Elimina certificato">
 
 <!ENTITY certmgr.certname "Nome certificato">
 <!ENTITY certmgr.certserver "Server">
 <!ENTITY certmgr.override_lifetime "Durata">
 <!ENTITY certmgr.tokenname "Dispositivo di sicurezza">
 <!ENTITY certmgr.begins "Inizia il">
-<!ENTITY certmgr.expires "Termina il">
-<!ENTITY certmgr.email "Indirizzo email">
+<!ENTITY certmgr.expires "Scade il">
+<!ENTITY certmgr.email "Indirizzo e-mail">
 <!ENTITY certmgr.serial "Numero seriale">
 
 <!ENTITY certmgr.close.label "Chiudi">
@@ -80,7 +80,7 @@
 <!ENTITY exceptionMgr.title "Aggiungi eccezione di sicurezza">
 <!ENTITY exceptionMgr.exceptionButton.label "Conferma eccezione di sicurezza">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
-<!ENTITY exceptionMgr.supplementalWarning "Banche, negozi e altri siti pubblici affidabili non chiederanno di fare questa operazione.">
+<!ENTITY exceptionMgr.supplementalWarning "Banche, negozi e altri siti pubblici affidabili non ti chiederanno di fare questa operazione.">
 <!ENTITY exceptionMgr.certlocation.caption2 "Server">
 <!ENTITY exceptionMgr.certlocation.url "Indirizzo:">
 <!ENTITY exceptionMgr.certlocation.download "Acquisisci certificato">

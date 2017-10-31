@@ -23,13 +23,13 @@
 <!ENTITY openInFolder.label          "In Ordner öffnen">
 <!ENTITY openInFolder.accesskey      "d">
 <!ENTITY saveAsVFButton.label        "Als virtuellen Ordner speichern…">
-<!ENTITY saveAsVFButton.accesskey    "p">
+<!ENTITY saveAsVFButton.accesskey    "v">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Suchen in:">
-<!ENTITY abSearchHeading.accesskey   "u">
+<!ENTITY abSearchHeading.accesskey   "S">
 <!ENTITY propertiesButton.label      "Eigenschaften">
-<!ENTITY propertiesButton.accesskey  "E">
+<!ENTITY propertiesButton.accesskey  "i">
 <!ENTITY composeButton.label         "Verfassen">
 <!ENTITY composeButton.accesskey     "V">
 <!ENTITY deleteCardButton.label      "Löschen">
@@ -51,7 +51,7 @@
 <!ENTITY junkStatusColumn.label "Junk-Status">
 <!ENTITY unreadColumn.label "Ungelesen">
 <!ENTITY totalColumn.label "Gesamt">
-<!ENTITY readColumn.label "Gelesen / Ungelesen">
+<!ENTITY readColumn.label "Gelesen">
 <!ENTITY receivedColumn.label "Empfangen">
 <!ENTITY starredColumn.label "Kennzeichnung">
 <!ENTITY locationColumn.label "Ablageort">

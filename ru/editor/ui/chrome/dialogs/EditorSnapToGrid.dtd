@@ -4,9 +4,9 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Прижимание к сетке">
+<!ENTITY windowTitle.label "Привязка к сетке">
 
-<!ENTITY enableSnapToGrid.label "Прижимать объекты к сетке">
+<!ENTITY enableSnapToGrid.label "Привязать объекты к сетке">
 <!ENTITY enableSnapToGrid.accessKey "П">
 
 <!ENTITY sizeEditField.label "На расстоянии:">

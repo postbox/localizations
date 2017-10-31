@@ -6,7 +6,7 @@
 <!ENTITY allowSpotlight.accesskey          "w">
 
 <!ENTITY location.label                   "Location:">
-<!ENTITY location1.accesskey              "L">
+<!ENTITY location1.accesskey               "L">
 <!ENTITY useDefault.label                 "Restore Default">
 <!ENTITY useDefault.accesskey             "R">
 
@@ -16,7 +16,7 @@
 
 <!ENTITY newMessagesArrive.label          "When new messages arrive:">
 <!ENTITY playSound.label                  "Play a sound">
-<!ENTITY playSound1.accesskey             "d">
+<!ENTITY playSound1.accesskey              "d">
 <!ENTITY playSoundMac.label               "Play the following sound file:">
 <!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Show an alert">
@@ -43,4 +43,4 @@
 
 <!ENTITY showProfileManager.label   "Show Profile Manager on startup">
 
-<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
+<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address Book at:">

@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Свойства списка выборов">
+<!ENTITY windowTitle.label "Свойства списка выбора">
 
-<!ENTITY Select.label "Список выборов">
+<!ENTITY Select.label "Список выбора">
 <!ENTITY SelectName.label "Имя списка:">
 <!ENTITY SelectName.accesskey "И">
 <!ENTITY SelectSize.label "Высота:">

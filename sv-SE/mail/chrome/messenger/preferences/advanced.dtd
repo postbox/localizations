@@ -7,32 +7,32 @@
 <!ENTITY itemUpdate.label        "Uppdateringar">
 <!ENTITY itemNetworking.label    "Nätverk &amp; diskutrymme">
 <!ENTITY itemCertificates.label  "Certifikat">
-<!ENTITY itemWebServices.label   "Web Services">
-<!ENTITY itemQuickPost.label     "Quick Post">
+<!ENTITY itemWebServices.label   "Webbtjänster">
+<!ENTITY itemQuickPost.label     "Snabbpost">
 
 <!-- General Settings -->
-<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!ENTITY autoMarkAsRead.label          "Märk automatiskt meddelanden som lästa">
+<!ENTITY autoMarkAsRead.accesskey      "M">
+<!ENTITY markAsReadNoDelay.label       "Omedelbart vid visning">
+<!ENTITY markAsReadNoDelay.accesskey   "O">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "After displaying for">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "seconds">
-<!ENTITY rememberLastMsg.label         "Remember the last selected message">
+<!ENTITY markAsReadDelay.label         "Efter att ha visats i">
+<!ENTITY markAsReadDelay.accesskey     "E">
+<!ENTITY secondsLabel.label            "sekunder">
+<!ENTITY rememberLastMsg.label         "Kom ihåg senast valda meddelande">
 <!ENTITY rememberLastMsg.accesskey     "b">
-<!ENTITY openMsgIn1.label              "Open messages in:">
-<!ENTITY openMsgInNewTab.label          "a new tab">
-<!ENTITY openMsgInNewTab.accesskey      "a">
-<!ENTITY openMsgInNewWindow.label       "a new window">
+<!ENTITY openMsgIn1.label              "Nya meddelanden ska öppnas i:">
+<!ENTITY openMsgInNewTab.label          "en ny flik">
+<!ENTITY openMsgInNewTab.accesskey      "n">
+<!ENTITY openMsgInNewWindow.label       "ett nytt fönster">
 <!ENTITY openMsgInNewWindow.accesskey   "i">
-<!ENTITY openMsgInExistingWindow.label  "an existing window">
+<!ENTITY openMsgInExistingWindow.label  "ett befintligt fönster">
 <!ENTITY openMsgInExistingWindow.accesskey "x">
-<!ENTITY connectionTimeout.label       "Connection timeout: ">
+<!ENTITY connectionTimeout.label       "Tidsgränsen för anslutningen nåddes: ">
 <!ENTITY connectionTimeout.accesskey   "C">
-<!ENTITY connectionSeconds.label       "seconds">
+<!ENTITY connectionSeconds.label       "sekunder">
 <!ENTITY enableGlodaSearch.label       "Aktivera global sökning och indexering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY allowHWAccel.label            "Använd hårdvaruacceleration när det finns">
@@ -89,12 +89,12 @@
 <!ENTITY useService.label                "Använd en bakgrundstjänst för att installera uppdateringar">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY deleteSelectOrder.label        "After deleting a message select the:">
-<!ENTITY showPreviousMessage.label      "Previous Message">
-<!ENTITY showNextMessage.label          "Next Message">
+<!ENTITY deleteSelectOrder.label        "Efter att ett meddelande raderats välj:">
+<!ENTITY showPreviousMessage.label      "Föregående meddelande">
+<!ENTITY showNextMessage.label          "Nästa meddelande">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Connection...">
+<!ENTITY showConnections.label         "Anslutning...">
 <!ENTITY showConnections.accesskey     "n">
 
 <!ENTITY offlineCompactFolders.label     "Komprimera alla mappar när det kommer spara över">
@@ -114,62 +114,62 @@
 <!ENTITY clearCacheNow.accesskey         "R">
 
 <!-- Certificates -->
-<!ENTITY certSelection.label "When a server requests my certificate:">
+<!ENTITY certSelection.label "När en server frågar efter mitt certifikat:">
 <!ENTITY certs.auto                      "Välj ett automatiskt">
 <!ENTITY certs.auto.accesskey            "a">
-<!ENTITY certs.ask                       "Fråga varje gång">
+<!ENTITY certs.ask                       "Fråga mig varje gång">
 <!ENTITY certs.ask.accesskey             "F">
 <!ENTITY enableOCSP.label                "Använd OCSP-mekanism för att bekräfta giltigheten på certifikaten">
 <!ENTITY enableOCSP.accesskey            "o">
 
 <!ENTITY manageCertificates.label "Hantera certifikat">
 <!ENTITY manageCertificates.accesskey "H">
-<!ENTITY viewCRLs.label                 "Revocation Lists">
-<!ENTITY viewCRLs.accesskey             "e">
-<!ENTITY viewOCSP.label                 "Verification">
+<!ENTITY viewCRLs.label                 "Spärrlistor">
+<!ENTITY viewCRLs.accesskey             "S">
+<!ENTITY viewOCSP.label                 "Verifikation">
 <!ENTITY viewOCSP.accesskey             "f">
-<!ENTITY viewSecurityDevices.label "Säkerhetsenheter">
-<!ENTITY viewSecurityDevices.accesskey "k">
+<!ENTITY viewSecurityDevices.label      "Säkerhetsenheter">
+<!ENTITY viewSecurityDevices.accesskey  "k">
 
 <!-- Web Services -->
-<!ENTITY webservicesInfo.label          "Configure the Web services used within &brandShortName;.">
+<!ENTITY webservicesInfo.label          "Konfigurera webbtjänsterna som används med Postbox.">
 
-<!ENTITY textStartUp   "When starting up:">
-<!ENTITY radioRememberPrevState "Remember previous online state">
+<!ENTITY textStartUp   "Vid start:">
+<!ENTITY radioRememberPrevState "Kom ihåg föregående online-läge">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe "Ask me for online state at startup">
+<!ENTITY radioAskMe "Fråga mig om online-läge vid start">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline "Always start up online">
+<!ENTITY radioAlwaysOnline "Starta alltid online">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline1 "When going online:">
-<!ENTITY radioAutoSend1 "Send unsent messages">
-<!ENTITY radioNotSend1 "Do not send unsent messages">
-<!ENTITY radioAskUnsent1 "Ask to send unsent messages">
+<!ENTITY textGoingOnline1 "När online-läge aktiveras:">
+<!ENTITY radioAutoSend1 "Skicka osända meddelanden">
+<!ENTITY radioNotSend1 "Skicka inte osända meddelanden">
+<!ENTITY radioAskUnsent1 "Fråga om osända meddelanden ska skickas">
 
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload "Yes">
+<!ENTITY textGoingOffline "Ladda ner meddelanden för offline-användning vid övergång till offline-läge?">
+<!ENTITY radioAutoDownload "ja">
 <!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload "No">
+<!ENTITY radioNotDownload "Nej">
 <!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload "Ask me">
-<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY radioAskDownload "Fråga mig">
+<!ENTITY radioAskDownload.accesskey "A">
 
-<!ENTITY useGmailShortcuts.label "Use Gmail keyboard shortcuts">
+<!ENTITY useGmailShortcuts.label "Använd Gmail-tangentbordets genvägar">
 <!ENTITY useGmailShortcuts.accesskey "l">
 
-<!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
-<!ENTITY pbUseGravatar.accesskey "G">
+<!ENTITY pbUseGravatar.label "Använd Gravatar-tjänsten för att hitta bilder på kontakter.">
+<!ENTITY pbUseGravatar.accesskey "g">
 
-<!ENTITY pbUseGoogleCalendar.label "Use Google Calendar for detected dates.">
+<!ENTITY pbUseGoogleCalendar.label "Använd Google Calendar för funna datum.">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
 
-<!ENTITY pbSwipeLeft.label "Swipe Left:">
-<!ENTITY pbSwipeRight.label "Swipe Right:">
-<!ENTITY pbNextMessage.label "Select Next Message">
-<!ENTITY pbPreviousMessage.label "Select Previous Message">
-<!ENTITY pbDeleteMessage.label "Delete Message">
-<!ENTITY pbArchiveMessage.label "Archive Message">
-<!ENTITY pbOpenMessage.label "Open Message">
-<!ENTITY pbOpenFolderPane.label "Open Folder Pane">
-<!ENTITY pbCloseFolderPane.label "Close Folder Pane">
+<!ENTITY pbSwipeLeft.label "Dra vänster:">
+<!ENTITY pbSwipeRight.label "Dra höger:">
+<!ENTITY pbNextMessage.label "Välj nästa meddelande">
+<!ENTITY pbPreviousMessage.label "Välj föregående meddelande">
+<!ENTITY pbDeleteMessage.label "Radera meddelande">
+<!ENTITY pbArchiveMessage.label "Arkivera meddelande">
+<!ENTITY pbOpenMessage.label "Öppna meddelande">
+<!ENTITY pbOpenFolderPane.label "Öppna mappvyn">
+<!ENTITY pbCloseFolderPane.label "Stäng mappvyn">

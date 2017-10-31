@@ -15,7 +15,7 @@
 <!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Set as Default">
-<!ENTITY setDefaultButton.accesskey "f">
+<!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Remove Account">
 <!ENTITY removeButton.accesskey "R">
 

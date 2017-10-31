@@ -27,7 +27,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "Assistant d’importation de &brandShortName;">
+<!ENTITY importTitle.label        "Assistant d'importation de &brandShortName;">
 <!ENTITY importShortDesc.label    "Importer le courrier, les paramètres, les carnets d’adresses et les filtres d’autres logiciels">
 
 <!ENTITY importDescription1.label "Cet assistant importera dans &brandShortName; les messages, carnets d’adresses, abonnements à des flux, préférences et/ou filtres d’autres logiciels de messagerie et ainsi que des carnets d’adresses de formats courants.">
@@ -48,7 +48,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY select.label             "ou sélectionnez les données que vous désirez importer :">
 
 <!ENTITY title.label              "Titre">
-<!ENTITY processing.label         "Importation…">
+<!ENTITY processing.label         "Traitement en cours…">
 
 
-<!ENTITY pbSelect.label             "Select the type of material to import:">
+<!ENTITY pbSelect.label             "Sélectionnez le type de données à importer:">

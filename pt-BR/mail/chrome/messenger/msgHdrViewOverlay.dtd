@@ -2,34 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pbToField.label "To:">
-<!ENTITY pbFromField.label "From:">
-<!ENTITY pbSenderField.label "Sender:">
-<!ENTITY pbOrganizationField.label "Organization:">
-<!ENTITY pbReplyToField.label "Reply-To:">
+<!ENTITY pbToField.label "Para:">
+<!ENTITY pbFromField.label "De:">
+<!ENTITY pbSenderField.label "Remetente:">
+<!ENTITY pbOrganizationField.label "Organização:">
+<!ENTITY pbReplyToField.label "Responder para:">
 
-<!ENTITY subjectField.label "Subject:">
+<!ENTITY subjectField.label "Assunto: ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY pbCcField.label "Cc:">
-<!ENTITY pbBccField.label "Bcc:">
-<!ENTITY pbNewsgroupsField.label "Groups:">
-<!ENTITY pbFollowupToField.label "Followup-To:">
+<!ENTITY pbBccField.label "Cco:">
+<!ENTITY pbNewsgroupsField.label "Grupos de Notícias:">
+<!ENTITY pbFollowupToField.label "Encaminhar para:">
 <!ENTITY pbLinkField.label "Link:">
-<!ENTITY pbTagsHdr.label "Topics:">
-<!ENTITY pbDateField.label "Date:">
-<!ENTITY pbUserAgentField.label "User-Agent:">
-<!ENTITY pbReferencesField.label "References:">
-<!ENTITY pbMessageIdField.label "Message-ID:">
-<!ENTITY pbInReplyToField.label "In-Reply-To:">
-<!ENTITY pbOriginalWebsite.label "Website:">
-<!ENTITY pbParticipantsField.label "Participants:">
-<!ENTITY saveAll.label "Save All..">
+<!ENTITY pbTagsHdr.label "Tópicos:">
+<!ENTITY pbDateField.label "Data:">
+<!ENTITY pbUserAgentField.label "Agente do usuário:">
+<!ENTITY pbReferencesField.label "Referências:">
+<!ENTITY pbMessageIdField.label "ID da mensagem:">
+<!ENTITY pbInReplyToField.label "Em resposta a:">
+<!ENTITY pbOriginalWebsite.label "Site:">
+<!ENTITY pbParticipantsField.label "Participantes:">
+<!ENTITY saveAll.label "Salvar todos..">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Abrir">
 <!ENTITY openAttachmentCmd.accesskey    "A">
 <!ENTITY saveAsAttachmentCmd.label    "Salvar como…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "S">
+<!ENTITY saveAsAttachmentCmd.accesskey    "l">
 <!ENTITY detachAttachmentCmd.label    "Desanexar…">
 <!ENTITY detachAttachmentCmd.accesskey    "D">
 <!ENTITY deleteAttachmentCmd.label    "Excluir">
@@ -39,7 +39,7 @@
 <!ENTITY saveAllAttachmentsCmd.label    "Salvar todos…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Desanexar todos…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "t">
 <!ENTITY deleteAllAttachmentsCmd.label    "Excluir todos…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "x">
 
@@ -48,18 +48,18 @@
 <!ENTITY copyLinkCmd.label        "Copiar link">
 <!ENTITY copyLinkCmd.accesskey    "o">
 
-<!ENTITY CopyMessageId.label "Copiar identificador de mensagem">
+<!ENTITY CopyMessageId.label "Copiar Message-ID">
 <!ENTITY CopyMessageId.accesskey "C">
-<!ENTITY OpenMessageForMsgId.label "Abrir mensagem do identificador">
+<!ENTITY OpenMessageForMsgId.label "Abrir Message for ID">
 <!ENTITY OpenMessageForMsgId.accesskey "A">
-<!ENTITY OpenBrowserWithMsgId.label "Abrir identificador de mensagem no navegador">
+<!ENTITY OpenBrowserWithMsgId.label "Abrir navegador com o Message-ID">
 <!ENTITY OpenBrowserWithMsgId.accesskey "b">
 
-<!ENTITY msgHdrViewOpenMessage.label "open message">
-<!ENTITY pbMsgHdrView.showDetails.label "show details">
-<!ENTITY pbMsgHdrView.hideDetails.label "hide details">
-<!ENTITY pbMsgHdrView.conversationMsgReply.label "reply">
-<!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "reply all">
-<!ENTITY pbMsgHdrView.conversationMsgForward.label "forward">
+<!ENTITY msgHdrViewOpenMessage.label "abrir mensagem">
+<!ENTITY pbMsgHdrView.showDetails.label "exibir detalhes">
+<!ENTITY pbMsgHdrView.hideDetails.label "ocultar detalhes">
+<!ENTITY pbMsgHdrView.conversationMsgReply.label "responder">
+<!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "responder a todos">
+<!ENTITY pbMsgHdrView.conversationMsgForward.label "encaminhar">
 
-<!ENTITY pbMsgHdrView.loadingMessageBody.label "Loading...">
+<!ENTITY pbMsgHdrView.loadingMessageBody.label "Carregando...">

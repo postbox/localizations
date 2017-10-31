@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  untitledTab              "(Untitled)">
-<!ENTITY  newTab.label             "New Tab">
+<!ENTITY  untitledTab              "(Sin título)">
+<!ENTITY  newTab.label             "Nueva pestaña">
 <!ENTITY  newTab.accesskey         "N">
 
-<!ENTITY closeTab.label "Cerrar pestaña">
-<!ENTITY  closeTab.accesskey       "c">
+<!ENTITY  closeTab.label           "Cerrar pestaña">
+<!ENTITY  closeTab.accesskey       "C">
 <!ENTITY  closeOtherTabs.accesskey "o">
-<!ENTITY  closeOtherTabs.label     "Close Other Tabs">
-<!ENTITY  reloadAllTabs.label      "Reload All Tabs">
-<!ENTITY  reloadAllTabs.accesskey  "A">
-<!ENTITY  reloadTab.label          "Reload Tab">
-<!ENTITY  reloadTab.accesskey      "r">
-<!ENTITY listAllTabs.label "Listar todas las pestañas">
+<!ENTITY  closeOtherTabs.label     "Cerrar otras pestañas">
+<!ENTITY  reloadAllTabs.label      "Recargar todas las pestañas">
+<!ENTITY  reloadAllTabs.accesskey  "a">
+<!ENTITY  reloadTab.label          "Recargar pestaña">
+<!ENTITY  reloadTab.accesskey      "R">
+<!ENTITY  listAllTabs.label        "Listar todas las pestañas">
 <!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
      title to show when the tab has no title. -->
 <!ENTITY defaultTabTitle.label "Inicio">

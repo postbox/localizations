@@ -33,7 +33,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription1.label "Dieser Assistent importiert Nachrichten, Adressbucheinträge, Einstellungen und/oder Filter von anderen Mail-Anwendungen und verbreiteten Adressbuchformaten in &brandShortName;.">
 <!ENTITY importDescription2.label "Anschließend können Sie mit den importierten Daten in &brandShortName; arbeiten.">
 
-<!ENTITY selectDescription.label  "Bitte wählen Sie den Typ der Datei, aus der Sie importieren wollen:">
+<!ENTITY selectDescription.label  "Bitte wählen Sie den Typ der Datei aus, den Sie importieren wollen:">
 <!ENTITY selectDescriptionB.label "Bitte wählen Sie ein bestehendes Konto oder erstellen Sie ein neues Konto:">
 <!ENTITY selectDescription.accesskey "B">
 <!ENTITY acctName.label           "Name:">
@@ -45,10 +45,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY finish.label             "Fertigstellen">
 <!ENTITY cancel.label             "Abbrechen">
 
-<!ENTITY select.label             "oder wählen was importiert werden soll:">
+<!ENTITY select.label             "oder wählen Sie aus, was importiert werden soll:">
 
 <!ENTITY title.label              "Titel">
 <!ENTITY processing.label         "Importieren…">
 
 
-<!ENTITY pbSelect.label             "Select the type of material to import:">
+<!ENTITY pbSelect.label             "Wählen Sie die Art der zu importierenden Daten aus:">

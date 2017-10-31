@@ -3,39 +3,39 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Фильтры сообщений">
-<!ENTITY nameColumn.label "Имя фильтра">
-<!ENTITY activeColumn.label "Включён">
+<!ENTITY nameColumn.label "Название фильтра">
+<!ENTITY activeColumn.label "Включен">
 <!ENTITY newButton.label "Создать…">
-<!ENTITY newButton.accesskey "з">
+<!ENTITY newButton.accesskey "N">
 <!ENTITY newButton.popupCopy.label "Копировать…">
 <!ENTITY newButton.popupCopy.accesskey "в">
 <!ENTITY editButton.label "Изменить…">
-<!ENTITY editButton.accesskey "м">
+<!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Удалить">
-<!ENTITY deleteButton.accesskey "д">
+<!ENTITY deleteButton.accesskey "t">
 <!ENTITY reorderTopButton "В начало">
 <!ENTITY reorderTopButton.accessKey "ч">
 <!ENTITY reorderTopButton.toolTip "Переместить фильтр, чтобы он выполнялся перед всеми остальными">
-<!ENTITY reorderUpButton.label "Выше">
-<!ENTITY reorderUpButton.accesskey "ш">
-<!ENTITY reorderDownButton.label "Ниже">
-<!ENTITY reorderDownButton.accesskey "ж">
+<!ENTITY reorderUpButton.label "Вверх">
+<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderDownButton.label "Вниз">
+<!ENTITY reorderDownButton.accesskey "D">
 <!ENTITY reorderBottomButton "В конец">
 <!ENTITY reorderBottomButton.accessKey "е">
 <!ENTITY reorderBottomButton.toolTip "Переместить фильтр, чтобы он выполнялся после всех остальных">
-<!ENTITY filterHeader.label "Включённые фильтры запускаются автоматически в указанном ниже порядке.">
+<!ENTITY filterHeader.label "Включенные фильтры применяются автоматически в указанном ниже порядке.">
 <!ENTITY filtersForPrefix.label "Фильтры для:">
-<!ENTITY filtersForPrefix.accesskey "и">
+<!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Журнал фильтров">
-<!ENTITY viewLogButton.accesskey "а">
-<!ENTITY runFilters.label "Запустить">
-<!ENTITY runFilters.accesskey "п">
+<!ENTITY viewLogButton.accesskey "l">
+<!ENTITY runFilters.label "Применить">
+<!ENTITY runFilters.accesskey "R">
 <!ENTITY stopFilters.label "Остановить">
-<!ENTITY stopFilters.accesskey "о">
-<!ENTITY folderPickerPrefix.label "Запустить выбранные фильтры в папке:">
-<!ENTITY folderPickerPrefix.accesskey "ы">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "Применить выбранный(е) фильтр(ы) в папке:">
+<!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY helpButton.label "Справка">
-<!ENTITY helpButton.accesskey "к">
+<!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Поиск фильтров по имени…">
 

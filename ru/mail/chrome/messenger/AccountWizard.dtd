@@ -4,36 +4,36 @@
 
 <!-- Entities for AccountWizard -->
 
-<!ENTITY windowTitle.label "Мастер учётных записей">
+<!ENTITY windowTitle.label "Мастер учетных записей">
 <!ENTITY accountWizard.size "width: 50em; height: 40em;">
 <!ENTITY macAccountWizard.size "width: 42em; height: 40em;">
 
 <!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "Чтобы получать сообщения, сначала нужно создать учётную запись.">
-<!ENTITY accountTypeTitle.label "Параметры новой учётной записи">
+<!ENTITY accountTypeTitle.label "Настройка новой учетной записи">
 <!ENTITY accountTypeDesc2.label "Этот мастер соберёт информацию, необходимую для создания учётной записи. Если вы не знаете всей необходимой информации, свяжитесь с вашим системным администратором или поставщиком услуг Интернета.">
-<!ENTITY accountTypeDirections.label "Выберите, какой тип учётной записи вы хотите создать:">
-<!ENTITY accountTypeMail.label "Учётная запись электронной почты">
-<!ENTITY accountTypeMail.accesskey "э">
-<!ENTITY accountTypeNews.label "Учётная запись новостей">
-<!ENTITY accountTypeNews.accesskey "н">
+<!ENTITY accountTypeDirections.label "Выберите тип учетной записи, которую необходимо настроить:">
+<!ENTITY accountTypeMail.label "Учетная запись электронной почты">
+<!ENTITY accountTypeMail.accesskey "m">
+<!ENTITY accountTypeNews.label "Учетная запись группы новостей">
+<!ENTITY accountTypeNews.accesskey "w">
 
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Персональные данные">
-<!ENTITY identityDesc.label "Для каждой учётной записи имеются персональные данные, которые смогут увидеть читающие ваши письма адресаты.">
+<!ENTITY identityDesc.label "Для каждой учетной записи указываются персональные данные, которые смогут увидеть получатели ваших сообщений.">
 
-<!ENTITY fullnameLabel.label "Выводимое имя:">
-<!ENTITY fullnameLabel.accesskey "ы">
+<!ENTITY fullnameLabel.label "Ваше имя:">
+<!ENTITY fullnameLabel.accesskey "Y">
 
-<!ENTITY emailLabel.label "Адрес электронной почты:">
-<!ENTITY emailLabel.accesskey "д">
+<!ENTITY emailLabel.label "Адрес эл. почты:">
+<!ENTITY emailLabel.accesskey "E">
 
 <!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Информация о сервере входящей почты">
-<!ENTITY incomingServerTypeDesc.label "Выберите тип используемого вами сервера входящей почты.">
+<!ENTITY incomingServerTypeDesc.label "Выберите тип используемого сервера входящей почты.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -55,9 +55,9 @@
 <!ENTITY incomingUsername.label "Имя пользователя:">
 <!ENTITY incomingUsername.accesskey "м">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Введите имя используемого вами сервера новостей (NNTP) (например, «news.test.ru»).">
-<!ENTITY newsServerLabel.label "Сервер групп новостей:">
-<!ENTITY newsServerLabel.accesskey "е">
+<!ENTITY newsServerNameDesc.label "Введите имя сервера новостей (NNTP) (например, «news.example.net»).">
+<!ENTITY newsServerLabel.label "Cервер групп новостей:">
+<!ENTITY newsServerLabel.accesskey "N">
 
 <!-- Entities for Outgoing Server page -->
 
@@ -78,46 +78,46 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Будет использоваться уже существующий сервер исходящей почты (SMTP) — «">
+<!ENTITY haveSmtp1.prefix "Будет использоваться существующий сервер исходящей почты (SMTP) «">
 <!ENTITY haveSmtp1.suffix3 "».">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Будет использоваться уже существующее имя пользователя сервера исходящей почты (SMTP) —  «">
+<!ENTITY haveSmtp2.prefix "Будет использоваться существующее имя пользователя исходящей почты (SMTP) «">
 <!ENTITY haveSmtp2.suffix3 "».">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Ваш сервер исходящей почты (SMTP), «">
+<!ENTITY haveSmtp3.prefix "Указанный сервер исходящей почты (SMTP) «">
 <!ENTITY haveSmtp3.suffix3 "» идентичен серверу входящей почты, для работы пользователя будет использоваться то же имя пользователя.">
 
 <!-- Entities for Account name page -->
 
-<!ENTITY accnameTitle.label "Имя учётной записи">
+<!ENTITY accnameTitle.label "Имя учетной записи">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Введите имя этой учётной записи (например, «Рабочая», «Личная» или «Группы новостей»).">
-<!ENTITY accnameLabel.label "Имя учётной записи:">
-<!ENTITY accnameLabel.accesskey "у">
+<!ENTITY accnameDesc.label "Введите имя этой учетной записи (например, «Рабочая», «Личная» или «Новости»).">
+<!ENTITY accnameLabel.label "Имя учетной записи:">
+<!ENTITY accnameLabel.accesskey "A">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Поздравляем!">
-<!ENTITY completionText.label "Пожалуйста, проверьте, что приведённая ниже информация верна.">
+<!ENTITY completionText.label "Проверьте правильность приведенной ниже информации.">
 <!ENTITY serverTypePrefix.label "Тип сервера входящей почты:">
 <!ENTITY serverNamePrefix.label "Имя сервера входящей почты:">
 <!ENTITY smtpServerNamePrefix.label "Имя сервера исходящей почты (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Имя сервера новостей (NNTP):">
 <!ENTITY downloadOnLogin.label "Загрузить сообщения">
 <!ENTITY downloadOnLogin.accesskey "г">
-<!ENTITY deferStorageDesc.label "Если флажок снят, то почта для данной учётной записи будет хранится в её собственных папках. При этом данная учётная запись появится на самом верху списка учётных записей. Если флажок установлен, то данная учётная запись будет  частью общей папки «Входящие», находящейся в «Локальных папках».">
-<!ENTITY deferStorage.label "Использовать общую папку «Входящие» (хранить почту в «Локальных Папках»)">
+<!ENTITY deferStorageDesc.label "Дополнительно:">
+<!ENTITY deferStorage.label "Использовать общую папку «Входящие» (хранить почту в разделе «Локальные папки»)">
 <!ENTITY deferStorage.accesskey "з">
-<!ENTITY clickFinish.label "Нажмите «Готово», чтобы сохранить текущие параметры и завершить работу «Мастера учётных записей».">
-<!ENTITY clickFinish.labelMac "Нажмите «Готово», чтобы сохранить текущие параметры и завершить работу «Мастера учётных записей».">
+<!ENTITY clickFinish.label "Нажмите «Готово», чтобы сохранить текущие параметры и завершить работу мастера учетных записей.">
+<!ENTITY clickFinish.labelMac "Нажмите «Готово», чтобы сохранить текущие параметры и завершить работу мастера учетных записей.">
 
 <!-- account wizard -->
-<!ENTITY pbAccountWizard-header-email.label "Email">
-<!ENTITY pbAccountWizard-header-rss.label "RSS News &amp; Blogs">
-<!ENTITY pbAccountWizard-header-newsgroups.label "Newsgroups">
+<!ENTITY pbAccountWizard-header-email.label "Электронная почта">
+<!ENTITY pbAccountWizard-header-rss.label "RSS-новости и блоги">
+<!ENTITY pbAccountWizard-header-newsgroups.label "Группы новостей">

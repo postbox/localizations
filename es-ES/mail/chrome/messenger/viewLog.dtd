@@ -7,6 +7,6 @@
 <!ENTITY clearLog.label "Limpiar registro">
 <!ENTITY clearLog.accesskey "L">
 <!ENTITY enableLog.label "Habilitar el registro de filtrado">
-<!ENTITY enableLog.accesskey "E">
+<!ENTITY enableLog.accesskey "e">
 <!ENTITY closeLog.label "Cerrar">
-<!ENTITY closeLog.accesskey "c">
+<!ENTITY closeLog.accesskey "C">

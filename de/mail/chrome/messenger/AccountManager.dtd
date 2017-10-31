@@ -4,20 +4,20 @@
 
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Konten-Einstellungen">
+<!ENTITY accountManagerTitle.label "Konto-Einstellungen">
 
-<!ENTITY accountActionsButton.label "Konten-Aktionen">
-<!ENTITY accountActionsButton.accesskey "K">
-<!ENTITY addMailAccountButton.label "E-Mail-Konto hinzufügen…">
-<!ENTITY addMailAccountButton.accesskey "E">
+<!ENTITY accountActionsButton.label "Konto-Aktionen">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Mail-Konto hinzufügen…">
+<!ENTITY addMailAccountButton.accesskey "a">
 <!ENTITY addFeedAccountButton.label "Feed-Konto hinzufügen…">
 <!ENTITY addFeedAccountButton.accesskey "F">
-<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.label "Newsgruppen-Konto hinzufügen…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Als Standard festlegen">
-<!ENTITY setDefaultButton.accesskey "S">
+<!ENTITY setDefaultButton.accesskey "s">
 <!ENTITY removeButton.label "Konto entfernen">
-<!ENTITY removeButton.accesskey "o">
+<!ENTITY removeButton.accesskey "e">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
@@ -41,7 +41,7 @@
 <!ENTITY pbMacAccountManager.height "height: 45em;">
 <!ENTITY pbAccountTree.width "width: 25ch;">
 
-<!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Add…">
-<!ENTITY pbAccountRemoveActionsButton.label "Remove">
-<!ENTITY pbAccountRemoveActionsButton.accesskey "R">
+<!ENTITY pbAccountAddActionsButton.accesskey "H">
+<!ENTITY pbAccountAddActionsButton.label "Hinzufügen…">
+<!ENTITY pbAccountRemoveActionsButton.label "Entfernen">
+<!ENTITY pbAccountRemoveActionsButton.accesskey "r">

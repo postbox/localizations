@@ -1,28 +1,28 @@
-<!ENTITY safeb.palm.warning.title "Suspected Web Forgery">
+<!ENTITY safeb.palm.warning.title "Mogelijke Web vervalsing">
 
-<!ENTITY safeb.palm.message.p1 "This page has been reported as a web forgery designed to trick users into sharing personal or financial information. Entering any personal information on this page may result in identity theft or other fraud. &#160;">
-<!ENTITY safeb.palm.message.p1.linkText "Read more &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "Read more &#133;">
+<!ENTITY safeb.palm.message.p1 "Deze website staat geregistreerd als vervalsing, ontworpen om gebruikers persoonlijke of financiële informatie afhandig te maken. Het invoeren van persoonlijke informatie op deze website kan resulteren in identiteitsdiefstal of andere vormen van fraude. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Lees meer &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Lees meer &#133;">
 
-<!ENTITY safeb.palm.message.p2.start "These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust. You can find out more about ">
-<!ENTITY safeb.palm.message.p2.linkText "how &brandShortName; protects you">
-<!ENTITY safeb.palm.message.p2.end " from phishing attacks.">
+<!ENTITY safeb.palm.message.p2.start "Deze typen van webvervalsing worden gebruikt in oplichtingspraktijken bekend als Phishing-aanvallen. Hierbij worden frauduleuze websites en e-mails gebruikt om bronnen die U vertrouwd te imiteren. U kunt hier meer over te weten komen ">
+<!ENTITY safeb.palm.message.p2.linkText "hoe &brandShortName; U beschermt">
+<!ENTITY safeb.palm.message.p2.end " van Phishing-aanvallen.">
 
-<!ENTITY safeb.palm.accept.label "Get me out of here!">
-<!ENTITY safeb.palm.accept.statustext "Navigate to my home page">
-<!ENTITY safeb.palm.decline.label "Ignore this warning">
-<!ENTITY safeb.palm.decline.statustext "Close warning" >
-<!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
-<!ENTITY safeb.palm.report.label "Why was this site blocked?">
+<!ENTITY safeb.palm.accept.label "Haal mij weg hier!">
+<!ENTITY safeb.palm.accept.statustext "Navigeer naar mijn homepagina">
+<!ENTITY safeb.palm.decline.label "Negeer deze waarschuwing">
+<!ENTITY safeb.palm.decline.statustext "Sluit waarschuwing" >
+<!ENTITY safeb.palm.notforgery.label2 "Dit is geen webvervalsing...">
+<!ENTITY safeb.palm.report.label "Waarom wordt deze site geblokkeerd?">
 
-<!ENTITY safeb.urlbaricon.tooltip "This page might be dangerous; click for details.">
+<!ENTITY safeb.urlbaricon.tooltip "Deze pagina is mogelijk gevaarlijk; klik voor details.">
 
-<!ENTITY safeb.blocked.malware.title "Reported Attack Site!">
+<!ENTITY safeb.blocked.malware.title "Gerapporteerde Aanvalssite!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "This web site at <span id='malware_sitename'/> has been reported as an attack site and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack sites intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+<!ENTITY safeb.blocked.malware.shortDesc "De website <span id='malware_sitename'/> staat geregistreerd als een aanvalssite en is op basis van uw beveiligingsinstellingen geblokkeerd.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Aanvalssites proberen programma's te installeren die persoonlijke informatie stelen, uw computer gebruiken om anderen aan te vallen of uw systeem te beschadigen.</p><p>Sommige aanvalssites worden doelbewust gebruikt om schadelijke software te verspreiden, maar vele sites zijn zelf slachtoffer; alles gebeurt dan zonder de kennis of toestemming van diens eigenaars.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "Reported Web Forgery!">
+<!ENTITY safeb.blocked.phishing.title "Gerapporteerde Webvervalsing!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "This web site at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "De website <span id='phishing_sitename'/> staat geregistreerd als webvervalsing en is op basis van uw beveiligingsinstellingen geblokkeerd.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Webvervalsingen zijn ontworpen om u te misleiden en u persoonlijke of financiële informatie afhandig te maken door bronnen te imiteren die u wellicht vertrouwd.</p><p>Het invoeren van informatie op deze website kan leiden tot identiteitsdiefstal of andere vormen van fraude.</p>">

@@ -5,7 +5,7 @@
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Assistente de contas">
-<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+<!ENTITY accountWizard.size "width:40em; height:38em;">
 <!ENTITY macAccountWizard.size "width: 42em; height: 40em;">
 
 <!-- Entities for Account Type page -->
@@ -16,7 +16,7 @@
 <!ENTITY accountTypeDirections.label "Selecione o tipo de conta que você deseja configurar:">
 <!ENTITY accountTypeMail.label "E-mail">
 <!ENTITY accountTypeMail.accesskey "E">
-<!ENTITY accountTypeNews.label "Newsgroup">
+<!ENTITY accountTypeNews.label "Grupo de Notícias">
 <!ENTITY accountTypeNews.accesskey "N">
 
 <!-- Entities for Identity page -->
@@ -55,8 +55,8 @@
 <!ENTITY incomingUsername.label "Nome de usuário:">
 <!ENTITY incomingUsername.accesskey "N">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Forneça o nome do servidor de news NNTP (exemplo: “news.meuprovedor.com.br”).">
-<!ENTITY newsServerLabel.label "Servidor de newsgroup:">
+<!ENTITY newsServerNameDesc.label "Forneça o nome do servidor de notícias NNTP (exemplo: “news.meuprovedor.com.br”).">
+<!ENTITY newsServerLabel.label "Servidor de grupo de notícias:">
 <!ENTITY newsServerLabel.accesskey "n">
 
 <!-- Entities for Outgoing Server page -->
@@ -97,7 +97,7 @@
 
 <!ENTITY accnameTitle.label "Nome da conta">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Forneça o nome pelo qual você quer se referir a esta conta (exemplo: “Conta do trabalho”, “Casa” ou “Conta de News”).">
+<!ENTITY accnameDesc.label "Forneça o nome pelo qual você quer se referir a esta conta (por exemplo: “Conta do trabalho”, “Casa” ou “Conta de notícias).">
 <!ENTITY accnameLabel.label "Nome da conta:">
 <!ENTITY accnameLabel.accesskey "t">
 
@@ -108,7 +108,7 @@
 <!ENTITY serverTypePrefix.label "Tipo do servidor usado para receber:">
 <!ENTITY serverNamePrefix.label "Receber por este servidor:">
 <!ENTITY smtpServerNamePrefix.label "Enviar por este servidor SMTP:">
-<!ENTITY newsServerNamePrefix.label "Nome do servidor de news (NNTP):">
+<!ENTITY newsServerNamePrefix.label "Nome do servidor de notícias (NNTP):">
 <!ENTITY downloadOnLogin.label "Receber as mensagens agora">
 <!ENTITY downloadOnLogin.accesskey "R">
 <!ENTITY deferStorageDesc.label "Desmarque a opção abaixo se quiser receber as mensagens desta conta em um espaço separado. Se deixar marcado, serão usadas as pastas da conta Pastas Locais.">
@@ -118,6 +118,6 @@
 <!ENTITY clickFinish.labelMac "Clique em “Concluir” para salvar estas configurações e sair do assistente de contas.">
 
 <!-- account wizard -->
-<!ENTITY pbAccountWizard-header-email.label "Email">
-<!ENTITY pbAccountWizard-header-rss.label "RSS News &amp; Blogs">
-<!ENTITY pbAccountWizard-header-newsgroups.label "Newsgroups">
+<!ENTITY pbAccountWizard-header-email.label "E-mail">
+<!ENTITY pbAccountWizard-header-rss.label "Notícias RSS e Blogs">
+<!ENTITY pbAccountWizard-header-newsgroups.label "Grupos de Notícias">

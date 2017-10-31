@@ -8,12 +8,12 @@
 <!ENTITY fieldMapImport.next.label "Nästa">
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.label "Föregående">
-<!ENTITY fieldMapImport.previous.accesskey "F">
+<!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "Använd Flytta uppåt och Flytta neråt för att pussla ihop rätt fält i adressboken med korrekt data. Kryssa ur de delar du inte vill importera.">
 <!ENTITY fieldMapImport.up.label "Flytta uppåt">
-<!ENTITY fieldMapImport.up.accesskey "u">
+<!ENTITY fieldMapImport.up.accesskey "U">
 <!ENTITY fieldMapImport.down.label "Flytta neråt">
-<!ENTITY fieldMapImport.down.accesskey "r">
+<!ENTITY fieldMapImport.down.accesskey "D">
 <!ENTITY fieldMapImport.fieldListTitle "Fält i adressboken">
 <!ENTITY fieldMapImport.dataTitle "Post att importera">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Första posten innehåller fältnamn">

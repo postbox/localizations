@@ -1,58 +1,58 @@
 <!-- strings used in both the focus pane and the full text search focus pane -->
-<!ENTITY focusPaneFilterByTags.label    "Favorite Topics">
-<!ENTITY focusPaneAllTags.label         "All">
-<!ENTITY focusPaneNoTags.label          "None">
+<!ENTITY focusPaneFilterByTags.label    "Étiquettes favorites">
+<!ENTITY focusPaneAllTags.label         "Tous">
+<!ENTITY focusPaneNoTags.label          "Aucun">
 
 <!-- strings used only in the full text search focus pane -->
-<!ENTITY focusPaneSearchScopeTitle.label       "Search">
-<!ENTITY focusPaneSearchScopeEverywhere.label  "All Accounts">
-<!ENTITY focusPaneSearchAttribute.label        "Attributes">
-<!ENTITY focusPaneHasAttachmentAttribute.label           "Has Attachment">
+<!ENTITY focusPaneSearchScopeTitle.label       "Rechercher">
+<!ENTITY focusPaneSearchScopeEverywhere.label  "Tous les comptes">
+<!ENTITY focusPaneSearchAttribute.label        "Attributs">
+<!ENTITY focusPaneHasAttachmentAttribute.label           "Avec pièce jointe">
 <!ENTITY focusPaneUnreadAttribute.label           "Unread">
-<!ENTITY focusPaneReadAttribute.label           "Read">
-<!ENTITY focusPaneNotRepliedAttribute.label           "Not Replied">
-<!ENTITY focusPaneRepliedAttribute.label           "Replied">
-<!ENTITY focusPanePendingAttribute.label           "Pending">
-<!ENTITY focusPaneNotPendingAttribute.label        "Not Pending">
-<!ENTITY focusPaneToDoAttribute.label              "Reminders">
-<!ENTITY focusPaneNotToDoAttribute.label           "Not Reminders">
-<!ENTITY focusPaneSubscriptionsAttribute.label     "Subscriptions">
+<!ENTITY focusPaneReadAttribute.label           "Lire">
+<!ENTITY focusPaneNotRepliedAttribute.label           "Non répondu">
+<!ENTITY focusPaneRepliedAttribute.label           "Répondu">
+<!ENTITY focusPanePendingAttribute.label           "En cours de traitement">
+<!ENTITY focusPaneNotPendingAttribute.label        "N'est plus en cours de traitement">
+<!ENTITY focusPaneToDoAttribute.label              "Rappel">
+<!ENTITY focusPaneNotToDoAttribute.label           "Supprimer le rappel">
+<!ENTITY focusPaneSubscriptionsAttribute.label     "Abonnements">
 <!ENTITY focusPaneSocialAttribute.label            "Social">
-<!ENTITY focusPaneToMeOnlyAttribute.label          "To Me Only">
-<!ENTITY focusPaneFilterByDate.label    "Date">
-<!ENTITY focusPaneAnyDate.label         "Any Date">
-<!ENTITY focusPaneToday.label           "Today">
-<!ENTITY focusPaneYesterday.label       "Yesterday">
-<!ENTITY focusPaneThisWeek.label        "Past Week">
-<!ENTITY focusPaneThisMonth.label       "Past Month">
-<!ENTITY focusPaneFilterByContact.label    "Favorite Contacts">
+<!ENTITY focusPaneToMeOnlyAttribute.label          "Seulement pour moi">
+<!ENTITY focusPaneFilterByDate.label    "Date ">
+<!ENTITY focusPaneAnyDate.label         "N'importe quelle date">
+<!ENTITY focusPaneToday.label           "Aujourd'hui">
+<!ENTITY focusPaneYesterday.label       "Hier">
+<!ENTITY focusPaneThisWeek.label        "Cette semaine">
+<!ENTITY focusPaneThisMonth.label       "Ce mois">
+<!ENTITY focusPaneFilterByContact.label    "Contacts favoris">
 
 <!-- focus pane topics context menus -->
-<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Rename">
+<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Renommer">
 <!ENTITY pbFavoriteTopicsContextMenu-edit.accesskey     "n">
-<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Remove From Favorites">
-<!ENTITY pbFavoriteTopicsContextMenu-favorite.accesskey "R">
-<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Delete">
-<!ENTITY pbFavoriteTopicsContextMenu-delete.accesskey   "D">
-<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Create New Favorite Topic">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Enlever des favoris">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.accesskey "r">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Supprimer">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.accesskey   "S">
+<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Créer une nouvelle étiquette favorite">
 <!ENTITY pbFavoriteTopicsContextMenu-add.accesskey      "C">
-<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Edit Topics...">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Modifier les étiquettes...">
 <!ENTITY pbFavoriteTopicsContextMenu-editAll.accesskey  "t">
-<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Définir la couleur du sujet">
 <!ENTITY pbFavoriteTopicsContextMenu-assignColor.accesskey "S">
-<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Ouvrir dans un nouvel onglet">
 <!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.accesskey "N">
 
 <!-- focus pane favorite contacts context menus -->
-<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Remove From Favorites">
+<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Enlever des favoris">
 <!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
-<!ENTITY pbFavoriteContactsContextMenu-email.label       "Compose">
+<!ENTITY pbFavoriteContactsContextMenu-email.label       "Écrire">
 <!ENTITY pbFavoriteContactsContextMenu-email.accesskey  "C">
-<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Edit Contact...">
+<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Éditer ce contact...">
 <!ENTITY pbFavoriteContactsContextMenu-edit.accesskey   "d">
-<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Create Filter...">
+<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Créer un filtre...">
 <!ENTITY pbFavoriteContactsContextMenu-createfilter.accesskey "F">
-<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Ouvrir dans un nouvel onglet">
 <!ENTITY pbFavoriteContactsContextMenu-openInNewTab.accesskey "N">
 
-<!ENTITY pbFavoriteContacts.DragLabel "Drag your favorite contacts here">
+<!ENTITY pbFavoriteContacts.DragLabel "Déplacez votre contact favori ici">

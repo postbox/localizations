@@ -2,21 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY changeAndRestartButton2.label     "Apply and Restart">
-<!ENTITY changeAndRestartButton2.accesskey "A">
+<!ENTITY changeAndRestartButton2.label     "Save and Restart">
+<!ENTITY changeAndRestartButton2.accesskey "S">
 
 
 <!ENTITY safeModeOptionsWindow.width       "width: 49em;">
-<!ENTITY safeModeOptionsDialog.title       "&brandShortName; Troubleshooting">
+<!ENTITY safeModeOptionsDialog.title       "&brandShortName; Trouble Shooting">
 
-<!ENTITY safeModeOptionsDescription2.label "If you are experiencing difficulty with Postbox, try restarting 
-with one or more of these troubleshooting options selected:">
+<!ENTITY safeModeOptionsDescription2.label "If you are experiencing difficulty with Postbox, try restarting
+with one or more of these trouble shooting options selected:">
 
 
-<!ENTITY disableAddons.label              "Disable all add-ons">
+<!ENTITY disableAddons.label              "Permanently Disable all Add-ons">
 <!ENTITY disableAddons.accesskey          "D">
 
-<!ENTITY resetToolbars.label              "Reset toolbars and controls">
+<!ENTITY resetToolbars.label              "Reset User Interface">
 <!ENTITY resetToolbars.accesskey          "R">
 
 <!ENTITY resetCacheAndIndex.label         "Reset Caches and Search Index">
@@ -35,5 +35,5 @@ with one or more of these troubleshooting options selected:">
 
 <!ENTITY safeModeDialogHelpButton.tooltip "Display online help for this dialog">
 
-<!ENTITY resetImapFolders.label           "Reset IMAP mail databases and Search Indexes">
+<!ENTITY resetImapFolders.label           "Reset IMAP mail database">
 <!ENTITY resetImapFolders.accesskey       "b">

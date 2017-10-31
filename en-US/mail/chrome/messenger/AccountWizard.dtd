@@ -57,7 +57,7 @@
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Enter the name of your news server (NNTP) (for example, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "News Server:">
-<!ENTITY newsServerLabel.accesskey "S">
+<!ENTITY newsServerLabel.accesskey "N">
 
 <!-- Entities for Outgoing Server page -->
 

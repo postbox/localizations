@@ -20,7 +20,7 @@
 <!ENTITY retentionUseAccount.label  "Mijn accountinstellingen gebruiken">
 <!ENTITY retentionUseAccount.accesskey "M">
 <!ENTITY daysOld.label "dagen">
-<!ENTITY message.label "">
+<!ENTITY message.label "berichten">
 <!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd.">
 <!ENTITY retentionCleanupImap.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd, zowel de lokale als de originele versies op de server.">
 <!ENTITY retentionCleanupPop.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd, inclusief de originele op de server.">
@@ -48,18 +48,18 @@
 <!ENTITY offlineNewsgroup.button.accesskey       "d">
 
 <!ENTITY folderProps.name.label                  "Naam:">
-<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.name.accesskey              "m">
 <!ENTITY folderProps.location.label              "Locatie:">
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Delen">
-<!ENTITY privileges.button.label                 "Bevoegdheden…">
-<!ENTITY privileges.button.accesskey             "B">
-<!ENTITY permissionsDesc.label                   "U hebt de volgende rechten:">
+<!ENTITY privileges.button.label                 "Privileges…">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "U hebt de volgende toestemmingen:">
 <!ENTITY folderType.label                        "Maptype:">
 
 <!ENTITY folderQuotaTab.label                    "Quotum">
-<!ENTITY folderQuotaRoot.label                   "Quotumhoofdmap:">
+<!ENTITY folderQuotaRoot.label                   "Quota root:">
 <!ENTITY folderQuotaUsage.label                  "Gebruik:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 

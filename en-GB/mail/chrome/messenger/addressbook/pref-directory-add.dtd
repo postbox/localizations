@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY directoryName.label               "Name: ">
-<!ENTITY directoryName.accesskey           "n">
+<!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "Hostname: ">
 <!ENTITY directoryHostname.accesskey       "o">
 <!ENTITY directoryBaseDN.label             "Base DN: ">
-<!ENTITY directoryBaseDN.accesskey         "b">
+<!ENTITY directoryBaseDN.accesskey         "B">
 <!ENTITY findButton.label                  "Find">
-<!ENTITY findButton.accesskey              "f">
+<!ENTITY findButton.accesskey              "F">
 <!ENTITY directorySecure.label             "Use secure connection (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Bind DN: ">
@@ -18,7 +18,7 @@
 <!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Advanced">
 <!ENTITY portNumber.label                  "Port number: ">
-<!ENTITY portNumber.accesskey              "p">
+<!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Search filter: ">
 <!ENTITY searchFilter.accesskey            "f">
 <!ENTITY scope.label                       "Scope: ">

@@ -9,7 +9,7 @@
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Paste Without Formatting">
-<!ENTITY pasteNoFormatting.accesskey "n">
+<!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Paste As">
 <!ENTITY pasteAs.accesskey "a">
@@ -39,7 +39,7 @@
 <!ENTITY insertTableCmd.label "Table…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
-<!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertHTMLCmd.accesskey "h">
 <!ENTITY insertMathCmd.label "Math…">
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Characters and Symbols…">
@@ -85,11 +85,11 @@
 <!ENTITY fontSizeMenu.accesskey "z">
 <!ENTITY size-tinyCmd.label "Tiny">
 <!ENTITY size-tinyCmd.accesskey "T">
-<!ENTITY size-smallCmd.label "Small">
+<!ENTITY size-smallCmd.label "small">
 <!ENTITY size-smallCmd.accesskey "S">
-<!ENTITY size-mediumCmd.label "Medium">
+<!ENTITY size-mediumCmd.label "medium">
 <!ENTITY size-mediumCmd.accesskey "M">
-<!ENTITY size-largeCmd.label "Large">
+<!ENTITY size-largeCmd.label "large">
 <!ENTITY size-largeCmd.accesskey "L">
 <!ENTITY size-extraLargeCmd.label "Extra Large">
 <!ENTITY size-extraLargeCmd.accesskey "x">
@@ -117,11 +117,11 @@
 <!ENTITY styleNonbreakingCmd.label "Nonbreaking">
 <!ENTITY styleNonbreakingCmd.accesskey "N">
 <!ENTITY styleEm.label "Emphasis">
-<!ENTITY styleEm.accesskey "E">
+<!ENTITY styleEm.accesskey "e">
 <!ENTITY styleStrong.label "Stronger Emphasis">
 <!ENTITY styleStrong.accesskey "t">
 <!ENTITY styleCite.label "Citation">
-<!ENTITY styleCite.accesskey "C">
+<!ENTITY styleCite.accesskey "c">
 <!ENTITY styleAbbr.label "Abbreviation">
 <!ENTITY styleAbbr.accesskey "A">
 <!ENTITY styleAcronym.label "Acronym">
@@ -131,7 +131,7 @@
 <!ENTITY styleSamp.label "Sample Output">
 <!ENTITY styleSamp.accesskey "m">
 <!ENTITY styleVar.label "Variable">
-<!ENTITY styleVar.accesskey "V">
+<!ENTITY styleVar.accesskey "v">
 
 <!ENTITY formatFontColor.label "Text Color…">
 <!ENTITY formatFontColor.accesskey "C">

@@ -52,7 +52,7 @@
 <!ENTITY unreadColumn.label "Não lidas">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Lida">
-<!ENTITY receivedColumn.label "Recebimento">
+<!ENTITY receivedColumn.label "Data de recebimento">
 <!ENTITY starredColumn.label "Com estrela">
 <!ENTITY locationColumn.label "Pasta">
 <!ENTITY idColumn.label "Ordem de chegada">

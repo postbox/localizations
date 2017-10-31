@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Meddelandefilter">
-<!ENTITY nameColumn.label "Filternamn">
+<!ENTITY window.title "Filterregel">
+<!ENTITY nameColumn.label "Namn på filterregeln">
 <!ENTITY activeColumn.label "Aktiv">
 <!ENTITY newButton.label "Ny…">
 <!ENTITY newButton.accesskey "N">
@@ -27,13 +27,13 @@
 <!ENTITY filtersForPrefix.label "Filterregler för:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Filterlogg">
-<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY viewLogButton.accesskey "l">
 <!ENTITY runFilters.label "Kör nu">
 <!ENTITY runFilters.accesskey "K">
 <!ENTITY stopFilters.label "Stopp">
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Kör markerade filter på:">
-<!ENTITY folderPickerPrefix.accesskey "å">
+<!ENTITY folderPickerPrefix.accesskey "K">
 <!ENTITY helpButton.label "Hjälp">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 

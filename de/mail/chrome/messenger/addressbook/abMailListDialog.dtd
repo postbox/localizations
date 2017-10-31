@@ -11,13 +11,13 @@
 <!ENTITY ListNickName.label             "Listen-Spitzname:">
 <!ENTITY ListDescription.label          "Beschreibung:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Geben Sie E-Mail-Adressen ein, um sie in die Verteilerliste einzufügen:">
-<!ENTITY UpButton.label                 "Nach oben">
+<!ENTITY AddressTitle.label             "Geben Sie die E-Mail-Adressen ein, um sie in die Verteiler-Liste einzufügen:">
+<!ENTITY UpButton.label                 "nach oben">
 <!ENTITY DownButton.label               "Nach unten">
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "H">
 <!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "S">
+<!ENTITY ListNickName.accesskey         "s">
 <!ENTITY ListDescription.accesskey      "e">
 

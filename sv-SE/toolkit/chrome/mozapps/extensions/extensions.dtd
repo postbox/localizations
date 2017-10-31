@@ -120,8 +120,10 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Vad är tillägg?">
-<!ENTITY discover.description2                "Tillägg är program som gör att du kan anpassa &brandShortName; med extra funktionalitet eller utseende. Prova ett tidsbesparande sidofält, en väderrapportör eller ett annat utseende till &brandShortName;.">
-<!ENTITY discover.footer                      "När du är ansluten till internet kommer den här panelen att visa några av de bästa och mest populära tilläggen som du kan testa.">
+<!ENTITY discover.description2                "Tillägg är program som gör att du kan anpassa &brandShortName; med
+  extra funktionalitet eller utseende. Prova ett tidsbesparande sidofält, en väderrapportör eller ett annat utseende till &brandShortName;.">
+<!ENTITY discover.footer                      "När du är ansluten till internet kommer den här panelen att visa
+  några av de bästa och mest populära tilläggen som du kan prova.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
@@ -134,11 +136,11 @@
 
 <!ENTITY detail.updateType                    "Automatiska uppdateringar">
 <!ENTITY detail.updateDefault.label           "Standard">
-<!ENTITY detail.updateDefault.tooltip         "Installera uppdateringar automatiskt endast om det är standard">
+<!ENTITY detail.updateDefault.tooltip         "Installerar uppdateringar automatiskt endast om det är standard">
 <!ENTITY detail.updateAutomatic.label         "På">
 <!ENTITY detail.updateAutomatic.tooltip       "Installerar uppdateringar automatiskt">
 <!ENTITY detail.updateManual.label            "Av">
-<!ENTITY detail.updateManual.tooltip          "Installera inte uppdateringar automatiskt">
+<!ENTITY detail.updateManual.tooltip          "Installerar inte uppdateringar automatiskt">
 <!ENTITY detail.home                          "Webbplats">
 <!ENTITY detail.repository                    "Tilläggets profil">
 <!ENTITY detail.size                          "Storlek">
@@ -209,10 +211,10 @@
 
 <!ENTITY addon.createdBy.label                "Av ">
 
-<!ENTITY eula.title                           "Licensavtal för slutanvändare">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Acceptera och installera…">
+<!ENTITY eula.title                       "Licensavtal för slutanvändare">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "Acceptera och installera…">
 
 <!ENTITY settings.path.button.label           "Bläddra…">
 

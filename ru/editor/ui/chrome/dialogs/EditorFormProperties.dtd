@@ -8,11 +8,11 @@
 
 <!ENTITY FormName.label "Имя формы:">
 <!ENTITY FormName.accesskey "И">
-<!ENTITY FormAction.label "URL обработчика:">
+<!ENTITY FormAction.label "URL-адрес действия:">
 <!ENTITY FormAction.accesskey "о">
-<!ENTITY FormMethod.label "Метод:">
+<!ENTITY FormMethod.label "Способ:">
 <!ENTITY FormMethod.accesskey "М">
-<!ENTITY FormEncType.label "Тип содержимого:">
+<!ENTITY FormEncType.label "Кодировка:">
 <!ENTITY FormEncType.accesskey "Т">
 <!ENTITY FormTarget.label "Целевой фрейм:">
 <!ENTITY FormTarget.accesskey "Ц">

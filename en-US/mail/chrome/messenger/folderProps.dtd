@@ -21,7 +21,7 @@
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "days old">
 <!ENTITY message.label "messages">
-<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted.">
+<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted">
 <!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
 <!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
 <!ENTITY retentionDeleteMsg.label "Delete messages more than">
@@ -53,7 +53,7 @@
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Sharing">
-<!ENTITY privileges.button.label                 "Privileges…">
+<!ENTITY privileges.button.label                 "Privileges...">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "You have the following permissions:">
 <!ENTITY folderType.label                        "Folder Type:">

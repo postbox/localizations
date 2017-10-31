@@ -1,58 +1,58 @@
 <!-- strings used in both the focus pane and the full text search focus pane -->
-<!ENTITY focusPaneFilterByTags.label    "Favorite Topics">
-<!ENTITY focusPaneAllTags.label         "All">
-<!ENTITY focusPaneNoTags.label          "None">
+<!ENTITY focusPaneFilterByTags.label    "Favoriete labels">
+<!ENTITY focusPaneAllTags.label         "Alle">
+<!ENTITY focusPaneNoTags.label          "Geen">
 
 <!-- strings used only in the full text search focus pane -->
-<!ENTITY focusPaneSearchScopeTitle.label       "Search">
-<!ENTITY focusPaneSearchScopeEverywhere.label  "All Accounts">
-<!ENTITY focusPaneSearchAttribute.label        "Attributes">
-<!ENTITY focusPaneHasAttachmentAttribute.label           "Has Attachment">
-<!ENTITY focusPaneUnreadAttribute.label           "Unread">
-<!ENTITY focusPaneReadAttribute.label           "Read">
-<!ENTITY focusPaneNotRepliedAttribute.label           "Not Replied">
-<!ENTITY focusPaneRepliedAttribute.label           "Replied">
-<!ENTITY focusPanePendingAttribute.label           "Pending">
-<!ENTITY focusPaneNotPendingAttribute.label        "Not Pending">
-<!ENTITY focusPaneToDoAttribute.label              "Reminders">
-<!ENTITY focusPaneNotToDoAttribute.label           "Not Reminders">
-<!ENTITY focusPaneSubscriptionsAttribute.label     "Subscriptions">
-<!ENTITY focusPaneSocialAttribute.label            "Social">
-<!ENTITY focusPaneToMeOnlyAttribute.label          "To Me Only">
-<!ENTITY focusPaneFilterByDate.label    "Date">
-<!ENTITY focusPaneAnyDate.label         "Any Date">
-<!ENTITY focusPaneToday.label           "Today">
-<!ENTITY focusPaneYesterday.label       "Yesterday">
-<!ENTITY focusPaneThisWeek.label        "Past Week">
-<!ENTITY focusPaneThisMonth.label       "Past Month">
-<!ENTITY focusPaneFilterByContact.label    "Favorite Contacts">
+<!ENTITY focusPaneSearchScopeTitle.label       "Zoeken">
+<!ENTITY focusPaneSearchScopeEverywhere.label  "Alle Accounts">
+<!ENTITY focusPaneSearchAttribute.label        "Eigenschappen">
+<!ENTITY focusPaneHasAttachmentAttribute.label           "Heeft bijlage">
+<!ENTITY focusPaneUnreadAttribute.label           "Ongelezen">
+<!ENTITY focusPaneReadAttribute.label           "Lezen">
+<!ENTITY focusPaneNotRepliedAttribute.label           "Niet Beantwoord">
+<!ENTITY focusPaneRepliedAttribute.label           "Beantwoord">
+<!ENTITY focusPanePendingAttribute.label           "In behandeling">
+<!ENTITY focusPaneNotPendingAttribute.label        "Niet in behandeling">
+<!ENTITY focusPaneToDoAttribute.label              "Herinneringen">
+<!ENTITY focusPaneNotToDoAttribute.label           "Geen Herinneringen">
+<!ENTITY focusPaneSubscriptionsAttribute.label     "Abonnementen">
+<!ENTITY focusPaneSocialAttribute.label            "Sociaal">
+<!ENTITY focusPaneToMeOnlyAttribute.label          "Alleen Naar Mij">
+<!ENTITY focusPaneFilterByDate.label    "Datum">
+<!ENTITY focusPaneAnyDate.label         "Elke datum">
+<!ENTITY focusPaneToday.label           "Vandaag">
+<!ENTITY focusPaneYesterday.label       "Gisteren">
+<!ENTITY focusPaneThisWeek.label        "Deze week">
+<!ENTITY focusPaneThisMonth.label       "Deze maand">
+<!ENTITY focusPaneFilterByContact.label    "Favoriete Contacten">
 
 <!-- focus pane topics context menus -->
-<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Rename">
-<!ENTITY pbFavoriteTopicsContextMenu-edit.accesskey     "n">
-<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Remove From Favorites">
-<!ENTITY pbFavoriteTopicsContextMenu-favorite.accesskey "R">
-<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Delete">
-<!ENTITY pbFavoriteTopicsContextMenu-delete.accesskey   "D">
-<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Create New Favorite Topic">
-<!ENTITY pbFavoriteTopicsContextMenu-add.accesskey      "C">
-<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Edit Topics...">
-<!ENTITY pbFavoriteTopicsContextMenu-editAll.accesskey  "t">
-<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Naam wijzigen">
+<!ENTITY pbFavoriteTopicsContextMenu-edit.accesskey     "N">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Verwijderen uit favorieten">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.accesskey "r">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Verwijderen">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.accesskey   "d">
+<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Maak een nieuw favoriet label">
+<!ENTITY pbFavoriteTopicsContextMenu-add.accesskey      "M">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Labels bewerken...">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.accesskey  "L">
+<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Stel Kleur Onderwerp in">
 <!ENTITY pbFavoriteTopicsContextMenu-assignColor.accesskey "S">
-<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Openen in Nieuw Tabblad">
 <!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.accesskey "N">
 
 <!-- focus pane favorite contacts context menus -->
-<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Remove From Favorites">
+<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Verwijderen uit favorieten">
 <!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
-<!ENTITY pbFavoriteContactsContextMenu-email.label       "Compose">
+<!ENTITY pbFavoriteContactsContextMenu-email.label       "Opstellen">
 <!ENTITY pbFavoriteContactsContextMenu-email.accesskey  "C">
-<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Edit Contact...">
+<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Contact bewerken...">
 <!ENTITY pbFavoriteContactsContextMenu-edit.accesskey   "d">
-<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Create Filter...">
+<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Filter aanmaken...">
 <!ENTITY pbFavoriteContactsContextMenu-createfilter.accesskey "F">
-<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Openen in Nieuw Tabblad">
 <!ENTITY pbFavoriteContactsContextMenu-openInNewTab.accesskey "N">
 
-<!ENTITY pbFavoriteContacts.DragLabel "Drag your favorite contacts here">
+<!ENTITY pbFavoriteContacts.DragLabel "Sleep uw favoriete contacten hier naar toe">

@@ -8,7 +8,7 @@
 <!ENTITY fccMailFolder.label "Place a copy in:">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
-<!ENTITY fccReplyFollowsParent.accesskey "R">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc these email addresses:">
 <!ENTITY ccAddress.accesskey "C">
@@ -18,7 +18,7 @@
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Separate addresses with commas">
 <!ENTITY saveMessageDlg.label "Show confirmation dialog when messages are saved">
-<!ENTITY saveMessageDlg.accesskey "w">
+<!ENTITY saveMessageDlg.accesskey "S">
 <!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn1.label "Sent:">
 <!ENTITY sentFolderOn1.accesskey "e">
@@ -26,7 +26,7 @@
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Message Archives">
-<!ENTITY keepArchives.label "Keep message archives in:">
+<!ENTITY keepArchives.label "Save Archive messages to:">
 <!ENTITY keepArchives.accesskey "K">
 <!ENTITY archiveHierarchyButton.label "Archive options…">
 <!ENTITY archiveHierarchyButton.accesskey "A">
@@ -46,7 +46,7 @@
 <!ENTITY templatesFolderOn1.label "Templates:">
 <!ENTITY templatesFolderOn1.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Other:">
-<!ENTITY templateInOtherFolder.accesskey "e">
+<!ENTITY templateInOtherFolder.accesskey "r">
 
 <!ENTITY pbSentSettings.label "Sent">
 <!ENTITY pbDraftsSettings.label "Drafts">

@@ -7,7 +7,7 @@
 <!ENTITY setPassword.tokenName.label "Kryptographie-Modul">
 <!ENTITY setPassword.oldPassword.label "Aktuelles Passwort:">
 <!ENTITY setPassword.newPassword.label "Neues Passwort:">
-<!ENTITY setPassword.reenterPassword.label "Neues Passwort (nochmals):">
+<!ENTITY setPassword.reenterPassword.label "Neues Passwort (nochmal):">
 <!ENTITY setPassword.meter.label "Passwort-Qualitätsmessung">
 
 <!-- Values for resetpassword.xul -->
@@ -28,17 +28,17 @@
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Benutzer-Identifikationsanfrage">
 <!ENTITY clientAuthAsk.message1 "Diese Website verlangt, dass Sie sich mit einem Zertifikat identifizieren:">
-<!ENTITY clientAuthAsk.message2 "Wählen Sie ein Zertifikat, das als Identifikation vorgezeigt wird:">
+<!ENTITY clientAuthAsk.message2 "Wählen Sie ein Zertifikat aus, das als Identifikation vorgezeigt wird:">
 <!ENTITY clientAuthAsk.message3 "Details des gewählten Zertifikats:">
 
-<!ENTITY pkcs12.setpassword.title  "Wählen Sie ein Zertifikats-Backup-Passwort">
+<!ENTITY pkcs12.setpassword.title  "Wählen Sie ein Zertifikats-Backup-Passwort aus">
 <!ENTITY pkcs12.setpassword.message  "Das Zertifikats-Backup-Passwort, das Sie hier festlegen, schützt die Backup-Datei, die Sie im Moment erstellen. Sie müssen dieses Passwort festlegen, um mit dem Backup fortzufahren.">
 <!ENTITY pkcs12.setpassword.label1 "Zertifikats-Backup-Passwort:">
-<!ENTITY pkcs12.setpassword.label2 "Zertifikats-Backup-Passwort (nochmals):">
+<!ENTITY pkcs12.setpassword.label2 "Zertifikats-Backup-Passwort (nochmal):">
 <!ENTITY pkcs12.setpassword.reminder "Wichtig: Wenn Sie Ihr Zertifikats-Backup-Passwort vergessen, können Sie dieses Backup später nicht wiederherstellen. Bitte schreiben Sie es an einem sicheren Platz nieder.">
 
 <!ENTITY chooseToken.title  "Token-Wahl-Dialog">
-<!ENTITY chooseToken.message1 "Bitte wählen Sie ein Token.">
+<!ENTITY chooseToken.message1 "Bitte wählen Sie ein Token aus.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Erstellen eines privaten Schlüssels">

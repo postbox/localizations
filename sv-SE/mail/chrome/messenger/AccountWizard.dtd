@@ -55,9 +55,9 @@
 <!ENTITY incomingUsername.label "Användarnamn:">
 <!ENTITY incomingUsername.accesskey "A">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Ange namnet på servern för diskussionsgrupper (NNTP) (t.ex. &quot;news.example.net&quot;).">
+<!ENTITY newsServerNameDesc.label "Skriv in namnet på servern för diskussionsgrupper (NNTP) (exempelvis, ”news.example.net”).">
 <!ENTITY newsServerLabel.label "Server för diskussionsgrupper:">
-<!ENTITY newsServerLabel.accesskey "S">
+<!ENTITY newsServerLabel.accesskey "v">
 
 <!-- Entities for Outgoing Server page -->
 
@@ -78,33 +78,33 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Din nuvarande server för utgående e-post (SMTP), &quot;">
+<!ENTITY haveSmtp1.prefix "Din befintliga server för utgående e-post (SMTP), ”">
 <!ENTITY haveSmtp1.suffix3 "&quot;, kommer att användas.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Ditt nuvarande användarnamn för utgående e-post (SMTP), &quot;">
+<!ENTITY haveSmtp2.prefix "Ditt existerande användarnamn för utgående e-post (SMTP), ”">
 <!ENTITY haveSmtp2.suffix3 "&quot;, kommer att användas">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Din server för utgående e-post (SMTP), &quot;">
+<!ENTITY haveSmtp3.prefix "Din server för utgående e-post (SMTP), ”">
 <!ENTITY haveSmtp3.suffix3 "&quot;, är identisk med din server för inkommande e-post, ditt användarnamn för inkommande e-post kommer att användas.">
 
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Kontonamn">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Ange namnet som du vill hänvisa till detta konto (t.ex. &quot;Arbetskonto&quot;, &quot;Privat konto&quot; or &quot;Diskussiongrupperna&quot;).">
+<!ENTITY accnameDesc.label "Detta är endast för din egen del, så du vet vilka konton som är vilka (exempelvis, ”Jobbkontot”, ”Min privata e-post” eller ”Diskussionsgrupperna”).">
 <!ENTITY accnameLabel.label "Kontonamn:">
 <!ENTITY accnameLabel.accesskey "K">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Gratulerar!">
-<!ENTITY completionText.label "Kontrollera att uppgifterna nedan är korrekta.">
+<!ENTITY completionText.label "Var god och kontrollera att uppgifterna nedan är korrekta.">
 <!ENTITY serverTypePrefix.label "Teknik för att hämta e-post:">
 <!ENTITY serverNamePrefix.label "Server för inkommande e-post:">
 <!ENTITY smtpServerNamePrefix.label "Server för utgående e-post (SMTP):">
@@ -118,6 +118,6 @@
 <!ENTITY clickFinish.labelMac "Klicka på Klar för att spara kontoinställningarna och avsluta kontoguiden.">
 
 <!-- account wizard -->
-<!ENTITY pbAccountWizard-header-email.label "Email">
-<!ENTITY pbAccountWizard-header-rss.label "RSS News &amp; Blogs">
-<!ENTITY pbAccountWizard-header-newsgroups.label "Newsgroups">
+<!ENTITY pbAccountWizard-header-email.label "E-post">
+<!ENTITY pbAccountWizard-header-rss.label "RSS Nyheter &amp; Bloggar">
+<!ENTITY pbAccountWizard-header-newsgroups.label "Diskussionsgrupper">

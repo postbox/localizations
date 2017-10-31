@@ -6,7 +6,7 @@
 <!ENTITY feedSubscriptions.label     "Feed-Abonnements">
 <!ENTITY learnMore.label             "Mehr über Feeds erfahren…">
 
-<!ENTITY feedTitle.label             "Titel:">
+<!ENTITY feedTitle.label "Titel:">
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "Feed-Adresse:">
@@ -27,17 +27,17 @@
 <!ENTITY autotagUsePrefix.accesskey  "b">
 <!ENTITY autoTagPrefix.placeholder   "Anfangstext für Schlagwörter eingeben">
 
-<!ENTITY button.addFeed.label        "Hinzufügen">
-<!ENTITY button.addFeed.accesskey    "H">
+<!ENTITY button.addFeed.label       "Hinzufügen">
+<!ENTITY button.addFeed.accesskey   "H">
 <!ENTITY button.updateFeed.label     "Speichern">
 <!ENTITY button.updateFeed.accesskey "p">
-<!ENTITY button.removeFeed.label     "Entfernen">
-<!ENTITY button.removeFeed.accesskey "E">
-<!ENTITY button.importOPML.label     "Importieren">
-<!ENTITY button.importOPML.accesskey "I">
-<!ENTITY button.exportOPML.label     "Exportieren">
-<!ENTITY button.exportOPML.accesskey "x">
+<!ENTITY button.removeFeed.label "Entfernen">
+<!ENTITY button.removeFeed.accesskey   "E">
+<!ENTITY button.importOPML.label "Importieren">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Exportieren">
+<!ENTITY button.exportOPML.accesskey   "x">
 <!ENTITY button.exportOPML.tooltip   "Feeds mit Ordnerstruktur exportieren; Strg + Klick oder Strg + Eingabetaste exportiert die Feeds als Liste">
 
-<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY cmd.close.commandKey             "w">
 <!ENTITY button.close.label          "Schließen">

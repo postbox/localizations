@@ -4,7 +4,7 @@
 
 <!-- Entities for AccountWizard -->
 
-<!ENTITY windowTitle.label "Konten-Assistent">
+<!ENTITY windowTitle.label "Konto-Assistent">
 <!ENTITY accountWizard.size "width: 50em; height: 40em;">
 <!ENTITY macAccountWizard.size "width: 42em; height: 40em;">
 
@@ -13,10 +13,10 @@
 <!ENTITY accountSetupInfo2.label "Um Nachrichten empfangen zu können, müssen Sie zuerst ein Konto anlegen.">
 <!ENTITY accountTypeTitle.label "Neues Konto einrichten">
 <!ENTITY accountTypeDesc2.label "Dieser Assistent sammelt Informationen, die notwendig sind, um ein neues Konto einzurichten. Wenn Sie die abgefragten Daten nicht kennen, kontaktieren Sie bitte Ihren Systemadministrator oder Internetanbieter.">
-<!ENTITY accountTypeDirections.label "Wählen Sie den Konten-Typ, den Sie einrichten wollen:">
-<!ENTITY accountTypeMail.label "E-Mail">
+<!ENTITY accountTypeDirections.label "Wählen Sie den Konto-Typ, den Sie einrichten möchten:">
+<!ENTITY accountTypeMail.label "E-Mail-Konto">
 <!ENTITY accountTypeMail.accesskey "E">
-<!ENTITY accountTypeNews.label "Newsgruppe">
+<!ENTITY accountTypeNews.label "Newsgruppen-Konto">
 <!ENTITY accountTypeNews.accesskey "w">
 
 <!-- Entities for Identity page -->
@@ -33,7 +33,7 @@
 <!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Informationen über Posteingangs-Server">
-<!ENTITY incomingServerTypeDesc.label "Wählen Sie den Typ Ihres Posteingangs-Servers.">
+<!ENTITY incomingServerTypeDesc.label "Wählen Sie den Typ Ihres Posteingang-Servers aus.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -55,7 +55,7 @@
 <!ENTITY incomingUsername.label "Posteingangs-Server Benutzername:">
 <!ENTITY incomingUsername.accesskey "B">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Geben Sie den News-Server (NNTP) ein (zum Beispiel &quot;news.example.com&quot;).">
+<!ENTITY newsServerNameDesc.label "Geben Sie den News-Server (NNTP) ein (zum Beispiel &quot;news.beispiel.de&quot;).">
 <!ENTITY newsServerLabel.label "Newsgruppen-Server:">
 <!ENTITY newsServerLabel.accesskey "N">
 
@@ -78,46 +78,46 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Ihr bestehender Postausgangs-Server (SMTP) &quot;">
+<!ENTITY haveSmtp1.prefix "Ihr bestehender Postausgang-Server (SMTP) &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot; wird verwendet.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Ihr Postausgangs-Server (SMTP) Benutzername &quot;">
+<!ENTITY haveSmtp2.prefix "Ihr Postausgang-Server (SMTP) Benutzername &quot;">
 <!ENTITY haveSmtp2.suffix3 "&quot;, wird verwendet.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Ihr Postausgangs-Server (SMTP) &quot;">
+<!ENTITY haveSmtp3.prefix "Ihr Postausgang-Server (SMTP) &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot; ist identisch mit dem Posteingangs-Server, Ihr Benutzername des Posteingangs-Servers wird zur Identifikation genutzt.">
 
 <!-- Entities for Account name page -->
 
-<!ENTITY accnameTitle.label "Konten-Bezeichnung">
+<!ENTITY accnameTitle.label "Konto-Bezeichnung">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Geben Sie eine Bezeichnung für das Konto ein, mit der das Konto im Programm erscheinen soll (zum Beispiel &quot;Arbeits-Konto&quot;, &quot;Privat-Konto&quot; oder &quot;News-Konto&quot;).">
-<!ENTITY accnameLabel.label "Konten-Bezeichnung:">
+<!ENTITY accnameLabel.label "Konto-Bezeichnung:">
 <!ENTITY accnameLabel.accesskey "K">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Zusammenfassung">
 <!ENTITY completionText.label "Bitte prüfen Sie, ob die Angaben korrekt sind:">
-<!ENTITY serverTypePrefix.label "Typ des Posteingangs-Servers:">
-<!ENTITY serverNamePrefix.label "Posteingangs-Server:">
-<!ENTITY smtpServerNamePrefix.label "Postausgangs-Server (SMTP):">
+<!ENTITY serverTypePrefix.label "Typ des Posteingang-Servers:">
+<!ENTITY serverNamePrefix.label "Posteingang-Server:">
+<!ENTITY smtpServerNamePrefix.label "Postausgang-Server (SMTP):">
 <!ENTITY newsServerNamePrefix.label "News-Server (NNTP):">
 <!ENTITY downloadOnLogin.label "Nachrichten jetzt herunterladen">
 <!ENTITY downloadOnLogin.accesskey "j">
 <!ENTITY deferStorageDesc.label "Deaktivieren Sie diese Option, um für dieses Konto eine separate Ordner-Hierachie mit eigenem Posteingang zu erhalten.">
 <!ENTITY deferStorage.label "Globaler Posteingang (im Lokalen Konto)">
 <!ENTITY deferStorage.accesskey "G">
-<!ENTITY clickFinish.label "Klicken Sie &quot;Fertigstellen&quot;, um diese Einstellungen zu speichern und den Konten-Assistenten zu beenden.">
-<!ENTITY clickFinish.labelMac "Klicken Sie &quot;Fertigstellen&quot;, um diese Einstellungen zu speichern und den Konten-Assistenten zu beenden.">
+<!ENTITY clickFinish.label "Klicken Sie &quot;Fertig stellen&quot;, um diese Einstellungen zu speichern und den Konto-Assistent zu beenden.">
+<!ENTITY clickFinish.labelMac "Klicken Sie &quot;Fertig stellen&quot;, um diese Einstellungen zu speichern und den Konto-Assistent zu beenden.">
 
 <!-- account wizard -->
-<!ENTITY pbAccountWizard-header-email.label "Email">
+<!ENTITY pbAccountWizard-header-email.label "E-Mail">
 <!ENTITY pbAccountWizard-header-rss.label "RSS News &amp; Blogs">
-<!ENTITY pbAccountWizard-header-newsgroups.label "Newsgroups">
+<!ENTITY pbAccountWizard-header-newsgroups.label "Newsgruppen">

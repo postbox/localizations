@@ -1,58 +1,58 @@
 <!-- strings used in both the focus pane and the full text search focus pane -->
-<!ENTITY focusPaneFilterByTags.label    "Favorite Topics">
-<!ENTITY focusPaneAllTags.label         "All">
-<!ENTITY focusPaneNoTags.label          "None">
+<!ENTITY focusPaneFilterByTags.label    "Etiquetas favoritas">
+<!ENTITY focusPaneAllTags.label         "Todos">
+<!ENTITY focusPaneNoTags.label          "Ninguno">
 
 <!-- strings used only in the full text search focus pane -->
-<!ENTITY focusPaneSearchScopeTitle.label       "Search">
-<!ENTITY focusPaneSearchScopeEverywhere.label  "All Accounts">
-<!ENTITY focusPaneSearchAttribute.label        "Attributes">
-<!ENTITY focusPaneHasAttachmentAttribute.label           "Has Attachment">
-<!ENTITY focusPaneUnreadAttribute.label           "Unread">
-<!ENTITY focusPaneReadAttribute.label           "Read">
-<!ENTITY focusPaneNotRepliedAttribute.label           "Not Replied">
-<!ENTITY focusPaneRepliedAttribute.label           "Replied">
-<!ENTITY focusPanePendingAttribute.label           "Pending">
-<!ENTITY focusPaneNotPendingAttribute.label        "Not Pending">
-<!ENTITY focusPaneToDoAttribute.label              "Reminders">
-<!ENTITY focusPaneNotToDoAttribute.label           "Not Reminders">
-<!ENTITY focusPaneSubscriptionsAttribute.label     "Subscriptions">
+<!ENTITY focusPaneSearchScopeTitle.label       "Buscar">
+<!ENTITY focusPaneSearchScopeEverywhere.label  "Todas las cuentas">
+<!ENTITY focusPaneSearchAttribute.label        "Atributos">
+<!ENTITY focusPaneHasAttachmentAttribute.label           "Tiene adjunto">
+<!ENTITY focusPaneUnreadAttribute.label           "No leído">
+<!ENTITY focusPaneReadAttribute.label           "Leer">
+<!ENTITY focusPaneNotRepliedAttribute.label           "Sin contestar">
+<!ENTITY focusPaneRepliedAttribute.label           "Contestados">
+<!ENTITY focusPanePendingAttribute.label           "Pendientes">
+<!ENTITY focusPaneNotPendingAttribute.label        "No pendientes">
+<!ENTITY focusPaneToDoAttribute.label              "Recordatorios">
+<!ENTITY focusPaneNotToDoAttribute.label           "Sin recordatorios">
+<!ENTITY focusPaneSubscriptionsAttribute.label     "Suscripciones">
 <!ENTITY focusPaneSocialAttribute.label            "Social">
-<!ENTITY focusPaneToMeOnlyAttribute.label          "To Me Only">
-<!ENTITY focusPaneFilterByDate.label    "Date">
-<!ENTITY focusPaneAnyDate.label         "Any Date">
-<!ENTITY focusPaneToday.label           "Today">
-<!ENTITY focusPaneYesterday.label       "Yesterday">
-<!ENTITY focusPaneThisWeek.label        "Past Week">
-<!ENTITY focusPaneThisMonth.label       "Past Month">
-<!ENTITY focusPaneFilterByContact.label    "Favorite Contacts">
+<!ENTITY focusPaneToMeOnlyAttribute.label          "Sólo a mí">
+<!ENTITY focusPaneFilterByDate.label    "Fecha">
+<!ENTITY focusPaneAnyDate.label         "Cualquier fecha">
+<!ENTITY focusPaneToday.label           "Hoy">
+<!ENTITY focusPaneYesterday.label       "Ayer">
+<!ENTITY focusPaneThisWeek.label        "Esta semana">
+<!ENTITY focusPaneThisMonth.label       "Este mes">
+<!ENTITY focusPaneFilterByContact.label    "Contactos favoritos">
 
 <!-- focus pane topics context menus -->
-<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Rename">
+<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Renombrar">
 <!ENTITY pbFavoriteTopicsContextMenu-edit.accesskey     "n">
-<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Remove From Favorites">
-<!ENTITY pbFavoriteTopicsContextMenu-favorite.accesskey "R">
-<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Delete">
-<!ENTITY pbFavoriteTopicsContextMenu-delete.accesskey   "D">
-<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Create New Favorite Topic">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Borrar de favoritos">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.accesskey "r">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Eliminar">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.accesskey   "E">
+<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Crear nueva etiqueta favorita">
 <!ENTITY pbFavoriteTopicsContextMenu-add.accesskey      "C">
-<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Edit Topics...">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Editar etiquetas...">
 <!ENTITY pbFavoriteTopicsContextMenu-editAll.accesskey  "t">
-<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Fijar el color del tópico">
 <!ENTITY pbFavoriteTopicsContextMenu-assignColor.accesskey "S">
-<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Abrir en nueva pestaña">
 <!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.accesskey "N">
 
 <!-- focus pane favorite contacts context menus -->
-<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Remove From Favorites">
+<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Borrar de favoritos">
 <!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
-<!ENTITY pbFavoriteContactsContextMenu-email.label       "Compose">
+<!ENTITY pbFavoriteContactsContextMenu-email.label       "Redactar">
 <!ENTITY pbFavoriteContactsContextMenu-email.accesskey  "C">
-<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Edit Contact...">
+<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Modificar contacto...">
 <!ENTITY pbFavoriteContactsContextMenu-edit.accesskey   "d">
-<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Create Filter...">
+<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Crear filtro...">
 <!ENTITY pbFavoriteContactsContextMenu-createfilter.accesskey "F">
-<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Abrir en nueva pestaña">
 <!ENTITY pbFavoriteContactsContextMenu-openInNewTab.accesskey "N">
 
-<!ENTITY pbFavoriteContacts.DragLabel "Drag your favorite contacts here">
+<!ENTITY pbFavoriteContacts.DragLabel "Arrastre sus contactos favoritos hasta aquí">

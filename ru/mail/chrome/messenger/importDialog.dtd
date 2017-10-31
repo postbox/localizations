@@ -24,31 +24,31 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label "Фильтры">
 <!ENTITY importFilters.accesskey "л">
 
-<!ENTITY window.width "50em">
-<!ENTITY window.macWidth "55em">
+<!ENTITY  window.width            "50em">
+<!ENTITY  window.macWidth         "55em">
 
-<!ENTITY importTitle.label "Мастер импорта &brandShortName;">
+<!ENTITY importTitle.label        "Мастер импорта &brandShortName;">
 <!ENTITY importShortDesc.label "Импорт почты, адресных книг, настроек и фильтров из других программ">
 
 <!ENTITY importDescription1.label "Мастер импортирует почтовые сообщения, содержимое адресных книг, подписки на ленты новостей, настройки и/или фильтры из других почтовых программ и распространённых форматов адресных книг в &brandShortName;.">
-<!ENTITY importDescription2.label "Импортированная однажды, эта информация будет доступна для вас из &brandShortName;.">
+<!ENTITY importDescription2.label "После импорта эта информация будет доступна в приложении &brandShortName;.">
 
-<!ENTITY selectDescription.label "Выберите программу, из которой хотите произвести импорт:">
+<!ENTITY selectDescription.label  "Выберите тип файла, который необходимо импортировать:">
 <!ENTITY selectDescriptionB.label "Выберите существующую учётную запись или создайте новую учётную запись:">
 <!ENTITY selectDescription.accesskey "ы">
 <!ENTITY acctName.label "Имя:">
 <!ENTITY acctName.accesskey "м">
 <!ENTITY noModulesFound.label "Не найдено приложения или файла, из которого можно импортировать данные.">
 
-<!ENTITY back.label "&lt; Назад">
-<!ENTITY forward.label "Далее &gt;">
-<!ENTITY finish.label "Готово">
-<!ENTITY cancel.label "Отмена">
+<!ENTITY back.label               "&lt; Назад">
+<!ENTITY forward.label            "Далее &gt;">
+<!ENTITY finish.label             "Готово">
+<!ENTITY cancel.label             "Отмена">
 
-<!ENTITY select.label "или выберите то, что хотите импортировать:">
+<!ENTITY select.label             "или выберите тип импортируемого содержимого:">
 
-<!ENTITY title.label "Заголовок">
-<!ENTITY processing.label "Идёт импорт…">
+<!ENTITY title.label              "Заголовок">
+<!ENTITY processing.label         "Выполняется импорт…">
 
 
-<!ENTITY pbSelect.label             "Select the type of material to import:">
+<!ENTITY pbSelect.label             "Выберите тип импортируемого содержимого:">

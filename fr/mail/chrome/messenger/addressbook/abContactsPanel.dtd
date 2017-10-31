@@ -12,7 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Propriétés des listes de diffusion">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
-<!ENTITY addressbookPicker.label            "Carnet d’adresses :">
+<!ENTITY addressbookPicker.label            "Carnet d'adresses :">
 <!ENTITY addressbookPicker.accesskey        "C">
 <!ENTITY searchContacts.label               "Rechercher des contacts :">
 <!ENTITY searchContacts.accesskey           "h">

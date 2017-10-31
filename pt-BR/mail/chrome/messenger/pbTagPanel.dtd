@@ -1,10 +1,10 @@
-<!ENTITY editTagPanel.title             "Favorite Topics:">
-<!ENTITY editTagPanelAssignTopic.label  "Assign Topic">
-<!ENTITY editTagPanelMakeFavorite.label "Make this topic a favorite">
+<!ENTITY editTagPanel.title             "Tópicos favoritos:">
+<!ENTITY editTagPanelAssignTopic.label  "Atribuir tópico">
+<!ENTITY editTagPanelMakeFavorite.label "Colocar este tópico como favorito">
 <!ENTITY editTagPanelAddTopic.label     "OK">
 <!ENTITY showTopicsCmd.key              "t">
 <!ENTITY tagPanel.width                 "600">
-<!ENTITY tagpanel.expanderDown.tooltip  "Show favorite topics">
-<!ENTITY tagpanel.expanderUp.tooltip    "Hide favorite topics">
+<!ENTITY tagpanel.expanderDown.tooltip  "Mostrar tópicos favoritos">
+<!ENTITY tagpanel.expanderUp.tooltip    "Ocultar tópicos favoritos">
 
 <!ENTITY showLabelCmd.key              "l">

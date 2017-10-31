@@ -9,7 +9,7 @@
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Einfügen ohne Formatierung">
-<!ENTITY pasteNoFormatting.accesskey "o">
+<!ENTITY pasteNoFormatting.accesskey "m">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Einfügen als">
 <!ENTITY pasteAs.accesskey "a">
@@ -20,7 +20,7 @@
 <!ENTITY findReplaceCmd.label "Suchen und ersetzen…">
 <!ENTITY enableInlineSpellChecker.label "Sofort-Rechtschreibprüfung">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Rechtschreibprüfung…">
+<!ENTITY checkSpellingCmd2.label "Rechtschreibprüfung">
 <!ENTITY checkSpellingCmd2.accesskey "R">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -71,7 +71,7 @@
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Schriftgröße wählen">
-<!ENTITY resetToDefaultFontSize.label "Reset to default">
+<!ENTITY resetToDefaultFontSize.label "Standardeinstellung wiederherstellen">
 <!ENTITY decreaseFontSize.label "Kleiner">
 <!ENTITY decreaseFontSize.accesskey "k">
 <!ENTITY decrementFontSize.key "&lt;">
@@ -85,12 +85,12 @@
 <!ENTITY fontSizeMenu.accesskey "r">
 <!ENTITY size-tinyCmd.label "Sehr klein">
 <!ENTITY size-tinyCmd.accesskey "e">
-<!ENTITY size-smallCmd.label "Klein">
-<!ENTITY size-smallCmd.accesskey "K">
-<!ENTITY size-mediumCmd.label "Mittel">
-<!ENTITY size-mediumCmd.accesskey "M">
-<!ENTITY size-largeCmd.label "Groß">
-<!ENTITY size-largeCmd.accesskey "G">
+<!ENTITY size-smallCmd.label "klein">
+<!ENTITY size-smallCmd.accesskey "k">
+<!ENTITY size-mediumCmd.label "mittel">
+<!ENTITY size-mediumCmd.accesskey "m">
+<!ENTITY size-largeCmd.label "groß">
+<!ENTITY size-largeCmd.accesskey "g">
 <!ENTITY size-extraLargeCmd.label "Sehr groß">
 <!ENTITY size-extraLargeCmd.accesskey "S">
 <!ENTITY size-hugeCmd.label "Extragroß">

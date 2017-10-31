@@ -8,31 +8,31 @@
 <!ENTITY itemNetworking.label    "Rede e espaço em disco">
 <!ENTITY itemCertificates.label  "Certificados">
 <!ENTITY itemWebServices.label   "Web Services">
-<!ENTITY itemQuickPost.label     "Quick Post">
+<!ENTITY itemQuickPost.label     "Publicação rápida">
 
 <!-- General Settings -->
-<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!ENTITY autoMarkAsRead.label          "Marcar automaticamente mensagens como lidas">
+<!ENTITY autoMarkAsRead.accesskey      "M">
+<!ENTITY markAsReadNoDelay.label       "Ao exibir">
+<!ENTITY markAsReadNoDelay.accesskey   "A">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "After displaying for">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "seconds">
-<!ENTITY rememberLastMsg.label         "Remember the last selected message">
+<!ENTITY markAsReadDelay.label         "Ao exibir por">
+<!ENTITY markAsReadDelay.accesskey     "o">
+<!ENTITY secondsLabel.label            "segundos">
+<!ENTITY rememberLastMsg.label         "Lembrar a última mensagem selecionada">
 <!ENTITY rememberLastMsg.accesskey     "b">
-<!ENTITY openMsgIn1.label              "Open messages in:">
-<!ENTITY openMsgInNewTab.label          "a new tab">
-<!ENTITY openMsgInNewTab.accesskey      "a">
-<!ENTITY openMsgInNewWindow.label       "a new window">
+<!ENTITY openMsgIn1.label              "Novas mensagens devem ser abertas em:">
+<!ENTITY openMsgInNewTab.label          "uma nova aba">
+<!ENTITY openMsgInNewTab.accesskey      "o">
+<!ENTITY openMsgInNewWindow.label       "uma nova janela">
 <!ENTITY openMsgInNewWindow.accesskey   "i">
-<!ENTITY openMsgInExistingWindow.label  "an existing window">
+<!ENTITY openMsgInExistingWindow.label  "uma janela existente">
 <!ENTITY openMsgInExistingWindow.accesskey "x">
-<!ENTITY connectionTimeout.label       "Connection timeout: ">
+<!ENTITY connectionTimeout.label       "Tempo limite de conexão: ">
 <!ENTITY connectionTimeout.accesskey   "C">
-<!ENTITY connectionSeconds.label       "seconds">
+<!ENTITY connectionSeconds.label       "segundos">
 <!ENTITY enableGlodaSearch.label       "Ativar pesquisa global e indexação">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY allowHWAccel.label            "Usar aceleração de hardware quando disponível">
@@ -58,8 +58,8 @@
 <!ENTITY configEditDesc.label          "Configuração avançada">
 <!ENTITY configEdit.label              "Editor de config…">
 <!ENTITY configEdit.accesskey          "E">
-<!ENTITY returnReceiptsInfo.label      "Determine como o &brandShortName; trata as confirmações de leitura.">
-<!ENTITY showReturnReceipts.label      "Confirmações de leitura…">
+<!ENTITY returnReceiptsInfo.label      "Determine como o &brandShortName; trata as confirmações de entrega.">
+<!ENTITY showReturnReceipts.label      "Confirmações de entrega…">
 <!ENTITY showReturnReceipts.accesskey  "C">
 
 <!-- Data Choices -->
@@ -89,12 +89,12 @@
 <!ENTITY useService.label                "Usar um serviço em segundo plano para instalar atualizações">
 <!ENTITY useService.accesskey            "s">
 
-<!ENTITY deleteSelectOrder.label        "After deleting a message select the:">
-<!ENTITY showPreviousMessage.label      "Previous Message">
-<!ENTITY showNextMessage.label          "Next Message">
+<!ENTITY deleteSelectOrder.label        "Após excluir uma mensagem, selecionar:">
+<!ENTITY showPreviousMessage.label      "Mensagem Anterior">
+<!ENTITY showNextMessage.label          "Próxima Mensagem">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Connection...">
+<!ENTITY showConnections.label         "Conexão...">
 <!ENTITY showConnections.accesskey     "n">
 
 <!ENTITY offlineCompactFolders.label     "Condensar todas as pastas se puder liberar pelo menos">
@@ -114,62 +114,62 @@
 <!ENTITY clearCacheNow.accesskey         "L">
 
 <!-- Certificates -->
-<!ENTITY certSelection.label "When a server requests my certificate:">
+<!ENTITY certSelection.label "Quando um servidor solicitar meu certificado:">
 <!ENTITY certs.auto                      "Selecionar um automaticamente">
 <!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Perguntar quando necessário">
+<!ENTITY certs.ask                       "Sempre perguntar">
 <!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "Consultar servidores OCSP para confirmar a validade atual dos certificados">
 <!ENTITY enableOCSP.accesskey            "C">
 
 <!ENTITY manageCertificates.label "Gerenciar certificados">
 <!ENTITY manageCertificates.accesskey "G">
-<!ENTITY viewCRLs.label                 "Revocation Lists">
-<!ENTITY viewCRLs.accesskey             "e">
-<!ENTITY viewOCSP.label                 "Verification">
+<!ENTITY viewCRLs.label                 "Revogações">
+<!ENTITY viewCRLs.accesskey             "R">
+<!ENTITY viewOCSP.label                 "Verificação">
 <!ENTITY viewOCSP.accesskey             "f">
-<!ENTITY viewSecurityDevices.label "Dispositivos de segurança">
-<!ENTITY viewSecurityDevices.accesskey "D">
+<!ENTITY viewSecurityDevices.label      "Dispositivos de segurança">
+<!ENTITY viewSecurityDevices.accesskey  "D">
 
 <!-- Web Services -->
-<!ENTITY webservicesInfo.label          "Configure the Web services used within &brandShortName;.">
+<!ENTITY webservicesInfo.label          "Configurar os serviços web usados dentro do Postbox.">
 
-<!ENTITY textStartUp   "When starting up:">
-<!ENTITY radioRememberPrevState "Remember previous online state">
+<!ENTITY textStartUp   "Ao iniciar:">
+<!ENTITY radioRememberPrevState "Lembrar o status de conexão anterior">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe "Ask me for online state at startup">
+<!ENTITY radioAskMe "Perguntar o status de conexão ao iniciar">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline "Always start up online">
+<!ENTITY radioAlwaysOnline "Sempre iniciar no status online">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline1 "When going online:">
-<!ENTITY radioAutoSend1 "Send unsent messages">
-<!ENTITY radioNotSend1 "Do not send unsent messages">
-<!ENTITY radioAskUnsent1 "Ask to send unsent messages">
+<!ENTITY textGoingOnline1 "Ao ficar online:">
+<!ENTITY radioAutoSend1 "Enviar mensagens não enviadas">
+<!ENTITY radioNotSend1 "Não enviar mensagens não enviadas">
+<!ENTITY radioAskUnsent1 "Perguntar o que fazer com as mensagens não enviadas">
 
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload "Yes">
+<!ENTITY textGoingOffline "Baixar mensagens para uso offline quando ficar offline?">
+<!ENTITY radioAutoDownload "Sim">
 <!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload "No">
+<!ENTITY radioNotDownload "Não">
 <!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload "Ask me">
-<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY radioAskDownload "Perguntar">
+<!ENTITY radioAskDownload.accesskey "A">
 
-<!ENTITY useGmailShortcuts.label "Use Gmail keyboard shortcuts">
+<!ENTITY useGmailShortcuts.label "Usar atalhos de teclado do Gmail">
 <!ENTITY useGmailShortcuts.accesskey "l">
 
-<!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
-<!ENTITY pbUseGravatar.accesskey "G">
+<!ENTITY pbUseGravatar.label "Usar o serviço Gravatar para procurar fotos de contatos.">
+<!ENTITY pbUseGravatar.accesskey "g">
 
-<!ENTITY pbUseGoogleCalendar.label "Use Google Calendar for detected dates.">
+<!ENTITY pbUseGoogleCalendar.label "Usar Calendário do Google para detectar datas.">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
 
-<!ENTITY pbSwipeLeft.label "Swipe Left:">
-<!ENTITY pbSwipeRight.label "Swipe Right:">
-<!ENTITY pbNextMessage.label "Select Next Message">
-<!ENTITY pbPreviousMessage.label "Select Previous Message">
-<!ENTITY pbDeleteMessage.label "Delete Message">
-<!ENTITY pbArchiveMessage.label "Archive Message">
-<!ENTITY pbOpenMessage.label "Open Message">
-<!ENTITY pbOpenFolderPane.label "Open Folder Pane">
-<!ENTITY pbCloseFolderPane.label "Close Folder Pane">
+<!ENTITY pbSwipeLeft.label "Deslizar para Esquerda:">
+<!ENTITY pbSwipeRight.label "Deslizar para Direita:">
+<!ENTITY pbNextMessage.label "Selecionar Próxima Mensagem">
+<!ENTITY pbPreviousMessage.label "Selecionar Mensagem Anterior">
+<!ENTITY pbDeleteMessage.label "Excluir Mensagem">
+<!ENTITY pbArchiveMessage.label "Arquivar Mensagem">
+<!ENTITY pbOpenMessage.label "Abrir Mensagem">
+<!ENTITY pbOpenFolderPane.label "Abrir Painel de Pastas">
+<!ENTITY pbCloseFolderPane.label "Fechar Painel de Pastas">

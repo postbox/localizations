@@ -20,7 +20,7 @@
 <!ENTITY findReplaceCmd.label "Sök och ersätt…">
 <!ENTITY enableInlineSpellChecker.label "Stavningskontrollera medan du skriver">
 <!ENTITY enableInlineSpellChecker.accesskey "v">
-<!ENTITY checkSpellingCmd2.label "Stavningskontroll…">
+<!ENTITY checkSpellingCmd2.label "Stavningskontroll">
 <!ENTITY checkSpellingCmd2.accesskey "a">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -71,7 +71,7 @@
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Välj teckenstorlek">
-<!ENTITY resetToDefaultFontSize.label "Reset to default">
+<!ENTITY resetToDefaultFontSize.label "Återställ till standard">
 <!ENTITY decreaseFontSize.label "Mindre">
 <!ENTITY decreaseFontSize.accesskey "r">
 <!ENTITY decrementFontSize.key "&lt;">

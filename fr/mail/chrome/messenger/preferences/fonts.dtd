@@ -7,7 +7,7 @@
 <!ENTITY  language.label                          "Polices pour :">
 <!ENTITY  language.accesskey                      "o">
 
-<!ENTITY  size.label                              "Taille :">
+<!ENTITY  size.label                              "Taille:">
 <!ENTITY  sizeProportional.accesskey              "T">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
@@ -35,7 +35,7 @@
 <!ENTITY  font.langGroup.thai                     "Thaï">
 <!ENTITY  font.langGroup.hebrew                   "Hébreu">
 <!ENTITY  font.langGroup.arabic                   "Arabe">
-<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.devanagari               "pixels">
 <!ENTITY  font.langGroup.tamil                    "Tamoul">
 <!ENTITY  font.langGroup.armenian                 "Arménien">
 <!ENTITY  font.langGroup.bengali                  "Bengali">
@@ -43,7 +43,7 @@
 <!ENTITY  font.langGroup.ethiopic                 "Éthiopien">
 <!ENTITY  font.langGroup.georgian                 "Géorgien">
 <!ENTITY  font.langGroup.gujarati                 "Goudjarati">
-<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.gurmukhi                 "Bengali">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.math                     "Mathématiques">
@@ -65,7 +65,7 @@
 <!ENTITY  fontControl.label                       "Contrôle des polices">
 <!ENTITY  useFixedWidthForPlainText.label         "Utiliser une police à largeur fixe pour les messages au format texte">
 <!ENTITY  fixedWidth.accesskey                    "x">
-<!ENTITY  useDocumentFonts.label                  "Autoriser les messages à utiliser d’autres polices">
+<!ENTITY  useDocumentFonts.label                  "Autoriser les messages à utiliser d'autres polices">
 <!ENTITY  useDocumentFonts.accesskey              "A">
 
 <!-- Language settings -->

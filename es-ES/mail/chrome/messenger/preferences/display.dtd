@@ -2,45 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemFormatting.label "Formato">
-<!ENTITY itemTags.label "Etiquetas">
+<!ENTITY itemFormatting.label             "Formato">
+<!ENTITY itemTags.label                   "Etiquetas">
 <!ENTITY itemAdvanced.label "Avanzadas">
 
-<!ENTITY style.label "Estilo:">
-<!ENTITY style.accesskey "E">
-<!ENTITY regularStyle.label "Normal">
-<!ENTITY bold.label "Negrita">
-<!ENTITY italic.label "Cursiva">
-<!ENTITY boldItalic.label "Negrita cursiva">
-<!ENTITY size.label "Tamaño:">
-<!ENTITY size.accesskey "a">
-<!ENTITY regularSize.label "Normal">
-<!ENTITY bigger.label "Mayor">
-<!ENTITY smaller.label "Menor">
-<!ENTITY textColor.label                  "Text Color:">
-<!ENTITY textColor.accesskey              "T">
-<!ENTITY backgroundColor.label            "Background Color:">
-<!ENTITY backgroundColor.accesskey        "b">
+<!ENTITY style.label                      "Estilo:">
+<!ENTITY style.accesskey                  "E">
+<!ENTITY regularStyle.label               "Regular">
+<!ENTITY bold.label                       "Negrita">
+<!ENTITY italic.label                     "Cursiva">
+<!ENTITY boldItalic.label                 "Negrita cursiva">
+<!ENTITY size.label                       "Tamaño:">
+<!ENTITY size.accesskey                   "a">
+<!ENTITY regularSize.label                "Regular">
+<!ENTITY bigger.label                     "Mayor">
+<!ENTITY smaller.label                    "Menor">
+<!ENTITY textColor.label                  "Color del texto:">
+<!ENTITY textColor.accesskey              "o">
+<!ENTITY backgroundColor.label            "Color de fondo:">
+<!ENTITY backgroundColor.accesskey        "d">
 
 
 <!-- tags -->
-<!ENTITY tagColumn.label "Topic">
-<!ENTITY tagActiveColumn.label    "Favorite">
+<!ENTITY tagColumn.label "Etiquetar">
+<!ENTITY tagActiveColumn.label    "Favorito">
 <!ENTITY newTagButton.label "Nuevo…">
 <!ENTITY newTagButton.accesskey "N">
 <!ENTITY editTagButton1.label "Editar…">
 <!ENTITY editTagButton1.accesskey "E">
-<!ENTITY removeTagButton.label "Eliminar">
+<!ENTITY removeTagButton.label    "Eliminar">
 <!ENTITY removeTagButton.accesskey "r">
 
 <!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label "Tipografías y colores">
-<!ENTITY defaultFont.label "Tipo de letra por defecto:">
-<!ENTITY defaultFont.accesskey "i">
-<!ENTITY defaultSize.label "Tamaño:">
-<!ENTITY defaultSize.accesskey "T">
-<!ENTITY fontOptions.accesskey "v">
-<!ENTITY fontOptions.label "Avanzadas…">
+<!ENTITY defaultFont.label       "Fuente predeterminada:">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "Tamaño:">
+<!ENTITY defaultSize.accesskey   "S">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Avanzadas…">
 <!ENTITY colorButton.label "Colores…">
 <!ENTITY colorButton.accesskey "C">
 
@@ -70,47 +70,47 @@
 <!ENTITY closeMsgOnMoveOrDelete.label "Cerrar ventana/pestaña del mensaje al moverlo o eliminarlo">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
-<!ENTITY pb.messagelist.colortagrow.label "Apply the topic color to the entire row in the message list pane">
-<!ENTITY pb.messagelist.colortagrow.accesskey "g">
+<!ENTITY pb.messagelist.colortagrow.label "Aplicar el color de etiqueta a toda la fila en la lista de mensajes">
+<!ENTITY pb.messagelist.colortagrow.accesskey "A">
 
 <!-- conversation preferences -->
-<!ENTITY pb.itemConversation.label        "Conversations">
-<!ENTITY pb.conversations.display.label "Include messages from:">
-<!ENTITY pb.conversations.folderonly.label1 "The current folder">
-<!ENTITY pb.conversations.all.label1 "Every folder">
+<!ENTITY pb.itemConversation.label        "Conversaciones">
+<!ENTITY pb.conversations.display.label "Incluir mensajes de:">
+<!ENTITY pb.conversations.folderonly.label1 "La carpeta actual">
+<!ENTITY pb.conversations.all.label1 "Cada carpeta">
 
-<!ENTITY pb.conversations.sortorder.label "Order conversations by:">
-<!ENTITY pb.conversations.sortoldest.label "Oldest messages first">
-<!ENTITY pb.conversations.sortnewest.label "Newest messages first">
+<!ENTITY pb.conversations.sortorder.label "Ordenar conversaciones por:">
+<!ENTITY pb.conversations.sortoldest.label "Mensajes más antiguos primero">
+<!ENTITY pb.conversations.sortnewest.label "Mensajes más nuevos primero">
 
-<!ENTITY pb.conversations.read.label "When displaying a conversation, mark its messages as read">
+<!ENTITY pb.conversations.read.label "Al mostrar una conversación, marcar sus mensajes como leídos">
 <!ENTITY pb.conversations.read.accesskey "c">
-<!ENTITY pb.conversations.photos.label "Include contact photos for each participant in the conversation">
+<!ENTITY pb.conversations.photos.label "Incluir fotografías de contacto de cada uno de los miembros en la conversación">
 <!ENTITY pb.conversations.photos.accesskey "I">
 
 <!-- general -->
 <!ENTITY pb.itemGeneral.label        "General">
-<!ENTITY useRetina.label             "Retina Display">
-<!ENTITY devPixelsPerPx.label        "DPI scaling:">
+<!ENTITY useRetina.label             "Pantalla de retina">
+<!ENTITY devPixelsPerPx.label        "Ajuste de PPP alto:">
 <!ENTITY devPixelsPerPx.accesskey    "D">
-<!ENTITY devPixelsPerPx.default      "Default">
-<!ENTITY devPixelsPerPx.lowdpi       "Low DPI">
-<!ENTITY devPixelsPerPx.highdpi      "High DPI">
+<!ENTITY devPixelsPerPx.default      "Predeterminado">
+<!ENTITY devPixelsPerPx.lowdpi       "PPP bajo">
+<!ENTITY devPixelsPerPx.highdpi      "PPP alto">
 
 <!-- message list font size -->
 
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
+<!ENTITY pbChromeFontSizeSmall.label      "Pequeño">
+<!ENTITY pbChromeFontSizeMedium.label     "Mediano">
+<!ENTITY pbChromeFontSizeLarge.label      "Grande">
+<!ENTITY pbChromeFontSize.label           "Tamaño de la Lista de mensajes y de la Carpeta de fuente:">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 <!-- quoted colors -->
-<!ENTITY quotedColors.label "Quoted colors, levels 1 to 5:">
-<!ENTITY quotedColor1.label "Quoted color, level 1">
-<!ENTITY quotedColor2.label "Quoted color, level 2">
-<!ENTITY quotedColor3.label "Quoted color, level 3">
-<!ENTITY quotedColor4.label "Quoted color, level 4">
-<!ENTITY quotedColor5.label "Quoted color, level 5">
+<!ENTITY quotedColors.label "Colores citados, niveles 1 a 5:">
+<!ENTITY quotedColor1.label "Color citado, nivel 1">
+<!ENTITY quotedColor2.label "Color citado, nivel 2">
+<!ENTITY quotedColor3.label "Color citado, nivel 3">
+<!ENTITY quotedColor4.label "Color citado, nivel 4">
+<!ENTITY quotedColor5.label "Color citado, nivel 5">
 
-<!ENTITY boldUnread.label      "Bold Unread">
+<!ENTITY boldUnread.label      "Mostrar en negrita los mensajes no leídos">

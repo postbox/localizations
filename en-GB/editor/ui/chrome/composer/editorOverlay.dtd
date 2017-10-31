@@ -20,7 +20,7 @@
 <!ENTITY findReplaceCmd.label "Find and Replace…">
 <!ENTITY enableInlineSpellChecker.label "Spellcheck As You Type">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Check Spelling…">
+<!ENTITY checkSpellingCmd2.label "Check Spelling">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -85,12 +85,12 @@
 <!ENTITY fontSizeMenu.accesskey "z">
 <!ENTITY size-tinyCmd.label "Tiny">
 <!ENTITY size-tinyCmd.accesskey "T">
-<!ENTITY size-smallCmd.label "Small">
-<!ENTITY size-smallCmd.accesskey "S">
-<!ENTITY size-mediumCmd.label "Medium">
-<!ENTITY size-mediumCmd.accesskey "M">
-<!ENTITY size-largeCmd.label "Large">
-<!ENTITY size-largeCmd.accesskey "L">
+<!ENTITY size-smallCmd.label "small">
+<!ENTITY size-smallCmd.accesskey "s">
+<!ENTITY size-mediumCmd.label "medium">
+<!ENTITY size-mediumCmd.accesskey "d">
+<!ENTITY size-largeCmd.label "large">
+<!ENTITY size-largeCmd.accesskey "l">
 <!ENTITY size-extraLargeCmd.label "Extra Large">
 <!ENTITY size-extraLargeCmd.accesskey "x">
 <!ENTITY size-hugeCmd.label "Huge">
@@ -196,7 +196,7 @@
 <!ENTITY alignLeft.accesskey "L">
 <!ENTITY alignLeft.tooltip "Align Left">
 <!ENTITY alignCenter.label "Centre">
-<!ENTITY alignCenter.accesskey "C">
+<!ENTITY alignCenter.accesskey "c">
 <!ENTITY alignCenter.tooltip "Align Centre">
 <!ENTITY alignRight.label "Right">
 <!ENTITY alignRight.accesskey "R">

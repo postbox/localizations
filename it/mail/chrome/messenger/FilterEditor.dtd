@@ -4,11 +4,11 @@
 
 <!ENTITY window.title "Regole del filtro">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-<!ENTITY filterName.label "Nome del filtro:">
+<!ENTITY filterName.label "Nome filtro:">
 <!ENTITY filterName.accesskey "f">
 
-<!ENTITY junk.label "posta indesiderata">
-<!ENTITY notJunk.label "posta non indesiderata">
+<!ENTITY junk.label "indesiderata">
+<!ENTITY notJunk.label "non indesiderata">
 
 <!ENTITY lowestPriorityCmd.label "Minima">
 <!ENTITY lowPriorityCmd.label "Bassa">
@@ -16,10 +16,10 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Massima">
 
-<!ENTITY contextDesc.label "Quando applicare il filtro:">
+<!ENTITY contextDesc.label "Applica filtro quando:">
 <!ENTITY contextIncomingMail.label "Scarico la nuova posta:">
 <!ENTITY contextIncomingMail.accesskey "S">
-<!ENTITY contextManual.label "Manualmente">
+<!ENTITY contextManual.label "Esecuzione manuale">
 <!ENTITY contextManual.accesskey "M">
 <!ENTITY contextBeforeCls.label "Prima del controllo indesiderata">
 <!ENTITY contextAfterCls.label "Dopo il controllo indesiderata">
@@ -34,45 +34,45 @@
 <!ENTITY filterActionOrderWarning.label "Nota: le azioni del filtro saranno eseguite in un ordine differente.">
 <!ENTITY filterActionOrder.label "Mostra l'ordine di esecuzione">
 
-<!ENTITY globalFilterChekbox.label "This is a global filter">
+<!ENTITY globalFilterChekbox.label "Questo è un filtro globale">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Sposta il messaggio in">
 <!ENTITY copyMessage.label "Copia il messaggio in">
 <!ENTITY forwardTo.label "Inoltra il messaggio a">
 <!ENTITY replyWithTemplate.label "Rispondi con un modello">
-<!ENTITY markMessageRead.label "Segna come già letto">
+<!ENTITY markMessageRead.label "Contrassegna come letto">
 <!ENTITY markMessageUnread.label "Segna come non letto">
-<!ENTITY markMessageStarred.label "Aggiungi a Speciali">
-<!ENTITY markMessagePending.label "Mark as Pending">
+<!ENTITY markMessageStarred.label "Aggiungi stelle">
+<!ENTITY markMessagePending.label "Contrassegna come in attesa">
 <!ENTITY markMessageAs.label "Mark Message as">
 <!ENTITY setPriority.label "Imposta priorità a">
 <!ENTITY addTag.label "Etichetta il messaggio">
-<!ENTITY removeTag.label "Remove Topic">
-<!ENTITY setJunkScore.label "Considera il messaggio">
+<!ENTITY removeTag.label "Rimuovi argomento">
+<!ENTITY setJunkScore.label "Imposta stato Indesiderata come">
 <!ENTITY deleteMessage.label "Elimina messaggio">
 <!ENTITY deleteFromPOP.label "Elimina dal server POP">
-<!ENTITY fetchFromPOP.label "Scarica dal server POP">
+<!ENTITY fetchFromPOP.label "Preleva dal server POP">
 <!ENTITY ignoreThread.label "Ignora la discussione">
 <!ENTITY ignoreSubthread.label "Ignora le sotto discussioni">
-<!ENTITY watchThread.label "Tieni d'occhio la discussione">
+<!ENTITY watchThread.label "Guaarda la discussione">
 <!ENTITY stopExecution.label "Interrompi l'esecuzione dei filtri">
-<!ENTITY launchScript.label "Run AppleScript">
+<!ENTITY launchScript.label "Esegui AppleScript">
 
-<!ENTITY playSound.label "Play Sound">
-<!ENTITY noSoundSelected.label "Select a Sound">
-<!ENTITY systemAlertSound.label "System Alert Sound">
+<!ENTITY playSound.label "Riproduci suono">
+<!ENTITY noSoundSelected.label "Seleziona un suono">
+<!ENTITY systemAlertSound.label "Suono avviso sistema">
 
-<!ENTITY noScriptsInstalled.label "No Scripts installed">
-<!ENTITY openInFinder.label "Open in Finder">
-<!ENTITY noScriptSelected.label "Select an AppleScript">
-<!ENTITY readStatus.label "Read">
-<!ENTITY reminderStatus.label "Reminder">
-<!ENTITY pendingStatus.label "Pending">
-<!ENTITY unreadStatus.label "Unread">
-<!ENTITY notReminderStatus.label "Not Reminder">
-<!ENTITY notPendingStatus.label "Not Pending">
-<!ENTITY quickPost.label "Quick Post">
+<!ENTITY noScriptsInstalled.label "Nessuno script installato">
+<!ENTITY openInFinder.label "Apri nel Finder">
+<!ENTITY noScriptSelected.label "Seleziona un AppleScript">
+<!ENTITY readStatus.label "Letto">
+<!ENTITY reminderStatus.label "Promemoria">
+<!ENTITY pendingStatus.label "In attesa">
+<!ENTITY unreadStatus.label "Non letto">
+<!ENTITY notReminderStatus.label "Non promemoria">
+<!ENTITY notPendingStatus.label "Non in attesa">
+<!ENTITY quickPost.label "Post rapido">
 
 <!ENTITY addAction.tooltip "Aggiungere una nuova azione">
 <!ENTITY removeAction.tooltip "Elimina questa azione">

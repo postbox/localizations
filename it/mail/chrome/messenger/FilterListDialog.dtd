@@ -23,10 +23,10 @@
 <!ENTITY reorderBottomButton "Sposta in basso">
 <!ENTITY reorderBottomButton.accessKey "B">
 <!ENTITY reorderBottomButton.toolTip "Impostare questo filtro in modo che venga eseguito dopo gli altri">
-<!ENTITY filterHeader.label "I filtri attivati vengono eseguiti automaticamente nel seguente ordine.">
+<!ENTITY filterHeader.label "I filtri attivati sono eseguiti automaticamente nel seguente ordine.">
 <!ENTITY filtersForPrefix.label "Filtri per:">
 <!ENTITY filtersForPrefix.accesskey "F">
-<!ENTITY viewLogButton.label "Registro attività filtri">
+<!ENTITY viewLogButton.label "Registro filtri">
 <!ENTITY viewLogButton.accesskey "R">
 <!ENTITY runFilters.label "Esegui ora">
 <!ENTITY runFilters.accesskey "o">
@@ -35,7 +35,7 @@
 <!ENTITY folderPickerPrefix.label "Esegui i filtri scelti su:">
 <!ENTITY folderPickerPrefix.accesskey "i">
 <!ENTITY helpButton.label "?">
-<!ENTITY helpButton.accesskey "?">
+<!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Cerca filtri per nome…">
 

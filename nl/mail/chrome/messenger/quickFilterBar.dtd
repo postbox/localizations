@@ -7,35 +7,35 @@
      the quick filter bar.
      -->
 <!ENTITY quickFilterBar.qfbShowFilterBar.label
-         "Snelfilter">
+         "Quick Filter">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label
-         "Snelfilterbalk">
+         "Quick Filter Bar">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
      whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey
-         "S">
+         "Q">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
      The label to display for the "App Menu... Preferences..." menu item that
      controls whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
-         "Snelfilterbalk">
+         "Quick Filter Bar">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "De snelfilterbalk in-/uitschakelen">
+         "Toggle the quick filter bar">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
@@ -45,35 +45,35 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "Filters in stand houden bij het wisselen van mappen">
+         "Keep filters applied when switching folders">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.label
-         "Ongelezen">
+         "Unread">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Alleen ongelezen berichten tonen">
+         "Show only unread messages">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.label
-         "Met ster">
+         "Starred">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.tooltip
-         "Alleen berichten met ster tonen">
+         "Show only starred messages">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
@@ -89,35 +89,35 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Alleen berichten van personen in uw adresboek tonen">
+         "Show only messages from people in your address book">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.label
-         "Labels">
+         "Tags">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Alleen berichten met labels tonen">
+         "Show only messages with tags on them">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.label
-         "Bijlage">
+         "Attachment">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.tooltip
-         "Alleen berichten met bijlagen tonen">
+         "Show only messages with attachments">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
@@ -129,14 +129,14 @@
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
 <!ENTITY quickFilterBar.resultsLabel.some.formatString
-         "#1 bericht;#1 berichten">
+         "#1 message;#1 messages">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
      -->
 <!ENTITY quickFilterBar.resultsLabel.none
-         "Geen resultaten">
+         "No results">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
@@ -159,7 +159,7 @@
      box faster.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base1
-         "Deze berichten filteren #1">
+         "Filter these messages #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
@@ -231,46 +231,46 @@
      arrow scroll box.)
      -->
 <!ENTITY quickFilterBar.textFilter.explanation.label
-         "Berichten filteren op:">
+         "Filter messages by:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.sender.label
-         "Afzender">
+         "Sender">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.recipients.label
-         "Ontvangers">
+         "Recipients">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.subject.label
-         "Onderwerp">
+         "Subject">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.body.label
-         "Berichttekst">
+         "Body">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch
-         "Verder zoeken in alle mappen">
+         "Continue this search across all folders">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
-         "Druk nogmaals op ‘Enter’ om verder te zoeken naar #1">
+         "Press 'Enter' again to continue your search for: #1">

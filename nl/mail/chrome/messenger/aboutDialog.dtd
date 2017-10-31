@@ -1,26 +1,26 @@
 
-<!ENTITY copyrightText          "&#169;2007-2015 Postbox, Inc. and Contributors. All Rights Reserved. Postbox
-                                 is developed and maintained by Postbox, Inc.">
+<!ENTITY copyrightText          "&#169;2007-2014 Postbox, Inc. en Belanghebbenden. Alle rechten voorbehouden. Postbox
+                                 wordt ontwikkeld en onderhouden door Postbox, Inc.">
 
 
 <!ENTITY aboutDialog.title          "Over &brandFullName;">
 
-<!ENTITY productDescription.label    "Hand-crafted, and made with love, in San Francisco, California.">
+<!ENTITY productDescription.label    "Handgemaakt vakmanschap, gemaakt met liefde, in San Francisco, California.">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Licentie-informatie">
+<!ENTITY bottomLinks.license        "Licentie Informatie">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Privacybeleid">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Controleren op updates…">
+<!ENTITY update.checkingForUpdates  "Controleer op updates...">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.checkingAddonCompat "Controleren op Add-on compatibiliteit...">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; is up-to-date">
+<!ENTITY update.noUpdatesFound      "&brandShortName; is volledig bijgewerkt">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Updates zijn uitgeschakeld door uw systeembeheerder">
+<!ENTITY update.adminDisabled       "Updates zijn door de systeembeheerder uitgezet">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -28,24 +28,24 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Update mislukt. ">
-<!ENTITY update.failed.linkText     "Download de nieuwste versie">
+<!ENTITY update.failed.linkText     "Download de laatste versie">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "De ">
-<!ENTITY update.manual.end          " downloaden">
+<!ENTITY update.manual.start        "Updates zijn beschikbaar op ">
+<!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Update downloaden – ">
+<!ENTITY update.downloading.start   "Downloaden van update -- ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY cmdCloseMac.commandKey "w">
 
-<!ENTITY pb.safeMode.label "Running in Safe Mode">
+<!ENTITY pb.safeMode.label "Draait in Veilige Modus">

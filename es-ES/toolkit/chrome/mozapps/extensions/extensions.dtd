@@ -30,7 +30,7 @@
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label "Todos los complementos han sido desactivados por el modo seguro.">
-<!ENTITY warning.checkcompatibility.label "La comprobación de compatibilidad de complementos está desactivada. Puede tener algunos incompatibles.">
+<!ENTITY warning.checkcompatibility.label "La comprobación de compatibilidad de los complementos está desactivada. Puede que tenga complementos incompatibles.">
 <!ENTITY warning.checkcompatibility.enable.label "Activar">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Activar comprobación de compatibilidad de complementos">
 <!ENTITY warning.updatesecurity.label "La comprobación de seguridad de los complementos está desactivada. Puede ver su seguridad comprometida durante las actualizaciones.">
@@ -59,9 +59,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label "Configurar todos los complementos para que se actualicen automáticamente">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Reiniciar todos los complementos para actualizarlos automáticamente">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey "R">
-<!ENTITY updates.resetUpdatesToManual.label "Configurar todos los complementos para que se actualicen manualmente">
+<!ENTITY updates.resetUpdatesToManual.label "Reiniciar todos los complementos para actualizarlos manualmente">
 <!ENTITY updates.resetUpdatesToManual.accesskey "R">
 <!ENTITY updates.updating.label "Actualizando complementos">
 <!ENTITY updates.installed.label "Se han actualizado sus complementos.">

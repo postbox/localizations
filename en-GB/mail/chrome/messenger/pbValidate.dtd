@@ -1,12 +1,12 @@
 <!ENTITY changeLicenseKey.label "Code">
 <!ENTITY changeName.label "Name">
-<!ENTITY licenseKey.label "Code:">
+<!ENTITY licenseKey.label "License Code:">
 <!ENTITY name.label "Name:">
 <!ENTITY enterLicense.label "Enter license code now">
 <!ENTITY enterLicenseTitle.label "Enter Postbox license code">
 <!ENTITY enterLicenseInfo.label "Please enter your name and license code below:">
-<!ENTITY invalidLicense.label "Please enter your name and license code exactly as they appear in your license email.">
-<!ENTITY invalidLicenseVersion.label "This license code will not work with this version of Postbox.  Please visit our store to purchase an upgrade.">
+<!ENTITY invalidLicense.label "Almost there... Please enter your name and license code exactly as they appear in your license email.">
+<!ENTITY invalidLicenseVersion.label "This license key will not work with this version of Postbox.  Please upgrade to the most current version.">
 <!ENTITY invalidLicenseInvalid1.label "Please enter a valid license code, or contact us at">
 <!ENTITY invalidLicenseInvalid2.label "Postbox Support">
 <!ENTITY invalidLicenseInvalid3.label "for immediate assistance.">
@@ -37,8 +37,8 @@
 <!ENTITY buttonsMac.top "179">
 <!ENTITY buttons.top "187">
 
-<!ENTITY facebook.top "110">
-<!ENTITY twitter.top "140">
+<!ENTITY facebook.top "100">
+<!ENTITY twitter.top "130">
 <!ENTITY facebook.left "30">
 <!ENTITY facebookLink.left "65">
 

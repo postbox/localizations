@@ -26,6 +26,6 @@
 <!ENTITY accountInbox.label "Inkorgen för det här kontot">
 <!ENTITY accountInbox.accesskey "h">
 <!ENTITY deferToServer.label "Inkorgen för ett annat konto">
-<!ENTITY deferToServer.accesskey "a">
+<!ENTITY deferToServer.accesskey "I">
 <!ENTITY deferGetNewMail.label "Inkludera denna server när du hämtar ny e-post">
 <!ENTITY deferGetNewMail.accesskey "I">

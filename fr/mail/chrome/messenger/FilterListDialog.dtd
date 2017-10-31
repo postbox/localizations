@@ -10,7 +10,7 @@
 <!ENTITY newButton.popupCopy.label "Copier…">
 <!ENTITY newButton.popupCopy.accesskey "C">
 <!ENTITY editButton.label "Modifier…">
-<!ENTITY editButton.accesskey "E">
+<!ENTITY editButton.accesskey "e">
 <!ENTITY deleteButton.label "Supprimer">
 <!ENTITY deleteButton.accesskey "S">
 <!ENTITY reorderTopButton "Placer tout en haut">
@@ -23,7 +23,7 @@
 <!ENTITY reorderBottomButton "Placer tout en bas">
 <!ENTITY reorderBottomButton.accessKey "b">
 <!ENTITY reorderBottomButton.toolTip "Réordonner le filtre afin qu’il s’exécute après tous les autres">
-<!ENTITY filterHeader.label "Les filtres actifs seront appliqués dans l’ordre suivant :">
+<!ENTITY filterHeader.label "Les filtres actifs seront appliqués dans l'ordre suivant :">
 <!ENTITY filtersForPrefix.label "Filtres pour :">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Journal de filtrage">

@@ -27,17 +27,17 @@
 <!ENTITY autotagUsePrefix.accesskey "е">
 <!ENTITY autoTagPrefix.placeholder "Введите префикс метки">
 
-<!ENTITY button.addFeed.label "Добавить">
-<!ENTITY button.addFeed.accesskey "б">
+<!ENTITY button.addFeed.label       "Добавить">
+<!ENTITY button.addFeed.accesskey   "A">
 <!ENTITY button.updateFeed.label "Обновить">
 <!ENTITY button.updateFeed.accesskey "в">
 <!ENTITY button.removeFeed.label "Удалить">
-<!ENTITY button.removeFeed.accesskey "д">
-<!ENTITY button.importOPML.label "Импортировать">
-<!ENTITY button.importOPML.accesskey "м">
-<!ENTITY button.exportOPML.label "Экспортировать">
-<!ENTITY button.exportOPML.accesskey "к">
+<!ENTITY button.removeFeed.accesskey   "R">
+<!ENTITY button.importOPML.label "Импорт">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Экспорт">
+<!ENTITY button.exportOPML.accesskey   "x">
 <!ENTITY button.exportOPML.tooltip "Экспорт лент новостей со структурой папок; ctrl щелчок или ctrl enter экспортирует ленты в виде списка">
 
-<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close.commandKey             "w">
 <!ENTITY button.close.label "Закрыть">

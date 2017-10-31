@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY folderProps.windowtitle.label "Proprietà">
+<!ENTITY folderProps.windowtitle.label           "Proprietà">
 
-<!ENTITY generalInfo.label "Informazioni generali">
+<!ENTITY generalInfo.label                       "Informazioni generali">
 <!ENTITY folderCharsetFallback2.label "Codifica del testo predefinita:">
 <!ENTITY folderCharsetFallback2.accesskey "C">
 <!ENTITY folderCharsetEnforce2.label "Applica la codifica a tutti i messaggi nella cartella (le impostazioni di codifica del testo di singoli messaggi e le impostazioni dovute al rilevamento automatico verranno ignorate)">
@@ -20,13 +20,13 @@
 <!ENTITY retentionUseAccount.label "Utilizza le impostazioni dell'account">
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "giorni">
-<!ENTITY message.label "messaggi più recenti">
-<!ENTITY retentionCleanup.label "Per recuperare spazio su disco è possibile eliminare definitivamente i vecchi messaggi.">
+<!ENTITY message.label "messaggi">
+<!ENTITY retentionCleanup.label "Per recuperare spazio su disco è possibile eliminare definitivamente i messaggi meno recenti.">
 <!ENTITY retentionCleanupImap.label "Per recuperare spazio su disco è possibile eliminare definitivamente i vecchi messaggi, sia le copie locali sia quelle memorizzate nel server remoto.">
 <!ENTITY retentionCleanupPop.label "Per recuperare spazio su disco è possibile eliminare definitivamente i vecchi messaggi, incluse le copie memorizzate nel server remoto.">
 <!ENTITY retentionDeleteMsg.label "Elimina i messaggi più vecchi di">
 <!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Non eliminare alcun messaggio">
+<!ENTITY retentionKeepAll.label "Non eliminare nessun messaggio">
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Elimina tutti eccetto i">
 <!ENTITY retentionKeepRecent.accesskey "E">
@@ -37,31 +37,31 @@
 <!ENTITY folderCheckForNewMessages2.label "Durante lo scaricamento dei nuovi messaggi per questo account controllare sempre questa cartella">
 <!ENTITY folderCheckForNewMessages2.accesskey "c">
 
-<!ENTITY offlineFolder.check.label "Seleziona questa cartella per l'uso non in linea">
-<!ENTITY offlineFolder.check.accesskey "S">
-<!ENTITY offlineFolder.button.label "Scarica ora">
-<!ENTITY offlineFolder.button.accesskey "o">
+<!ENTITY offlineFolder.check.label               "Seleziona questa cartella per l'uso offline">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label              "Scarica ora">
+<!ENTITY offlineFolder.button.accesskey          "o">
 
-<!ENTITY selectofflineNewsgroup.check.label "Seleziona questo gruppo di discussione per l'uso non in linea">
-<!ENTITY selectofflineNewsgroup.check.accesskey "S">
-<!ENTITY offlineNewsgroup.button.label "Scarica ora">
-<!ENTITY offlineNewsgroup.button.accesskey "o">
+<!ENTITY selectofflineNewsgroup.check.label      "Seleziona questo newsgroup per l'uso offline">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "S">
+<!ENTITY offlineNewsgroup.button.label           "Scarica ora">
+<!ENTITY offlineNewsgroup.button.accesskey       "o">
 
-<!ENTITY folderProps.name.label "Nome:">
-<!ENTITY folderProps.name.accesskey "N">
-<!ENTITY folderProps.location.label "Posizione:">
-<!ENTITY folderProps.location.accesskey "P">
+<!ENTITY folderProps.name.label                  "Nome:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Posizione:">
+<!ENTITY folderProps.location.accesskey          "P">
 
-<!ENTITY folderSharingTab.label "Condivisione">
-<!ENTITY privileges.button.label "Privilegi…">
-<!ENTITY privileges.button.accesskey "P">
-<!ENTITY permissionsDesc.label "Si possiedono i seguenti privilegi:">
-<!ENTITY folderType.label "Tipo cartella:">
+<!ENTITY folderSharingTab.label                  "Condivisione">
+<!ENTITY privileges.button.label                 "Privilegi…">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "Possiedi i seguenti permessi:">
+<!ENTITY folderType.label                        "Tipo cartella:">
 
-<!ENTITY folderQuotaTab.label "Quota">
-<!ENTITY folderQuotaRoot.label "Quota radice:">
-<!ENTITY folderQuotaUsage.label "Utilizzo:">
-<!ENTITY folderQuotaStatus.label "Stato:">
+<!ENTITY folderQuotaTab.label                    "Limite massimo">
+<!ENTITY folderQuotaRoot.label                   "Limite massimo root:">
+<!ENTITY folderQuotaUsage.label                  "Utilizzo:">
+<!ENTITY folderQuotaStatus.label                 "Stato:">
 
 <!ENTITY numberOfMessages.label "Numero di messaggi:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->

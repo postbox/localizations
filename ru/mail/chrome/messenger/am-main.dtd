@@ -4,17 +4,17 @@
 
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "Параметры учётной записи">
+<!ENTITY accountTitle.label "Параметры учетной записи">
 
-<!ENTITY name.label "Имя отправителя:">
-<!ENTITY name.accesskey "о">
-<!ENTITY email.label "Адрес электронной почты:">
-<!ENTITY email.accesskey "А">
+<!ENTITY name.label "Имя:">
+<!ENTITY name.accesskey "Y">
+<!ENTITY email.label "Адрес эл. почты:">
+<!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Адрес для ответа:">
-<!ENTITY replyTo.accesskey "д">
+<!ENTITY replyTo.accesskey "s">
 <!ENTITY replyTo.placeholder "Получатели будут отвечать по этому адресу">
 <!ENTITY organization.label "Организация:">
-<!ENTITY organization.accesskey "О">
+<!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Текст подписи:">
 <!ENTITY signatureText.accesskey "т">
 <!ENTITY signatureHtml.label "Использовать HTML (например &lt;b&gt;жирный&lt;/b&gt;)">
@@ -23,24 +23,24 @@
 <!ENTITY signatureFile.accesskey "с">
 <!ENTITY edit.label "Изменить…">
 <!ENTITY choose.label "Выбрать…">
-<!ENTITY choose.accesskey "ы">
-<!ENTITY editVCard1.label "Edit...">
+<!ENTITY choose.accesskey "C">
+<!ENTITY editVCard1.label "Изменить…">
 <!ENTITY editVCard1.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "Прикреплять визитную карточку к сообщениям">
-<!ENTITY attachVCard.accesskey "з">
+<!ENTITY attachVCard.label "Вкладывать в сообщения визитную карточку (vCard)">
+<!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY manageIdentities.label "Дополнительные адреса электронной почты …">
-<!ENTITY manageIdentities.accesskey "Д">
+<!ENTITY manageIdentities.label "Управление удостоверениями…">
+<!ENTITY manageIdentities.accesskey "M">
 
-<!ENTITY smtpName1.label "Outgoing Server:">
+<!ENTITY smtpName1.label "Сервер исходящей почты:">
 <!ENTITY smtpName1.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Использовать сервер по умолчанию">
 
-<!ENTITY pbNoSignature.label "None">
-<!ENTITY pbEditSignature1.label "Edit...">
+<!ENTITY pbNoSignature.label "Нет">
+<!ENTITY pbEditSignature1.label "Изменить…">
 <!ENTITY pbEditSignature1.accesskey "i">
-<!ENTITY pbChooseSignature1.label "Signature:">
+<!ENTITY pbChooseSignature1.label "Подпись:">
 <!ENTITY pbChooseSignature1.accesskey "g">
 
-<!ENTITY pbIdentityTitle.label "Identity">
+<!ENTITY pbIdentityTitle.label "Удостоверение">

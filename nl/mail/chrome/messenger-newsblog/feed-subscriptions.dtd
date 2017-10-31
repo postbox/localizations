@@ -6,7 +6,7 @@
 <!ENTITY feedSubscriptions.label     "Feedabonnementen">
 <!ENTITY learnMore.label             "Meer info over feeds">
 
-<!ENTITY feedTitle.label             "Titel:">
+<!ENTITY feedTitle.label "Titel:">
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "Feed-URL:">
@@ -27,17 +27,17 @@
 <!ENTITY autotagUsePrefix.accesskey  "L">
 <!ENTITY autoTagPrefix.placeholder   "Voer een labelvoorvoegsel in">
 
-<!ENTITY button.addFeed.label        "Toevoegen">
-<!ENTITY button.addFeed.accesskey    "o">
+<!ENTITY button.addFeed.label       "Toevoegen">
+<!ENTITY button.addFeed.accesskey   "T">
 <!ENTITY button.updateFeed.label     "Bijwerken">
 <!ENTITY button.updateFeed.accesskey "w">
-<!ENTITY button.removeFeed.label     "Verwijderen">
-<!ENTITY button.removeFeed.accesskey "V">
-<!ENTITY button.importOPML.label     "Importeren">
-<!ENTITY button.importOPML.accesskey "m">
-<!ENTITY button.exportOPML.label     "Exporteren">
-<!ENTITY button.exportOPML.accesskey "x">
+<!ENTITY button.removeFeed.label "Verwijderen">
+<!ENTITY button.removeFeed.accesskey   "V">
+<!ENTITY button.importOPML.label "Importeren">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Exporteren">
+<!ENTITY button.exportOPML.accesskey   "x">
 <!ENTITY button.exportOPML.tooltip   "Feeds exporteren met mapstructuur; Ctrl+klikken of Ctrl+Enter om feeds als een lijst te exporteren">
 
-<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY cmd.close.commandKey             "w">
 <!ENTITY button.close.label          "Sluiten">

@@ -2,34 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pbToField.label "To:">
-<!ENTITY pbFromField.label "From:">
-<!ENTITY pbSenderField.label "Sender:">
-<!ENTITY pbOrganizationField.label "Organization:">
-<!ENTITY pbReplyToField.label "Reply-To:">
+<!ENTITY pbToField.label "Till:">
+<!ENTITY pbFromField.label "Från:">
+<!ENTITY pbSenderField.label "Avsändare:">
+<!ENTITY pbOrganizationField.label "Organisation:">
+<!ENTITY pbReplyToField.label "Svara-Till:">
 
-<!ENTITY subjectField.label "Subject:">
+<!ENTITY subjectField.label "Ämne: ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY pbCcField.label "Cc:">
 <!ENTITY pbBccField.label "Bcc:">
-<!ENTITY pbNewsgroupsField.label "Groups:">
-<!ENTITY pbFollowupToField.label "Followup-To:">
-<!ENTITY pbLinkField.label "Link:">
-<!ENTITY pbTagsHdr.label "Topics:">
-<!ENTITY pbDateField.label "Date:">
-<!ENTITY pbUserAgentField.label "User-Agent:">
-<!ENTITY pbReferencesField.label "References:">
-<!ENTITY pbMessageIdField.label "Message-ID:">
-<!ENTITY pbInReplyToField.label "In-Reply-To:">
-<!ENTITY pbOriginalWebsite.label "Website:">
-<!ENTITY pbParticipantsField.label "Participants:">
-<!ENTITY saveAll.label "Save All..">
+<!ENTITY pbNewsgroupsField.label "Diskussionsgrupper:">
+<!ENTITY pbFollowupToField.label "Uppföljning-Till:">
+<!ENTITY pbLinkField.label "Länk:">
+<!ENTITY pbTagsHdr.label "Ämnen:">
+<!ENTITY pbDateField.label "Datum:">
+<!ENTITY pbUserAgentField.label "Användaragent:">
+<!ENTITY pbReferencesField.label "Referenser:">
+<!ENTITY pbMessageIdField.label "Meddelande-ID:">
+<!ENTITY pbInReplyToField.label "I-Svar-Till:">
+<!ENTITY pbOriginalWebsite.label "Hemsida:">
+<!ENTITY pbParticipantsField.label "Deltagare:">
+<!ENTITY saveAll.label "Spara alla..">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Öppna">
 <!ENTITY openAttachmentCmd.accesskey    "p">
 <!ENTITY saveAsAttachmentCmd.label    "Spara som…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "s">
+<!ENTITY saveAsAttachmentCmd.accesskey    "S">
 <!ENTITY detachAttachmentCmd.label    "Avskilj…">
 <!ENTITY detachAttachmentCmd.accesskey    "k">
 <!ENTITY deleteAttachmentCmd.label    "Ta bort">
@@ -55,11 +55,11 @@
 <!ENTITY OpenBrowserWithMsgId.label "Öppna webbläsare med meddelande-ID">
 <!ENTITY OpenBrowserWithMsgId.accesskey "w">
 
-<!ENTITY msgHdrViewOpenMessage.label "open message">
-<!ENTITY pbMsgHdrView.showDetails.label "show details">
-<!ENTITY pbMsgHdrView.hideDetails.label "hide details">
-<!ENTITY pbMsgHdrView.conversationMsgReply.label "reply">
-<!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "reply all">
-<!ENTITY pbMsgHdrView.conversationMsgForward.label "forward">
+<!ENTITY msgHdrViewOpenMessage.label "öppna meddelande">
+<!ENTITY pbMsgHdrView.showDetails.label "visa info">
+<!ENTITY pbMsgHdrView.hideDetails.label "dölj info">
+<!ENTITY pbMsgHdrView.conversationMsgReply.label "svara">
+<!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "svara alla">
+<!ENTITY pbMsgHdrView.conversationMsgForward.label "vidarebefordrar">
 
-<!ENTITY pbMsgHdrView.loadingMessageBody.label "Loading...">
+<!ENTITY pbMsgHdrView.loadingMessageBody.label "Laddar...">

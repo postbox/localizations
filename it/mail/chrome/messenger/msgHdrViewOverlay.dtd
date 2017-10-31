@@ -2,28 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pbToField.label "To:">
-<!ENTITY pbFromField.label "From:">
-<!ENTITY pbSenderField.label "Sender:">
-<!ENTITY pbOrganizationField.label "Organization:">
-<!ENTITY pbReplyToField.label "Reply-To:">
+<!ENTITY pbToField.label "A:">
+<!ENTITY pbFromField.label "Da:">
+<!ENTITY pbSenderField.label "Mittente:">
+<!ENTITY pbOrganizationField.label "Organizzazione:">
+<!ENTITY pbReplyToField.label "Rispondi a:">
 
-<!ENTITY subjectField.label "Subject:">
+<!ENTITY subjectField.label "Oggetto: ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY pbCcField.label "Cc:">
-<!ENTITY pbBccField.label "Bcc:">
-<!ENTITY pbNewsgroupsField.label "Groups:">
-<!ENTITY pbFollowupToField.label "Followup-To:">
+<!ENTITY pbBccField.label "Ccn:">
+<!ENTITY pbNewsgroupsField.label "Newsgroup:">
+<!ENTITY pbFollowupToField.label "Followup a:">
 <!ENTITY pbLinkField.label "Link:">
-<!ENTITY pbTagsHdr.label "Topics:">
-<!ENTITY pbDateField.label "Date:">
-<!ENTITY pbUserAgentField.label "User-Agent:">
-<!ENTITY pbReferencesField.label "References:">
-<!ENTITY pbMessageIdField.label "Message-ID:">
-<!ENTITY pbInReplyToField.label "In-Reply-To:">
-<!ENTITY pbOriginalWebsite.label "Website:">
-<!ENTITY pbParticipantsField.label "Participants:">
-<!ENTITY saveAll.label "Save All..">
+<!ENTITY pbTagsHdr.label "Argomenti:">
+<!ENTITY pbDateField.label "Data:">
+<!ENTITY pbUserAgentField.label "User agent:">
+<!ENTITY pbReferencesField.label "Riferimenti:">
+<!ENTITY pbMessageIdField.label "ID messaggio:">
+<!ENTITY pbInReplyToField.label "In risposta a:">
+<!ENTITY pbOriginalWebsite.label "Sito web:">
+<!ENTITY pbParticipantsField.label "Partecipanti:">
+<!ENTITY saveAll.label "Salva tutti..">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Apri">
@@ -41,25 +41,25 @@
 <!ENTITY detachAllAttachmentsCmd.label    "Separa tutto…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "S">
 <!ENTITY deleteAllAttachmentsCmd.label    "Elimina tutti…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
 
 <!ENTITY openAttachment.tooltip "Apri il file allegato">
 
-<!ENTITY copyLinkCmd.label        "Copia link">
+<!ENTITY copyLinkCmd.label        "Copia indirizzo link">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
-<!ENTITY CopyMessageId.label "Copiare l'identificativo del messaggio">
+<!ENTITY CopyMessageId.label "Copia ID messaggio">
 <!ENTITY CopyMessageId.accesskey "C">
-<!ENTITY OpenMessageForMsgId.label "Apri il messaggio con questo ID">
+<!ENTITY OpenMessageForMsgId.label "Apri messaggio per ID">
 <!ENTITY OpenMessageForMsgId.accesskey "A">
-<!ENTITY OpenBrowserWithMsgId.label "Apri nel browser il messaggio con questo ID">
+<!ENTITY OpenBrowserWithMsgId.label "Apri il browser con ID messaggio">
 <!ENTITY OpenBrowserWithMsgId.accesskey "B">
 
-<!ENTITY msgHdrViewOpenMessage.label "open message">
-<!ENTITY pbMsgHdrView.showDetails.label "show details">
-<!ENTITY pbMsgHdrView.hideDetails.label "hide details">
-<!ENTITY pbMsgHdrView.conversationMsgReply.label "reply">
-<!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "reply all">
-<!ENTITY pbMsgHdrView.conversationMsgForward.label "forward">
+<!ENTITY msgHdrViewOpenMessage.label "apri messaggio">
+<!ENTITY pbMsgHdrView.showDetails.label "mostra dettagli">
+<!ENTITY pbMsgHdrView.hideDetails.label "nascondi dettagli">
+<!ENTITY pbMsgHdrView.conversationMsgReply.label "rispondi">
+<!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "rispondi a tutti">
+<!ENTITY pbMsgHdrView.conversationMsgForward.label "inoltra">
 
-<!ENTITY pbMsgHdrView.loadingMessageBody.label "Loading...">
+<!ENTITY pbMsgHdrView.loadingMessageBody.label "Caricamento in corso...">

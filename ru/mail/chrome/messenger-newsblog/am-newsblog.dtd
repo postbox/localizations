@@ -4,21 +4,21 @@
 
 <!ENTITY accountTitle.label "RSS Settings">
 
-<!ENTITY indexMsgBodies.label "Index message bodies">
+<!ENTITY indexMsgBodies.label "Индексировать текст сообщений">
 <!ENTITY indexMsgBodies.accesskey "I">
 
 <!ENTITY biffStart.label "Проверять наличие новых статей каждые">
-<!ENTITY biffStart.accesskey "р">
+<!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "минут">
 
 <!ENTITY loginAtStartup.label "Проверять наличие новых статей при запуске"> 
-<!ENTITY loginAtStartup.accesskey "П">
+<!ENTITY loginAtStartup.accesskey "C">
 
 <!ENTITY useQuickMode.label "По умолчанию показывать краткое описание статьи вместо загрузки веб-страницы"> 
-<!ENTITY useQuickMode.accesskey "к">
+<!ENTITY useQuickMode.accesskey "-">
 
 <!ENTITY manageSubscriptions.label "Управление подписками…"> 
-<!ENTITY manageSubscriptions.accesskey "У">
+<!ENTITY manageSubscriptions.accesskey "M">
 
 <!ENTITY feedWindowTitle.label "Мастер учетной записи лент новостей">
 

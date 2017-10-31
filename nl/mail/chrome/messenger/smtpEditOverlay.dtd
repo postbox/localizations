@@ -6,19 +6,19 @@
 <!ENTITY security.caption "Beveiliging en authenticatie">
 <!ENTITY serverName.label "Servernaam:">
 <!ENTITY serverName.accesskey "S">
-<!ENTITY serverDescription.label "Beschrijving:">
-<!ENTITY serverDescription.accesskey "B">
+<!ENTITY serverDescription.label "Omschrijving:">
+<!ENTITY serverDescription.accesskey "O">
 <!ENTITY serverPort.label "Poort:">
 <!ENTITY serverPort.accesskey "P">
 <!ENTITY userName.label "Gebruikersnaam:">
 <!ENTITY userName.accesskey "e">
-<!ENTITY connectionSecurity.label "Verbindingsbeveiliging:">
+<!ENTITY connectionSecurity.label "Beveiliging van verbinding:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Geen">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, mits beschikbaar">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, als beschikbaar">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP-server">
 <!ENTITY serverPortDefault.label "Standaard:">
-<!ENTITY authMethod.label "Authenticatiemethode:">
-<!ENTITY authMethod.accesskey "d">
+<!ENTITY authMethod.label "Authenticatie:">
+<!ENTITY authMethod.accesskey "i">

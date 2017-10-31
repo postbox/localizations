@@ -1,24 +1,24 @@
 <!-- rich search results -->
-<!ENTITY searchresults.showthumbnail.label         "Show Thumbnails">
-<!ENTITY searchresults.showthumbnail.accesskey     "S">
-<!ENTITY viewByRelevance.label                     "Sorted By Relevance">
-<!ENTITY viewByDate.label                          "Sorted By Date">
-<!ENTITY searchresults.viewByRelevance.label       "Sort By Relevance">
-<!ENTITY searchresults.viewByDate.label            "Sort By Date">
-<!ENTITY addToCalendar.label                       "Add to Calendar">
-<!ENTITY prevNextResults.label                     "Prev / Next">
-<!ENTITY searchResultsNoMatchesFound.desc          "No items matched your search.">
-<!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Try searching in All Folders.">
-<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Try setting your Focus to All.">
-<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Try setting your view to Messages.">
-<!ENTITY showSearchOptions.label                   "Show search options">
+<!ENTITY searchresults.showthumbnail.label         "Mostrar miniaturas">
+<!ENTITY searchresults.showthumbnail.accesskey     "s">
+<!ENTITY viewByRelevance.label                     "Ordenado por relevancia">
+<!ENTITY viewByDate.label                          "Ordenado por fecha">
+<!ENTITY searchresults.viewByRelevance.label       "Ordenar por relevancia">
+<!ENTITY searchresults.viewByDate.label            "Ordenar por fecha">
+<!ENTITY addToCalendar.label                       "Añadir al calendario">
+<!ENTITY prevNextResults.label                     "Ant / Sig">
+<!ENTITY searchResultsNoMatchesFound.desc          "Ningún elemento coincide con su búsqueda.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFolders.desc          "Intentar la búsqueda en todas las carpetas.">
+<!ENTITY searchResultsNoMatchesSuggestionAllFocus.desc          "Intente configurar su Focus como Todo.">
+<!ENTITY searchResultsNoMatchesSuggestionAllMessages.desc       "Intente configurar su vista a Mensajes.">
+<!ENTITY showSearchOptions.label                   "Mostrar opciones de búsqueda">
 
 <!-- attachments -->
-<!ENTITY searchresults.upload.label                   "Upload">
+<!ENTITY searchresults.upload.label                   "Subir">
 <!ENTITY searchresults.uploadToGoogleDocs.label       "Google Docs">
 <!ENTITY searchresults.uploadToGoogleDocs.accesskey   "G">
-<!ENTITY attachmentInfo.label                         "Document Info">
-<!ENTITY attachmentActions.label                      "Document Actions">
+<!ENTITY attachmentInfo.label                         "Información de documento">
+<!ENTITY attachmentActions.label                      "Acciones de documento">
 
 <!-- images -->
 <!-- XX Localization note - Service names do not need to be translated -->
@@ -26,8 +26,8 @@
 <!ENTITY searchresults.uploadPhotoToPicasa.accesskey   "P">
 <!ENTITY searchresults.uploadPhotoToPhotobucket.label       "Photobucket">
 <!ENTITY searchresults.uploadPhotoToPhotobucket.accesskey   "b">
-<!ENTITY imageInfo.label                               "Image Info">
-<!ENTITY imageActions.label                            "Image Actions">
+<!ENTITY imageInfo.label                               "Información de imagen">
+<!ENTITY imageActions.label                            "Acciones de imagen">
 
 <!-- urls -->
 <!-- XXX start localization note: Do not translate these service names -->
@@ -44,25 +44,25 @@
 <!-- XXX end localization note: Do not translate these service names -->
 
 <!-- action buttons -->
-<!ENTITY searchresults.saveButton.label            "Save">
-<!ENTITY searchresults.sendButton.label            "Send">
+<!ENTITY searchresults.saveButton.label            "Guardar">
+<!ENTITY searchresults.sendButton.label            "Enviar">
 <!-- XXX localization note: should "Quick Look" be translated? -->
-<!ENTITY searchresults.quickLookButton.label       "Quick Look">
-<!ENTITY searchresults.importPhotoButtonMac.label  "Photos">
+<!ENTITY searchresults.quickLookButton.label       "Vista previa">
+<!ENTITY searchresults.importPhotoButtonMac.label  "iPhoto">
 
-<!ENTITY searchBar-options.tooltip                 "Show search options">
-<!ENTITY location.label                            "Near:">
+<!ENTITY searchBar-options.tooltip                 "Mostrar opciones de búsqueda">
+<!ENTITY location.label                            "Cerca:">
 <!ENTITY location.placeholder                        "City, State or ZIP">
-<!ENTITY flickr.private.tooltip                    "Only you can see this photo on flickr.com">
+<!ENTITY flickr.private.tooltip                    "Sólo tú puedes ver esta foto en flickr.com">
 
 <!-- for rich search in compose -->
-<!ENTITY attachments.label "Attachments">
-<!ENTITY dictionary.label "Dictionary">
-<!ENTITY thesaurus.label "Thesaurus">
-<!ENTITY documents.label "Attachments">
-<!ENTITY images.label "Images">
-<!ENTITY signatures.label "Signatures">
-<!ENTITY contacts.label "Contacts">
+<!ENTITY attachments.label "Adjuntos">
+<!ENTITY dictionary.label "Diccionario">
+<!ENTITY thesaurus.label "Tesauro">
+<!ENTITY documents.label "Adjuntos">
+<!ENTITY images.label "Imágenes">
+<!ENTITY signatures.label "Firmas">
+<!ENTITY contacts.label "Contactos">
 
 <!-- XXX start localization note: Do not translate these service names -->
 <!ENTITY google.label "Google">
@@ -70,6 +70,6 @@
 <!ENTITY wikipedia.label "Wikipedia">
 <!ENTITY yelp.label "Yelp">
 <!ENTITY flickr.label "Flickr">
-<!ENTITY picasa.label "Picasa Web Albums">
-<!ENTITY photobucket.label "My Photobucket">
+<!ENTITY picasa.label "Albumes web Picasa">
+<!ENTITY photobucket.label "Mi Photobucket">
 <!-- XXX end localization note: Do not translate these service names -->

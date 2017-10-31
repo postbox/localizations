@@ -12,12 +12,12 @@
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label "Имя сайта:">
 <!ENTITY siteList.accesskey "я">
-<!ENTITY siteList.tooltip "Выберите сайт, в который произвести публикацию">
+<!ENTITY siteList.tooltip "Выберите сайт, на котором опубликовать">
 <!ENTITY newSiteButton.label "Добавить сайт">
 <!ENTITY newSiteButton.accesskey "б">
 <!ENTITY docDirList.label "Каталог сайта для этой страницы:">
 <!ENTITY docDirList.accesskey "т">
-<!ENTITY docDirList.tooltip "Выберите или введите имя удалённого каталога для этой страницы">
+<!ENTITY docDirList.tooltip "Выберите или введите имя удаленного каталога для этой страницы">
 <!ENTITY publishImgCheckbox.label "Включать изображения и другие файлы">
 <!ENTITY publishImgCheckbox.accesskey "з">
 <!ENTITY publishImgCheckbox.tooltip "Опубликовать изображения и другие файлы, ссылки на которые содержатся на этой странице">
@@ -26,8 +26,8 @@
 <!ENTITY sameLocationRadio.tooltip "Опубликовать файлы вместе со страницей">
 <!ENTITY useSubdirRadio.label "Использовать этот подкаталог:">
 <!ENTITY useSubdirRadio.accesskey "к">
-<!ENTITY useSubdirRadio.tooltip "Опубликовать файлы в выбранном удалённом каталоге">
-<!ENTITY otherDirList.tooltip "Выберите или введите имя удалённого каталога для публикации файлов">
+<!ENTITY useSubdirRadio.tooltip "Опубликовать файлы в выбранном удаленном каталоге">
+<!ENTITY otherDirList.tooltip "Выберите или введите имя удаленного каталога для публикации файлов">
 <!ENTITY pageTitle.label "Заголовок страницы:">
 <!ENTITY pageTitle.accesskey "г">
 <!ENTITY pageTitle.tooltip "Введите название, которое будет отображаться в строке заголовка окна и в закладках">
@@ -48,18 +48,18 @@
 <!ENTITY siteName.label "Имя сайта:">
 <!ENTITY siteName.accesskey "а">
 <!ENTITY siteName.tooltip "Псевдоним, идентифицирующий этот сайт (например, «Мой сайт»)">
-<!ENTITY siteUrl.label "URL публикации (например, «ftp://ftp.myisp.com/myusername»):">
+<!ENTITY siteUrl.label "URL-адрес публикации (например, «ftp://ftp.myisp.com/myusername»):">
 <!ENTITY siteUrl.accesskey "б">
-<!ENTITY siteUrl.tooltip "FTP- или HTTP-адрес, данный вам поставщиком услуг Интернета или услуг по размещению информации в сети">
-<!ENTITY browseUrl.label "HTTP-адрес вашей домашней страницы (например, «http://www.test.ru/myusername»):">
+<!ENTITY siteUrl.tooltip "FTP- или HTTP-адрес, предоставленный провайдером Интернета или службой веб-хостинга">
+<!ENTITY browseUrl.label "HTTP-адрес вашей домашней страницы (например, «http://www.myisp.com/myusername»):">
 <!ENTITY browseUrl.accesskey "а">
 <!ENTITY browseUrl.tooltip "HTTP-адрес вашего домашнего каталога (без имени файла)">
 <!ENTITY username.label "Имя пользователя:">
 <!ENTITY username.accesskey "л">
-<!ENTITY username.tooltip "Имя пользователя, данное вам поставщиком услуг Интернета или услуг по размещению информации в сети">
+<!ENTITY username.tooltip "Имя пользователя, предоставленный провайдером Интернета или службой веб-хостинга">
 <!ENTITY password.label "Пароль:">
 <!ENTITY password.accesskey "р">
 <!ENTITY password.tooltip "Пароль, связанный с вашим именем пользователя">
 <!ENTITY savePassword.label "Сохранить пароль">
 <!ENTITY savePassword.accesskey "х">
-<!ENTITY savePassword.tooltip "Выбор этой опции позволит сохранить ваш пароль в хранилище паролей">
+<!ENTITY savePassword.tooltip "Выбор этой опции позволит менеджеру паролей запомнить ваш пароль">

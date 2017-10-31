@@ -9,7 +9,7 @@
 <!ENTITY importFromNonWin.label         "Einstellungen, Konten, Adressbücher, Filter und sonstige Daten importieren von:">
 <!ENTITY importSourceNotFound.label     "Keine Anwendung gefunden, aus der Daten importiert werden können.">
 
-<!ENTITY cleanInstall.label             "Clean install (recommended)">
+<!ENTITY cleanInstall.label             "Saubere Installation (empfohlen)">
 <!ENTITY cleanInstall.accesskey  	"C">
 
 <!ENTITY importFromNothing.label        "Nichts importieren">
@@ -23,17 +23,17 @@
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
 
-<!ENTITY welcome.title                  "Welcome to &brandShortName;">
-<!ENTITY tagline.label                  "A Better Way To Do Email">
-<!ENTITY thanks.label                   "Thanks for trying out &brandShortName;!">
-<!ENTITY quickStart1.label              "See the ">
-<!ENTITY quickStart2.label              "Quickstart Guide"> 
-<!ENTITY quickStart3.label              " to learn about all the features.">
-<!ENTITY start.label                    "Start using &brandShortName;">
+<!ENTITY welcome.title                  "Willkommen bei &brandShortName;">
+<!ENTITY tagline.label                  "E-Mailen auf eine bessere Art">
+<!ENTITY thanks.label                   "Danke, dass Sie &brandShortName; getestet haben!">
+<!ENTITY quickStart1.label              "Schauen Sie sich die">
+<!ENTITY quickStart2.label              "Kurzanleitung"> 
+<!ENTITY quickStart3.label              "an, um alles über die Funktionen zu erfahren.">
+<!ENTITY start.label                    "Legen Sie direkt mit &brandShortName; los">
     
-<!ENTITY migration.title                "Account Migration Wizard">
-<!ENTITY migrationMac.title             "Account Migration Assistant">
-<!ENTITY importOptions.title            "Import Options">
+<!ENTITY migration.title                "Konto-Migrations-Assistent">
+<!ENTITY migrationMac.title             "Konto-Migrations-Assistent">
+<!ENTITY importOptions.title            "Importierungs-Einstellungen">
 <!ENTITY importItems.title              "Zu importierende Daten">
 <!ENTITY importItems.label              "Wählen Sie bitte aus, welche Daten importiert werden sollen:">
 
@@ -59,7 +59,7 @@
 <!ENTITY explanation-text.top "50">
 <!ENTITY radio.top "72">
 <!ENTITY import.top "86">
-<!ENTITY progress.top "160">
+<!ENTITY progress.top "140">
 <!ENTITY start.top "264">
 <!ENTITY startMac.top "266">
 <!ENTITY guide.top "159">

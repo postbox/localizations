@@ -2,29 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY serverAdvanced.label "Дополнительные параметры учётной записи">
+<!ENTITY serverAdvanced.label "Дополнительные параметры учетной записи">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
-<!ENTITY serverDirectory.label "Каталог IMAP-сервера:">
-<!ENTITY serverDirectory.accesskey "а">
-<!ENTITY usingSubscription.label "Показывать только папки на которые вы подписаны">
-<!ENTITY usingSubscription.accesskey "о">
+<!ENTITY serverDirectory.label "Каталог сервера IMAP:">
+<!ENTITY serverDirectory.accesskey "I">
+<!ENTITY usingSubscription.label "Показывать только папки с подпиской">
+<!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "Сервер поддерживает папки, содержащие вложенные папки и сообщения">
-<!ENTITY dualUseFolders.accesskey "е">
-<!ENTITY maximumConnectionsNumber.label "Максимальное число кэшируемых соединений">
-<!ENTITY maximumConnectionsNumber.accesskey "к">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY maximumConnectionsNumber.label "Максимальное количество кэшируемых подключений">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "Эти настройки определяют пространства имён на вашем IMAP-сервере">
-<!ENTITY personalNamespace.label "Личное пространство имён:">
-<!ENTITY personalNamespace.accesskey "ч">
+<!ENTITY namespaceDesc.label "Эти настройки определяют пространства имен на сервере IMAP">
+<!ENTITY personalNamespace.label "Личное пространство имен:">
+<!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "Общее (совместно используемое):">
-<!ENTITY publicNamespace.accesskey "б">
+<!ENTITY publicNamespace.accesskey "u">
 <!ENTITY otherUsersNamespace.label "Другие пользователи:">
-<!ENTITY otherUsersNamespace.accesskey "у">
-<!ENTITY overrideNamespaces.label "Разрешить серверу перекрывать эти пространства имён">
-<!ENTITY overrideNamespaces.accesskey "з">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "Разрешить серверу переопределять эти пространства имен">
+<!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3DeferringDesc.label "При загрузке почты c сервера этой учётной записи, помещать новые сообщения в следующую папку:">
 <!ENTITY accountInbox.accesskey "д">
-<!ENTITY deferToServer.label "«Входящие» для другой учётной записи">
-<!ENTITY deferToServer.accesskey "х">
-<!ENTITY deferGetNewMail.label "Загружать почту с данного сервера">
-<!ENTITY deferGetNewMail.accesskey "ж">
+<!ENTITY deferToServer.label "Папка «Входящие» для другой учетной записи">
+<!ENTITY deferToServer.accesskey "d">
+<!ENTITY deferGetNewMail.label "Загружать почту с этого сервера">
+<!ENTITY deferGetNewMail.accesskey "I">

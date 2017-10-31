@@ -5,16 +5,16 @@
 <!-- Labels -->
 <!ENTITY newFolderDialog.title      "Nouveau dossier">
 <!ENTITY name.label                 "Nom :">
-<!ENTITY name.accesskey             "n">
+<!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Créer comme sous-dossier de :">
 <!ENTITY description.accesskey      "C">
-<!ENTITY folderRestriction1.label   "Ce serveur n’accepte que deux types spéciaux de dossier.">
+<!ENTITY folderRestriction1.label   "Ce serveur n'accepte que deux types spéciaux de dossier.">
 <!ENTITY folderRestriction2.label   "Permettre à votre nouveau dossier de contenir :">
 <!ENTITY foldersOnly.label          "des dossiers seulement">
 <!ENTITY messagesOnly.label         "des messages seulement">
 <!ENTITY accept.label               "Créer le dossier">
 <!ENTITY accept.accesskey           "r">
 
-<!ENTITY pbNewFolder.desc "Enter a name for the new folder and select a location.">
+<!ENTITY pbNewFolder.desc "Entrez un nom pour le nouveau dossier et sélectionnez un emplacement.">
 <!ENTITY pbNewFolderLocation.label "Location:">
 <!ENTITY pbNewFolderLocatione.accesskey "L">

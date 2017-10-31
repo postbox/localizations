@@ -9,10 +9,10 @@
 <!ENTITY leaveIt.label                 "Leave it in my Inbox">
 <!ENTITY leaveIt.accesskey             "i">
 <!ENTITY moveToSent.label              "Move it to my &quot;Sent&quot; folder">
-<!ENTITY moveToSent.accesskey          "m">
+<!ENTITY moveToSent.accesskey          "M">
 <!ENTITY requestMDN.label              "When I receive a request for a return receipt:">
 <!ENTITY never.label                   "Never send a return receipt">
-<!ENTITY never.accesskey               "n">
+<!ENTITY never.accesskey               "N">
 <!ENTITY returnSome.label              "Allow return receipts for some messages">
 <!ENTITY returnSome.accesskey          "r">
 <!ENTITY notInToCc.label               "If I'm not in the To or Cc of the message:">

@@ -26,7 +26,7 @@
 <!ENTITY TextAreaWrap.label "Режим переноса:">
 <!ENTITY TextAreaWrap.accessKey "Р">
 <!ENTITY WrapDefault.value "По умолчанию">
-<!ENTITY WrapOff.value "Отключён">
+<!ENTITY WrapOff.value "Отключен">
 <!ENTITY WrapHard.value "Жесткий">
 <!ENTITY WrapSoft.value "Мягкий">
 <!ENTITY WrapPhysical.value "Физический">

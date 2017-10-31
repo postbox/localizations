@@ -6,14 +6,14 @@
 <!ENTITY sendMail.title               "Tekstopmaak">
 <!ENTITY autoDowngrade.label          "Berichten wanneer mogelijk als platte tekst verzenden">
 <!ENTITY autoDowngrade.accesskey      "B">
-<!ENTITY sendMaildesc.label           "Wanneer een bericht in HTML-opmaak wordt verzonden en van een of meer ontvangers is niet bekend of ze HTML kunnen ontvangen:">
+<!ENTITY sendMaildesc.label           "Indien een bericht in HTML-opmaak wordt verzonden en van één of meer ontvangers is niet bekend of ze HTML kunnen ontvangen:">
 <!ENTITY askMe.label                  "Mij vragen wat te doen">
 <!ENTITY askMe.accesskey              "v">
 <!ENTITY convertPlain.label           "Bericht converteren naar platte tekst">
 <!ENTITY convertPlain.accesskey       "c">
 <!ENTITY sendHTML.label               "Bericht toch als HTML verzenden">
-<!ENTITY sendHTML.accesskey           "H">
-<!ENTITY sendBoth.label               "Het bericht als platte tekst en HTML verzenden">
+<!ENTITY sendHTML.accesskey           "h">
+<!ENTITY sendBoth.label               "Bericht als platte tekst en HTML verzenden">
 <!ENTITY sendBoth.accesskey           "e">
 <!ENTITY override.label               "Noot: gebruik het adresboek om gewenste tekstopmaak voor ontvangers te specificeren.">
 
@@ -23,15 +23,15 @@
 <!ENTITY PlainTextTab.label           "Plattetekstdomeinen">
 <!ENTITY PlainTextTab.accesskey       "P">
 <!ENTITY AddHtmlDomain.label          "Toevoegen…">
-<!ENTITY AddHtmlDomain.accesskey      "T">
+<!ENTITY AddHtmlDomain.accesskey      "a">
 <!ENTITY AddPlainText.label           "Toevoegen…">
-<!ENTITY AddPlainText.accesskey       "T">
+<!ENTITY AddPlainText.accesskey       "d">
 <!ENTITY DeleteHtmlDomain.label       "Verwijderen">
-<!ENTITY DeleteHtmlDomain.accesskey   "V">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
 <!ENTITY DeletePlainText.label        "Verwijderen">
-<!ENTITY DeletePlainText.accesskey    "V">
+<!ENTITY DeletePlainText.accesskey    "t">
 
-<!ENTITY add.htmltitle                "HTML-domeinnaam toevoegen">
+<!ENTITY add.htmltitle                "Een HTML-domeinnaam toevoegen">
 <!ENTITY add.htmldomain               "HTML-domeinnaam:">
-<!ENTITY add.plaintexttitle           "Plattetekstdomeinnaam toevoegen">
+<!ENTITY add.plaintexttitle           "Een plattetekstdomeinnaam toevoegen">
 <!ENTITY add.plaintextdomain          "Plattetekstdomeinnaam:">

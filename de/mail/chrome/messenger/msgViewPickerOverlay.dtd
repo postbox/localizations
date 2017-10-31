@@ -13,7 +13,7 @@
 <!ENTITY viewNotDeleted.label "Nicht gelöschte">
 <!ENTITY viewNotDeleted.accesskey "g">
 <!ENTITY viewTags.label "Schlagwörter">
-<!ENTITY viewTags.accesskey "E">
+<!ENTITY viewTags.accesskey "e">
 <!ENTITY viewCustomViews.label "Individuelle Ansichten">
 <!ENTITY viewCustomViews.accesskey "I">
 <!ENTITY viewVirtualFolder.label "Als virtuellen Ordner speichern…">

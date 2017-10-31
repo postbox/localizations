@@ -2,45 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.label              "Permitir que Spotlight busque mensajes">
 <!ENTITY allowSpotlight.accesskey          "w">
 
-<!ENTITY location.label "Dirección:">
-<!ENTITY location1.accesskey "D">
-<!ENTITY useDefault.label "Restablecer predeterminado">
-<!ENTITY useDefault.accesskey "R">
+<!ENTITY location.label                   "Dirección:">
+<!ENTITY location1.accesskey               "D">
+<!ENTITY useDefault.label                 "Restablecer predeterminado">
+<!ENTITY useDefault.accesskey             "R">
 
 <!ENTITY changeDockIconOptions.label "Cambiar preferencias del icono de la aplicación">
 <!ENTITY dockOptions.label "Opciones del icono de la aplicación…">
 <!ENTITY dockOptions.accesskey "c">
 
-<!ENTITY newMessagesArrive.label "Cuando lleguen mensajes nuevos:">
-<!ENTITY playSound.label "Reproducir un sonido">
-<!ENTITY playSound1.accesskey "o">
+<!ENTITY newMessagesArrive.label          "Cuando lleguen mensajes nuevos:">
+<!ENTITY playSound.label                  "Reproducir un sonido">
+<!ENTITY playSound1.accesskey              "o">
 <!ENTITY playSoundMac.label "Reproducir el siguiente archivo de sonido:">
 <!ENTITY playSoundMac.accesskey "h">
-<!ENTITY showAnimatedAlert.label "Mostrar una alerta">
-<!ENTITY showAnimatedAlert.accesskey "M">
+<!ENTITY showAnimatedAlert.label          "Mostrar una alerta">
+<!ENTITY showAnimatedAlert.accesskey      "s">
 <!ENTITY notificationAlertSettings2.label "Las alertas y el sonido predeterminado pueden desactivarse en el panel Notificaciones de las preferencias del sistema.">
-<!ENTITY customizeMailAlert.label "Personalizar…">
-<!ENTITY customizeMailAlert.accesskey "P">
+<!ENTITY customizeMailAlert.label         "Personalizar…">
+<!ENTITY customizeMailAlert.accesskey     "P">
 
 <!ENTITY showTrayIcon.label "Mostrar un icono en la bandeja">
 <!ENTITY showTrayIcon.accesskey "a">
 
-<!ENTITY play.label "Reproducir">
-<!ENTITY play.accesskey "r">
-<!ENTITY systemsound.label "Sonido por defecto del sistema para nuevo correo">
-<!ENTITY systemsound.accesskey "n">
-<!ENTITY customsound.label "Usar el siguiente archivo de sonido">
-<!ENTITY customsound.accesskey "U">
-<!ENTITY browse.label "Examinar…">
-<!ENTITY browse.accesskey "E">
+<!ENTITY play.label                       "Reproducir">
+<!ENTITY play.accesskey                   "R">
+<!ENTITY systemsound.label                "Sonido por defecto del sistema para nuevo correo">
+<!ENTITY systemsound.accesskey            "n">
+<!ENTITY customsound.label                "Usar el siguiente archivo de sonido">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "Examinar…">
+<!ENTITY browse.accesskey                 "E">
 
 <!ENTITY defaultSearchEngine.label "Buscador predeterminado">
 
-<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+<!ENTITY enableNotificationCenter.label   "Usar el Centro de notificaciones">
 
-<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
+<!ENTITY showProfileManager.label   "Mostrar el Perfil del administrador al inicio">
 
-<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
+<!ENTITY storeLocation.label              "Almacenar tópicos, firmas, respuestas y la libreta de direcciones en:">

@@ -11,7 +11,7 @@
 <!ENTITY searchTermCaption.label "Configure the search criteria used for this smart folder: ">
 
 <!ENTITY folderSelectionCaption.label "Select the folders to search: ">
-<!ENTITY chooseFoldersButton.label "Choose…">
+<!ENTITY chooseFoldersButton.label "Choose...">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
 <!ENTITY searchOnline.label "Search Online (Gives up-to-date results for IMAP and News folders but increases time to open the folder)">

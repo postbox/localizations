@@ -7,11 +7,11 @@
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Aggiungi a: ">
 
-<!ENTITY ListName.label                 "Nome della lista: ">
-<!ENTITY ListNickName.label             "Soprannome della lista: ">
+<!ENTITY ListName.label                 "Nome lista: ">
+<!ENTITY ListNickName.label             "Soprannome lista: ">
 <!ENTITY ListDescription.label          "Descrizione: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Inserire gli indirizzi email per aggiungerli alla lista di distribuzione:">
+<!ENTITY AddressTitle.label             "Inserisci gli indirizzi e-mail per aggiungerli alla mailing list:">
 <!ENTITY UpButton.label                 "Sposta in alto">
 <!ENTITY DownButton.label               "Sposta in basso">
 

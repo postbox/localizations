@@ -1,70 +1,70 @@
 <!-- Data Pane Headers -->
-<!ENTITY dataPaneImage.label          "Images">
-<!ENTITY dataPaneDocument.label       "Attachments">
-<!ENTITY dataPaneDates.label          "Dates">
-<!ENTITY dataPaneEvent.label          "Events">
+<!ENTITY dataPaneImage.label          "Bilder">
+<!ENTITY dataPaneDocument.label       "Anhänge">
+<!ENTITY dataPaneDates.label          "Daten">
+<!ENTITY dataPaneEvent.label          "Ereignisse">
 <!ENTITY dataPaneURL.label            "Links">
-<!ENTITY dataPaneAddresses.label      "Addresses">
-<!ENTITY dataPaneSocial.label         "Social">
-<!ENTITY dataPaneShipping.label       "Track Packages">
+<!ENTITY dataPaneAddresses.label      "Adresse">
+<!ENTITY dataPaneSocial.label         "Sozial">
+<!ENTITY dataPaneShipping.label       "Pakete nachverfolgen">
 
 <!-- data pane attachment popup -->
 <!-- XX Localisation note: Do not translate service names -->
-<!ENTITY dataPaneContext.uploadTo.label               "Upload to...">
+<!ENTITY dataPaneContext.uploadTo.label               "Hochladen zu...">
 <!ENTITY dataPaneContext.uploadToPicasa.label         "Picasa">
 <!ENTITY dataPaneContext.uploadToPicasa.accesskey     "P">
 <!ENTITY dataPaneContext.uploadToPhotobucket.label    "Photobucket">
 <!ENTITY dataPaneContext.uploadToPhotobucket.accesskey "b">
 <!ENTITY dataPaneContext.uploadToGoogleDocs.label     "Google Docs">
 <!ENTITY dataPaneContext.uploadToGoogleDocs.accesskey "G">
-<!ENTITY dataPaneContext.openAttachment.label         "Open">
-<!ENTITY dataPaneContext.openAttachment.accesskey     "O">
-<!ENTITY dataPaneContext.saveAsAttachment.label       "Save...">
-<!ENTITY dataPaneContext.saveAsAttachment.accesskey   "a">
-<!ENTITY dataPaneContext.quickLookAttachmentMac.label     "Quick Look">
+<!ENTITY dataPaneContext.openAttachment.label         "Öffnen">
+<!ENTITY dataPaneContext.openAttachment.accesskey     "f">
+<!ENTITY dataPaneContext.saveAsAttachment.label       "Speichern unter…">
+<!ENTITY dataPaneContext.saveAsAttachment.accesskey   "S">
+<!ENTITY dataPaneContext.quickLookAttachmentMac.label     "Quick Look...">
 <!ENTITY dataPaneContext.quickLookAttachmentMac.accesskey "Q">
-<!ENTITY dataPaneContext.quickLookAttachment.label    "Preview">
+<!ENTITY dataPaneContext.quickLookAttachment.label    "Vorschau...">
 <!ENTITY dataPaneContext.quickLookAttachment.accesskey "r">
-<!ENTITY dataPaneContext.detachAttachment.label       "Detach...">
-<!ENTITY dataPaneContext.deleteAttachment.label       "Delete">
-<!ENTITY dataPaneContext.saveAll.label                "Save All...">
-<!ENTITY dataPaneContext.saveAll.accesskey           "v">
-<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Add to Photos">
+<!ENTITY dataPaneContext.detachAttachment.label       "Abtrennen…">
+<!ENTITY dataPaneContext.deleteAttachment.label       "Löschen">
+<!ENTITY dataPaneContext.saveAll.label                "Alle speichern…">
+<!ENTITY dataPaneContext.saveAll.accesskey           "A">
+<!ENTITY dataPaneContext.systemPhotoImportMac.label  "Zu iPhoto hinzufügen">
 <!ENTITY dataPaneContext.systemPhotoImportMac.accesskey  "i">
 
 <!-- contact panel -->
-<!ENTITY contactPanel-name.label  "name">
-<!ENTITY contactPanel-title.label "title">
-<!ENTITY contactPanel-company.label  "company">
+<!ENTITY contactPanel-name.label  "Name:">
+<!ENTITY contactPanel-title.label "Titel:">
+<!ENTITY contactPanel-company.label  "Firma:">
 
-<!ENTITY contactPanel-phone.label "phone">
-<!ENTITY contactPanel-work.label "(work)">
-<!ENTITY contactPanel-home.label "(home)">
-<!ENTITY contactPanel-mobile.label "(mobile)">
+<!ENTITY contactPanel-phone.label "Telefon:">
+<!ENTITY contactPanel-work.label "(Geschäftlich)">
+<!ENTITY contactPanel-home.label "(Privat)">
+<!ENTITY contactPanel-mobile.label "(Mobil)">
 
-<!ENTITY contactPanel-email.label "email">
-<!ENTITY contactPanel-homeAddress.label "home">
-<!ENTITY contactPanel-workAddress.label "work">
-<!ENTITY contactPanel-onlineStatus.label "IM">
-<!ENTITY contactPanel-twitter.label      "twitter">
+<!ENTITY contactPanel-email.label "E-Mail:">
+<!ENTITY contactPanel-homeAddress.label "Privat:">
+<!ENTITY contactPanel-workAddress.label "Geschäftlich:">
+<!ENTITY contactPanel-onlineStatus.label "IM:">
+<!ENTITY contactPanel-twitter.label      "twitter:">
 
-<!ENTITY contactPanel-favorite.label     "favorite">
-<!ENTITY contactPanel-favorite-checkbox.label "make this contact a favorite">
-<!ENTITY contactPanel-actions.label "actions">
-<!ENTITY contactPanel-find.label    "find recent">
-<!ENTITY contactPanel-findMessages.label "messages">
-<!ENTITY contactPanel-findDocuments.label "attachments">
-<!ENTITY contactPanel-findImages.label "images">
-<!ENTITY contactPanel-copyContact.label "copy email">
-<!ENTITY contactPanel-sendContact.label "send vcard">
-<!ENTITY contactPanel-createFilter.label "create filter...">
+<!ENTITY contactPanel-favorite.label     "Favorit:">
+<!ENTITY contactPanel-favorite-checkbox.label "Diesen Kontakt als Favoriten speichern">
+<!ENTITY contactPanel-actions.label "Aktionen:">
+<!ENTITY contactPanel-find.label    "Finde neueste:">
+<!ENTITY contactPanel-findMessages.label "Nachrichten">
+<!ENTITY contactPanel-findDocuments.label "Anhänge">
+<!ENTITY contactPanel-findImages.label "Bilder">
+<!ENTITY contactPanel-copyContact.label "E-Mail kopieren">
+<!ENTITY contactPanel-sendContact.label "vCard versenden">
+<!ENTITY contactPanel-createFilter.label "Filter erstellen...">
 
 <!-- action contact panel -->
-<!ENTITY contactActionPanel-sendMail.label "Send Mail...">
-<!ENTITY contactActionPanel-copyAddress.label "Copy Email Address">
+<!ENTITY contactActionPanel-sendMail.label "Nachricht senden...">
+<!ENTITY contactActionPanel-copyAddress.label "E-Mail-Adresse kopieren">
 
 <!-- data pane address popup -->
-<!ENTITY dataPaneContext.searchGoogleMaps.label         "Map to Google">
+<!ENTITY dataPaneContext.searchGoogleMaps.label         "Karte bei Google Maps suchen">
 <!ENTITY dataPaneContext.searchGoogleMaps.accesskey     "G">
-<!ENTITY dataPaneContext.searchYahooMaps.label          "Map to Yahoo!">
+<!ENTITY dataPaneContext.searchYahooMaps.label          "Karte bei Yahoo! finden">
 <!ENTITY dataPaneContext.searchYahooMaps.accesskey      "Y">

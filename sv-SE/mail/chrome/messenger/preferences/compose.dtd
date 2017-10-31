@@ -4,10 +4,10 @@
 
 <!ENTITY itemGeneral.label                   "Allmänt">
 <!ENTITY itemAutoComplete.label              "Adressering">
-<!ENTITY itemTypeCheck.label                 "Typing">
-<!ENTITY itemSendFormat.label                "Send Format">
-<!ENTITY itemSignatures.label                "Signatures">
-<!ENTITY itemCannedResponses.label           "Responses">
+<!ENTITY itemTypeCheck.label                 "Inmatning">
+<!ENTITY itemSendFormat.label                "Skicka format">
+<!ENTITY itemSignatures.label                "Signaturer">
+<!ENTITY itemCannedResponses.label           "Svar">
 
 <!ENTITY dialogCompose.title                 "Skriva">
 
@@ -16,7 +16,7 @@
 <!ENTITY inline.label                         "Infogade">
 <!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "Bifogade">
-<!ENTITY asAttachment.accesskey               "A">
+<!ENTITY asAttachment.accesskey               "a">
 <!ENTITY addExtension.label                   "med ett filnamnstillägg">
 <!ENTITY addExtension.accesskey               "m">
 
@@ -27,14 +27,14 @@
 <!ENTITY bgColor.label                        "Bakgrundsfärg:">
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Återställ standard">
-<!ENTITY restoreHTMLDefaults.accesskey        "Å">
+<!ENTITY restoreHTMLDefaults.accesskey        "t">
 <!ENTITY defaultToParagraph.label             "Använd styckeformat istället för brödtext som standard">
 <!ENTITY defaultToParagraph.accesskey         "t">
 
 <!ENTITY spellCheck.label                     "Kontrollera stavningen innan meddelanden skickas">
 <!ENTITY spellCheck.accesskey                 "K">
 <!ENTITY spellCheckInline.label               "Använd automatisk stavningskontroll">
-<!ENTITY spellCheckInline1.accesskey          "A">
+<!ENTITY spellCheckInline1.accesskey           "A">
 <!ENTITY languagePopup.label                  "Språk:">
 <!ENTITY languagePopup.accessKey              "S">
 <!ENTITY downloadDictionaries.label           "Hämta fler ordlistor">
@@ -54,79 +54,79 @@
 <!ENTITY editDirectories.label                 "Redigera kataloger…">
 <!ENTITY editDirectories.accesskey             "R">
 
-<!ENTITY contactsSidebarDisplay.label          "Contacts Sidebar displays:">
+<!ENTITY contactsSidebarDisplay.label          "Sidofält visar:">
 <!ENTITY contactsSidebarDisplay.accesskey      "S">
-<!ENTITY recentContacts.label                  "Recent Contacts">
+<!ENTITY recentContacts.label                  "Senaste kontakter">
 <!ENTITY recentContacts.accesskey              "n">
-<!ENTITY addressBooks.label                    "Address Books">
+<!ENTITY addressBooks.label                    "Adressboken">
 <!ENTITY addressBooks.accesskey                "B">
 
 <!ENTITY sendOptionsDescription.label          "Anpassa valet av textformat:">
 <!ENTITY sendOptions.label                     "Anpassa…">
 <!ENTITY sendOptions.accesskey                 "A">
 
-<!ENTITY attachmentReminder.label              "Kontrollera om bilagor saknas">
-<!ENTITY attachmentReminder.accesskey          "K">
+<!ENTITY attachmentReminder.label              "Kolla efter saknade bilagor">
+<!ENTITY attachmentReminder.accesskey          "m">
 <!ENTITY attachmentReminderOptions.label       "Nyckelord…">
-<!ENTITY attachmentReminderOptions.accesskey   "N">
+<!ENTITY attachmentReminderOptions.accesskey   "K">
 
-<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset2.label     "Använd den förinställda teckenkodningen i svar">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+<!ENTITY composeLanguagesTitle.label            "Teckenkodning:">
 
-<!ENTITY imageOrientation.label "Image Orientation:">
-<!ENTITY accordingToEXIF.label "Rotate images according to EXIF data">
+<!ENTITY imageOrientation.label "Bildriktning:">
+<!ENTITY accordingToEXIF.label "Rotera bilden i enlighet med EXIF-data">
 <!ENTITY accordingToEXIF.accesskey "o">
 
 <!-- signatures -->
-<!ENTITY addSignatureButton.label       "New">
+<!ENTITY addSignatureButton.label       "Ny">
 <!ENTITY addSignatureButton.accesskey   "N">
-<!ENTITY editSignatureButton.label      "Edit">
+<!ENTITY editSignatureButton.label      "Redigera">
 <!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY removeSignatureButton.label    "Delete">
+<!ENTITY removeSignatureButton.label    "Radera">
 <!ENTITY removeSignatureButton.accesskey "l">
-<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
+<!ENTITY addSignatureDelimiters.label "Lägg till avgränsare ovanför signauren">
 
-<!ENTITY pbItemAdvanced.label "Advanced">
-<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
-<!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
-<!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
-<!ENTITY pb.QuickReply.label "Default Quick Reply to:">
+<!ENTITY pbItemAdvanced.label "Avancerat">
+<!ENTITY pb.quotingConversationsSortOrder.label "Vid sammanfattning, citera:">
+<!ENTITY pb.quotingConversationsSortOrderOldest.label "Äldsta meddelanden först">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Senaste meddelanden först">
+<!ENTITY pb.QuickReply.label "Förinställt snabbsvar till:">
 <!ENTITY pb.QuickReply.accesskey "Q">
-<!ENTITY pb.quickreply.replyall.label "Reply All">
+<!ENTITY pb.quickreply.replyall.label "Svara alla">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
-<!ENTITY pb.quickreply.reply.label "Reply">
+<!ENTITY pb.quickreply.reply.label "Svara">
 <!ENTITY pb.quickreply.reply.accesskey "y">
-<!ENTITY pbNumConversationsToQuote.label "Include at most">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing">
+<!ENTITY pbNumConversationsToQuote.label "Inkludera som mest">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "meddelanden vid sammanfattning av svar">
 
-<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
+<!ENTITY pbQuoteOnQuickReply.label "Citera meddelandet i snabbsvar">
 <!ENTITY pbQuoteOnQuickReply.accesskey "m">
 
-<!ENTITY pbDefaultFonSize.label                           "default">
+<!ENTITY pbDefaultFonSize.label                           "förinställd">
 
-<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
+<!ENTITY pbPlaySoundOnSend.label "Spela ljud när e-post skickas">
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
-<!ENTITY pbSendAndArchive.label "Enable send and archive">
-<!ENTITY pbEnableDropbox.label "Send links when attaching files in your cloud folders">
+<!ENTITY pbSendAndArchive.label "Aktivera skicka och arkivera">
+<!ENTITY pbEnableDropbox.label "Skicka länkar när du bifogar filer från din mapp för Dropbox">
 
-<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
-<!ENTITY pbStopwatchGoal.label "Stopwatch">
-<!ENTITY pbWordsGoal.label "Word Count">
-<!ENTITY pbCharactersGoal.label "Character Count">
-<!ENTITY pbAt.label "at">
-<!ENTITY pbMinutes.label "minutes">
-<!ENTITY pbWords.label "words">
-<!ENTITY pbCharacters.label "characters">
+<!ENTITY pbSetCompositionGoals.label "Ställ in mål för komposition">
+<!ENTITY pbStopwatchGoal.label "Stoppur">
+<!ENTITY pbWordsGoal.label "Antal ord">
+<!ENTITY pbCharactersGoal.label "Antal tecken">
+<!ENTITY pbAt.label "vid">
+<!ENTITY pbMinutes.label "minuter">
+<!ENTITY pbWords.label "ord">
+<!ENTITY pbCharacters.label "tecken">
 
-<!ENTITY sourceView.label "Code View:">
+<!ENTITY sourceView.label "Kodvy:">
 <!ENTITY sourceView.accesskey "C">
 
-<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">
+<!ENTITY pbURLAutoComplete.label "Aktivera automatisk komplettering av URL">
 
-<!ENTITY messageSizeWarning.label "Warn me if the message size is above">
+<!ENTITY messageSizeWarning.label "Varna mig om meddelandets storlek är mer än">
 <!ENTITY megabytes.label "MB">
 
-<!ENTITY intlKeysPanel.label "International Characters panel">
-<!ENTITY emojiShortcuts.label "Emoji shortcuts">
+<!ENTITY intlKeysPanel.label "Internationell Teckeninmatningspanelen">
+<!ENTITY emojiShortcuts.label "Emoji Genvägar">

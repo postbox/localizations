@@ -12,7 +12,7 @@
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Grafik-Adresse:">
 <!ENTITY locationEditField.accessKey "d">
-<!ENTITY locationEditField.tooltip "Geben Sie Dateinamen oder Adresse der Grafik an">
+<!ENTITY locationEditField.tooltip "Geben Sie den Dateinamen oder die Adresse der Grafik an">
 <!ENTITY locationEditField.shortenedDataURI "Gekürzte Daten-URI (Kopieren legt die komplette URI in die Zwischenablage)">
 <!ENTITY title.label "Tooltip:">
 <!ENTITY title.accessKey "T">

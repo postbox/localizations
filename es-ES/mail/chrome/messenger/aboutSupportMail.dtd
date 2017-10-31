@@ -2,30 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.appBasicsAppBuildID "ID de compilación de la aplicación">
+<!ENTITY aboutSupport.appBasicsAppBuildID "Ref. de la compilación de aplicación">
 
 <!ENTITY aboutSupport.accountsTitle "Cuentas de correo y noticias">
-<!ENTITY aboutSupport.showPrivateData.mainText "Incluir nombres de las cuentas">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(posiblemente identificando información)">
-<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.showPrivateData.mainText "Incluir nombres de cuentas">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(posiblemente información identificable)">
+<!ENTITY aboutSupport.accountsID "Ref.">
 <!ENTITY aboutSupport.accountsName "Nombre">
-<!ENTITY aboutSupport.accountsIncomingServer "Servidor de entrada">
-<!ENTITY aboutSupport.accountsOutgoingServers "Servidores de salida">
+<!ENTITY aboutSupport.accountsIncomingServer "Servidor entrante">
+<!ENTITY aboutSupport.accountsOutgoingServers "Servidores salientes">
 <!ENTITY aboutSupport.accountsServerName "Nombre">
 <!ENTITY aboutSupport.accountsConnSecurity "Seguridad de la conexión">
-<!ENTITY aboutSupport.accountsAuthMethod "Método de identificación">
-<!ENTITY aboutSupport.filterCount "Filter Count">
-<!ENTITY aboutSupport.accountsDefault "¿Predeterminado?">
+<!ENTITY aboutSupport.accountsAuthMethod "Método de autenticación">
+<!ENTITY aboutSupport.filterCount "Número de filtros">
+<!ENTITY aboutSupport.accountsDefault "¿Defecto?">
 <!ENTITY aboutSupport.identityName "Identidad">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Enviar por correo">
+<!ENTITY aboutSupport.sendViaEmail.label "Enviar por email">
 
-<!ENTITY aboutSupport.pageTitle2 "Configuration Data">
+<!ENTITY aboutSupport.pageTitle2 "Datos de configuración">
 
-<!ENTITY aboutSupport.indexerTitle "Indexer">
+<!ENTITY aboutSupport.indexerTitle "Indexador">
 
-<!ENTITY aboutSupport.miscTitle "Miscellaneous">
+<!ENTITY aboutSupport.miscTitle "Misceláneo">
 
-<!ENTITY aboutSupport.appBasicsLicenseName "License Name">
-<!ENTITY aboutSupport.ageInDays "Days In Use">
-<!ENTITY aboutSupport.pbState "State">
+<!ENTITY aboutSupport.appBasicsLicenseName "Nombre de la licencia">
+<!ENTITY aboutSupport.ageInDays "Días en uso">
+<!ENTITY aboutSupport.pbState "Estado">

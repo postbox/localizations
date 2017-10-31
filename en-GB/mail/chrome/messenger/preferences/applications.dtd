@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label            "Content Type">
-<!ENTITY  typeColumn.accesskey        "T">
+<!ENTITY  typeColumn.accesskey        "t">
 
 <!ENTITY  actionColumn2.label         "Action">
 <!ENTITY  actionColumn2.accesskey     "A">
@@ -11,7 +11,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder          "Search">
+<!ENTITY  filter.placeholder            "Search">
 
 <!ENTITY saveTo.label                 "Save files to">
 <!ENTITY saveTo.accesskey             "S">
@@ -27,11 +27,11 @@
 
 <!ENTITY addCloudFileAccount1.label       "Add…">
 <!ENTITY addCloudFileAccount1.accesskey   "A">
-<!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
+<!ENTITY addCloudFileAccount.description  "Add a new online storage service">
 <!ENTITY removeCloudFileAccount.label     "Remove">
 <!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "Your authorisation is required in order to see the settings for this storage service.">
-<!ENTITY authRequired.button.label        "Authorise">
+<!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
+<!ENTITY authRequired.button.label        "Authorize">
 <!ENTITY authRequired.button.accesskey    "U">
 
 <!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">

@@ -15,6 +15,6 @@
 <!ENTITY accept.label               "Ordner erstellen">
 <!ENTITY accept.accesskey           "O">
 
-<!ENTITY pbNewFolder.desc "Enter a name for the new folder and select a location.">
-<!ENTITY pbNewFolderLocation.label "Location:">
+<!ENTITY pbNewFolder.desc "Geben Sie einen Namen für den neuen Ordner ein und wählen Sie ein Verzeichnis aus.">
+<!ENTITY pbNewFolderLocation.label "Adresse:">
 <!ENTITY pbNewFolderLocatione.accesskey "L">

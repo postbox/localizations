@@ -16,18 +16,18 @@
 <!ENTITY folderIncludeInGlobalSearch.label       "Inkludera meddelanden i den här mappen i globala sökresultat">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
 
-<!ENTITY retention.label                         "Behåll meddelanden">
+<!ENTITY retention.label "Behåll meddelanden">
 <!ENTITY retentionUseAccount.label               "Använd kontoinställningarna">
 <!ENTITY retentionUseAccount.accesskey           "v">
-<!ENTITY daysOld.label                           "dagar">
-<!ENTITY message.label                           "meddelandena">
-<!ENTITY retentionCleanup.label                  "För att spara diskutrymme kan gamla meddelanden tas bort.">
+<!ENTITY daysOld.label "dagar">
+<!ENTITY message.label "meddelandena">
+<!ENTITY retentionCleanup.label "För att spara diskutrymme kan gamla meddelanden tas bort.">
 <!ENTITY retentionCleanupImap.label              "För att återvinna diskutrymme kan gamla meddelanden tas bort permanent, både lokala kopior och originalen på fjärrservern.">
 <!ENTITY retentionCleanupPop.label               "För att återvinna diskutrymme kan gamla meddelanden tas bort permanent, inklusive originalen på fjärrservern.">
 <!ENTITY retentionDeleteMsg.label                "Ta bort meddelanden äldre än">
 <!ENTITY retentionDeleteMsg.accesskey            "e">
-<!ENTITY retentionKeepAll.label                  "Ta inte bort några meddelanden">
-<!ENTITY retentionKeepAll.accesskey              "b">
+<!ENTITY retentionKeepAll.label "Ta inte bort några meddelanden">
+<!ENTITY retentionKeepAll.accesskey "b">
 <!ENTITY retentionKeepRecent.label               "Ta bort alla utom de senaste">
 <!ENTITY retentionKeepRecent.accesskey           "a">
 <!ENTITY retentionApplyToFlagged.label           "Behåll alltid märkta meddelanden">
@@ -45,9 +45,9 @@
 <!ENTITY selectofflineNewsgroup.check.label      "Den här diskussionsgruppen ska kunna användas när jag arbetar nedkopplad">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "D">
 <!ENTITY offlineNewsgroup.button.label           "Hämta nu">
-<!ENTITY offlineNewsgroup.button.accesskey       "ä">
+<!ENTITY offlineNewsgroup.button.accesskey       "H">
 
-<!ENTITY folderProps.name.label	                 "Namn:">
+<!ENTITY folderProps.name.label                  "Namn:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Adress:">
 <!ENTITY folderProps.location.accesskey          "A">

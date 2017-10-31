@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  prefWindow.titleWin     "Einstellungen">
+<!ENTITY  prefWindow.titleWin     "&brandShortName;-Einstellungen">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName;-Einstellungen">
 <!ENTITY  prefWindow.titleMAC     "Einstellungen">
-<!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 52em;">
+<!ENTITY  prefWindow.styleWindows "width: 60em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 55em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 48em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Allgemein">
 <!ENTITY paneDisplay.title        "Ansicht">
-<!ENTITY paneTags.title           "Topics">
+<!ENTITY paneTags.title           "Schlagwörter">
 <!ENTITY paneComposition.title    "Verfassen">
 <!ENTITY paneChat.title           "Chat">
 <!ENTITY paneAttachments.title    "Anhänge">

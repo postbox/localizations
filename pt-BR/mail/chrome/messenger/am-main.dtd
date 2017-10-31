@@ -24,7 +24,7 @@
 <!ENTITY edit.label "Editar…">
 <!ENTITY choose.label "Arquivo…">
 <!ENTITY choose.accesskey "A">
-<!ENTITY editVCard1.label "Edit...">
+<!ENTITY editVCard1.label "Editar...">
 <!ENTITY editVCard1.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Anexar meu vCard a mensagens">
@@ -33,14 +33,14 @@
 <!ENTITY manageIdentities.label "Identidades…">
 <!ENTITY manageIdentities.accesskey "d">
 
-<!ENTITY smtpName1.label "Outgoing Server:">
+<!ENTITY smtpName1.label "Servidor de saída:">
 <!ENTITY smtpName1.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Usar servidor padrão">
 
-<!ENTITY pbNoSignature.label "None">
-<!ENTITY pbEditSignature1.label "Edit...">
+<!ENTITY pbNoSignature.label "Nenhuma">
+<!ENTITY pbEditSignature1.label "Editar...">
 <!ENTITY pbEditSignature1.accesskey "i">
-<!ENTITY pbChooseSignature1.label "Signature:">
+<!ENTITY pbChooseSignature1.label "Assinatura:">
 <!ENTITY pbChooseSignature1.accesskey "g">
 
-<!ENTITY pbIdentityTitle.label "Identity">
+<!ENTITY pbIdentityTitle.label "Identidade">

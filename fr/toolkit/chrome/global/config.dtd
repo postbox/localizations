@@ -17,14 +17,14 @@
 <!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
-<!ENTITY prefColumn.label "Nom de l’option">
+<!ENTITY prefColumn.label "Nom de l'option">
 <!ENTITY lockColumn.label "Statut">
 <!ENTITY typeColumn.label "Type">
 <!ENTITY valueColumn.label "Valeur">
 
 <!-- Tooltips -->
-<!ENTITY prefColumnHeader.tooltip "Trier"> 
-<!ENTITY columnChooser.tooltip "Sélectionner les colonnes à afficher"> 
+<!ENTITY prefColumnHeader.tooltip "Cliquer pour trier"> 
+<!ENTITY columnChooser.tooltip "Cliquer pour sélectionner les colonnes à afficher"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">

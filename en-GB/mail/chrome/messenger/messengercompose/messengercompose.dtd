@@ -38,7 +38,7 @@
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Save As">
-<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsCmd.accesskey "a">
 <!ENTITY saveAsFileCmd.label "File…">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Draft">
@@ -116,18 +116,18 @@
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showFormattingBarCmd.label "Formatting Bar">
 <!ENTITY showFormattingBarCmd.accesskey "F">
-<!ENTITY pbShowCcField.label "Cc Field">
+<!ENTITY pbShowCcField.label "Cc Address Field">
 <!ENTITY pbShowCcField.accesskey "C">
 <!ENTITY pbShowCcField.key "c">
-<!ENTITY pbShowBccField.label "Bcc Field">
+<!ENTITY pbShowBccField.label "Bcc Address Field">
 <!ENTITY pbShowBccField.accesskey "B">
 <!ENTITY pbShowBccField.key "b">
-<!ENTITY pbShowReplyField.label "Reply-To Field">
+<!ENTITY pbShowReplyField.label "Reply-To Address Field">
 <!ENTITY pbShowReplyField.accesskey "R">
 <!ENTITY pbShowReplyField.key "r">
-<!ENTITY pbShowNewsgroupsField.label "Newsgroups Field">
+<!ENTITY pbShowNewsgroupsField.label "Newsgroups Address Field">
 <!ENTITY pbShowNewsgroupsField.accesskey "N"> 
-<!ENTITY pbShowFollowupField.label "Followup-To Field">
+<!ENTITY pbShowFollowupField.label "Followup-To Address Field">
 <!ENTITY pbShowFollowupField.accesskey "o">
 <!ENTITY pbShowCompositionGoalsToolbarCmd.label "Goal Status Bar">
 <!ENTITY pbShowCompositionGoalsToolbarCmd.accesskey "G">
@@ -196,12 +196,12 @@
 <!ENTITY messengerCmd.accesskey "M">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Address Book">
-<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY preferencesCmd2.label "Options">
 <!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Preferences">
-<!ENTITY preferencesCmdUnix.accesskey "n">
+<!ENTITY preferencesCmdUnix.label       "Preferences">
+<!ENTITY preferencesCmdUnix.accesskey   "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -247,9 +247,9 @@
 <!ENTITY formattingToolbar.tooltip "Show or hide the toolbar">
 
 <!-- Headers -->
-<!ENTITY fromHeader.label "From:">
+<!ENTITY fromHeader.label "From">
 <!ENTITY fromHeader.accesskey "r">
-<!ENTITY subjectHeader.label "Subject:">
+<!ENTITY subjectHeader.label "Subject">
 <!ENTITY subjectHeader.accesskey "S">
 <!ENTITY toAddr.label "To:">
 <!ENTITY ccAddr.label "Cc:">
@@ -257,7 +257,7 @@
 <!ENTITY replyAddr.label "Reply-To:">
 <!ENTITY newsgroupsAddr.label "Newsgroup:">
 <!ENTITY followupAddr.label "Followup-To:">
-<!ENTITY tagHeader.label "Topics:">
+<!ENTITY tagHeader.label "Topics">
 <!ENTITY tagHeader.accesskey "o">
 <!ENTITY tagMessageButton.tooltip     "Assign topic(s) to the message.">
 <!ENTITY compose.addresses.label "Addresses">
@@ -288,7 +288,7 @@
 <!ENTITY spellCheckEnable.label                      "Check Spelling">
 <!ENTITY spellCheckEnable.accesskey                  "S">
 <!ENTITY spellDictionaries.label                     "Languages">
-<!ENTITY spellDictionaries.accesskey                 "l">
+<!ENTITY spellDictionaries.accesskey                 "L">
 <!ENTITY spellCheckIgnoreWord.label "Ignore Word">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY undo.label "Undo">
@@ -359,9 +359,9 @@
 <!ENTITY formatToolbarPaddingLeftMac "75">
 
 <!-- topic context menu -->
-<!ENTITY pbTopicContextMenu-edit.label         "Rename">
+<!ENTITY pbTopicContextMenu-edit.label         "Edit">
 <!ENTITY pbTopicContextMenu-edit.accesskey     "E">
-<!ENTITY pbTopicContextMenu-favorite.label     "Favorite Topic">
+<!ENTITY pbTopicContextMenu-favorite.label     "Favorite">
 <!ENTITY pbTopicContextMenu-favorite.accesskey "F">
 <!ENTITY pbTopicContextMenu-remove.label       "Remove">
 <!ENTITY pbTopicContextMenu-remove.accesskey   "R">
@@ -379,7 +379,7 @@
 <!ENTITY pbBubbleContextMenu-open.label        "Open in Address Book">
 <!ENTITY pbBubbleContextMenu-add.label         "Add to Address Book">
 
-<!ENTITY pbInsertHTMLToolbarCmd.label "Insert HTML or edit selected HTML">
+<!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
 <!ENTITY pbRemoveTextToolbarCmd.label "Remove text styles">
 <!ENTITY switchBetweenNormalAndCode.tooltip "Switch between Normal and Code views">
 
@@ -460,7 +460,7 @@
 <!ENTITY margin20px.label "20px">
 <!ENTITY margin30px.label "30px">
 <!ENTITY margin40px.label "40px">
-<!ENTITY shadowImage.label "Add a Shadow">
+<!ENTITY shadowImage.label "Shadow">
 <!ENTITY floatImage "Float">
 <!ENTITY leftFloat.label "Left">
 <!ENTITY rightFloat.label "Right">

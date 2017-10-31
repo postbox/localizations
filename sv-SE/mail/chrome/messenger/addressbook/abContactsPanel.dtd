@@ -13,7 +13,7 @@
 <!ENTITY mailingListPropertiesMenu.accesskey "e">
 
 <!ENTITY addressbookPicker.label            "Adressbok:">
-<!ENTITY addressbookPicker.accesskey        "r">
+<!ENTITY addressbookPicker.accesskey        "d">
 <!ENTITY searchContacts.label               "Sök efter kontakter:">
 <!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "Namn eller e-post">
@@ -40,4 +40,4 @@
 <!ENTITY ccButton.label                     ">> Kopia:">
 <!ENTITY ccButton.accesskey                 "K">
 <!ENTITY bccButton.label                    ">> Dold kopia:">
-<!ENTITY bccButton.accesskey                "D">
+<!ENTITY bccButton.accesskey                "o">

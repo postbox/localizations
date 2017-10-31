@@ -12,17 +12,17 @@
 <!ENTITY mailingListPropertiesMenu.label    "Propriedades da lista de discussão">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
-<!ENTITY addressbookPicker.label            "Catálogo de endereços:">
+<!ENTITY addressbookPicker.label            "Catálogo:">
 <!ENTITY addressbookPicker.accesskey        "t">
 <!ENTITY searchContacts.label               "Pesquisar contatos:">
 <!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "Nome ou e-mail">
 
-<!ENTITY addtoToFieldMenu.label             "Adicionar ao campo Para">
+<!ENTITY addtoToFieldMenu.label             "Adicionar ao Para">
 <!ENTITY addtoToFieldMenu.accesskey         "A">
-<!ENTITY addtoCcFieldMenu.label             "Adicionar ao campo Cc">
+<!ENTITY addtoCcFieldMenu.label             "Adicionar ao Cc">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
-<!ENTITY addtoBccFieldMenu.label            "Adicionar ao campo Cco">
+<!ENTITY addtoBccFieldMenu.label            "Adicionar ao Cco">
 <!ENTITY addtoBccFieldMenu.accesskey        "d">
 <!ENTITY deleteAddrBookCard.label           "Excluir">
 <!ENTITY deleteAddrBookCard.accesskey       "x">
@@ -38,6 +38,6 @@
 <!ENTITY toButton.label                     "Adicionar ao Para:">
 <!ENTITY toButton.accesskey                 "P">
 <!ENTITY ccButton.label                     "Adicionar ao Cc:">
-<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY ccButton.accesskey                 "c">
 <!ENTITY bccButton.label                    "Adicionar ao Cco:">
 <!ENTITY bccButton.accesskey                "n">

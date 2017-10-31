@@ -18,7 +18,7 @@
 <!ENTITY notInToCc.label               "Wenn ich nicht in der An- oder CC-Zeile stehe:">
 <!ENTITY notInToCc.accesskey           "W">
 <!ENTITY outsideDomain.label           "Wenn der Absender außerhalb meiner Domain ist:">
-<!ENTITY outsideDomain.accesskey       "E">
+<!ENTITY outsideDomain.accesskey       "e">
 <!ENTITY otherCases.label              "In allen anderen Fällen:">
 <!ENTITY otherCases.accesskey          "n">
 <!ENTITY askMe.label                   "Fragen">

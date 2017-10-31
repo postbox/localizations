@@ -7,32 +7,32 @@
 
 <!ENTITY misspelledWord.label "Слово с ошибкой:">
 <!ENTITY wordEditField.label "Заменить на:">
-<!ENTITY wordEditField.accessKey "м">
+<!ENTITY wordEditField.accessKey "н">
 <!ENTITY checkwordButton.label "Проверить слово">
-<!ENTITY checkwordButton.accessKey "о">
+<!ENTITY checkwordButton.accessKey "П">
 <!ENTITY suggestions.label "Варианты:">
-<!ENTITY suggestions.accessKey "и">
+<!ENTITY suggestions.accessKey "В">
 <!ENTITY ignoreButton.label "Пропустить">
-<!ENTITY ignoreButton.accessKey "п">
-<!ENTITY ignoreAllButton.label "Пропустить всё">
-<!ENTITY ignoreAllButton.accessKey "с">
+<!ENTITY ignoreButton.accessKey "р">
+<!ENTITY ignoreAllButton.label "Пропустить все">
+<!ENTITY ignoreAllButton.accessKey "о">
 <!ENTITY replaceButton.label "Заменить">
-<!ENTITY replaceButton.accessKey "а">
-<!ENTITY replaceAllButton.label "Заменить всё">
+<!ENTITY replaceButton.accessKey "м">
+<!ENTITY replaceAllButton.label "Заменить все">
 <!ENTITY replaceAllButton.accessKey "е">
 <!ENTITY stopButton.label "Остановить">
-<!ENTITY stopButton.accessKey "н">
+<!ENTITY stopButton.accessKey "с">
 <!ENTITY userDictionary.label "Словарь пользователя:">
 <!ENTITY moreDictionaries.label "Загрузить дополнительные словари…">
 <!ENTITY addToUserDictionaryButton.label "Добавить слово">
-<!ENTITY addToUserDictionaryButton.accessKey "б">
+<!ENTITY addToUserDictionaryButton.accessKey "Д">
 <!ENTITY editUserDictionaryButton.label "Изменить…">
-<!ENTITY editUserDictionaryButton.accessKey "з">
+<!ENTITY editUserDictionaryButton.accessKey "И">
 <!ENTITY recheckButton2.label "Проверить текст снова">
 <!ENTITY recheckButton2.accessKey "в">
 <!ENTITY closeButton.label "Закрыть">
-<!ENTITY closeButton.accessKey "ы">
+<!ENTITY closeButton.accessKey "З">
 <!ENTITY sendButton.label "Отправить">
 <!ENTITY sendButton.accessKey "ь">
 <!ENTITY languagePopup.label "Язык:">
-<!ENTITY languagePopup.accessKey "к">
+<!ENTITY languagePopup.accessKey "Я">

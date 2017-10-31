@@ -19,7 +19,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label          "Editar">
+<!ENTITY compositionGroupTitle.label "Editar">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Usar formatação (HTML)">
 <!ENTITY useHtml.accesskey                    "H">
@@ -35,13 +35,13 @@
 <!ENTITY place.accesskey                      "I">
 <!ENTITY belowText.label                      "Fim da mensagem (recomendado)">
 <!ENTITY aboveText.label                      "Início da mensagem">
-<!ENTITY includeSigOnReply.label              "Ao responder, incluir assinatura">
-<!ENTITY includeSigOnReply.accesskey          "o">
-<!ENTITY includeSigOnForward.label            "Ao encaminhar, incluir assinatura">
-<!ENTITY includeSigOnForward.accesskey        "n">
-<!ENTITY markNotInWhitelist.label             "Mark addresses not ending with:">
+<!ENTITY includeSigOnReply.label              "Incluir assinatura ao responder">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Incluir assinatura ao encaminhar">
+<!ENTITY includeSigOnForward.accesskey        "w">
+<!ENTITY markNotInWhitelist.label             "Marcar endereços que não terminam com:">
 <!ENTITY markNotInWhitelist.accesskey         "m">
-<!ENTITY markInTrustedList.label              "Mark addresses when sending to:">
+<!ENTITY markInTrustedList.label              "Marcar endereços quando enviar para:">
 <!ENTITY markInTrustedList.accesskey          "d">
 
 <!ENTITY globalComposingPrefs.label           "Preferências globais de edição…">
@@ -51,8 +51,8 @@
 <!ENTITY globalAddressingPrefs.accesskey      "P">
 
 <!-- Postbox Summary Mode -->
-<!ENTITY pbSummarizeOnReply.label             "By">
+<!ENTITY pbSummarizeOnReply.label             "Por">
 <!ENTITY pbSummarizeOnReply.accesskey         "y">
-<!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
-<!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
-<!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">
+<!ENTITY pbSummarizeOnReply.normal.label      "citando a mensagem selecionada">
+<!ENTITY pbSummarizeOnReply.summarize.label   "resumindo toda a conversa">
+<!ENTITY pbSummarizeOnReply.lastused.label    "utilizando a última configuração usada">

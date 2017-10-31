@@ -2,37 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label "Основные">
+<!ENTITY itemGeneral.label       "Основные">
 <!ENTITY dataChoicesTab.label "Выбор данных">
-<!ENTITY itemUpdate.label "Обновления">
-<!ENTITY itemNetworking.label "Сеть и дисковое пространство">
-<!ENTITY itemCertificates.label "Сертификаты">
-<!ENTITY itemWebServices.label   "Web Services">
-<!ENTITY itemQuickPost.label     "Quick Post">
+<!ENTITY itemUpdate.label        "Обновления">
+<!ENTITY itemNetworking.label    "Сеть и дисковое пространство">
+<!ENTITY itemCertificates.label  "Сертификаты">
+<!ENTITY itemWebServices.label   "Веб-службы">
+<!ENTITY itemQuickPost.label     "Быстрое сообщение">
 
 <!-- General Settings -->
-<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.label          "Автоматически отмечать, что сообщения прочитаны">
 <!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Immediately on display">
+<!ENTITY markAsReadNoDelay.label       "Немедленно при просмотре">
 <!ENTITY markAsReadNoDelay.accesskey   "d">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "After displaying for">
+<!ENTITY markAsReadDelay.label         "После просмотра в течение">
 <!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "seconds">
-<!ENTITY rememberLastMsg.label         "Remember the last selected message">
+<!ENTITY secondsLabel.label            "сек.">
+<!ENTITY rememberLastMsg.label         "Помнить последнее выбранное сообщение">
 <!ENTITY rememberLastMsg.accesskey     "b">
-<!ENTITY openMsgIn1.label              "Open messages in:">
-<!ENTITY openMsgInNewTab.label          "a new tab">
+<!ENTITY openMsgIn1.label              "Открывать сообщения в:">
+<!ENTITY openMsgInNewTab.label          "Новой вкладке">
 <!ENTITY openMsgInNewTab.accesskey      "a">
-<!ENTITY openMsgInNewWindow.label       "a new window">
+<!ENTITY openMsgInNewWindow.label       "Новом окне">
 <!ENTITY openMsgInNewWindow.accesskey   "i">
-<!ENTITY openMsgInExistingWindow.label  "an existing window">
+<!ENTITY openMsgInExistingWindow.label  "Существующем окне">
 <!ENTITY openMsgInExistingWindow.accesskey "x">
-<!ENTITY connectionTimeout.label       "Connection timeout: ">
+<!ENTITY connectionTimeout.label       "Время ожидания подключения:">
 <!ENTITY connectionTimeout.accesskey   "C">
-<!ENTITY connectionSeconds.label       "seconds">
+<!ENTITY connectionSeconds.label       "сек.">
 <!ENTITY enableGlodaSearch.label "Включить глобальный поиск и индексацию сообщений">
 <!ENTITY enableGlodaSearch.accesskey "с">
 <!ENTITY allowHWAccel.label "По возможности использовать аппаратное ускорение">
@@ -55,12 +55,12 @@
 <!ENTITY searchIntegration.accesskey "а">
 <!ENTITY checkDefaultsNow.label "Проверить сейчас…">
 <!ENTITY checkDefaultsNow.accesskey "е">
-<!ENTITY configEditDesc.label "Дополнительные настройки">
-<!ENTITY configEdit.label "Редактор настроек…">
-<!ENTITY configEdit.accesskey "о">
-<!ENTITY returnReceiptsInfo.label "Определите, как &brandShortName; должен обрабатывать уведомления о прочтении">
-<!ENTITY showReturnReceipts.label "Уведомления о прочтении…">
-<!ENTITY showReturnReceipts.accesskey "ч">
+<!ENTITY configEditDesc.label          "Дополнительные настройки">
+<!ENTITY configEdit.label              "Редактор настроек…">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "Определите порядок обработки &brandShortName; уведомлений о прочтении">
+<!ENTITY showReturnReceipts.label      "Уведомления о прочтении…">
+<!ENTITY showReturnReceipts.accesskey  "R">
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label "Телеметрия">
@@ -89,12 +89,12 @@
 <!ENTITY useService.label "Использовать фоновую службу для установки обновлений">
 <!ENTITY useService.accesskey "у">
 
-<!ENTITY deleteSelectOrder.label        "After deleting a message select the:">
-<!ENTITY showPreviousMessage.label      "Previous Message">
-<!ENTITY showNextMessage.label          "Next Message">
+<!ENTITY deleteSelectOrder.label        "После удаления сообщения выбрать:">
+<!ENTITY showPreviousMessage.label      "Предыдущее сообщение">
+<!ENTITY showNextMessage.label          "Следующее сообщение">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Connection...">
+<!ENTITY showConnections.label         "Подключение…">
 <!ENTITY showConnections.accesskey     "n">
 
 <!ENTITY offlineCompactFolders.label "Сжимать все папки, если при этом высвободится всего более">
@@ -114,62 +114,62 @@
 <!ENTITY clearCacheNow.accesskey "о">
 
 <!-- Certificates -->
-<!ENTITY certSelection.label "When a server requests my certificate:">
-<!ENTITY certs.auto "Отправлять автоматически">
+<!ENTITY certSelection.label "Если сервер запрашивает сертификат:">
+<!ENTITY certs.auto                      "Выбрать автоматически">
 <!ENTITY certs.auto.accesskey "а">
-<!ENTITY certs.ask "Спрашивать каждый раз">
+<!ENTITY certs.ask                       "Спрашивать каждый раз">
 <!ENTITY certs.ask.accesskey "и">
 <!ENTITY enableOCSP.label "Запрашивать у OCSP-серверов подтверждение текущего статуса сертификатов">
 <!ENTITY enableOCSP.accesskey "ш">
 
 <!ENTITY manageCertificates.label "Управление сертификатами">
 <!ENTITY manageCertificates.accesskey "ф">
-<!ENTITY viewCRLs.label                 "Revocation Lists">
+<!ENTITY viewCRLs.label                 "Списки отзыва сертификатов">
 <!ENTITY viewCRLs.accesskey             "e">
-<!ENTITY viewOCSP.label                 "Verification">
+<!ENTITY viewOCSP.label                 "Проверка">
 <!ENTITY viewOCSP.accesskey             "f">
-<!ENTITY viewSecurityDevices.label "Устройства защиты">
-<!ENTITY viewSecurityDevices.accesskey "ы">
+<!ENTITY viewSecurityDevices.label      "Устройства безопасности">
+<!ENTITY viewSecurityDevices.accesskey  "u">
 
 <!-- Web Services -->
-<!ENTITY webservicesInfo.label          "Configure the Web services used within &brandShortName;.">
+<!ENTITY webservicesInfo.label          "Настройка веб-служб для использования в Postbox.">
 
-<!ENTITY textStartUp   "When starting up:">
-<!ENTITY radioRememberPrevState "Remember previous online state">
+<!ENTITY textStartUp   "При запуске:">
+<!ENTITY radioRememberPrevState "Помнить предыдущее состояние подключения">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe "Ask me for online state at startup">
+<!ENTITY radioAskMe "Спросить о состоянии подключения при запуске">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline "Always start up online">
+<!ENTITY radioAlwaysOnline "Всегда подключаться при запуске">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline1 "When going online:">
-<!ENTITY radioAutoSend1 "Send unsent messages">
-<!ENTITY radioNotSend1 "Do not send unsent messages">
-<!ENTITY radioAskUnsent1 "Ask to send unsent messages">
+<!ENTITY textGoingOnline1 "При подключении:">
+<!ENTITY radioAutoSend1 "Отправить неотправленные сообщения">
+<!ENTITY radioNotSend1 "Не отправлять неотправленные сообщения">
+<!ENTITY radioAskUnsent1 "Спросить об отправке неотправленных сообщений">
 
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload "Yes">
+<!ENTITY textGoingOffline "Загружать сообщения для использования в автономном режиме?">
+<!ENTITY radioAutoDownload "Да">
 <!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload "No">
+<!ENTITY radioNotDownload "Нет">
 <!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload "Ask me">
-<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY radioAskDownload "Спросить">
+<!ENTITY radioAskDownload.accesskey "A">
 
-<!ENTITY useGmailShortcuts.label "Use Gmail keyboard shortcuts">
+<!ENTITY useGmailShortcuts.label "Использовать сочетания клавиш Gmail">
 <!ENTITY useGmailShortcuts.accesskey "l">
 
-<!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
-<!ENTITY pbUseGravatar.accesskey "G">
+<!ENTITY pbUseGravatar.label "Использовать службу граватаров для поиска снимков контактов.">
+<!ENTITY pbUseGravatar.accesskey "g">
 
-<!ENTITY pbUseGoogleCalendar.label "Use Google Calendar for detected dates.">
+<!ENTITY pbUseGoogleCalendar.label "Использовать «Google Календарь» для найденных дат.">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
 
-<!ENTITY pbSwipeLeft.label "Swipe Left:">
-<!ENTITY pbSwipeRight.label "Swipe Right:">
-<!ENTITY pbNextMessage.label "Select Next Message">
-<!ENTITY pbPreviousMessage.label "Select Previous Message">
-<!ENTITY pbDeleteMessage.label "Delete Message">
-<!ENTITY pbArchiveMessage.label "Archive Message">
-<!ENTITY pbOpenMessage.label "Open Message">
-<!ENTITY pbOpenFolderPane.label "Open Folder Pane">
-<!ENTITY pbCloseFolderPane.label "Close Folder Pane">
+<!ENTITY pbSwipeLeft.label "Жест прокрутки влево:">
+<!ENTITY pbSwipeRight.label "Жест прокрутки вправо:">
+<!ENTITY pbNextMessage.label "Выбрать следующее сообщение">
+<!ENTITY pbPreviousMessage.label "Выбрать предыдущее сообщение">
+<!ENTITY pbDeleteMessage.label "Удалить сообщение">
+<!ENTITY pbArchiveMessage.label "Архивировать сообщение">
+<!ENTITY pbOpenMessage.label "Открыть сообщение">
+<!ENTITY pbOpenFolderPane.label "Открыть область папок">
+<!ENTITY pbCloseFolderPane.label "Закрыть область папок">

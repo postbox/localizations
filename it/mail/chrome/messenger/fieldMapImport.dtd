@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "Importazione rubrica">
+<!ENTITY fieldMapImport.title "Importa rubrica">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Dati importati per il record: ">
 <!ENTITY fieldMapImport.next.label "Prossimo">
-<!ENTITY fieldMapImport.next.accesskey "P">
+<!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.label "Precedente">
-<!ENTITY fieldMapImport.previous.accesskey "e">
-<!ENTITY fieldMapImport.text "Utilizzare Muovi su e Muovi giù per far corrispondere i campi della rubrica sulla sinistra ai dati corrispondenti da importare sulla colonna di destra. Togliere il segno di spunta dalle categorie che non si desidera importare.">
+<!ENTITY fieldMapImport.previous.accesskey "P">
+<!ENTITY fieldMapImport.text "Utilizza Sposta su e Sposta giù per far corrispondere i campi della rubrica sulla sinistra ai dati corrispondenti da importare sulla destra. Togli il segno di spunta agli elementi che vuoi importare.">
 <!ENTITY fieldMapImport.up.label "Sposta su">
-<!ENTITY fieldMapImport.up.accesskey "s">
+<!ENTITY fieldMapImport.up.accesskey "U">
 <!ENTITY fieldMapImport.down.label "Sposta giù">
-<!ENTITY fieldMapImport.down.accesskey "g">
+<!ENTITY fieldMapImport.down.accesskey "D">
 <!ENTITY fieldMapImport.fieldListTitle "Campi della rubrica">
-<!ENTITY fieldMapImport.dataTitle "Record da importare">
+<!ENTITY fieldMapImport.dataTitle "Dati record da importare">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Il primo record contiene i nomi dei campi">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "m">

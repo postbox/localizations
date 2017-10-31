@@ -17,6 +17,6 @@
 <!ENTITY server.accesskey             "K">
 <!ENTITY subscribedHeader.label       "Abonnieren">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Messages"> -->
+<!ENTITY messagesHeader.label         "Nachrichten"> -->
 <!ENTITY namefield.label              "Liste filtern nach:">
 <!ENTITY namefield.accesskey          "L">

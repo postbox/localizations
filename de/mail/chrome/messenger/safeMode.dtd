@@ -2,38 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY changeAndRestartButton2.label     "Apply and Restart">
-<!ENTITY changeAndRestartButton2.accesskey "A">
+<!ENTITY changeAndRestartButton2.label     "Speichern und neustarten">
+<!ENTITY changeAndRestartButton2.accesskey "S">
 
 
 <!ENTITY safeModeOptionsWindow.width       "width: 49em;">
-<!ENTITY safeModeOptionsDialog.title       "&brandShortName; Troubleshooting">
+<!ENTITY safeModeOptionsDialog.title       "&brandShortName; Problembehandlung">
 
-<!ENTITY safeModeOptionsDescription2.label "If you are experiencing difficulty with Postbox, try restarting 
-with one or more of these troubleshooting options selected:">
+<!ENTITY safeModeOptionsDescription2.label "Wenn Sie bei der Verwendung von Postbox auf Probleme stoßen, wählen Sie bitte eine oder mehrere Optionen zum Neustart aus:">
 
 
-<!ENTITY disableAddons.label          "Alle Add-ons deaktivieren">
-<!ENTITY disableAddons.accesskey      "d">
+<!ENTITY disableAddons.label              "Alle Erweiterungen permanent deaktivieren">
+<!ENTITY disableAddons.accesskey          "D">
 
-<!ENTITY resetToolbars.label          "Alle Symbolleisten zurücksetzen">
-<!ENTITY resetToolbars.accesskey      "S">
+<!ENTITY resetToolbars.label              "Benutzeroberfläche neustarten">
+<!ENTITY resetToolbars.accesskey          "R">
 
-<!ENTITY resetCacheAndIndex.label         "Reset Caches and Search Index">
+<!ENTITY resetCacheAndIndex.label         "Caches und Suchindex zurücksetzen">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
 
-<!ENTITY safeMode.label                   "Safe Mode (temporarily disables all Add-ons and custom settings)">
+<!ENTITY safeMode.label                   "Sicherungsmodus (deaktiviert temporär alle Erweiterungen und benutzerdefinierten Einstellungen)">
 <!ENTITY safeMode.accesskey               "M">
 
-<!ENTITY profileManager.label                   "Open Profile Manager on Restart">
+<!ENTITY profileManager.label                   "Profil Manager beim Start öffnen">
 <!ENTITY profileManager.accesskey               "P">
 
-<!ENTITY protocolLogging.label                   "Create Protocol Log File">
+<!ENTITY protocolLogging.label                   "Protokoll-Datei erstellen">
 <!ENTITY protocolLogging.accesskey               "L">
 
-<!ENTITY safeModeDialogHeader.label       "Troubleshooting">
+<!ENTITY safeModeDialogHeader.label       "Problembehandlung">
 
-<!ENTITY safeModeDialogHelpButton.tooltip "Display online help for this dialog">
+<!ENTITY safeModeDialogHelpButton.tooltip "Online-Hilfe für diesen Dialog anzeigen">
 
-<!ENTITY resetImapFolders.label           "Reset IMAP mail databases and Search Indexes">
+<!ENTITY resetImapFolders.label           "IMAP Mail-Datenbank zurücksetzen">
 <!ENTITY resetImapFolders.accesskey       "b">

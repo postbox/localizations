@@ -19,9 +19,9 @@
 <!ENTITY findBarCmd.label "Trova…">
 <!ENTITY findReplaceCmd.label "Trova e sostituisci…">
 <!ENTITY enableInlineSpellChecker.label "Controllo ortografico durante la digitazione">
-<!ENTITY enableInlineSpellChecker.accesskey "z">
-<!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
-<!ENTITY checkSpellingCmd2.accesskey "C">
+<!ENTITY enableInlineSpellChecker.accesskey "d">
+<!ENTITY checkSpellingCmd2.label "Controlla ortografia">
+<!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
@@ -58,9 +58,9 @@
 <!ENTITY fontfaceMenu.label "Carattere">
 <!ENTITY fontfaceMenu.accesskey "C">
 <!ENTITY fontVarWidth.label "Larghezza variabile">
-<!ENTITY fontVarWidth.accesskey "h">
+<!ENTITY fontVarWidth.accesskey "v">
 <!ENTITY fontFixedWidth.label "Larghezza fissa">
-<!ENTITY fontFixedWidth.accesskey "L">
+<!ENTITY fontFixedWidth.accesskey "f">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "H">
@@ -71,7 +71,7 @@
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Scegli la dimensione del carattere">
-<!ENTITY resetToDefaultFontSize.label "Reset to default">
+<!ENTITY resetToDefaultFontSize.label "Ripristina a predefinito">
 <!ENTITY decreaseFontSize.label "Diminuisci">
 <!ENTITY decreaseFontSize.accesskey "D">
 <!ENTITY decrementFontSize.key "&lt;">
@@ -127,7 +127,7 @@
 <!ENTITY styleAcronym.label "Acronimo">
 <!ENTITY styleAcronym.accesskey "o">
 <!ENTITY styleCode.label "Codice sorgente">
-<!ENTITY styleCode.accesskey "d">
+<!ENTITY styleCode.accesskey "C">
 <!ENTITY styleSamp.label "Esempio">
 <!ENTITY styleSamp.accesskey "m">
 <!ENTITY styleVar.label "Variabile">
@@ -187,7 +187,7 @@
 <!ENTITY bodyTextCmd.accesskey "C">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Proprietà avanzate">
-<!ENTITY advancedPropertiesCmd.accesskey "P">
+<!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Allinea">
@@ -246,12 +246,12 @@
 <!ENTITY tableRowAbove.label "Riga sopra">
 <!ENTITY tableRowAbove.accesskey "R">
 <!ENTITY tableRowBelow.label "Riga sotto">
-<!ENTITY tableRowBelow.accesskey "o">
+<!ENTITY tableRowBelow.accesskey "s">
 <!ENTITY tableColumn.label "Colonna">
-<!ENTITY tableColumns.label "Colonne">
+<!ENTITY tableColumns.label "Colonna(Colonne)">
 <!ENTITY tableColumn.accesskey "o">
 <!ENTITY tableColumnBefore.label "Colonna precedente">
-<!ENTITY tableColumnBefore.accesskey "C">
+<!ENTITY tableColumnBefore.accesskey "d">
 <!ENTITY tableColumnAfter.label "Colonna successiva">
 <!ENTITY tableColumnAfter.accesskey "s">
 <!ENTITY tableCell.label "Cella">
@@ -274,8 +274,8 @@
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-<!ENTITY tableJoinCells.label "U">
-<!ENTITY tableJoinCells.accesskey "U">
+<!ENTITY tableJoinCells.label "j">
+<!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Dividi cella">
 <!ENTITY tableSplitCell.accesskey "D">
 <!ENTITY convertToTable.label "Crea tabella da selezione">
@@ -307,7 +307,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Modifica ancora selezionata o inseriscine una nuova">
 <!ENTITY TextColorButton.tooltip "Scegli il colore del testo">
 <!ENTITY BackgroundColorButton.tooltip "Scegli il colore dello sfondo">
-<!ENTITY throbber.tooltip "Vai alla pagina iniziale di &vendorShortName;">
+<!ENTITY throbber.tooltip "Vai alla pagina home di &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Scegli il colore di selezione testo">
 
 <!-- Editor toolbar -->
@@ -329,19 +329,19 @@
 <!ENTITY alignJustifyButton.tooltip "Allinea il testo lungo i margini destro e sinistro">
 
 <!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Seleziona">
-<!ENTITY structSelect.accesskey     "S">
-<!ENTITY structRemoveTag.label      "Rimuovi tag">
-<!ENTITY structRemoveTag.accesskey  "R">
-<!ENTITY structChangeTag.label      "Modifica tag">
-<!ENTITY structChangeTag.accesskey  "M">
+<!ENTITY structSelect.label "Seleziona">
+<!ENTITY structSelect.accesskey "S">
+<!ENTITY structRemoveTag.label "Rimuovi tag">
+<!ENTITY structRemoveTag.accesskey "R">
+<!ENTITY structChangeTag.label "Modifica tag">
+<!ENTITY structChangeTag.accesskey "M">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label          "Inserisci">
-<!ENTITY insertTOC.accesskey      "I">
-<!ENTITY updateTOC.label          "Aggiorna">
-<!ENTITY updateTOC.accesskey      "A">
-<!ENTITY removeTOC.label          "Elimina">
-<!ENTITY removeTOC.accesskey      "E">
-<!ENTITY tocMenu.label            "Indice argomenti…">
-<!ENTITY tocMenu.accesskey        "n">
+<!ENTITY insertTOC.label "Inserisci">
+<!ENTITY insertTOC.accesskey "I">
+<!ENTITY updateTOC.label "Aggiorna">
+<!ENTITY updateTOC.accesskey "A">
+<!ENTITY removeTOC.label "Elimina">
+<!ENTITY removeTOC.accesskey "E">
+<!ENTITY tocMenu.label "Indice argomenti…">
+<!ENTITY tocMenu.accesskey "n">

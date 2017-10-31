@@ -4,7 +4,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Выбор изменений">
-<!ENTITY conflictWarning.label "Эта страница была изменена другой программой, но и в Компоновщике остались несохранённые изменения.">
+<!ENTITY conflictWarning.label "Эта страница была изменена другой программой, но и в Компоновщике остались несохраненные изменения.">
 <!ENTITY conflictResolve.label "Выберите, какую версию следует сохранить:">
 <!ENTITY keepCurrentPageButton.label "Сохранить текущие изменения">
 <!ENTITY useOtherPageButton.label "Заменить текущие изменения на другие">

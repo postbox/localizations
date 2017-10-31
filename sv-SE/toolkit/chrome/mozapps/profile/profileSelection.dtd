@@ -24,7 +24,7 @@
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; lagrar information om dina inställningar, bokmärken, e-post och annan användarinformation i din användarprofil.">
 
-<!ENTITY            offlineState.label    "Arbeta nedkopplad">
+<!ENTITY            offlineState.label     "Arbeta nedkopplad">
 <!ENTITY            offlineState.accesskey "A">
 
 <!ENTITY            useSelected.label       "Använd den valda profilen utan att fråga vid start">

@@ -4,10 +4,10 @@
 
 <!ENTITY itemGeneral.label                   "Algemeen">
 <!ENTITY itemAutoComplete.label              "Adressering">
-<!ENTITY itemTypeCheck.label                 "Typing">
-<!ENTITY itemSendFormat.label                "Send Format">
-<!ENTITY itemSignatures.label                "Signatures">
-<!ENTITY itemCannedResponses.label           "Responses">
+<!ENTITY itemTypeCheck.label                 "Typen">
+<!ENTITY itemSendFormat.label                "Verzendingsformaat">
+<!ENTITY itemSignatures.label                "Handtekeningen">
+<!ENTITY itemCannedResponses.label           "Antwoorden">
 
 <!ENTITY dialogCompose.title                 "Opstellen">
 
@@ -34,7 +34,7 @@
 <!ENTITY spellCheck.label                     "Spelling controleren voor het verzenden">
 <!ENTITY spellCheck.accesskey                 "c">
 <!ENTITY spellCheckInline.label               "Spelling controleren tijdens het typen">
-<!ENTITY spellCheckInline1.accesskey          "n">
+<!ENTITY spellCheckInline1.accesskey           "n">
 <!ENTITY languagePopup.label                  "Taal:">
 <!ENTITY languagePopup.accessKey              "T">
 <!ENTITY downloadDictionaries.label           "Meer woordenboeken downloaden">
@@ -54,79 +54,79 @@
 <!ENTITY editDirectories.label                 "Directory’s bewerken…">
 <!ENTITY editDirectories.accesskey             "b">
 
-<!ENTITY contactsSidebarDisplay.label          "Contacts Sidebar displays:">
+<!ENTITY contactsSidebarDisplay.label          "Zijbalk:">
 <!ENTITY contactsSidebarDisplay.accesskey      "S">
-<!ENTITY recentContacts.label                  "Recent Contacts">
+<!ENTITY recentContacts.label                  "Recente contacten">
 <!ENTITY recentContacts.accesskey              "n">
-<!ENTITY addressBooks.label                    "Address Books">
+<!ENTITY addressBooks.label                    "Adresboek">
 <!ENTITY addressBooks.accesskey                "B">
 
 <!ENTITY sendOptionsDescription.label          "Tekstopmaakgedrag configureren">
 <!ENTITY sendOptions.label                     "Verzendopties…">
 <!ENTITY sendOptions.accesskey                 "V">
 
-<!ENTITY attachmentReminder.label              "Controleren op ontbrekende bijlagen">
+<!ENTITY attachmentReminder.label              "Controleer op ontbrekende bijlage(n)">
 <!ENTITY attachmentReminder.accesskey          "C">
 <!ENTITY attachmentReminderOptions.label       "Sleutelwoorden…">
-<!ENTITY attachmentReminderOptions.accesskey   "w">
+<!ENTITY attachmentReminderOptions.accesskey   "S">
 
-<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+<!ENTITY replyInDefaultCharset2.label     "Gebruik de standaard tekenset in antwoorden">
+<!ENTITY replyInDefaultCharset2.accesskey "G">
+<!ENTITY composeLanguagesTitle.label            "Tekenset:">
 
-<!ENTITY imageOrientation.label "Image Orientation:">
-<!ENTITY accordingToEXIF.label "Rotate images according to EXIF data">
+<!ENTITY imageOrientation.label "Oriëntatie Afbeelding:">
+<!ENTITY accordingToEXIF.label "Roteer afbeeldingen overeenkomstig de EXIF gegevens">
 <!ENTITY accordingToEXIF.accesskey "o">
 
 <!-- signatures -->
-<!ENTITY addSignatureButton.label       "New">
+<!ENTITY addSignatureButton.label       "Nieuw">
 <!ENTITY addSignatureButton.accesskey   "N">
-<!ENTITY editSignatureButton.label      "Edit">
-<!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY removeSignatureButton.label    "Delete">
-<!ENTITY removeSignatureButton.accesskey "l">
-<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
+<!ENTITY editSignatureButton.label      "Bewerken">
+<!ENTITY editSignatureButton.accesskey   "e">
+<!ENTITY removeSignatureButton.label    "Verwijderen">
+<!ENTITY removeSignatureButton.accesskey "V">
+<!ENTITY addSignatureDelimiters.label "Voeg scheidingsteken toe boven de handtekening">
 
-<!ENTITY pbItemAdvanced.label "Advanced">
-<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
-<!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
-<!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
-<!ENTITY pb.QuickReply.label "Default Quick Reply to:">
-<!ENTITY pb.QuickReply.accesskey "Q">
-<!ENTITY pb.quickreply.replyall.label "Reply All">
+<!ENTITY pbItemAdvanced.label "Geavanceerd">
+<!ENTITY pb.quotingConversationsSortOrder.label "Bij samenvatten, citeer:">
+<!ENTITY pb.quotingConversationsSortOrderOldest.label "Oudste berichten eerst">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Nieuwste berichten eerst">
+<!ENTITY pb.QuickReply.label "Standaard snel antwoorden aan:">
+<!ENTITY pb.QuickReply.accesskey "S">
+<!ENTITY pb.quickreply.replyall.label "Allen beantwoorden">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
-<!ENTITY pb.quickreply.reply.label "Reply">
-<!ENTITY pb.quickreply.reply.accesskey "y">
-<!ENTITY pbNumConversationsToQuote.label "Include at most">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing">
+<!ENTITY pb.quickreply.reply.label "Beantwoorden">
+<!ENTITY pb.quickreply.reply.accesskey "B">
+<!ENTITY pbNumConversationsToQuote.label "Neem maximaal">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "berichten bij het samenvatten op een antwoord">
 
-<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
-<!ENTITY pbQuoteOnQuickReply.accesskey "m">
+<!ENTITY pbQuoteOnQuickReply.label "Citeer het bericht in Snel Antwoord">
+<!ENTITY pbQuoteOnQuickReply.accesskey "C">
 
-<!ENTITY pbDefaultFonSize.label                           "default">
+<!ENTITY pbDefaultFonSize.label                           "standaard">
 
-<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
-<!ENTITY pbPlaySoundOnSend.accesskey "P">
+<!ENTITY pbPlaySoundOnSend.label "Speel geluid af bij verzenden van bericht">
+<!ENTITY pbPlaySoundOnSend.accesskey "p">
 
-<!ENTITY pbSendAndArchive.label "Enable send and archive">
-<!ENTITY pbEnableDropbox.label "Send links when attaching files in your cloud folders">
+<!ENTITY pbSendAndArchive.label "Activeer verstuur en archiveer">
+<!ENTITY pbEnableDropbox.label "Verstuur hyperlinks bij het toevoegen van bestanden uit uw Dropbox map">
 
-<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
+<!ENTITY pbSetCompositionGoals.label "Stel compositiedoelen in met">
 <!ENTITY pbStopwatchGoal.label "Stopwatch">
-<!ENTITY pbWordsGoal.label "Word Count">
-<!ENTITY pbCharactersGoal.label "Character Count">
-<!ENTITY pbAt.label "at">
-<!ENTITY pbMinutes.label "minutes">
-<!ENTITY pbWords.label "words">
-<!ENTITY pbCharacters.label "characters">
+<!ENTITY pbWordsGoal.label "Aantal Woorden">
+<!ENTITY pbCharactersGoal.label "Aantal Tekens">
+<!ENTITY pbAt.label "op">
+<!ENTITY pbMinutes.label "minuten">
+<!ENTITY pbWords.label "woorden">
+<!ENTITY pbCharacters.label "Tekens">
 
-<!ENTITY sourceView.label "Code View:">
+<!ENTITY sourceView.label "Code Weergave:">
 <!ENTITY sourceView.accesskey "C">
 
-<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">
+<!ENTITY pbURLAutoComplete.label "URL Automatisch Aanvullen Inschakelen">
 
-<!ENTITY messageSizeWarning.label "Warn me if the message size is above">
+<!ENTITY messageSizeWarning.label "Waarschuw me als de berichtgrootte groter is dan">
 <!ENTITY megabytes.label "MB">
 
-<!ENTITY intlKeysPanel.label "International Characters panel">
-<!ENTITY emojiShortcuts.label "Emoji shortcuts">
+<!ENTITY intlKeysPanel.label "Internationale Tekens">
+<!ENTITY emojiShortcuts.label "Emoji Sneltoetsen">

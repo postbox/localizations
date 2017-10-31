@@ -25,7 +25,7 @@
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Use this certificate to digitally sign messages you send:">
 
-<!ENTITY certificates.label "Certificates">
+<!ENTITY certificates.label     "Certificates">
 <!ENTITY manageCerts2.label "Manage Certificates">
 <!ENTITY manageCerts2.accesskey "M">
 <!ENTITY manageDevices.label "Security Devices">

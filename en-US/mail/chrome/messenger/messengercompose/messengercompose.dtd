@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Write: (no subject)">
+<!ENTITY msgComposeWindow.title "Compose: (no subject)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "File">
@@ -18,13 +18,13 @@
 <!ENTITY newContact.accesskey "C">
 <!ENTITY emptyAttachmentBucket.label "Add files...">
 <!ENTITY attachMenu.label "Attach">
-<!ENTITY attachMenu.accesskey "h">
-<!ENTITY attachFileCmd.label "File(s)…">
+<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachFileCmd.label "File(s)...">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
-<!ENTITY attachPageCmd.label "Web Page…">
+<!ENTITY attachPageCmd.label "Web Page...">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Personal Card (vCard)">
@@ -39,7 +39,7 @@
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "Save As">
 <!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsFileCmd.label "File…">
+<!ENTITY saveAsFileCmd.label "File...">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Draft">
 <!ENTITY saveAsDraftCmd.accesskey "D">
@@ -54,11 +54,11 @@
 <!ENTITY sendLaterCmd.accesskey "L">
 <!ENTITY sendAndArchive.label "Send and Archive">
 <!ENTITY sendLaterAndArchive.label "Send Later and Archive">
-<!ENTITY printSetupCmd.label "Page Setup…">
+<!ENTITY printSetupCmd.label "Page Setup...">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Print Preview">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Print…">
+<!ENTITY printCmd.label "Print...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
 
@@ -200,8 +200,8 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY preferencesCmd2.label "Options">
 <!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Preferences">
-<!ENTITY preferencesCmdUnix.accesskey "n">
+<!ENTITY preferencesCmdUnix.label       "Preferences">
+<!ENTITY preferencesCmdUnix.accesskey   "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -314,7 +314,7 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Select All">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "Attach File(s)…">
+<!ENTITY attachFile.label "Attach File(s)...">
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
@@ -324,7 +324,7 @@
 <!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Regular Attachment">
 <!ENTITY convertRegularAttachment.accesskey "A">
-<!ENTITY attachPage.label "Attach Web Page…">
+<!ENTITY attachPage.label "Attach Web Page...">
 <!ENTITY attachPage.accesskey "W">
 <!ENTITY editSignatures.label "Edit Signatures...">
 <!ENTITY newSignature.label "New Signature...">
@@ -460,7 +460,7 @@
 <!ENTITY margin20px.label "20px">
 <!ENTITY margin30px.label "30px">
 <!ENTITY margin40px.label "40px">
-<!ENTITY shadowImage.label "Add a Shadow">
+<!ENTITY shadowImage.label "Shadow">
 <!ENTITY floatImage "Float">
 <!ENTITY leftFloat.label "Left">
 <!ENTITY rightFloat.label "Right">

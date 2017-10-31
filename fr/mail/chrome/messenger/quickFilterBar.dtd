@@ -7,35 +7,35 @@
      the quick filter bar.
      -->
 <!ENTITY quickFilterBar.qfbShowFilterBar.label
-         "Filtre rapide">
+         "Quick Filter">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label
-         "Barre de filtre rapide">
+         "Quick Filter Bar">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
      whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey
-         "f">
+         "Q">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
      The label to display for the "App Menu... Preferences..." menu item that
      controls whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
-         "Barre de filtre rapide">
+         "Quick Filter Bar">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "Afficher/Masquer la barre de filtre rapide.">
+         "Toggle the quick filter bar">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
@@ -45,35 +45,35 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "Conserver les filtres lors des changements de dossiers ?">
+         "Keep filters applied when switching folders">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.label
-         "Non lus">
+         "Unread">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Afficher seulement les messages non lus.">
+         "Show only unread messages">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.label
-         "Suivis">
+         "Starred">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.tooltip
-         "Afficher seulement les messages suivis.">
+         "Show only starred messages">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
@@ -81,7 +81,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.label
-         "Contacts">
+         "Contact">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -89,35 +89,35 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Afficher seulement les messages des personnes présentes dans mon carnet d’adresses.">
+         "Show only messages from people in your address book">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.label
-         "Étiquettes">
+         "Tags">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Afficher seulement les messages ayant des étiquettes.">
+         "Show only messages with tags on them">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.label
-         "Pièces jointes">
+         "Attachment">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.tooltip
-         "Afficher seulement les messages ayant des pièces jointes.">
+         "Show only messages with attachments">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
@@ -136,7 +136,7 @@
      are no messages matching the filter.
      -->
 <!ENTITY quickFilterBar.resultsLabel.none
-         "Pas de résultats">
+         "No results">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
@@ -159,7 +159,7 @@
      box faster.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base1
-         "Filtrer ces messages #1">
+         "Filter these messages #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
@@ -172,14 +172,14 @@
      quickFilterBar.show.key above.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac
-          "&lt;Ctrl+Maj+K&gt;">
+         "&lt;Ctrl+Shift+K&gt;">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
      The description of the key-binding to get into the box on mac systems.
      This should match the value of quickFilterBar.show.key above.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
-          "&lt;&#x21E7;&#x2318;K&gt;">
+         "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
@@ -230,46 +230,47 @@
      tag sub-bar wants as much space as possible.  (Overflow is handled by an
      arrow scroll box.)
      -->
-<!ENTITY quickFilterBar.textFilter.explanation.label "Filtrer les messages selon :">
+<!ENTITY quickFilterBar.textFilter.explanation.label
+         "Filter messages by:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.sender.label
-         "Expéditeur">
+         "Sender">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.recipients.label
-         "Destinataires">
+         "Recipients">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.subject.label
-         "Sujet">
+         "Subject">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.body.label
-         "Corps du message">
+         "Body">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch
-         "Continuer cette recherche dans tous les dossiers">
+         "Continue this search across all folders">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
-         "Appuyez sur la touche « Entrée » à nouveau pour continuer votre recherche pour : #1">
+         "Press 'Enter' again to continue your search for: #1">

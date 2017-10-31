@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY serverAdvanced.label "Erweiterte Konten-Einstellungen">
+<!ENTITY serverAdvanced.label "Erweiterte Konto-Einstellungen">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP-Server-Verzeichnis:">
 <!ENTITY serverDirectory.accesskey "I">
@@ -17,15 +17,15 @@
 <!ENTITY personalNamespace.label "Persönlicher Namensraum">
 <!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "Öffentlich (gemeinsam verwendet)">
-<!ENTITY publicNamespace.accesskey "Ö">
+<!ENTITY publicNamespace.accesskey "f">
 <!ENTITY otherUsersNamespace.label "Andere Benutzer">
 <!ENTITY otherUsersNamespace.accesskey "A">
-<!ENTITY overrideNamespaces.label "Server erlauben, diese Namensräume zu übergehen">
+<!ENTITY overrideNamespaces.label "Server erlauben diese Namensräume zu übergehen">
 <!ENTITY overrideNamespaces.accesskey "e">
 <!ENTITY pop3DeferringDesc.label "Neue heruntergeladene Nachrichten für dieses Konto in folgendem Ordner speichern:" >
 <!ENTITY accountInbox.label "Posteingang für dieses Konto">
 <!ENTITY accountInbox.accesskey "d">
 <!ENTITY deferToServer.label "Posteingang eines anderen Kontos">
-<!ENTITY deferToServer.accesskey "a">
-<!ENTITY deferGetNewMail.label "Dieses Konto beim Abrufen von Nachrichten einschließen">
-<!ENTITY deferGetNewMail.accesskey "e">
+<!ENTITY deferToServer.accesskey "d">
+<!ENTITY deferGetNewMail.label "Dieses Konto beim Abrufen von Nachrichten einschließen.">
+<!ENTITY deferGetNewMail.accesskey "i">

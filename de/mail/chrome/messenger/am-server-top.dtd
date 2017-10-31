@@ -25,22 +25,22 @@
 <!ENTITY useIdleNotifications.label "Bei Eingang neuer Nachrichten auf Server sofort benachrichtigen">
 <!ENTITY useIdleNotifications.accesskey "E">
 <!ENTITY connectionSecurity.label "Verbindungssicherheit:">
-<!ENTITY connectionSecurity.accesskey "n">
-<!ENTITY connectionSecurityType-0.label "Keine">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, wenn möglich">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "Keine Verbindungssicherheit">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, wenn verfügbar">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Authentifizierungsmethode:">
-<!ENTITY authMethod.accesskey "u">
+<!ENTITY authMethod.label "Authentifizierung:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Nachrichten auf dem Server belassen">
 <!ENTITY leaveOnServer.accesskey "i">
 <!ENTITY headersOnly.label "Nur die Kopfzeilen herunterladen">
 <!ENTITY headersOnly.accesskey "o">
 <!ENTITY deleteByAgeFromServer.label "Lösche Nachrichten vom Server nach">
-<!ENTITY deleteByAgeFromServer.accesskey "ö">
+<!ENTITY deleteByAgeFromServer.accesskey "L">
 <!ENTITY daysEnd.label "Tagen">
-<!ENTITY deleteOnServer2.label "Nachrichten vom Server löschen, wenn sie aus dem Posteingang gelöscht werden">
-<!ENTITY deleteOnServer2.accesskey "g">
+<!ENTITY deleteOnServer2.label "Bis ich sie lösche">
+<!ENTITY deleteOnServer2.accesskey "h">
 <!ENTITY downloadOnBiff.label "Neue Nachrichten automatisch herunterladen">
 <!ENTITY downloadOnBiff.accesskey "d">
 <!ENTITY username.label "Ihr Benutzername">
@@ -48,26 +48,26 @@
 <!ENTITY modelMoveToTrash.label "In diesen Ordner verschieben:">
 <!ENTITY modelMoveToTrash.accesskey "I">
 <!ENTITY modelMarkDeleted.label "Als gelöscht markieren">
-<!ENTITY modelMarkDeleted.accesskey "ö">
+<!ENTITY modelMarkDeleted.accesskey "A">
 <!ENTITY modelDeleteImmediately.label "Sofort entfernen">
 <!ENTITY modelDeleteImmediately.accesskey "o">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Bereinigen (&quot;Expunge&quot;) des Posteingangs beim Verlassen">
-<!ENTITY expungeOnExit.accesskey "x">
+<!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Papierkorb beim Verlassen leeren">
 <!ENTITY emptyTrashOnExit.accesskey "V">
 <!ENTITY loginAtStartup.label "Beim Starten auf neue Nachrichten prüfen">
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY loginAtStartup.accesskey "c">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart1.label "Ask when downloading more than">
+<!ENTITY maxMessagesStart1.label "Beim Download von mehr als">
 <!ENTITY maxMessagesStart1.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "Nachrichten">
-<!ENTITY alwaysAuthenticate1.label "Always request authentication">
-<!ENTITY alwaysAuthenticate1.accesskey "w">
+<!ENTITY alwaysAuthenticate1.label "immer Authentifizierung verlangen">
+<!ENTITY alwaysAuthenticate1.accesskey "I">
 <!ENTITY abbreviate.label "Newsgruppen in der Ordner-Liste anzeigen mit:">
 <!ENTITY abbreviateOn.label "Vollen Namen (zum Beispiel &quot;netscape.public.mozilla.mail-news&quot;)">
 <!ENTITY abbreviateOff.label "Abgekürzten Namen (zum Beispiel &quot;n.p.m.mail-news&quot;)">
@@ -75,8 +75,8 @@
 <!ENTITY advancedButton.accesskey "w">
 <!ENTITY serverDefaultCharset2.label "Standard-Textkodierung:">
 
-<!ENTITY accountName.label "Account Name:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.label "Konto-Bezeichnung:">
+<!ENTITY accountName.accesskey "n">
 
 <!ENTITY accountTitle.label "Konto-Einstellungen">
 <!ENTITY accountSettingsDesc.label "Dies ist ein besonderes Konto, da keine Identitäten mit ihm verknüpft sind.">

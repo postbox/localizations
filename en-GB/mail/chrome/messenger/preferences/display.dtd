@@ -13,14 +13,14 @@
 <!ENTITY italic.label                     "Italic">
 <!ENTITY boldItalic.label                 "Bold Italic">
 <!ENTITY size.label                       "Size:">
-<!ENTITY size.accesskey                   "z">
+<!ENTITY size.accesskey                   "S">
 <!ENTITY regularSize.label                "Regular">
 <!ENTITY bigger.label                     "Bigger">
 <!ENTITY smaller.label                    "Smaller">
-<!ENTITY textColor.label                  "Text Color:">
+<!ENTITY textColor.label                  "Text Colour:">
 <!ENTITY textColor.accesskey              "T">
-<!ENTITY backgroundColor.label            "Background Color:">
-<!ENTITY backgroundColor.accesskey        "b">
+<!ENTITY backgroundColor.label            "Background Colour:">
+<!ENTITY backgroundColor.accesskey        "B">
 
 
 <!-- tags -->
@@ -30,8 +30,8 @@
 <!ENTITY newTagButton.accesskey    "N">
 <!ENTITY editTagButton1.label      "Edit…">
 <!ENTITY editTagButton1.accesskey  "E">
-<!ENTITY removeTagButton.label     "Delete">
-<!ENTITY removeTagButton.accesskey "D">
+<!ENTITY removeTagButton.label    "Delete">
+<!ENTITY removeTagButton.accesskey "l">
 
 <!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Fonts &amp; Colours">
@@ -39,8 +39,8 @@
 <!ENTITY defaultFont.accesskey   "D">
 <!ENTITY defaultSize.label       "Size:">
 <!ENTITY defaultSize.accesskey   "S">
-<!ENTITY fontOptions.accesskey   "A">
-<!ENTITY fontOptions.label       "Advanced…">
+<!ENTITY fontOptions.accesskey   "F">
+<!ENTITY fontOptions.label       "Fonts…">
 <!ENTITY colorButton.label       "Colours…">
 <!ENTITY colorButton.accesskey   "C">
 
@@ -91,7 +91,7 @@
 <!-- general -->
 <!ENTITY pb.itemGeneral.label        "General">
 <!ENTITY useRetina.label             "Retina Display">
-<!ENTITY devPixelsPerPx.label        "DPI scaling:">
+<!ENTITY devPixelsPerPx.label        "High DPI scaling:">
 <!ENTITY devPixelsPerPx.accesskey    "D">
 <!ENTITY devPixelsPerPx.default      "Default">
 <!ENTITY devPixelsPerPx.lowdpi       "Low DPI">

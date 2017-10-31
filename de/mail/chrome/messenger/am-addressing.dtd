@@ -35,13 +35,13 @@
 <!ENTITY place.accesskey                      "u">
 <!ENTITY belowText.label                      "unter das Zitat platzieren. (empfohlen)">
 <!ENTITY aboveText.label                      "unter meiner Antwort, aber über dem Zitat platzieren.">
-<!ENTITY includeSigOnReply.label              "Signatur beim Antworten beifügen">
-<!ENTITY includeSigOnReply.accesskey          "A">
-<!ENTITY includeSigOnForward.label            "Signatur beim Weiterleiten beifügen">
+<!ENTITY includeSigOnReply.label              "Signatur bei Antworten benutzen">
+<!ENTITY includeSigOnReply.accesskey          "S">
+<!ENTITY includeSigOnForward.label            "Signatur bei Weiterleitungen benutzen">
 <!ENTITY includeSigOnForward.accesskey        "W">
-<!ENTITY markNotInWhitelist.label             "Mark addresses not ending with:">
+<!ENTITY markNotInWhitelist.label             "Markiere Adressen, die nicht enden mit:">
 <!ENTITY markNotInWhitelist.accesskey         "m">
-<!ENTITY markInTrustedList.label              "Mark addresses when sending to:">
+<!ENTITY markInTrustedList.label              "Markiere Adressen beim Senden an:">
 <!ENTITY markInTrustedList.accesskey          "d">
 
 <!ENTITY globalComposingPrefs.label           "Globale Einstellungen…">
@@ -51,8 +51,8 @@
 <!ENTITY globalAddressingPrefs.accesskey      "s">
 
 <!-- Postbox Summary Mode -->
-<!ENTITY pbSummarizeOnReply.label             "By">
-<!ENTITY pbSummarizeOnReply.accesskey         "y">
-<!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
-<!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
-<!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">
+<!ENTITY pbSummarizeOnReply.label             "Von">
+<!ENTITY pbSummarizeOnReply.accesskey         "V">
+<!ENTITY pbSummarizeOnReply.normal.label      "Zitiere die gewählte E-Mail">
+<!ENTITY pbSummarizeOnReply.summarize.label   "gesamte Unterhaltung zusammenfassen">
+<!ENTITY pbSummarizeOnReply.lastused.label    "zuletzt benutzte Einstellung verwenden">

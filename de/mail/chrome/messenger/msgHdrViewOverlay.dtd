@@ -2,51 +2,51 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pbToField.label "To:">
-<!ENTITY pbFromField.label "From:">
-<!ENTITY pbSenderField.label "Sender:">
-<!ENTITY pbOrganizationField.label "Organization:">
-<!ENTITY pbReplyToField.label "Reply-To:">
+<!ENTITY pbToField.label "An:">
+<!ENTITY pbFromField.label "Von:">
+<!ENTITY pbSenderField.label "Absender:">
+<!ENTITY pbOrganizationField.label "Organisation:">
+<!ENTITY pbReplyToField.label "Antwort an:">
 
-<!ENTITY subjectField.label "Subject:">
+<!ENTITY subjectField.label "Betreff: ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY pbCcField.label "Cc:">
-<!ENTITY pbBccField.label "Bcc:">
-<!ENTITY pbNewsgroupsField.label "Groups:">
-<!ENTITY pbFollowupToField.label "Followup-To:">
+<!ENTITY pbCcField.label "CC:">
+<!ENTITY pbBccField.label "BCC:">
+<!ENTITY pbNewsgroupsField.label "Newsgroups:">
+<!ENTITY pbFollowupToField.label "Followup an:">
 <!ENTITY pbLinkField.label "Link:">
-<!ENTITY pbTagsHdr.label "Topics:">
-<!ENTITY pbDateField.label "Date:">
+<!ENTITY pbTagsHdr.label "Schlagwörter">
+<!ENTITY pbDateField.label "Datum:">
 <!ENTITY pbUserAgentField.label "User-Agent:">
-<!ENTITY pbReferencesField.label "References:">
-<!ENTITY pbMessageIdField.label "Message-ID:">
-<!ENTITY pbInReplyToField.label "In-Reply-To:">
+<!ENTITY pbReferencesField.label "Referenzen:">
+<!ENTITY pbMessageIdField.label "Nachrichten-ID:">
+<!ENTITY pbInReplyToField.label "Als-Antwort-An:">
 <!ENTITY pbOriginalWebsite.label "Website:">
-<!ENTITY pbParticipantsField.label "Participants:">
-<!ENTITY saveAll.label "Save All..">
+<!ENTITY pbParticipantsField.label "Teilnehmer:">
+<!ENTITY saveAll.label "Alle speichern..">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label "Öffnen">
-<!ENTITY openAttachmentCmd.accesskey "f">
-<!ENTITY saveAsAttachmentCmd.label "Speichern…">
-<!ENTITY saveAsAttachmentCmd.accesskey "S">
-<!ENTITY detachAttachmentCmd.label "Abtrennen…">
+<!ENTITY openAttachmentCmd.label    "Öffnen">
+<!ENTITY openAttachmentCmd.accesskey    "f">
+<!ENTITY saveAsAttachmentCmd.label    "Speichern…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "S">
+<!ENTITY detachAttachmentCmd.label    "Abtrennen…">
 <!ENTITY detachAttachmentCmd.accesskey "A">
-<!ENTITY deleteAttachmentCmd.label "Löschen">
+<!ENTITY deleteAttachmentCmd.label    "Löschen">
 <!ENTITY deleteAttachmentCmd.accesskey "L">
 <!ENTITY openAllAttachmentsCmd.label "Alle öffnen…">
 <!ENTITY openAllAttachmentsCmd.accesskey "ö">
-<!ENTITY saveAllAttachmentsCmd.label "Alle speichern…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "p">
-<!ENTITY detachAllAttachmentsCmd.label "Alle abtrennen…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "a">
-<!ENTITY deleteAllAttachmentsCmd.label "Alle löschen">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "c">
+<!ENTITY saveAllAttachmentsCmd.label    "Alle speichern…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "s">
+<!ENTITY detachAllAttachmentsCmd.label    "Alle abtrennen…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "A">
+<!ENTITY deleteAllAttachmentsCmd.label    "Alle löschen">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "l">
 
 <!ENTITY openAttachment.tooltip "Angehängte Datei öffnen">
 
-<!ENTITY copyLinkCmd.label "Link-Adresse kopieren">
-<!ENTITY copyLinkCmd.accesskey "k">
+<!ENTITY copyLinkCmd.label        "Link-Adresse kopieren">
+<!ENTITY copyLinkCmd.accesskey    "k">
 
 <!ENTITY CopyMessageId.label "Nachrichten-ID kopieren">
 <!ENTITY CopyMessageId.accesskey "k">
@@ -55,11 +55,11 @@
 <!ENTITY OpenBrowserWithMsgId.label "Browser mit der genannten Nachrichten-ID öffnen">
 <!ENTITY OpenBrowserWithMsgId.accesskey "B">
 
-<!ENTITY msgHdrViewOpenMessage.label "open message">
-<!ENTITY pbMsgHdrView.showDetails.label "show details">
-<!ENTITY pbMsgHdrView.hideDetails.label "hide details">
-<!ENTITY pbMsgHdrView.conversationMsgReply.label "reply">
-<!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "reply all">
-<!ENTITY pbMsgHdrView.conversationMsgForward.label "forward">
+<!ENTITY msgHdrViewOpenMessage.label "Nachricht öffnen">
+<!ENTITY pbMsgHdrView.showDetails.label "Details anzeigen">
+<!ENTITY pbMsgHdrView.hideDetails.label "Details ausblenden">
+<!ENTITY pbMsgHdrView.conversationMsgReply.label "Antworten">
+<!ENTITY pbMsgHdrView.conversationMsgReplyAll.label "Allen antworten">
+<!ENTITY pbMsgHdrView.conversationMsgForward.label "Weiterleiten">
 
-<!ENTITY pbMsgHdrView.loadingMessageBody.label "Loading...">
+<!ENTITY pbMsgHdrView.loadingMessageBody.label "Lade...">

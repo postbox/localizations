@@ -56,10 +56,10 @@
 <!ENTITY checkDefaultsNow.label        "Check Now…">
 <!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Advanced Configuration">
-<!ENTITY configEdit.label              "Config Editor…">
-<!ENTITY configEdit.accesskey          "C">
+<!ENTITY configEdit.label              "Config Editor...">
+<!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "Determine how &brandShortName; handles return receipts">
-<!ENTITY showReturnReceipts.label      "Return Receipts…">
+<!ENTITY showReturnReceipts.label      "Return Receipts...">
 <!ENTITY showReturnReceipts.accesskey  "R">
 
 <!-- Data Choices -->
@@ -117,7 +117,7 @@
 <!ENTITY certSelection.label "When a server requests my certificate:">
 <!ENTITY certs.auto                      "Select one automatically">
 <!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Ask me every time">
+<!ENTITY certs.ask                       "Ask for a certificate">
 <!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
 <!ENTITY enableOCSP.accesskey            "Q">
@@ -128,8 +128,8 @@
 <!ENTITY viewCRLs.accesskey             "e">
 <!ENTITY viewOCSP.label                 "Verification">
 <!ENTITY viewOCSP.accesskey             "f">
-<!ENTITY viewSecurityDevices.label "Security Devices">
-<!ENTITY viewSecurityDevices.accesskey "D">
+<!ENTITY viewSecurityDevices.label      "Security Devices">
+<!ENTITY viewSecurityDevices.accesskey  "u">
 
 <!-- Web Services -->
 <!ENTITY webservicesInfo.label          "Configure the Web services used within &brandShortName;.">

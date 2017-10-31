@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.label              "Tillåt Spotlight att söka meddelanden">
 <!ENTITY allowSpotlight.accesskey          "w">
 
 <!ENTITY location.label                   "Adress:">
 <!ENTITY location1.accesskey               "A">
 <!ENTITY useDefault.label                 "Återställ standard">
-<!ENTITY useDefault.accesskey             "Å">
+<!ENTITY useDefault.accesskey             "t">
 
 <!ENTITY changeDockIconOptions.label      "Ändra inställningar för programsymbol">
 <!ENTITY dockOptions.label                "Alternativ för programsymbol…">
@@ -16,7 +16,7 @@
 
 <!ENTITY newMessagesArrive.label          "När ny e-post kommer:">
 <!ENTITY playSound.label                  "Spela upp ett ljud">
-<!ENTITY playSound1.accesskey             "u">
+<!ENTITY playSound1.accesskey              "u">
 <!ENTITY playSoundMac.label               "Spela följande ljudfil:">
 <!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Visa en meddelanderuta">
@@ -39,8 +39,8 @@
 
 <!ENTITY defaultSearchEngine.label        "Standardsökmotor">
 
-<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+<!ENTITY enableNotificationCenter.label   "Använd meddelandecenter">
 
-<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
+<!ENTITY showProfileManager.label   "Visa profilhanteraren vid start">
 
-<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
+<!ENTITY storeLocation.label              "Lagra ämnen, signaturer, svar och adressboken hos:">

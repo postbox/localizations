@@ -12,17 +12,17 @@
 <!ENTITY mailingListPropertiesMenu.label "Свойства списка рассылки">
 <!ENTITY mailingListPropertiesMenu.accesskey "в">
 
-<!ENTITY addressbookPicker.label "Адресная книга:">
-<!ENTITY addressbookPicker.accesskey "е">
+<!ENTITY addressbookPicker.label            "Адресная книга:">
+<!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY searchContacts.label "Поиск контактов:">
 <!ENTITY searchContacts.accesskey "к">
-<!ENTITY SearchNameOrEmail.label "Имя или e-mail адрес">
+<!ENTITY SearchNameOrEmail.label            "Имя или адрес эл. почты">
 
-<!ENTITY addtoToFieldMenu.label "Кому">
+<!ENTITY addtoToFieldMenu.label             "Кому">
 <!ENTITY addtoToFieldMenu.accesskey "о">
-<!ENTITY addtoCcFieldMenu.label "Копия">
+<!ENTITY addtoCcFieldMenu.label             "Копия">
 <!ENTITY addtoCcFieldMenu.accesskey "я">
-<!ENTITY addtoBccFieldMenu.label "Скрытая копия">
+<!ENTITY addtoBccFieldMenu.label            "Скрытая копия">
 <!ENTITY addtoBccFieldMenu.accesskey "ы">
 <!ENTITY deleteAddrBookCard.label "Удалить">
 <!ENTITY deleteAddrBookCard.accesskey "л">
@@ -35,9 +35,9 @@
 <!ENTITY editMailingListContext.label "Изменить список">
 <!ENTITY editMailingListContext.accesskey "м">
 
-<!ENTITY toButton.label "Кому:">
-<!ENTITY toButton.accesskey "о">
-<!ENTITY ccButton.label "Копия:">
-<!ENTITY ccButton.accesskey "п">
-<!ENTITY bccButton.label "Скрытая копия:">
-<!ENTITY bccButton.accesskey "ы">
+<!ENTITY toButton.label                     "Кому:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Копия:">
+<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY bccButton.label                    "Скрытая копия:">
+<!ENTITY bccButton.accesskey                "B">

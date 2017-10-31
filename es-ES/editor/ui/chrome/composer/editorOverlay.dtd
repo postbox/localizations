@@ -20,7 +20,7 @@
 <!ENTITY findReplaceCmd.label "Buscar y reemplazar…">
 <!ENTITY enableInlineSpellChecker.label "Revisar ortografía según escribe">
 <!ENTITY enableInlineSpellChecker.accesskey "R">
-<!ENTITY checkSpellingCmd2.label "Revisar ortografía…">
+<!ENTITY checkSpellingCmd2.label "Revisar ortografía">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -44,7 +44,7 @@
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Caracteres y símbolos…">
 <!ENTITY insertCharsCmd.accesskey "C">
-<!ENTITY insertBreakAllCmd.label "Break Below Image(s)">
+<!ENTITY insertBreakAllCmd.label 'Ruptura tras imágenes (&lt;br clear="all"&gt;)'>
 <!ENTITY insertBreakAllCmd.accesskey "u">
 
 <!-- Used just in context popup. -->
@@ -71,7 +71,7 @@
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Elija un tamaño de letra">
-<!ENTITY resetToDefaultFontSize.label "Reset to default">
+<!ENTITY resetToDefaultFontSize.label "Volver a la configuración predeterminada">
 <!ENTITY decreaseFontSize.label "Menor">
 <!ENTITY decreaseFontSize.accesskey "r">
 <!ENTITY decrementFontSize.key "&lt;">
@@ -88,7 +88,7 @@
 <!ENTITY size-smallCmd.label "Pequeño">
 <!ENTITY size-smallCmd.accesskey "P">
 <!ENTITY size-mediumCmd.label "Medio">
-<!ENTITY size-mediumCmd.accesskey "M">
+<!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "Grande">
 <!ENTITY size-largeCmd.accesskey "G">
 <!ENTITY size-extraLargeCmd.label "Extragrande">

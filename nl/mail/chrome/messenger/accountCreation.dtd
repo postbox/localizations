@@ -4,22 +4,22 @@
 
 <!ENTITY autoconfigWizard.title          "E-mailaccountset-up">
 <!ENTITY name.label                      "Uw naam:">
-<!ENTITY name.accesskey                  "U">
-<!ENTITY name.placeholder                "Voornaam Achternaam">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.placeholder                  "Voornaam en achternaam">
 <!ENTITY name.text                       "Uw naam, zoals getoond aan anderen">
 <!ENTITY email.label                     "E-mailadres:">
-<!ENTITY email.accesskey                 "E">
-<!ENTITY email.placeholder               "email@example.com">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.placeholder                 "email@voorbeeld.nl">
 <!ENTITY password.label                  "Wachtwoord:">
 <!ENTITY password.accesskey              "W">
-<!ENTITY password.placeholder            "Wachtwoord">
+<!ENTITY password.placeholder              "Wachtwoord">
 <!ENTITY password.text                   "Optioneel, wordt alleen gebruikt om de gebruikersnaam te valideren">
 <!ENTITY rememberPassword.label          "Wachtwoord onthouden">
 <!ENTITY rememberPassword.accesskey      "o">
 <!ENTITY displayname.accesskey           "D">
-<!ENTITY displayname.placeholder         "Work, Personal, etc.">
+<!ENTITY displayname.placeholder         "Werk, Persoonlijk, etc.">
 
-<!ENTITY accountInformation.label        "Account Information">
+<!ENTITY accountInformation.label        "Accountinformatie">
 <!ENTITY imapLong.label                  "IMAP (externe mappen)">
 <!ENTITY pop3Long.label                  "POP3 (e-mail op uw computer bewaren)">
 
@@ -44,16 +44,16 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!ENTITY manualSetup.label               "Manual Setup…">
-<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY manualSetup.label               "Handmatige configuratie…">
+<!ENTITY manualSetup.accesskey           "H">
 <!ENTITY advancedSetup.label             "Uitgebreide configuratie">
 <!ENTITY advancedSetup.accesskey         "c">
 <!ENTITY cancel.label                    "Annuleren">
 <!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Doorgaan">
 <!ENTITY continue.accesskey              "D">
-<!ENTITY startOver.label                 "Start over">
-<!ENTITY startOver.accesskey             "o">
+<!ENTITY startOver.label                 "Opnieuw beginnen">
+<!ENTITY startOver.accesskey             "b">
 <!ENTITY stop.label                      "Stoppen">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
@@ -67,10 +67,10 @@
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
      taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Re-test Configuration">
-<!ENTITY retest.accesskey                "R">
-<!ENTITY edit.label                      "Edit Settings">
-<!ENTITY edit.accesskey                  "E">
+<!ENTITY retest.label                    "Configuratie hertesten">
+<!ENTITY retest.accesskey                "f">
+<!ENTITY edit.label                      "Bewerken">
+<!ENTITY edit.accesskey                  "B">
 
 <!ENTITY rememberPassword.label          "Wachtwoord onthouden">
 <!ENTITY rememberPassword.accesskey      "o">
@@ -96,28 +96,28 @@
 <!ENTITY changeSettings.label            "Instellingen wijzigen">
 <!ENTITY changeSettings.accesskey        "I">
 
-<!ENTITY pb.contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections.">
+<!ENTITY pb.contactYourProvider.description "&brandShortName; stelt u in staat om uw e-mail op te halen met de gegeven configuratie. U moet echter contact opnemen met uw beheerder of e-mail provider met betrekking tot deze foutieve verbindingen.">
 
 <!ENTITY insecureServer.tooltip.title    "Waarschuwing! Dit is een niet-beveiligde server.">
 <!ENTITY insecureServer.tooltip.details  "Klik op de cirkel voor meer details.">
 
-<!ENTITY insecureUnencrypted.description "Uw e-mail en authenticatie worden onversleuteld verzonden, dus uw wachtwoord (en uw bericht) kunnen gemakkelijk door anderen worden gelezen. &brandShortName; geeft u toegang tot uw e-mail, maar u zou uw e-mailprovider kunnen vragen de server met een beveiligde verbinding te configureren.">
+<!ENTITY insecureUnencrypted.description "Uw e-mail en authenticatie worden niet-versleuteld verzonden, dus uw wachtwoord (en uw bericht) kunnen gemakkelijk worden gelezen door anderen. &brandShortName; geeft u toegang tot uw e-mail, maar u zou uw e-mailprovider kunnen vragen de server te configureren met een beveiligde verbinding.">
 <!ENTITY insecureSelfSigned.description  "De server gebruikt een certificaat dat we niet kunnen vertrouwen, dus we weten niet zeker dat niemand het verkeer tussen &brandShortName; en uw server onderschept. &brandShortName; geeft u toegang tot uw e-mail, maar u zou uw e-mailprovider kunnen vragen de server te configureren met een vertrouwd certificaat.">
 <!ENTITY secureServer.description        "Gefeliciteerd! Dit is een beveiligde server.">
 
-<!ENTITY pb.identity.title "Add Account">
-<!ENTITY pb.name.label    "Your Name:">
-<!ENTITY pb.email.label   "Email Address:">
-<!ENTITY pb.password.label "Password:">
-<!ENTITY pb.displayname.label "Description:">
-<!ENTITY pb.serverinfo.title "Server Information">
-<!ENTITY pb.username.label   "User Name:">
-<!ENTITY pb.incoming.label "Incoming Server">
-<!ENTITY pb.servername.label "Server Name:">
-<!ENTITY pb.servertype.label "Type:">
-<!ENTITY pb.serverport.label "Port:">
-<!ENTITY pb.serversecurity.label "Security:">
-<!ENTITY pb.outgoing.label "Outgoing Server">
+<!ENTITY pb.identity.title "Identiteit">
+<!ENTITY pb.name.label    "Uw Naam">
+<!ENTITY pb.email.label   "E-mailadres">
+<!ENTITY pb.password.label "Wachtwoord">
+<!ENTITY pb.displayname.label "Beschrijving:">
+<!ENTITY pb.serverinfo.title "Serverinformatie">
+<!ENTITY pb.username.label   "Gebruikersnaam">
+<!ENTITY pb.incoming.label "Inkomende Server">
+<!ENTITY pb.servername.label "Servernaam">
+<!ENTITY pb.servertype.label "Type">
+<!ENTITY pb.serverport.label "Poort">
+<!ENTITY pb.serversecurity.label "Beveiliging">
+<!ENTITY pb.outgoing.label "Uitgaande Server">
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      creation wizard, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
@@ -137,9 +137,9 @@
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 63ch;">
 
-<!ENTITY pbProfileInformation.label "Account Information">
-<!ENTITY pbManualSetup.label "Manual Setup">
+<!ENTITY pbProfileInformation.label "Profiel Informatie">
+<!ENTITY pbManualSetup.label "Handmatig Instellen">
 
 <!-- warnings on email address -->
-<!ENTITY important.label "IMPORTANT:">
-<!ENTITY learnMore.label "Learn more...">
+<!ENTITY important.label "BELANGRIJK:">
+<!ENTITY learnMore.label "Lees meer...">

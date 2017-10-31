@@ -2,60 +2,60 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title "Impostazione account di posta">
+<!ENTITY autoconfigWizard.title          "Impostazione account e-mail">
 <!ENTITY name.label "Nome:">
-<!ENTITY name.accesskey "n">
-<!ENTITY name.placeholder "Nome Cognome">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.placeholder                  "Nome e cognome">
 <!ENTITY name.text "Nome da visualizzare">
 <!ENTITY email.label "Indirizzo email:">
-<!ENTITY email.accesskey "I">
-<!ENTITY email.placeholder "email@example.com">
-<!ENTITY password.label "Password:">
-<!ENTITY password.accesskey "P">
-<!ENTITY password.placeholder "Password">
-<!ENTITY password.text "Opzionale, verrà utilizzata solo per validare il nome utente">
-<!ENTITY rememberPassword.label "Ricorda password">
-<!ENTITY rememberPassword.accesskey "w">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.placeholder                 "email@example.com">
+<!ENTITY password.label                  "Password:">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.placeholder              "Password">
+<!ENTITY password.text                   "Facoltativa, sarà utilizzata solo per convalidare il nome utente">
+<!ENTITY rememberPassword.label          "Ricorda password">
+<!ENTITY rememberPassword.accesskey      "R">
 <!ENTITY displayname.accesskey           "D">
-<!ENTITY displayname.placeholder         "Work, Personal, etc.">
+<!ENTITY displayname.placeholder         "Lavoro, Personale, ecc.">
 
-<!ENTITY accountInformation.label        "Account Information">
+<!ENTITY accountInformation.label        "Informazioni account">
 <!ENTITY imapLong.label "IMAP (cartelle remote)">
 <!ENTITY pop3Long.label "POP3 (tenere la posta sul proprio computer)">
 
 <!ENTITY incoming.label "In entrata:">
-<!ENTITY outgoing.label "In uscita:">
+<!ENTITY outgoing.label                  "In uscita:">
 <!ENTITY username.label "Nome utente:">
 <!ENTITY hostname.label "Nome server">
 <!ENTITY port.label "Porta">
 <!ENTITY ssl.label "SSL">
 <!ENTITY auth.label "Autenticazione">
-<!ENTITY imap.label "IMAP">
+<!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label "POP3">
-<!ENTITY smtp.label "SMTP">
+<!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label "Rilevamento automatico">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
-<!ENTITY noEncryption.label "Nessuna">
-<!ENTITY starttls.label "STARTTLS">
-<!ENTITY sslTls.label "SSL/TLS">
+<!ENTITY noEncryption.label              "Nessuno">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label "IMAP">
+<!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label "SMTP">
+<!ENTITY smtp.label                      "SMTP">
 
-<!ENTITY manualSetup.label               "Manual Setup…">
-<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY manualSetup.label               "Impostazione manuale…">
+<!ENTITY manualSetup.accesskey           "z">
 <!ENTITY advancedSetup.label "Configurazione avanzata">
 <!ENTITY advancedSetup.accesskey "C">
-<!ENTITY cancel.label "Annulla">
-<!ENTITY cancel.accesskey "A">
-<!ENTITY continue.label "Continua">
-<!ENTITY continue.accesskey "C">
-<!ENTITY startOver.label                 "Start over">
+<!ENTITY cancel.label                    "Annulla">
+<!ENTITY cancel.accesskey                "A">
+<!ENTITY continue.label                  "Continua">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY startOver.label                 "Ricomincia">
 <!ENTITY startOver.accesskey             "o">
-<!ENTITY stop.label "Interrompi">
-<!ENTITY stop.accesskey "e">
+<!ENTITY stop.label                      "Interrompi">
+<!ENTITY stop.accesskey                  "e">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
@@ -67,23 +67,23 @@
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
      taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Re-test Configuration">
-<!ENTITY retest.accesskey                "R">
-<!ENTITY edit.label                      "Edit Settings">
-<!ENTITY edit.accesskey                  "E">
+<!ENTITY retest.label                    "Verifica di nuovo la configurazione">
+<!ENTITY retest.accesskey                "V">
+<!ENTITY edit.label                      "Modifica">
+<!ENTITY edit.accesskey                  "M">
 
-<!ENTITY rememberPassword.label "Ricorda password">
-<!ENTITY rememberPassword.accesskey "w">
+<!ENTITY rememberPassword.label          "Ricorda password">
+<!ENTITY rememberPassword.accesskey      "R">
 
-<!ENTITY warning.label "Attenzione!">
-<!ENTITY incomingSettings.label "Impostazioni in entrata:">
-<!ENTITY outgoingSettings.label "Impostazioni in uscita:">
-<!ENTITY technicaldetails.label "Dettagli tecnici">
+<!ENTITY warning.label                   "Attenzione!">
+<!ENTITY incomingSettings.label          "Impostazioni in entrata:">
+<!ENTITY outgoingSettings.label          "Impostazioni in uscita:">
+<!ENTITY technicaldetails.label          "Dettagli tecnici">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label "Sono consapevole dei rischi.">
-<!ENTITY confirmWarning.accesskey "o">
+<!ENTITY confirmWarning.label            "Sono consapevole dei rischi.">
+<!ENTITY confirmWarning.accesskey        "o">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
@@ -93,31 +93,31 @@
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label "Cambia impostazioni">
-<!ENTITY changeSettings.accesskey "M">
+<!ENTITY changeSettings.label            "Cambia impostazioni">
+<!ENTITY changeSettings.accesskey        "m">
 
-<!ENTITY pb.contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections.">
+<!ENTITY pb.contactYourProvider.description "&brandShortName; può consentirti di collegarti alla tua e-mail utilizzando le configurazioni fornite. Tuttavia, dovresti contattare il tuo amministratore di sistema o il tuo fornitore di servizi e-mail in merito a queste connessioni non corrette.">
 
-<!ENTITY insecureServer.tooltip.title "Attenzione, questo è un server non sicuro.">
-<!ENTITY insecureServer.tooltip.details "Clic sul cerchio per maggiori informazioni.">
+<!ENTITY insecureServer.tooltip.title    "Attenzione, questo è un server non sicuro.">
+<!ENTITY insecureServer.tooltip.details  "Clicca sul cerchio per maggiori informazioni.">
 
-<!ENTITY insecureUnencrypted.description "La posta e le informazioni di autenticazione vengono trasmesse senza cifratura, pertanto le password e i messaggi possono essere facilmente letti da altre persone. &brandShortName; consentirà la lettura della posta ma si consiglia di contattare il fornitore di servizi internet per configurare il server con un collegamento sicuro.">
-<!ENTITY insecureSelfSigned.description "Non è possibile verificare il certificato utilizzato dal server, pertanto non si può escludere che qualcuno stia intercettando il traffico tra &brandShortName; e il server. &brandShortName; consentirà la lettura della posta ma si consiglia di convincere il fornitore di servizi internet a configurare il server con un certificato sicuro.">
-<!ENTITY secureServer.description "Complimenti, questo è un server sicuro.">
+<!ENTITY insecureUnencrypted.description "La tua e-mail e le informazioni di autenticazione sono inviate senza crittografia, pertanto la tua password e il tuo messaggio potrebbero essere facilmente letti da altri utenti. &brandShortName; ti consentirà di collegarti alla tua e-mail ma dovresti contattare il tuo fornitore di servizi e-mail per configurare il server con un certificato affidabile.">
+<!ENTITY insecureSelfSigned.description  "Il server utilizza un certificato non affidabile, pertanto non possiamo essere sicuri che qualcuno non stia intercettando il traffico tra &brandShortName; e il server. &brandShortName; ti consentirà di collegarti alla tua e-mail, ma dovresti assolutamente richiedere al tuo fornitore di servizi e-mail di configurare il server con un certificato affidabile.">
+<!ENTITY secureServer.description        "Complimenti, questo è un server sicuro.">
 
-<!ENTITY pb.identity.title "Add Account">
-<!ENTITY pb.name.label    "Your Name:">
-<!ENTITY pb.email.label   "Email Address:">
-<!ENTITY pb.password.label "Password:">
+<!ENTITY pb.identity.title "Identità">
+<!ENTITY pb.name.label    "Il tuo nome">
+<!ENTITY pb.email.label   "Indirizzo e-mail">
+<!ENTITY pb.password.label "Password">
 <!ENTITY pb.displayname.label "Description:">
-<!ENTITY pb.serverinfo.title "Server Information">
-<!ENTITY pb.username.label   "User Name:">
-<!ENTITY pb.incoming.label "Incoming Server">
-<!ENTITY pb.servername.label "Server Name:">
-<!ENTITY pb.servertype.label "Type:">
-<!ENTITY pb.serverport.label "Port:">
-<!ENTITY pb.serversecurity.label "Security:">
-<!ENTITY pb.outgoing.label "Outgoing Server">
+<!ENTITY pb.serverinfo.title "Informazioni server">
+<!ENTITY pb.username.label   "Nome utente">
+<!ENTITY pb.incoming.label "Server in entrata">
+<!ENTITY pb.servername.label "Nome server">
+<!ENTITY pb.servertype.label "Tipo">
+<!ENTITY pb.serverport.label "Porta">
+<!ENTITY pb.serversecurity.label "Sicurezza">
+<!ENTITY pb.outgoing.label "Server in uscita">
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      creation wizard, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
@@ -135,11 +135,11 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY pb.macEmailWizard.size "width: 63ch;">
+<!ENTITY pb.macEmailWizard.size "width: 75ch;">
 
-<!ENTITY pbProfileInformation.label "Account Information">
-<!ENTITY pbManualSetup.label "Manual Setup">
+<!ENTITY pbProfileInformation.label "Informazioni profilo">
+<!ENTITY pbManualSetup.label "Impostazioni manuali">
 
 <!-- warnings on email address -->
-<!ENTITY important.label "IMPORTANT:">
-<!ENTITY learnMore.label "Learn more...">
+<!ENTITY important.label "IMPORTANTE:">
+<!ENTITY learnMore.label "Scopri di più...">

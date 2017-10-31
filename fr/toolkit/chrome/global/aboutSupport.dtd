@@ -8,7 +8,7 @@
 <!ENTITY aboutSupport.pageSubtitle "
   Cette page contient des informations techniques qui pourraient être utiles quand vous essayez
   de résoudre un problème. Si vous cherchez des réponses à des questions courantes
-  sur &brandShortName;, veuillez consulter notre <a id='supportLink'>site web d’assistance</a>.
+  sur &brandShortName;, veuillez consulter notre <a id='supportLink'>support website</a>.
 ">
 
 <!ENTITY aboutSupport.crashes.title "Rapports de plantage">
@@ -34,7 +34,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentHomepage "Page d’accueil">
 <!ENTITY aboutSupport.experimentBranch "Branche">
 
-<!ENTITY aboutSupport.appBasicsTitle "Paramètres de base de l’application">
+<!ENTITY aboutSupport.appBasicsTitle "Paramètres de base de l'application">
 <!ENTITY aboutSupport.appBasicsName "Nom">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
 <!ENTITY aboutSupport.appBasicsBuildID "Identifiant de compilation">
@@ -82,7 +82,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Préférences de user.js">
-<!ENTITY aboutSupport.userJSDescription "Votre dossier de profil possède un <a id='prefs-user-js-link'>fichier user.js</a> contenant les préférences qui n’ont pas été créées par &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "Votre dossier de profil possède un <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Préférences verrouillées importantes">
 <!ENTITY aboutSupport.lockedPrefsName "Nom">
@@ -103,8 +103,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versions des bibliothèques">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Historique d’installation">
-<!ENTITY aboutSupport.updateHistoryTitle "Mise à jour de l’historique">
+<!ENTITY aboutSupport.installationHistoryTitle "Historique d'installation">
+<!ENTITY aboutSupport.updateHistoryTitle "Mise à jour de l'historique">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copier le texte dans le presse-papiers">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copier les informations brutes dans le presse-papiers">

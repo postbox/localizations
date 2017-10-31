@@ -23,9 +23,9 @@
 <!ENTITY secondsLabel.label            "seconds">
 <!ENTITY rememberLastMsg.label         "Remember the last selected message">
 <!ENTITY rememberLastMsg.accesskey     "b">
-<!ENTITY openMsgIn1.label              "Open messages in:">
-<!ENTITY openMsgInNewTab.label          "a new tab">
-<!ENTITY openMsgInNewTab.accesskey      "a">
+<!ENTITY openMsgIn1.label              "New messages should be opened in:">
+<!ENTITY openMsgInNewTab.label          "A new tab">
+<!ENTITY openMsgInNewTab.accesskey      "t">
 <!ENTITY openMsgInNewWindow.label       "a new window">
 <!ENTITY openMsgInNewWindow.accesskey   "i">
 <!ENTITY openMsgInExistingWindow.label  "an existing window">
@@ -129,10 +129,10 @@
 <!ENTITY viewOCSP.label                 "Verification">
 <!ENTITY viewOCSP.accesskey             "f">
 <!ENTITY viewSecurityDevices.label      "Security Devices">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY viewSecurityDevices.accesskey  "u">
 
 <!-- Web Services -->
-<!ENTITY webservicesInfo.label          "Configure the Web services used within &brandShortName;.">
+<!ENTITY webservicesInfo.label          "Configure the Web services used within Postbox.">
 
 <!ENTITY textStartUp   "When starting up:">
 <!ENTITY radioRememberPrevState "Remember previous online state">
@@ -153,13 +153,13 @@
 <!ENTITY radioNotDownload "No">
 <!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload "Ask me">
-<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY radioAskDownload.accesskey "A">
 
 <!ENTITY useGmailShortcuts.label "Use Gmail keyboard shortcuts">
 <!ENTITY useGmailShortcuts.accesskey "l">
 
 <!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
-<!ENTITY pbUseGravatar.accesskey "G">
+<!ENTITY pbUseGravatar.accesskey "g">
 
 <!ENTITY pbUseGoogleCalendar.label "Use Google Calendar for detected dates.">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">

@@ -15,6 +15,6 @@
 <!ENTITY accept.label               "Map aanmaken">
 <!ENTITY accept.accesskey           "a">
 
-<!ENTITY pbNewFolder.desc "Enter a name for the new folder and select a location.">
-<!ENTITY pbNewFolderLocation.label "Location:">
+<!ENTITY pbNewFolder.desc "Geef een naam op voor de nieuwe map en kies een locatie.">
+<!ENTITY pbNewFolderLocation.label "Locatie:">
 <!ENTITY pbNewFolderLocatione.accesskey "L">

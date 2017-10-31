@@ -13,12 +13,12 @@
 <!ENTITY userName.label "Nome de usuário:">
 <!ENTITY userName.accesskey "u">
 <!ENTITY connectionSecurity.label "Segurança da conexão:">
-<!ENTITY connectionSecurity.accesskey "e">
+<!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Nenhuma">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, se disponível">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Servidor de envio (SMTP)">
 <!ENTITY serverPortDefault.label "Padrão:">
-<!ENTITY authMethod.label "Modo de autenticação:">
-<!ENTITY authMethod.accesskey "o">
+<!ENTITY authMethod.label "Autenticação:">
+<!ENTITY authMethod.accesskey "i">

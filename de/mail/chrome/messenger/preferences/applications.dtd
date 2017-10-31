@@ -11,7 +11,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder          "Suchen">
+<!ENTITY  filter.placeholder            "Suchen">
 
 <!ENTITY saveTo.label                 "Dateien speichern unter">
 <!ENTITY saveTo.accesskey             "s">
@@ -22,17 +22,17 @@
 <!ENTITY chooseFolderMac.label        "Auswählen…">
 <!ENTITY chooseFolderMac.accesskey    "w">
 
-<!ENTITY attachments.incoming.label   "Empfang">
-<!ENTITY attachments.outgoing.label   "Versand">
+<!ENTITY attachments.incoming.label   "Eingehend">
+<!ENTITY attachments.outgoing.label   "Ausgehend">
 
 <!ENTITY addCloudFileAccount1.label       "Hinzufügen…">
 <!ENTITY addCloudFileAccount1.accesskey   "H">
-<!ENTITY addCloudFileAccount.description  "Einen Filelink-Speicherdienst hinzufügen">
+<!ENTITY addCloudFileAccount.description  "Neuen Online-Speicherdienst hinzufügen">
 <!ENTITY removeCloudFileAccount.label     "Entfernen">
-<!ENTITY removeCloudFileAccount.accesskey "E">
-<!ENTITY authRequired.description         "Für die Anzeige der Einstellungen dieses Speicherdienstes wird Ihre Autorisierung benötigt.">
+<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY authRequired.description         "Ihre Authentifizierung wird benötigt, um die Einstellungen für diesen Speicherdienst zu sehen.">
 <!ENTITY authRequired.button.label        "Autorisieren">
-<!ENTITY authRequired.button.accesskey    "A">
+<!ENTITY authRequired.button.accesskey    "U">
 
-<!ENTITY enableCloudFileAccountOffer.label "Hochladen für Dateien größer als">
-<!ENTITY enableCloudFileAccountOffer.mb "MB anbieten">
+<!ENTITY enableCloudFileAccountOffer.label "Bietet Dateifreigaben für Dateien größer als">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

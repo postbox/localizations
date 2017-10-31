@@ -5,19 +5,19 @@
 <!-- Title -->
 <!ENTITY mailListWindowAdd.title "Новый список рассылки">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label "Добавить в:">
+<!ENTITY addToAddressBook.label         "Добавить в:">
 
-<!ENTITY ListName.label "Имя списка:">
-<!ENTITY ListNickName.label "Псевдоним списка:">
-<!ENTITY ListDescription.label "Описание:">
+<!ENTITY ListName.label                 "Название списка:">
+<!ENTITY ListNickName.label             "Псевдоним списка:">
+<!ENTITY ListDescription.label          "Описание:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label "Введите адреса, чтобы добавить их в список рассылки:">
-<!ENTITY UpButton.label "Вверх">
-<!ENTITY DownButton.label "Вниз">
+<!ENTITY AddressTitle.label             "Введите адреса, чтобы добавить их в список рассылки:">
+<!ENTITY UpButton.label                 "Вверх">
+<!ENTITY DownButton.label               "Вниз">
 
 <!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey "о">
-<!ENTITY ListName.accesskey "м">
-<!ENTITY ListNickName.accesskey "е">
-<!ENTITY ListDescription.accesskey "и">
+<!ENTITY addToAddressBook.accesskey     "A">
+<!ENTITY ListName.accesskey             "L">
+<!ENTITY ListNickName.accesskey         "N">
+<!ENTITY ListDescription.accesskey      "e">
 

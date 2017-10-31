@@ -7,14 +7,14 @@
 <!ENTITY name.label                 "Nome:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Criar na pasta:">
-<!ENTITY description.accesskey      "r">
-<!ENTITY folderRestriction1.label   "Este servidor restringe pastas a dois tipos especiais.">
+<!ENTITY description.accesskey      "C">
+<!ENTITY folderRestriction1.label   "Este servidor tem restrições a pastas de dois tipos especiais.">
 <!ENTITY folderRestriction2.label   "Permitir que sua nova pasta contenha:">
 <!ENTITY foldersOnly.label          "Somente pastas">
 <!ENTITY messagesOnly.label         "Somente mensagens">
 <!ENTITY accept.label               "Criar pasta">
 <!ENTITY accept.accesskey           "C">
 
-<!ENTITY pbNewFolder.desc "Enter a name for the new folder and select a location.">
-<!ENTITY pbNewFolderLocation.label "Location:">
+<!ENTITY pbNewFolder.desc "Digite um nome para a nova pasta e selecione um caminho:">
+<!ENTITY pbNewFolderLocation.label "Caminho:">
 <!ENTITY pbNewFolderLocatione.accesskey "L">

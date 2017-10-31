@@ -39,7 +39,7 @@
 <!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Armeniska">
 <!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Enhetliga kanadensiska stavelser">
+<!ENTITY  font.langGroup.canadian                 "Enhetlig kanadensisk stavelseskrift">
 <!ENTITY  font.langGroup.ethiopic                 "Etiopiska">
 <!ENTITY  font.langGroup.georgian                 "Georgiska">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
@@ -63,11 +63,11 @@
 
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Teckensnittsval">
-<!ENTITY  useFixedWidthForPlainText.label         "Använd teckensnitt med fast bredd för meddelanden med vanlig text">
-<!ENTITY  fixedWidth.accesskey                    "A">
+<!ENTITY  useFixedWidthForPlainText.label         "Använd teckensnitt med fast bredd för meddelanden i oformaterad text">
+<!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Låt meddelanden använda andra teckensnitt">
 <!ENTITY  useDocumentFonts.accesskey              "L">
 
 <!-- Language settings -->
-<!ENTITY viewDefaultCharsetList1.label     "Character encoding:">
+<!ENTITY viewDefaultCharsetList1.label     "Teckenkodning:">
 <!ENTITY viewDefaultCharsetList1.accesskey  "C">

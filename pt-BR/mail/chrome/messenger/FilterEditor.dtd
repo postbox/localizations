@@ -16,10 +16,10 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Altíssima">
 
-<!ENTITY contextDesc.label "Aplicar filtro ao:">
+<!ENTITY contextDesc.label "Aplicar filtro quando:">
 <!ENTITY contextIncomingMail.label "Ao receber novas mensagens:">
 <!ENTITY contextIncomingMail.accesskey "g">
-<!ENTITY contextManual.label "Aplicar manualmente">
+<!ENTITY contextManual.label "Executar manualmente">
 <!ENTITY contextManual.accesskey "A">
 <!ENTITY contextBeforeCls.label "Filtrar antes de aplicar o Antispam">
 <!ENTITY contextAfterCls.label "Filtrar após aplicar o Antispam">
@@ -34,7 +34,7 @@
 <!ENTITY filterActionOrderWarning.label "Observação: os filtros serão aplicados em uma ordem diferente.">
 <!ENTITY filterActionOrder.label "Ver ordem de execução">
 
-<!ENTITY globalFilterChekbox.label "This is a global filter">
+<!ENTITY globalFilterChekbox.label "Este é um filtro global">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Mover para">
@@ -44,11 +44,11 @@
 <!ENTITY markMessageRead.label "Marcar como lida">
 <!ENTITY markMessageUnread.label "Marcar como não lida">
 <!ENTITY markMessageStarred.label "Marcar com estrela">
-<!ENTITY markMessagePending.label "Mark as Pending">
-<!ENTITY markMessageAs.label "Mark Message as">
+<!ENTITY markMessagePending.label "Marcar como pendente">
+<!ENTITY markMessageAs.label "Marcar mensagem como">
 <!ENTITY setPriority.label "Definir prioridade como">
 <!ENTITY addTag.label "Aplicar tag na mensagem">
-<!ENTITY removeTag.label "Remove Topic">
+<!ENTITY removeTag.label "Remover tópico">
 <!ENTITY setJunkScore.label "Definir status de spam para">
 <!ENTITY deleteMessage.label "Excluir">
 <!ENTITY deleteFromPOP.label "Excluir do servidor POP">
@@ -57,22 +57,22 @@
 <!ENTITY ignoreSubthread.label "Ignorar subtópico">
 <!ENTITY watchThread.label "Monitorar tópico">
 <!ENTITY stopExecution.label "Interromper a aplicação do filtro">
-<!ENTITY launchScript.label "Run AppleScript">
+<!ENTITY launchScript.label "Executar AppleScript">
 
-<!ENTITY playSound.label "Play Sound">
-<!ENTITY noSoundSelected.label "Select a Sound">
-<!ENTITY systemAlertSound.label "System Alert Sound">
+<!ENTITY playSound.label "Executar som">
+<!ENTITY noSoundSelected.label "Escolher um som">
+<!ENTITY systemAlertSound.label "Som de alerta do sistema">
 
-<!ENTITY noScriptsInstalled.label "No Scripts installed">
-<!ENTITY openInFinder.label "Open in Finder">
-<!ENTITY noScriptSelected.label "Select an AppleScript">
-<!ENTITY readStatus.label "Read">
-<!ENTITY reminderStatus.label "Reminder">
-<!ENTITY pendingStatus.label "Pending">
-<!ENTITY unreadStatus.label "Unread">
-<!ENTITY notReminderStatus.label "Not Reminder">
-<!ENTITY notPendingStatus.label "Not Pending">
-<!ENTITY quickPost.label "Quick Post">
+<!ENTITY noScriptsInstalled.label "Nenhum script instalado">
+<!ENTITY openInFinder.label "Abrir no Finder">
+<!ENTITY noScriptSelected.label "Selecionar um AppleScript">
+<!ENTITY readStatus.label "Lido">
+<!ENTITY reminderStatus.label "Lembrete">
+<!ENTITY pendingStatus.label "Pendente">
+<!ENTITY unreadStatus.label "Não lido">
+<!ENTITY notReminderStatus.label "Não é lembrete">
+<!ENTITY notPendingStatus.label "Não está pendente">
+<!ENTITY quickPost.label "Publicação rápida">
 
 <!ENTITY addAction.tooltip "Adicionar uma nova ação">
 <!ENTITY removeAction.tooltip "Remover esta ação">

@@ -23,7 +23,7 @@
 <!ENTITY openInFolder.label          "Open in Folder">
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Save as Search Folder">
-<!ENTITY saveAsVFButton.accesskey    "a">
+<!ENTITY saveAsVFButton.accesskey    "v">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Search in:">

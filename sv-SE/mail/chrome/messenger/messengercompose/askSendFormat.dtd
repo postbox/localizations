@@ -11,9 +11,9 @@
 
 <!ENTITY plainTextAndHtml.label "Skicka både som oformaterad text och kodat som HTML">
 <!ENTITY plainTextAndHtml.accesskey "b">
-<!ENTITY plainTextOnly.label "Skicka bara som oformaterad text">
+<!ENTITY plainTextOnly.label "Skicka endast som oformaterad text">
 <!ENTITY plainTextOnly.accesskey "o">
-<!ENTITY htmlOnly.label "Skicka bara kodat som HTML">
+<!ENTITY htmlOnly.label "Skicka endast kodat som HTML">
 <!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "Skicka">

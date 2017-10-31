@@ -20,7 +20,7 @@
 <!ENTITY findReplaceCmd.label "Localizar e substituir…">
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao digitar">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
-<!ENTITY checkSpellingCmd2.label "Verificar ortografia…">
+<!ENTITY checkSpellingCmd2.label "Verificar ortografia">
 <!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -71,7 +71,7 @@
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Selecionar o tamanho da fonte">
-<!ENTITY resetToDefaultFontSize.label "Reset to default">
+<!ENTITY resetToDefaultFontSize.label "Restaurar para o padrão">
 <!ENTITY decreaseFontSize.label "Diminuir">
 <!ENTITY decreaseFontSize.accesskey "D">
 <!ENTITY decrementFontSize.key "&lt;">
@@ -98,7 +98,7 @@
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Estilo do texto">
-<!ENTITY fontStyleMenu.accesskey "s">
+<!ENTITY fontStyleMenu.accesskey "E">
 <!ENTITY styleBoldCmd.label "Negrito">
 <!ENTITY styleBoldCmd.accesskey "N">
 <!ENTITY styleBoldCmd.key "b">
@@ -117,7 +117,7 @@
 <!ENTITY styleNonbreakingCmd.label "Não quebrar linha">
 <!ENTITY styleNonbreakingCmd.accesskey "l">
 <!ENTITY styleEm.label "Ênfase">
-<!ENTITY styleEm.accesskey "e">
+<!ENTITY styleEm.accesskey "E">
 <!ENTITY styleStrong.label "Ênfase forte">
 <!ENTITY styleStrong.accesskey "f">
 <!ENTITY styleCite.label "Citação">
@@ -140,7 +140,7 @@
 
 <!ENTITY formatRemoveStyles.key "y">
 <!ENTITY formatRemoveLinks.key "k">
-<!ENTITY formatRemoveNamedAnchors.label "Remover âncoras nomeadas">
+<!ENTITY formatRemoveNamedAnchors.label "Excluir âncoras nomeadas">
 <!ENTITY formatRemoveNamedAnchors.accesskey "n">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
@@ -325,15 +325,15 @@
 <!ENTITY InsertPopupButton.tooltip "Inserir um link, âncora, imagem, linha horizontal ou tabela">
 <!ENTITY alignLeftButton.tooltip "Alinhar texto na margem esquerda">
 <!ENTITY alignCenterButton.tooltip "Centralizar texto">
-<!ENTITY alignRightButton.tooltip "Alinhar texto na margem direita">
+<!ENTITY alignRightButton.tooltip "Alinhar a margem direita">
 <!ENTITY alignJustifyButton.tooltip "Alinhar texto nas margens esquerda e direita">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Selecionar">
 <!ENTITY structSelect.accesskey     "S">
-<!ENTITY structRemoveTag.label      "Remover etiqueta">
-<!ENTITY structRemoveTag.accesskey  "R">
-<!ENTITY structChangeTag.label      "Alterar etiqueta">
+<!ENTITY structRemoveTag.label      "Excluir tag">
+<!ENTITY structRemoveTag.accesskey  "x">
+<!ENTITY structChangeTag.label      "Alterar tag">
 <!ENTITY structChangeTag.accesskey  "A">
 
 <!-- TOC manipulation -->

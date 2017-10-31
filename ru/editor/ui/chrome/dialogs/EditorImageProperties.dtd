@@ -19,7 +19,7 @@
 <!ENTITY title.tooltip "Атрибут «title», отображаемый как всплывающая подсказка">
 <!ENTITY altText.label "Альтернативный текст:">
 <!ENTITY altText.accessKey "л">
-<!ENTITY altTextEditField.tooltip "Введите текст, показываемый на месте изображения">
+<!ENTITY altTextEditField.tooltip "Введите текст, отображаемый на месте изображения">
 <!ENTITY noAltText.label "Не использовать альтернативный текст">
 <!ENTITY noAltText.accessKey "Н">
 
@@ -31,7 +31,7 @@
 <!ENTITY actualSizeRadio.label "Исходный размер">
 <!ENTITY actualSizeRadio.accessKey "И">
 <!ENTITY actualSizeRadio.tooltip "Вернуться к исходным размерам изображения">
-<!ENTITY customSizeRadio.label "Задать размер">
+<!ENTITY customSizeRadio.label "Настроить размер">
 <!ENTITY customSizeRadio.accessKey "З">
 <!ENTITY customSizeRadio.tooltip "Изменить размер изображения так, как это выглядит на странице">
 <!ENTITY heightEditField.label "Высота:">
@@ -43,17 +43,17 @@
 <!ENTITY constrainCheckbox.tooltip "Соблюдать пропорции при изменении размера изображения">
 
 <!-- These controls are in the Image Map box of the expanded area -->
-<!ENTITY imagemapBox.label "Карта изображения">
-<!ENTITY removeImageMapButton.label "Убрать">
+<!ENTITY imagemapBox.label "Гиперкарта">
+<!ENTITY removeImageMapButton.label "Удалить">
 <!ENTITY removeImageMapButton.accessKey "У">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Расположение текста по отношению к изображению">
-<!ENTITY bottomPopup.value "Внизу">
-<!ENTITY topPopup.value "Вверху">
+<!ENTITY bottomPopup.value "Снизу">
+<!ENTITY topPopup.value "Сверху">
 <!ENTITY centerPopup.value "По центру">
-<!ENTITY wrapRightPopup.value "Влево, окружить текстом справа">
-<!ENTITY wrapLeftPopup.value "Вправо, окружить текстом слева">
+<!ENTITY wrapRightPopup.value "Окружить текстом справа">
+<!ENTITY wrapLeftPopup.value "Окружить текстом слева">
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Поля">

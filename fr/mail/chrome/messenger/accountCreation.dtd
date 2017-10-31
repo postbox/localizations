@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Création d’un compte courrier">
+<!ENTITY autoconfigWizard.title          "Création d'un compte de courrier">
 <!ENTITY name.label                      "Votre nom complet :">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Prénom Nom">
+<!ENTITY name.placeholder                  "Prénom et Nom">
 <!ENTITY name.text                       "Votre nom, tel qu’il s’affichera">
 <!ENTITY email.label                     "Adresse électronique :">
-<!ENTITY email.accesskey                 "A">
-<!ENTITY email.placeholder               "adresse@example.com">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.placeholder                 "adresse@exemple.fr">
 <!ENTITY password.label                  "Mot de passe :">
 <!ENTITY password.accesskey              "M">
-<!ENTITY password.placeholder            "Mot de passe">
-<!ENTITY password.text                   "Optionnel, ne sera utilisé que pour valider l’identifiant">
+<!ENTITY password.placeholder              "Mot de passe">
+<!ENTITY password.text                   "Optionnel, ne sera utilisé que pour valider l'identifiant">
 <!ENTITY rememberPassword.label          "Retenir le mot de passe">
 <!ENTITY rememberPassword.accesskey      "s">
 <!ENTITY displayname.accesskey           "D">
-<!ENTITY displayname.placeholder         "Work, Personal, etc.">
+<!ENTITY displayname.placeholder         "Travail, Personnel, etc">
 
-<!ENTITY accountInformation.label        "Account Information">
+<!ENTITY accountInformation.label        "Information de compte">
 <!ENTITY imapLong.label                  "IMAP (dossiers distants)">
 <!ENTITY pop3Long.label                  "POP3 (conserve les courriels sur votre ordinateur)">
 
@@ -44,16 +44,16 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!ENTITY manualSetup.label               "Manual Setup…">
-<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY manualSetup.label               "Création manuelle…">
+<!ENTITY manualSetup.accesskey           "m">
 <!ENTITY advancedSetup.label             "Configuration avancée">
 <!ENTITY advancedSetup.accesskey         "C">
 <!ENTITY cancel.label                    "Annuler">
 <!ENTITY cancel.accesskey                "u">
 <!ENTITY continue.label                  "Continuer">
 <!ENTITY continue.accesskey              "C">
-<!ENTITY startOver.label                 "Start over">
-<!ENTITY startOver.accesskey             "o">
+<!ENTITY startOver.label                 "Recommencer">
+<!ENTITY startOver.accesskey             "R">
 <!ENTITY stop.label                      "Arrêter">
 <!ENTITY stop.accesskey                  "A">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
@@ -67,15 +67,15 @@
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
      taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Re-test Configuration">
+<!ENTITY retest.label                    "Re-tester la configuration">
 <!ENTITY retest.accesskey                "R">
-<!ENTITY edit.label                      "Edit Settings">
-<!ENTITY edit.accesskey                  "E">
+<!ENTITY edit.label                      "Modifier">
+<!ENTITY edit.accesskey                  "M">
 
 <!ENTITY rememberPassword.label          "Retenir le mot de passe">
 <!ENTITY rememberPassword.accesskey      "s">
 
-<!ENTITY warning.label                   "Attention !">
+<!ENTITY warning.label                   "Attention !">
 <!ENTITY incomingSettings.label          "Paramètres du courrier entrant :">
 <!ENTITY outgoingSettings.label          "Paramètres du courrier sortant :">
 <!ENTITY technicaldetails.label          "Détails techniques">
@@ -96,28 +96,28 @@
 <!ENTITY changeSettings.label            "Modifier les paramètres">
 <!ENTITY changeSettings.accesskey        "M">
 
-<!ENTITY pb.contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections.">
+<!ENTITY pb.contactYourProvider.description "&brandShortName; peut vous permettre d'accéder à votre courrier en utilisant les configurations fournies. Toutefois, vous devez contacter votre administrateur ou votre fournisseur de messagerie au sujet de ces connexions irrégulières.">
 
-<!ENTITY insecureServer.tooltip.title    "Attention ! Ce serveur n’est pas sécurisé.">
+<!ENTITY insecureServer.tooltip.title    "Attention ! Ce serveur n'est pas sécurisé.">
 <!ENTITY insecureServer.tooltip.details  "Cliquez sur le cercle pour plus de détails.">
 
-<!ENTITY insecureUnencrypted.description   "Votre courriel et vos identifiants sont envoyés sans chiffrement. Par conséquent, votre mot de passe (et votre message) peuvent facilement être lus par d’autres personnes sur Internet. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec une connexion sécurisée.">
-<!ENTITY insecureSelfSigned.description  "Le serveur utilise un certificat que nous ne pouvons éprouver donc nous ne pouvons pas être sûrs que quelqu’un n’intercepte pas le trafic entre &brandShortName; et votre serveur. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec un certificat éprouvé.">
-<!ENTITY secureServer.description        "Bravo ! Ce serveur est sécurisé.">
+<!ENTITY insecureUnencrypted.description "Votre courriel et vos identifiants sont envoyés sans chiffrement. Par conséquent, votre mot de passe (et votre message) peuvent facilement être lus par d'autres personnes sur Internet. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec une connexion sécurisée.">
+<!ENTITY insecureSelfSigned.description  "Le serveur utilise un certificat que nous ne pouvons éprouver donc nous ne pouvons pas être sûrs que quelqu'un n'intercepte pas le trafic entre &brandShortName; et votre serveur. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec un certificat éprouvé.">
+<!ENTITY secureServer.description        "Bravo ! Ce serveur est sécurisé.">
 
-<!ENTITY pb.identity.title "Add Account">
-<!ENTITY pb.name.label    "Your Name:">
-<!ENTITY pb.email.label   "Email Address:">
-<!ENTITY pb.password.label "Password:">
+<!ENTITY pb.identity.title "Identité">
+<!ENTITY pb.name.label    "Votre nom complet">
+<!ENTITY pb.email.label   "Adresse e-mail">
+<!ENTITY pb.password.label "Mot de passe">
 <!ENTITY pb.displayname.label "Description:">
-<!ENTITY pb.serverinfo.title "Server Information">
-<!ENTITY pb.username.label   "User Name:">
-<!ENTITY pb.incoming.label "Incoming Server">
-<!ENTITY pb.servername.label "Server Name:">
-<!ENTITY pb.servertype.label "Type:">
-<!ENTITY pb.serverport.label "Port:">
-<!ENTITY pb.serversecurity.label "Security:">
-<!ENTITY pb.outgoing.label "Outgoing Server">
+<!ENTITY pb.serverinfo.title "Informations du serveur">
+<!ENTITY pb.username.label   "Nom d'utilisateur">
+<!ENTITY pb.incoming.label "Serveur de Réception">
+<!ENTITY pb.servername.label "Nom du serveur">
+<!ENTITY pb.servertype.label "Type">
+<!ENTITY pb.serverport.label "Port">
+<!ENTITY pb.serversecurity.label "Sécurité">
+<!ENTITY pb.outgoing.label "Serveur sortant">
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      creation wizard, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
@@ -135,11 +135,11 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY pb.macEmailWizard.size "width: 63ch;">
+<!ENTITY pb.macEmailWizard.size "width: 67ch;">
 
-<!ENTITY pbProfileInformation.label "Account Information">
-<!ENTITY pbManualSetup.label "Manual Setup">
+<!ENTITY pbProfileInformation.label "Information du profil">
+<!ENTITY pbManualSetup.label "Configuration manuelle">
 
 <!-- warnings on email address -->
 <!ENTITY important.label "IMPORTANT:">
-<!ENTITY learnMore.label "Learn more...">
+<!ENTITY learnMore.label "En savoir plus...">

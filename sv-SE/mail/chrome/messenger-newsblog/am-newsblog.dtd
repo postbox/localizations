@@ -4,11 +4,11 @@
 
 <!ENTITY accountTitle.label "RSS Settings">
 
-<!ENTITY indexMsgBodies.label "Index message bodies">
+<!ENTITY indexMsgBodies.label "Indexera meddelandeinnehåll">
 <!ENTITY indexMsgBodies.accesskey "I">
 
 <!ENTITY biffStart.label "Sök efter nya artiklar var ">
-<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffStart.accesskey "S">
 <!ENTITY biffEnd.label "minut">
 
 <!ENTITY loginAtStartup.label "Sök efter nya artiklar vid start"> 

@@ -6,4 +6,4 @@
 <!ENTITY markByDateLower.label "Marcar mensajes como leídos desde:">
 <!ENTITY markByDateLower.accesskey "d">
 <!ENTITY markByDateUpper.label "Hasta:">
-<!ENTITY markByDateUpper.accesskey "T">
+<!ENTITY markByDateUpper.accesskey "t">

@@ -4,7 +4,7 @@
 
 <!ENTITY securityTitle.label "S/MIME-Sicherheit">
 <!ENTITY securityTab.label "S/MIME-Sicherheit">
-<!ENTITY securityHeading.label "Um verschlüsselte Nachrichten zu senden und zu empfangen, sollten Sie sowohl ein Zertifikat für Verschlüsselung als auch eines für digitale Unterschrift angeben.">
+<!ENTITY securityHeading.label "Um verschlüsselte Nachrichten zu senden und zu empfangen, sollten Sie sowohl ein Zertifikat für die Verschlüsselung als auch eines für digitale Unterschrift angeben.">
 <!ENTITY encryptionGroupTitle.label "Verschlüsselung">
 <!ENTITY encryptionChoiceLabel.label "Standard-Verschlüsselungseinstellung beim Senden von Nachrichten:">
 <!ENTITY neverEncrypt.label "Nie (keine Verschlüsselung verwenden)">
@@ -25,7 +25,7 @@
 <!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Folgendes Zertifikat verwenden, um Nachrichten digital zu unterschreiben:">
 
-<!ENTITY certificates.label "Zertifikate">
+<!ENTITY certificates.label     "Zertifikate">
 <!ENTITY manageCerts2.label "Zertifikate verwalten…">
 <!ENTITY manageCerts2.accesskey "Z">
 <!ENTITY manageDevices.label "Kryptographie-Module verwalten…">

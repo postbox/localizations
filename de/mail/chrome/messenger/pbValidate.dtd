@@ -1,28 +1,28 @@
 <!ENTITY changeLicenseKey.label "Code">
 <!ENTITY changeName.label "Name">
-<!ENTITY licenseKey.label "Code:">
+<!ENTITY licenseKey.label "Lizenzschlüssel:">
 <!ENTITY name.label "Name:">
-<!ENTITY enterLicense.label "Enter license code now">
-<!ENTITY enterLicenseTitle.label "Enter Postbox license code">
-<!ENTITY enterLicenseInfo.label "Please enter your name and license code below:">
-<!ENTITY invalidLicense.label "Please enter your name and license code exactly as they appear in your license email.">
-<!ENTITY invalidLicenseVersion.label "This license code will not work with this version of Postbox.  Please visit our store to purchase an upgrade.">
-<!ENTITY invalidLicenseInvalid1.label "Please enter a valid license code, or contact us at">
-<!ENTITY invalidLicenseInvalid2.label "Postbox Support">
-<!ENTITY invalidLicenseInvalid3.label "for immediate assistance.">
+<!ENTITY enterLicense.label "Lizenzschlüssel jetzt eingeben">
+<!ENTITY enterLicenseTitle.label "Postbox Lizenz-Code eingeben">
+<!ENTITY enterLicenseInfo.label "Bitte geben Sie den Namen und den Lizenzschlüssel unten ein:">
+<!ENTITY invalidLicense.label "Beinahe fertig... Bitte geben Sie den Namen und den Lizenzschlüssel genau so ein, wie sie der Lizenz-E-Mail erscheinen.">
+<!ENTITY invalidLicenseVersion.label "Dieser Lizenzschlüssel wird mit dieser Postbox-Version nicht funktionieren. Bitte upgraden Sie zur neuesten verfügbaren Version.">
+<!ENTITY invalidLicenseInvalid1.label "Bitte geben Sie eine gültige Seriennummer ein oder kontaktieren Sie uns unter">
+<!ENTITY invalidLicenseInvalid2.label "Postbox Kundendienst">
+<!ENTITY invalidLicenseInvalid3.label "für schnelle Hilfe.">
 
-<!ENTITY changeLicenseTitle.label "Postbox License Code">
-<!ENTITY changeLicenseInfo.label "This copy of Postbox is licensed to:">
+<!ENTITY changeLicenseTitle.label "Postbox Lizenz-Code">
+<!ENTITY changeLicenseInfo.label "Diese Kopie von Postbox ist lizenziert für:">
 
-<!ENTITY licensedThroughMAS.label "This copy is licensed through the Apple Mac App Store.">
+<!ENTITY licensedThroughMAS.label "Diese Software ist lizenziert über den Apple Mac App Store.">
 
-<!ENTITY licenseConfirmed.label "License code confirmed!">
+<!ENTITY licenseConfirmed.label "Lizenz-Code bestätigt!">
 
-<!ENTITY thanksTitle.label "Thank you for purchasing Postbox!">
-<!ENTITY helpUs.label "Help us get the word out!">
-<!ENTITY composeFacebook.label "Tell your friends on ">
+<!ENTITY thanksTitle.label "Vielen Dank für den Kauf von Postbox!">
+<!ENTITY helpUs.label "Helfen Sie uns bekannter zu werden!">
+<!ENTITY composeFacebook.label "Informieren Sie Ihre Freunde auf ">
 <!ENTITY helpUsFacebook.label "Facebook">
-<!ENTITY composeTwitter.label "Post an update on ">
+<!ENTITY composeTwitter.label "Aktualisierung veröffentlichen auf ">
 <!ENTITY helpUsTwitter.label "Twitter">
 <!ENTITY okButton.label "OK">
 
@@ -32,17 +32,17 @@
 <!ENTITY firstRow.top "80">
 <!ENTITY secondRow.top "100">
 <!ENTITY thirdRow.top "120">
-<!ENTITY fourthRow.top "140">
+<!ENTITY fourthRow.top "130">
 
 <!ENTITY buttonsMac.top "179">
 <!ENTITY buttons.top "187">
 
-<!ENTITY facebook.top "110">
-<!ENTITY twitter.top "140">
+<!ENTITY facebook.top "100">
+<!ENTITY twitter.top "130">
 <!ENTITY facebook.left "30">
 <!ENTITY facebookLink.left "65">
 
-<!ENTITY validationTitle.style "">
+<!ENTITY validationTitle.style "font-size: 10px;">
 <!ENTITY enterLicenseTitle.style "">
 <!ENTITY enterLicenseInfo.style "">
 <!ENTITY invalidLicense.style "">

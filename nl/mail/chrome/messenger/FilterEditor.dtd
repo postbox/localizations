@@ -16,7 +16,7 @@
 <!ENTITY highPriorityCmd.label "Hoog">
 <!ENTITY highestPriorityCmd.label "Hoogst">
 
-<!ENTITY contextDesc.label "Filter toepassen bij het:">
+<!ENTITY contextDesc.label "Apply filter when:">
 <!ENTITY contextIncomingMail.label "Ophalen van nieuwe e-mail:">
 <!ENTITY contextIncomingMail.accesskey "O">
 <!ENTITY contextManual.label "Handmatig uitvoeren">
@@ -34,45 +34,45 @@
 <!ENTITY filterActionOrderWarning.label "Noot: filteracties worden in een andere volgorde uitgevoerd.">
 <!ENTITY filterActionOrder.label "Uitvoeringsvolgorde bekijken">
 
-<!ENTITY globalFilterChekbox.label "This is a global filter">
+<!ENTITY globalFilterChekbox.label "Dit is een globale filter">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Bericht verplaatsen naar">
 <!ENTITY copyMessage.label "Bericht kopiëren naar">
 <!ENTITY forwardTo.label "Bericht doorsturen naar">
-<!ENTITY replyWithTemplate.label "Antwoorden met sjabloon">
-<!ENTITY markMessageRead.label "Markeren als gelezen">
+<!ENTITY replyWithTemplate.label "Met sjabloon antwoorden">
+<!ENTITY markMessageRead.label "Bericht als gelezen markeren">
 <!ENTITY markMessageUnread.label "Markeren als ongelezen">
 <!ENTITY markMessageStarred.label "Ster toevoegen">
-<!ENTITY markMessagePending.label "Mark as Pending">
-<!ENTITY markMessageAs.label "Mark Message as">
-<!ENTITY setPriority.label "Prioriteit wijzigen naar">
+<!ENTITY markMessagePending.label "Markeer als in behandeling">
+<!ENTITY markMessageAs.label "Markeer Bericht als">
+<!ENTITY setPriority.label "Prioriteit wijzigen in">
 <!ENTITY addTag.label "Bericht labelen">
-<!ENTITY removeTag.label "Remove Topic">
+<!ENTITY removeTag.label "Verwijder Onderwerp">
 <!ENTITY setJunkScore.label "Ongewenstberichtstatus instellen op">
 <!ENTITY deleteMessage.label "Bericht verwijderen">
-<!ENTITY deleteFromPOP.label "Verwijderen van POP-server">
-<!ENTITY fetchFromPOP.label "Ophalen van POP-server">
+<!ENTITY deleteFromPOP.label "Van POP-server verwijderen">
+<!ENTITY fetchFromPOP.label "Van POP-server ophalen">
 <!ENTITY ignoreThread.label "Conversatie negeren">
 <!ENTITY ignoreSubthread.label "Subconversatie negeren">
 <!ENTITY watchThread.label "Conversatie volgen">
 <!ENTITY stopExecution.label "Uitvoeren van filter stoppen">
-<!ENTITY launchScript.label "Run AppleScript">
+<!ENTITY launchScript.label "AppleScript draaien">
 
-<!ENTITY playSound.label "Play Sound">
-<!ENTITY noSoundSelected.label "Select a Sound">
-<!ENTITY systemAlertSound.label "System Alert Sound">
+<!ENTITY playSound.label "Geluid Afspelen">
+<!ENTITY noSoundSelected.label "Selecteer een Geluid">
+<!ENTITY systemAlertSound.label "Systeemmelding Geluid">
 
-<!ENTITY noScriptsInstalled.label "No Scripts installed">
-<!ENTITY openInFinder.label "Open in Finder">
-<!ENTITY noScriptSelected.label "Select an AppleScript">
-<!ENTITY readStatus.label "Read">
-<!ENTITY reminderStatus.label "Reminder">
-<!ENTITY pendingStatus.label "Pending">
-<!ENTITY unreadStatus.label "Unread">
-<!ENTITY notReminderStatus.label "Not Reminder">
-<!ENTITY notPendingStatus.label "Not Pending">
-<!ENTITY quickPost.label "Quick Post">
+<!ENTITY noScriptsInstalled.label "Geen Scripts geïnstalleerd">
+<!ENTITY openInFinder.label "Openen in Finder">
+<!ENTITY noScriptSelected.label "Selecteer een AppleScript">
+<!ENTITY readStatus.label "Lezen">
+<!ENTITY reminderStatus.label "Herinnering">
+<!ENTITY pendingStatus.label "In behandeling">
+<!ENTITY unreadStatus.label "Ongelezen">
+<!ENTITY notReminderStatus.label "Geen Herinnering">
+<!ENTITY notPendingStatus.label "Niet In Behandeling">
+<!ENTITY quickPost.label "Snel Plaatsen">
 
 <!ENTITY addAction.tooltip "Een nieuwe actie toevoegen">
 <!ENTITY removeAction.tooltip "Deze actie verwijderen">

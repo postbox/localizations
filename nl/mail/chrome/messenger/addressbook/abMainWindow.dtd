@@ -24,7 +24,7 @@
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "B">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Mac OS X-adresboek gebruiken">
+<!ENTITY osxAddressBook.label                           "macOS-adresboek gebruiken">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Sluiten">
 <!ENTITY closeCmd.key                                   "W">
@@ -43,7 +43,7 @@
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Bewerken">
-<!ENTITY editMenu.accesskey                             "W">
+<!ENTITY editMenu.accesskey                             "w">
 <!ENTITY undoCmd.label                                  "Ongedaan maken">
 <!ENTITY undoCmd.key                                    "Z">
 <!ENTITY undoCmd.accesskey                              "O">
@@ -52,7 +52,7 @@
 <!ENTITY redoCmd.accesskey                              "u">
 <!ENTITY cutCmd.label                                   "Knippen">
 <!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "N">
+<!ENTITY cutCmd.accesskey                               "n">
 <!ENTITY copyCmd.label                                  "Kopiëren">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "K">
@@ -103,13 +103,13 @@
 <!ENTITY showDirectoryPane.accesskey                    "r">
 <!ENTITY showContactPane2.label                         "Contactvenster">
 <!ENTITY showContactPane2.accesskey                     "C">
-<!ENTITY menu_ShowNameAs.label                          "Naam tonen als">
+<!ENTITY menu_ShowNameAs.label                          "Namen tonen als">
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Voornaam Achternaam">
 <!ENTITY firstLastCmd2.accesskey                        "V">
-<!ENTITY lastFirstCmd.label                             "Achternaam, Voornaam">
+<!ENTITY lastFirstCmd.label                             "Achternaam, voornaam">
 <!ENTITY lastFirstCmd.accesskey                         "A">
 <!ENTITY displayNameCmd.label                           "Weergavenaam">
 <!ENTITY displayNameCmd.accesskey                       "W">
@@ -175,7 +175,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Uitgebreid adres zoeken">
 <!ENTITY quickSearchCmd.key                             "k">
-<!ENTITY searchItem.title                               "Snel zoeken">
+<!ENTITY searchItem.title "Snel zoeken">
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Adresboek">
@@ -215,7 +215,7 @@ because displayed names don't have the comma in between. -->
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "Contact">
+<!ENTITY contact.heading                                "Contactpersoon">
 <!ENTITY home.heading                                   "Thuis">
 <!ENTITY other.heading                                  "Overig">
 <!ENTITY chat.heading                                   "Chat">
@@ -229,11 +229,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Een kaart met dit adres weergeven op het internet">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label                               "">
+<!ENTITY statusText.label "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label                               "Venster">
-<!ENTITY minimizeWindow.label                           "Minimaliseren">
-<!ENTITY minimizeWindow.key                             "m">
-<!ENTITY bringAllToFront.label                          "Alles naar voren brengen">
-<!ENTITY zoomWindow.label                               "Zoom">
+<!ENTITY windowMenu.label "Venster">
+<!ENTITY minimizeWindow.label "Minimaliseren">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Alles naar voren brengen">
+<!ENTITY zoomWindow.label "Zoom">

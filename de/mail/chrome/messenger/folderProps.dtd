@@ -48,7 +48,7 @@
 <!ENTITY offlineNewsgroup.button.accesskey       "h">
 
 <!ENTITY folderProps.name.label                  "Name des Ordners:">
-<!ENTITY folderProps.name.accesskey              "O">
+<!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Adresse:">
 <!ENTITY folderProps.location.accesskey          "A">
 
@@ -58,7 +58,7 @@
 <!ENTITY permissionsDesc.label                   "Sie haben folgende Berechtigungen:">
 <!ENTITY folderType.label                        "Ordnertyp:">
 
-<!ENTITY folderQuotaTab.label                    "Kontingent">
+<!ENTITY folderQuotaTab.label                    "Quota">
 <!ENTITY folderQuotaRoot.label                   "Limit gilt für:">
 <!ENTITY folderQuotaUsage.label                  "Belegung:">
 <!ENTITY folderQuotaStatus.label                 "Status:">

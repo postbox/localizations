@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
+<!ENTITY allowSpotlight.label              "Permitir que o Spotlight pesquise mensagens">
 <!ENTITY allowSpotlight.accesskey          "w">
 
 <!ENTITY location.label                   "Endereço:">
@@ -16,7 +16,7 @@
 
 <!ENTITY newMessagesArrive.label          "Ao chegarem novas mensagens">
 <!ENTITY playSound.label                  "Tocar um som">
-<!ENTITY playSound1.accesskey             "c">
+<!ENTITY playSound1.accesskey              "c">
 <!ENTITY playSoundMac.label               "Tocar o arquivo de som:">
 <!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Mostrar um alerta">
@@ -39,8 +39,8 @@
 
 <!ENTITY defaultSearchEngine.label        "Mecanismo de pesquisa padrão">
 
-<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+<!ENTITY enableNotificationCenter.label   "Usar a Central de Notificações">
 
-<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
+<!ENTITY showProfileManager.label   "Exibir o Gerenciador de Perfis ao iniciar">
 
-<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
+<!ENTITY storeLocation.label              "Armazenar Tópicos, Assinaturas, Respostas e Catálogos de Endereços em:">

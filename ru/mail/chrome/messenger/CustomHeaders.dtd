@@ -4,8 +4,8 @@
 
 <!ENTITY window.title "Поля заголовка">
 <!ENTITY addButton.label "Добавить">
-<!ENTITY addButton.accesskey "Д">
+<!ENTITY addButton.accesskey "A">
 <!ENTITY removeButton.label "Удалить">
-<!ENTITY removeButton.accesskey "У">
+<!ENTITY removeButton.accesskey "R">
 <!ENTITY newMsgHeader.label "Новое поле заголовка:">
-<!ENTITY newMsgHeader.accesskey "Н">
+<!ENTITY newMsgHeader.accesskey "N">

@@ -8,10 +8,10 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300">
 
-<!ENTITY activity.title                   "Aktivitäten">
+<!ENTITY activity.title                  "Aktivitäten">
 
-<!ENTITY cmd.pause.label                  "Pause">
-<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.pause.label                  "Anhalten">
+<!ENTITY cmd.pause.accesskey              "A">
 <!ENTITY cmd.resume.label                 "Fortsetzen">
 <!ENTITY cmd.resume.accesskey             "F">
 <!ENTITY cmd.cancel.label                 "Abbrechen">
@@ -20,7 +20,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.undo.accesskey               "R">
 <!ENTITY cmd.recover.label                "Wiederherstellen">
 <!ENTITY cmd.recover.accesskey            "W">
-<!ENTITY cmd.retry.label                  "Nochmals versuchen">
+<!ENTITY cmd.retry.label                  "Nochmal versuchen">
 <!ENTITY cmd.retry.accesskey              "v">
 <!ENTITY cmd.removeFromList.label         "Aus der Liste entfernen">
 <!ENTITY cmd.removeFromList.accesskey     "e">

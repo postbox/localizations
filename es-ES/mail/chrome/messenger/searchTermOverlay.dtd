@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY matchAll.label "Todas estas reglas">
+<!ENTITY matchAll.label     "Todas estas reglas">
 <!ENTITY matchAll.accesskey "a">
-<!ENTITY matchAny.label "Cualquiera de estas reglas">
+<!ENTITY matchAny.label     "Cualquiera de estas reglas">
 <!ENTITY matchAny.accesskey "q">
-<!ENTITY matchAllMsgs.label "Incluir todos los mensajes">
+<!ENTITY matchAllMsgs.label     "Incluir todos los mensajes">
 <!ENTITY matchAllMsgs.accesskey "m">
 
 <!-- LOCALIZATION NOTE

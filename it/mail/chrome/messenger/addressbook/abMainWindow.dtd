@@ -14,7 +14,7 @@
 <!ENTITY newContact.label                               "Contatto rubrica…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "Lista di distribuzione…">
+<!ENTITY newListCmd.label                               "Mailing list…">
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Rubrica…">
 <!ENTITY newAddressBookCmd.accesskey                    "R">
@@ -24,21 +24,21 @@
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "M">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Utilizza la rubrica di Mac OS X">
+<!ENTITY osxAddressBook.label                           "Utilizza la rubrica di macOS">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Chiudi">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "C">
-<!ENTITY printSetupCmd.label                            "Imposta pagina…">
+<!ENTITY printSetupCmd.label                            "Impostazioni pagina…">
 <!ENTITY printSetupCmd.accesskey                        "p">
 <!ENTITY printPreviewContactCmd.label                   "Stampa anteprima contatto">
 <!ENTITY printPreviewContactCmd.accesskey               "a">
-<!ENTITY printPreviewAddressBook.label                  "Anteprima rubrica">
+<!ENTITY printPreviewAddressBook.label                  "Anteprima di stampa rubrica">
 <!ENTITY printPreviewAddressBook.accesskey              "u">
 <!ENTITY printContactCmd.label                          "Stampa contatto…">
 <!ENTITY printContactCmd.accesskey                      "S">
 <!ENTITY printContactCmd.key                            "S">
-<!ENTITY printAddressBook.label                         "Stampa rubrica indirizzi…">
+<!ENTITY printAddressBook.label                         "Stampa rubrica…">
 <!ENTITY printAddressBook.accesskey                     "m">
 
 <!-- Edit Menu -->
@@ -46,13 +46,13 @@
 <!ENTITY editMenu.accesskey                             "M">
 <!ENTITY undoCmd.label                                  "Annulla">
 <!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "U">
+<!ENTITY undoCmd.accesskey                              "u">
 <!ENTITY redoCmd.label                                  "Ripeti">
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "R">
 <!ENTITY cutCmd.label                                   "Taglia">
 <!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "t">
+<!ENTITY cutCmd.accesskey                               "T">
 <!ENTITY copyCmd.label                                  "Copia">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "C">
@@ -61,7 +61,7 @@
 <!ENTITY pasteCmd.accesskey                             "I">
 <!ENTITY deleteCmd.label                                "Elimina">
 <!ENTITY deleteCmd.accesskey                            "E">
-<!ENTITY deleteAbCmd.label                              "Elimina Rubrica">
+<!ENTITY deleteAbCmd.label                              "Elimina rubrica">
 <!ENTITY deleteContactCmd.label                         "Elimina il contatto">
 <!ENTITY deleteContactsCmd.label                        "Elimina contatti">
 <!ENTITY deleteListCmd.label                            "Rimozione lista">
@@ -70,12 +70,12 @@
 <!ENTITY selectAllCmd.label                             "Seleziona tutto">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "A">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Scambia Nome/Cognome">
+<!ENTITY selectAllCmd.accesskey                         "a">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Inverti Nome/Cognome">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "m">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY hideSwapFnLnUI "vero">
 <!ENTITY propertiesMenu.label                           "Proprietà">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
@@ -90,7 +90,7 @@
 <!ENTITY viewMenu.label                                 "Visualizza">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Barre degli strumenti">
-<!ENTITY viewToolbarsMenu.accesskey                     "T">
+<!ENTITY viewToolbarsMenu.accesskey                     "t">
 <!ENTITY menubarCmd.label                               "Barra del menu">
 <!ENTITY menubarCmd.accesskey                           "B">
 <!ENTITY showAbToolbarCmd.label                         "Strumenti Rubrica">
@@ -104,7 +104,7 @@
 <!ENTITY showContactPane2.label                         "Riquadro contatti">
 <!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "Mostra nomi come">
-<!ENTITY menu_ShowNameAs.accesskey                      "N">
+<!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Nome Cognome">
@@ -112,17 +112,17 @@ because displayed names don't have the comma in between. -->
 <!ENTITY lastFirstCmd.label                             "Cognome, Nome">
 <!ENTITY lastFirstCmd.accesskey                         "C">
 <!ENTITY displayNameCmd.label                           "Nome visualizzato">
-<!ENTITY displayNameCmd.accesskey                       "z">
+<!ENTITY displayNameCmd.accesskey                       "v">
 <!ENTITY sortMenu.label                                 "Ordina per">
 <!ENTITY sortMenu.accesskey                             "O">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Strumenti">
 <!ENTITY tasksMenu.accesskey                            "S">
-<!ENTITY messengerCmd.label                             "Posta e gruppi di discussione">
+<!ENTITY messengerCmd.label                             "E-mail e Newsgroup">
 <!ENTITY messengerCmd.accesskey                         "g">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Cerca indirizzi…">
+<!ENTITY searchAddressesCmd.label                       "Ricerca indirizzi…">
 <!ENTITY searchAddressesCmd.accesskey                   "C">
 <!ENTITY importCmd.label                                "Importa…">
 <!ENTITY importCmd.accesskey                            "I">
@@ -131,13 +131,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.label                          "Opzioni">
 <!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferenze">
-<!ENTITY preferencesCmdUnix.accesskey                   "p">
+<!ENTITY preferencesCmdUnix.accesskey                   "P">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Nuovo contatto">
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Nuova lista">
-<!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY newlistButton.accesskey                        "l">
 <!ENTITY editPropertiesButton.label                     "Modifica">
 <!ENTITY propertiesContext.label                        "Proprietà">
 <!ENTITY propertiesContext.accesskey                    "i">
@@ -163,7 +163,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editAbPropertiesButton.tooltip                 "Modifica le proprietà della rubrica selezionata">
 <!ENTITY editContactPropertiesButton.tooltip            "Modifica il contatto selezionato">
 <!ENTITY editMailingListPropertiesButton.tooltip        "Modifica la lista di distribuzione selezionata">
-<!ENTITY newmsgButton.tooltip                           "Invia un messaggio di posta">
+<!ENTITY newmsgButton.tooltip                           "Invia un messaggio e-mail">
 <!ENTITY newIM.tooltip                                  "Invia un messaggio istantaneo o avvia la chat">
 <!ENTITY deleteButton2.tooltip                          "Elimina gli oggetti selezionati">
 
@@ -171,9 +171,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY dirTreeHeader.label                            "Rubriche">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Nome o email">
+<!ENTITY SearchNameOrEmail.label                        "Nome o e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY advancedButton.tooltip                         "Ricerca avanzata">
+<!ENTITY advancedButton.tooltip                         "Ricerca avanzata indirizzo">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Ricerca veloce">
 
@@ -182,30 +182,30 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Addrbook.accesskey                             "u">
 <!ENTITY GeneratedName.label                            "Nome">
 <!ENTITY GeneratedName.accesskey                        "N">
-<!ENTITY PrimaryEmail.label                             "Email">
-<!ENTITY PrimaryEmail.accesskey                         "E">
+<!ENTITY PrimaryEmail.label                             "E-mail">
+<!ENTITY PrimaryEmail.accesskey                         "m">
 <!ENTITY ChatName.label                                 "Nome chat">
 <!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Organizzazione">
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Soprannome">
 <!ENTITY NickName.accesskey                             "S">
-<!ENTITY SecondEmail.label                              "Email aggiuntiva">
-<!ENTITY SecondEmail.accesskey                          "I">
-<!ENTITY Department.label                               "Reparto">
-<!ENTITY Department.accesskey                           "r">
+<!ENTITY SecondEmail.label                              "E-mail aggiuntiva">
+<!ENTITY SecondEmail.accesskey                          "i">
+<!ENTITY Department.label                               "Ufficio">
+<!ENTITY Department.accesskey                           "R">
 <!ENTITY JobTitle.label                                 "Titolo">
 <!ENTITY JobTitle.accesskey                             "T">
 <!ENTITY CellularNumber.label                           "Cellulare">
-<!ENTITY CellularNumber.accesskey                       "E">
-<!ENTITY PagerNumber.label                              "Cerca persone">
-<!ENTITY PagerNumber.accesskey                          "P">
+<!ENTITY CellularNumber.accesskey                       "e">
+<!ENTITY PagerNumber.label                              "Cercapersone">
+<!ENTITY PagerNumber.accesskey                          "p">
 <!ENTITY FaxNumber.label                                "Fax">
 <!ENTITY FaxNumber.accesskey                            "F">
 <!ENTITY HomePhone.label                                "Telefono casa">
 <!ENTITY HomePhone.accesskey                            "a">
 <!ENTITY WorkPhone.label                                "Telefono lavoro">
-<!ENTITY WorkPhone.accesskey                            "L">
+<!ENTITY WorkPhone.accesskey                            "l">
 <!ENTITY sortAscending.label                            "Crescente">
 <!ENTITY sortAscending.accesskey                        "C">
 <!ENTITY sortDescending.label                           "Decrescente">
@@ -215,7 +215,7 @@ because displayed names don't have the comma in between. -->
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "Contatto">
+<!ENTITY contact.heading                                "Contatti">
 <!ENTITY home.heading                                   "Casa">
 <!ENTITY other.heading                                  "Altro">
 <!ENTITY chat.heading                                   "Chat">
@@ -225,15 +225,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY description.heading                            "Descrizione">
 <!ENTITY addresses.heading                              "Indirizzi">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Mostra mappa">
-<!ENTITY mapIt.tooltip                                  "Mostra questo indirizzo sulla mappa via web">
+<!ENTITY mapItButton.label                              "Ottieni mappa">
+<!ENTITY mapIt.tooltip                                  "Mostra una mappa di questo indirizzo dal web">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label                               "">
+<!ENTITY statusText.label "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label                               "Finestra">
-<!ENTITY minimizeWindow.label                           "Minimizza">
-<!ENTITY minimizeWindow.key                             "m">
-<!ENTITY bringAllToFront.label                          "Porta tutto in primo piano">
-<!ENTITY zoomWindow.label                               "Ridimensiona">
+<!ENTITY windowMenu.label "Finestra">
+<!ENTITY minimizeWindow.label "Riduci">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Porta tutto in primo piano">
+<!ENTITY zoomWindow.label "Ingrandisci">

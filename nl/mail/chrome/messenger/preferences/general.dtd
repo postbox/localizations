@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
-<!ENTITY allowSpotlight.accesskey          "w">
+<!ENTITY allowSpotlight.label              "Sta Spotlight toe om berichten te doorzoeken">
+<!ENTITY allowSpotlight.accesskey          "S">
 
 <!ENTITY location.label                   "Locatie:">
-<!ENTITY location1.accesskey              "L">
+<!ENTITY location1.accesskey               "L">
 <!ENTITY useDefault.label                 "Standaardinstelling herstellen">
 <!ENTITY useDefault.accesskey             "S">
 
@@ -14,12 +14,12 @@
 <!ENTITY dockOptions.label                "Programmasymboolopties…">
 <!ENTITY dockOptions.accesskey            "P">
 
-<!ENTITY newMessagesArrive.label          "Als nieuwe berichten binnenkomen:">
+<!ENTITY newMessagesArrive.label          "Als nieuwe berichten arriveren:">
 <!ENTITY playSound.label                  "Een geluid afspelen">
-<!ENTITY playSound1.accesskey             "u">
+<!ENTITY playSound1.accesskey              "u">
 <!ENTITY playSoundMac.label               "Het volgende geluidsbestand afspelen:">
 <!ENTITY playSoundMac.accesskey           "v">
-<!ENTITY showAnimatedAlert.label          "Een waarschuwing tonen">
+<!ENTITY showAnimatedAlert.label          "Een melding tonen">
 <!ENTITY showAnimatedAlert.accesskey      "t">
 <!ENTITY notificationAlertSettings2.label "Waarschuwingen en het standaardgeluid kunnen worden uitgeschakeld via het paneel Berichtgeving in Systeemvoorkeuren.">
 <!ENTITY customizeMailAlert.label         "Aanpassen…">
@@ -39,8 +39,8 @@
 
 <!ENTITY defaultSearchEngine.label        "Standaardzoekmachine">
 
-<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+<!ENTITY enableNotificationCenter.label   "Gebruik het Notificatie Center">
 
-<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
+<!ENTITY showProfileManager.label   "Toon Profielmanager bij opstarten">
 
-<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
+<!ENTITY storeLocation.label              "Sla Onderwerpen, Handtekeningen, Antwoorden en het Adresboek op in:">

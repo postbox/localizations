@@ -11,16 +11,16 @@
 <!ENTITY setPassword.meter.label "Indicatore qualità password">
 
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Reimposta">
+<!ENTITY resetPasswordButtonLabel "Rimuovi">
 <!ENTITY resetPassword.title "Rimozione password principale">
 <!ENTITY resetPassword.text "La rimozione della password principale comporterà la perdita di tutte le password di posta e dei siti web, dei dati dei moduli, dei certificati personali e delle chiavi private memorizzate. Rimuovere la password principale?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Download certificato">
 <!ENTITY downloadCert.message1 "È stato richiesto di dare fiducia a una nuova autorità di certificazione (CA).">
-<!ENTITY downloadCert.trustSSL "Dai fiducia a questa CA per l’identificazione di siti web.">
-<!ENTITY downloadCert.trustEmail "Dai fiducia a questa CA per l’identificazione di utenti di posta.">
-<!ENTITY downloadCert.trustObjSign "Dai fiducia a questa CA per l’identificazione di produttori software.">
+<!ENTITY downloadCert.trustSSL "Dai fiducia a questa CA per l'identificazione di siti web.">
+<!ENTITY downloadCert.trustEmail "Dai fiducia a questa CA per l'identificazione di utenti di posta.">
+<!ENTITY downloadCert.trustObjSign "Dai fiducia a questa CA per l'identificazione di produttori software.">
 <!ENTITY downloadCert.message3 "Prima di dare fiducia a questa CA per un qualsiasi scopo, è consigliabile esaminare il suo certificato, le politiche e procedure da essa adottate (se disponibili).">
 <!ENTITY downloadCert.viewCert.label "Visualizza">
 <!ENTITY downloadCert.viewCert.text "Esamina certificato CA">
@@ -32,7 +32,7 @@
 <!ENTITY clientAuthAsk.message3 "Dettagli del certificato selezionato:">
 
 <!ENTITY pkcs12.setpassword.title "Scegliere una password per la copia di backup del certificato">
-<!ENTITY pkcs12.setpassword.message "La password della copia di backup del certificato serve a proteggere l’archivio che ci si accinge a creare. Per procedere con la creazione dell’archivio è necessario impostare una password.">
+<!ENTITY pkcs12.setpassword.message "La password della copia di backup del certificato serve a proteggere l'archivio che ci si accinge a creare. Per procedere con la creazione dell'archivio è necessario impostare una password.">
 <!ENTITY pkcs12.setpassword.label1 "Password copia di backup del certificato:">
 <!ENTITY pkcs12.setpassword.label2 "Password copia di backup del certificato (conferma):">
 <!ENTITY pkcs12.setpassword.reminder "Importante: se si dovesse scordare la password della copia di backup, non sarà possibile recuperare successivamente il contenuto. Si consiglia di conservare la password in un luogo sicuro.">
@@ -42,7 +42,7 @@
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Genera una chiave privata">
-<!ENTITY createCertInfo.msg1 "Generazione chiave in corso… L’elaborazione potrebbe richiedere alcuni minuti.">
+<!ENTITY createCertInfo.msg1 "Generazione chiave in corso… L'elaborazione potrebbe richiedere alcuni minuti.">
 <!ENTITY createCertInfo.msg2 "Attendere…">
 
 <!-- Strings for protectedAuth dialog -->

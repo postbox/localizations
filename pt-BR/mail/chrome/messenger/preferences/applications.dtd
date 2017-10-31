@@ -11,7 +11,7 @@
 <!ENTITY  focusSearch1.key            "F">
 <!ENTITY  focusSearch2.key            "K">
 
-<!ENTITY  filter.placeholder          "Localizar">
+<!ENTITY  filter.placeholder            "Pesquisa">
 
 <!ENTITY saveTo.label                 "Salvar arquivos em:">
 <!ENTITY saveTo.accesskey             "S">
@@ -22,17 +22,17 @@
 <!ENTITY chooseFolderMac.label        "Procurar…">
 <!ENTITY chooseFolderMac.accesskey    "P">
 
-<!ENTITY attachments.incoming.label   "Receber">
-<!ENTITY attachments.outgoing.label   "Enviar">
+<!ENTITY attachments.incoming.label   "Recebidos">
+<!ENTITY attachments.outgoing.label   "Enviados">
 
 <!ENTITY addCloudFileAccount1.label       "Add…">
 <!ENTITY addCloudFileAccount1.accesskey   "A">
-<!ENTITY addCloudFileAccount.description  "Adicionar um serviço de armazenamento on-line">
+<!ENTITY addCloudFileAccount.description  "Adicionar um novo serviço de armazenamento online">
 <!ENTITY removeCloudFileAccount.label     "Remover">
 <!ENTITY removeCloudFileAccount.accesskey "R">
 <!ENTITY authRequired.description         "Sua autorização é necessária para verificar as configurações deste serviço de armazenamento.">
 <!ENTITY authRequired.button.label        "Autorizar">
-<!ENTITY authRequired.button.accesskey    "u">
+<!ENTITY authRequired.button.accesskey    "U">
 
-<!ENTITY enableCloudFileAccountOffer.label "Oferecer compartilhamento para arquivos maiores que">
+<!ENTITY enableCloudFileAccountOffer.label "Oferecer o compartilhamento de arquivos maiores que">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

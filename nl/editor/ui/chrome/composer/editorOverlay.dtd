@@ -14,14 +14,14 @@
 <!ENTITY pasteAs.label "Plakken als">
 <!ENTITY pasteAs.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.label "Plakken als citaat">
-<!ENTITY pasteAsQuotationCmd.accesskey "t">
+<!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Zoeken…">
 <!ENTITY findReplaceCmd.label "Zoeken en vervangen…">
 <!ENTITY enableInlineSpellChecker.label "Spelling controleren tijdens typen">
-<!ENTITY enableInlineSpellChecker.accesskey "d">
-<!ENTITY checkSpellingCmd2.label "Spelling controleren…">
-<!ENTITY checkSpellingCmd2.accesskey "S">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY checkSpellingCmd2.label "Spelling controleren">
+<!ENTITY checkSpellingCmd2.accesskey "c">
 <!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
@@ -30,8 +30,8 @@
 <!ENTITY insertLinkCmd2.label "Koppeling…">
 <!ENTITY insertLinkCmd2.accesskey "K">
 <!ENTITY insertLinkCmd2.key "K">
-<!ENTITY insertAnchorCmd.label "Benoemd anker…">
-<!ENTITY insertAnchorCmd.accesskey "B">
+<!ENTITY insertAnchorCmd.label "Ankerverwijzing…">
+<!ENTITY insertAnchorCmd.accesskey "n">
 <!ENTITY insertImageCmd.label "Afbeelding…">
 <!ENTITY insertImageCmd.accesskey "A">
 <!ENTITY insertHLineCmd.label "Horizontale lijn">
@@ -85,12 +85,12 @@
 <!ENTITY fontSizeMenu.accesskey "G">
 <!ENTITY size-tinyCmd.label "Zeer klein">
 <!ENTITY size-tinyCmd.accesskey "Z">
-<!ENTITY size-smallCmd.label "Klein">
-<!ENTITY size-smallCmd.accesskey "K">
-<!ENTITY size-mediumCmd.label "Normaal">
+<!ENTITY size-smallCmd.label "klein">
+<!ENTITY size-smallCmd.accesskey "k">
+<!ENTITY size-mediumCmd.label "medium">
 <!ENTITY size-mediumCmd.accesskey "m">
-<!ENTITY size-largeCmd.label "Groot">
-<!ENTITY size-largeCmd.accesskey "G">
+<!ENTITY size-largeCmd.label "groot">
+<!ENTITY size-largeCmd.accesskey "g">
 <!ENTITY size-extraLargeCmd.label "Extra groot">
 <!ENTITY size-extraLargeCmd.accesskey "x">
 <!ENTITY size-hugeCmd.label "Zeer groot">
@@ -140,8 +140,8 @@
 
 <!ENTITY formatRemoveStyles.key "y">
 <!ENTITY formatRemoveLinks.key "k">
-<!ENTITY formatRemoveNamedAnchors.label "Benoemde ankers verwijderen">
-<!ENTITY formatRemoveNamedAnchors.accesskey "B">
+<!ENTITY formatRemoveNamedAnchors.label "Ankerverwijzingen verwijderen">
+<!ENTITY formatRemoveNamedAnchors.accesskey "w">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Alinea">
@@ -181,7 +181,7 @@
 <!ENTITY listPropsCmd.label "Lijsteigenschappen…">
 <!ENTITY listPropsCmd.accesskey "L">
 
-<!ENTITY ParagraphSelect.tooltip "Een alineaopmaak kiezen">
+<!ENTITY ParagraphSelect.tooltip "Alineaopmaak kiezen">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Tekst">
 <!ENTITY bodyTextCmd.accesskey "T">
@@ -292,7 +292,7 @@
 <!ENTITY printToolbarCmd.label "Afdrukken">
 <!ENTITY printToolbarCmd.tooltip "Deze pagina afdrukken">
 <!ENTITY findToolbarCmd.label "Zoeken">
-<!ENTITY findToolbarCmd.tooltip "Tekst zoeken op pagina">
+<!ENTITY findToolbarCmd.tooltip "Tekst zoeken in pagina">
 <!ENTITY spellToolbarCmd.label "Spelling">
 <!ENTITY spellToolbarCmd.tooltip "Spelling van selectie of hele pagina controleren">
 <!ENTITY imageToolbarCmd.label "Afbeelding">
@@ -304,10 +304,10 @@
 <!ENTITY linkToolbarCmd.label "Koppeling">
 <!ENTITY linkToolbarCmd.tooltip "Nieuwe koppeling invoegen of eigenschappen van geselecteerde koppeling bewerken">
 <!ENTITY anchorToolbarCmd.label "Anker">
-<!ENTITY anchorToolbarCmd.tooltip "Nieuw benoemd anker invoegen of eigenschappen van geselecteerde anker bewerken">
+<!ENTITY anchorToolbarCmd.tooltip "Nieuwe ankerverwijzing invoegen of eigenschappen van geselecteerde ankerverwijzing bewerken">
 <!ENTITY TextColorButton.tooltip "Kleur voor tekst kiezen">
 <!ENTITY BackgroundColorButton.tooltip "Kleur voor achtergrond kiezen">
-<!ENTITY throbber.tooltip "Naar de &vendorShortName;-startpagina gaan">
+<!ENTITY throbber.tooltip "Naar de &vendorShortName;-beginpagina gaan">
 <!ENTITY HighlightColorButton.tooltip "Markeringskleur voor tekst kiezen">
 
 <!-- Editor toolbar -->
@@ -322,7 +322,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "Tekst laten terugspringen (verplaatsen naar links)">
 <!ENTITY indentToolbarCmd.tooltip "Tekst laten inspringen (verplaatsen naar rechts)">
 <!ENTITY AlignPopupButton.tooltip "Tekstuitlijning kiezen">
-<!ENTITY InsertPopupButton.tooltip "Een koppeling, anker, afbeelding, horizontale lijn of tabel invoegen">
+<!ENTITY InsertPopupButton.tooltip "Een koppeling, ankerverwijzing, afbeelding, horizontale lijn of tabel invoegen">
 <!ENTITY alignLeftButton.tooltip "Tekst uitlijnen langs de linkermarge">
 <!ENTITY alignCenterButton.tooltip "Tekst gecentreerd uitlijnen">
 <!ENTITY alignRightButton.tooltip "Tekst uitlijnen langs de rechtermarge">

@@ -9,18 +9,18 @@
 <!ENTITY PrimaryEmail.label                    "Adresse électronique">
 <!ENTITY PrimaryEmail.accesskey                "e">
 <!ENTITY Company.label                         "Société">
-<!ENTITY Company.accesskey                     "i">
+<!ENTITY Company.accesskey                     "c">
 <!ENTITY _PhoneticName.label                   "Nom phonétique">
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Surnom">
-<!ENTITY NickName.accesskey                    "s">
+<!ENTITY NickName.accesskey                    "S">
 <!ENTITY SecondEmail.label                     "Adresse alternative">
 <!ENTITY SecondEmail.accesskey                 "d">
 <!ENTITY Department.label                      "Service">
 <!ENTITY Department.accesskey                  "r">
 <!ENTITY JobTitle.label                        "Fonction">
-<!ENTITY JobTitle.accesskey                    "T">
-<!ENTITY CellularNumber.label                  "Tél. mobile">
+<!ENTITY JobTitle.accesskey                    "t">
+<!ENTITY CellularNumber.label                  "Portable">
 <!ENTITY CellularNumber.accesskey              "b">
 <!ENTITY PagerNumber.label                     "Pager">
 <!ENTITY PagerNumber.accesskey                 "P">
@@ -33,6 +33,6 @@
 <!ENTITY ChatName.label                        "Pseudo IM">
 <!ENTITY ChatName.accesskey                    "u">
 <!ENTITY sortAscending.label                   "Ordre croissant">
-<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortAscending.accesskey               "a">
 <!ENTITY sortDescending.label                  "Ordre décroissant">
-<!ENTITY sortDescending.accesskey              "D">
+<!ENTITY sortDescending.accesskey              "d">

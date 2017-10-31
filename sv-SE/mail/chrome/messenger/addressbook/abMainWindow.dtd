@@ -24,17 +24,17 @@
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Använd adressboken i Mac OS X">
+<!ENTITY osxAddressBook.label                           "Använd adressboken i macOS">
 <!ENTITY osxAddressBook.accesskey                       "X">
 <!ENTITY closeCmd.label                                 "Stäng">
 <!ENTITY closeCmd.key                                   "W">
-<!ENTITY closeCmd.accesskey                             "ä">
+<!ENTITY closeCmd.accesskey                             "S">
 <!ENTITY printSetupCmd.label                            "Utskriftsformat…">
 <!ENTITY printSetupCmd.accesskey                        "o">
 <!ENTITY printPreviewContactCmd.label                   "Förhandsgranska kontakt">
 <!ENTITY printPreviewContactCmd.accesskey               "h">
 <!ENTITY printPreviewAddressBook.label                  "Förhandsgranska adressbok">
-<!ENTITY printPreviewAddressBook.accesskey              "B">
+<!ENTITY printPreviewAddressBook.accesskey              "b">
 <!ENTITY printContactCmd.label                          "Skriv ut kontakt…">
 <!ENTITY printContactCmd.accesskey                      "u">
 <!ENTITY printContactCmd.key                            "P">
@@ -46,7 +46,7 @@
 <!ENTITY editMenu.accesskey                             "R">
 <!ENTITY undoCmd.label                                  "Ångra">
 <!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "Å">
+<!ENTITY undoCmd.accesskey                              "n">
 <!ENTITY redoCmd.label                                  "Gör om">
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "G">
@@ -72,10 +72,10 @@
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "M">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Kasta om för/efternamn">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "ö">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "K">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY hideSwapFnLnUI "sant">
 <!ENTITY propertiesMenu.label                           "Egenskaper">
 <!ENTITY propertiesMenu.accesskey                       "e">
 <!ENTITY propertiesCmd.key                              "i">
@@ -173,7 +173,7 @@ because displayed names don't have the comma in between. -->
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Namn eller e-post">
 <!ENTITY SearchNameOrEmail.accesskey                    "e">
-<!ENTITY advancedButton.tooltip                         "Avancerad sökning efter adresskort">
+<!ENTITY advancedButton.tooltip                         "Avancerad sökning efter adressbokskort">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Snabbsökning">
 
@@ -229,11 +229,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Visa denna adress på en karta på webben">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label                               "">
+<!ENTITY statusText.label "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label                               "Fönster">
-<!ENTITY minimizeWindow.label                           "Minimera">
-<!ENTITY minimizeWindow.key                             "m">
-<!ENTITY bringAllToFront.label                          "Lägg i förgrunden">
-<!ENTITY zoomWindow.label                               "Zooma fönster">
+<!ENTITY windowMenu.label "Fönster">
+<!ENTITY minimizeWindow.label "Minimera">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Lägg i förgrunden">
+<!ENTITY zoomWindow.label "Zooma fönster">

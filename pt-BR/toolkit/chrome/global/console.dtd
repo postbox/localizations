@@ -11,11 +11,11 @@
 <!ENTITY all.label          "Tudo">
 <!ENTITY all.accesskey      "T">
 <!ENTITY errors.label       "Erros">
-<!ENTITY errors.accesskey   "E">
-<!ENTITY warnings.label     "Avisos">
+<!ENTITY errors.accesskey   "e">
+<!ENTITY warnings.label     "Alertas">
 <!ENTITY warnings.accesskey "A">
 <!ENTITY messages.label     "Mensagens">
-<!ENTITY messages.accesskey "M">
+<!ENTITY messages.accesskey "m">
 <!ENTITY clear.label        "Limpar">
 <!ENTITY clear.accesskey    "L">
 <!ENTITY codeEval.label     "Código:">
@@ -27,11 +27,11 @@
 
 <!ENTITY copyCmd.label       "Copiar">  
 <!ENTITY copyCmd.accesskey   "C"> 
-<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY copyCmd.commandkey  "c"> 
 <!ENTITY sortFirst.label     "Ordenar Primeiro > Último">
 <!ENTITY sortFirst.accesskey "P">
 <!ENTITY sortLast.label      "Ordenar Último > Primeiro">
 <!ENTITY sortLast.accesskey  "O">
-<!ENTITY closeCmd.commandkey "w">  
-<!ENTITY focus1.commandkey   "l">  
-<!ENTITY focus2.commandkey   "d">  
+<!ENTITY closeCmd.commandkey "W">  
+<!ENTITY focus1.commandkey   "L">  
+<!ENTITY focus2.commandkey   "D">  

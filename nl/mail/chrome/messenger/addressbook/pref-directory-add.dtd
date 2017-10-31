@@ -15,7 +15,7 @@
 <!ENTITY directoryLogin.label              "Bind-DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Algemeen">
-<!ENTITY Offline.tab                       "Offline">
+<!ENTITY Offline.tab                       "Niet verbonden">
 <!ENTITY Advanced.tab                      "Geavanceerd">
 <!ENTITY portNumber.label                  "Poortnummer: ">
 <!ENTITY portNumber.accesskey              "P">
@@ -42,4 +42,4 @@
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
-<!ENTITY newDirectoryWidth                 "36em">
+<!ENTITY newDirectoryWidth                 "39em">

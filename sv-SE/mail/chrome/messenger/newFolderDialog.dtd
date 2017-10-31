@@ -15,6 +15,6 @@
 <!ENTITY accept.label               "Skapa mapp">
 <!ENTITY accept.accesskey           "m">
 
-<!ENTITY pbNewFolder.desc "Enter a name for the new folder and select a location.">
-<!ENTITY pbNewFolderLocation.label "Location:">
+<!ENTITY pbNewFolder.desc "Skriv in ett namn för den nya mappen och välj plats.">
+<!ENTITY pbNewFolderLocation.label "Plats:">
 <!ENTITY pbNewFolderLocatione.accesskey "L">

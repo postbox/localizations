@@ -16,7 +16,7 @@
 <!ENTITY addressbookPicker.accesskey        "R">
 <!ENTITY searchContacts.label               "Cerca contatti:">
 <!ENTITY searchContacts.accesskey           "n">
-<!ENTITY SearchNameOrEmail.label            "Nome o email">
+<!ENTITY SearchNameOrEmail.label            "Nome o e-mail">
 
 <!ENTITY addtoToFieldMenu.label             "Aggiungi al campo A">
 <!ENTITY addtoToFieldMenu.accesskey         "A">

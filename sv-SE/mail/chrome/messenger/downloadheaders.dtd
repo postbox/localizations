@@ -12,7 +12,7 @@
 -->
 
 <!ENTITY download.label     "Hämta">
-<!ENTITY download.accesskey "ä">
+<!ENTITY download.accesskey "H">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "rubriker">
 <!ENTITY headers.accesskey  "r">

@@ -15,7 +15,7 @@
 <!ENTITY accountTypeDesc2.label "Este asistente recopilará la información necesaria para configurar una cuenta. Si no conoce la información solicitada, contacte con el administrador de su sistema o el proveedor de servicios de internet.">
 <!ENTITY accountTypeDirections.label "Seleccione el tipo de cuenta que quiere configurar:">
 <!ENTITY accountTypeMail.label "Cuenta de correo electrónico">
-<!ENTITY accountTypeMail.accesskey "c">
+<!ENTITY accountTypeMail.accesskey "C">
 <!ENTITY accountTypeNews.label "Cuenta de noticias">
 <!ENTITY accountTypeNews.accesskey "n">
 
@@ -28,12 +28,12 @@
 <!ENTITY fullnameLabel.accesskey "S">
 
 <!ENTITY emailLabel.label "Dirección de correo electrónico:">
-<!ENTITY emailLabel.accesskey "E">
+<!ENTITY emailLabel.accesskey "e">
 
 <!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Información del servidor entrante">
-<!ENTITY incomingServerTypeDesc.label "Seleccione el tipo de servidor de entrada que está utilizando.">
+<!ENTITY incomingServerTypeDesc.label "Seleccione el tipo de servidor entrante que está utilizando.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -78,7 +78,7 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Se usará su servidor de salida (SMTP) existente, &quot;">
+<!ENTITY haveSmtp1.prefix "Su servidor saliente (SMTP) existente, &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
@@ -90,7 +90,7 @@
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Su servidor de salida (SMTP), &quot;">
+<!ENTITY haveSmtp3.prefix "Su servidor saliente (SMTP), &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, es idéntico a su servidor de entrada, por lo que se usará su nombre de usuario para acceder a él.">
 
 <!-- Entities for Account name page -->
@@ -99,15 +99,15 @@
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Introduzca el nombre por el que desea referirse a esta cuenta (por ejemplo, &quot;Cuenta del trabajo&quot;, &quot;Cuenta de casa&quot; o &quot;Cuenta de noticias&quot;).">
 <!ENTITY accnameLabel.label "Nombre de la cuenta:">
-<!ENTITY accnameLabel.accesskey "A">
+<!ENTITY accnameLabel.accesskey "a">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "¡Felicidades!">
-<!ENTITY completionText.label "Compruebe que la información de debajo es correcta.">
-<!ENTITY serverTypePrefix.label "Tipo de servidor de entrada:">
-<!ENTITY serverNamePrefix.label "Nombre del servidor de entrada:">
-<!ENTITY smtpServerNamePrefix.label "Nombre del servidor de salida (SMTP):">
+<!ENTITY completionText.label "Por favor, compruebe que la información de debajo es correcta.">
+<!ENTITY serverTypePrefix.label "Tipo de servidor entrante:">
+<!ENTITY serverNamePrefix.label "Nombre del servidor entrante:">
+<!ENTITY smtpServerNamePrefix.label "Nombre del servidor de correo saliente (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nombre del servidor de noticias (NNTP):">
 <!ENTITY downloadOnLogin.label "Descargar mensajes ahora">
 <!ENTITY downloadOnLogin.accesskey "D">
@@ -118,6 +118,6 @@
 <!ENTITY clickFinish.labelMac "Pulse Terminado para guardar estos valores y salir del asistente de cuentas.">
 
 <!-- account wizard -->
-<!ENTITY pbAccountWizard-header-email.label "Email">
-<!ENTITY pbAccountWizard-header-rss.label "RSS News &amp; Blogs">
-<!ENTITY pbAccountWizard-header-newsgroups.label "Newsgroups">
+<!ENTITY pbAccountWizard-header-email.label "Correo electrónico">
+<!ENTITY pbAccountWizard-header-rss.label "Noticias RSS y Blogs">
+<!ENTITY pbAccountWizard-header-newsgroups.label "Grupos de noticias">

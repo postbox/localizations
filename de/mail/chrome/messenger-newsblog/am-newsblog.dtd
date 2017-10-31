@@ -4,8 +4,8 @@
 
 <!ENTITY accountTitle.label "RSS Settings">
 
-<!ENTITY indexMsgBodies.label "Index message bodies">
-<!ENTITY indexMsgBodies.accesskey "I">
+<!ENTITY indexMsgBodies.label "Nachrichtentexte indexieren">
+<!ENTITY indexMsgBodies.accesskey "i">
 
 <!ENTITY biffStart.label "Neue Artikel alle">
 <!ENTITY biffStart.accesskey "N">
@@ -14,7 +14,7 @@
 <!ENTITY loginAtStartup.label "Neue Artikel beim Programmstart abrufen"> 
 <!ENTITY loginAtStartup.accesskey "e">
 
-<!ENTITY useQuickMode.label "Artikel-Zusammenfassung anstelle der Webseite anzeigen"> 
+<!ENTITY useQuickMode.label "Artikel-Zusammenfassung anstelle der Website anzeigen"> 
 <!ENTITY useQuickMode.accesskey "A">
 
 <!ENTITY manageSubscriptions.label "Abonnements verwalten…"> 

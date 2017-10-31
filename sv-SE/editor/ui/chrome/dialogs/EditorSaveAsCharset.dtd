@@ -11,7 +11,7 @@
 <!ENTITY documentTitleTitle.label "Sidrubrik">
 <!ENTITY documentCharsetTitle2.label "Textkodning">
 <!ENTITY documentCharsetDesc2.label "Markera den textkodning som du vill spara ett dokument i:">
-<!ENTITY documentExportToText.label "Exportera till text">
+<!ENTITY documentExportToText.label "Exportera som text">
 
 
 

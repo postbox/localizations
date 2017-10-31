@@ -8,15 +8,13 @@
 
 <!-- An example (from Firefox):
 
-<!ENTITY securityOverride.linkText "Или же вы можете добавить исключение…">
+<!ENTITY securityOverride.linkText "Или же можно добавить исключение…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Уходим отсюда!">
 <!ENTITY securityOverride.exceptionButtonLabel "Добавить исключение…">
 
 <!ENTITY securityOverride.warningContent "
-<p>Вам не следует добавлять исключение, если вы используете соединение с Интернетом, которому не полностью доверяете или если вы обычно не видите предупреждения при соединении с этим сервером.</p>
-<p>Если вы все же хотите добавить исключение для данного сайта, вы можете сделать это в дополнительных настройках шифрования.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<p>Не следует добавлять исключение, если используется подключение к Интернету, которому нельзя доверять полностью, или если обычно не отображаются предупреждения для данного сервера.</p>
+<p>Если все же необходимо добавить исключение для данного сайта, можно сделать это в дополнительных настройках шифрования.</p>">&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 

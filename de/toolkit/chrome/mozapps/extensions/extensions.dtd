@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Add-ons-Verwaltung">
+<!ENTITY addons.windowTitle                   "Add-ons-Manager">
 
 <!ENTITY search.placeholder                   "Alle Add-ons durchsuchen">
 <!ENTITY search.buttonlabel                   "Suchen">
@@ -29,7 +29,7 @@
 <!ENTITY debugAddons.accesskey                "b">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Alle Add-ons wurden durch den Abgesicherten Modus deaktiviert.">
+<!ENTITY warning.safemode.label                    "Alle Add-ons wurden durch den SafeMode deaktiviert.">
 <!ENTITY warning.checkcompatibility.label          "Die Addon-Kompatibilitäts-Prüfung ist deaktiviert. Sie könnten inkompatible Add-ons haben.">
 <!ENTITY warning.checkcompatibility.enable.label   "Aktivieren">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Addon-Kompatibilitäts-Prüfung aktivieren">
@@ -39,7 +39,7 @@
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Suchen">
-<!ENTITY view.discover.label                  "Add-ons entdecken">
+<!ENTITY view.discover.label                  "Add-ons suchen">
 <!ENTITY view.recentUpdates.label             "Zuletzt durchgeführte Updates">
 <!ENTITY view.availableUpdates.label          "Verfügbare Updates">
 
@@ -133,7 +133,7 @@ einige der besten und populärsten Add-ons zum Ausprobieren anbieten.">
 <!ENTITY detail.homepage.label                "Homepage">
 <!ENTITY detail.numberOfDownloads.label       "Downloads">
 
-<!ENTITY detail.contributions.description     "Der Entwickler dieses Add-ons bittet Sie, dass Sie die Entwicklung unterstützen, indem Sie einen kleinen Betrag spenden.">
+<!ENTITY detail.contributions.description     "Der Entwickler dieses Add-ons bittet Sie, dass sie die Entwicklung unterstützen, indem Sie einen kleinen Betrag spenden.">
 
 <!ENTITY detail.updateType                    "Automatische Updates">
 <!ENTITY detail.updateDefault.label           "Standard">

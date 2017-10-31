@@ -21,9 +21,9 @@
 <!ENTITY addNewsgroupAccountButton.label "Newsgroup Account…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY newEmailAccountCmd.label "Mail Account…">
-<!ENTITY newEmailAccountCmd.accesskey "A">
+<!ENTITY newEmailAccountCmd.accesskey "a">
 <!ENTITY newTaskCmd.label "Reminder">
-<!ENTITY newTaskCmd.accesskey "d">
+<!ENTITY newTaskCmd.accesskey "T">
 <!ENTITY newTaskCmd.key "n">
 <!ENTITY openMessageMenu.label "Open">
 <!ENTITY openMessageFileCmd.label "Open Saved Message…">
@@ -59,7 +59,7 @@
 <!ENTITY offlineMenu.label "Offline">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Work Offline">
-<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY offlineGoOfflineCmd.accesskey "W">
 <!ENTITY synchronizeOfflineCmd.label "Download/Sync Now…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd2.label "Offline Settings">
@@ -126,7 +126,7 @@
 <!ENTITY customizeToolbar.label "Customise…">
 <!ENTITY customizeToolbar.accesskey "C">
 <!ENTITY messagePaneLayoutStyle.label "Layout">
-<!ENTITY messagePaneLayoutStyle.accesskey "L">
+<!ENTITY messagePaneLayoutStyle.accesskey "y">
 <!ENTITY messagePaneClassic.label "Classic View">
 <!ENTITY messagePaneClassic.accesskey "C">
 <!ENTITY messagePaneVertical.label "Vertical View">
@@ -202,7 +202,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "Watched Threads with Unread">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
 <!ENTITY ignoredThreadsCmd.label "Ignored Threads">
-<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY ignoredThreadsCmd.accesskey "I">
 
 <!ENTITY headersMenu.label "Headers">
 <!ENTITY headersMenu.accesskey "H">
@@ -231,7 +231,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Display Attachments Inline">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 
 <!ENTITY pageSourceCmd.label "Message Source">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -251,9 +251,9 @@
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Search Messages…">
-<!ENTITY searchMailCmd.accesskey "M">
-<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchMailCmd.label "Advanced Search...">
+<!ENTITY searchMailCmd.accesskey "A">
+<!ENTITY searchMailCmd.key "k">
 <!ENTITY searchAddressesCmd.label "Search Addresses…">
 <!ENTITY searchAddressesCmd.accesskey "S">
 
@@ -304,9 +304,9 @@
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "Archive">
 <!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Cancel Message">
-<!ENTITY cancelNewsMsgCmd.accesskey "C">
+<!ENTITY cancelNewsMsgCmd.accesskey "M">
 <!ENTITY replyMsgCmd.label "Reply">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key  "r">
@@ -339,7 +339,7 @@
 <!ENTITY createFilter.label "Create Filter From Message…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY archiveMsgMenu.label "Archive">
-<!ENTITY archiveMsgMenu.accesskey "a">
+<!ENTITY archiveMsgMenu.accesskey "A">
 <!ENTITY moveMsgToMenu.label "Move To">
 <!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "Recent">
@@ -390,9 +390,9 @@
 <!ENTITY markAllReadCmd.label "All Read">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Add Star">
-<!ENTITY markStarredCmd.accesskey "S">
-<!ENTITY markUnStarredCmd.label "As Not Reminder">
+<!ENTITY markStarredCmd.label "As a Reminder">
+<!ENTITY markStarredCmd.accesskey "T">
+<!ENTITY markUnStarredCmd.label "As Not a Reminder">
 <!ENTITY markUnStarredCmd.accesskey "N">
 
 <!-- keep as s, because t is taken by topic/tag -->
@@ -406,11 +406,11 @@
 <!ENTITY recalculateJunkScoreCmd.label "Run Junk Mail Controls">
 <!ENTITY recalculateJunkScoreCmd.accesskey "C">
 <!ENTITY openMessageWindowCmd.label "Open Message">
-<!ENTITY openMessageWindowCmd.accesskey "O">
+<!ENTITY openMessageWindowCmd.accesskey "n">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Attachments">
 <!ENTITY openAttachmentListCmd.accesskey "h">
-<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY quickReplyMsgCmd.key "r">
 
 <!-- Windows Menu -->
@@ -420,12 +420,12 @@
 <!ENTITY tasksMenu.label "Tools">
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
-<!ENTITY messengerCmd.accesskey "N">
+<!ENTITY messengerCmd.accesskey "M">
 <!ENTITY addressBookCmd.label "Address Book">
-<!ENTITY addressBookCmd.accesskey "B">
+<!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "A">
+<!ENTITY addons.accesskey "d">
 <!ENTITY activitymanager.label "Activity Manager">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Chat status">
@@ -453,21 +453,21 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY hintsAndTips.label "&brandFullName; Help">
 <!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY hintsAndTips.accesskey "h">
-<!ENTITY helpSafeMode.label     "Troubleshooting…">
+<!ENTITY hintsAndTips.accesskey "H">
+<!ENTITY helpSafeMode.label     "Trouble Shooting…">
 <!ENTITY helpSafeMode.accesskey "S">
 <!ENTITY helpTroubleshootingInfo.label     "Configuration Data">
 <!ENTITY helpTroubleshootingInfo.accesskey "C">
 <!ENTITY aboutCmd.label "About &brandFullName;">
 <!ENTITY aboutCmd.accesskey "A">
 <!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
-<!ENTITY filtersApplyToSelection.accesskey "u">
+<!ENTITY filtersApplyToSelection.accesskey "S">
 <!ENTITY filtersApplyToMessage.label "Run Filters on Message">
-<!ENTITY filtersApplyToMessage.accesskey "u">
+<!ENTITY filtersApplyToMessage.accesskey "s">
 <!ENTITY runJunkControls.label "Run Junk Mail Controls on Folder">
-<!ENTITY runJunkControls.accesskey "C">
+<!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "Delete Mail Marked as Junk in Folder">
-<!ENTITY deleteJunk.accesskey "D">
+<!ENTITY deleteJunk.accesskey "l">
 <!ENTITY importCmd.label "Import…">
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY clearRecentHistory.label "Clear Recent History…">
@@ -491,7 +491,7 @@
 <!ENTITY tabsDebugCmd.label "Content Frame Debugger">
 <!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Error Console">
-<!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "Scratchpad">
 <!ENTITY scratchpadCmd.accesskey "S">
@@ -523,7 +523,7 @@
 <!ENTITY previousButton.label "Previous">
 <!ENTITY previousButtonToolbarItem.label "Previous Unread">
 <!ENTITY previousMsgButton.label "Previous">
-<!ENTITY backButton1.label "Backwards">
+<!ENTITY backButton1.label "Back">
 <!ENTITY goForwardButton1.label "Forwards">
 <!ENTITY deleteItem.title "Delete">
 <!ENTITY deleteButton.label "Delete">
@@ -559,7 +559,7 @@
 <!ENTITY forwardAsInline.tooltip "Forward selected message as inline text">
 <!ENTITY forwardAsAttachment.tooltip "Forward selected message as an attachment">
 <!ENTITY fileButton.tooltip "File selected message">
-<!ENTITY archiveButton.tooltip "Archive selected messages">
+<!ENTITY archiveButton.tooltip "Archive selected message">
 <!ENTITY openConversationButton.tooltip "Show conversation of selected message">
 <!ENTITY nextButton.tooltip "Move to the next unread message">
 <!ENTITY nextMsgButton.tooltip "Move to the next message">
@@ -613,7 +613,7 @@
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextNewSubfolder.label "New Subfolder…">
 <!ENTITY folderContextNewSubfolder.accesskey "N">
-<!ENTITY folderContextNewFolder.label "New Folder…">
+<!ENTITY folderContextNewFolder.label "New Folder...">
 <!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Rename">
 <!ENTITY folderContextRename.accesskey "R">
@@ -702,25 +702,25 @@
 <!ENTITY totalColumn2.tooltip "Total number of messages in thread">
 <!ENTITY readColumn2.tooltip "Sort by read">
 <!ENTITY receivedColumn2.tooltip "Sort by date received">
-<!ENTITY starredColumn2.tooltip "Sort by star">
+<!ENTITY starredColumn2.tooltip "Click to toggle pinning Reminders">
 <!ENTITY locationColumn2.tooltip "Sort by location">
 <!ENTITY idColumn2.tooltip "Sort by order received">
 <!ENTITY attachmentColumn2.tooltip "Sort by attachments">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Open Message in New Window">
-<!ENTITY contextOpenNewWindow.accesskey "W">
+<!ENTITY contextOpenNewWindow.accesskey "w">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Open Message in New Tab">
-<!ENTITY contextOpenNewTab.accesskey "T">
+<!ENTITY contextOpenNewTab.accesskey "g">
 <!ENTITY contextEditMsg.label "Edit...">
 <!ENTITY contextEditMsg.accesskey "i">
 <!ENTITY contextOpenContainingFolder.label "Open Message in Containing Folder">
 <!ENTITY contextOpenContainingFolder.accesskey "n">
-<!ENTITY contextEditAsNew1.label "Resend">
+<!ENTITY contextEditAsNew1.label "Resend...">
 <!ENTITY contextEditAsNew1.accesskey "e">
 <!ENTITY contextEditDraftMsg.label "Edit Draft Message">
 <!ENTITY contextRedirect.label "Redirect">
@@ -731,7 +731,7 @@
 <!ENTITY contextReplyNewsgroup2.label "Followup to Newsgroup">
 <!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Reply to All">
-<!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplyAll.accesskey "y">
 <!ENTITY contextReplyList.label "Reply to List">
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Forward">
@@ -745,7 +745,7 @@
 <!ENTITY contextMultiForwardAsAttachment.label "Forward as Attachments">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextArchiveMsg.label "Archive">
-<!ENTITY contextArchiveMsg.accesskey "a">
+<!ENTITY contextArchiveMsg.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Move To">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
@@ -827,8 +827,8 @@
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Action Options -->
-<!ENTITY messageHeader.expand.label                 "Expand All">
-<!ENTITY messageHeader.collapse.label               "Collapse All">
+<!ENTITY messageHeader.expand.label                 "Expand">
+<!ENTITY messageHeader.collapse.label               "Collapse">
 <!ENTITY messageHeader.editMessageButton.label      "Edit">
 <!ENTITY messageHeader.showRelated.label            "Show Related">
 <!ENTITY messageHeader.showRelated.label            "Show Related">
@@ -839,7 +839,7 @@
 <!ENTITY messageHeader.forward.label                "Forward">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label " more...">
+<!ENTITY more.label "more">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">

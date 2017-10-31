@@ -4,13 +4,13 @@
 
 <!-- Window title -->
 <!ENTITY siteUrl.label         "Website-URL:">
-<!ENTITY docSubdir.label       "Unterordner für die Seite:">
-<!ENTITY otherSubdir.label     "Unterordner für Grafiken:">
+<!ENTITY docSubdir.label       "Unterverzeichnis für die Seite:">
+<!ENTITY otherSubdir.label     "Unterverzeichnis für Grafiken:">
 
 <!ENTITY status.label          "Publizieren…">
-<!ENTITY fileList.label        "Publizieren-Status">
+<!ENTITY fileList.label        "Publikationsstatus">
 <!ENTITY succeeded.label       "Erfolgreich">
 <!ENTITY failed.label          "Fehlgeschlagen">
 
-<!ENTITY keepOpen              "Dieses Fenster offen halten, nachdem das Publizieren abgeschlossen ist.">
+<!ENTITY keepOpen              "Dieses Fenster offen halten, nachdem die Publikation abgeschlossen ist.">
 <!ENTITY closeButton.label     "Schließen">

@@ -15,7 +15,7 @@
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Mailing List…">
-<!ENTITY newListCmd.accesskey                           "L">
+<!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "Address Book…">
 <!ENTITY newAddressBookCmd.accesskey                    "B">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP Directory…">
@@ -24,7 +24,7 @@
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "M">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Use Mac OS X Address Book">
+<!ENTITY osxAddressBook.label                           "Use macOS Contacts">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Close">
 <!ENTITY closeCmd.key                                   "W">
@@ -187,7 +187,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY ChatName.label                                 "Chat Name">
 <!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Organisation">
-<!ENTITY Company.accesskey                              "g">
+<!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Nickname">
 <!ENTITY NickName.accesskey                             "i">
 <!ENTITY SecondEmail.label                              "Additional Email">

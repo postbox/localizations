@@ -35,7 +35,7 @@
 <!ENTITY rights.intro-point3-unbranded "Tillämpliga sekretesspolicyer för denna produkt bör listas här.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Vissa funktioner i &brandShortName; använder webbaserade informationstjänster, men vi kan dock inte garantera att dessa är till 100 &#037; felfria. Fler detaljer, med information om hur du inaktiverar de funktioner som använder dessa tjänster hittar du i ">
+<!ENTITY rights2.intro-point4a "Vissa funktioner i &brandShortName; använder webbaserade informationstjänster, men vi kan dock inte garantera att dessa är till 100 &#37; felfria. Fler detaljer, med information om hur du inaktiverar de funktioner som använder dessa tjänster hittar du i ">
 <!ENTITY rights.intro-point4b "tjänstevillkoren">
 <!ENTITY rights.intro-point4c ".">
 

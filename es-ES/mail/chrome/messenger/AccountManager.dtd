@@ -6,18 +6,18 @@
 
 <!ENTITY accountManagerTitle.label "Configuración de la cuenta">
 
-<!ENTITY accountActionsButton.label "Operaciones sobre la cuenta">
-<!ENTITY accountActionsButton.accesskey "O">
-<!ENTITY addMailAccountButton.label "Añadir cuenta de correo…">
+<!ENTITY accountActionsButton.label "Acciones de cuenta">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Añadir cuenta de correo...">
 <!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addFeedAccountButton.label "Añadir cuenta de canales web…">
 <!ENTITY addFeedAccountButton.accesskey "w">
-<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.label "Añadir cuenta de grupo de noticias…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Definir como predeterminada">
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Eliminar cuenta">
-<!ENTITY removeButton.accesskey "R">
+<!ENTITY removeButton.accesskey "r">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
@@ -42,6 +42,6 @@
 <!ENTITY pbAccountTree.width "width: 25ch;">
 
 <!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Add…">
-<!ENTITY pbAccountRemoveActionsButton.label "Remove">
+<!ENTITY pbAccountAddActionsButton.label "Añadir…">
+<!ENTITY pbAccountRemoveActionsButton.label "Quitar">
 <!ENTITY pbAccountRemoveActionsButton.accesskey "R">

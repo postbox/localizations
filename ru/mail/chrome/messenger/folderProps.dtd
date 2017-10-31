@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY folderProps.windowtitle.label "Свойства">
+<!ENTITY folderProps.windowtitle.label           "Свойства">
 
-<!ENTITY generalInfo.label "Основная информация">
+<!ENTITY generalInfo.label                       "Основная информация">
 <!ENTITY folderCharsetFallback2.label "Резервная кодировка текста:">
 <!ENTITY folderCharsetFallback2.accesskey "е">
 <!ENTITY folderCharsetEnforce2.label "Использовать как кодировку для всех сообщений в папке (игнорировать кодировки текста, определённые для отдельных сообщений, и автоопределение)">
@@ -21,13 +21,13 @@
 <!ENTITY retentionUseAccount.accesskey "п">
 <!ENTITY daysOld.label "дней">
 <!ENTITY message.label "сообщений">
-<!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены.">
+<!ENTITY retentionCleanup.label "Для освобождения места на диске старые сообщения могут быть полностью удалены.">
 <!ENTITY retentionCleanupImap.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены (как локальные копии, так и оригиналы на удалённом сервере).">
 <!ENTITY retentionCleanupPop.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены (в том числе оригиналы на удалённом сервере).">
 <!ENTITY retentionDeleteMsg.label "Удалять сообщения старше">
 <!ENTITY retentionDeleteMsg.accesskey "с">
 <!ENTITY retentionKeepAll.label "Не удалять сообщения">
-<!ENTITY retentionKeepAll.accesskey "л">
+<!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Удалять все, кроме последних">
 <!ENTITY retentionKeepRecent.accesskey "ь">
 <!ENTITY retentionApplyToFlagged.label "Всегда хранить сообщения, отмеченные звёздочкой">
@@ -37,31 +37,31 @@
 <!ENTITY folderCheckForNewMessages2.label "При получении новых сообщений для этой учётной записи всегда проверять эту папку">
 <!ENTITY folderCheckForNewMessages2.accesskey "о">
 
-<!ENTITY offlineFolder.check.label "Выбрать эту папку для автономной работы">
-<!ENTITY offlineFolder.check.accesskey "ы">
-<!ENTITY offlineFolder.button.label "Загрузить">
-<!ENTITY offlineFolder.button.accesskey "а">
+<!ENTITY offlineFolder.check.label               "Выбрать эту папку для автономного режима">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label              "Загрузить">
+<!ENTITY offlineFolder.button.accesskey          "D">
 
-<!ENTITY selectofflineNewsgroup.check.label "Выбрать эту группу новостей для автономной работы">
-<!ENTITY selectofflineNewsgroup.check.accesskey "э">
-<!ENTITY offlineNewsgroup.button.label "Загрузить">
-<!ENTITY offlineNewsgroup.button.accesskey "а">
+<!ENTITY selectofflineNewsgroup.check.label      "Выбрать эту группу новостей для автономного режима">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY offlineNewsgroup.button.label           "Загрузить">
+<!ENTITY offlineNewsgroup.button.accesskey       "D">
 
-<!ENTITY folderProps.name.label "Имя:">
-<!ENTITY folderProps.name.accesskey "м">
-<!ENTITY folderProps.location.label "Адрес:">
-<!ENTITY folderProps.location.accesskey "д">
+<!ENTITY folderProps.name.label                  "Имя:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Адрес:">
+<!ENTITY folderProps.location.accesskey          "L">
 
-<!ENTITY folderSharingTab.label "Совместное использование">
-<!ENTITY privileges.button.label "Привилегии…">
-<!ENTITY privileges.button.accesskey "и">
-<!ENTITY permissionsDesc.label "У вас есть следующие права:">
-<!ENTITY folderType.label "Тип папки:">
+<!ENTITY folderSharingTab.label                  "Совместное использование">
+<!ENTITY privileges.button.label                 "Привилегии…">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "У вас есть следующие права:">
+<!ENTITY folderType.label                        "Тип папки:">
 
-<!ENTITY folderQuotaTab.label "Квота">
-<!ENTITY folderQuotaRoot.label "Квота:">
-<!ENTITY folderQuotaUsage.label "Использовано:">
-<!ENTITY folderQuotaStatus.label "Состояние:">
+<!ENTITY folderQuotaTab.label                    "Квота">
+<!ENTITY folderQuotaRoot.label                   "Квота:">
+<!ENTITY folderQuotaUsage.label                  "Использовано:">
+<!ENTITY folderQuotaStatus.label                 "Состояние:">
 
 <!ENTITY numberOfMessages.label "Число сообщений:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->

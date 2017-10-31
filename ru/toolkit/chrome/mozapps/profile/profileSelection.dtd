@@ -19,7 +19,7 @@
 <!ENTITY renameButton.label "Переименовать…">
 <!ENTITY renameButton.accesskey "е">
 <!ENTITY deleteButton.label "Удалить…">
-<!ENTITY deleteButton.accesskey "и">
+<!ENTITY deleteButton.accesskey "д">
 
 <!-- manager entities -->
 <!ENTITY pmDescription.label "&brandShortName; хранит информацию о ваших настройках, закладках и т.д. в личном профиле.">

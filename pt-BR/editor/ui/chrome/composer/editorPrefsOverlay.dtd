@@ -5,9 +5,9 @@
 
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
 <!ENTITY editorCheck.label "Composer">
-<!ENTITY editorCheck.accesskey "c">
+<!ENTITY editorCheck.accesskey "C">
 
-<!ENTITY compose.label "Compositor">
+<!ENTITY compose.label "Composer">
 <!ENTITY editing.label "Configurações de nova página">
-<!ENTITY toolbars.label "Barra de ferramentas">
+<!ENTITY toolbars.label "Barras de ferramentas">
 <!ENTITY publish.label "Publicando">

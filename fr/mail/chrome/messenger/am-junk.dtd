@@ -10,7 +10,7 @@
 <!ENTITY move.label "Déplacer les nouveaux courriels indésirables vers :">
 <!ENTITY move.accesskey "D">
 <!ENTITY junkFolderOn.label "Dossier « Indésirables » sur :">
-<!ENTITY junkFolderOn.accesskey "I">
+<!ENTITY junkFolderOn.accesskey "i">
 <!ENTITY otherFolder.label "Autre :">
 <!ENTITY otherFolder.accesskey "u">
 <!ENTITY purge1.label "Supprimer automatiquement les courriels indésirables âgés de plus de ">

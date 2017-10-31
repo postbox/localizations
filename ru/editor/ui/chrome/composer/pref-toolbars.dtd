@@ -4,13 +4,13 @@
 
 <!ENTITY pref.toolbars.title "Панели инструментов">
 
-<!ENTITY composition.caption "Показать следующие кнопки на панели компоновки:">
+<!ENTITY composition.caption "Показать эти кнопки на панели компоновки:">
 
 <!ENTITY new.label "Создать">
 <!ENTITY open.label "Открыть">
 <!ENTITY save.label "Сохранить">
 <!ENTITY publish.label "Опубликовать">
-<!ENTITY preview.label "Просмотр">
+<!ENTITY preview.label "Обзор">
 <!ENTITY cut.label "Вырезать">
 <!ENTITY copy.label "Копировать">
 <!ENTITY paste.label "Вставить">
@@ -22,15 +22,15 @@
 <!ENTITY link.label "Ссылка">
 <!ENTITY anchor.label "Якорь">
 
-<!ENTITY formatting.caption "Показать следующие кнопки на панели форматирования:">
+<!ENTITY formatting.caption "Показать эти кнопки на панели форматирования:">
 
 <!ENTITY smaller.label "Меньше">
 <!ENTITY larger.label "Больше">
 <!ENTITY bold.label "Полужирный">
-<!ENTITY bullets.label "Маркеры">
-<!ENTITY numbers.label "Числа">
+<!ENTITY bullets.label "Маркированный">
+<!ENTITY numbers.label "Нумерованный">
 <!ENTITY italic.label "Курсив">
-<!ENTITY outdent.label "Выровнять">
+<!ENTITY outdent.label "Выступ">
 <!ENTITY indent.label "Отступ">
 <!ENTITY underline.label "Подчеркивание">
 

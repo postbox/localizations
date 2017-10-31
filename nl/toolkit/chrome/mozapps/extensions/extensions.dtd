@@ -32,7 +32,7 @@
 <!ENTITY warning.safemode.label                    "Alle add-ons zijn uitgeschakeld door de veilige modus.">
 <!ENTITY warning.checkcompatibility.label          "Compatibiliteitscontrole voor add-ons is uitgeschakeld. Mogelijk hebt u incompatibele add-ons.">
 <!ENTITY warning.checkcompatibility.enable.label   "Inschakelen">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Add-on-compatibiliteitscontrole inschakelen">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Add-oncompatibiliteitscontrole inschakelen">
 <!ENTITY warning.updatesecurity.label              "Veiligheidscontrole voor add-on-updates is uitgeschakeld. Mogelijk loopt u een veiligheidsrisico door updates.">
 <!ENTITY warning.updatesecurity.enable.label       "Inschakelen">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Add-on-veiligheidscontrole inschakelen">
@@ -108,7 +108,7 @@
 <!ENTITY cmd.showPreferencesUnix.label        "Voorkeuren">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Voorkeuren van deze add-on wijzigen">
 <!ENTITY cmd.contribute.label                 "Bijdragen">
-<!ENTITY cmd.contribute.accesskey             "r">
+<!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Bijdragen aan de ontwikkeling van deze add-on">
 
 <!ENTITY cmd.showReleaseNotes.label           "Uitgaveopmerkingen tonen">
@@ -193,7 +193,7 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix                 "(update)">
+<!ENTITY addon.update.postfix                 "Bijwerken">
 <!ENTITY addon.undoAction.label               "Ongedaan maken">
 <!ENTITY addon.undoAction.tooltip             "Deze actie ongedaan maken">
 <!ENTITY addon.undoRemove.label               "Ongedaan maken">

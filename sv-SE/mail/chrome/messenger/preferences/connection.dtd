@@ -6,9 +6,9 @@
 
 <!ENTITY  proxyTitle.label              "Ange proxy för anslutning till Internet">
 <!ENTITY  noProxyTypeRadio.label        "Ingen proxy">
-<!ENTITY  noProxyTypeRadio.accesskey    "I">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Använd systemets proxyinställningar">
-<!ENTITY  systemTypeRadio.accesskey     "d">
+<!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Automatisk identifiering av proxyinställningar">
 <!ENTITY  WPADTypeRadio.accesskey       "e">
 <!ENTITY  manualTypeRadio.label         "Manuell proxykonfiguration:">
@@ -37,4 +37,4 @@
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Exempel: .mozilla.org, .sunet.se, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Använd denna proxy för alla protokoll">
-<!ENTITY  shareproxy.accesskey          "ä">
+<!ENTITY  shareproxy.accesskey          "A">

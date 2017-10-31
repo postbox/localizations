@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "Rechercher des messages dans :">
+<!ENTITY searchHeading.label         "Rechercher des messages dans :">
 <!ENTITY searchHeading.accesskey     "d">
 <!ENTITY searchSubfolders.label      "Rechercher dans les sous-dossiers">
 <!ENTITY searchSubfolders.accesskey  "s">
@@ -12,7 +12,7 @@
 <!ENTITY resetButton.label           "Effacer">
 <!ENTITY resetButton.accesskey       "f">
 <!ENTITY openButton.label            "Ouvrir">
-<!ENTITY openButton.accesskey        "o">
+<!ENTITY openButton.accesskey        "O">
 <!ENTITY deleteButton.label          "Supprimer">
 <!ENTITY deleteButton.accesskey      "e">
 <!ENTITY searchDialogTitle.label     "Recherche avancée dans le courrier">
@@ -34,7 +34,7 @@
 <!ENTITY composeButton.accesskey     "c">
 <!ENTITY deleteCardButton.label      "Supprimer">
 <!ENTITY deleteCardButton.accesskey  "S">
-<!ENTITY abSearchDialogTitle.label   "Recherche avancée dans le carnet d’adresses">
+<!ENTITY abSearchDialogTitle.label   "Recherche avancée dans le carnet d'adresses">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Discussion">
@@ -42,7 +42,7 @@
 <!ENTITY recipientColumn.label "Destinataire">
 <!ENTITY correspondentColumn.label "Correspondants">
 <!ENTITY subjectColumn.label "Sujet">
-<!ENTITY dateColumn.label "Date">
+<!ENTITY dateColumn.label "Date ">
 <!ENTITY priorityColumn.label "Priorité">
 <!ENTITY tagsColumn.label "Étiquettes">
 <!ENTITY accountColumn.label "Compte">

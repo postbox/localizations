@@ -4,35 +4,35 @@
 
 <!ENTITY Addrbook.label "Адресная книга">
 <!ENTITY Addrbook.accesskey "н">
-<!ENTITY GeneratedName.label "Имя">
-<!ENTITY GeneratedName.accesskey "И">
-<!ENTITY PrimaryEmail.label "Электронная почта">
-<!ENTITY PrimaryEmail.accesskey "Э">
-<!ENTITY Company.label "Организация">
-<!ENTITY Company.accesskey "О">
-<!ENTITY _PhoneticName.label "Произношение">
-<!ENTITY _PhoneticName.accesskey "П">
-<!ENTITY NickName.label "Псевдоним">
-<!ENTITY NickName.accesskey "П">
-<!ENTITY SecondEmail.label "Доп. адрес электронной почты">
-<!ENTITY SecondEmail.accesskey "А">
-<!ENTITY Department.label "Отдел">
-<!ENTITY Department.accesskey "т">
-<!ENTITY JobTitle.label "Должность">
-<!ENTITY JobTitle.accesskey "Д">
-<!ENTITY CellularNumber.label "Мобильный">
-<!ENTITY CellularNumber.accesskey "М">
-<!ENTITY PagerNumber.label "Пейджер">
-<!ENTITY PagerNumber.accesskey "е">
-<!ENTITY FaxNumber.label "Факс">
-<!ENTITY FaxNumber.accesskey "Ф">
-<!ENTITY HomePhone.label "Домашний телефон">
-<!ENTITY HomePhone.accesskey "а">
-<!ENTITY WorkPhone.label "Рабочий телефон">
-<!ENTITY WorkPhone.accesskey "Р">
+<!ENTITY GeneratedName.label                   "Имя">
+<!ENTITY GeneratedName.accesskey               "N">
+<!ENTITY PrimaryEmail.label                    "Эл. почта">
+<!ENTITY PrimaryEmail.accesskey                "E">
+<!ENTITY Company.label                         "Организация">
+<!ENTITY Company.accesskey                     "z">
+<!ENTITY _PhoneticName.label                   "Произношение">
+<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY NickName.label                        "Псевдоним">
+<!ENTITY NickName.accesskey                    "i">
+<!ENTITY SecondEmail.label                     "Другой адрес">
+<!ENTITY SecondEmail.accesskey                 "l">
+<!ENTITY Department.label                      "Отдел">
+<!ENTITY Department.accesskey                  "r">
+<!ENTITY JobTitle.label                        "Должность">
+<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY CellularNumber.label                  "Мобильный">
+<!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY PagerNumber.label                     "Пейджер">
+<!ENTITY PagerNumber.accesskey                 "P">
+<!ENTITY FaxNumber.label                       "Факс">
+<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "Домашний телефон">
+<!ENTITY HomePhone.accesskey                   "H">
+<!ENTITY WorkPhone.label                       "Рабочий телефон">
+<!ENTITY WorkPhone.accesskey                   "W">
 <!ENTITY ChatName.label "Имя в чате">
 <!ENTITY ChatName.accesskey "м">
-<!ENTITY sortAscending.label "По возрастанию">
-<!ENTITY sortAscending.accesskey "в">
-<!ENTITY sortDescending.label "По убыванию">
-<!ENTITY sortDescending.accesskey "б">
+<!ENTITY sortAscending.label                   "По возрастанию">
+<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortDescending.label                  "По убыванию">
+<!ENTITY sortDescending.accesskey              "D">

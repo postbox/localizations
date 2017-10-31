@@ -1,28 +1,28 @@
 <!ENTITY changeLicenseKey.label "Code">
-<!ENTITY changeName.label "Name">
-<!ENTITY licenseKey.label "Code:">
-<!ENTITY name.label "Name:">
-<!ENTITY enterLicense.label "Enter license code now">
-<!ENTITY enterLicenseTitle.label "Enter Postbox license code">
-<!ENTITY enterLicenseInfo.label "Please enter your name and license code below:">
-<!ENTITY invalidLicense.label "Please enter your name and license code exactly as they appear in your license email.">
-<!ENTITY invalidLicenseVersion.label "This license code will not work with this version of Postbox.  Please visit our store to purchase an upgrade.">
-<!ENTITY invalidLicenseInvalid1.label "Please enter a valid license code, or contact us at">
-<!ENTITY invalidLicenseInvalid2.label "Postbox Support">
-<!ENTITY invalidLicenseInvalid3.label "for immediate assistance.">
+<!ENTITY changeName.label "Naam">
+<!ENTITY licenseKey.label "Licentie Sleutel:">
+<!ENTITY name.label "Naam:">
+<!ENTITY enterLicense.label "Geef nu de Licentiesleutel op">
+<!ENTITY enterLicenseTitle.label "Geef Postbox Licentiesleutel op">
+<!ENTITY enterLicenseInfo.label "Voer hieronder uw naam en licentiesleutel in:">
+<!ENTITY invalidLicense.label "Bijna klaar... Voer uw naam en licentiesleutel exact in zoals deze in de licentiemail vermeld staan.">
+<!ENTITY invalidLicenseVersion.label "Deze licentiesleutel is niet geldig voor deze versie van Postbox. Voer een upgrade uit naar de nieuwste versie.">
+<!ENTITY invalidLicenseInvalid1.label "Geef een geldige licentiecode op, of neem contact met ons op via">
+<!ENTITY invalidLicenseInvalid2.label "Postbox Ondersteuning">
+<!ENTITY invalidLicenseInvalid3.label "voor dringende ondersteuning.">
 
-<!ENTITY changeLicenseTitle.label "Postbox License Code">
-<!ENTITY changeLicenseInfo.label "This copy of Postbox is licensed to:">
+<!ENTITY changeLicenseTitle.label "Postbox Licentie Sleutel">
+<!ENTITY changeLicenseInfo.label "Deze kopie van Postbox is gelicenceerd aan:">
 
-<!ENTITY licensedThroughMAS.label "This copy is licensed through the Apple Mac App Store.">
+<!ENTITY licensedThroughMAS.label "Deze versie is gelicentieerd via de Apple Mac App Store.">
 
-<!ENTITY licenseConfirmed.label "License code confirmed!">
+<!ENTITY licenseConfirmed.label "Licentiesleutel bevestigd!">
 
-<!ENTITY thanksTitle.label "Thank you for purchasing Postbox!">
-<!ENTITY helpUs.label "Help us get the word out!">
-<!ENTITY composeFacebook.label "Tell your friends on ">
+<!ENTITY thanksTitle.label "Bedankt voor het aanschaffen van Postbox!">
+<!ENTITY helpUs.label "Help ons en vertel het verder!">
+<!ENTITY composeFacebook.label "Vertel het je vrienden op ">
 <!ENTITY helpUsFacebook.label "Facebook">
-<!ENTITY composeTwitter.label "Post an update on ">
+<!ENTITY composeTwitter.label "Plaats een update op ">
 <!ENTITY helpUsTwitter.label "Twitter">
 <!ENTITY okButton.label "OK">
 
@@ -32,17 +32,17 @@
 <!ENTITY firstRow.top "80">
 <!ENTITY secondRow.top "100">
 <!ENTITY thirdRow.top "120">
-<!ENTITY fourthRow.top "140">
+<!ENTITY fourthRow.top "130">
 
 <!ENTITY buttonsMac.top "179">
 <!ENTITY buttons.top "187">
 
-<!ENTITY facebook.top "110">
-<!ENTITY twitter.top "140">
+<!ENTITY facebook.top "100">
+<!ENTITY twitter.top "130">
 <!ENTITY facebook.left "30">
 <!ENTITY facebookLink.left "65">
 
-<!ENTITY validationTitle.style "">
+<!ENTITY validationTitle.style "lettergrootte: 10px;">
 <!ENTITY enterLicenseTitle.style "">
 <!ENTITY enterLicenseInfo.style "">
 <!ENTITY invalidLicense.style "">

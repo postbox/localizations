@@ -4,7 +4,7 @@
 
 <!ENTITY accountTitle.label "RSS Settings">
 
-<!ENTITY indexMsgBodies.label "Index message bodies">
+<!ENTITY indexMsgBodies.label "Indexeer berichttext">
 <!ENTITY indexMsgBodies.accesskey "I">
 
 <!ENTITY biffStart.label "Op nieuwe artikelen controleren na elke">
@@ -12,13 +12,13 @@
 <!ENTITY biffEnd.label "minuten">
 
 <!ENTITY loginAtStartup.label "Op nieuwe artikelen controleren bij opstarten"> 
-<!ENTITY loginAtStartup.accesskey "t">
+<!ENTITY loginAtStartup.accesskey "O">
 
 <!ENTITY useQuickMode.label "Standaard de artikelsamenvatting weergeven i.p.v. de webpagina laden"> 
 <!ENTITY useQuickMode.accesskey "S">
 
 <!ENTITY manageSubscriptions.label "Abonnementen beheren…"> 
-<!ENTITY manageSubscriptions.accesskey "n">
+<!ENTITY manageSubscriptions.accesskey "b">
 
 <!ENTITY feedWindowTitle.label "Feedaccountwizard">
 

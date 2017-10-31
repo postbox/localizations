@@ -3,22 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY settings.caption "Настройки">
-<!ENTITY security.caption "Защита и аутентификация">
+<!ENTITY security.caption "Безопасность и проверка подлинности">
 <!ENTITY serverName.label "Имя сервера:">
-<!ENTITY serverName.accesskey "с">
+<!ENTITY serverName.accesskey "S">
 <!ENTITY serverDescription.label "Описание:">
-<!ENTITY serverDescription.accesskey "О">
+<!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "Порт:">
-<!ENTITY serverPort.accesskey "П">
+<!ENTITY serverPort.accesskey "P">
 <!ENTITY userName.label "Имя пользователя:">
-<!ENTITY userName.accesskey "м">
-<!ENTITY connectionSecurity.label "Защита соединения:">
-<!ENTITY connectionSecurity.accesskey "щ">
+<!ENTITY userName.accesskey "m">
+<!ENTITY connectionSecurity.label "Безопасность подключения:">
+<!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Нет">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, если доступно">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY smtpEditTitle.label "SMTP-сервер">
+<!ENTITY smtpEditTitle.label "Сервер SMTP">
 <!ENTITY serverPortDefault.label "По умолчанию:">
-<!ENTITY authMethod.label "Метод аутентификации:">
-<!ENTITY authMethod.accesskey "е">
+<!ENTITY authMethod.label "Проверка подлинности:">
+<!ENTITY authMethod.accesskey "i">

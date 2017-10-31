@@ -7,36 +7,36 @@
 <!ENTITY itemAdvanced.label               "Geavanceerd">
 
 <!ENTITY style.label                      "Stijl:">
-<!ENTITY style.accesskey                  "t">
+<!ENTITY style.accesskey                  "S">
 <!ENTITY regularStyle.label               "Normaal">
 <!ENTITY bold.label                       "Vet">
 <!ENTITY italic.label                     "Cursief">
 <!ENTITY boldItalic.label                 "Vet en cursief">
 <!ENTITY size.label                       "Grootte:">
-<!ENTITY size.accesskey                   "r">
+<!ENTITY size.accesskey                   "G">
 <!ENTITY regularSize.label                "Normaal">
 <!ENTITY bigger.label                     "Groter">
 <!ENTITY smaller.label                    "Kleiner">
-<!ENTITY textColor.label                  "Text Color:">
+<!ENTITY textColor.label                  "Tekstkleur:">
 <!ENTITY textColor.accesskey              "T">
-<!ENTITY backgroundColor.label            "Background Color:">
-<!ENTITY backgroundColor.accesskey        "b">
+<!ENTITY backgroundColor.label            "Achtergrondkleur:">
+<!ENTITY backgroundColor.accesskey        "A">
 
 
 <!-- tags -->
-<!ENTITY tagColumn.label "Topic">
-<!ENTITY tagActiveColumn.label    "Favorite">
+<!ENTITY tagColumn.label "Label">
+<!ENTITY tagActiveColumn.label    "Favoriet">
 <!ENTITY newTagButton.label        "Nieuw…">
 <!ENTITY newTagButton.accesskey    "N">
 <!ENTITY editTagButton1.label      "Bewerken…">
 <!ENTITY editTagButton1.accesskey  "B">
-<!ENTITY removeTagButton.label     "Verwijderen">
+<!ENTITY removeTagButton.label    "Verwijderen">
 <!ENTITY removeTagButton.accesskey "V">
 
 <!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Lettertypen &amp; kleuren">
 <!ENTITY defaultFont.label       "Standaardlettertype:">
-<!ENTITY defaultFont.accesskey   "S">
+<!ENTITY defaultFont.accesskey   "d">
 <!ENTITY defaultSize.label       "Grootte:">
 <!ENTITY defaultSize.accesskey   "G">
 <!ENTITY fontOptions.accesskey   "c">
@@ -70,47 +70,47 @@
 <!ENTITY closeMsgOnMoveOrDelete.label     "Berichtvenster/-tabblad sluiten bij verplaatsen of verwijderen">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "s">
 
-<!ENTITY pb.messagelist.colortagrow.label "Apply the topic color to the entire row in the message list pane">
-<!ENTITY pb.messagelist.colortagrow.accesskey "g">
+<!ENTITY pb.messagelist.colortagrow.label "Pas de label-kleur toe op de hele rij in de berichtenlijst">
+<!ENTITY pb.messagelist.colortagrow.accesskey "P">
 
 <!-- conversation preferences -->
-<!ENTITY pb.itemConversation.label        "Conversations">
-<!ENTITY pb.conversations.display.label "Include messages from:">
-<!ENTITY pb.conversations.folderonly.label1 "The current folder">
-<!ENTITY pb.conversations.all.label1 "Every folder">
+<!ENTITY pb.itemConversation.label        "Conversaties">
+<!ENTITY pb.conversations.display.label "Bevat berichten van:">
+<!ENTITY pb.conversations.folderonly.label1 "De huidige map">
+<!ENTITY pb.conversations.all.label1 "Elke Map">
 
-<!ENTITY pb.conversations.sortorder.label "Order conversations by:">
-<!ENTITY pb.conversations.sortoldest.label "Oldest messages first">
-<!ENTITY pb.conversations.sortnewest.label "Newest messages first">
+<!ENTITY pb.conversations.sortorder.label "Rangschik conversaties op:">
+<!ENTITY pb.conversations.sortoldest.label "Oudste berichten eerst">
+<!ENTITY pb.conversations.sortnewest.label "Nieuwste berichten eerst">
 
-<!ENTITY pb.conversations.read.label "When displaying a conversation, mark its messages as read">
+<!ENTITY pb.conversations.read.label "Als een conversatie wordt weergegeven, diens berichten als gelezen markeren">
 <!ENTITY pb.conversations.read.accesskey "c">
-<!ENTITY pb.conversations.photos.label "Include contact photos for each participant in the conversation">
-<!ENTITY pb.conversations.photos.accesskey "I">
+<!ENTITY pb.conversations.photos.label "Voeg contact foto's toe van iedere deelnemer in de conversatie">
+<!ENTITY pb.conversations.photos.accesskey "i">
 
 <!-- general -->
-<!ENTITY pb.itemGeneral.label        "General">
-<!ENTITY useRetina.label             "Retina Display">
-<!ENTITY devPixelsPerPx.label        "DPI scaling:">
+<!ENTITY pb.itemGeneral.label        "Algemeen">
+<!ENTITY useRetina.label             "Retina Scherm">
+<!ENTITY devPixelsPerPx.label        "Hoge DPI schaling:">
 <!ENTITY devPixelsPerPx.accesskey    "D">
-<!ENTITY devPixelsPerPx.default      "Default">
-<!ENTITY devPixelsPerPx.lowdpi       "Low DPI">
-<!ENTITY devPixelsPerPx.highdpi      "High DPI">
+<!ENTITY devPixelsPerPx.default      "Standaard">
+<!ENTITY devPixelsPerPx.lowdpi       "Lage DPI">
+<!ENTITY devPixelsPerPx.highdpi      "Hoge DPI">
 
 <!-- message list font size -->
 
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
+<!ENTITY pbChromeFontSizeSmall.label      "Klein">
 <!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
+<!ENTITY pbChromeFontSizeLarge.label      "Groot">
+<!ENTITY pbChromeFontSize.label           "Lettergrootte Berichtenlijst en Map:">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 <!-- quoted colors -->
-<!ENTITY quotedColors.label "Quoted colors, levels 1 to 5:">
-<!ENTITY quotedColor1.label "Quoted color, level 1">
-<!ENTITY quotedColor2.label "Quoted color, level 2">
-<!ENTITY quotedColor3.label "Quoted color, level 3">
-<!ENTITY quotedColor4.label "Quoted color, level 4">
-<!ENTITY quotedColor5.label "Quoted color, level 5">
+<!ENTITY quotedColors.label "Kleuren quote, Niveaus 1 tot 5:">
+<!ENTITY quotedColor1.label "Kleur quote, niveau 1">
+<!ENTITY quotedColor2.label "Kleur quote, niveau 2">
+<!ENTITY quotedColor3.label "Kleur quote, niveau 3">
+<!ENTITY quotedColor4.label "Kleur quote, niveau 4">
+<!ENTITY quotedColor5.label "Kleur quote, niveau 5">
 
-<!ENTITY boldUnread.label      "Bold Unread">
+<!ENTITY boldUnread.label      "Vet ongelezen">

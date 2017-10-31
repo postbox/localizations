@@ -3,51 +3,51 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY doNotDownloadPop3Movemail.label "Чтобы сэкономить дисковое пространство, не загружать:">
-<!ENTITY offlineNewFolder.label "When I create new folders, select them for offline use">
+<!ENTITY offlineNewFolder.label "При создании папок сделать их доступными в автономном режиме">
 <!ENTITY offlineNewFolder.accesskey "c">
 <!ENTITY allFoldersOffline.label "Хранить сообщения для этой учётной записи на этом компьютере">
 <!ENTITY allFoldersOffline.accesskey "р">
 <!ENTITY offlineNotDownload.label "Сообщения размером более">
-<!ENTITY offlineNotDownload.accesskey "б">
+<!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Не загружать сообщения размером более">
 <!ENTITY autosyncNotDownload.accesskey "ж">
 <!ENTITY kb.label "КБ">
 <!ENTITY daysOld.label "дней">
 <!ENTITY message.label "сообщений">
 <!ENTITY nntpNotDownloadRead.label "Загружать только непрочитанные сообщения">
-<!ENTITY nntpNotDownloadRead.accesskey "а">
+<!ENTITY nntpNotDownloadRead.accesskey "R">
 <!ENTITY nntpDownloadMsg.label "Загружать сообщения только за последние">
-<!ENTITY nntpDownloadMsg.accesskey "г">
-<!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены.">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Для освобождения места на диске старые сообщения могут быть полностью удалены.">
 <!ENTITY retentionCleanupImap.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены (как локальные копии, так и оригиналы на удалённом сервере).">
 <!ENTITY retentionCleanupPop.label "Для высвобождения места на диске старые сообщения могут быть полностью удалены (в том числе оригиналы на удалённом сервере).">
 <!ENTITY retentionKeepMsg.label "Удалять сообщения старше">
-<!ENTITY retentionKeepMsg.accesskey "л">
+<!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Не удалять сообщения">
-<!ENTITY retentionKeepAll.accesskey "е">
+<!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Удалять все, кроме последних">
 <!ENTITY retentionKeepRecent.accesskey "я">
 <!ENTITY retentionApplyToFlagged.label "Всегда хранить сообщения, отмеченные звёздочкой">
 <!ENTITY retentionApplyToFlagged.accesskey "с">
 <!ENTITY nntpRemoveMsgBody.label "Удалять содержимое из сообщений, хранящихся дольше">
 <!ENTITY nntpRemoveMsgBody.accesskey "д">
-<!ENTITY offlineSelectNntp.label "Выбрать группы новостей, доступные в автономном режиме…">
+<!ENTITY offlineSelectNntp.label "Выбрать группы новостей для автономной работы…">
 <!ENTITY offlineSelectNntp.accesskey "ы">
 <!ENTITY offlineImapAdvancedOffline.label "Дополнительно…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "о">
-<!ENTITY offlineGroupTitle.label "Offline">
+<!ENTITY offlineGroupTitle.label "Автономный режим">
 <!ENTITY diskspaceGroupTitle.label "Дисковое пространство">
-<!ENTITY ftiGroupTitle.label "Global Search">
-<!ENTITY fti.indexMsgBodies.label "Index message bodies">
-<!ENTITY newsrcFilePath.label "newsrc file:">
+<!ENTITY ftiGroupTitle.label "Глобальный поиск">
+<!ENTITY fti.indexMsgBodies.label "Индексировать сообщения">
+<!ENTITY newsrcFilePath.label "Файл newsrc:">
 <!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Local directory:">
+<!ENTITY localPath.label "Локальный каталог:">
 <!ENTITY localPath.accesskey "L">
-<!ENTITY localFolderPicker.label "Select Local Directory">
-<!ENTITY browseFolder.label "Browse...">
+<!ENTITY localFolderPicker.label "Выберите локальный каталог">
+<!ENTITY browseFolder.label "Обзор…">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Select newsrc File">
-<!ENTITY browseNewsrc.label "Browse...">
+<!ENTITY newsrcPicker.label "Выберите файл newsrc">
+<!ENTITY browseNewsrc.label "Обзор…">
 <!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY storeType.label "Message Store Type:">

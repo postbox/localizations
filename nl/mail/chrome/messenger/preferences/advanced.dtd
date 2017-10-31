@@ -4,35 +4,35 @@
 
 <!ENTITY itemGeneral.label       "Algemeen">
 <!ENTITY dataChoicesTab.label    "Gegevenskeuzes">
-<!ENTITY itemUpdate.label        "Update">
+<!ENTITY itemUpdate.label        "Bijwerken">
 <!ENTITY itemNetworking.label    "Netwerk &amp; schijfruimte">
 <!ENTITY itemCertificates.label  "Certificaten">
-<!ENTITY itemWebServices.label   "Web Services">
-<!ENTITY itemQuickPost.label     "Quick Post">
+<!ENTITY itemWebServices.label   "Webservices">
+<!ENTITY itemQuickPost.label     "Snel Plaatsen">
 
 <!-- General Settings -->
-<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!ENTITY autoMarkAsRead.label          "Berichten automatisch als gelezen markeren">
+<!ENTITY autoMarkAsRead.accesskey      "B">
+<!ENTITY markAsReadNoDelay.label       "Direct zichtbaar">
+<!ENTITY markAsReadNoDelay.accesskey   "D">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "After displaying for">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "seconds">
-<!ENTITY rememberLastMsg.label         "Remember the last selected message">
+<!ENTITY markAsReadDelay.label         "Na">
+<!ENTITY markAsReadDelay.accesskey     "N">
+<!ENTITY secondsLabel.label            "seconden weergeven">
+<!ENTITY rememberLastMsg.label         "Onthoud het laatst geselecteerde bericht">
 <!ENTITY rememberLastMsg.accesskey     "b">
-<!ENTITY openMsgIn1.label              "Open messages in:">
-<!ENTITY openMsgInNewTab.label          "a new tab">
-<!ENTITY openMsgInNewTab.accesskey      "a">
-<!ENTITY openMsgInNewWindow.label       "a new window">
+<!ENTITY openMsgIn1.label              "Nieuwe berichten openen in:">
+<!ENTITY openMsgInNewTab.label          "Een nieuw tabblad">
+<!ENTITY openMsgInNewTab.accesskey      "t">
+<!ENTITY openMsgInNewWindow.label       "een nieuw venster">
 <!ENTITY openMsgInNewWindow.accesskey   "i">
-<!ENTITY openMsgInExistingWindow.label  "an existing window">
-<!ENTITY openMsgInExistingWindow.accesskey "x">
-<!ENTITY connectionTimeout.label       "Connection timeout: ">
-<!ENTITY connectionTimeout.accesskey   "C">
-<!ENTITY connectionSeconds.label       "seconds">
+<!ENTITY openMsgInExistingWindow.label  "een bestaand venster">
+<!ENTITY openMsgInExistingWindow.accesskey "e">
+<!ENTITY connectionTimeout.label       "Verbindings Time-out: ">
+<!ENTITY connectionTimeout.accesskey   "V">
+<!ENTITY connectionSeconds.label       "seconden">
 <!ENTITY enableGlodaSearch.label       "Globaal zoeken en indexer activeren">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY allowHWAccel.label            "Hardwareversnelling gebruiken wanneer beschikbaar">
@@ -89,12 +89,12 @@
 <!ENTITY useService.label                "Een achtergrondservice gebruiken om updates te installeren">
 <!ENTITY useService.accesskey            "a">
 
-<!ENTITY deleteSelectOrder.label        "After deleting a message select the:">
-<!ENTITY showPreviousMessage.label      "Previous Message">
-<!ENTITY showNextMessage.label          "Next Message">
+<!ENTITY deleteSelectOrder.label        "Select na het verwijderen van een bericht de:">
+<!ENTITY showPreviousMessage.label      "Vorig Bericht">
+<!ENTITY showNextMessage.label          "Volgend Bericht">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showConnections.label         "Connection...">
+<!ENTITY showConnections.label         "Verbinding...">
 <!ENTITY showConnections.accesskey     "n">
 
 <!ENTITY offlineCompactFolders.label     "Alle mappen comprimeren als dit meer bespaart dan">
@@ -114,62 +114,62 @@
 <!ENTITY clearCacheNow.accesskey         "w">
 
 <!-- Certificates -->
-<!ENTITY certSelection.label "When a server requests my certificate:">
-<!ENTITY certs.auto                      "Er automatisch een selecteren">
+<!ENTITY certSelection.label "Wanneer een server mijn certificaat verzoekt:">
+<!ENTITY certs.auto                      "Selecteer er automatisch een">
 <!ENTITY certs.auto.accesskey            "a">
-<!ENTITY certs.ask                       "Mij elke keer vragen">
+<!ENTITY certs.ask                       "Mij telkens vragen">
 <!ENTITY certs.ask.accesskey             "e">
 <!ENTITY enableOCSP.label                "OCSP-responderservers vragen om de huidige geldigheid van certificaten te bevestigen">
 <!ENTITY enableOCSP.accesskey            "v">
 
 <!ENTITY manageCertificates.label       "Certificaten beheren">
 <!ENTITY manageCertificates.accesskey   "C">
-<!ENTITY viewCRLs.label                 "Revocation Lists">
-<!ENTITY viewCRLs.accesskey             "e">
-<!ENTITY viewOCSP.label                 "Verification">
+<!ENTITY viewCRLs.label                 "Intrekkingslijsten">
+<!ENTITY viewCRLs.accesskey             "I">
+<!ENTITY viewOCSP.label                 "Verificatie">
 <!ENTITY viewOCSP.accesskey             "f">
 <!ENTITY viewSecurityDevices.label      "Beveiligingsapparaten">
 <!ENTITY viewSecurityDevices.accesskey  "B">
 
 <!-- Web Services -->
-<!ENTITY webservicesInfo.label          "Configure the Web services used within &brandShortName;.">
+<!ENTITY webservicesInfo.label          "Configureer de Web services die zijn gebruikt binnen Postbox.">
 
-<!ENTITY textStartUp   "When starting up:">
-<!ENTITY radioRememberPrevState "Remember previous online state">
-<!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe "Ask me for online state at startup">
+<!ENTITY textStartUp   "Bij het opstarten:">
+<!ENTITY radioRememberPrevState "Herinner de vorige online status">
+<!ENTITY radioRememberPrevState.accesskey "r">
+<!ENTITY radioAskMe "Vraag de online status bij het opstarten">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline "Always start up online">
+<!ENTITY radioAlwaysOnline "Altijd online opstarten">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline1 "When going online:">
-<!ENTITY radioAutoSend1 "Send unsent messages">
-<!ENTITY radioNotSend1 "Do not send unsent messages">
-<!ENTITY radioAskUnsent1 "Ask to send unsent messages">
+<!ENTITY textGoingOnline1 "Als u online gaat:">
+<!ENTITY radioAutoSend1 "Niet verzonden berichten versturen">
+<!ENTITY radioNotSend1 "Niet verstuurde berichten niet verzenden">
+<!ENTITY radioAskUnsent1 "Vragen om niet verstuurde berichten te verzenden">
 
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload "Yes">
-<!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload "No">
-<!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload "Ask me">
+<!ENTITY textGoingOffline "Wilt u berichten downloaden voor offlinegebruik voordat u offline gaat?">
+<!ENTITY radioAutoDownload "Ja">
+<!ENTITY radioAutoDownload.accesskey "J">
+<!ENTITY radioNotDownload "Nee">
+<!ENTITY radioNotDownload.accesskey "N">
+<!ENTITY radioAskDownload "Mij vragen">
 <!ENTITY radioAskDownload.accesskey "a">
 
-<!ENTITY useGmailShortcuts.label "Use Gmail keyboard shortcuts">
+<!ENTITY useGmailShortcuts.label "Gebruik de sneltoetsen van Gmail">
 <!ENTITY useGmailShortcuts.accesskey "l">
 
-<!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
+<!ENTITY pbUseGravatar.label "Gebruik de Gravatar Service voor het opzoeken van contact foto's.">
 <!ENTITY pbUseGravatar.accesskey "G">
 
-<!ENTITY pbUseGoogleCalendar.label "Use Google Calendar for detected dates.">
+<!ENTITY pbUseGoogleCalendar.label "Gebruik Google Calendar voor gedetecteerde datum.">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
 
-<!ENTITY pbSwipeLeft.label "Swipe Left:">
-<!ENTITY pbSwipeRight.label "Swipe Right:">
-<!ENTITY pbNextMessage.label "Select Next Message">
-<!ENTITY pbPreviousMessage.label "Select Previous Message">
-<!ENTITY pbDeleteMessage.label "Delete Message">
-<!ENTITY pbArchiveMessage.label "Archive Message">
-<!ENTITY pbOpenMessage.label "Open Message">
-<!ENTITY pbOpenFolderPane.label "Open Folder Pane">
-<!ENTITY pbCloseFolderPane.label "Close Folder Pane">
+<!ENTITY pbSwipeLeft.label "Veeg naar links:">
+<!ENTITY pbSwipeRight.label "Veeg naar rechts:">
+<!ENTITY pbNextMessage.label "Volgende Bericht Selecteren">
+<!ENTITY pbPreviousMessage.label "Vorige Bericht selecteren">
+<!ENTITY pbDeleteMessage.label "Bericht Verwijderen">
+<!ENTITY pbArchiveMessage.label "Bericht Archiveren">
+<!ENTITY pbOpenMessage.label "Bericht Openen">
+<!ENTITY pbOpenFolderPane.label "Open Mappenpaneel">
+<!ENTITY pbCloseFolderPane.label "Sluit Mappenpaneel">

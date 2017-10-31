@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemFormatting.label             "Formato">
+<!ENTITY itemFormatting.label             "Formattazione">
 <!ENTITY itemTags.label                   "Etichette">
 <!ENTITY itemAdvanced.label               "Avanzate">
 
@@ -12,33 +12,33 @@
 <!ENTITY bold.label                       "Grassetto">
 <!ENTITY italic.label                     "Corsivo">
 <!ENTITY boldItalic.label                 "Grassetto corsivo">
-<!ENTITY size.label                       "Dimensione:">
+<!ENTITY size.label                       "Dimensioni:">
 <!ENTITY size.accesskey                   "s">
 <!ENTITY regularSize.label                "Regolare">
 <!ENTITY bigger.label                     "Più grande">
 <!ENTITY smaller.label                    "Più piccolo">
-<!ENTITY textColor.label                  "Text Color:">
-<!ENTITY textColor.accesskey              "T">
-<!ENTITY backgroundColor.label            "Background Color:">
-<!ENTITY backgroundColor.accesskey        "b">
+<!ENTITY textColor.label                  "Colore del testo:">
+<!ENTITY textColor.accesskey              "t">
+<!ENTITY backgroundColor.label            "Colore dello sfondo:">
+<!ENTITY backgroundColor.accesskey        "f">
 
 
 <!-- tags -->
-<!ENTITY tagColumn.label "Topic">
-<!ENTITY tagActiveColumn.label    "Favorite">
+<!ENTITY tagColumn.label "Etichetta">
+<!ENTITY tagActiveColumn.label    "Preferito">
 <!ENTITY newTagButton.label        "Nuovo…">
 <!ENTITY newTagButton.accesskey    "N">
 <!ENTITY editTagButton1.label      "Modifica…">
 <!ENTITY editTagButton1.accesskey  "M">
-<!ENTITY removeTagButton.label     "Elimina">
+<!ENTITY removeTagButton.label    "Elimina">
 <!ENTITY removeTagButton.accesskey "E">
 
 <!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Caratteri e colori">
 <!ENTITY defaultFont.label       "Carattere predefinito:">
-<!ENTITY defaultFont.accesskey   "C">
-<!ENTITY defaultSize.label       "Dim.:">
-<!ENTITY defaultSize.accesskey   "D">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "Dimensioni:">
+<!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "z">
 <!ENTITY fontOptions.label       "Avanzate…">
 <!ENTITY colorButton.label       "Colori…">
@@ -70,47 +70,47 @@
 <!ENTITY closeMsgOnMoveOrDelete.label     "Chiudere la finestra/scheda del messaggio in caso sia spostato o cancellato">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
-<!ENTITY pb.messagelist.colortagrow.label "Apply the topic color to the entire row in the message list pane">
+<!ENTITY pb.messagelist.colortagrow.label "Applica il colore argomento all'intera riga nel pannello lista messaggi">
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">
 
 <!-- conversation preferences -->
-<!ENTITY pb.itemConversation.label        "Conversations">
-<!ENTITY pb.conversations.display.label "Include messages from:">
-<!ENTITY pb.conversations.folderonly.label1 "The current folder">
-<!ENTITY pb.conversations.all.label1 "Every folder">
+<!ENTITY pb.itemConversation.label        "Conversazioni">
+<!ENTITY pb.conversations.display.label "Includi i messaggi da:">
+<!ENTITY pb.conversations.folderonly.label1 "La cartella corrente">
+<!ENTITY pb.conversations.all.label1 "Ogni cartella">
 
-<!ENTITY pb.conversations.sortorder.label "Order conversations by:">
-<!ENTITY pb.conversations.sortoldest.label "Oldest messages first">
-<!ENTITY pb.conversations.sortnewest.label "Newest messages first">
+<!ENTITY pb.conversations.sortorder.label "Ordina le conversazioni per:">
+<!ENTITY pb.conversations.sortoldest.label "Prima i messaggi meno recenti">
+<!ENTITY pb.conversations.sortnewest.label "Prima i messaggi più recenti">
 
-<!ENTITY pb.conversations.read.label "When displaying a conversation, mark its messages as read">
+<!ENTITY pb.conversations.read.label "Quando visualizzi una conversazione, contrassegna i suoi messaggi come già letti">
 <!ENTITY pb.conversations.read.accesskey "c">
-<!ENTITY pb.conversations.photos.label "Include contact photos for each participant in the conversation">
+<!ENTITY pb.conversations.photos.label "Includi le foto dei contatti per ogni partecipante alla conversazione">
 <!ENTITY pb.conversations.photos.accesskey "I">
 
 <!-- general -->
-<!ENTITY pb.itemGeneral.label        "General">
+<!ENTITY pb.itemGeneral.label        "Generale">
 <!ENTITY useRetina.label             "Retina Display">
-<!ENTITY devPixelsPerPx.label        "DPI scaling:">
+<!ENTITY devPixelsPerPx.label        "Ingrandimento High DPI:">
 <!ENTITY devPixelsPerPx.accesskey    "D">
-<!ENTITY devPixelsPerPx.default      "Default">
+<!ENTITY devPixelsPerPx.default      "Predefinito">
 <!ENTITY devPixelsPerPx.lowdpi       "Low DPI">
 <!ENTITY devPixelsPerPx.highdpi      "High DPI">
 
 <!-- message list font size -->
 
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
+<!ENTITY pbChromeFontSizeSmall.label      "Piccole">
+<!ENTITY pbChromeFontSizeMedium.label     "Medie">
+<!ENTITY pbChromeFontSizeLarge.label      "Grandi">
+<!ENTITY pbChromeFontSize.label           "Dimensioni caratteri Elenco messaggi e Cartelle:">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 <!-- quoted colors -->
-<!ENTITY quotedColors.label "Quoted colors, levels 1 to 5:">
-<!ENTITY quotedColor1.label "Quoted color, level 1">
-<!ENTITY quotedColor2.label "Quoted color, level 2">
-<!ENTITY quotedColor3.label "Quoted color, level 3">
-<!ENTITY quotedColor4.label "Quoted color, level 4">
-<!ENTITY quotedColor5.label "Quoted color, level 5">
+<!ENTITY quotedColors.label "Colori citazione, livelli da 1 a 5:">
+<!ENTITY quotedColor1.label "Colore citazione, livello 1">
+<!ENTITY quotedColor2.label "Colore citazione, livello 2">
+<!ENTITY quotedColor3.label "Colore citazione, livello 3">
+<!ENTITY quotedColor4.label "Colore citazione, livello 4">
+<!ENTITY quotedColor5.label "Colore citazione, livello 5">
 
-<!ENTITY boldUnread.label      "Bold Unread">
+<!ENTITY boldUnread.label      "Grassetto Mon letto">

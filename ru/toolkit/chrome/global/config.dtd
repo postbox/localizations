@@ -29,22 +29,22 @@
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Копировать">
-<!ENTITY copyPref.accesskey "п">
+<!ENTITY copyPref.accesskey "К">
 <!ENTITY copyName.label "Копировать имя">
 <!ENTITY copyName.accesskey "и">
 <!ENTITY copyValue.label "Копировать значение">
-<!ENTITY copyValue.accesskey "в">
+<!ENTITY copyValue.accesskey "з">
 <!ENTITY modify.label "Изменить">
-<!ENTITY modify.accesskey "з">
+<!ENTITY modify.accesskey "И">
 <!ENTITY toggle.label "Переключить">
-<!ENTITY toggle.accesskey "л">
+<!ENTITY toggle.accesskey "П">
 <!ENTITY reset.label "Сбросить">
-<!ENTITY reset.accesskey "б">
+<!ENTITY reset.accesskey "р">
 <!ENTITY new.label "Создать">
-<!ENTITY new.accesskey "а">
+<!ENTITY new.accesskey "з">
 <!ENTITY string.label "Строка">
-<!ENTITY string.accesskey "к">
+<!ENTITY string.accesskey "т">
 <!ENTITY integer.label "Целое">
-<!ENTITY integer.accesskey "е">
+<!ENTITY integer.accesskey "Ц">
 <!ENTITY boolean.label "Логическое">
-<!ENTITY boolean.accesskey "ч">
+<!ENTITY boolean.accesskey "Л">

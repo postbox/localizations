@@ -6,7 +6,7 @@
 <!ENTITY searchHeading.label         "Berichten zoeken in:">
 <!ENTITY searchHeading.accesskey     "k">
 <!ENTITY searchSubfolders.label      "Submappen doorzoeken">
-<!ENTITY searchSubfolders.accesskey  "u">
+<!ENTITY searchSubfolders.accesskey  "S">
 <!ENTITY searchOnServer.label        "Op de server zoeken">
 <!ENTITY searchOnServer.accesskey    "r">
 <!ENTITY resetButton.label           "Wissen">
@@ -23,7 +23,7 @@
 <!ENTITY openInFolder.label          "Openen in map">
 <!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Opslaan als zoekmap">
-<!ENTITY saveAsVFButton.accesskey    "s">
+<!ENTITY saveAsVFButton.accesskey    "m">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Zoeken in:">

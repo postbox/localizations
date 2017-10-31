@@ -11,8 +11,8 @@
 <!ENTITY tree.propertyHeader.label "Свойство">
 <!ENTITY tree.valueHeader.label "Значение">
 <!ENTITY tabHTML.label "HTML-атрибуты">
-<!ENTITY tabCSS.label "Стилевое оформление">
+<!ENTITY tabCSS.label "Встроенный стиль">
 <!ENTITY tabJSE.label "События JavaScript">
 
-<!ENTITY editAttribute.label "Щёлкните по объекту вверху, чтобы изменить его значение">
+<!ENTITY editAttribute.label "Щелкните указанный выше объект, чтобы изменить его значение">
 <!ENTITY removeAttribute.label "Удалить">

@@ -1,16 +1,16 @@
-<!ENTITY pane.title                 "Delivery Status Notification">
-<!ENTITY useGlobalPrefs.label       "Use my global Delivery Status Notification preferences for this account">
+<!ENTITY pane.title                 "Notification d'état de la distribution">
+<!ENTITY useGlobalPrefs.label       "Utiliser mes préférences globales de notification d'état de la distribution pour ce compte">
 <!ENTITY useGlobalPrefs.accesskey   "U">
-<!ENTITY useCustomPrefs.label       "Customize Delivery Status Notification for this account">
-<!ENTITY useCustomPrefs.accesskey   "C">
-<!ENTITY requestAlways.label        "When sending messages, always request a Delivery Status Notification">
-<!ENTITY requestAlways.accesskey    "W">
-<!ENTITY optionTitle.label          "Ask notification on :">
-<!ENTITY requestOnSucess.label      "Success in delivering">
-<!ENTITY requestOnSucess.accesskey  "S">
-<!ENTITY requestOnFailure.label     "Failure in delivering">
-<!ENTITY requestOnFailure.accesskey "F">
-<!ENTITY requestOnDelay.label       "Delay in delivering">
-<!ENTITY requestOnDelay.accesskey   "D">
-<!ENTITY requestNever.label         "Never receive Delivery Status Notification">
+<!ENTITY useCustomPrefs.label       "Personnaliser la notification d'état de la distribution pour ce compte">
+<!ENTITY useCustomPrefs.accesskey   "c">
+<!ENTITY requestAlways.label        "Toujours demander un accusé de réception pour les messages envoyés">
+<!ENTITY requestAlways.accesskey    "T">
+<!ENTITY optionTitle.label          "Demander une notification sur :">
+<!ENTITY requestOnSucess.label      "Remis avec succès">
+<!ENTITY requestOnSucess.accesskey  "s">
+<!ENTITY requestOnFailure.label     "Erreur à l'envoi">
+<!ENTITY requestOnFailure.accesskey "E">
+<!ENTITY requestOnDelay.label       "Retard dans l'envoi">
+<!ENTITY requestOnDelay.accesskey   "d">
+<!ENTITY requestNever.label         "Ne jamais recevoir d'accusé de réception">
 <!ENTITY requestNever.accesskey     "N">

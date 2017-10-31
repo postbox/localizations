@@ -20,7 +20,7 @@
                 biffEnd.label   "minutes for new messages Check"
 -->
 <!ENTITY biffStart.label "Check for new messages every ">
-<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "minutes">
 <!ENTITY useIdleNotifications.label "Allow immediate server notifications when new messages arrive">
 <!ENTITY useIdleNotifications.accesskey "w">
@@ -30,12 +30,12 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.label "Authentication:">
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Leave messages on server">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Fetch headers only">
-<!ENTITY headersOnly.accesskey "f">
+<!ENTITY headersOnly.accesskey "F">
 <!ENTITY deleteByAgeFromServer.label "For at most">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "days">
@@ -53,7 +53,7 @@
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Clean up (&quot;Expunge&quot;) Inbox on Exit">
-<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Empty Deleted folder on Exit">
 <!ENTITY emptyTrashOnExit.accesskey "x">
 <!ENTITY loginAtStartup.label "Check for new messages at startup">
@@ -76,7 +76,7 @@
 <!ENTITY serverDefaultCharset2.label "Default Text Encoding:">
 
 <!ENTITY accountName.label "Account Name:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "n">
 
 <!ENTITY accountTitle.label "Account Settings">
 <!ENTITY accountSettingsDesc.label "The following is a special account.  There are no identities associated with it.">

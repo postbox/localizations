@@ -3,24 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  intro2.label                "Você selecionou abrir:">
-<!ENTITY  from.label                  "de:">
+<!ENTITY  from.label                  "Site:">
 <!ENTITY  actionQuestion.label        "O que o &brandShortName; deve fazer?">
 
 <!ENTITY  openWith.label              "Abrir com o:">
 <!ENTITY  openWith.accesskey          "A">
 <!ENTITY  other.label                 "Outro aplicativo…">
 
-<!ENTITY  saveFile.label              "Salvar arquivo">
+<!ENTITY  saveFile.label              "Download">
 <!ENTITY  saveFile.accesskey          "D">
 
-<!ENTITY  rememberChoice.label        "Fazer isso automaticamente nos arquivos como este de agora em diante.">
+<!ENTITY  rememberChoice.label        "Memorizar a decisão para este tipo de arquivo">
 <!ENTITY  rememberChoice.accesskey    "M">
 
 <!ENTITY  whichIs.label              "tipo:">
 
-<!ENTITY  chooseHandlerMac.label      "Escolher…">
-<!ENTITY  chooseHandlerMac.accesskey  "C">
+<!ENTITY  chooseHandlerMac.label      "Procurar…">
+<!ENTITY  chooseHandlerMac.accesskey  "P">
 <!ENTITY  chooseHandler.label         "Procurar…">
 <!ENTITY  chooseHandler.accesskey     "P">
 
-<!ENTITY  unknownPromptText.label     "Gostaria de salvar este arquivo?">
+<!ENTITY  unknownPromptText.label     "Deseja fazer o download?">

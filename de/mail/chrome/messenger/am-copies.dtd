@@ -6,7 +6,7 @@
 
 <!ENTITY copyAndFolderTitle.label "Kopien &amp; Ordner">
 <!ENTITY fccMailFolder.label "Eine Kopie speichern unter:">
-<!ENTITY fccMailFolder.accesskey "p">
+<!ENTITY fccMailFolder.accesskey "o">
 <!ENTITY fccReplyFollowsParent.label "Antworten im Ordner der ursprünglichen Nachricht speichern">
 <!ENTITY fccReplyFollowsParent.accesskey "w">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
@@ -14,41 +14,41 @@
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "E-Mail-Adressen durch Kommata trennen">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Blindkopie (BCC) an:">
+<!ENTITY bccAddress.label "BCC an diese E-Mail-Adressen:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "E-Mail-Adressen durch Kommata trennen">
 <!ENTITY saveMessageDlg.label "Bestätigungsdialog beim Speichern von Nachrichten anzeigen">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn1.label "Sent:">
+<!ENTITY sentFolderOn1.label "Gesendet:">
 <!ENTITY sentFolderOn1.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Anderer Ordner:">
-<!ENTITY sentInOtherFolder.accesskey "O">
+<!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (archivesFolderOn1.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Nachrichtenarchiv">
 <!ENTITY keepArchives.label "Archiv speichern unter:">
 <!ENTITY keepArchives.accesskey "A">
 <!ENTITY archiveHierarchyButton.label "Archivoptionen…">
 <!ENTITY archiveHierarchyButton.accesskey "t">
-<!ENTITY archivesFolderOn1.label "Archive:">
-<!ENTITY archivesFolderOn1.accesskey "n">
+<!ENTITY archivesFolderOn1.label "Archiv:">
+<!ENTITY archivesFolderOn1.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Anderer Ordner:">
 <!ENTITY archiveInOtherFolder.accesskey "d">
 <!ENTITY specialFolders.label "Entwürfe und Vorlagen">
 <!ENTITY keepDrafts2.label "Entwürfe speichern unter:">
 <!-- LOCALIZATION NOTE (draftsFolderOn1.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn1.label "Drafts:">
-<!ENTITY draftsFolderOn1.accesskey "D">
+<!ENTITY draftsFolderOn1.label "Entwürfe:">
+<!ENTITY draftsFolderOn1.accesskey "E">
 <!ENTITY draftInOtherFolder.label "Anderer Ordner:">
 <!ENTITY draftInOtherFolder.accesskey "n">
 <!ENTITY keepTemplates.label "Vorlagen speichern unter:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn1.label "Templates:">
-<!ENTITY templatesFolderOn1.accesskey "m">
+<!ENTITY templatesFolderOn1.label "Vorlagen:">
+<!ENTITY templatesFolderOn1.accesskey "V">
 <!ENTITY templateInOtherFolder.label "Anderer Ordner:">
 <!ENTITY templateInOtherFolder.accesskey "r">
 
-<!ENTITY pbSentSettings.label "Sent">
-<!ENTITY pbDraftsSettings.label "Drafts">
-<!ENTITY pbArchiveSettings.label "Archive">
-<!ENTITY pbTemplatesSettings.label "Templates">
+<!ENTITY pbSentSettings.label "Gesendet">
+<!ENTITY pbDraftsSettings.label "Entwürfe">
+<!ENTITY pbArchiveSettings.label "Archivieren">
+<!ENTITY pbTemplatesSettings.label "Vorlagen">

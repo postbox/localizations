@@ -6,14 +6,14 @@
 <!ENTITY fieldMapImport.size "width: 55em; height: 40em;">
 <!ENTITY fieldMapImport.recordNumber "Importierte Daten für Eintrag Nr.:">
 <!ENTITY fieldMapImport.next.label "Nächster">
-<!ENTITY fieldMapImport.next.accesskey "N">
+<!ENTITY fieldMapImport.next.accesskey "W">
 <!ENTITY fieldMapImport.previous.label "Vorhergehender">
-<!ENTITY fieldMapImport.previous.accesskey "V">
+<!ENTITY fieldMapImport.previous.accesskey "Z">
 <!ENTITY fieldMapImport.text "Verwenden Sie &quot;Nach oben&quot; und &quot;Nach unten&quot;, um die Adressbuch-Felder links den korrekten Import-Daten rechts zuzuordnen. Deaktivieren Sie alle Felder, für die nichts importiert werden soll.">
 <!ENTITY fieldMapImport.up.label "Nach oben">
-<!ENTITY fieldMapImport.up.accesskey "o">
+<!ENTITY fieldMapImport.up.accesskey "N">
 <!ENTITY fieldMapImport.down.label "Nach unten">
-<!ENTITY fieldMapImport.down.accesskey "u">
+<!ENTITY fieldMapImport.down.accesskey "N">
 <!ENTITY fieldMapImport.fieldListTitle "Adressbuch-Felder">
 <!ENTITY fieldMapImport.dataTitle "Zu importierende Daten">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Erster Eintrag enthält die Feldnamen">

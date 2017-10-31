@@ -9,9 +9,9 @@
 <!ENTITY errColumn.label "Символ:">
 
 <!ENTITY all.label "Все">
-<!ENTITY all.accesskey "е">
+<!ENTITY all.accesskey "В">
 <!ENTITY errors.label "Ошибки">
-<!ENTITY errors.accesskey "ш">
+<!ENTITY errors.accesskey "О">
 <!ENTITY warnings.label "Предупреждения">
 <!ENTITY warnings.accesskey "р">
 <!ENTITY messages.label "Сообщения">
@@ -21,15 +21,15 @@
 <!ENTITY codeEval.label "Код:">
 <!ENTITY codeEval.accesskey "о">
 <!ENTITY evaluate.label "Выполнить">
-<!ENTITY evaluate.accesskey "ы">
+<!ENTITY evaluate.accesskey "п">
 <!ENTITY filter2.label "Фильтр:">
 <!ENTITY filter2.accesskey "и">
 
 <!ENTITY copyCmd.label "Копировать">  
-<!ENTITY copyCmd.accesskey "п"> 
+<!ENTITY copyCmd.accesskey "К"> 
 <!ENTITY copyCmd.commandkey "C"> 
 <!ENTITY sortFirst.label "Сортировка по возрастанию">
-<!ENTITY sortFirst.accesskey "в">
+<!ENTITY sortFirst.accesskey "С">
 <!ENTITY sortLast.label "Сортировка по убыванию">
 <!ENTITY sortLast.accesskey "у">
 <!ENTITY closeCmd.commandkey "w">  

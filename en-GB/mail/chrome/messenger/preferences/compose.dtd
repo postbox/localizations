@@ -34,20 +34,20 @@
 <!ENTITY spellCheck.label                     "Check spelling before sending">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Enable spell check as you type">
-<!ENTITY spellCheckInline1.accesskey          "E">
+<!ENTITY spellCheckInline1.accesskey           "E">
 <!ENTITY languagePopup.label                  "Language:">
 <!ENTITY languagePopup.accessKey              "L">
 <!ENTITY downloadDictionaries.label           "Download More Dictionaries">
 
 <!ENTITY autoSave.label                       "Auto Save every">
-<!ENTITY autoSave.accesskey                   "A">
+<!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "minutes">
 
 <!ENTITY emailCollectionPicker.label           "Automatically add outgoing email addresses to my:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY autocompleteText.label                "When addressing messages, look for matching entries in:">
 <!ENTITY addressingEnable.label                "Local Address Books">
-<!ENTITY addressingEnable.accesskey            "L">
+<!ENTITY addressingEnable.accesskey            "a">
 <!ENTITY directories.label                     "Directory Server:">
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "None">
@@ -98,7 +98,7 @@
 <!ENTITY pb.quickreply.reply.label "Reply">
 <!ENTITY pb.quickreply.reply.accesskey "y">
 <!ENTITY pbNumConversationsToQuote.label "Include at most">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing on reply">
 
 <!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
 <!ENTITY pbQuoteOnQuickReply.accesskey "m">
@@ -109,7 +109,7 @@
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
 <!ENTITY pbSendAndArchive.label "Enable send and archive">
-<!ENTITY pbEnableDropbox.label "Send links when attaching files in your cloud folders">
+<!ENTITY pbEnableDropbox.label "Send links when attaching files in your Dropbox folder">
 
 <!ENTITY pbSetCompositionGoals.label "Set composition goals using">
 <!ENTITY pbStopwatchGoal.label "Stopwatch">

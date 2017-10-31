@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "Filterregler">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-<!ENTITY filterName.label "Filternamn:">
+<!ENTITY filterName.label "Namn på filterregeln:">
 <!ENTITY filterName.accesskey "N">
 
 <!ENTITY junk.label "Skräp">
@@ -16,10 +16,10 @@
 <!ENTITY highPriorityCmd.label "Hög">
 <!ENTITY highestPriorityCmd.label "Högsta">
 
-<!ENTITY contextDesc.label "Tillämpa filter vid:">
+<!ENTITY contextDesc.label "Använd filter när:">
 <!ENTITY contextIncomingMail.label "E-posthämtning:">
 <!ENTITY contextIncomingMail.accesskey "H">
-<!ENTITY contextManual.label "Manuell körning">
+<!ENTITY contextManual.label "Körs manuellt">
 <!ENTITY contextManual.accesskey "M">
 <!ENTITY contextBeforeCls.label "Filtrera innan skräppostklassificering">
 <!ENTITY contextAfterCls.label "Filtrera efter skräppostklassificering">
@@ -28,13 +28,13 @@
 <!ENTITY contextArchive.label "Arkivering">
 <!ENTITY contextArchive.accesskey "A">
 
-<!ENTITY filterActionDesc.label "Utför dessa åtgärder:">
-<!ENTITY filterActionDesc.accesskey "t">
+<!ENTITY filterActionDesc.label "Gör följande:">
+<!ENTITY filterActionDesc.accesskey "G">
 
 <!ENTITY filterActionOrderWarning.label "OBS: Filteråtgärder kommer att köras i en annan ordning.">
 <!ENTITY filterActionOrder.label "Se exekveringsordning">
 
-<!ENTITY globalFilterChekbox.label "This is a global filter">
+<!ENTITY globalFilterChekbox.label "Detta är ett globalt filter">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Flytta meddelande till">
@@ -44,11 +44,11 @@
 <!ENTITY markMessageRead.label "Märk som läst">
 <!ENTITY markMessageUnread.label "Märk som oläst">
 <!ENTITY markMessageStarred.label "Lägg till märke">
-<!ENTITY markMessagePending.label "Mark as Pending">
-<!ENTITY markMessageAs.label "Mark Message as">
+<!ENTITY markMessagePending.label "Markera som väntande">
+<!ENTITY markMessageAs.label "Markera meddelande som">
 <!ENTITY setPriority.label "Sätt prioritet till">
 <!ENTITY addTag.label "Sätt en etikett på meddelandet">
-<!ENTITY removeTag.label "Remove Topic">
+<!ENTITY removeTag.label "Ta bort ämne">
 <!ENTITY setJunkScore.label "Sätt skräpstatus till">
 <!ENTITY deleteMessage.label "Ta bort meddelandet">
 <!ENTITY deleteFromPOP.label "Ta bort från POP-server">
@@ -57,22 +57,22 @@
 <!ENTITY ignoreSubthread.label "Ignorera undertråd">
 <!ENTITY watchThread.label "Bevaka tråd">
 <!ENTITY stopExecution.label "Avbryt filterkörning">
-<!ENTITY launchScript.label "Run AppleScript">
+<!ENTITY launchScript.label "Kör AppleScript">
 
-<!ENTITY playSound.label "Play Sound">
-<!ENTITY noSoundSelected.label "Select a Sound">
-<!ENTITY systemAlertSound.label "System Alert Sound">
+<!ENTITY playSound.label "Spela ljud">
+<!ENTITY noSoundSelected.label "Välj ett ljud">
+<!ENTITY systemAlertSound.label "Systemets varningsljud">
 
-<!ENTITY noScriptsInstalled.label "No Scripts installed">
-<!ENTITY openInFinder.label "Open in Finder">
-<!ENTITY noScriptSelected.label "Select an AppleScript">
-<!ENTITY readStatus.label "Read">
-<!ENTITY reminderStatus.label "Reminder">
-<!ENTITY pendingStatus.label "Pending">
-<!ENTITY unreadStatus.label "Unread">
-<!ENTITY notReminderStatus.label "Not Reminder">
-<!ENTITY notPendingStatus.label "Not Pending">
-<!ENTITY quickPost.label "Quick Post">
+<!ENTITY noScriptsInstalled.label "Inga installerade script">
+<!ENTITY openInFinder.label "Öppna i finnaren">
+<!ENTITY noScriptSelected.label "Välj ett AppleScript">
+<!ENTITY readStatus.label "Läs">
+<!ENTITY reminderStatus.label "Påminnelse">
+<!ENTITY pendingStatus.label "Väntande">
+<!ENTITY unreadStatus.label "Oläst">
+<!ENTITY notReminderStatus.label "Ingen påminnelse">
+<!ENTITY notPendingStatus.label "Inte väntande">
+<!ENTITY quickPost.label "Snabbpost">
 
 <!ENTITY addAction.tooltip "Lägg till en ny åtgärd">
 <!ENTITY removeAction.tooltip "Ta bort denna åtgärd">

@@ -22,7 +22,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identiteit">
-<!ENTITY identityDesc.label "Elke account heeft een identiteit. Dit zijn de gegevens waarmee anderen u herkennen als uw berichten worden ontvangen.">
+<!ENTITY identityDesc.label "Elke account heeft een identiteit. Dit is de informatie die u identificeert bij anderen als ze berichten van u ontvangen.">
 
 <!ENTITY fullnameLabel.label "Uw naam:">
 <!ENTITY fullnameLabel.accesskey "U">
@@ -33,7 +33,7 @@
 <!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Gegevens van inkomende server">
-<!ENTITY incomingServerTypeDesc.label "Selecteer het type van uw inkomende server.">
+<!ENTITY incomingServerTypeDesc.label "Selecteer het type van uw inkomende e-mailserver.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -55,7 +55,7 @@
 <!ENTITY incomingUsername.label "Gebruikersnaam:">
 <!ENTITY incomingUsername.accesskey "G">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Voer de naam in van uw (NNTP-)nieuwsserver (bijvoorbeeld ‘news.example.net’).">
+<!ENTITY newsServerNameDesc.label "Voer de naam in van uw nieuwsserver (NNTP) (bijvoorbeeld “news.example.net”).">
 <!ENTITY newsServerLabel.label "Nieuwsgroepserver:">
 <!ENTITY newsServerLabel.accesskey "N">
 
@@ -78,46 +78,46 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Uw bestaande uitgaande (SMTP-)server, ‘">
+<!ENTITY haveSmtp1.prefix "Uw bestaande uitgaande (SMTP-)server, “">
 <!ENTITY haveSmtp1.suffix3 "’, zal worden gebruikt.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Uw bestaande uitgaande (SMTP-)gebruikersnaam, ‘">
+<!ENTITY haveSmtp2.prefix "Uw bestaande uitgaande (SMTP-)gebruikersnaam, “">
 <!ENTITY haveSmtp2.suffix3 "’, zal worden gebruikt.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Uw uitgaande (SMTP-)server, ‘">
+<!ENTITY haveSmtp3.prefix "Uw uitgaande (SMTP-)server, “">
 <!ENTITY haveSmtp3.suffix3 "’, is identiek aan uw inkomende server, uw inkomende gebruikersnaam zal worden gebruikt om toegang te krijgen.">
 
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Accountnaam">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Voer de naam in voor deze account (bijvoorbeeld ‘Werkaccount’, ‘Thuisaccount’ of ‘Nieuwsaccount’).">
+<!ENTITY accnameDesc.label "Voer de naam in voor deze account (bijvoorbeeld “Werkaccount”, “Thuisaccount” of “Nieuwsaccount”).">
 <!ENTITY accnameLabel.label "Accountnaam:">
 <!ENTITY accnameLabel.accesskey "A">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Gefeliciteerd!">
-<!ENTITY completionText.label "Controleer of de gegevens hieronder juist zijn.">
+<!ENTITY completionText.label "Controleer of de informatie hieronder juist is.">
 <!ENTITY serverTypePrefix.label "Type van inkomende server:">
 <!ENTITY serverNamePrefix.label "Naam van inkomende server:">
-<!ENTITY smtpServerNamePrefix.label "Naam van uitgaande (SMTP-)server:">
-<!ENTITY newsServerNamePrefix.label "Naam van (NNTP-)nieuwsserver:">
+<!ENTITY smtpServerNamePrefix.label "Naam van uitgaande server (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Naam van nieuwsserver (NNTP):">
 <!ENTITY downloadOnLogin.label "Berichten nu downloaden">
 <!ENTITY downloadOnLogin.accesskey "B">
-<!ENTITY deferStorageDesc.label "Vink deze optie uit om e-mail voor deze account op te slaan in een eigen map, waardoor deze account als een top-levelaccount zichtbaar wordt. Anders zal deze deel uitmaken van het globale Postvak IN onder Lokale mappen.">
+<!ENTITY deferStorageDesc.label "Vink deze optie uit om e-mail voor deze account op te slaan in zijn eigen map. Dat zal van deze account een top-levelaccount maken. Anders zal hij deel uitmaken van het globale Postvak IN onder Lokale mappen.">
 <!ENTITY deferStorage.label "Globaal Postvak IN gebruiken (e-mail opslaan onder Lokale mappen)">
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Klik op Voltooien om de instellingen te bewaren en de Accountwizard af te sluiten.">
-<!ENTITY clickFinish.labelMac "Klik op Gereed om de instellingen te bewaren en de Accountwizard af te sluiten.">
+<!ENTITY clickFinish.labelMac "Klik op Klaar om de instellingen te bewaren en de Accountwizard af te sluiten.">
 
 <!-- account wizard -->
-<!ENTITY pbAccountWizard-header-email.label "Email">
-<!ENTITY pbAccountWizard-header-rss.label "RSS News &amp; Blogs">
-<!ENTITY pbAccountWizard-header-newsgroups.label "Newsgroups">
+<!ENTITY pbAccountWizard-header-email.label "E-mail">
+<!ENTITY pbAccountWizard-header-rss.label "RSS Nieuws &amp; Blogs">
+<!ENTITY pbAccountWizard-header-newsgroups.label "Nieuwsgroepen">

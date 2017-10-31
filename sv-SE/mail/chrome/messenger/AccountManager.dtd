@@ -7,17 +7,17 @@
 <!ENTITY accountManagerTitle.label "Kontoinställningar för e-post och diskussionsgrupper">
 
 <!ENTITY accountActionsButton.label "Kontoåtgärder">
-<!ENTITY accountActionsButton.accesskey "t">
+<!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Lägg till e-postkonto…">
-<!ENTITY addMailAccountButton.accesskey "L">
+<!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addFeedAccountButton.label "Lägg till RSS-kanalkonto…">
 <!ENTITY addFeedAccountButton.accesskey "r">
-<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.label "Lägg till diskussionsgruppskonto…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Gör till standardkonto">
 <!ENTITY setDefaultButton.accesskey "G">
 <!ENTITY removeButton.label "Ta bort konto">
-<!ENTITY removeButton.accesskey "b">
+<!ENTITY removeButton.accesskey "T">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
@@ -42,6 +42,6 @@
 <!ENTITY pbAccountTree.width "width: 25ch;">
 
 <!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Add…">
-<!ENTITY pbAccountRemoveActionsButton.label "Remove">
+<!ENTITY pbAccountAddActionsButton.label "Lägg till…">
+<!ENTITY pbAccountRemoveActionsButton.label "Ta bort">
 <!ENTITY pbAccountRemoveActionsButton.accesskey "R">

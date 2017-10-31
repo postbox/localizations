@@ -40,9 +40,9 @@
 <!ENTITY PrimaryEmail.label             "Email:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Additional Email:">
-<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY SecondEmail.accesskey          "o">
 <!ENTITY PreferMailFormat.label         "Prefers to receive messages formatted as:">
-<!ENTITY PreferMailFormat.accesskey     "v">
+<!ENTITY PreferMailFormat.accesskey     "r">
 <!ENTITY PlainText.label                "Plain Text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Unknown">
@@ -52,15 +52,15 @@
 
 <!ENTITY Phones.box                     "Phones">
 <!ENTITY WorkPhone.label                "Work:">
-<!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY WorkPhone.accesskey            "W">
 <!ENTITY HomePhone.label                "Home:">
-<!ENTITY HomePhone.accesskey            "m">
+<!ENTITY HomePhone.accesskey            "H">
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pager:">
-<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY PagerNumber.accesskey          "P">
 <!ENTITY CellularNumber.label           "Mobile:">
-<!ENTITY CellularNumber.accesskey       "b">
+<!ENTITY CellularNumber.accesskey       "M">
 
 <!ENTITY Address.tab                    "Address">
 <!ENTITY Home.box                       "Home">
@@ -123,7 +123,7 @@
 <!ENTITY Other.accesskey                "h">
 <!ENTITY Birthday.label                 "Birthday:">
 <!ENTITY Birthday.accesskey             "B">
-<!ENTITY birthdayFormat.label           "mm/dd/yyyy">
+<!ENTITY birthdayFormat.label           "dd/mm/yyyy">
 <!ENTITY Custom1.label                  "Custom 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Custom 2:">

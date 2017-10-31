@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Assistant d’importation">
+<!ENTITY migrationWizard.title          "Assistant d'importation">
 
 <!ENTITY importFromWin.label            "Importer les options, paramètres des comptes, carnet d’adresses, filtres et les autres données depuis :">
 <!ENTITY importFromNonWin.label         "Importer les préférences, paramètres des comptes, carnet d’adresses, filtres et les autres données depuis :">
 <!ENTITY importSourceNotFound.label     "Aucune application à partir de laquelle importer des données n’a été trouvée.">
 
-<!ENTITY cleanInstall.label             "Clean install (recommended)">
+<!ENTITY cleanInstall.label             "Installation rapide (recommandée)">
 <!ENTITY cleanInstall.accesskey  	"C">
 
 <!ENTITY importFromNothing.label        "Ne rien importer">
@@ -23,25 +23,25 @@
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
 
-<!ENTITY welcome.title                  "Welcome to &brandShortName;">
-<!ENTITY tagline.label                  "A Better Way To Do Email">
-<!ENTITY thanks.label                   "Thanks for trying out &brandShortName;!">
-<!ENTITY quickStart1.label              "See the ">
-<!ENTITY quickStart2.label              "Quickstart Guide"> 
-<!ENTITY quickStart3.label              " to learn about all the features.">
-<!ENTITY start.label                    "Start using &brandShortName;">
+<!ENTITY welcome.title                  "Bienvenue dans &brandShortName;">
+<!ENTITY tagline.label                  "L'Email rendu incroyable">
+<!ENTITY thanks.label                   "Merci d'avoir essayé &brandShortName;!">
+<!ENTITY quickStart1.label              "Voir le ">
+<!ENTITY quickStart2.label              "Guide de démarrage"> 
+<!ENTITY quickStart3.label              " pour connaître toutes les fonctionnalités.">
+<!ENTITY start.label                    "Commencer à utiliser &brandShortName;">
     
-<!ENTITY migration.title                "Account Migration Wizard">
-<!ENTITY migrationMac.title             "Account Migration Assistant">
-<!ENTITY importOptions.title            "Import Options">
+<!ENTITY migration.title                "Assistant de migration de compte">
+<!ENTITY migrationMac.title             "Assistant de migration de compte">
+<!ENTITY importOptions.title            "Options d'importation">
 <!ENTITY importItems.title              "Éléments à importer">
 <!ENTITY importItems.label              "Sélectionnez les éléments à importer :">
 
 <!ENTITY migrating.title                "Importation…">
-<!ENTITY migrating.label                "Les éléments suivants sont en cours d’importation…">
+<!ENTITY migrating.label                "Les éléments suivants sont en cours d'importation…">
 
 <!ENTITY selectProfile.title            "Sélectionnez le profil">
-<!ENTITY selectProfile.label            "Les profils suivants sont disponibles à l’importation :">
+<!ENTITY selectProfile.label            "Les profils suivants sont disponibles à l'importation :">
 
 <!ENTITY done.title                     "Importation terminée">
 <!ENTITY done.label                     "Les éléments suivants ont été importés avec succès :">
@@ -59,7 +59,7 @@
 <!ENTITY explanation-text.top "50">
 <!ENTITY radio.top "72">
 <!ENTITY import.top "86">
-<!ENTITY progress.top "160">
+<!ENTITY progress.top "140">
 <!ENTITY start.top "264">
 <!ENTITY startMac.top "266">
 <!ENTITY guide.top "159">

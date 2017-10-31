@@ -2,30 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.appBasicsAppBuildID "ID сборки приложения">
+<!ENTITY aboutSupport.appBasicsAppBuildID "Код сборки приложения">
 
-<!ENTITY aboutSupport.accountsTitle "Учётные записи почты и новостей">
-<!ENTITY aboutSupport.showPrivateData.mainText "Включить имена учётных записей">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(возможно идентифицирующая информация)">
-<!ENTITY aboutSupport.accountsID "ID">
-<!ENTITY aboutSupport.accountsName "Имя">
-<!ENTITY aboutSupport.accountsIncomingServer "Cервер входящей почты">
-<!ENTITY aboutSupport.accountsOutgoingServers "Cервер исходящей почты">
+<!ENTITY aboutSupport.accountsTitle "Учетные записи почты и новостей">
+<!ENTITY aboutSupport.showPrivateData.mainText "В том числе названия учетных записей">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(могут содержать идентифицирующие сведения)">
+<!ENTITY aboutSupport.accountsID "Код">
+<!ENTITY aboutSupport.accountsName "Название">
+<!ENTITY aboutSupport.accountsIncomingServer "Сервер входящей почты">
+<!ENTITY aboutSupport.accountsOutgoingServers "Сервер исходящей почты">
 <!ENTITY aboutSupport.accountsServerName "Имя">
-<!ENTITY aboutSupport.accountsConnSecurity "Защита соединения">
-<!ENTITY aboutSupport.accountsAuthMethod "Метод аутентификации">
-<!ENTITY aboutSupport.filterCount "Filter Count">
+<!ENTITY aboutSupport.accountsConnSecurity "Безопасность подключения">
+<!ENTITY aboutSupport.accountsAuthMethod "Проверка подлинности">
+<!ENTITY aboutSupport.filterCount "Счетчик фильтра">
 <!ENTITY aboutSupport.accountsDefault "По умолчанию?">
 <!ENTITY aboutSupport.identityName "Идентификатор">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Послать по почте">
+<!ENTITY aboutSupport.sendViaEmail.label "Отправить по эл. почте">
 
-<!ENTITY aboutSupport.pageTitle2 "Configuration Data">
+<!ENTITY aboutSupport.pageTitle2 "Данные конфигурации">
 
-<!ENTITY aboutSupport.indexerTitle "Indexer">
+<!ENTITY aboutSupport.indexerTitle "Индексатор">
 
-<!ENTITY aboutSupport.miscTitle "Miscellaneous">
+<!ENTITY aboutSupport.miscTitle "Прочее">
 
-<!ENTITY aboutSupport.appBasicsLicenseName "License Name">
-<!ENTITY aboutSupport.ageInDays "Days In Use">
-<!ENTITY aboutSupport.pbState "State">
+<!ENTITY aboutSupport.appBasicsLicenseName "Название лицензии">
+<!ENTITY aboutSupport.ageInDays "Дней использования">
+<!ENTITY aboutSupport.pbState "Состояние">

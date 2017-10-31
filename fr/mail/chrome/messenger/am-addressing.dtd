@@ -6,7 +6,7 @@
 
 <!ENTITY addressing.label          "Rédaction et adressage">
 <!ENTITY addressingGroupTitle.label "Adressage">
-<!ENTITY addressingText.label      "Lors de la recherche d’adresses :">
+<!ENTITY addressingText.label      "Lors de la recherche d'adresses :">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Utiliser mes préférences globales de serveur LDAP pour ce compte">
 <!ENTITY useGlobal.accesskey       "U">
@@ -14,12 +14,12 @@
 <!ENTITY editDirectories.accesskey "M">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Utiliser un serveur LDAP différent :">
-<!ENTITY directories.accesskey     "d">
+<!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "Aucun">
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label          "Rédaction des messages">
+<!ENTITY compositionGroupTitle.label "Rédaction des messages">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Rédiger les messages en HTML">
 <!ENTITY useHtml.accesskey                    "R">
@@ -32,16 +32,16 @@
 <!ENTITY belowQuote.label                     "la réponse commence après la citation">
 <!ENTITY selectAndQuote.label                 "la citation est sélectionnée">
 <!ENTITY place.label                          "et placer la signature">
-<!ENTITY place.accesskey                      "s">
+<!ENTITY place.accesskey                      "p">
 <!ENTITY belowText.label                      "sous la citation (recommandé)">
 <!ENTITY aboveText.label                      "sous ma réponse (au-dessus de la citation)">
-<!ENTITY includeSigOnReply.label              "Ajouter la signature pour les réponses">
-<!ENTITY includeSigOnReply.accesskey          "o">
-<!ENTITY includeSigOnForward.label            "Ajouter la signature pour les transferts">
-<!ENTITY includeSigOnForward.accesskey        "e">
-<!ENTITY markNotInWhitelist.label             "Mark addresses not ending with:">
+<!ENTITY includeSigOnReply.label              "Inclure la signature pour Répondre">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Inclure la signature pour Transférer">
+<!ENTITY includeSigOnForward.accesskey        "w">
+<!ENTITY markNotInWhitelist.label             "Noter les adresses ne se terminant pas par:">
 <!ENTITY markNotInWhitelist.accesskey         "m">
-<!ENTITY markInTrustedList.label              "Mark addresses when sending to:">
+<!ENTITY markInTrustedList.label              "Marquer les adresses d'expédition suivantes:">
 <!ENTITY markInTrustedList.accesskey          "d">
 
 <!ENTITY globalComposingPrefs.label           "Préférences globales de rédaction…">
@@ -51,8 +51,8 @@
 <!ENTITY globalAddressingPrefs.accesskey      "P">
 
 <!-- Postbox Summary Mode -->
-<!ENTITY pbSummarizeOnReply.label             "By">
+<!ENTITY pbSummarizeOnReply.label             "Par">
 <!ENTITY pbSummarizeOnReply.accesskey         "y">
-<!ENTITY pbSummarizeOnReply.normal.label      "quoting the selected message">
-<!ENTITY pbSummarizeOnReply.summarize.label   "summarizing the entire conversation">
-<!ENTITY pbSummarizeOnReply.lastused.label    "using the last used setting">
+<!ENTITY pbSummarizeOnReply.normal.label      "citer le message sélectionné">
+<!ENTITY pbSummarizeOnReply.summarize.label   "récapituler toute la conversation">
+<!ENTITY pbSummarizeOnReply.lastused.label    "Utiliser la dernière configuration">

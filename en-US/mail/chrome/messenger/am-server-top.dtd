@@ -24,7 +24,7 @@
 <!ENTITY biffEnd.label "minutes">
 <!ENTITY useIdleNotifications.label "Allow immediate server notifications when new messages arrive">
 <!ENTITY useIdleNotifications.accesskey "w">
-<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.label "Connection Security:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "None">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
@@ -35,7 +35,7 @@
 <!ENTITY leaveOnServer.label "Leave messages on server">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Fetch headers only">
-<!ENTITY headersOnly.accesskey "e">
+<!ENTITY headersOnly.accesskey "f">
 <!ENTITY deleteByAgeFromServer.label "For at most">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "days">
@@ -71,7 +71,7 @@
 <!ENTITY abbreviate.label "Show newsgroup names in the Mail Folder pane as:">
 <!ENTITY abbreviateOn.label "Full names (For example, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Abbreviate names (For example, 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "Advanced…">
+<!ENTITY advancedButton.label "Advanced...">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Encoding:">
 

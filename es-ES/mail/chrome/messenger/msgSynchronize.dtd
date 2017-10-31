@@ -11,13 +11,13 @@
 <!ENTITY syncTypeMail.label "Mensajes de correo">
 <!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Mensajes de noticias">
-<!ENTITY syncTypeNews.accesskey "N">
+<!ENTITY syncTypeNews.accesskey "n">
 <!ENTITY sendMessage.label "Enviar mensajes pendientes">
-<!ENTITY sendMessage.accesskey "S">
+<!ENTITY sendMessage.accesskey "s">
 <!ENTITY workOffline.label "Trabajar sin conexión al acabar la descarga y/o sincronización">
 <!ENTITY workOffline.accesskey "r">
 <!ENTITY selectButton.label "Seleccionar…">
-<!ENTITY selectButton.accesskey "E">
+<!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "Seleccionar las carpetas de correo y noticias para usar sin conexión.">
 <!ENTITY MsgSelectInd.label "Descargar">
 <!ENTITY MsgSelectItems.label "Carpetas y grupos de noticias">

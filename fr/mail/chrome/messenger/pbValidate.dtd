@@ -1,28 +1,28 @@
-<!ENTITY changeLicenseKey.label "Code">
-<!ENTITY changeName.label "Name">
-<!ENTITY licenseKey.label "Code:">
-<!ENTITY name.label "Name:">
-<!ENTITY enterLicense.label "Enter license code now">
-<!ENTITY enterLicenseTitle.label "Enter Postbox license code">
-<!ENTITY enterLicenseInfo.label "Please enter your name and license code below:">
-<!ENTITY invalidLicense.label "Please enter your name and license code exactly as they appear in your license email.">
-<!ENTITY invalidLicenseVersion.label "This license code will not work with this version of Postbox.  Please visit our store to purchase an upgrade.">
-<!ENTITY invalidLicenseInvalid1.label "Please enter a valid license code, or contact us at">
-<!ENTITY invalidLicenseInvalid2.label "Postbox Support">
-<!ENTITY invalidLicenseInvalid3.label "for immediate assistance.">
+<!ENTITY changeLicenseKey.label "Clé">
+<!ENTITY changeName.label "Nom">
+<!ENTITY licenseKey.label "Clé de licence :">
+<!ENTITY name.label "Nom :">
+<!ENTITY enterLicense.label "Entrez votre clé d'enregistrement maintenant">
+<!ENTITY enterLicenseTitle.label "Saisir votre code de licence Postbox">
+<!ENTITY enterLicenseInfo.label "Merci de saisir votre nom et votre code de licence ci-dessous :">
+<!ENTITY invalidLicense.label "Vous y êtes presque... Merci de saisir votre nom et votre code de licence exactement comme ils apparaissent dans l'e-mail de licence.">
+<!ENTITY invalidLicenseVersion.label "This license key will not work with this version of Postbox.  Please upgrade to the most current version.">
+<!ENTITY invalidLicenseInvalid1.label "Entrer un numéro de licence valide, ou contacter nous à">
+<!ENTITY invalidLicenseInvalid2.label "Support Postbox">
+<!ENTITY invalidLicenseInvalid3.label "pour une assistance immédiate.">
 
-<!ENTITY changeLicenseTitle.label "Postbox License Code">
-<!ENTITY changeLicenseInfo.label "This copy of Postbox is licensed to:">
+<!ENTITY changeLicenseTitle.label "Code de licence Postbox">
+<!ENTITY changeLicenseInfo.label "Cette copie de Postbox appartient à :">
 
-<!ENTITY licensedThroughMAS.label "This copy is licensed through the Apple Mac App Store.">
+<!ENTITY licensedThroughMAS.label "Cette copie est licenciée via le Mac App Store d'Apple.">
 
-<!ENTITY licenseConfirmed.label "License code confirmed!">
+<!ENTITY licenseConfirmed.label "Code de licence validé !">
 
-<!ENTITY thanksTitle.label "Thank you for purchasing Postbox!">
-<!ENTITY helpUs.label "Help us get the word out!">
-<!ENTITY composeFacebook.label "Tell your friends on ">
+<!ENTITY thanksTitle.label "Merci d'avoir acheté Postbox!">
+<!ENTITY helpUs.label "Aidez nous à nous faire connaître!">
+<!ENTITY composeFacebook.label "Parler en à vos amis sur ">
 <!ENTITY helpUsFacebook.label "Facebook">
-<!ENTITY composeTwitter.label "Post an update on ">
+<!ENTITY composeTwitter.label "Envoyer une mise à jour sur ">
 <!ENTITY helpUsTwitter.label "Twitter">
 <!ENTITY okButton.label "OK">
 
@@ -37,12 +37,12 @@
 <!ENTITY buttonsMac.top "179">
 <!ENTITY buttons.top "187">
 
-<!ENTITY facebook.top "110">
-<!ENTITY twitter.top "140">
+<!ENTITY facebook.top "100">
+<!ENTITY twitter.top "130">
 <!ENTITY facebook.left "30">
 <!ENTITY facebookLink.left "65">
 
-<!ENTITY validationTitle.style "">
+<!ENTITY validationTitle.style "font-size: 10px;">
 <!ENTITY enterLicenseTitle.style "">
 <!ENTITY enterLicenseInfo.style "">
 <!ENTITY invalidLicense.style "">

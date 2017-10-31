@@ -8,11 +8,11 @@
 <!ENTITY chooseFileButton.label "Bestand kiezen…">
 <!ENTITY chooseFileButton.accessKey "B">
 <!ENTITY chooseFileLinkButton.label "Bestand kiezen…">
-<!ENTITY chooseFileLinkButton.accessKey "B">
+<!ENTITY chooseFileLinkButton.accessKey "e">
 <!ENTITY makeUrlRelative.label "URL is relatief ten opzichte van paginalocatie">
 <!ENTITY makeUrlRelative.accessKey "U">
 <!ENTITY makeUrlRelative.tooltip "Wisselen tussen relatieve en absolute URL. U moet de pagina eerst opslaan om dit te kunnen wijzigen.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Voer een webpaginalocatie of lokaal bestand in, of selecteer een benoemd anker of kop uit de pop-uplijst:">
+<!ENTITY LinkURLEditField.label "Voer een webpaginalocatie of lokaal bestand in, of selecteer een ankerverwijzing of kop uit de pop-uplijst:">
 <!ENTITY LinkURLEditField.accessKey "l">

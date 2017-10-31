@@ -26,6 +26,6 @@
 <!ENTITY accountInbox.label "Inbox for this account">
 <!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "Inbox for different account">
-<!ENTITY deferToServer.accesskey "d">
+<!ENTITY deferToServer.accesskey "D">
 <!ENTITY deferGetNewMail.label "Include this server when getting new mail">
 <!ENTITY deferGetNewMail.accesskey "I">

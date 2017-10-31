@@ -1,58 +1,58 @@
 <!-- strings used in both the focus pane and the full text search focus pane -->
-<!ENTITY focusPaneFilterByTags.label    "Favorite Topics">
-<!ENTITY focusPaneAllTags.label         "All">
-<!ENTITY focusPaneNoTags.label          "None">
+<!ENTITY focusPaneFilterByTags.label    "Tópicos favoritos">
+<!ENTITY focusPaneAllTags.label         "Todos">
+<!ENTITY focusPaneNoTags.label          "Nenhum">
 
 <!-- strings used only in the full text search focus pane -->
-<!ENTITY focusPaneSearchScopeTitle.label       "Search">
-<!ENTITY focusPaneSearchScopeEverywhere.label  "All Accounts">
-<!ENTITY focusPaneSearchAttribute.label        "Attributes">
-<!ENTITY focusPaneHasAttachmentAttribute.label           "Has Attachment">
-<!ENTITY focusPaneUnreadAttribute.label           "Unread">
-<!ENTITY focusPaneReadAttribute.label           "Read">
-<!ENTITY focusPaneNotRepliedAttribute.label           "Not Replied">
-<!ENTITY focusPaneRepliedAttribute.label           "Replied">
-<!ENTITY focusPanePendingAttribute.label           "Pending">
-<!ENTITY focusPaneNotPendingAttribute.label        "Not Pending">
-<!ENTITY focusPaneToDoAttribute.label              "Reminders">
-<!ENTITY focusPaneNotToDoAttribute.label           "Not Reminders">
-<!ENTITY focusPaneSubscriptionsAttribute.label     "Subscriptions">
+<!ENTITY focusPaneSearchScopeTitle.label       "Pesquisar">
+<!ENTITY focusPaneSearchScopeEverywhere.label  "Todas as contas">
+<!ENTITY focusPaneSearchAttribute.label        "Atributos">
+<!ENTITY focusPaneHasAttachmentAttribute.label           "Tem anexo">
+<!ENTITY focusPaneUnreadAttribute.label           "Não lido">
+<!ENTITY focusPaneReadAttribute.label           "Lidos">
+<!ENTITY focusPaneNotRepliedAttribute.label           "Não respondidos">
+<!ENTITY focusPaneRepliedAttribute.label           "Respondidos">
+<!ENTITY focusPanePendingAttribute.label           "Pendente">
+<!ENTITY focusPaneNotPendingAttribute.label        "Não está pendente">
+<!ENTITY focusPaneToDoAttribute.label              "Lembretes">
+<!ENTITY focusPaneNotToDoAttribute.label           "Não são lembretes">
+<!ENTITY focusPaneSubscriptionsAttribute.label     "Inscrições">
 <!ENTITY focusPaneSocialAttribute.label            "Social">
-<!ENTITY focusPaneToMeOnlyAttribute.label          "To Me Only">
-<!ENTITY focusPaneFilterByDate.label    "Date">
-<!ENTITY focusPaneAnyDate.label         "Any Date">
-<!ENTITY focusPaneToday.label           "Today">
-<!ENTITY focusPaneYesterday.label       "Yesterday">
-<!ENTITY focusPaneThisWeek.label        "Past Week">
-<!ENTITY focusPaneThisMonth.label       "Past Month">
-<!ENTITY focusPaneFilterByContact.label    "Favorite Contacts">
+<!ENTITY focusPaneToMeOnlyAttribute.label          "Apenas para mim">
+<!ENTITY focusPaneFilterByDate.label    "Data">
+<!ENTITY focusPaneAnyDate.label         "Qualquer data">
+<!ENTITY focusPaneToday.label           "Hoje">
+<!ENTITY focusPaneYesterday.label       "Ontem">
+<!ENTITY focusPaneThisWeek.label        "Esta semana">
+<!ENTITY focusPaneThisMonth.label       "Este mês">
+<!ENTITY focusPaneFilterByContact.label    "Contatos favoritos">
 
 <!-- focus pane topics context menus -->
-<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Rename">
+<!ENTITY pbFavoriteTopicsContextMenu-edit.label         "Renomear">
 <!ENTITY pbFavoriteTopicsContextMenu-edit.accesskey     "n">
-<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Remove From Favorites">
+<!ENTITY pbFavoriteTopicsContextMenu-favorite.label     "Remover dos favoritos">
 <!ENTITY pbFavoriteTopicsContextMenu-favorite.accesskey "R">
-<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Delete">
+<!ENTITY pbFavoriteTopicsContextMenu-delete.label       "Excluir">
 <!ENTITY pbFavoriteTopicsContextMenu-delete.accesskey   "D">
-<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Create New Favorite Topic">
+<!ENTITY pbFavoriteTopicsContextMenu-add.label          "Criar novo tópico favorito">
 <!ENTITY pbFavoriteTopicsContextMenu-add.accesskey      "C">
-<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Edit Topics...">
+<!ENTITY pbFavoriteTopicsContextMenu-editAll.label      "Editar tópicos...">
 <!ENTITY pbFavoriteTopicsContextMenu-editAll.accesskey  "t">
-<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Set Topic Color">
+<!ENTITY pbFavoriteTopicsContextMenu-assignColor.label  "Definir cor do tópico">
 <!ENTITY pbFavoriteTopicsContextMenu-assignColor.accesskey "S">
-<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.label "Abrir em nova aba">
 <!ENTITY pbFavoriteTopicsContextMenu-openInNewTab.accesskey "N">
 
 <!-- focus pane favorite contacts context menus -->
-<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Remove From Favorites">
+<!ENTITY pbFavoriteContactsContextMenu-delete.label     "Remover dos favoritos">
 <!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
-<!ENTITY pbFavoriteContactsContextMenu-email.label       "Compose">
+<!ENTITY pbFavoriteContactsContextMenu-email.label       "Criar">
 <!ENTITY pbFavoriteContactsContextMenu-email.accesskey  "C">
-<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Edit Contact...">
+<!ENTITY pbFavoriteContactsContextMenu-edit.label        "Editar contato...">
 <!ENTITY pbFavoriteContactsContextMenu-edit.accesskey   "d">
-<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Create Filter...">
+<!ENTITY pbFavoriteContactsContextMenu-createfilter.label "Criar filtro...">
 <!ENTITY pbFavoriteContactsContextMenu-createfilter.accesskey "F">
-<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Open in New Tab">
+<!ENTITY pbFavoriteContactsContextMenu-openInNewTab.label "Abrir em nova aba">
 <!ENTITY pbFavoriteContactsContextMenu-openInNewTab.accesskey "N">
 
-<!ENTITY pbFavoriteContacts.DragLabel "Drag your favorite contacts here">
+<!ENTITY pbFavoriteContacts.DragLabel "Arraste seus contatos favoritos para cá">

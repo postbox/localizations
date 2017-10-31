@@ -4,22 +4,22 @@
 
 <!ENTITY autoconfigWizard.title          "Lägg till nytt konto">
 <!ENTITY name.label                      "Ditt namn:">
-<!ENTITY name.accesskey                  "D">
-<!ENTITY name.placeholder                "Förnamn Efternamn">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.placeholder                  "För- och efternamn">
 <!ENTITY name.text                       "Ditt namn, som det visas för andra">
 <!ENTITY email.label                     "E-postadress:">
-<!ENTITY email.accesskey                 "E">
-<!ENTITY email.placeholder               "email@example.se">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.placeholder                 "epost@exempel.se">
 <!ENTITY password.label                  "Lösenord:">
 <!ENTITY password.accesskey              "L">
-<!ENTITY password.placeholder            "Lösenord">
+<!ENTITY password.placeholder              "Lösenord">
 <!ENTITY password.text                   "Frivilligt, kommer endast användas för att bekräfta användarnamnet">
-<!ENTITY rememberPassword.label          "Spara lösenord">
-<!ENTITY rememberPassword.accesskey      "S">
+<!ENTITY rememberPassword.label          "Kom ihåg lösenord">
+<!ENTITY rememberPassword.accesskey      "K">
 <!ENTITY displayname.accesskey           "D">
-<!ENTITY displayname.placeholder         "Work, Personal, etc.">
+<!ENTITY displayname.placeholder         "Arbete, Personligt, m.m.">
 
-<!ENTITY accountInformation.label        "Account Information">
+<!ENTITY accountInformation.label        "Kontoinformation">
 <!ENTITY imapLong.label                  "IMAP (fjärrmappar)">
 <!ENTITY pop3Long.label                  "POP3 (lagra e-posten på datorn)">
 
@@ -44,16 +44,16 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!ENTITY manualSetup.label               "Manual Setup…">
-<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY manualSetup.label               "Manuell inställning…">
+<!ENTITY manualSetup.accesskey           "M">
 <!ENTITY advancedSetup.label             "Avancerade inställningar">
 <!ENTITY advancedSetup.accesskey         "v">
 <!ENTITY cancel.label                    "Avbryt">
 <!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Fortsätt">
 <!ENTITY continue.accesskey              "F">
-<!ENTITY startOver.label                 "Start over">
-<!ENTITY startOver.accesskey             "o">
+<!ENTITY startOver.label                 "Börja om">
+<!ENTITY startOver.accesskey             "B">
 <!ENTITY stop.label                      "Stoppa">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
@@ -67,13 +67,13 @@
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
      taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Re-test Configuration">
-<!ENTITY retest.accesskey                "R">
-<!ENTITY edit.label                      "Edit Settings">
-<!ENTITY edit.accesskey                  "E">
+<!ENTITY retest.label                    "Testa konfigurationen igen">
+<!ENTITY retest.accesskey                "T">
+<!ENTITY edit.label                      "Redigera">
+<!ENTITY edit.accesskey                  "R">
 
-<!ENTITY rememberPassword.label          "Spara lösenord">
-<!ENTITY rememberPassword.accesskey      "S">
+<!ENTITY rememberPassword.label          "Kom ihåg lösenord">
+<!ENTITY rememberPassword.accesskey      "K">
 
 <!ENTITY warning.label                   "Varning!">
 <!ENTITY incomingSettings.label          "Inställningar för inkommande:">
@@ -94,9 +94,9 @@
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
 <!ENTITY changeSettings.label            "Ändra inställningarna">
-<!ENTITY changeSettings.accesskey        "Ä">
+<!ENTITY changeSettings.accesskey        "n">
 
-<!ENTITY pb.contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections.">
+<!ENTITY pb.contactYourProvider.description "&brandShortName; kan tillåta dig att få din e-post med försedda konfigurationer. Du bör däremot kontakta din administratör eller e-postleverantör angående dessa felaktiga anslutningar.">
 
 <!ENTITY insecureServer.tooltip.title    "Varning! Det här är en osäker server.">
 <!ENTITY insecureServer.tooltip.details  "Klicka på cirkeln för fler detaljer.">
@@ -105,19 +105,19 @@
 <!ENTITY insecureSelfSigned.description  "Servern använder ett certifikat som inte är betrott, så vi kan inte vara säkra på ingen avlyssnar trafiken mellan &brandShortName; och servern. &brandShortName; låter dig komma åt din e-post men du bör försöka få din e-postleverantör att konfigurera servern med ett betrott certifikat.">
 <!ENTITY secureServer.description        "Gratulerar! Det här är en säker server.">
 
-<!ENTITY pb.identity.title "Add Account">
-<!ENTITY pb.name.label    "Your Name:">
-<!ENTITY pb.email.label   "Email Address:">
-<!ENTITY pb.password.label "Password:">
-<!ENTITY pb.displayname.label "Description:">
-<!ENTITY pb.serverinfo.title "Server Information">
-<!ENTITY pb.username.label   "User Name:">
-<!ENTITY pb.incoming.label "Incoming Server">
-<!ENTITY pb.servername.label "Server Name:">
-<!ENTITY pb.servertype.label "Type:">
-<!ENTITY pb.serverport.label "Port:">
-<!ENTITY pb.serversecurity.label "Security:">
-<!ENTITY pb.outgoing.label "Outgoing Server">
+<!ENTITY pb.identity.title "Identitet">
+<!ENTITY pb.name.label    "Ditt namn">
+<!ENTITY pb.email.label   "E-postadress">
+<!ENTITY pb.password.label "Lösenord">
+<!ENTITY pb.displayname.label "Beskrivning:">
+<!ENTITY pb.serverinfo.title "Serverinformation">
+<!ENTITY pb.username.label   "Användarnamn">
+<!ENTITY pb.incoming.label "Inkommande server">
+<!ENTITY pb.servername.label "Servernamn">
+<!ENTITY pb.servertype.label "Typ">
+<!ENTITY pb.serverport.label "Port">
+<!ENTITY pb.serversecurity.label "Säkerhet">
+<!ENTITY pb.outgoing.label "Utgående server">
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      creation wizard, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
@@ -137,9 +137,9 @@
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 63ch;">
 
-<!ENTITY pbProfileInformation.label "Account Information">
-<!ENTITY pbManualSetup.label "Manual Setup">
+<!ENTITY pbProfileInformation.label "Profilinformation">
+<!ENTITY pbManualSetup.label "Manuell inställning">
 
 <!-- warnings on email address -->
-<!ENTITY important.label "IMPORTANT:">
-<!ENTITY learnMore.label "Learn more...">
+<!ENTITY important.label "VIKTIGT:">
+<!ENTITY learnMore.label "Lär mer...">

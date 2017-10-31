@@ -48,7 +48,7 @@
 <!ENTITY searchresults.sendButton.label            "Send">
 <!-- XXX localization note: should "Quick Look" be translated? -->
 <!ENTITY searchresults.quickLookButton.label       "Quick Look">
-<!ENTITY searchresults.importPhotoButtonMac.label  "Photos">
+<!ENTITY searchresults.importPhotoButtonMac.label  "iPhoto">
 
 <!ENTITY searchBar-options.tooltip                 "Show search options">
 <!ENTITY location.label                            "Near:">

@@ -18,11 +18,11 @@
 <!ENTITY pbIndexingMenu.label "Indexing">
 <!ENTITY pbIndexingMenu.accesskey "x">
 <!ENTITY indexAllMessages.label "Index All Folders...">
-<!ENTITY indexAllMessages.accesskey "i">
+<!ENTITY indexAllMessages.accesskey "I">
 <!ENTITY indexMessagesInFolder.label "Index This Folder...">
-<!ENTITY indexMessagesInFolder.accesskey "f">
+<!ENTITY indexMessagesInFolder.accesskey "F">
 <!ENTITY resetIndexAllMessages.label "Reset All Folders...">
-<!ENTITY resetIndexAllMessages.accesskey "r">
+<!ENTITY resetIndexAllMessages.accesskey "R">
 <!ENTITY resetIndexMessagesInFolder.label "Reset This Folder...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
 <!ENTITY updateCmd.label "Check for Updates…">
@@ -31,10 +31,10 @@
 <!-- View Menu -->
 <!ENTITY pinStarredMessages.label "Pin Reminders">
 <!ENTITY pinStarredMessages.accesskey "P">
-<!ENTITY showConversations.label "Organize by Thread">
-<!ENTITY showConversations.accesskey "O">
+<!ENTITY showConversations.label "Show Conversations">
+<!ENTITY showConversations.accesskey "h">
 <!ENTITY viewMenuShowMessages.label        "Messages">
-<!ENTITY viewMenuShowMessages.accesskey    "m">
+<!ENTITY viewMenuShowMessages.accesskey    "M">
 <!ENTITY key_showMessages.key              "t">
 <!ENTITY viewMenuShowAttachments.label "Attachments">
 <!ENTITY viewMenuShowAttachments.accesskey "t">
@@ -43,7 +43,7 @@
 <!ENTITY viewMenuShowImages.accesskey    "m">
 <!ENTITY key_showImages.key              "i">
 <!ENTITY viewMenuShowTodos.label "Reminders">
-<!ENTITY viewMenuShowTodos.accesskey "d">
+<!ENTITY viewMenuShowTodos.accesskey "D">
 <!ENTITY key_showTodos.key           "o">
 <!ENTITY showFolderPaneCmd.label "Folder Pane">
 <!ENTITY showFolderPaneCmd.accesskey "F">
@@ -76,7 +76,7 @@
 <!ENTITY focusPaneAttachments.label     "Attachments">
 <!ENTITY focusPaneEvents.label          "Events">
 <!ENTITY focusPaneImages.label          "Images">
-<!ENTITY focusPaneMessages.label        "Messages">
+<!ENTITY focusPaneMessages.label        "View All">
 <!ENTITY viewButtons.label              "View">
 <!ENTITY focusPaneTodos.label           "Reminders">
 <!ENTITY tagButton.tooltip "Add topic to messages">
@@ -106,7 +106,7 @@
 <!-- Tags Menu Popup -->
 <!ENTITY applyTag.label "Add Topic">
 <!ENTITY addNewTag.label "New Topic...">
-<!ENTITY addNewTag.accesskey "t">
+<!ENTITY addNewTag.accesskey "T">
 <!ENTITY removeTag.label "Remove Topic">
 <!ENTITY removeAllTag.label "Remove All...">
 <!ENTITY removeAllTag.accesskey "A">
@@ -116,17 +116,17 @@
 <!ENTITY pbFullTextSearchCmd.accesskey "M">
 
 <!-- search result popup -->
-<!ENTITY searchResultPopup-imageZoom.label      "Zoom">
-<!ENTITY searchResultPopup-imageZoom.accesskey  "z">
+<!ENTITY searchResultPopup-imageZoom.label      "Image Zoom">
+<!ENTITY searchResultPopup-imageZoom.accesskey  "I">
 <!ENTITY searchResultPopup-openAttachment.label      "Open">
 <!ENTITY searchResultPopup-openAttachment.accesskey  "O">
 <!ENTITY searchResultPopup-openMessage.label         "Open Message">
 <!ENTITY searchResultPopup-openMessage.accesskey     "M">
 <!ENTITY searchResultPopup-openFolder.label          "Open Message Folder">
 <!ENTITY searchResultPopup-openFolder.accesskey      "p">
-<!ENTITY searchResultPopup-quickLookMac.label           "Quick Look">
+<!ENTITY searchResultPopup-quickLookMac.label           "Quick Look...">
 <!ENTITY searchResultPopup-quickLookMac.accesskey       "Q">
-<!ENTITY searchResultPopup-quickLook.label           "Preview">
+<!ENTITY searchResultPopup-quickLook.label           "Preview...">
 <!ENTITY searchResultPopup-quickLook.accesskey       "w">
 <!ENTITY searchResultPopup-attachTo.label            "Attach To">
 <!ENTITY searchResultPopup-attachTo.accesskey        "A">
@@ -146,17 +146,17 @@
 <!ENTITY pbSearchResultPopup-addUrlToTwitter.accesskey     "T">
 <!ENTITY pbSearchResultPopup-addUrlToLinkedIn.label        "LinkedIn">
 <!ENTITY pbSearchResultPopup-addUrlToLinkedIn.accesskey    "L">
-<!ENTITY searchResultPopup-systemPhotoImportMac.label      "Add to Photos">
+<!ENTITY searchResultPopup-systemPhotoImportMac.label      "Add to iPhoto">
 <!ENTITY searchResultPopup-systemPhotoImportMac.accesskey  "h">
 
 <!-- inline edit subject bar -->
-<!ENTITY msgAnnotation.title                         "Subject:">
-<!ENTITY saveMessageEditing.button.label             "save">
-<!ENTITY saveMessageEditing.button.accesskey         "s">
-<!ENTITY saveMessageEditingAsCopy.button.label       "save copy">
+<!ENTITY msgAnnotation.title                         "Edit">
+<!ENTITY saveMessageEditing.button.label             "Save">
+<!ENTITY saveMessageEditing.button.accesskey         "S">
+<!ENTITY saveMessageEditingAsCopy.button.label       "Save As Copy">
 <!ENTITY saveMessageEditingAsCopy.button.accesskey   "a">
-<!ENTITY cancelMessageEditing.button.label           "cancel">
-<!ENTITY cancelMessageEditing.button.accesskey       "c">
+<!ENTITY cancelMessageEditing.button.label           "Cancel">
+<!ENTITY cancelMessageEditing.button.accesskey       "C">
 
 <!-- inline message editing toolbar -->
 <!ENTITY boldEditMsgToolbarCmd.tooltip               "Bold">
@@ -187,7 +187,7 @@
 <!ENTITY spellCheckEnable.label                      "Check Spelling">
 <!ENTITY spellCheckEnable.accesskey                  "S">
 <!ENTITY spellDictionaries.label                     "Languages">
-<!ENTITY spellDictionaries.accesskey                 "l">
+<!ENTITY spellDictionaries.accesskey                 "L">
 
 <!-- indexer progress dialog -->
 <!ENTITY indexerProgress.title                       "Indexing Messages">
@@ -202,13 +202,13 @@
 
 <!-- advanced search panel -->
 <!ENTITY searchOptionsPanelTitle.label          "Search Options">
-<!ENTITY searchContainsField.label              "contains">
-<!ENTITY searchFromField.label                  "from">
-<!ENTITY searchToField.label                    "to">
-<!ENTITY searchSubjectField.label               "subject">
-<!ENTITY searchTopicField.label                 "topic">
-<!ENTITY searchBeforeField.label                "before">
-<!ENTITY searchAfterField.label                 "after">
+<!ENTITY searchContainsField.label              "Contains">
+<!ENTITY searchFromField.label                  "From">
+<!ENTITY searchToField.label                    "To">
+<!ENTITY searchSubjectField.label               "Subject">
+<!ENTITY searchTopicField.label                 "Topic">
+<!ENTITY searchBeforeField.label                "Before">
+<!ENTITY searchAfterField.label                 "After">
 <!-- The number of characters that can be displayed in the search field textboxes -->
 <!ENTITY searchField.size                       "30">
 <!ENTITY searchBar-options.tooltip              "Show search options">
@@ -252,7 +252,7 @@
 <!ENTITY pbContentTextContextMenu-map.accesskey          "M">
 <!-- C is already used for Copy -->
 <!ENTITY pbContentTextContextMenu-phone.label            "Call Number">
-<!ENTITY pbContentTextContextMenu-phone.accesskey        "N">
+<!ENTITY pbContentTextContextMenu-phone.accesskey        "C">
 <!ENTITY pbContentTextContextMenu-date.label            "Add to Calendar">
 <!ENTITY pbContentTextContextMenu-date.accesskey        "d">
 <!ENTITY pbContentTextContextMenu-systemSearchMac.label      "Search in Spotlight">
@@ -272,7 +272,7 @@
 
 <!-- topic context menu -->
 <!ENTITY pbTopicContextMenu-edit.label         "Rename">
-<!ENTITY pbTopicContextMenu-edit.accesskey     "E">
+<!ENTITY pbTopicContextMenu-edit.accesskey     "e">
 <!ENTITY pbTopicContextMenu-favorite.label     "Favorite Topic">
 <!ENTITY pbTopicContextMenu-favorite.accesskey "F">
 <!ENTITY pbTopicContextMenu-remove.label       "Remove">
@@ -357,7 +357,7 @@
 <!ENTITY pbStatusBarOption-deleteGroup.accesskey "D">
 
 <!-- Messages Menu -->
-<!ENTITY pbMoveToFolderAgain.label "Quick Move">
+<!ENTITY pbMoveToFolderAgain.label "Move">
 <!ENTITY pbMoveToFolderAgain.accesskey "v">
 
 <!-- Conversation Action context menu -->
@@ -373,7 +373,7 @@
 <!-- Help Menu -->
 <!ENTITY pbKeyboardShortCuts.label "Keyboard Shortcuts">
 <!ENTITY pbKeyboardShortCuts.accesskey "K">
-<!ENTITY guideCmd.label "User Guide">
+<!ENTITY guideCmd.label "Quickstart Guide">
 <!ENTITY guideCmd.accesskey "r">
 
 <!ENTITY pbFolderPaneSlider.label "Hide">

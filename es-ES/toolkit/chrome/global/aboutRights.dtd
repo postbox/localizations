@@ -17,14 +17,14 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; está disponible para usted bajo los términos de la ">
 <!ENTITY rights.intro-point1b "Mozilla Public License (Licencia Pública de Mozilla)">
-<!ENTITY rights.intro-point1c ". Esto significa que puede usar, copiar y distribuir &brandShortName; a los demás. También puede modificar el código fuente de &brandShortName; para adaptarlo a sus necesidades. La Mozilla Public License (Licencia Pública de Mozilla) le otorga el derecho de distribuir sus versiones modificadas.">
+<!ENTITY rights.intro-point1c ". Esto significa que puede usar, copiar y distribuir &brandShortName; a los demás. También puede modificar el código fuente para adaptarlo a sus necesidades. La Mozilla Public License (Licencia Pública de Mozilla) le otorga el derecho de distribuir sus versiones modificadas.">
 
 <!ENTITY rights.intro-point2-a "No se le concede ningún derecho ni licencia sobre las marcas comerciales de Mozilla Foundation o sus filiales, incluyendo sin limitación el nombre y logo de Firefox. Puede encontrarse información adicional sobre las marcas comerciales ">
 <!ENTITY rights.intro-point2-b "aquí">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Algunas características en &brandShortName;, como el agente de informe de fallos, le dan la opción de proporcionar información a &vendorShortName;. Al elegir enviar esa información, concede a &vendorShortName; permiso para usar la misma para mejorar sus productos, para publicar esa información en sus sitios web y para distribuirla.">
+<!ENTITY rights.intro-point2.5 "Algunas características en &brandShortName;, como agente de fallos, le dan la opción de proporcionar información a &vendorShortName;. Al elegir enviar esa información, concede a &vendorShortName; permiso para usar la misma para mejorar sus productos, para publicar esa información en sus sitios web y para distribuirla.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "La manera en que usamos su información personal y las opiniones enviadas a &vendorShortName; a través de &brandShortName; se describe en la ">
@@ -35,7 +35,7 @@
 <!ENTITY rights.intro-point3-unbranded "Cualquier política de privacidad aplicable a este producto se debe listar aquí.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Algunas características de &brandShortName; hacen uso de servicios de información basados en web; sin embargo, no podemos garantizar que sean 100 &#037; precisos ni libres de errores. Se pueden encontrar más detalles, incluyendo información sobre cómo desactivar las características que usan estos servicios, en la ">
+<!ENTITY rights2.intro-point4a "Algunas características de &brandShortName; hacen uso de servicios de información basados en web; sin embargo, no podemos garantizar que sean 100&#037; precisos ni libres de errores. Se pueden encontrar más detalles, incluyendo información sobre cómo desactivar las características que usan estos servicios, en la ">
 <!ENTITY rights.intro-point4b "términos del servicio">
 <!ENTITY rights.intro-point4c ".">
 
@@ -59,7 +59,7 @@
 <!ENTITY rights3.webservices-c ". Otras características y servicios pueden desactivarse en las preferencias de la aplicación.">
 
 <!-- safe browsing points for branded builds -->
-<!ENTITY rights.safebrowsing-a "Navegación segura: ">
+<!ENTITY rights.safebrowsing-a "Navegación segura:">
 <!ENTITY rights.safebrowsing-b "Desactivar la característica de navegación segura no se recomienda porque puede dar como resultado que visite sitios no seguros. Si desea desactivar la característica completamente, siga estos pasos:">
 <!ENTITY rights.safebrowsing-term1 "Abra las preferencias de la aplicación">
 <!ENTITY rights.safebrowsing-term2 "Seleccione el panel Seguridad">

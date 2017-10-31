@@ -27,7 +27,7 @@
 <!ENTITY compositionToolbarCmd.accesskey "c">
 <!ENTITY formattingToolbarCmd.label "Barre de format">
 <!ENTITY formattingToolbarCmd.accesskey "f">
-<!ENTITY editmodeToolbarCmd.label "Barre du mode d’édition">
+<!ENTITY editmodeToolbarCmd.label "Barre du mode d'édition">
 <!ENTITY editmodeToolbarCmd.accesskey "m">
 
 <!-- Format menu items -->

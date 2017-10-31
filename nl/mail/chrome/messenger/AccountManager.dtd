@@ -6,16 +6,16 @@
 
 <!ENTITY accountManagerTitle.label "Accountinstellingen">
 
-<!ENTITY accountActionsButton.label "Accountacties">
-<!ENTITY accountActionsButton.accesskey "o">
-<!ENTITY addMailAccountButton.label "E-mailaccount toevoegen…">
-<!ENTITY addMailAccountButton.accesskey "E">
+<!ENTITY accountActionsButton.label "Account Acties">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Voeg E-mailaccount toe...">
+<!ENTITY addMailAccountButton.accesskey "V">
 <!ENTITY addFeedAccountButton.label "Feedaccount toevoegen…">
 <!ENTITY addFeedAccountButton.accesskey "F">
-<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.label "Nieuwsgroepaccount Toevoegen...">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
-<!ENTITY setDefaultButton.label "Als standaard instellen">
-<!ENTITY setDefaultButton.accesskey "d">
+<!ENTITY setDefaultButton.label "Instellen als standaard">
+<!ENTITY setDefaultButton.accesskey "I">
 <!ENTITY removeButton.label "Account verwijderen">
 <!ENTITY removeButton.accesskey "v">
 
@@ -39,9 +39,9 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 <!ENTITY pbMacAccountManager.height "height: 45em;">
-<!ENTITY pbAccountTree.width "width: 25ch;">
+<!ENTITY pbAccountTree.width "width: 24ch;">
 
-<!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Add…">
-<!ENTITY pbAccountRemoveActionsButton.label "Remove">
-<!ENTITY pbAccountRemoveActionsButton.accesskey "R">
+<!ENTITY pbAccountAddActionsButton.accesskey "T">
+<!ENTITY pbAccountAddActionsButton.label "Toevoegen...">
+<!ENTITY pbAccountRemoveActionsButton.label "Verwijderen">
+<!ENTITY pbAccountRemoveActionsButton.accesskey "r">

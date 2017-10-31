@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY siteUrl.label         "URL do site:">
-<!ENTITY docSubdir.label       "Subdiretório da página:">
-<!ENTITY otherSubdir.label     "Subdiretório da imagem:">
+<!ENTITY siteUrl.label         "Site URL:">
+<!ENTITY docSubdir.label       "Page subdirectory:">
+<!ENTITY otherSubdir.label     "Image subdirectory:">
 
-<!ENTITY status.label          "Publicando…">
-<!ENTITY fileList.label        "Estado da publicação">
-<!ENTITY succeeded.label       "Bem-sucedido">
+<!ENTITY status.label          "Publishing…">
+<!ENTITY fileList.label        "Publishing Status">
+<!ENTITY succeeded.label       "Succeeded">
 <!ENTITY failed.label          "Malsucedido">
 
 <!ENTITY keepOpen              "Não fechar a janela quando concluir">

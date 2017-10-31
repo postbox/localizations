@@ -6,9 +6,9 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  Diese Seite enthält technische Informationen, die nützlich sein könnten,
-  wenn Sie versuchen, ein Problem zu lösen. Wenn Sie nach Antworten auf häufig
-  gestellte Fragen zu &brandShortName; suchen, besuchen Sie bitte unsere  <a id='supportLink'>Hilfeseite</a>.
+  Diese Seite beinhaltet technische Informationen, die nützlich sein könnten, 
+  wenn Sie versuchen, ein Problem zu lösen. Wenn Sie nach Antworten auf häufig 
+  gestellten Fragen zu &brandShortName; suchen, besuchen Sie bitte unsere  <a id='supportLink'>support website</a>.
 ">
 
 <!ENTITY aboutSupport.crashes.title "Absturzberichte">
@@ -45,7 +45,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Update-Chronik">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Update-Chronik anzeigen">
 
-<!ENTITY aboutSupport.appBasicsProfileDir "Profilverzeichnis">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profilordner">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
@@ -82,7 +82,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js-Einstellungen">
-<!ENTITY aboutSupport.userJSDescription "Der Profilordner besitzt eine <a id='prefs-user-js-link'>user.js-Datei</a>, welche Einstellungen enthält, die nicht von &brandShortName; erstellt wurden.">
+<!ENTITY aboutSupport.userJSDescription "Der Profilordner besitzt eine <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Wichtige nicht veränderbare Einstellungen">
 <!ENTITY aboutSupport.lockedPrefsName "Name">

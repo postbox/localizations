@@ -4,20 +4,20 @@
 
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Параметры учётной записи">
+<!ENTITY accountManagerTitle.label "Параметры учетной записи">
 
-<!ENTITY accountActionsButton.label "Действия для учётной записи">
-<!ENTITY accountActionsButton.accesskey "в">
-<!ENTITY addMailAccountButton.label "Добавить учётную запись почты…">
-<!ENTITY addMailAccountButton.accesskey "и">
+<!ENTITY accountActionsButton.label "Действия с учетной записью">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Добавить учетную запись почты…">
+<!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addFeedAccountButton.label "Добавить учётную запись лент новостей…">
 <!ENTITY addFeedAccountButton.accesskey "о">
-<!ENTITY addNewsgroupAccountButton.label "Add Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.label "Добавить учетную запись группы новостей…">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
-<!ENTITY setDefaultButton.label "Установить по умолчанию">
-<!ENTITY setDefaultButton.accesskey "п">
-<!ENTITY removeButton.label "Удалить учётную запись">
-<!ENTITY removeButton.accesskey "д">
+<!ENTITY setDefaultButton.label "По умолчанию">
+<!ENTITY setDefaultButton.accesskey "f">
+<!ENTITY removeButton.label "Удалить учетную запись">
+<!ENTITY removeButton.accesskey "R">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
@@ -42,6 +42,6 @@
 <!ENTITY pbAccountTree.width "width: 25ch;">
 
 <!ENTITY pbAccountAddActionsButton.accesskey "A">
-<!ENTITY pbAccountAddActionsButton.label "Add…">
-<!ENTITY pbAccountRemoveActionsButton.label "Remove">
+<!ENTITY pbAccountAddActionsButton.label "Добавить…">
+<!ENTITY pbAccountRemoveActionsButton.label "Удалить">
 <!ENTITY pbAccountRemoveActionsButton.accesskey "R">

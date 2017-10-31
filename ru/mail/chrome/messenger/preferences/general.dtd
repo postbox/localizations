@@ -2,45 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY allowSpotlight.label              "Allow Spotlight to search messages">
-<!ENTITY allowSpotlight.accesskey          "w">
+<!ENTITY allowSpotlight.label              "Разрешить Spotlight выполнять поиск сообщений">
+<!ENTITY allowSpotlight.accesskey          "S">
 
-<!ENTITY location.label "Адрес:">
-<!ENTITY location1.accesskey "е">
-<!ENTITY useDefault.label "Восстановить">
-<!ENTITY useDefault.accesskey "н">
+<!ENTITY location.label                   "Расположение:">
+<!ENTITY location1.accesskey               "д">
+<!ENTITY useDefault.label                 "Восстановить">
+<!ENTITY useDefault.accesskey             "R">
 
 <!ENTITY changeDockIconOptions.label "Изменить наcтройки значка приложения">
 <!ENTITY dockOptions.label "Наcтройки значка приложения…">
 <!ENTITY dockOptions.accesskey "ж">
 
-<!ENTITY newMessagesArrive.label "При появлении новых сообщений:">
-<!ENTITY playSound.label "Подавать звуковой сигнал">
-<!ENTITY playSound1.accesskey "в">
+<!ENTITY newMessagesArrive.label          "При получении новых сообщений:">
+<!ENTITY playSound.label                  "Воспроизвести звуковой сигнал">
+<!ENTITY playSound1.accesskey              "в">
 <!ENTITY playSoundMac.label "Воспроизвести следующий звуковой файл:">
 <!ENTITY playSoundMac.accesskey "а">
-<!ENTITY showAnimatedAlert.label "Показывать уведомление">
-<!ENTITY showAnimatedAlert.accesskey "к">
+<!ENTITY showAnimatedAlert.label          "Показать уведомление">
+<!ENTITY showAnimatedAlert.accesskey      "S">
 <!ENTITY notificationAlertSettings2.label "Уведомления и звук по умолчанию могут быть отключены на Панели Уведомления в «Системных настройках».">
-<!ENTITY customizeMailAlert.label "Настроить…">
-<!ENTITY customizeMailAlert.accesskey "и">
+<!ENTITY customizeMailAlert.label         "Настроить…">
+<!ENTITY customizeMailAlert.accesskey     "C">
 
 <!ENTITY showTrayIcon.label "Показать значок в трее">
 <!ENTITY showTrayIcon.accesskey "о">
 
-<!ENTITY play.label "Прослушать">
-<!ENTITY play.accesskey "ш">
-<!ENTITY systemsound.label "Системный звуковой сигнал о приходе почты">
-<!ENTITY systemsound.accesskey "м">
-<!ENTITY customsound.label "Использовать следующий звуковой файл">
-<!ENTITY customsound.accesskey "з">
-<!ENTITY browse.label "Обзор…">
-<!ENTITY browse.accesskey "б">
+<!ENTITY play.label                       "Прослушать">
+<!ENTITY play.accesskey                   "P">
+<!ENTITY systemsound.label                "Системный звуковой сигнал для новой почты">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "Использовать следующий звуковой файл">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "Обзор…">
+<!ENTITY browse.accesskey                 "B">
 
 <!ENTITY defaultSearchEngine.label "Поисковая система по умолчанию">
 
-<!ENTITY enableNotificationCenter.label   "Use the Notification Center">
+<!ENTITY enableNotificationCenter.label   "Использовать «Центр уведомлений»">
 
-<!ENTITY showProfileManager.label   "Show Profile Manager on startup">
+<!ENTITY showProfileManager.label   "Показывать «Диспетчер профилей» при запуске">
 
-<!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address book at:">
+<!ENTITY storeLocation.label              "Папка для хранения меток, подписей, ответов и адресной книги:">

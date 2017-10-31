@@ -13,16 +13,16 @@
 <!ENTITY mailingListPropertiesMenu.accesskey "V">
 
 <!ENTITY addressbookPicker.label            "Adressbuch:">
-<!ENTITY addressbookPicker.accesskey        "d">
+<!ENTITY addressbookPicker.accesskey        "A">
 <!ENTITY searchContacts.label               "Kontakte suchen:">
 <!ENTITY searchContacts.accesskey           "S">
-<!ENTITY SearchNameOrEmail.label            "Name oder E-Mail-Adresse">
+<!ENTITY SearchNameOrEmail.label            "Name oder E-Mail">
 
 <!ENTITY addtoToFieldMenu.label             "Zu &quot;An&quot; hinzufügen">
 <!ENTITY addtoToFieldMenu.accesskey         "A">
-<!ENTITY addtoCcFieldMenu.label             "Zu &quot;Kopie (CC)&quot; hinzufügen">
+<!ENTITY addtoCcFieldMenu.label             "Zu &quot;CC&quot; hinzufügen">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
-<!ENTITY addtoBccFieldMenu.label            "Zu &quot;Blindkopie (BCC)&quot; hinzufügen">
+<!ENTITY addtoBccFieldMenu.label            "Zu &quot;BCC&quot; hinzufügen">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Löschen">
 <!ENTITY deleteAddrBookCard.accesskey       "L">
@@ -36,8 +36,8 @@
 <!ENTITY editMailingListContext.accesskey   "s">
 
 <!ENTITY toButton.label                     ">> &quot;An:&quot;">
-<!ENTITY toButton.accesskey                 "A">
-<!ENTITY ccButton.label                     ">> &quot;Kopie (CC):&quot;">
+<!ENTITY toButton.accesskey                 "n">
+<!ENTITY ccButton.label                     ">> &quot;CC:&quot;">
 <!ENTITY ccButton.accesskey                 "C">
-<!ENTITY bccButton.label                    ">> &quot;Blindkopie (BCC):&quot;">
+<!ENTITY bccButton.label                    ">> &quot;BCC:&quot;">
 <!ENTITY bccButton.accesskey                "B">

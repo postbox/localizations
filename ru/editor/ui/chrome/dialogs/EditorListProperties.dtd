@@ -10,7 +10,7 @@
 <!ENTITY bulletStyle.label "Стиль маркированного списка:">
 <!ENTITY startingNumber.label "Начинать с:">
 <!ENTITY startingNumber.accessKey "Н">
-<!ENTITY none.value "Ничего">
+<!ENTITY none.value "Нет">
 <!ENTITY bulletList.value "Маркированный (ненумерованный) список">
 <!ENTITY numberList.value "Нумерованный список">
 <!ENTITY definitionList.value "Список определений">

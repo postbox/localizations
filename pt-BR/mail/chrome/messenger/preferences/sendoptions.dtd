@@ -23,13 +23,13 @@
 <!ENTITY PlainTextTab.label           "Enviar como texto sem formatação">
 <!ENTITY PlainTextTab.accesskey       "t">
 <!ENTITY AddHtmlDomain.label          "Adicionar…">
-<!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddHtmlDomain.accesskey      "a">
 <!ENTITY AddPlainText.label           "Adicionar…">
-<!ENTITY AddPlainText.accesskey       "A">
+<!ENTITY AddPlainText.accesskey       "d">
 <!ENTITY DeleteHtmlDomain.label       "Excluir">
-<!ENTITY DeleteHtmlDomain.accesskey   "x">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
 <!ENTITY DeletePlainText.label        "Excluir">
-<!ENTITY DeletePlainText.accesskey    "x">
+<!ENTITY DeletePlainText.accesskey    "t">
 
 <!ENTITY add.htmltitle                "Adicionar um domínio">
 <!ENTITY add.htmldomain               "Domínio de HTML:">

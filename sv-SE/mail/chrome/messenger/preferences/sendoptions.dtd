@@ -23,13 +23,13 @@
 <!ENTITY PlainTextTab.label           "Vanlig text-domäner">
 <!ENTITY PlainTextTab.accesskey       "V">
 <!ENTITY AddHtmlDomain.label          "Lägg till…">
-<!ENTITY AddHtmlDomain.accesskey      "L">
+<!ENTITY AddHtmlDomain.accesskey      "a">
 <!ENTITY AddPlainText.label           "Lägg till…">
-<!ENTITY AddPlainText.accesskey       "L">
+<!ENTITY AddPlainText.accesskey       "d">
 <!ENTITY DeleteHtmlDomain.label       "Ta bort">
-<!ENTITY DeleteHtmlDomain.accesskey   "T">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
 <!ENTITY DeletePlainText.label        "Ta bort">
-<!ENTITY DeletePlainText.accesskey    "T">
+<!ENTITY DeletePlainText.accesskey    "t">
 
 <!ENTITY add.htmltitle                "Lägg till domännamn för HTML">
 <!ENTITY add.htmldomain               "HTML domännamn">

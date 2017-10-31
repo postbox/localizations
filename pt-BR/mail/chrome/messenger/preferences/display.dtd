@@ -17,28 +17,28 @@
 <!ENTITY regularSize.label                "Regular">
 <!ENTITY bigger.label                     "Maior">
 <!ENTITY smaller.label                    "Menor">
-<!ENTITY textColor.label                  "Text Color:">
-<!ENTITY textColor.accesskey              "T">
-<!ENTITY backgroundColor.label            "Background Color:">
-<!ENTITY backgroundColor.accesskey        "b">
+<!ENTITY textColor.label                  "Texto:">
+<!ENTITY textColor.accesskey              "x">
+<!ENTITY backgroundColor.label            "Plano de fundo:">
+<!ENTITY backgroundColor.accesskey        "n">
 
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Topic">
-<!ENTITY tagActiveColumn.label    "Favorite">
+<!ENTITY tagActiveColumn.label    "Favoritos">
 <!ENTITY newTagButton.label        "New…">
 <!ENTITY newTagButton.accesskey    "N">
 <!ENTITY editTagButton1.label      "Edit…">
 <!ENTITY editTagButton1.accesskey  "E">
-<!ENTITY removeTagButton.label     "Excluir">
+<!ENTITY removeTagButton.label    "Excluir">
 <!ENTITY removeTagButton.accesskey "x">
 
 <!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Fontes">
 <!ENTITY defaultFont.label       "Fonte padrão:">
-<!ENTITY defaultFont.accesskey   "F">
-<!ENTITY defaultSize.label       "Tam.:">
-<!ENTITY defaultSize.accesskey   "T">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "Tamanho:">
+<!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "Avançado…">
 <!ENTITY colorButton.label       "Cores…">
@@ -70,47 +70,47 @@
 <!ENTITY closeMsgOnMoveOrDelete.label     "Ao mover ou excluir, fechar aba/janela da mensagem">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
 
-<!ENTITY pb.messagelist.colortagrow.label "Apply the topic color to the entire row in the message list pane">
+<!ENTITY pb.messagelist.colortagrow.label "Aplicar a mesma cor do tópico a todas as mensagens presentes na mesma linha do painel de mensagens">
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">
 
 <!-- conversation preferences -->
-<!ENTITY pb.itemConversation.label        "Conversations">
-<!ENTITY pb.conversations.display.label "Include messages from:">
-<!ENTITY pb.conversations.folderonly.label1 "The current folder">
-<!ENTITY pb.conversations.all.label1 "Every folder">
+<!ENTITY pb.itemConversation.label        "Conversas">
+<!ENTITY pb.conversations.display.label "Incluir mensagens de:">
+<!ENTITY pb.conversations.folderonly.label1 "Pasta atual">
+<!ENTITY pb.conversations.all.label1 "Todas as pastas">
 
-<!ENTITY pb.conversations.sortorder.label "Order conversations by:">
-<!ENTITY pb.conversations.sortoldest.label "Oldest messages first">
-<!ENTITY pb.conversations.sortnewest.label "Newest messages first">
+<!ENTITY pb.conversations.sortorder.label "Ordenar conversas pelas:">
+<!ENTITY pb.conversations.sortoldest.label "mensagens mais antigas primeiro">
+<!ENTITY pb.conversations.sortnewest.label "mensagens mais novas primeiro">
 
-<!ENTITY pb.conversations.read.label "When displaying a conversation, mark its messages as read">
+<!ENTITY pb.conversations.read.label "Ao exibir uma conversa, marque as mensagens como lidas">
 <!ENTITY pb.conversations.read.accesskey "c">
-<!ENTITY pb.conversations.photos.label "Include contact photos for each participant in the conversation">
+<!ENTITY pb.conversations.photos.label "Incluir fotos de contatos de cada participante da conversa">
 <!ENTITY pb.conversations.photos.accesskey "I">
 
 <!-- general -->
-<!ENTITY pb.itemGeneral.label        "General">
-<!ENTITY useRetina.label             "Retina Display">
-<!ENTITY devPixelsPerPx.label        "DPI scaling:">
+<!ENTITY pb.itemGeneral.label        "Geral">
+<!ENTITY useRetina.label             "Tela de retina">
+<!ENTITY devPixelsPerPx.label        "Escala de DPI:">
 <!ENTITY devPixelsPerPx.accesskey    "D">
-<!ENTITY devPixelsPerPx.default      "Default">
-<!ENTITY devPixelsPerPx.lowdpi       "Low DPI">
-<!ENTITY devPixelsPerPx.highdpi      "High DPI">
+<!ENTITY devPixelsPerPx.default      "Padrão">
+<!ENTITY devPixelsPerPx.lowdpi       "DPI baixo">
+<!ENTITY devPixelsPerPx.highdpi      "DPI alto">
 
 <!-- message list font size -->
 
-<!ENTITY pbChromeFontSizeSmall.label      "Small">
-<!ENTITY pbChromeFontSizeMedium.label     "Medium">
-<!ENTITY pbChromeFontSizeLarge.label      "Large">
-<!ENTITY pbChromeFontSize.label           "Message List and Folder Font Size:">
+<!ENTITY pbChromeFontSizeSmall.label      "Pequeno">
+<!ENTITY pbChromeFontSizeMedium.label     "Médio">
+<!ENTITY pbChromeFontSizeLarge.label      "Grande">
+<!ENTITY pbChromeFontSize.label           "Tamanho da fonte da lista de mensagens e da pasta:">
 <!ENTITY pbChromeFontSize.accesskey       "M">
 
 <!-- quoted colors -->
-<!ENTITY quotedColors.label "Quoted colors, levels 1 to 5:">
-<!ENTITY quotedColor1.label "Quoted color, level 1">
-<!ENTITY quotedColor2.label "Quoted color, level 2">
-<!ENTITY quotedColor3.label "Quoted color, level 3">
-<!ENTITY quotedColor4.label "Quoted color, level 4">
-<!ENTITY quotedColor5.label "Quoted color, level 5">
+<!ENTITY quotedColors.label "Cores da citação, níveis 1 a 5:">
+<!ENTITY quotedColor1.label "Cor da citação, nível 1">
+<!ENTITY quotedColor2.label "Cor da citação, nível 2">
+<!ENTITY quotedColor3.label "Cor da citação, nível 3">
+<!ENTITY quotedColor4.label "Cor da citação, nível 4">
+<!ENTITY quotedColor5.label "Cor da citação, nível 5">
 
-<!ENTITY boldUnread.label      "Bold Unread">
+<!ENTITY boldUnread.label      "Negrito Não Lido">

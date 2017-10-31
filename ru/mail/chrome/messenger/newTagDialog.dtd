@@ -4,5 +4,5 @@
 
 <!-- New Tag Dialog -->
 <!ENTITY newTagDialog1.title "Новая метка">
-<!ENTITY name.label "Имя метки:">
-<!ENTITY name.accesskey "м">
+<!ENTITY name.label              "Название метки:">
+<!ENTITY name.accesskey          "T">

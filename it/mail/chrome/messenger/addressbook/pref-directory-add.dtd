@@ -4,18 +4,18 @@
 
 <!ENTITY directoryName.label               "Nome: ">
 <!ENTITY directoryName.accesskey           "o">
-<!ENTITY directoryHostname.label           "Nome server: ">
-<!ENTITY directoryHostname.accesskey       "o">
+<!ENTITY directoryHostname.label           "Nome host: ">
+<!ENTITY directoryHostname.accesskey       "h">
 <!ENTITY directoryBaseDN.label             "Base DN: ">
 <!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Trova">
 <!ENTITY findButton.accesskey              "v">
 <!ENTITY directorySecure.label             "Utilizza connessione sicura (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
-<!ENTITY directoryLogin.label              "DN associato: ">
+<!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "D">
 <!ENTITY General.tab                       "Generale">
-<!ENTITY Offline.tab                       "Non in linea">
+<!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Avanzate">
 <!ENTITY portNumber.label                  "Numero porta: ">
 <!ENTITY portNumber.accesskey              "p">
@@ -24,13 +24,13 @@
 <!ENTITY scope.label                       "Campo di ricerca: ">
 <!ENTITY scope.accesskey                   "C">
 <!ENTITY scopeOneLevel.label               "Un livello">
-<!ENTITY scopeOneLevel.accesskey           "L">
+<!ENTITY scopeOneLevel.accesskey           "l">
 <!ENTITY scopeSubtree.label                "Tutti i sottolivelli">
 <!ENTITY scopeSubtree.accesskey            "T">
-<!ENTITY return.label                      "Non visualizzare più di">
+<!ENTITY return.label                      "Non restituire più di">
 <!ENTITY return.accesskey                  "N">
 <!ENTITY results.label                     "risultati">
-<!ENTITY offlineText.label                 "È possibile scaricare una copia locale di questa cartella, in modo da renderla disponibile anche in modalità non in linea.">
+<!ENTITY offlineText.label                 "Puoi scaricare una copia locale di questa directory, così sarà disponibile anche in modalità offline.">
 <!ENTITY saslMechanism.label               "Metodo di accesso: ">
 <!ENTITY saslMechanism.accesskey           "m">
 <!ENTITY saslOff.label                     "Semplice">

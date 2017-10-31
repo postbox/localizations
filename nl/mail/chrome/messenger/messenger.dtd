@@ -2,30 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY titledefault.label "&brandFullName;">
-<!ENTITY titleSeparator.label " - ">
+<!ENTITY titledefault.label    "&brandFullName;">
+<!ENTITY titleSeparator.label "-">
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Map…">
 <!ENTITY newFolderCmd.accesskey "M">
 <!ENTITY newSubfolderCmd.label "Subfolder…">
 <!ENTITY newSubfolderCmd.accesskey "U">
-<!ENTITY newTabCmd.label "New Tab">
+<!ENTITY newTabCmd.label "Nieuwe Tab">
 <!ENTITY newTabCmd.accesskey "T">
-<!ENTITY closeTabCmd.label "Close Tab">
-<!ENTITY closeTabCmd.accesskey "e">
+<!ENTITY closeTabCmd.label "Tabblad sluiten">
+<!ENTITY closeTabCmd.accesskey "s">
 <!ENTITY newVirtualFolderCmd.label "Opgeslagen zoekopdracht…">
 <!ENTITY newVirtualFolderCmd.accesskey "O">
-<!ENTITY addRSSAccountButton.label "RSS Account…">
+<!ENTITY addRSSAccountButton.label "RSS Account...">
 <!ENTITY addRSSAccountButton.accesskey "R">
-<!ENTITY addNewsgroupAccountButton.label "Newsgroup Account…">
+<!ENTITY addNewsgroupAccountButton.label "Nieuwsgroep Account...">
 <!ENTITY addNewsgroupAccountButton.accesskey "N">
-<!ENTITY newEmailAccountCmd.label "Mail Account…">
-<!ENTITY newEmailAccountCmd.accesskey "A">
+<!ENTITY newEmailAccountCmd.label "E-mail account...">
+<!ENTITY newEmailAccountCmd.accesskey "a">
 <!ENTITY newTaskCmd.label "Reminder">
-<!ENTITY newTaskCmd.accesskey "d">
+<!ENTITY newTaskCmd.accesskey "T">
 <!ENTITY newTaskCmd.key "n">
-<!ENTITY openMessageMenu.label "Open">
+<!ENTITY openMessageMenu.label "Openen">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Opslaan als">
@@ -50,14 +50,14 @@
 <!ENTITY deleteFolder.label "Map verwijderen">
 <!ENTITY deleteFolder.accesskey "r">
 <!ENTITY renameFolder.label "Mapnaam wijzigen…">
-<!ENTITY renameFolder.accesskey "w">
+<!ENTITY renameFolder.accesskey "M">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Mappen comprimeren">
 <!ENTITY compactFolders.accesskey "c">
 <!ENTITY emptyTrashCmd.label "Prullenbak leegmaken">
-<!ENTITY emptyTrashCmd.accesskey "P">
-<!ENTITY offlineMenu.label "Offline">
-<!ENTITY offlineMenu.accesskey "f">
+<!ENTITY emptyTrashCmd.accesskey    "P">
+<!ENTITY offlineMenu.label "Niet verbonden">
+<!ENTITY offlineMenu.accesskey "N">
 <!ENTITY offlineGoOfflineCmd.label "Offline werken">
 <!ENTITY offlineGoOfflineCmd.accesskey "O">
 <!ENTITY synchronizeOfflineCmd.label "Nu downloaden/synchroniseren…">
@@ -75,11 +75,11 @@
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Pagina-instellingen…">
 <!ENTITY printSetupCmd.accesskey "i">
-<!ENTITY renameCmd.label "Rename">
+<!ENTITY renameCmd.label "Naam wijzigen">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Bericht verwijderen">
-<!ENTITY deleteMsgCmd.accesskey "v">
+<!ENTITY deleteMsgCmd.accesskey "w">
 <!ENTITY undeleteMsgCmd.label "Verwijderen bericht ongedaan maken">
 <!ENTITY undeleteMsgCmd.accesskey "V">
 <!ENTITY deleteMsgsCmd.label "Geselecteerde berichten verwijderen">
@@ -117,7 +117,7 @@
 <!ENTITY undoDefaultCmd.accesskey "O">
 <!ENTITY redoDefaultCmd.label "Opnieuw uitvoeren">
 <!ENTITY redoDefaultCmd.accesskey "u">
-<!ENTITY enterLicenseCode.label "License...">
+<!ENTITY enterLicenseCode.label "Licentie...">
 <!ENTITY enterLicenseCode.accesskey "e">
   
 <!-- View Menu -->
@@ -136,7 +136,7 @@
 <!ENTITY showFolderPaneColsCmd.label "Mappenvensterkolommen">
 <!ENTITY showFolderPaneColsCmd.accesskey "o">
 <!ENTITY showMessageCmd.label "Berichtvenster">
-<!ENTITY showMessageCmd.accesskey "e">
+<!ENTITY showMessageCmd.accesskey "B">
 
 <!ENTITY recentFolders.label "Recente">
 
@@ -144,9 +144,9 @@
 <!ENTITY sortMenu.label "Sorteren op">
 <!ENTITY sortMenu.accesskey "S">
 <!ENTITY sortByDateCmd.label "Datum">
-<!ENTITY sortByDateCmd.accesskey "m">
+<!ENTITY sortByDateCmd.accesskey "D">
 <!ENTITY sortByReceivedCmd.label "Ontvangen">
-<!ENTITY sortByReceivedCmd.accesskey "a">
+<!ENTITY sortByReceivedCmd.accesskey "v">
 <!ENTITY sortByStarCmd.label "Ster">
 <!ENTITY sortByStarCmd.accesskey "S">
 <!ENTITY sortByAttachmentsCmd.label "Bijlagen">
@@ -160,7 +160,7 @@
 <!ENTITY sortByTagsCmd.label "Labels">
 <!ENTITY sortByTagsCmd.accesskey "L">
 <!ENTITY sortByJunkStatusCmd.label "Ongewenstberichtstatus">
-<!ENTITY sortByJunkStatusCmd.accesskey "h">
+<!ENTITY sortByJunkStatusCmd.accesskey "i">
 <!ENTITY sortBySubjectCmd.label "Onderwerp">
 <!ENTITY sortBySubjectCmd.accesskey "w">
 <!ENTITY sortByFromCmd.label "Van">
@@ -176,17 +176,17 @@
 <!ENTITY sortAscending.label "Oplopend">
 <!ENTITY sortAscending.accesskey "O">
 <!ENTITY sortDescending.label "Aflopend">
-<!ENTITY sortDescending.accesskey "f">
+<!ENTITY sortDescending.accesskey "A">
 <!ENTITY sortThreaded.label "Conversaties">
 <!ENTITY sortThreaded.accesskey "C">
 <!ENTITY sortUnthreaded.label "Geen conversaties">
 <!ENTITY sortUnthreaded.accesskey "e">
-<!ENTITY groupBySort.label "Gegroepeerd op sortering">
+<!ENTITY groupBySort.label "Gegroepeerd op soort">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Berichten">
 <!ENTITY msgsMenu.accesskey "B">
 <!ENTITY threads.label "Conversaties">
-<!ENTITY threads.accesskey "i">
+<!ENTITY threads.accesskey "C">
 <!ENTITY allMsgsCmd.label "Alle">
 <!ENTITY allMsgsCmd.accesskey "A">
 <!ENTITY expandAllThreadsCmd.label "Alle conversaties uitvouwen">
@@ -204,14 +204,14 @@
 <!ENTITY ignoredThreadsCmd.label "Genegeerde conversaties">
 <!ENTITY ignoredThreadsCmd.accesskey "n">
 
-<!ENTITY headersMenu.label "Kopregels">
-<!ENTITY headersMenu.accesskey "K">
+<!ENTITY headersMenu.label "Berichtkopregels">
+<!ENTITY headersMenu.accesskey "k">
 <!ENTITY headersAllCmd.label "Alle">
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Normaal">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "Berichttekst als">
-<!ENTITY bodyMenu.accesskey "B">
+<!ENTITY bodyMenu.label "Berichtopmaak als">
+<!ENTITY bodyMenu.accesskey "o">
 <!ENTITY bodyAllowHTML.label "Originele HTML">
 <!ENTITY bodyAllowHTML.accesskey "O">
 <!ENTITY bodySanitized.label "Vereenvoudigde HTML">
@@ -287,12 +287,12 @@
 <!ENTITY goBackCmd.label "Terug">
 <!ENTITY goBackCmd.accesskey "e">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goToFolderCmd.label "Quick Switch">
-<!ENTITY goToFolderCmd.accesskey "Q">
+<!ENTITY goToFolderCmd.label "Snel Omschakelen">
+<!ENTITY goToFolderCmd.accesskey "S">
 <!ENTITY prevStarredMsgCmd.label "Bericht met ster">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
-<!ENTITY startPageCmd1.label "Home">
-<!ENTITY startPageCmd1.accesskey "H">
+<!ENTITY startPageCmd1.label "Startpagina">
+<!ENTITY startPageCmd1.accesskey "S">
 <!ENTITY goRecentlyClosedTabs.accesskey "t">
 
 <!-- Message Menu -->
@@ -309,47 +309,47 @@
 <!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY replyMsgCmd.label "Beantwoorden">
 <!ENTITY replyMsgCmd.accesskey "a">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Afzender beantwoorden">
-<!ENTITY replySenderCmd.accesskey "a">
+<!ENTITY replySenderCmd.accesskey "A">
 <!ENTITY replyNewsgroupCmd2.label "Reageren naar nieuwsgroep">
 <!ENTITY replyNewsgroupCmd2.accesskey  "r">
 <!ENTITY replyToAllMsgCmd.label "Allen beantwoorden">
-<!ENTITY replyToAllMsgCmd.accesskey "d">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey  "e">
+<!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "Lijst beantwoorden">
 <!ENTITY replyToListMsgCmd.accesskey "i">
 <!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Doorsturen">
 <!ENTITY forwardMsgCmd.accesskey "s">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Doorsturen als">
 <!ENTITY forwardAsMenu.accesskey "t">
 <!ENTITY forwardAsInline.label "In het bericht">
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Bijlage">
 <!ENTITY forwardAsAttachmentCmd.accesskey "B">
-<!ENTITY editMsgCmd.label "Edit">
-<!ENTITY editMsgCmd.accesskey "E">
+<!ENTITY editMsgCmd.label "Bewerken">
+<!ENTITY editMsgCmd.accesskey "e">
 <!ENTITY editMsgCmd.key "e">
-<!ENTITY editMsgAsNewCmd1.label "Resend">
+<!ENTITY editMsgAsNewCmd1.label "Opnieuw verzenden">
 <!ENTITY editMsgAsNewCmd1.accesskey "d">
-<!ENTITY redirectCmd.label "Redirect">
+<!ENTITY redirectCmd.label "Omleiden">
 <!ENTITY redirectCmd.key "e">
 <!ENTITY createFilter.label "Filter maken op basis van bericht…">
 <!ENTITY createFilter.accesskey "F">
-<!ENTITY archiveMsgMenu.label "Archive">
-<!ENTITY archiveMsgMenu.accesskey "a">
+<!ENTITY archiveMsgMenu.label "Archiveren">
+<!ENTITY archiveMsgMenu.accesskey "A">
 <!ENTITY moveMsgToMenu.label "Verplaatsen naar">
 <!ENTITY moveMsgToMenu.accesskey "r">
-<!ENTITY moveCopyMsgRecentMenu.label "Recent">
+<!ENTITY moveCopyMsgRecentMenu.label "Recent gebruikt">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Berichtlocatie kopiëren">
 <!ENTITY copyMessageLocation.accesskey "p">
 <!ENTITY copyMsgToMenu.label "Kopiëren naar">
 <!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Opnieuw verplaatsen">
-<!ENTITY moveToFolderAgain.accesskey "w">
+<!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Conversatie negeren">
 <!ENTITY killThreadMenu.accesskey "C">
@@ -377,12 +377,12 @@
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Als gelezen">
 <!ENTITY markAsReadCmd.accesskey "z">
-<!ENTITY markAsUnreadCmd.label "Als ongelezen">
-<!ENTITY markAsUnreadCmd.accesskey "n">
-<!ENTITY markAsPendingCmd.label "As Pending">
-<!ENTITY markAsPendingCmd.accesskey "P">
-<!ENTITY markAsNotPendingCmd.label "As Not Pending">
-<!ENTITY markAsNotPendingCmd.accesskey "g">
+<!ENTITY markAsUnreadCmd.label "Als Ongelezen">
+<!ENTITY markAsUnreadCmd.accesskey "A">
+<!ENTITY markAsPendingCmd.label "Wacht op antwoord">
+<!ENTITY markAsPendingCmd.accesskey "p">
+<!ENTITY markAsNotPendingCmd.label "Niet wachten op antwoord">
+<!ENTITY markAsNotPendingCmd.accesskey "N">
 <!ENTITY markAsPendingCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Conversatie als gelezen">
 <!ENTITY markThreadAsReadCmd.accesskey "C">
@@ -392,8 +392,8 @@
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Ster toevoegen">
 <!ENTITY markStarredCmd.accesskey "S">
-<!ENTITY markUnStarredCmd.label "As Not Reminder">
-<!ENTITY markUnStarredCmd.accesskey "N">
+<!ENTITY markUnStarredCmd.label "Als geen Reminder">
+<!ENTITY markUnStarredCmd.accesskey "n">
 
 <!-- keep as s, because t is taken by topic/tag -->
 <!ENTITY markStarredCmd.key "s">
@@ -424,8 +424,8 @@
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "d">
+<!ENTITY addons.label "Plugins">
+<!ENTITY addons.accesskey "P">
 <!ENTITY activitymanager.label "Activiteitenbeheerder">
 <!ENTITY activitymanager.accesskey "e">
 <!ENTITY imAccountsStatus.label "Chatstatus">
@@ -453,23 +453,23 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY hintsAndTips.label "&brandFullName; Help">
 <!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY hintsAndTips.accesskey "h">
-<!ENTITY helpSafeMode.label     "Troubleshooting…">
+<!ENTITY hintsAndTips.accesskey "H">
+<!ENTITY helpSafeMode.label     "Trouble Shooting…">
 <!ENTITY helpSafeMode.accesskey "S">
-<!ENTITY helpTroubleshootingInfo.label     "Configuration Data">
+<!ENTITY helpTroubleshootingInfo.label     "Configuratiedata">
 <!ENTITY helpTroubleshootingInfo.accesskey "C">
-<!ENTITY aboutCmd.label "About &brandFullName;">
-<!ENTITY aboutCmd.accesskey "A">
-<!ENTITY filtersApplyToSelection.label "Filters toepassen op geselecteerde berichten">
+<!ENTITY aboutCmd.label "Over &brandFullName;">
+<!ENTITY aboutCmd.accesskey "O">
+<!ENTITY filtersApplyToSelection.label "Filters op Geselecteerde Berichten Toepassen">
 <!ENTITY filtersApplyToSelection.accesskey "s">
-<!ENTITY filtersApplyToMessage.label "Filters toepassen op bericht">
+<!ENTITY filtersApplyToMessage.label "Filters op Bericht toepassen">
 <!ENTITY filtersApplyToMessage.accesskey "s">
 <!ENTITY runJunkControls.label "Ongewensteberichtenverwerking uitvoeren op map">
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "Ongewenste berichten uit map verwijderen">
 <!ENTITY deleteJunk.accesskey "v">
 <!ENTITY importCmd.label "Importeren…">
-<!ENTITY importCmd.accesskey "m">
+<!ENTITY importCmd.accesskey "I">
 <!ENTITY clearRecentHistory.label "Recente geschiedenis wissen…">
 <!ENTITY clearRecentHistory.accesskey "R">
 <!ENTITY accountManagerCmd2.label "Accountinstellingen">
@@ -511,10 +511,10 @@
 <!ENTITY replyButton.label "Beantwoorden">
 <!ENTITY replyAllButton.label "Allen beantwoorden">
 <!ENTITY replyListButton.label "Lijst beantwoorden">
-<!ENTITY sendButton.label "Send">
-<!ENTITY redirectButton.label "Redirect">
+<!ENTITY sendButton.label "Verzenden">
+<!ENTITY redirectButton.label "Omleiden">
 <!ENTITY forwardButton.label "Doorsturen">
-<!ENTITY fileButton.label "Verplaatsen">
+<!ENTITY fileButton.label "Bewaren">
 <!ENTITY archiveButton.label "Archiveren">
 <!ENTITY openConversationButton.label "Conversatie">
 <!ENTITY nextButton.label "Volgende">
@@ -551,15 +551,15 @@
 <!ENTITY getAllNewMsgCmd.accesskey "A">
 <!ENTITY newMsgButton.tooltip "Een nieuw bericht aanmaken">
 <!ENTITY replyButton.tooltip "Het geselecteerde bericht beantwoorden">
-<!ENTITY replyAllButton.tooltip "Afzender en alle ontvangers beantwoorden">
+<!ENTITY replyAllButton.tooltip "Afzender en alle geadresseerden beantwoorden">
 <!ENTITY replyListButton.tooltip "Mailinglijst beantwoorden">
-<!ENTITY sendButton.tooltip "Send selected message">
-<!ENTITY redirectButton.tooltip "Redirect selected message">
+<!ENTITY sendButton.tooltip "Verstuur het geselecteerde bericht">
+<!ENTITY redirectButton.tooltip "Geselecteerd bericht omleiden">
 <!ENTITY forwardButton.tooltip "Geselecteerde bericht doorsturen">
 <!ENTITY forwardAsInline.tooltip "Geselecteerde bericht doorsturen in het bericht">
 <!ENTITY forwardAsAttachment.tooltip "Geselecteerde bericht doorsturen als bijlage">
-<!ENTITY fileButton.tooltip "Geselecteerde bericht verplaatsen">
-<!ENTITY archiveButton.tooltip "Geselecteerde berichten archiveren">
+<!ENTITY fileButton.tooltip "Geselecteerde bericht bewaren">
+<!ENTITY archiveButton.tooltip "Geselecteerde bericht archiveren">
 <!ENTITY openConversationButton.tooltip "Conversatie van geselecteerde bericht tonen">
 <!ENTITY nextButton.tooltip "Naar het volgende ongelezen bericht gaan">
 <!ENTITY nextMsgButton.tooltip "Naar het volgende bericht gaan">
@@ -571,7 +571,7 @@
 <!ENTITY undeleteButton.tooltip "Geselecteerde bericht terugplaatsen">
 <!ENTITY markButton.tooltip "Berichten markeren">
 <!ENTITY printButton.tooltip "Dit bericht afdrukken">
-<!ENTITY stopButton.tooltip "De huidige overdracht stoppen">
+<!ENTITY stopButton.tooltip "Huidige verbinding verbreken">
 <!ENTITY junkButton.tooltip "Geselecteerde berichten als ongewenst markeren">
 <!ENTITY notJunkButton.tooltip "Geselecteerde berichten als gewenst markeren">
 <!ENTITY addressBookButton.tooltip "Naar het adresboek gaan">
@@ -600,7 +600,7 @@
 
 <!-- Folder Pane -->
 <!ENTITY accountTree.label    "Accounts">
-<!ENTITY folderTree.label     "Folders">
+<!ENTITY folderTree.label     "Mappen">
 <!ENTITY folderNameColumn.label "Naam">
 <!ENTITY folderSizeColumn.label "Grootte">
 
@@ -611,9 +611,9 @@
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Openen in nieuw tabblad">
 <!ENTITY folderContextOpenNewTab.accesskey "t">
-<!ENTITY folderContextNewSubfolder.label "New Subfolder…">
+<!ENTITY folderContextNewSubfolder.label "Nieuwe submap…">
 <!ENTITY folderContextNewSubfolder.accesskey "N">
-<!ENTITY folderContextNewFolder.label "New Folder…">
+<!ENTITY folderContextNewFolder.label "New Folder...">
 <!ENTITY folderContextNewFolder.accesskey "F">
 <!ENTITY folderContextRename.label "Naam wijzigen">
 <!ENTITY folderContextRename.accesskey "w">
@@ -623,8 +623,8 @@
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "Prullenbak leegmaken">
 <!ENTITY folderContextEmptyTrash.accesskey "P">
-<!ENTITY folderContextEmptyJunk.label "Map Ongewenst leegmaken">
-<!ENTITY folderContextEmptyJunk.accesskey "s">
+<!ENTITY folderContextEmptyJunk.label "Ongewensteberichtenmap leegmaken">
+<!ENTITY folderContextEmptyJunk.accesskey "t">
 <!ENTITY folderContextSendUnsentMessages.label "Niet-verzonden berichten verzenden">
 <!ENTITY folderContextSendUnsentMessages.accesskey "N">
 <!ENTITY folderContextUnsubscribe.label "Abonnement opzeggen">
@@ -632,7 +632,7 @@
 <!ENTITY folderContextMarkNewsgroupRead.label "Nieuwsgroep als gelezen markeren">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "m">
 <!ENTITY folderContextMarkMailFolderRead.label "Map als gelezen markeren">
-<!ENTITY folderContextMarkMailFolderRead.accesskey "m">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "M">
 <!ENTITY folderContextSubscribe.label "Abonneren…">
 <!ENTITY folderContextSubscribe.accesskey "A">
 <!ENTITY folderContextSearchForMessages.label "Berichten zoeken…">
@@ -641,7 +641,7 @@
 <!ENTITY folderContextProperties2.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favoriete map">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
-<!ENTITY folderContextColor.label "Label Color">
+<!ENTITY folderContextColor.label "Labelkleur">
 <!ENTITY folderContextColor.accesskey "L">
 <!ENTITY folderContextSettings2.label "Instellingen">
 <!ENTITY folderContextSettings2.accesskey "I">
@@ -670,7 +670,7 @@
 <!ENTITY subjectColumn.label "Onderwerp">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Prioriteit">
-<!ENTITY tagsColumn.label "Labels">
+<!ENTITY tagsColumn.label "Label">
 <!ENTITY accountColumn.label "Account">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Grootte">
@@ -702,7 +702,7 @@
 <!ENTITY totalColumn2.tooltip "Totale aantal berichten in conversatie">
 <!ENTITY readColumn2.tooltip "Sorteren op gelezen">
 <!ENTITY receivedColumn2.tooltip "Sorteren op ontvangstdatum">
-<!ENTITY starredColumn2.tooltip "Sorteren op ster">
+<!ENTITY starredColumn2.tooltip "Klik om Reminder's vast of los te zetten">
 <!ENTITY locationColumn2.tooltip "Sorteren op locatie">
 <!ENTITY idColumn2.tooltip "Sorteren op volgorde van ontvangst">
 <!ENTITY attachmentColumn2.tooltip "Sorteren op bijlagen">
@@ -716,18 +716,18 @@
      would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Bericht openen in nieuw tabblad">
 <!ENTITY contextOpenNewTab.accesskey "t">
-<!ENTITY contextEditMsg.label "Edit...">
-<!ENTITY contextEditMsg.accesskey "i">
+<!ENTITY contextEditMsg.label "Bewerken…">
+<!ENTITY contextEditMsg.accesskey "B">
 <!ENTITY contextOpenContainingFolder.label "Bericht openen in bijbehorende map">
 <!ENTITY contextOpenContainingFolder.accesskey "m">
-<!ENTITY contextEditAsNew1.label "Resend">
+<!ENTITY contextEditAsNew1.label "Opnieuw verzenden...">
 <!ENTITY contextEditAsNew1.accesskey "e">
 <!ENTITY contextEditDraftMsg.label "Conceptbericht bewerken">
-<!ENTITY contextRedirect.label "Redirect">
+<!ENTITY contextRedirect.label "Omleiden">
 <!ENTITY contextArchive.label "Archiveren">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Afzender beantwoorden">
-<!ENTITY contextReplySender.accesskey "a">
+<!ENTITY contextReplySender.accesskey "A">
 <!ENTITY contextReplyNewsgroup2.label "Reageren naar nieuwsgroep">
 <!ENTITY contextReplyNewsgroup2.accesskey "r">
 <!ENTITY contextReplyAll.label "Allen beantwoorden">
@@ -744,11 +744,11 @@
 <!ENTITY contextForwardAsAttachmentItem.accesskey "B">
 <!ENTITY contextMultiForwardAsAttachment.label "Doorsturen als bijlagen">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "o">
-<!ENTITY contextArchiveMsg.label "Archive">
-<!ENTITY contextArchiveMsg.accesskey "a">
+<!ENTITY contextArchiveMsg.label "Archiveren">
+<!ENTITY contextArchiveMsg.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Verplaatsen naar">
-<!ENTITY contextMoveMsgMenu.accesskey "r">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
+<!ENTITY contextMoveMsgMenu.accesskey "V">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Recent gebruikt">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Kopiëren naar">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
@@ -827,19 +827,19 @@
 <!ENTITY contextUnmute.accesskey "D">
 
 <!-- Action Options -->
-<!ENTITY messageHeader.expand.label                 "Expand All">
-<!ENTITY messageHeader.collapse.label               "Collapse All">
-<!ENTITY messageHeader.editMessageButton.label      "Edit">
-<!ENTITY messageHeader.showRelated.label            "Show Related">
-<!ENTITY messageHeader.showRelated.label            "Show Related">
-<!ENTITY messageHeader.assignTopic.label            "Assign Topic">
-<!ENTITY messageHeader.assignLabel.label            "Assign Label">
-<!ENTITY messageHeader.reply.label                  "Reply">
-<!ENTITY messageHeader.replyAll.label               "Reply All">
-<!ENTITY messageHeader.forward.label                "Forward">
+<!ENTITY messageHeader.expand.label                 "Uitvouwen">
+<!ENTITY messageHeader.collapse.label               "Invouwen">
+<!ENTITY messageHeader.editMessageButton.label      "Bewerken">
+<!ENTITY messageHeader.showRelated.label            "Gerelateerde berichten weergeven">
+<!ENTITY messageHeader.showRelated.label            "Gerelateerde berichten weergeven">
+<!ENTITY messageHeader.assignTopic.label            "Label toewijzen">
+<!ENTITY messageHeader.assignLabel.label            "Label Toewijzen">
+<!ENTITY messageHeader.reply.label                  "Beantwoorden">
+<!ENTITY messageHeader.replyAll.label               "Allen beantwoorden">
+<!ENTITY messageHeader.forward.label                "Doorsturen">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label " more...">
+<!ENTITY more.label "meer">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
@@ -847,7 +847,7 @@
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Toevoegen aan adresboek…">
-<!ENTITY AddToAddressBook.accesskey "T">
+<!ENTITY AddToAddressBook.accesskey "v">
 <!ENTITY AddDirectlyToAddressBook.label "Toevoegen aan adresboek">
 <!ENTITY AddDirectlyToAddressBook.accesskey "T">
 <!ENTITY EditContact1.label "Contact bewerken">
@@ -869,7 +869,7 @@
 <!ENTITY CreateFilterFrom.label "Filter maken op basis van…">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "E-mailscam rapporteren">
-<!ENTITY reportPhishingURL.accesskey "s">
+<!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Woordenboeken toevoegen…">
@@ -880,12 +880,12 @@
 <!ENTITY saveLinkAsCmd.accesskey "l">
 <!ENTITY saveImageAsCmd.label "Afbeelding opslaan als…">
 <!ENTITY saveImageAsCmd.accesskey "p">
-<!ENTITY copyCmd.label "Copy">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Select All">
+<!ENTITY copyCmd.label "Kopiëren">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Alles selecteren">
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "Koppelingslocatie kopiëren">
-<!ENTITY copyLinkCmd.accesskey "k">
+<!ENTITY copyLinkCmd.accesskey "K">
 <!ENTITY copyImageAllCmd.label "Afbeelding kopiëren">
 <!ENTITY copyImageAllCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "E-mailadres kopiëren">
@@ -901,7 +901,7 @@
 <!ENTITY contextSearchWeb.accesskey "S">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label "Gereed">
+<!ENTITY statusText.label "Klaar">
 
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimaliseren">
@@ -928,6 +928,6 @@
 <!ENTITY pbkey_goHomeMac.key "H">
 
 <!-- Lightning Specific String -->
-<!ENTITY pbLightningQuickView.label "Quick View">
-<!ENTITY lightning.calendar.label "Calendar">
-<!ENTITY lightning.tasks.label "Tasks">
+<!ENTITY pbLightningQuickView.label "Snelvoorbeeld">
+<!ENTITY lightning.calendar.label "Agenda">
+<!ENTITY lightning.tasks.label "Taken">

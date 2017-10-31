@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab                     "Contact">
+<!ENTITY Contact.tab                     "Contactpersoon">
 <!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Naam">
 
@@ -30,7 +30,7 @@
 <!ENTITY PhoneticField1.label           "Fonetisch:">
 <!ENTITY PhoneticField2.label           "Fonetisch:">
 <!ENTITY DisplayName.label              "Weergave:">
-<!ENTITY DisplayName.accesskey          "a">
+<!ENTITY DisplayName.accesskey          "W">
 <!ENTITY preferDisplayName.label        "Altijd weergavenaam boven berichtkop verkiezen">
 <!ENTITY preferDisplayName.accesskey    "z">
 <!ENTITY NickName.label                 "Bijnaam:">
@@ -47,23 +47,23 @@
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Onbekend">
 <!ENTITY chatName.label                 "Chatnaam:">
-<!ENTITY ScreenName.label               "Screen Name:">
+<!ENTITY ScreenName.label               "Schermnaam:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY Phones.box                     "Phones">
+<!ENTITY Phones.box                     "Telefoon">
 <!ENTITY WorkPhone.label                "Werk:">
 <!ENTITY WorkPhone.accesskey            "r">
 <!ENTITY HomePhone.label                "Thuis:">
-<!ENTITY HomePhone.accesskey            "u">
+<!ENTITY HomePhone.accesskey            "T">
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pieper:">
-<!ENTITY PagerNumber.accesskey          "i">
+<!ENTITY PagerNumber.accesskey          "P">
 <!ENTITY CellularNumber.label           "Mobiel:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "Address">
-<!ENTITY Home.box                       "Home">
+<!ENTITY Address.tab                    "Adres">
+<!ENTITY Home.box                       "Startpagina">
 <!ENTITY HomeAddress.label              "Adres:">
 <!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
@@ -79,14 +79,14 @@
 <!ENTITY HomeWebPage.label              "Webpagina:">
 <!ENTITY HomeWebPage.accesskey          "b">
 <!ENTITY Birthday.label                 "Verjaardag:">
-<!ENTITY Birthday.accesskey             "e">
+<!ENTITY Birthday.accesskey             "V">
 <!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Jaar">
 <!ENTITY Or.value                       "of">
 <!ENTITY Age.placeholder                "Leeftijd">
 <!ENTITY YearsOld.label                 "jaar">
 
-<!ENTITY Work.box                       "Work">
+<!ENTITY Work.box                       "Werk">
 <!ENTITY JobTitle.label                 "Functie:">
 <!ENTITY JobTitle.accesskey             "u">
 <!ENTITY Department.label               "Afdeling:">
@@ -97,7 +97,7 @@
 <!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "Plaats:">
+<!ENTITY WorkCity.label                 "Stad:">
 <!ENTITY WorkCity.accesskey             "s">
 <!ENTITY WorkState.label                "Provincie:">
 <!ENTITY WorkState.accesskey            "v">
@@ -107,23 +107,23 @@
 <!ENTITY WorkCountry.accesskey          "L">
 <!ENTITY WorkWebPage.label              "Webpagina:">
 <!ENTITY WorkWebPage.accesskey          "b">
-<!ENTITY Picture.tab                    "Picture">
-<!ENTITY locationEditField.label        "Image Location:">
+<!ENTITY Picture.tab                    "Afbeelding">
+<!ENTITY locationEditField.label        "Afbeeldingslocatie:">
 <!ENTITY locationEditField.accessKey    "L">
-<!ENTITY locationEditField.tooltip      "Type the image's filename or location">
-<!ENTITY chooseButton.label             "Choose File…">
+<!ENTITY locationEditField.tooltip      "Typ de bestandsnaam of locatie van de afbeelding">
+<!ENTITY chooseButton.label             "Bestand kiezen…">
 <!ENTITY chooseFile.accessKey           "C">
 
-<!ENTITY Social.tab                    "Social">
+<!ENTITY Social.tab                    "Sociaal">
 <!ENTITY twitter.label                 "Twitter">
-<!ENTITY facebook.label                "Facebook">
+<!ENTITY facebook.label                "Facebook:">
 <!ENTITY linkedin.label                "LinkedIn">
 
 <!ENTITY Other.tab                      "Overig">
 <!ENTITY Other.accesskey                "O">
 <!ENTITY Birthday.label                 "Verjaardag:">
-<!ENTITY Birthday.accesskey             "e">
-<!ENTITY birthdayFormat.label           "mm/dd/yyyy">
+<!ENTITY Birthday.accesskey             "V">
+<!ENTITY birthdayFormat.label           "dd/mm/yyyy">
 <!ENTITY Custom1.label                  "Overig 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Overig 2:">
@@ -132,7 +132,7 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Overig 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.box                      "Notes">
+<!ENTITY Notes.box                      "Aantekeningen">
 <!ENTITY Notes.accesskey                "A">
 
 <!ENTITY Chat.tab                       "Chat">

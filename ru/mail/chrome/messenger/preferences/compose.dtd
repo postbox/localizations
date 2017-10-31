@@ -2,131 +2,131 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label "Основные">
-<!ENTITY itemAutoComplete.label "Адресация">
-<!ENTITY itemTypeCheck.label                 "Typing">
-<!ENTITY itemSendFormat.label                "Send Format">
-<!ENTITY itemSignatures.label                "Signatures">
-<!ENTITY itemCannedResponses.label           "Responses">
+<!ENTITY itemGeneral.label                   "Основные">
+<!ENTITY itemAutoComplete.label              "Адресация">
+<!ENTITY itemTypeCheck.label                 "Ввод">
+<!ENTITY itemSendFormat.label                "Формат отправки">
+<!ENTITY itemSignatures.label                "Подписи">
+<!ENTITY itemCannedResponses.label           "Ответы">
 
 <!ENTITY dialogCompose.title "Составление">
 
-<!ENTITY forwardMsg.label "Пересылать сообщения:">
-<!ENTITY forwardMsg.accesskey "с">
-<!ENTITY inline.label "Внутри сообщения">
+<!ENTITY forwardMsg.label                     "Пересылать сообщения:">
+<!ENTITY forwardMsg.accesskey                 "F">
+<!ENTITY inline.label                         "Внутри сообщения">
 <!ENTITY inline.accesskey                     "I">
-<!ENTITY asAttachment.label "Как вложение">
+<!ENTITY asAttachment.label                   "Как вложение">
 <!ENTITY asAttachment.accesskey               "A">
 <!ENTITY addExtension.label "добавлять расширение к имени файла">
 <!ENTITY addExtension.accesskey "ф">
 
-<!ENTITY font.label "Шрифт:">
-<!ENTITY font.accesskey "р">
-<!ENTITY fontColor.label "Цвет текста:">
-<!ENTITY fontColor.accesskey "т">
-<!ENTITY bgColor.label "Цвет фона:">
-<!ENTITY bgColor.accesskey "в">
-<!ENTITY restoreHTMLDefaults.label "Восстановить значения по умолчанию">
-<!ENTITY restoreHTMLDefaults.accesskey "м">
+<!ENTITY font.label                           "Шрифт:">
+<!ENTITY font.accesskey                       "n">
+<!ENTITY fontColor.label                      "Цвет текста:">
+<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY bgColor.label                        "Цвет фона:">
+<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY restoreHTMLDefaults.label            "Восстановить значения по умолчанию">
+<!ENTITY restoreHTMLDefaults.accesskey        "R">
 <!ENTITY defaultToParagraph.label "Использовать формат Абзаца вместо Обычного текста по умолчанию">
 <!ENTITY defaultToParagraph.accesskey "п">
 
-<!ENTITY spellCheck.label "Проверять орфографию перед отправкой сообщения">
-<!ENTITY spellCheck.accesskey "г">
-<!ENTITY spellCheckInline.label "Проверять орфографию при наборе текста">
-<!ENTITY spellCheckInline1.accesskey "н">
-<!ENTITY languagePopup.label "Язык:">
-<!ENTITY languagePopup.accessKey "з">
-<!ENTITY downloadDictionaries.label "Загрузить дополнительные словари">
+<!ENTITY spellCheck.label                     "Проверять орфографию перед отправкой">
+<!ENTITY spellCheck.accesskey                 "C">
+<!ENTITY spellCheckInline.label               "Проверять орфографию при вводе текста">
+<!ENTITY spellCheckInline1.accesskey           "н">
+<!ENTITY languagePopup.label                  "Язык:">
+<!ENTITY languagePopup.accessKey              "з">
+<!ENTITY downloadDictionaries.label           "Загрузить дополнительные словари">
 
-<!ENTITY autoSave.label "Автоматически сохранять сообщение каждые">
-<!ENTITY autoSave.accesskey "х">
-<!ENTITY autoSaveEnd.label "минут">
+<!ENTITY autoSave.label                       "Автоматически сохранять сообщение каждые">
+<!ENTITY autoSave.accesskey                   "u">
+<!ENTITY autoSaveEnd.label                    "минут">
 
-<!ENTITY emailCollectionPicker.label "Автоматически добавлять адреса из исходящих писем в адресную книгу:">
-<!ENTITY emailCollectionPicker.accesskey "в">
-<!ENTITY autocompleteText.label "При вводе адреса искать подходящие почтовые адреса в:">
-<!ENTITY addressingEnable.label "Локальных адресных книгах">
-<!ENTITY addressingEnable.accesskey "к">
-<!ENTITY directories.label "Сервере каталогов:">
-<!ENTITY directories.accesskey "р">
+<!ENTITY emailCollectionPicker.label           "Добавлять адреса из исходящих сообщений в адресную книгу:">
+<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY autocompleteText.label                "При вводе адреса искать подходящие записи:">
+<!ENTITY addressingEnable.label                "В локальных адресных книгах">
+<!ENTITY addressingEnable.accesskey            "a">
+<!ENTITY directories.label                     "На сервере каталогов:">
+<!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label "Нет">
-<!ENTITY editDirectories.label "Изменить каталоги…">
-<!ENTITY editDirectories.accesskey "з">
+<!ENTITY editDirectories.label                 "Изменить каталоги…">
+<!ENTITY editDirectories.accesskey             "E">
 
-<!ENTITY contactsSidebarDisplay.label          "Contacts Sidebar displays:">
+<!ENTITY contactsSidebarDisplay.label          "Боковая панель:">
 <!ENTITY contactsSidebarDisplay.accesskey      "S">
-<!ENTITY recentContacts.label                  "Recent Contacts">
+<!ENTITY recentContacts.label                  "Недавние контакты">
 <!ENTITY recentContacts.accesskey              "n">
-<!ENTITY addressBooks.label                    "Address Books">
+<!ENTITY addressBooks.label                    "Адресная книга">
 <!ENTITY addressBooks.accesskey                "B">
 
 <!ENTITY sendOptionsDescription.label "Текстовый формат:">
-<!ENTITY sendOptions.label "Параметры отправки…">
-<!ENTITY sendOptions.accesskey "т">
+<!ENTITY sendOptions.label                     "Параметры отправки…">
+<!ENTITY sendOptions.accesskey                 "S">
 
-<!ENTITY attachmentReminder.label "Проверять на забытые вложения">
-<!ENTITY attachmentReminder.accesskey "в">
-<!ENTITY attachmentReminderOptions.label "Ключевые слова…">
-<!ENTITY attachmentReminderOptions.accesskey "л">
+<!ENTITY attachmentReminder.label              "Проверять отсутствующие вложения">
+<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminderOptions.label       "Ключевые слова…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">
 
-<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset2.label     "В ответах использовать кодировку по умолчанию">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+<!ENTITY composeLanguagesTitle.label            "Кодировка символов:">
 
-<!ENTITY imageOrientation.label "Image Orientation:">
-<!ENTITY accordingToEXIF.label "Rotate images according to EXIF data">
+<!ENTITY imageOrientation.label "Ориентация изображения:">
+<!ENTITY accordingToEXIF.label "Поворачивать изображения в соответствии с данными EXIF">
 <!ENTITY accordingToEXIF.accesskey "o">
 
 <!-- signatures -->
-<!ENTITY addSignatureButton.label       "New">
+<!ENTITY addSignatureButton.label       "Создать">
 <!ENTITY addSignatureButton.accesskey   "N">
-<!ENTITY editSignatureButton.label      "Edit">
+<!ENTITY editSignatureButton.label      "Изменить">
 <!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY removeSignatureButton.label    "Delete">
+<!ENTITY removeSignatureButton.label    "Удалить">
 <!ENTITY removeSignatureButton.accesskey "l">
-<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
+<!ENTITY addSignatureDelimiters.label "Добавлять разделитель сверху подписи">
 
-<!ENTITY pbItemAdvanced.label "Advanced">
-<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
-<!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
-<!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
-<!ENTITY pb.QuickReply.label "Default Quick Reply to:">
+<!ENTITY pbItemAdvanced.label "Дополнительные">
+<!ENTITY pb.quotingConversationsSortOrder.label "При создании конспекта цитировать:">
+<!ENTITY pb.quotingConversationsSortOrderOldest.label "Сначала старые сообщения">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Сначала новые сообщения">
+<!ENTITY pb.QuickReply.label "Быстрый ответ по умолчанию:">
 <!ENTITY pb.QuickReply.accesskey "Q">
-<!ENTITY pb.quickreply.replyall.label "Reply All">
+<!ENTITY pb.quickreply.replyall.label "Ответ всем">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
-<!ENTITY pb.quickreply.reply.label "Reply">
+<!ENTITY pb.quickreply.reply.label "Ответ">
 <!ENTITY pb.quickreply.reply.accesskey "y">
-<!ENTITY pbNumConversationsToQuote.label "Include at most">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing">
+<!ENTITY pbNumConversationsToQuote.label "Включать не более">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "сообщений при составлении конспекта для ответа">
 
-<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
+<!ENTITY pbQuoteOnQuickReply.label "Цитировать сообщение при быстром ответе">
 <!ENTITY pbQuoteOnQuickReply.accesskey "m">
 
-<!ENTITY pbDefaultFonSize.label                           "default">
+<!ENTITY pbDefaultFonSize.label                           "по умолчанию">
 
-<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
+<!ENTITY pbPlaySoundOnSend.label "Звуковой сигнал при отправке почты">
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
-<!ENTITY pbSendAndArchive.label "Enable send and archive">
-<!ENTITY pbEnableDropbox.label "Send links when attaching files in your cloud folders">
+<!ENTITY pbSendAndArchive.label "Разрешить отправку и архивирование">
+<!ENTITY pbEnableDropbox.label "Отправлять ссылки при вложении файлов из ваших облачных папок">
 
-<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
-<!ENTITY pbStopwatchGoal.label "Stopwatch">
-<!ENTITY pbWordsGoal.label "Word Count">
-<!ENTITY pbCharactersGoal.label "Character Count">
-<!ENTITY pbAt.label "at">
-<!ENTITY pbMinutes.label "minutes">
-<!ENTITY pbWords.label "words">
-<!ENTITY pbCharacters.label "characters">
+<!ENTITY pbSetCompositionGoals.label "Установить ограничения для создания сообщений:">
+<!ENTITY pbStopwatchGoal.label "Таймер">
+<!ENTITY pbWordsGoal.label "Количество слов">
+<!ENTITY pbCharactersGoal.label "Количество символов">
+<!ENTITY pbAt.label "=">
+<!ENTITY pbMinutes.label "минут">
+<!ENTITY pbWords.label "слов">
+<!ENTITY pbCharacters.label "символов">
 
-<!ENTITY sourceView.label "Code View:">
+<!ENTITY sourceView.label "Просмотр кода:">
 <!ENTITY sourceView.accesskey "C">
 
-<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">
+<!ENTITY pbURLAutoComplete.label "Разрешить автодополнение URL-адресов">
 
-<!ENTITY messageSizeWarning.label "Warn me if the message size is above">
-<!ENTITY megabytes.label "MB">
+<!ENTITY messageSizeWarning.label "Предупреждать, если размер сообщения превышает">
+<!ENTITY megabytes.label "МБ">
 
-<!ENTITY intlKeysPanel.label "International Characters panel">
-<!ENTITY emojiShortcuts.label "Emoji shortcuts">
+<!ENTITY intlKeysPanel.label "Панель ввода международных символов">
+<!ENTITY emojiShortcuts.label "Emoji Ярлыки">

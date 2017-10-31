@@ -20,7 +20,7 @@
 <!ENTITY findReplaceCmd.label "Найти и заменить…">
 <!ENTITY enableInlineSpellChecker.label "Проверка орфографии при наборе текста">
 <!ENTITY enableInlineSpellChecker.accesskey "н">
-<!ENTITY checkSpellingCmd2.label "Проверка орфографии…">
+<!ENTITY checkSpellingCmd2.label "Проверка орфографии">
 <!ENTITY checkSpellingCmd2.accesskey "в">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -50,7 +50,7 @@
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Создать ссылку…">
 <!ENTITY createLinkCmd.accesskey "с">
-<!ENTITY editLinkCmd.label "Редактировать объект в новом окне Компоновщика">
+<!ENTITY editLinkCmd.label "Редактировать ссылку в новом окне Компоновщика">
 <!ENTITY editLinkCmd.accesskey "д">
 
 <!-- Font Face SubMenu -->
@@ -71,7 +71,7 @@
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Выбор размера шрифта">
-<!ENTITY resetToDefaultFontSize.label "Reset to default">
+<!ENTITY resetToDefaultFontSize.label "Восстановить значения по умолчанию">
 <!ENTITY decreaseFontSize.label "Уменьшить">
 <!ENTITY decreaseFontSize.accesskey "м">
 <!ENTITY decrementFontSize.key "&lt;">
@@ -85,12 +85,12 @@
 <!ENTITY fontSizeMenu.accesskey "м">
 <!ENTITY size-tinyCmd.label "Крошечный">
 <!ENTITY size-tinyCmd.accesskey "ш">
-<!ENTITY size-smallCmd.label "Маленький">
-<!ENTITY size-smallCmd.accesskey "к">
-<!ENTITY size-mediumCmd.label "Средний">
-<!ENTITY size-mediumCmd.accesskey "е">
-<!ENTITY size-largeCmd.label "Большой">
-<!ENTITY size-largeCmd.accesskey "о">
+<!ENTITY size-smallCmd.label "маленький">
+<!ENTITY size-smallCmd.accesskey "а">
+<!ENTITY size-mediumCmd.label "средний">
+<!ENTITY size-mediumCmd.accesskey "с">
+<!ENTITY size-largeCmd.label "большой">
+<!ENTITY size-largeCmd.accesskey "б">
 <!ENTITY size-extraLargeCmd.label "Крупный">
 <!ENTITY size-extraLargeCmd.accesskey "п">
 <!ENTITY size-hugeCmd.label "Огромный">
@@ -105,16 +105,16 @@
 <!ENTITY styleItalicCmd.label "Курсив">
 <!ENTITY styleItalicCmd.accesskey "у">
 <!ENTITY styleItalicCmd.key "I">
-<!ENTITY styleUnderlineCmd.label "Подчёркивание">
+<!ENTITY styleUnderlineCmd.label "Подчеркнутый">
 <!ENTITY styleUnderlineCmd.accesskey "ч">
 <!ENTITY styleUnderlineCmd.key "U">
-<!ENTITY styleStrikeThruCmd.label "Зачёркивание">
+<!ENTITY styleStrikeThruCmd.label "Зачеркнутый">
 <!ENTITY styleStrikeThruCmd.accesskey "а">
-<!ENTITY styleSuperscriptCmd.label "Верхний индекс">
+<!ENTITY styleSuperscriptCmd.label "Надстрочный">
 <!ENTITY styleSuperscriptCmd.accesskey "х">
-<!ENTITY styleSubscriptCmd.label "Нижний индекс">
+<!ENTITY styleSubscriptCmd.label "Подстрочный">
 <!ENTITY styleSubscriptCmd.accesskey "ж">
-<!ENTITY styleNonbreakingCmd.label "Неразрывно">
+<!ENTITY styleNonbreakingCmd.label "Неразрывный">
 <!ENTITY styleNonbreakingCmd.accesskey "е">
 <!ENTITY styleEm.label "Выделение">
 <!ENTITY styleEm.accesskey "д">
@@ -130,7 +130,7 @@
 <!ENTITY styleCode.accesskey "д">
 <!ENTITY styleSamp.label "Пример вывода">
 <!ENTITY styleSamp.accesskey "ы">
-<!ENTITY styleVar.label "Переменный">
+<!ENTITY styleVar.label "Переменная">
 <!ENTITY styleVar.accesskey "м">
 
 <!ENTITY formatFontColor.label "Цвет текста…">
@@ -140,7 +140,7 @@
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveNamedAnchors.label "Удалить якоря с именами">
+<!ENTITY formatRemoveNamedAnchors.label "Удалить якори с именами">
 <!ENTITY formatRemoveNamedAnchors.accesskey "д">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
@@ -168,7 +168,7 @@
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "Список">
 <!ENTITY formatlistMenu.accesskey "п">
-<!ENTITY noneCmd.label "Ничего">
+<!ENTITY noneCmd.label "Нет">
 <!ENTITY noneCmd.accesskey "и">
 <!ENTITY listBulletCmd.label "Маркированный">
 <!ENTITY listBulletCmd.accesskey "а">
@@ -225,10 +225,10 @@
 <!ENTITY tableMenu.accesskey "а">
 
 <!-- Select Submenu -->
-<!ENTITY tableSelectMenu.label "Выделить">
+<!ENTITY tableSelectMenu.label "Выбрать">
 <!ENTITY tableSelectMenu.accesskey "ы">
 
-<!ENTITY tableSelectMenu2.label "Выделить таблицу">
+<!ENTITY tableSelectMenu2.label "Выбрать таблицу">
 <!ENTITY tableSelectMenu2.accesskey "б">
 <!ENTITY tableInsertMenu2.label "Вставить таблицу">
 <!ENTITY tableInsertMenu2.accesskey "л">
@@ -276,9 +276,9 @@
 -->
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
-<!ENTITY tableSplitCell.label "Разбить ячейку">
+<!ENTITY tableSplitCell.label "Разделить ячейку">
 <!ENTITY tableSplitCell.accesskey "б">
-<!ENTITY convertToTable.label "Создать таблицу из выделения">
+<!ENTITY convertToTable.label "Создать таблицу из выбранного">
 <!ENTITY convertToTable.accesskey "д">
 <!ENTITY tableProperties.label "Свойства таблицы…">
 <!ENTITY tableProperties.accesskey "в">
@@ -290,25 +290,25 @@
 <!ENTITY copyToolbarCmd.tooltip "Копировать">
 <!ENTITY pasteToolbarCmd.tooltip "Вставить">
 <!ENTITY printToolbarCmd.label "Печать">
-<!ENTITY printToolbarCmd.tooltip "Распечатать эту страницу">
+<!ENTITY printToolbarCmd.tooltip "Напечатать эту страницу">
 <!ENTITY findToolbarCmd.label "Найти">
 <!ENTITY findToolbarCmd.tooltip "Найти текст на странице">
 <!ENTITY spellToolbarCmd.label "Орфография">
-<!ENTITY spellToolbarCmd.tooltip "Проверить орфографию выделенного отрывка или всей страницы">
+<!ENTITY spellToolbarCmd.tooltip "Проверить орфографию выбранного текста или всей страницы">
 <!ENTITY imageToolbarCmd.label "Изображение">
-<!ENTITY imageToolbarCmd.tooltip "Вставить новое изображение или изменить свойства выделенного">
+<!ENTITY imageToolbarCmd.tooltip "Вставить новое изображение или изменить свойства выбранного">
 <!ENTITY hruleToolbarCmd.label "Разделитель">
-<!ENTITY hruleToolbarCmd.tooltip "Вставить новый горизонтальный разделитель или изменить свойства выделенного">
+<!ENTITY hruleToolbarCmd.tooltip "Вставить новый горизонтальный разделитель или изменить свойства выбранного">
 <!ENTITY tableToolbarCmd.label "Таблица">
-<!ENTITY tableToolbarCmd.tooltip "Вставить новую таблицу или изменить свойства выделенной">
+<!ENTITY tableToolbarCmd.tooltip "Вставить новую таблицу или изменить свойства выбранной">
 <!ENTITY linkToolbarCmd.label "Ссылка">
-<!ENTITY linkToolbarCmd.tooltip "Вставить новую ссылку или изменить свойства выделенной">
+<!ENTITY linkToolbarCmd.tooltip "Вставить новую ссылку или изменить свойства выбранной">
 <!ENTITY anchorToolbarCmd.label "Якорь">
-<!ENTITY anchorToolbarCmd.tooltip "Вставить новый якорь или изменить свойства выделенного">
+<!ENTITY anchorToolbarCmd.tooltip "Вставить новый якорь или изменить свойства выбранного">
 <!ENTITY TextColorButton.tooltip "Выбор цвета для текста">
 <!ENTITY BackgroundColorButton.tooltip "Выбор цвета для фона">
 <!ENTITY throbber.tooltip "Перейти на домашнюю страницу &vendorShortName;">
-<!ENTITY HighlightColorButton.tooltip "Выберите цвет подсветки текста">
+<!ENTITY HighlightColorButton.tooltip "Выберите цвет выделения текста">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Указать размер шрифта">
@@ -316,11 +316,11 @@
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Увеличить размер шрифта">
 <!ENTITY boldToolbarCmd.tooltip "Полужирный">
 <!ENTITY italicToolbarCmd.tooltip "Курсив">
-<!ENTITY underlineToolbarCmd.tooltip "Подчёркнутый">
+<!ENTITY underlineToolbarCmd.tooltip "Подчеркнутый">
 <!ENTITY bulletListToolbarCmd.tooltip "Добавить или удалить маркированный список">
 <!ENTITY numberListToolbarCmd.tooltip "Добавить или удалить нумерованный список">
-<!ENTITY outdentToolbarCmd.tooltip "Убрать отступ (сдвиг влево)">
-<!ENTITY indentToolbarCmd.tooltip "Сделать отступ (сдвиг вправо)">
+<!ENTITY outdentToolbarCmd.tooltip "Выступ текста (переместить влево)">
+<!ENTITY indentToolbarCmd.tooltip "Отступ текста (переместить вправо)">
 <!ENTITY AlignPopupButton.tooltip "Выбор выравнивания текста">
 <!ENTITY InsertPopupButton.tooltip "Вставка ссылки, якоря, изображения, горизонтального разделителя или таблицы">
 <!ENTITY alignLeftButton.tooltip "Выравнивание текста по левому краю">
@@ -341,7 +341,7 @@
 <!ENTITY insertTOC.accesskey "В">
 <!ENTITY updateTOC.label "Обновить">
 <!ENTITY updateTOC.accesskey "О">
-<!ENTITY removeTOC.label "Убрать">
+<!ENTITY removeTOC.label "Удалить">
 <!ENTITY removeTOC.accesskey "У">
-<!ENTITY tocMenu.label "Оглавление…">
+<!ENTITY tocMenu.label "Содержание…">
 <!ENTITY tocMenu.accesskey "г">

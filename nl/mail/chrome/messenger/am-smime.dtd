@@ -4,12 +4,12 @@
 
 <!ENTITY securityTitle.label "Beveiliging">
 <!ENTITY securityTab.label "Beveiliging">
-<!ENTITY securityHeading.label "Om ondertekende of versleutelde berichten te versturen, dient u zowel een digitaal ondertekeningscertificaat als een versleutelingscertificaat te specificeren.">
+<!ENTITY securityHeading.label "Om ondertekende of versleutelde berichten te versturen dient u een digitale ondertekening en een versleutelingscertificaat te specificeren.">
 <!ENTITY encryptionGroupTitle.label "Versleuteling">
 <!ENTITY encryptionChoiceLabel.label "Standaard versleutelingsinstelling bij verzenden van berichten:">
 <!ENTITY neverEncrypt.label "Nooit (geen versleuteling gebruiken)">
 <!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Vereist (kan bericht niet verzenden, tenzij alle ontvangers een certificaat hebben)">
+<!ENTITY alwaysEncryptMessage.label "Vereist (kan bericht niet verzenden, tenzij alle geadresseerden een certificaat hebben)">
 <!ENTITY alwaysEncryptMessage.accesskey "V">
 <!ENTITY encryptionCert.message "Dit certificaat gebruiken voor het versleutelen en ontcijferen van naar u verzonden berichten:">
 <!ENTITY digitalSign.certificate.button "Selecteren…">
@@ -25,7 +25,7 @@
 <!ENTITY signMessage.accesskey "a">
 <!ENTITY signingCert.message "Dit certificaat gebruiken om berichten die u verzendt digitaal te ondertekenen:">
 
-<!ENTITY certificates.label "Certificaten">
+<!ENTITY certificates.label     "Certificaten">
 <!ENTITY manageCerts2.label "Certificaten beheren">
 <!ENTITY manageCerts2.accesskey "C">
 <!ENTITY manageDevices.label "Beveiligingsapparaten">

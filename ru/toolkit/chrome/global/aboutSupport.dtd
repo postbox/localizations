@@ -6,7 +6,8 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "    
-   Эта страница содержит техническую информацию, которая может быть полезна, когда вы пытаетесь решить проблему. Если вы ищете ответы на типичные вопросы о &brandShortName;, обратитесь на наш <a id='supportLink'>веб-сайт поддержки</a>. ">
+   Эта страница содержит техническую информацию, которая может быть полезна, когда вы пытаетесь решить проблему. Если вы ищете ответы на типичные вопросы о &brandShortName;, обратитесь на наш <a id='supportLink'>support website</a>.
+">
 
 <!ENTITY aboutSupport.crashes.title "Сообщения о падениях">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -42,7 +43,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Журнал обновлений">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Показать журнал обновлений">
 
-<!ENTITY aboutSupport.appBasicsProfileDir "Каталог профиля">
+<!ENTITY aboutSupport.appBasicsProfileDir "Папка профиля">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
@@ -79,7 +80,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Настройки user.js">
-<!ENTITY aboutSupport.userJSDescription "В папке вашего профиля находится <a id='prefs-user-js-link'>файл user.js</a>, в котором содержатся настройки, созданные пользователем, а не &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "В папке вашего профиля находится <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Важные заблокированные настройки">
 <!ENTITY aboutSupport.lockedPrefsName "Имя">

@@ -10,19 +10,19 @@
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDescription.label "Bij het beheren van uw identiteiten kunt u een server van deze lijst gebruiken door deze als de uitgaande (SMTP-)server te selecteren, of u kunt de standaardserver van deze lijst gebruiken door ‘Standaardserver gebruiken’ te selecteren.">
 
-<!ENTITY smtpListAdd.label "Toevoegen…">
-<!ENTITY smtpListAdd.accesskey "T">
+<!ENTITY smtpListAdd.label  "Toevoegen…">
+<!ENTITY smtpListAdd.accesskey  "T">
 <!ENTITY smtpListEdit.label "Bewerken…">
 <!ENTITY smtpListEdit.accesskey "B">
 <!ENTITY smtpListDelete.label "Verwijderen">
 <!ENTITY smtpListDelete.accesskey "V">
-<!ENTITY smtpListSetDefault.label "Als standaard instellen">
-<!ENTITY smtpListSetDefault.accesskey "d">
+<!ENTITY smtpListSetDefault.label "Standaard">
+<!ENTITY smtpListSetDefault.accesskey "S">
 
 <!ENTITY serverDetails.label "Details van geselecteerde server:">
-<!ENTITY serverDescription.label "Beschrijving: ">
+<!ENTITY serverDescription.label "Omschrijving: ">
 <!ENTITY serverName.label "Servernaam: ">
 <!ENTITY serverPort.label "Poort: ">
-<!ENTITY userName.label "Gebruikersnaam: ">
-<!ENTITY connectionSecurity.label "Verbindingsbeveiliging: ">
-<!ENTITY authMethod.label   "Authenticatiemethode: ">
+<!ENTITY userName.label   "Gebruikersnaam: ">
+<!ENTITY connectionSecurity.label "Verbindings Beveiliging: ">
+<!ENTITY authMethod.label   "Authenticatie: ">

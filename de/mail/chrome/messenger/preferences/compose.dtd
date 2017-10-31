@@ -4,17 +4,17 @@
 
 <!ENTITY itemGeneral.label                   "Allgemein">
 <!ENTITY itemAutoComplete.label              "Adressieren">
-<!ENTITY itemTypeCheck.label                 "Typing">
-<!ENTITY itemSendFormat.label                "Send Format">
-<!ENTITY itemSignatures.label                "Signatures">
-<!ENTITY itemCannedResponses.label           "Responses">
+<!ENTITY itemTypeCheck.label                 "Eingabe">
+<!ENTITY itemSendFormat.label                "Sendeformat">
+<!ENTITY itemSignatures.label                "Signaturen">
+<!ENTITY itemCannedResponses.label           "Antworten">
 
 <!ENTITY dialogCompose.title                 "Verfassen">
 
 <!ENTITY forwardMsg.label                     "Nachrichten weiterleiten:">
 <!ENTITY forwardMsg.accesskey                 "N">
 <!ENTITY inline.label                         "Eingebunden">
-<!ENTITY inline.accesskey                     "I">
+<!ENTITY inline.accesskey                     "i">
 <!ENTITY asAttachment.label                   "Als Anhang">
 <!ENTITY asAttachment.accesskey               "A">
 <!ENTITY addExtension.label                   "Dateinamenserweiterung hinzufügen">
@@ -34,7 +34,7 @@
 <!ENTITY spellCheck.label                     "Rechtschreibprüfung vor dem Senden">
 <!ENTITY spellCheck.accesskey                 "R">
 <!ENTITY spellCheckInline.label               "Sofort-Rechtschreibprüfung aktivieren">
-<!ENTITY spellCheckInline1.accesskey          "S">
+<!ENTITY spellCheckInline1.accesskey           "S">
 <!ENTITY languagePopup.label                  "Sprache:">
 <!ENTITY languagePopup.accessKey              "p">
 <!ENTITY downloadDictionaries.label           "Weitere Wörterbücher herunterladen">
@@ -46,87 +46,87 @@
 <!ENTITY emailCollectionPicker.label           "Adressen beim Senden automatisch hinzufügen zu:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY autocompleteText.label                "Beim Adressieren von Nachrichten nach passenden Einträgen suchen in:">
-<!ENTITY addressingEnable.label                "Lokale Adressbücher">
+<!ENTITY addressingEnable.label                "Lokalen Adressbüchern">
 <!ENTITY addressingEnable.accesskey            "L">
-<!ENTITY directories.label                     "LDAP-Verzeichnisserver:">
+<!ENTITY directories.label                     "LDAP-Verzeichnisservern:">
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "Keine">
 <!ENTITY editDirectories.label                 "Bearbeiten…">
 <!ENTITY editDirectories.accesskey             "B">
 
-<!ENTITY contactsSidebarDisplay.label          "Contacts Sidebar displays:">
+<!ENTITY contactsSidebarDisplay.label          "Sidebar angezeigt:">
 <!ENTITY contactsSidebarDisplay.accesskey      "S">
-<!ENTITY recentContacts.label                  "Recent Contacts">
+<!ENTITY recentContacts.label                  "Letzte Kontakte">
 <!ENTITY recentContacts.accesskey              "n">
-<!ENTITY addressBooks.label                    "Address Books">
+<!ENTITY addressBooks.label                    "Adressbuch">
 <!ENTITY addressBooks.accesskey                "B">
 
 <!ENTITY sendOptionsDescription.label          "Verhalten beim Senden von HTML-Nachrichten:">
-<!ENTITY sendOptions.label                     "Sendeoptionen…">
-<!ENTITY sendOptions.accesskey                 "o">
+<!ENTITY sendOptions.label                     "Sende-Optionen…">
+<!ENTITY sendOptions.accesskey                 "O">
 
 <!ENTITY attachmentReminder.label              "Auf fehlende Anhänge prüfen">
-<!ENTITY attachmentReminder.accesskey          "u">
+<!ENTITY attachmentReminder.accesskey          "A">
 <!ENTITY attachmentReminderOptions.label       "Schlüsselwörter…">
 <!ENTITY attachmentReminderOptions.accesskey   "S">
 
-<!ENTITY replyInDefaultCharset2.label     "Use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset2.label     "Den Standard-Zeichensatz für Antworten verwenden">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
-<!ENTITY composeLanguagesTitle.label            "Character Encoding:">
+<!ENTITY composeLanguagesTitle.label            "Zeichenkodierung:">
 
-<!ENTITY imageOrientation.label "Image Orientation:">
-<!ENTITY accordingToEXIF.label "Rotate images according to EXIF data">
+<!ENTITY imageOrientation.label "Bildausrichtung:">
+<!ENTITY accordingToEXIF.label "Bildausrichtung basierend auf EXIF Daten drehen">
 <!ENTITY accordingToEXIF.accesskey "o">
 
 <!-- signatures -->
-<!ENTITY addSignatureButton.label       "New">
+<!ENTITY addSignatureButton.label       "Neu">
 <!ENTITY addSignatureButton.accesskey   "N">
-<!ENTITY editSignatureButton.label      "Edit">
-<!ENTITY editSignatureButton.accesskey   "E">
-<!ENTITY removeSignatureButton.label    "Delete">
-<!ENTITY removeSignatureButton.accesskey "l">
-<!ENTITY addSignatureDelimiters.label "Add delimiter above the signature">
+<!ENTITY editSignatureButton.label      "Bearbeiten">
+<!ENTITY editSignatureButton.accesskey   "e">
+<!ENTITY removeSignatureButton.label    "Löschen">
+<!ENTITY removeSignatureButton.accesskey "L">
+<!ENTITY addSignatureDelimiters.label "Trennzeichen über Signatur einfügen">
 
-<!ENTITY pbItemAdvanced.label "Advanced">
-<!ENTITY pb.quotingConversationsSortOrder.label "When summarizing, quote:">
-<!ENTITY pb.quotingConversationsSortOrderOldest.label "Oldest messages first">
-<!ENTITY pb.quotingConversationsSortOrderNewest.label "Newest messages first">
-<!ENTITY pb.QuickReply.label "Default Quick Reply to:">
-<!ENTITY pb.QuickReply.accesskey "Q">
-<!ENTITY pb.quickreply.replyall.label "Reply All">
+<!ENTITY pbItemAdvanced.label "Erweitert">
+<!ENTITY pb.quotingConversationsSortOrder.label "Beim Zusammenfassen zitieren:">
+<!ENTITY pb.quotingConversationsSortOrderOldest.label "Älteste Nachrichten zuerst">
+<!ENTITY pb.quotingConversationsSortOrderNewest.label "Neueste Nachrichten zuerst">
+<!ENTITY pb.QuickReply.label "Standardmäßige Schnellantwort an:">
+<!ENTITY pb.QuickReply.accesskey "s">
+<!ENTITY pb.quickreply.replyall.label "Allen antworten">
 <!ENTITY pb.quickreply.replyall.accesskey "e">
-<!ENTITY pb.quickreply.reply.label "Reply">
-<!ENTITY pb.quickreply.reply.accesskey "y">
-<!ENTITY pbNumConversationsToQuote.label "Include at most">
-<!ENTITY pbNumConversationsToQuoteSuffix.label "messages when summarizing">
+<!ENTITY pb.quickreply.reply.label "Antworten">
+<!ENTITY pb.quickreply.reply.accesskey "A">
+<!ENTITY pbNumConversationsToQuote.label "In den meisten">
+<!ENTITY pbNumConversationsToQuoteSuffix.label "Nachrichten bei Zusammenfassungen für eine Antwort einfügen">
 
-<!ENTITY pbQuoteOnQuickReply.label "Quote the message in Quick Reply">
-<!ENTITY pbQuoteOnQuickReply.accesskey "m">
+<!ENTITY pbQuoteOnQuickReply.label "Nachricht in Schnellantwort zitieren">
+<!ENTITY pbQuoteOnQuickReply.accesskey "N">
 
-<!ENTITY pbDefaultFonSize.label                           "default">
+<!ENTITY pbDefaultFonSize.label                           "Standard">
 
-<!ENTITY pbPlaySoundOnSend.label "Play sound on sending mail">
-<!ENTITY pbPlaySoundOnSend.accesskey "P">
+<!ENTITY pbPlaySoundOnSend.label "Beim Nachrichtenversand Ton abspielen">
+<!ENTITY pbPlaySoundOnSend.accesskey "p">
 
-<!ENTITY pbSendAndArchive.label "Enable send and archive">
-<!ENTITY pbEnableDropbox.label "Send links when attaching files in your cloud folders">
+<!ENTITY pbSendAndArchive.label "Senden und Archivieren aktivieren">
+<!ENTITY pbEnableDropbox.label "Links senden beim Hinzufügen von Dateien zu Ihrem Dropbox-Ordner">
 
-<!ENTITY pbSetCompositionGoals.label "Set composition goals using">
-<!ENTITY pbStopwatchGoal.label "Stopwatch">
-<!ENTITY pbWordsGoal.label "Word Count">
-<!ENTITY pbCharactersGoal.label "Character Count">
-<!ENTITY pbAt.label "at">
-<!ENTITY pbMinutes.label "minutes">
-<!ENTITY pbWords.label "words">
-<!ENTITY pbCharacters.label "characters">
+<!ENTITY pbSetCompositionGoals.label "Schreibziele festlegen mit">
+<!ENTITY pbStopwatchGoal.label "Stoppuhr">
+<!ENTITY pbWordsGoal.label "Wörteranzahl">
+<!ENTITY pbCharactersGoal.label "Zeichenzählung">
+<!ENTITY pbAt.label "ab">
+<!ENTITY pbMinutes.label "Minuten">
+<!ENTITY pbWords.label "Wörter">
+<!ENTITY pbCharacters.label "Zeichen">
 
-<!ENTITY sourceView.label "Code View:">
+<!ENTITY sourceView.label "Codeansicht:">
 <!ENTITY sourceView.accesskey "C">
 
-<!ENTITY pbURLAutoComplete.label "Enable URL Autocomplete">
+<!ENTITY pbURLAutoComplete.label "Automatische URL-Vervollständigung aktivieren">
 
-<!ENTITY messageSizeWarning.label "Warn me if the message size is above">
+<!ENTITY messageSizeWarning.label "Mich warnen, wenn die Nachricht größer ist als">
 <!ENTITY megabytes.label "MB">
 
-<!ENTITY intlKeysPanel.label "International Characters panel">
-<!ENTITY emojiShortcuts.label "Emoji shortcuts">
+<!ENTITY intlKeysPanel.label "Internationale Zeichen Eingabefeld">
+<!ENTITY emojiShortcuts.label "Emoji Abkürzungen">

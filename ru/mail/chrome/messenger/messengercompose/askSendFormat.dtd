@@ -5,15 +5,15 @@
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
 <!ENTITY windowTitle.label "Формат исходящего сообщения">
 
-<!ENTITY recipient.label "Некоторые из адресатов не могут получать письма в формате HTML.">
+<!ENTITY recipient.label "Некоторые из адресатов не могут получать сообщения в формате HTML.">
 
-<!ENTITY question.label "Преобразовать сообщение в простой текст или отправить в HTML?">
+<!ENTITY question.label "Преобразовать сообщение в обычный текст или отправить в виде HTML?">
 
-<!ENTITY plainTextAndHtml.label "Отправить в виде простого текста и HTML">
+<!ENTITY plainTextAndHtml.label "Отправить в виде обычного текста и HTML">
 <!ENTITY plainTextAndHtml.accesskey "и">
-<!ENTITY plainTextOnly.label "Отправить только в виде простого текста">
+<!ENTITY plainTextOnly.label "Отправить только в виде обычного текста">
 <!ENTITY plainTextOnly.accesskey "е">
-<!ENTITY htmlOnly.label "Отправить только в HTML">
+<!ENTITY htmlOnly.label "Отправить только в виде HTML">
 <!ENTITY htmlOnly.accesskey "т">
 
 <!ENTITY send.label "Отправить">

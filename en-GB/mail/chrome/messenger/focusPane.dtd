@@ -23,8 +23,8 @@
 <!ENTITY focusPaneAnyDate.label         "Any Date">
 <!ENTITY focusPaneToday.label           "Today">
 <!ENTITY focusPaneYesterday.label       "Yesterday">
-<!ENTITY focusPaneThisWeek.label        "Past Week">
-<!ENTITY focusPaneThisMonth.label       "Past Month">
+<!ENTITY focusPaneThisWeek.label        "This Week">
+<!ENTITY focusPaneThisMonth.label       "This Month">
 <!ENTITY focusPaneFilterByContact.label    "Favorite Contacts">
 
 <!-- focus pane topics context menus -->
@@ -46,7 +46,7 @@
 <!-- focus pane favorite contacts context menus -->
 <!ENTITY pbFavoriteContactsContextMenu-delete.label     "Remove From Favorites">
 <!ENTITY pbFavoriteContactsContextMenu-delete.accesskey "R">
-<!ENTITY pbFavoriteContactsContextMenu-email.label       "Compose">
+<!ENTITY pbFavoriteContactsContextMenu-email.label       "Write">
 <!ENTITY pbFavoriteContactsContextMenu-email.accesskey  "C">
 <!ENTITY pbFavoriteContactsContextMenu-edit.label        "Edit Contact...">
 <!ENTITY pbFavoriteContactsContextMenu-edit.accesskey   "d">

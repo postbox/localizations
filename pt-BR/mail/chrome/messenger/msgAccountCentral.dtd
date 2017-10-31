@@ -6,8 +6,8 @@
 <!ENTITY readMsgsLink.label           "Ler mensagens">
 <!ENTITY composeMsgLink.label         "Criar uma nova mensagem">
 
-<!ENTITY newsSectionHdr.label         "Newsgroups">
-<!ENTITY subscribeNewsLink.label      "Gerenciar inscrições de newsgroups">
+<!ENTITY newsSectionHdr.label         "Grupos de Notícias">
+<!ENTITY subscribeNewsLink.label      "Gerenciar inscrições de grupos de notícias">
 
 <!ENTITY feedsSectionHdr.label        "RSS">
 <!ENTITY subscribeFeeds.label         "Gerenciar inscrições">
@@ -17,7 +17,7 @@
 
 <!ENTITY accountsSectionHdr.label     "Contas">
 <!ENTITY subscribeImapFolders.label   "Gerenciar inscrições de pastas">
-<!ENTITY settingsLink.label           "Ver configurações desta conta">
+<!ENTITY settingsLink.label           "Configurar esta conta">
 <!ENTITY newAcctLink.label            "Criar uma nova conta">
 <!ENTITY newAcct.label                "Criar uma nova conta:">
 
@@ -25,4 +25,4 @@
 <!ENTITY searchMsgsLink.label         "Pesquisar">
 <!ENTITY filtersLink.label            "Criar filtros para mensagens">
 <!ENTITY junkSettings.label           "Configurações de spam">
-<!ENTITY offlineLink.label            "Configurar modo off-line">
+<!ENTITY offlineLink.label            "Configurar modo offline">

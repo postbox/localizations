@@ -5,14 +5,14 @@
 <!ENTITY autoconfigWizard.title          "Mail Account Setup">
 <!ENTITY name.label                      "Your name:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "First Last">
+<!ENTITY name.placeholder                  "First and Last Name">
 <!ENTITY name.text                       "Your name, as shown to others">
 <!ENTITY email.label                     "Email address:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "email@example.com">
+<!ENTITY email.placeholder                 "email@example.com">
 <!ENTITY password.label                  "Password:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.placeholder            "Password">
+<!ENTITY password.placeholder              "Password">
 <!ENTITY password.text                   "Optional, will only be used to validate the user name">
 <!ENTITY rememberPassword.label          "Remember password">
 <!ENTITY rememberPassword.accesskey      "m">
@@ -69,7 +69,7 @@
      taking into account the settings the user has changed. -->
 <!ENTITY retest.label                    "Re-test Configuration">
 <!ENTITY retest.accesskey                "R">
-<!ENTITY edit.label                      "Edit Settings">
+<!ENTITY edit.label                      "Edit">
 <!ENTITY edit.accesskey                  "E">
 
 <!ENTITY rememberPassword.label          "Remember password">
@@ -105,18 +105,18 @@
 <!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
 <!ENTITY secureServer.description        "Congratulations! This is a secure server.">
 
-<!ENTITY pb.identity.title "Add Account">
-<!ENTITY pb.name.label    "Your Name:">
-<!ENTITY pb.email.label   "Email Address:">
-<!ENTITY pb.password.label "Password:">
+<!ENTITY pb.identity.title "Identity">
+<!ENTITY pb.name.label    "Your Name">
+<!ENTITY pb.email.label   "Email Address">
+<!ENTITY pb.password.label "Password">
 <!ENTITY pb.displayname.label "Description:">
 <!ENTITY pb.serverinfo.title "Server Information">
-<!ENTITY pb.username.label   "User Name:">
+<!ENTITY pb.username.label   "User Name">
 <!ENTITY pb.incoming.label "Incoming Server">
-<!ENTITY pb.servername.label "Server Name:">
-<!ENTITY pb.servertype.label "Type:">
-<!ENTITY pb.serverport.label "Port:">
-<!ENTITY pb.serversecurity.label "Security:">
+<!ENTITY pb.servername.label "Server Name">
+<!ENTITY pb.servertype.label "Type">
+<!ENTITY pb.serverport.label "Port">
+<!ENTITY pb.serversecurity.label "Security">
 <!ENTITY pb.outgoing.label "Outgoing Server">
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      creation wizard, which specifies the width and height in em units of the dialog.
@@ -137,7 +137,7 @@
      this window for en-US. -->
 <!ENTITY pb.macEmailWizard.size "width: 63ch;">
 
-<!ENTITY pbProfileInformation.label "Account Information">
+<!ENTITY pbProfileInformation.label "Profile Information">
 <!ENTITY pbManualSetup.label "Manual Setup">
 
 <!-- warnings on email address -->

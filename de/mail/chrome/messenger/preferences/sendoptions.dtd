@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title                 "Sendeoptionen">
+<!ENTITY dialog.title                 "Sende-Optionen">
 <!ENTITY sendMail.title               "Textformat">
 <!ENTITY autoDowngrade.label          "Nachrichten falls möglich als Reintext senden">
 <!ENTITY autoDowngrade.accesskey      "t">
@@ -24,13 +24,13 @@ Nutzen Sie das Adressbuch, um das bevorzugte Format für einzelne Empfänger anz
 <!ENTITY PlainTextTab.label           "Reintext-Domains">
 <!ENTITY PlainTextTab.accesskey       "R">
 <!ENTITY AddHtmlDomain.label          "Hinzufügen…">
-<!ENTITY AddHtmlDomain.accesskey      "H">
+<!ENTITY AddHtmlDomain.accesskey      "a">
 <!ENTITY AddPlainText.label           "Hinzufügen…">
-<!ENTITY AddPlainText.accesskey       "H">
+<!ENTITY AddPlainText.accesskey       "d">
 <!ENTITY DeleteHtmlDomain.label       "Löschen">
-<!ENTITY DeleteHtmlDomain.accesskey   "L">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
 <!ENTITY DeletePlainText.label        "Löschen">
-<!ENTITY DeletePlainText.accesskey    "L">
+<!ENTITY DeletePlainText.accesskey    "t">
 
 <!ENTITY add.htmltitle                "HTML-Domain hinzufügen">
 <!ENTITY add.htmldomain               "HTML-Domainname:">

@@ -12,8 +12,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Källkoden till: ">
 
-<!ENTITY fileMenu.label "Arkiv">
-<!ENTITY fileMenu.accesskey "A">
+<!ENTITY fileMenu.label           "Arkiv">
+<!ENTITY fileMenu.accesskey       "A">
 <!ENTITY savePageCmd.label "Spara sida som…">
 <!ENTITY savePageCmd.accesskey "m">
 <!ENTITY savePageCmd.commandkey "S">
@@ -53,7 +53,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Radbryt långa rader"> 
 <!ENTITY menu_wrapLongLines.accesskey "R">
-<!ENTITY menu_highlightSyntax.label "Syntaxmarkering">
+<!ENTITY menu_highlightSyntax.label "Syntaxbetoning">
 <!ENTITY menu_highlightSyntax.accesskey "S">
 <!ENTITY menu_textSize.label "Textstorlek">
 <!ENTITY menu_textSize.accesskey "T">
@@ -77,8 +77,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backCmd.accesskey "B">
 <!ENTITY forwardCmd.label "Framåt">
 <!ENTITY forwardCmd.accesskey "F">
-<!ENTITY goBackCmd.commandKey "ö">
-<!ENTITY goForwardCmd.commandKey "ä">
+<!ENTITY goBackCmd.commandKey "Ö">
+<!ENTITY goForwardCmd.commandKey "Ä">
 
 <!ENTITY copyLinkCmd.label "Kopiera länkadress">
 <!ENTITY copyLinkCmd.accesskey "K">

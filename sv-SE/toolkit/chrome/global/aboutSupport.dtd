@@ -5,7 +5,11 @@
 <!ENTITY aboutSupport.pageTitle "Felsökningsinformation">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "  Den här sidan innehåller teknisk information som kan vara till hjälp när du försöker lösa ett problem. Vill du se svaren på några av de vanligaste frågorna om &brandShortName;, kan du besöka vår <a id='supportLink'>supportwebbplats</a>.">
+<!ENTITY aboutSupport.pageSubtitle "
+  Den här sidan innehåller teknisk information som kan vara till hjälp när du
+  försöker lösa ett problem. Vill du se svaren på några av de vanligaste frågorna
+  om &brandShortName; kan du besöka vår <a id='supportLink'>support website</a>.
+">
 
 <!ENTITY aboutSupport.crashes.title "Kraschrapporter">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -78,7 +82,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js-inställningar">
-<!ENTITY aboutSupport.userJSDescription "Din profilmapp innehåller en <a id='prefs-user-js-link'>user.js-fil</a> som inkluderar inställningar som inte har skapats av &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "Din profilmapp innehåller en <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Viktiga låsta inställningar">
 <!ENTITY aboutSupport.lockedPrefsName "Namn">

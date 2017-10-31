@@ -31,9 +31,9 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importShortDesc.label    "Importa posta, impostazioni, rubrica e filtri da altri programmi">
 
 <!ENTITY importDescription1.label "Questo processo importerà in &brandShortName; messaggi di posta, voci di rubrica, preferenze e/o filtri da altri programmi di posta e rubriche comuni.">
-<!ENTITY importDescription2.label "Una volta importate, vi si potrà accedere da &brandShortName;.">
+<!ENTITY importDescription2.label "Una volta importati, potrai accedervi da &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Selezionare il programma dal quale eseguire l'importazione:">
+<!ENTITY selectDescription.label  "Seleziona il tipo di file che vorresti importare:">
 <!ENTITY selectDescriptionB.label "Selezionare un account esistente o crearne uno nuovo:">
 <!ENTITY selectDescription.accesskey "S">
 <!ENTITY acctName.label           "Nome:">
@@ -42,7 +42,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY back.label               "&lt; Indietro">
 <!ENTITY forward.label            "Avanti &gt;">
-<!ENTITY finish.label             "Finito">
+<!ENTITY finish.label             "Terminato">
 <!ENTITY cancel.label             "Annulla">
 
 <!ENTITY select.label             "o seleziona il tipo di materiale da importare:">
@@ -51,4 +51,4 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY processing.label         "Importazione in corso…">
 
 
-<!ENTITY pbSelect.label             "Select the type of material to import:">
+<!ENTITY pbSelect.label             "Seleziona il tipo di contenuti da importare:">

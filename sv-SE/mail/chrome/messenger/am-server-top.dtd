@@ -25,15 +25,15 @@
 <!ENTITY useIdleNotifications.label "Tillåt omedelbara servermeddelanden när nya meddelanden tas emot">
 <!ENTITY useIdleNotifications.accesskey "T">
 <!ENTITY connectionSecurity.label "Anslutningssäkerhet:">
-<!ENTITY connectionSecurity.accesskey "A">
+<!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Ingen">
-<!ENTITY connectionSecurityType-1.label "STARTTLS (om tillgängligt)">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, om tillgänglig">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Autentiseringsmetod:">
-<!ENTITY authMethod.accesskey "u">
+<!ENTITY authMethod.label "Autentisering:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Lämna kvar meddelanden på servern">
-<!ENTITY leaveOnServer.accesskey "å">
+<!ENTITY leaveOnServer.accesskey "L">
 <!ENTITY headersOnly.label "Hämta endast rubrikerna">
 <!ENTITY headersOnly.accesskey "r">
 <!ENTITY deleteByAgeFromServer.label "Som längst">
@@ -48,7 +48,7 @@
 <!ENTITY modelMoveToTrash.label "Flytta det till mappen:">
 <!ENTITY modelMoveToTrash.accesskey "F">
 <!ENTITY modelMarkDeleted.label "Märk det bara som borttaget">
-<!ENTITY modelMarkDeleted.accesskey "ä">
+<!ENTITY modelMarkDeleted.accesskey "M">
 <!ENTITY modelDeleteImmediately.label "Ta bort det omedelbart">
 <!ENTITY modelDeleteImmediately.accesskey "o">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
@@ -62,11 +62,11 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart1.label "Ask when downloading more than">
+<!ENTITY maxMessagesStart1.label "Fråga vid nedladdning av mer än">
 <!ENTITY maxMessagesStart1.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "meddelanden hämtas">
-<!ENTITY alwaysAuthenticate1.label "Always request authentication">
+<!ENTITY alwaysAuthenticate1.label "Efterfråga alltid autentisering">
 <!ENTITY alwaysAuthenticate1.accesskey "w">
 <!ENTITY abbreviate.label "Visa namn på diskussionsgrupper:">
 <!ENTITY abbreviateOn.label "i sin helhet (Exempelvis, ”netscape.public.mozilla.mail-news”)">
@@ -75,8 +75,8 @@
 <!ENTITY advancedButton.accesskey "c">
 <!ENTITY serverDefaultCharset2.label "Standardtextkodning:">
 
-<!ENTITY accountName.label "Account Name:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.label "Kontonamn:">
+<!ENTITY accountName.accesskey "n">
 
 <!ENTITY accountTitle.label "Kontoinställningar">
 <!ENTITY accountSettingsDesc.label "Detta är ett specialkonto. Det finns ingen identitet knuten till det.">

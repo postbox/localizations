@@ -6,18 +6,18 @@
 
 <!ENTITY MsgSynchronize.label "Загрузить и синхронизировать сообщения">
 <!ENTITY MsgSelect.label "Элементы для автономной работы">
-<!ENTITY MsgSyncDesc.label "Если вы уже выбрали папки почты или групп новостей для автономной работы, вы можете загрузить и/или синхронизировать их. В противном случае нажмите кнопку «Выбрать», чтобы выбрать папки почты и групп новостей для автономной работы.">
+<!ENTITY MsgSyncDesc.label "Если уже выбраны папки почты или групп новостей для автономной работы, можно загрузить и/или синхронизировать их. В противном случае нажмите кнопку «Выбрать», чтобы выбрать папки почты и групп новостей для автономной работы.">
 <!ENTITY MsgSyncDirections.label "Загрузить и/или синхронизировать следующее:">
 <!ENTITY syncTypeMail.label "Почтовые сообщения">
-<!ENTITY syncTypeMail.accesskey "П">
+<!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Сообщения групп новостей">
-<!ENTITY syncTypeNews.accesskey "С">
+<!ENTITY syncTypeNews.accesskey "N">
 <!ENTITY sendMessage.label "Отправить неотправленные сообщения">
-<!ENTITY sendMessage.accesskey "О">
+<!ENTITY sendMessage.accesskey "S">
 <!ENTITY workOffline.label "Перейти в автономный режим по завершении загрузки и/или синхронизации">
-<!ENTITY workOffline.accesskey "а">
+<!ENTITY workOffline.accesskey "W">
 <!ENTITY selectButton.label "Выбрать…">
-<!ENTITY selectButton.accesskey "В">
-<!ENTITY MsgSelectDesc.label "Выберите папки почты и групп новостей, которые вы хотели бы загрузить для автономной работы.">
+<!ENTITY selectButton.accesskey "e">
+<!ENTITY MsgSelectDesc.label "Выберите папки почты и групп новостей, которые необходимо загрузить для автономной работы.">
 <!ENTITY MsgSelectInd.label "Загрузить">
 <!ENTITY MsgSelectItems.label "Папки и группы новостей">

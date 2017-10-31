@@ -8,9 +8,9 @@
 <!ENTITY identityDialog.style "min-width: 80ch;">
 <!ENTITY identityListDesc.label "Establecer la configuración para esta identidad:">
 
-<!ENTITY settingsTab.label "Configuración">
+<!ENTITY settingsTab.label       "Configuración">
 <!ENTITY copiesFoldersTab.label "Copias y carpetas">
-<!ENTITY addressingTab.label "Redacción y direcciones">
+<!ENTITY addressingTab.label    "Redacción y direcciones">
 
 <!ENTITY publicData.label "Datos públicos">
 <!ENTITY privateData.label "Datos privados">

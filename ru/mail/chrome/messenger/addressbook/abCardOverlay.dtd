@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab "Контакт">
+<!ENTITY Contact.tab                     "Контакт">
 <!ENTITY Contact.accesskey "н">
-<!ENTITY Name.box "Имя">
+<!ENTITY Name.box                        "Имя">
 
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -15,124 +15,124 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id "FirstName">
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id "LastName">
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id "PhoneticLastName">
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label "Имя:">
-<!ENTITY NameField1.accesskey "м">
-<!ENTITY NameField2.label "Фамилия:">
-<!ENTITY NameField2.accesskey "а">
-<!ENTITY PhoneticField1.label "Произношение:">
-<!ENTITY PhoneticField2.label "Произношение:">
-<!ENTITY DisplayName.label "Отображать как:">
-<!ENTITY DisplayName.accesskey "б">
+<!ENTITY NameField1.label               "Имя:">
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "Фамилия:">
+<!ENTITY NameField2.accesskey           "L">
+<!ENTITY PhoneticField1.label           "Произношение:">
+<!ENTITY PhoneticField2.label           "Произношение:">
+<!ENTITY DisplayName.label              "Отображать как:">
+<!ENTITY DisplayName.accesskey          "D">
 <!ENTITY preferDisplayName.label "Всегда использовать отображаемое имя вместо имени из заголовка сообщения">
 <!ENTITY preferDisplayName.accesskey "с">
-<!ENTITY NickName.label "Псевдоним:">
-<!ENTITY NickName.accesskey "д">
+<!ENTITY NickName.label                 "Псевдоним:">
+<!ENTITY NickName.accesskey             "N">
 
-<!ENTITY Internet.box                   "Internet">
-<!ENTITY PrimaryEmail.label "Электронная почта:">
-<!ENTITY PrimaryEmail.accesskey "л">
-<!ENTITY SecondEmail.label "Доп. адрес электронной почты:">
-<!ENTITY SecondEmail.accesskey "п">
-<!ENTITY PreferMailFormat.label "Предпочитает получать почту в формате:">
-<!ENTITY PreferMailFormat.accesskey "р">
-<!ENTITY PlainText.label "Простой текст">
-<!ENTITY HTML.label "HTML">
-<!ENTITY Unknown.label "Неизвестно">
+<!ENTITY Internet.box                   "Интернет">
+<!ENTITY PrimaryEmail.label             "Эл. почта:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "Другой адрес:">
+<!ENTITY SecondEmail.accesskey          "o">
+<!ENTITY PreferMailFormat.label         "Предпочитает получать почту в формате:">
+<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PlainText.label                "Обычный текст">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Неизвестно">
 <!ENTITY chatName.label "Имя в чате:">
-<!ENTITY ScreenName.label               "Screen Name:">
-<!ENTITY ScreenName.accesskey           "S">
+<!ENTITY ScreenName.label               "Имя экрана:">
+<!ENTITY ScreenName.accesskey           "-">
 
-<!ENTITY Phones.box                     "Phones">
-<!ENTITY WorkPhone.label "Рабочий:">
-<!ENTITY WorkPhone.accesskey "а">
-<!ENTITY HomePhone.label "Домашний:">
-<!ENTITY HomePhone.accesskey "м">
-<!ENTITY FaxNumber.label "Факс:">
-<!ENTITY FaxNumber.accesskey "к">
-<!ENTITY PagerNumber.label "Пейджер:">
-<!ENTITY PagerNumber.accesskey "й">
-<!ENTITY CellularNumber.label "Мобильный:">
-<!ENTITY CellularNumber.accesskey "ы">
+<!ENTITY Phones.box                     "Номера телефонов">
+<!ENTITY WorkPhone.label                "Рабочий:">
+<!ENTITY WorkPhone.accesskey            "W">
+<!ENTITY HomePhone.label                "Домашний:">
+<!ENTITY HomePhone.accesskey            "H">
+<!ENTITY FaxNumber.label                "Факс:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "Пейджер:">
+<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY CellularNumber.label           "Мобильный:">
+<!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Address.tab                    "Address">
-<!ENTITY Home.box                       "Home">
-<!ENTITY HomeAddress.label "Адрес:">
+<!ENTITY Address.tab                    "Адрес">
+<!ENTITY Home.box                       "Домашний">
+<!ENTITY HomeAddress.label              "Адрес:">
 <!ENTITY HomeAddress.accesskey "д">
-<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey "">
-<!ENTITY HomeCity.label "Город:">
+<!ENTITY HomeCity.label                 "Город:">
 <!ENTITY HomeCity.accesskey "р">
-<!ENTITY HomeState.label "Область, край:">
+<!ENTITY HomeState.label                "Область, край:">
 <!ENTITY HomeState.accesskey "б">
-<!ENTITY HomeZipCode.label "Почтовый индекс:">
+<!ENTITY HomeZipCode.label              "Почтовый индекс:">
 <!ENTITY HomeZipCode.accesskey "и">
-<!ENTITY HomeCountry.label "Страна:">
+<!ENTITY HomeCountry.label              "Страна:">
 <!ENTITY HomeCountry.accesskey "т">
-<!ENTITY HomeWebPage.label "Веб-страница:">
+<!ENTITY HomeWebPage.label              "Веб-страница:">
 <!ENTITY HomeWebPage.accesskey "с">
-<!ENTITY Birthday.label "День рождения:">
-<!ENTITY Birthday.accesskey "е">
+<!ENTITY Birthday.label                 "День рождения:">
+<!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label "">
 <!ENTITY Year.placeholder "Год">
 <!ENTITY Or.value "или">
 <!ENTITY Age.placeholder "Возраст">
 <!ENTITY YearsOld.label "">
 
-<!ENTITY Work.box                       "Work">
-<!ENTITY JobTitle.label "Должность:">
+<!ENTITY Work.box                       "Рабочий">
+<!ENTITY JobTitle.label                 "Должность:">
 <!ENTITY JobTitle.accesskey "л">
-<!ENTITY Department.label "Отдел:">
+<!ENTITY Department.label               "Отдел:">
 <!ENTITY Department.accesskey "т">
-<!ENTITY Company.label "Организация:">
+<!ENTITY Company.label                  "Организация:">
 <!ENTITY Company.accesskey "р">
-<!ENTITY WorkAddress.label "Адрес:">
+<!ENTITY WorkAddress.label              "Адрес:">
 <!ENTITY WorkAddress.accesskey "д">
-<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey "">
-<!ENTITY WorkCity.label "Город:">
+<!ENTITY WorkCity.label                 "Город:">
 <!ENTITY WorkCity.accesskey "р">
-<!ENTITY WorkState.label "Область, край:">
+<!ENTITY WorkState.label                "Область, край:">
 <!ENTITY WorkState.accesskey "б">
-<!ENTITY WorkZipCode.label "Почтовый индекс:">
+<!ENTITY WorkZipCode.label              "Почтовый индекс:">
 <!ENTITY WorkZipCode.accesskey "и">
-<!ENTITY WorkCountry.label "Страна:">
+<!ENTITY WorkCountry.label              "Страна:">
 <!ENTITY WorkCountry.accesskey "т">
-<!ENTITY WorkWebPage.label "Веб-страница:">
+<!ENTITY WorkWebPage.label              "Веб-страница:">
 <!ENTITY WorkWebPage.accesskey "с">
-<!ENTITY Picture.tab                    "Picture">
-<!ENTITY locationEditField.label        "Image Location:">
+<!ENTITY Picture.tab                    "Изображение">
+<!ENTITY locationEditField.label        "Адрес изображения:">
 <!ENTITY locationEditField.accessKey    "L">
-<!ENTITY locationEditField.tooltip      "Type the image's filename or location">
-<!ENTITY chooseButton.label             "Choose File…">
+<!ENTITY locationEditField.tooltip      "Введите имя файла с изображением или его адрес">
+<!ENTITY chooseButton.label             "Выбрать файл…">
 <!ENTITY chooseFile.accessKey           "C">
 
-<!ENTITY Social.tab                    "Social">
+<!ENTITY Social.tab                    "Социальные сети">
 <!ENTITY twitter.label                 "Twitter">
 <!ENTITY facebook.label                "Facebook">
 <!ENTITY linkedin.label                "LinkedIn">
 
-<!ENTITY Other.tab "Прочее">
+<!ENTITY Other.tab                      "Прочее">
 <!ENTITY Other.accesskey "ч">
-<!ENTITY Birthday.label "День рождения:">
-<!ENTITY Birthday.accesskey "е">
-<!ENTITY birthdayFormat.label           "mm/dd/yyyy">
-<!ENTITY Custom1.label "Прочее 1:">
-<!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "Прочее 2:">
-<!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "Прочее 3:">
-<!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "Прочее 4:">
-<!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box                      "Notes">
+<!ENTITY Birthday.label                 "День рождения:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY birthdayFormat.label           "dd/mm/yyyy">
+<!ENTITY Custom1.label                  "Прочее 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Прочее 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Прочее 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Прочее 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.box                      "Заметки">
 <!ENTITY Notes.accesskey "м">
 
 <!ENTITY Chat.tab "Чат">

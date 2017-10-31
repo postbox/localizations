@@ -5,13 +5,13 @@
 <!ENTITY  prefWindow.titleWin     "Opties">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName;-voorkeuren">
 <!ENTITY  prefWindow.titleMAC     "Voorkeuren">
-<!ENTITY  prefWindow.styleWindows "width: 55em; min-height: 41em;">
-<!ENTITY  prefWindow.styleMac     "width: 56em;">
+<!ENTITY  prefWindow.styleWindows "width: 63em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 58em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Algemeen">
 <!ENTITY paneDisplay.title        "Weergave">
-<!ENTITY paneTags.title           "Topics">
+<!ENTITY paneTags.title           "Labels">
 <!ENTITY paneComposition.title    "Opstellen">
 <!ENTITY paneChat.title           "Chat">
 <!ENTITY paneAttachments.title    "Bijlagen">

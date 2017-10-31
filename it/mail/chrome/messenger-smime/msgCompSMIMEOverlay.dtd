@@ -5,9 +5,9 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 <!ENTITY menu_securityEncryptRequire.label "Cifra questo messaggio">
-<!ENTITY menu_securityEncryptRequire.accesskey "C">
+<!ENTITY menu_securityEncryptRequire.accesskey "r">
 
-<!ENTITY menu_securitySign.label "Apponi firma digitale">
+<!ENTITY menu_securitySign.label "Aggiungi firma digitale">
 <!ENTITY menu_securitySign.accesskey "A">
 
 <!ENTITY menu_securityStatus.label "Sicurezza messaggio">
