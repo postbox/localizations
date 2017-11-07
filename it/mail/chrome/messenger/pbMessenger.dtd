@@ -379,3 +379,5 @@
 <!ENTITY pbFolderPaneSlider.label "Nascondi">
 
 <!ENTITY pbFavoritesBarContextMenu-remove.label "Rimuovi dai Preferiti">
+<!ENTITY pbMessagePaneContext-copyMessageLink.label "Copy Message Link">
+<!ENTITY pbMessagePaneContext-copyMessageLink.accesskey "l">

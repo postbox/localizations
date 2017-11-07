@@ -379,3 +379,5 @@
 <!ENTITY pbFolderPaneSlider.label "Dölj">
 
 <!ENTITY pbFavoritesBarContextMenu-remove.label "Ta bort från favoriter">
+<!ENTITY pbMessagePaneContext-copyMessageLink.label "Copy Message Link">
+<!ENTITY pbMessagePaneContext-copyMessageLink.accesskey "l">

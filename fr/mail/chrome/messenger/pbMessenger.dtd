@@ -379,3 +379,5 @@
 <!ENTITY pbFolderPaneSlider.label "Masquer">
 
 <!ENTITY pbFavoritesBarContextMenu-remove.label "Enlever des favoris">
+<!ENTITY pbMessagePaneContext-copyMessageLink.label "Copy Message Link">
+<!ENTITY pbMessagePaneContext-copyMessageLink.accesskey "l">
