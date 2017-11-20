@@ -48,7 +48,7 @@ postbox2 = args.postbox
 postbox52 = args.srcdir
 output = args.output
 locales = args.locales
-subdirs="dom editor/ui mail netwerk security/manager toolkit".split()
+subdirs="devtools/client devtools/shared dom editor/ui mail netwerk security/manager toolkit".split()
 for dir in subdirs:
   base = os.path.join(postbox52, dir, "locales", "en-US")
   if not os.path.exists(base):
