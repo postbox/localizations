@@ -454,10 +454,6 @@
 <!ENTITY hintsAndTips.label "Справка &brandFullName;">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "H">
-<!ENTITY helpSafeMode.label     "Устранение неполадок…">
-<!ENTITY helpSafeMode.accesskey "S">
-<!ENTITY helpTroubleshootingInfo.label     "Данные конфигурации">
-<!ENTITY helpTroubleshootingInfo.accesskey "C">
 <!ENTITY aboutCmd.label "О приложении &brandFullName;">
 <!ENTITY aboutCmd.accesskey "b">
 <!ENTITY filtersApplyToSelection.label "Применить фильтры для выбранных сообщений">

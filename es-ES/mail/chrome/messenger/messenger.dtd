@@ -454,10 +454,6 @@
 <!ENTITY hintsAndTips.label "Ayuda de &brandFullName;">
 <!ENTITY hintsAndTipsMac.commandkey "?">
 <!ENTITY hintsAndTips.accesskey "A">
-<!ENTITY helpSafeMode.label     "Solucionar problemas…">
-<!ENTITY helpSafeMode.accesskey "S">
-<!ENTITY helpTroubleshootingInfo.label     "Datos de configuration">
-<!ENTITY helpTroubleshootingInfo.accesskey "C">
 <!ENTITY aboutCmd.label "Acerca de &brandFullName;">
 <!ENTITY aboutCmd.accesskey "A">
 <!ENTITY filtersApplyToSelection.label "Ejecutar filtros en mensajes seleccionados">

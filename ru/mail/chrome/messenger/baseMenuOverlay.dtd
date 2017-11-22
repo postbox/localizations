@@ -9,10 +9,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Справка">
 <!ENTITY helpMenuWin.accesskey "С">
-<!ENTITY helpTroubleshootingInfo.label "Информация для решения проблем">
-<!ENTITY helpTroubleshootingInfo.accesskey "ф">
-<!ENTITY helpSafeMode.label "Перезапустить с отключёнными дополнениями…">
-<!ENTITY helpSafeMode.accesskey "з">
+<!ENTITY helpTroubleshootingInfo.label     "Данные конфигурации">
+<!ENTITY helpTroubleshootingInfo.accesskey "C">
+<!ENTITY helpSafeMode.label     "Устранение неполадок…">
+<!ENTITY helpSafeMode.accesskey "S">
 <!ENTITY releaseCmd2.label "Примечания к выпуску">
 <!ENTITY releaseCmd2.accesskey "в">
 <!ENTITY whatsNewCmd.label "Что нового">

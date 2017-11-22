@@ -9,9 +9,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Hjälp">
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY helpTroubleshootingInfo.label     "Felsökningsinformation">
-<!ENTITY helpTroubleshootingInfo.accesskey "F">
-<!ENTITY helpSafeMode.label     "Starta om utan tillägg…">
+<!ENTITY helpTroubleshootingInfo.label     "Konfigurationsdata">
+<!ENTITY helpTroubleshootingInfo.accesskey "C">
+<!ENTITY helpSafeMode.label     "Problemsökning…">
 <!ENTITY helpSafeMode.accesskey "S">
 <!ENTITY releaseCmd2.label "Versionsfakta">
 <!ENTITY releaseCmd2.accesskey "V">

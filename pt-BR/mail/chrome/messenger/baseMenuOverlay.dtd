@@ -9,10 +9,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Ajuda">
 <!ENTITY helpMenuWin.accesskey "u">
-<!ENTITY helpTroubleshootingInfo.label     "Dados para suporte">
-<!ENTITY helpTroubleshootingInfo.accesskey "D">
-<!ENTITY helpSafeMode.label     "Reiniciar com extensões desativadas…">
-<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY helpTroubleshootingInfo.label     "Dados de configuração">
+<!ENTITY helpTroubleshootingInfo.accesskey "C">
+<!ENTITY helpSafeMode.label     "Solução de problemas…">
+<!ENTITY helpSafeMode.accesskey "S">
 <!ENTITY releaseCmd2.label "Notas da versão">
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Novidades">
