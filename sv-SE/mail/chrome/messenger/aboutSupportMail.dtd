@@ -26,6 +26,8 @@
 
 <!ENTITY aboutSupport.miscTitle "Miscellaneous">
 
+<!ENTITY aboutSupport.modifiedPrefsTitle "Modifierade inställningar">
+
 <!ENTITY aboutSupport.appBasicsLicenseName "Licensnamn">
 <!ENTITY aboutSupport.ageInDays "Använt antal dagar">
 <!ENTITY aboutSupport.pbState "Läge">

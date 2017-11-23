@@ -26,6 +26,8 @@
 
 <!ENTITY aboutSupport.miscTitle "Variados">
 
+<!ENTITY aboutSupport.modifiedPrefsTitle "Preferências modificadas">
+
 <!ENTITY aboutSupport.appBasicsLicenseName "Nome da licença">
 <!ENTITY aboutSupport.ageInDays "Dias em uso">
 <!ENTITY aboutSupport.pbState "Estado">

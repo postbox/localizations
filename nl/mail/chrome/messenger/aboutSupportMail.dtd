@@ -26,6 +26,8 @@
 
 <!ENTITY aboutSupport.miscTitle "Divers">
 
+<!ENTITY aboutSupport.modifiedPrefsTitle "Aangepaste voorkeuren">
+
 <!ENTITY aboutSupport.appBasicsLicenseName "Licentie Naam">
 <!ENTITY aboutSupport.ageInDays "Dagen In Gebruik">
 <!ENTITY aboutSupport.pbState "Staat">

@@ -26,6 +26,8 @@
 
 <!ENTITY aboutSupport.miscTitle "Sonstiges">
 
+<!ENTITY aboutSupport.modifiedPrefsTitle "Modifizierte Einstellungen">
+
 <!ENTITY aboutSupport.appBasicsLicenseName "Lizenzname">
 <!ENTITY aboutSupport.ageInDays "Tage in Verwendung">
 <!ENTITY aboutSupport.pbState "Status">

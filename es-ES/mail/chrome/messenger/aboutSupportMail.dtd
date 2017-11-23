@@ -26,6 +26,8 @@
 
 <!ENTITY aboutSupport.miscTitle "Misceláneo">
 
+<!ENTITY aboutSupport.modifiedPrefsTitle "Preferencias modificadas">
+
 <!ENTITY aboutSupport.appBasicsLicenseName "Nombre de la licencia">
 <!ENTITY aboutSupport.ageInDays "Días en uso">
 <!ENTITY aboutSupport.pbState "Estado">
