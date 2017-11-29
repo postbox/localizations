@@ -2,6 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY alwaysCheckDefault.label          "Всегда проверять при запуске, является ли &brandShortName; почтовым клиентом по умолчанию">
+<!ENTITY alwaysCheckDefault.accesskey      "l">
+
+<!ENTITY checkNow.label             "Проверить сейчас">
+<!ENTITY checkNow.accesskey         "N">
+
 <!ENTITY allowSpotlight.label              "Разрешить Spotlight выполнять поиск сообщений">
 <!ENTITY allowSpotlight.accesskey          "S">
 

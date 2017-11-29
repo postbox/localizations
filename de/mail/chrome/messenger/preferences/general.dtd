@@ -2,6 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY alwaysCheckDefault.label          "Beim Start immer überprüfen, ob &brandShortName; der Standard E-Mail Client ist">
+<!ENTITY alwaysCheckDefault.accesskey      "l">
+
+<!ENTITY checkNow.label             "Jetzt prüfen">
+<!ENTITY checkNow.accesskey         "n">
+
 <!ENTITY allowSpotlight.label              "Spotlight erlauben, Nachrichten zu durchsuchen">
 <!ENTITY allowSpotlight.accesskey          "S">
 
