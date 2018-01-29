@@ -20,6 +20,8 @@
 <!ENTITY            renameButton.accesskey "B">
 <!ENTITY            deleteButton.label     "Ta bort profil…">
 <!ENTITY            deleteButton.accesskey "T">
+<!ENTITY            copyButton.label       "Copy Profile…">
+<!ENTITY            copyButton.accesskey   "C">
 
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; lagrar information om dina inställningar, bokmärken, e-post och annan användarinformation i din användarprofil.">

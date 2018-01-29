@@ -20,6 +20,8 @@
 <!ENTITY            renameButton.accesskey "h">
 <!ENTITY            deleteButton.label     "Profiel verwijderen…">
 <!ENTITY            deleteButton.accesskey "v">
+<!ENTITY            copyButton.label       "Copy Profile…">
+<!ENTITY            copyButton.accesskey   "C">
 
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; slaat informatie over uw instellingen, voorkeuren en andere gebruikersitems op in uw gebruikersprofiel.">

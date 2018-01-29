@@ -20,6 +20,8 @@
 <!ENTITY            renameButton.accesskey "R">
 <!ENTITY            deleteButton.label     "Delete Profile…">
 <!ENTITY            deleteButton.accesskey "D">
+<!ENTITY            copyButton.label       "Copy Profile…">
+<!ENTITY            copyButton.accesskey   "C">
 
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; stores information about your settings, preferences, and other user items in your user profile.">

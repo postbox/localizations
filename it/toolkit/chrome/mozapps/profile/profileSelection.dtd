@@ -20,6 +20,8 @@
 <!ENTITY renameButton.accesskey "R">
 <!ENTITY deleteButton.label "Elimina profilo…">
 <!ENTITY deleteButton.accesskey "E">
+<!ENTITY copyButton.label "Copy Profile…">
+<!ENTITY copyButton.accesskey "C">
 
 <!-- manager entities -->
 <!ENTITY pmDescription.label "&brandShortName; salva le informazioni personali, le opzioni e gli altri oggetti dell'utente nel profilo personale.">

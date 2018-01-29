@@ -20,6 +20,8 @@
 <!ENTITY renameButton.accesskey "е">
 <!ENTITY deleteButton.label "Удалить…">
 <!ENTITY deleteButton.accesskey "д">
+<!ENTITY copyButton.label "Copy Profile…">
+<!ENTITY copyButton.accesskey "C">
 
 <!-- manager entities -->
 <!ENTITY pmDescription.label "&brandShortName; хранит информацию о ваших настройках, закладках и т.д. в личном профиле.">
