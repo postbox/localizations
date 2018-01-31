@@ -22,7 +22,7 @@
 <!ENTITY attachFileCmd.label "Bestand(en)…">
 <!ENTITY attachFileCmd.accesskey "B">
 <!ENTITY attachFileCmd.key "A">
-<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.label "Cloud File Sharing">
 <!ENTITY attachCloudCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Webpagina…">
 <!ENTITY attachPageCmd.accesskey "W">
@@ -316,7 +316,7 @@
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Bestand(en) koppelen…">
 <!ENTITY attachFile.accesskey "B">
-<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.label "Cloud File Sharing…">
 <!ENTITY attachCloud.accesskey "F">
 <!ENTITY convertCloud.label "Converteren naar…">
 <!ENTITY convertCloud.accesskey "C">

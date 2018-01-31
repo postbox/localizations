@@ -22,7 +22,7 @@
 <!ENTITY attachFileCmd.label "Bifoga fil…">
 <!ENTITY attachFileCmd.accesskey "B">
 <!ENTITY attachFileCmd.key "A">
-<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.label "Cloud File Sharing">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Bifoga webbsida…">
 <!ENTITY attachPageCmd.accesskey "w">
@@ -316,7 +316,7 @@
 <!ENTITY selectAll.accesskey "M">
 <!ENTITY attachFile.label "Bifoga fil(er)…">
 <!ENTITY attachFile.accesskey "B">
-<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.label "Cloud File Sharing…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Konvertera till…">
 <!ENTITY convertCloud.accesskey "K">

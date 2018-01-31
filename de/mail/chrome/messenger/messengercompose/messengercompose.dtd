@@ -22,7 +22,7 @@
 <!ENTITY attachFileCmd.label "Datei(en) als Anhang anfügen…">
 <!ENTITY attachFileCmd.accesskey "a">
 <!ENTITY attachFileCmd.key "A">
-<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.label "Cloud File Sharing">
 <!ENTITY attachCloudCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Website anhängen…">
 <!ENTITY attachPageCmd.accesskey "W">
@@ -316,7 +316,7 @@
 <!ENTITY selectAll.accesskey "u">
 <!ENTITY attachFile.label "Datei(en) als Anhang anfügen">
 <!ENTITY attachFile.accesskey "D">
-<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.label "Cloud File Sharing…">
 <!ENTITY attachCloud.accesskey "F">
 <!ENTITY convertCloud.label "Anhang umwandeln in…">
 <!ENTITY convertCloud.accesskey "d">

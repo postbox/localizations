@@ -22,7 +22,7 @@
 <!ENTITY attachFileCmd.label "Файл(ы)…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
-<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.label "Cloud File Sharing">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Веб-страницу…">
 <!ENTITY attachPageCmd.accesskey "-">
@@ -316,7 +316,7 @@
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Вложить файл(ы)…">
 <!ENTITY attachFile.accesskey "F">
-<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.label "Cloud File Sharing…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Конвертировать в…">
 <!ENTITY convertCloud.accesskey "в">
