@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "с">
 <!ENTITY insertLinkCmd2.label "Ссылку…">
 <!ENTITY insertLinkCmd2.accesskey "ы">
-<!ENTITY insertLinkCmd2.key "K">
+<!ENTITY insertLinkCmd2.key "L">
 <!ENTITY insertAnchorCmd.label "Якорь с именем…">
 <!ENTITY insertAnchorCmd.accesskey "к">
 <!ENTITY insertImageCmd.label "Изображение…">
