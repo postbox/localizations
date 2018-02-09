@@ -14,6 +14,8 @@
 
 <!ENTITY importFromNothing.label        "Nichts importieren">
 <!ENTITY importFromNothing.accesskey    "i">
+<!ENTITY importFromPostbox.label        "Postbox 3, 4 oder 5">
+<!ENTITY importFromPostbox.accesskey    "P">
 <!ENTITY importFromThunderbird.label    "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "Seamonkey 2 oder neuer">
