@@ -114,3 +114,4 @@
 <!ENTITY quotedColor5.label "Couleur citée, niveau 5">
 
 <!ENTITY boldUnread.label      "Gras Non Lu">
+<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">

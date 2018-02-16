@@ -114,3 +114,4 @@
 <!ENTITY quotedColor5.label "Цвет цитируемого текста, уровень 5">
 
 <!ENTITY boldUnread.label      "Полужирный Непрочитанное">
+<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">

@@ -114,3 +114,4 @@
 <!ENTITY quotedColor5.label "Cor da citação, nível 5">
 
 <!ENTITY boldUnread.label      "Negrito Não Lido">
+<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">

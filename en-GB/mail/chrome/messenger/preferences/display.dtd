@@ -114,3 +114,4 @@
 <!ENTITY quotedColor5.label "Quoted color, level 5">
 
 <!ENTITY boldUnread.label      "Bold Unread">
+<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">

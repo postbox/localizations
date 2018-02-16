@@ -114,3 +114,4 @@
 <!ENTITY quotedColor5.label "Angiven färg, nivå 5">
 
 <!ENTITY boldUnread.label      "Fet oläst">
+<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">

@@ -114,3 +114,4 @@
 <!ENTITY quotedColor5.label "Colore citazione, livello 5">
 
 <!ENTITY boldUnread.label      "Grassetto Mon letto">
+<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">

@@ -114,3 +114,4 @@
 <!ENTITY quotedColor5.label "Color citado, nivel 5">
 
 <!ENTITY boldUnread.label      "Mostrar en negrita los mensajes no leídos">
+<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
