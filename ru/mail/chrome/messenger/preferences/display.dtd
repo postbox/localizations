@@ -49,6 +49,8 @@
 <!ENTITY display.caption "Отображение">
 <!ENTITY showCondensedAddresses.label "Показывать только имя для людей, находящихся в моей адресной книге">
 <!ENTITY showCondensedAddresses.accesskey "к">
+<!ENTITY alwaysShowTime.label             "Always show time in message list">
+<!ENTITY alwaysShowTime.accesskey         "L">
 
 <!ENTITY autoMarkAsRead.label "Автоматически отмечать сообщения как прочитанные">
 <!ENTITY autoMarkAsRead.accesskey "в">
@@ -83,6 +85,8 @@
 <!ENTITY pb.conversations.sortoldest.label "Сначала старые сообщения">
 <!ENTITY pb.conversations.sortnewest.label "Сначала новые сообщения">
 
+<!ENTITY pb.conversations.strict.threading.label "Strict threading by message ID">
+<!ENTITY pb.conversations.strict.threading.accesskey "s">
 <!ENTITY pb.conversations.read.label "При отображении беседы помечать ее сообщения как прочитанные">
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Показывать снимки всех контактов, участвующих в беседе">
@@ -114,4 +118,11 @@
 <!ENTITY quotedColor5.label "Цвет цитируемого текста, уровень 5">
 
 <!ENTITY boldUnread.label      "Полужирный Непрочитанное">
+
 <!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
+<!ENTITY showTooltips.label   "Show Tooltips">
+<!ENTITY showEmoticons.label   "Show Emoticons">
+<!ENTITY countInboxesOnly.label   "Unread Count for Inboxes Only">
+<!ENTITY detectDates.label   "Detect Dates">
+<!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
+

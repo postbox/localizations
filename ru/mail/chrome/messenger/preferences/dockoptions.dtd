@@ -7,6 +7,8 @@
 
 <!ENTITY bounceSystemDockIcon.label "Анимировать значок приложения при приходе нового сообщения">
 <!ENTITY bounceSystemDockIcon.accesskey "н">
+<!ENTITY notificationInboxOnly.label           "Count for Inboxes only">
+<!ENTITY notificationInboxOnly.accesskey       "c">
 <!ENTITY newMessagesCountDock.label "Число новых сообщений">
 <!ENTITY newMessagesCountDock.accesskey "о">
 <!ENTITY showAllUnreadMessagesCount.label "Число непрочитанных сообщений">

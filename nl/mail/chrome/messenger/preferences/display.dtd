@@ -49,6 +49,8 @@
 <!ENTITY display.caption                  "Weergave">
 <!ENTITY showCondensedAddresses.label     "Van personen in mijn adresboek alleen weergavenaam tonen">
 <!ENTITY showCondensedAddresses.accesskey "V">
+<!ENTITY alwaysShowTime.label             "Always show time in message list">
+<!ENTITY alwaysShowTime.accesskey         "L">
 
 <!ENTITY autoMarkAsRead.label             "Berichten automatisch als gelezen markeren">
 <!ENTITY autoMarkAsRead.accesskey         "B">
@@ -83,6 +85,8 @@
 <!ENTITY pb.conversations.sortoldest.label "Oudste berichten eerst">
 <!ENTITY pb.conversations.sortnewest.label "Nieuwste berichten eerst">
 
+<!ENTITY pb.conversations.strict.threading.label "Strict threading by message ID">
+<!ENTITY pb.conversations.strict.threading.accesskey "s">
 <!ENTITY pb.conversations.read.label "Als een conversatie wordt weergegeven, diens berichten als gelezen markeren">
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Voeg contact foto's toe van iedere deelnemer in de conversatie">
@@ -114,4 +118,13 @@
 <!ENTITY quotedColor5.label "Kleur quote, niveau 5">
 
 <!ENTITY boldUnread.label      "Vet ongelezen">
+
 <!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
+<!ENTITY showTooltips.label   "Show Tooltips">
+<!ENTITY showEmoticons.label   "Show Emoticons">
+<!ENTITY countInboxesOnly.label   "Unread Count for Inboxes Only">
+<!ENTITY detectDates.label   "Detect Dates">
+<!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
+
+
+

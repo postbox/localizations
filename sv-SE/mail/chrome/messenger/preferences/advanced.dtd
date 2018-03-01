@@ -173,3 +173,7 @@
 <!ENTITY pbOpenMessage.label "Öppna meddelande">
 <!ENTITY pbOpenFolderPane.label "Öppna mappvyn">
 <!ENTITY pbCloseFolderPane.label "Stäng mappvyn">
+
+<!ENTITY expungeAfterDelete.label "IMAP Expunge after delete">
+<!ENTITY expungeAfterDelete.accesskey "X">
+

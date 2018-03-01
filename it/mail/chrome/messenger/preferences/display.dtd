@@ -49,6 +49,8 @@
 <!ENTITY display.caption                  "Visualizzazione">
 <!ENTITY showCondensedAddresses.label     "mostra solo il nome visualizzato per le persone nella rubrica">
 <!ENTITY showCondensedAddresses.accesskey "m">
+<!ENTITY alwaysShowTime.label             "Always show time in message list">
+<!ENTITY alwaysShowTime.accesskey         "L">
 
 <!ENTITY autoMarkAsRead.label             "Contrassegna automaticamente un messaggio come letto">
 <!ENTITY autoMarkAsRead.accesskey         "C">
@@ -83,6 +85,8 @@
 <!ENTITY pb.conversations.sortoldest.label "Prima i messaggi meno recenti">
 <!ENTITY pb.conversations.sortnewest.label "Prima i messaggi più recenti">
 
+<!ENTITY pb.conversations.strict.threading.label "Strict threading by message ID">
+<!ENTITY pb.conversations.strict.threading.accesskey "s">
 <!ENTITY pb.conversations.read.label "Quando visualizzi una conversazione, contrassegna i suoi messaggi come già letti">
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Includi le foto dei contatti per ogni partecipante alla conversazione">
@@ -114,4 +118,11 @@
 <!ENTITY quotedColor5.label "Colore citazione, livello 5">
 
 <!ENTITY boldUnread.label      "Grassetto Mon letto">
+
 <!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
+<!ENTITY showTooltips.label   "Show Tooltips">
+<!ENTITY showEmoticons.label   "Show Emoticons">
+<!ENTITY countInboxesOnly.label   "Unread Count for Inboxes Only">
+<!ENTITY detectDates.label   "Detect Dates">
+<!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
+

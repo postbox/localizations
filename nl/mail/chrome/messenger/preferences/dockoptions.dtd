@@ -7,6 +7,8 @@
 
 <!ENTITY bounceSystemDockIcon.label            "Het programmasymbool bewegen als een nieuw bericht binnenkomt">
 <!ENTITY bounceSystemDockIcon.accesskey        "b">
+<!ENTITY notificationInboxOnly.label           "Count for Inboxes only">
+<!ENTITY notificationInboxOnly.accesskey       "c">
 <!ENTITY newMessagesCountDock.label            "Aantal nieuwe berichten">
 <!ENTITY newMessagesCountDock.accesskey        "n">
 <!ENTITY showAllUnreadMessagesCount.label      "Aantal ongelezen berichten">

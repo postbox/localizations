@@ -49,6 +49,8 @@
 <!ENTITY display.caption                  "Ansicht">
 <!ENTITY showCondensedAddresses.label     "Bei bekannten Kontakten nur den Anzeigenamen zeigen">
 <!ENTITY showCondensedAddresses.accesskey "B">
+<!ENTITY alwaysShowTime.label             "Always show time in message list">
+<!ENTITY alwaysShowTime.accesskey         "L">
 
 <!ENTITY autoMarkAsRead.label             "Nachrichten automatisch als gelesen markieren">
 <!ENTITY autoMarkAsRead.accesskey         "a">
@@ -83,6 +85,8 @@
 <!ENTITY pb.conversations.sortoldest.label "Älteste Nachrichten zuerst">
 <!ENTITY pb.conversations.sortnewest.label "Neueste Nachrichten zuerst">
 
+<!ENTITY pb.conversations.strict.threading.label "Strict threading by message ID">
+<!ENTITY pb.conversations.strict.threading.accesskey "s">
 <!ENTITY pb.conversations.read.label "Markiere beim Lesen einer Unterhaltung deren Nachrichten als gelesen">
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Schließe Fotos aller Teilnehmer der Unterhaltung mit ein">
@@ -114,4 +118,11 @@
 <!ENTITY quotedColor5.label "Angegebene Farbe, Level 5">
 
 <!ENTITY boldUnread.label      "Fett Ungelesen">
+
 <!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
+<!ENTITY showTooltips.label   "Show Tooltips">
+<!ENTITY showEmoticons.label   "Show Emoticons">
+<!ENTITY countInboxesOnly.label   "Unread Count for Inboxes Only">
+<!ENTITY detectDates.label   "Detect Dates">
+<!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
+

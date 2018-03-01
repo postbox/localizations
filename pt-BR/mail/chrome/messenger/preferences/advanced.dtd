@@ -173,3 +173,7 @@
 <!ENTITY pbOpenMessage.label "Abrir Mensagem">
 <!ENTITY pbOpenFolderPane.label "Abrir Painel de Pastas">
 <!ENTITY pbCloseFolderPane.label "Fechar Painel de Pastas">
+
+<!ENTITY expungeAfterDelete.label "IMAP Expunge after delete">
+<!ENTITY expungeAfterDelete.accesskey "X">
+
