@@ -7,6 +7,8 @@
 
 <!ENTITY bounceSystemDockIcon.label "Animar el icono de la aplicación cuando llegue un mensaje nuevo">
 <!ENTITY bounceSystemDockIcon.accesskey "A">
+<!ENTITY notificationInboxOnly.label           "Count for Inboxes only">
+<!ENTITY notificationInboxOnly.accesskey       "T">
 <!ENTITY newMessagesCountDock.label "Cuenta de mensajes nuevos">
 <!ENTITY newMessagesCountDock.accesskey "C">
 <!ENTITY showAllUnreadMessagesCount.label "Cuenta de mensajes no leídos">

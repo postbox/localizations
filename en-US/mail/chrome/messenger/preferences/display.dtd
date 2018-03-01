@@ -49,6 +49,8 @@
 <!ENTITY display.caption                  "Display">
 <!ENTITY showCondensedAddresses.label     "Show only display name for people in my address book">
 <!ENTITY showCondensedAddresses.accesskey "S">
+<!ENTITY alwaysShowTime.label             "Always show time in message list">
+<!ENTITY alwaysShowTime.accesskey         "L">
 
 <!ENTITY autoMarkAsRead.label             "Automatically mark messages as read">
 <!ENTITY autoMarkAsRead.accesskey         "A">
@@ -83,6 +85,8 @@
 <!ENTITY pb.conversations.sortoldest.label "Oldest messages first">
 <!ENTITY pb.conversations.sortnewest.label "Newest messages first">
 
+<!ENTITY pb.conversations.strict.threading.label "Strict threading by message ID">
+<!ENTITY pb.conversations.strict.threading.accesskey "s">
 <!ENTITY pb.conversations.read.label "When displaying a conversation, mark its messages as read">
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Include contact photos for each participant in the conversation">
@@ -115,3 +119,9 @@
 
 <!ENTITY boldUnread.label      "Bold Unread">
 <!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
+<!ENTITY showTooltips.label   "Show Tooltips">
+<!ENTITY showEmoticons.label   "Show Emoticons">
+<!ENTITY countInboxesOnly.label   "Unread Count for Inboxes Only">
+<!ENTITY detectDates.label   "Detect Dates">
+<!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
+

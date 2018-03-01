@@ -53,6 +53,8 @@
 <!ENTITY directoriesNone.label "Ninguno">
 <!ENTITY editDirectories.label                 "Editar directorios…">
 <!ENTITY editDirectories.accesskey             "E">
+<!ENTITY explodeLists.label                    "Expand mailing list addreses">
+<!ENTITY explodeLists.accesskey                "X">
 
 <!ENTITY contactsSidebarDisplay.label          "Muestra la barra lateral:">
 <!ENTITY contactsSidebarDisplay.accesskey      "S">

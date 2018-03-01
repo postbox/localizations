@@ -173,3 +173,7 @@
 <!ENTITY pbOpenMessage.label "Nachricht öffnen…">
 <!ENTITY pbOpenFolderPane.label "Ordner-Fach öffnen">
 <!ENTITY pbCloseFolderPane.label "Ordner-Ablage schließen">
+
+<!ENTITY expungeAfterDelete.label "IMAP Expunge after delete">
+<!ENTITY expungeAfterDelete.accesskey "X">
+

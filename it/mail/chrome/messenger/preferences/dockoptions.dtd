@@ -7,10 +7,12 @@
 
 <!ENTITY bounceSystemDockIcon.label "Anima l'icona dell'app quando arriva un nuovo messaggio">
 <!ENTITY bounceSystemDockIcon.accesskey "i">
+<!ENTITY notificationInboxOnly.label           "Count for Inboxes only">
+<!ENTITY notificationInboxOnly.accesskey       "t">
 <!ENTITY newMessagesCountDock.label "Contatore nuovi messaggi">
 <!ENTITY newMessagesCountDock.accesskey "n">
 <!ENTITY showAllUnreadMessagesCount.label "Contatore messaggi non letti">
-<!ENTITY showAllUnreadMessagesCount.accesskey "C">
+<!ENTITY showAllUnreadMessagesCount.accesskey "t">
 <!ENTITY dockIconBadge.label "Contrassegno nell'icona dell'applicazione">
 <!ENTITY dockIconShow.label "Contrassegna l'icona dell'applicazione con:">
 <!ENTITY directNotificationSettings.label "È possibile disattivare il contrassegno nella sezione Notifiche delle Preferenze di Sistema">

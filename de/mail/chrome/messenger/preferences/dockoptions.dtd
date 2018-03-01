@@ -7,6 +7,8 @@
 
 <!ENTITY bounceSystemDockIcon.label            "Dock-Symbol beim Eingang neuer Nachrichten animieren">
 <!ENTITY bounceSystemDockIcon.accesskey        "a">
+<!ENTITY notificationInboxOnly.label           "Count for Inboxes only">
+<!ENTITY notificationInboxOnly.accesskey       "c">
 <!ENTITY newMessagesCountDock.label            "Anzahl neuer Nachrichten">
 <!ENTITY newMessagesCountDock.accesskey        "n">
 <!ENTITY showAllUnreadMessagesCount.label      "Anzahl ungelesener Nachrichten">
