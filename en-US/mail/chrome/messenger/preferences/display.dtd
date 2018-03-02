@@ -121,7 +121,7 @@
 <!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
 <!ENTITY showTooltips.label   "Show Tooltips">
 <!ENTITY showEmoticons.label   "Show Emoticons">
-<!ENTITY countInboxesOnly.label   "Unread Count for Inboxes Only">
+<!ENTITY countInboxesOnly.label   "Count unread for Inboxes only">
 <!ENTITY detectDates.label   "Detect Dates">
 <!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
 
