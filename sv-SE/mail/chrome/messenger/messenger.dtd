@@ -75,7 +75,6 @@
 <!ENTITY printPreviewCmd.accesskey "h">
 <!ENTITY printSetupCmd.label "Utskriftsformat…">
 <!ENTITY printSetupCmd.accesskey "o">
-<!ENTITY renameCmd.label "Byt namn">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Ta bort meddelande">

@@ -75,7 +75,6 @@
 <!ENTITY printPreviewCmd.accesskey "p">
 <!ENTITY printSetupCmd.label "Impostazioni pagina…">
 <!ENTITY printSetupCmd.accesskey "I">
-<!ENTITY renameCmd.label "Rinomina">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Elimina messaggio">

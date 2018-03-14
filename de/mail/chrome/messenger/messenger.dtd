@@ -75,7 +75,6 @@
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Seite einrichten…">
 <!ENTITY printSetupCmd.accesskey "e">
-<!ENTITY renameCmd.label "Umbenennen">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Löschen">

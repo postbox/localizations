@@ -75,7 +75,6 @@
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY renameCmd.label "Переименовать">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Удалить сообщение">
