@@ -6,3 +6,5 @@
 <!ENTITY newTagDialog1.title     "Neues Schlagwort">
 <!ENTITY name.label              "Schlagwort und zugeordnete Farbe:">
 <!ENTITY name.accesskey          "S">
+<!ENTITY color.label              "Color:">
+<!ENTITY color.accesskey          "C">
