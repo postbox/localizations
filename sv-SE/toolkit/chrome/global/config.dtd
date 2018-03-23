@@ -6,9 +6,9 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Varning, farligt verktyg!">
-<!ENTITY aboutWarningText.label "Att ändra dessa avancerade inställningar kan skada programmets stabilitet, säkerhet och prestanda. Du bör endast fortsätta om du är säker på vad du gör.">
-<!ENTITY aboutWarningButton2.label "Jag godtar risken!">
+<!ENTITY aboutWarningTitle.label "Detta kommer att upphäva din garanti!">
+<!ENTITY aboutWarningText.label "Användning av denna Config Editor kan vara skadlig för stabiliteten, säkerheten och prestandan i denna applikation. Användning av denna Config Editor utan direkt tillstånd från Postbox, Inc. upphäver din garanti.">
+<!ENTITY aboutWarningButton2.label "Jag förstår och accepterar dessa villkor.">
 <!ENTITY aboutWarningCheckbox.label "Visa denna varning nästa gång">
 
 <!ENTITY searchPrefs.label "Sök:">

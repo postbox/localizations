@@ -6,9 +6,9 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Here be dragons!">
-<!ENTITY aboutWarningText.label "Changing these advanced settings can be harmful to the stability, security, and performance of this application. You should only continue if you are sure of what you are doing.">
-<!ENTITY aboutWarningButton2.label "I accept the risk!">
+<!ENTITY aboutWarningTitle.label "This will void your warranty!">
+<!ENTITY aboutWarningText.label "Use of this Config Editor can be harmful to the stability, security, and performance of this application. Use of this Config Editor without direct permission from Postbox, Inc. will void your warranty.">
+<!ENTITY aboutWarningButton2.label "I understand and accept these terms.">
 <!ENTITY aboutWarningCheckbox.label "Show this warning next time">
 
 <!ENTITY searchPrefs.label "Search:">

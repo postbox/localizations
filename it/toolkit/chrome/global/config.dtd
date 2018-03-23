@@ -6,9 +6,9 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Questa operazione potrebbe invalidare la garanzia">
-<!ENTITY aboutWarningText.label "La modifica dei valori predefiniti delle seguenti impostazioni avanzate può compromettere la stabilità, la sicurezza e le prestazioni di questa applicazione. Si consiglia di proseguire solo se consapevoli delle proprie azioni.">
-<!ENTITY aboutWarningButton2.label "Accetto i rischi">
+<!ENTITY aboutWarningTitle.label "Questo annullerà la tua garanzia!">
+<!ENTITY aboutWarningText.label "L'uso di questo editor di configurazione può essere dannoso per la stabilità, la sicurezza e le prestazioni di questa applicazione. L'uso di questo editor di configurazione senza l'autorizzazione diretta di Postbox, Inc. renderà nulla la garanzia.">
+<!ENTITY aboutWarningButton2.label "Capisco e accetto questi termini.">
 <!ENTITY aboutWarningCheckbox.label "Visualizza nuovamente questo avviso in futuro">
 
 <!ENTITY searchPrefs.label "Cerca:">

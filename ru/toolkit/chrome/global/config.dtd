@@ -6,9 +6,9 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Будьте осторожны, а то лишитесь гарантии!">
-<!ENTITY aboutWarningText.label "Изменение этих настроек может привести к ухудшению стабильности, безопасности и производительности данного приложения. Вам следует изменять что-либо только в том случае, если вы уверены в том, что делаете.">
-<!ENTITY aboutWarningButton2.label "Я принимаю на себя риск!">
+<!ENTITY aboutWarningTitle.label "Это аннулирует вашу гарантию!">
+<!ENTITY aboutWarningText.label "Использование этого редактора конфигурации может нанести ущерб стабильности, безопасности и производительности этого приложения. Использование этого редактора конфигурации без прямого разрешения Postbox, Inc. аннулирует вашу гарантию.">
+<!ENTITY aboutWarningButton2.label "Я понимаю и принимаю эти условия.">
 <!ENTITY aboutWarningCheckbox.label "Показывать это предупреждение в следующий раз">
 
 <!ENTITY searchPrefs.label "Поиск:">
