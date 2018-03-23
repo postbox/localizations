@@ -6,3 +6,5 @@
 <!ENTITY newTagDialog1.title     "New Topic">
 <!ENTITY name.label              "Tag Name:">
 <!ENTITY name.accesskey          "T">
+<!ENTITY color.label              "Color:">
+<!ENTITY color.accesskey          "C">
