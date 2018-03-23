@@ -85,6 +85,10 @@
 <!ENTITY pb.conversations.sortoldest.label "Äldsta meddelanden först">
 <!ENTITY pb.conversations.sortnewest.label "Senaste meddelanden först">
 
+<!ENTITY pb.conversations.enabled.label "Enable conversation view for all folders">
+<!ENTITY pb.conversations.enabled.accesskey "v">
+<!ENTITY pb.conversations.subject.threading.label "Thread by Subject">
+<!ENTITY pb.conversations.subject.threading.accesskey "T">
 <!ENTITY pb.conversations.strict.threading.label "Strict threading by message ID">
 <!ENTITY pb.conversations.strict.threading.accesskey "s">
 <!ENTITY pb.conversations.read.label "Vid visning av ett samtal, markera dess meddelanden som lästa">

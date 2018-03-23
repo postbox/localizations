@@ -85,6 +85,10 @@
 <!ENTITY pb.conversations.sortoldest.label "mensagens mais antigas primeiro">
 <!ENTITY pb.conversations.sortnewest.label "mensagens mais novas primeiro">
 
+<!ENTITY pb.conversations.enabled.label "Enable conversation view for all folders">
+<!ENTITY pb.conversations.enabled.accesskey "v">
+<!ENTITY pb.conversations.subject.threading.label "Thread by Subject">
+<!ENTITY pb.conversations.subject.threading.accesskey "T">
 <!ENTITY pb.conversations.strict.threading.label "Strict threading by message ID">
 <!ENTITY pb.conversations.strict.threading.accesskey "s">
 <!ENTITY pb.conversations.read.label "Ao exibir uma conversa, marque as mensagens como lidas">
