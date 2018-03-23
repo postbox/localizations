@@ -118,8 +118,12 @@
 <!ENTITY quotedColor5.label "Angegebene Farbe, Level 5">
 
 <!ENTITY boldUnread.label      "Fett Ungelesen">
-
 <!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
+
+<!ENTITY accountsMaxRowsDisplay.label "Display">
+<!ENTITY accountsMaxRows.label "rows in Accounts Pane">
+<!ENTITY accountsMaxRows.accesskey "r">
+
 <!ENTITY showTooltips.label   "Show Tooltips">
 <!ENTITY showEmoticons.label   "Show Emoticons">
 <!ENTITY countInboxesOnly.label   "Count unread for Inboxes only">
