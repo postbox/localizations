@@ -6,9 +6,9 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Hier endet möglicherweise die Gewährleistung!">
-<!ENTITY aboutWarningText.label "Änderungen der Standardwerte dieser erweiterten Einstellungen können gefährlich für Stabilität, Sicherheit und Geschwindigkeit dieser Anwendung sein. Sie sollten nur fortfahren, wenn Sie genau wissen, was Sie tun.">
-<!ENTITY aboutWarningButton2.label "Ich bin mir der Gefahren bewusst!">
+<!ENTITY aboutWarningTitle.label "Dadurch erlischt Ihre Garantie!">
+<!ENTITY aboutWarningText.label "Die Verwendung dieses Konfigurations-Editors kann sich nachteilig auf die Stabilität, Sicherheit und Leistung dieser Anwendung auswirken. Die Verwendung dieses Konfigurations-Editors ohne direkte Genehmigung von Postbox, Inc. führt zum Erlöschen der Garantie.">
+<!ENTITY aboutWarningButton2.label "Ich verstehe und akzeptiere diese Bedingungen.">
 <!ENTITY aboutWarningCheckbox.label "Diese Meldung beim nächsten Mal anzeigen">
 
 <!ENTITY searchPrefs.label "Suchen:">

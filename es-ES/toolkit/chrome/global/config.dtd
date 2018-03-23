@@ -6,9 +6,9 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "¡Zona hostil para manazas!">
-<!ENTITY aboutWarningText.label "Cambiar estas preferencias avanzadas puede ser perjudicial para la estabilidad, seguridad y rendimiento de esta aplicación. Sólo debería continuar si está seguro de lo que está haciendo.">
-<!ENTITY aboutWarningButton2.label "¡Acepto el riesgo!">
+<!ENTITY aboutWarningTitle.label "¡Esto anulará su garantía!">
+<!ENTITY aboutWarningText.label "El uso de este Editor de configuración puede ser perjudicial para la estabilidad, la seguridad y el rendimiento de esta aplicación. El uso de este Editor de configuración sin el permiso directo de Postbox, Inc. anulará la garantía.">
+<!ENTITY aboutWarningButton2.label "Entiendo y acepto estos términos.">
 <!ENTITY aboutWarningCheckbox.label "Mostrar esta advertencia la próxima vez">
 
 <!ENTITY searchPrefs.label "Buscar:">
