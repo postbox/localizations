@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog1.title     "New Topic">
+<!ENTITY newTagDialog1.title     "Edit Topic">
 <!ENTITY name.label              "Tag Name:">
 <!ENTITY name.accesskey          "T">
 <!ENTITY color.label              "Color:">
