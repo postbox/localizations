@@ -23,6 +23,7 @@
 <!ENTITY overrideNamespaces.label "Разрешить серверу переопределять эти пространства имен">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3DeferringDesc.label "При загрузке почты c сервера этой учётной записи, помещать новые сообщения в следующую папку:">
+<!ENTITY accountInbox.label "Inbox for this account">
 <!ENTITY accountInbox.accesskey "д">
 <!ENTITY deferToServer.label "Папка «Входящие» для другой учетной записи">
 <!ENTITY deferToServer.accesskey "d">
