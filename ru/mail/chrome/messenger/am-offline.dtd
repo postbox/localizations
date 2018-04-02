@@ -59,7 +59,7 @@
 <!ENTITY browseNewsrc.label "Обзор…">
 <!ENTITY browseNewsrc.accesskey "e">
 
-<!ENTITY storeType.label "Message Store Type:">
+<!ENTITY storeType.label "Тип хранилища сообщений:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore2.label "File per folder (mbox)">
-<!ENTITY maildirStore.label "File per message (maildir)">
+<!ENTITY mboxStore2.label "Файл для папки (mbox)">
+<!ENTITY maildirStore.label "Файл для сообщения (maildir)">

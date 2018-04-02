@@ -59,7 +59,7 @@
 <!ENTITY browseNewsrc.label "Procurar...">
 <!ENTITY browseNewsrc.accesskey "e">
 
-<!ENTITY storeType.label "Message Store Type:">
+<!ENTITY storeType.label "Tipo de armazenamento de mensagens:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore2.label "File per folder (mbox)">
-<!ENTITY maildirStore.label "File per message (maildir)">
+<!ENTITY mboxStore2.label "Arquivo por pasta (mbox)">
+<!ENTITY maildirStore.label "Arquivo por mensagem (maildir)">
