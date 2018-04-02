@@ -61,5 +61,5 @@
 
 <!ENTITY storeType.label "Message Store Type:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore2.label "File per folder (mbox)">
-<!ENTITY maildirStore.label "File per message (maildir)">
+<!ENTITY mboxStore2.label "Bestand per map (mbox)">
+<!ENTITY maildirStore.label "Bestand per bericht (maildir)">

@@ -59,7 +59,7 @@
 <!ENTITY browseNewsrc.label "Bläddra...">
 <!ENTITY browseNewsrc.accesskey "e">
 
-<!ENTITY storeType.label "Message Store Type:">
+<!ENTITY storeType.label "Meddelande Butikstyp:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore2.label "File per folder (mbox)">
-<!ENTITY maildirStore.label "File per message (maildir)">
+<!ENTITY mboxStore2.label "Fil per mapp (mbox)">
+<!ENTITY maildirStore.label "Fil per meddelande (maildir)">

@@ -59,7 +59,7 @@
 <!ENTITY browseNewsrc.label "Parcourir...">
 <!ENTITY browseNewsrc.accesskey "e">
 
-<!ENTITY storeType.label "Message Store Type:">
+<!ENTITY storeType.label "Type de magasin de messages:">
 <!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore2.label "File per folder (mbox)">
-<!ENTITY maildirStore.label "File per message (maildir)">
+<!ENTITY mboxStore2.label "Fichier par dossier (mbox)">
+<!ENTITY maildirStore.label "Fichier par message (maildir)">
