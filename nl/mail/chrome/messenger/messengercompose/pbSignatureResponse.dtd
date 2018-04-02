@@ -1,6 +1,6 @@
-<!ENTITY customSignatures.label "Custom Signatures...">
-<!ENTITY customResponses.label "Custom Responses...">
-<!ENTITY signatures.title "Custom Signatures">
-<!ENTITY responses.title "Custom Responses">
-<!ENTITY close.label "Close">
-<!ENTITY add.label "Add">
+<!ENTITY customSignatures.label "Custom Signatures ...">
+<!ENTITY customResponses.label "Aangepaste reacties ...">
+<!ENTITY signatures.title "Aangepaste handtekeningen">
+<!ENTITY responses.title "Aangepaste reacties">
+<!ENTITY close.label "Sluiten">
+<!ENTITY add.label "Toevoegen">

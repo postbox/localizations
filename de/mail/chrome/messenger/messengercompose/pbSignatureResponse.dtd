@@ -1,6 +1,6 @@
-<!ENTITY customSignatures.label "Custom Signatures...">
-<!ENTITY customResponses.label "Custom Responses...">
-<!ENTITY signatures.title "Custom Signatures">
-<!ENTITY responses.title "Custom Responses">
-<!ENTITY close.label "Close">
-<!ENTITY add.label "Add">
+<!ENTITY customSignatures.label "Benutzerdefinierte Signaturen ...">
+<!ENTITY customResponses.label "Benutzerdefinierte Antworten ...">
+<!ENTITY signatures.title "Benutzerdefinierte Signaturen">
+<!ENTITY responses.title "Benutzerdefinierte Antworten">
+<!ENTITY close.label "Schließen">
+<!ENTITY add.label "Hinzufügen">

@@ -1,6 +1,6 @@
-<!ENTITY customSignatures.label "Custom Signatures...">
-<!ENTITY customResponses.label "Custom Responses...">
-<!ENTITY signatures.title "Custom Signatures">
-<!ENTITY responses.title "Custom Responses">
-<!ENTITY close.label "Close">
-<!ENTITY add.label "Add">
+<!ENTITY customSignatures.label "Пользовательские подписи ...">
+<!ENTITY customResponses.label "Пользовательские ответы ...">
+<!ENTITY signatures.title "Пользовательские подписи">
+<!ENTITY responses.title "Пользовательские ответы">
+<!ENTITY close.label "Закрыть">
+<!ENTITY add.label "Добавить">

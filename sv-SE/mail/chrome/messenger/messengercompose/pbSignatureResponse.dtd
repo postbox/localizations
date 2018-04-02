@@ -1,6 +1,6 @@
-<!ENTITY customSignatures.label "Custom Signatures...">
-<!ENTITY customResponses.label "Custom Responses...">
-<!ENTITY signatures.title "Custom Signatures">
+<!ENTITY customSignatures.label "Anpassade signaturer ...">
+<!ENTITY customResponses.label "Anpassade svar ...">
+<!ENTITY signatures.title "Anpassade signaturer">
 <!ENTITY responses.title "Custom Responses">
-<!ENTITY close.label "Close">
+<!ENTITY close.label "Stäng">
 <!ENTITY add.label "Add">
