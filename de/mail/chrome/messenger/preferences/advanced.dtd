@@ -8,7 +8,7 @@
 <!ENTITY itemNetworking.label    "Netzwerk &amp; Speicherplatz">
 <!ENTITY itemCertificates.label  "Zertifikate">
 <!ENTITY itemWebServices.label   "Web Services">
-<!ENTITY itemQuickPost.label     "Quick Post">
+<!ENTITY itemQuickPost.label     "Schnelle Post">
 
 <!-- General Settings -->
 <!ENTITY autoMarkAsRead.label          "Nachrichten automatisch als gelesen markieren">
@@ -174,6 +174,6 @@
 <!ENTITY pbOpenFolderPane.label "Ordner-Fach öffnen">
 <!ENTITY pbCloseFolderPane.label "Ordner-Ablage schließen">
 
-<!ENTITY expungeAfterDelete.label "IMAP Expunge after delete">
+<!ENTITY expungeAfterDelete.label "IMAP tilgen nach löschen">
 <!ENTITY expungeAfterDelete.accesskey "X">
 
