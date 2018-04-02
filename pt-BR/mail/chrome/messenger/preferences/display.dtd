@@ -49,7 +49,7 @@
 <!ENTITY display.caption                  "Exibição">
 <!ENTITY showCondensedAddresses.label     "Para pessoas em meus contatos, exibir somente o nome">
 <!ENTITY showCondensedAddresses.accesskey "P">
-<!ENTITY alwaysShowTime.label             "Always show time in message list">
+<!ENTITY alwaysShowTime.label             "Hora do show sempre na lista de mensagens">
 <!ENTITY alwaysShowTime.accesskey         "L">
 
 <!ENTITY autoMarkAsRead.label             "Marcar automaticamente mensagens como lidas">
@@ -85,11 +85,11 @@
 <!ENTITY pb.conversations.sortoldest.label "mensagens mais antigas primeiro">
 <!ENTITY pb.conversations.sortnewest.label "mensagens mais novas primeiro">
 
-<!ENTITY pb.conversations.enabled.label "Enable conversation view for all folders">
+<!ENTITY pb.conversations.enabled.label "Habilitar a exibição de conversa para todas as pastas">
 <!ENTITY pb.conversations.enabled.accesskey "v">
-<!ENTITY pb.conversations.subject.threading.label "Thread by Subject">
+<!ENTITY pb.conversations.subject.threading.label "Tópico por assunto">
 <!ENTITY pb.conversations.subject.threading.accesskey "T">
-<!ENTITY pb.conversations.strict.threading.label "Strict threading by message ID">
+<!ENTITY pb.conversations.strict.threading.label "Encadeamento restrito por ID de mensagem">
 <!ENTITY pb.conversations.strict.threading.accesskey "s">
 <!ENTITY pb.conversations.read.label "Ao exibir uma conversa, marque as mensagens como lidas">
 <!ENTITY pb.conversations.read.accesskey "c">

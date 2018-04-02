@@ -49,7 +49,7 @@
 <!ENTITY display.caption "Visualización">
 <!ENTITY showCondensedAddresses.label "Mostrar sólo el atributo 'nombre mostrado' para las personas de mi libreta de direcciones">
 <!ENTITY showCondensedAddresses.accesskey "b">
-<!ENTITY alwaysShowTime.label             "Always show time in message list">
+<!ENTITY alwaysShowTime.label             "Siempre mostrar el tiempo en lista de mensajes">
 <!ENTITY alwaysShowTime.accesskey         "L">
 
 <!ENTITY autoMarkAsRead.label "Marcar automáticamente mensajes como leídos">
@@ -85,11 +85,11 @@
 <!ENTITY pb.conversations.sortoldest.label "Mensajes más antiguos primero">
 <!ENTITY pb.conversations.sortnewest.label "Mensajes más nuevos primero">
 
-<!ENTITY pb.conversations.enabled.label "Enable conversation view for all folders">
+<!ENTITY pb.conversations.enabled.label "Activar la vista de conversación de todas las carpetas">
 <!ENTITY pb.conversations.enabled.accesskey "v">
-<!ENTITY pb.conversations.subject.threading.label "Thread by Subject">
+<!ENTITY pb.conversations.subject.threading.label "Subproceso por tema">
 <!ENTITY pb.conversations.subject.threading.accesskey "T">
-<!ENTITY pb.conversations.strict.threading.label "Strict threading by message ID">
+<!ENTITY pb.conversations.strict.threading.label "Enhebrado estricto por ID de mensaje">
 <!ENTITY pb.conversations.strict.threading.accesskey "s">
 <!ENTITY pb.conversations.read.label "Al mostrar una conversación, marcar sus mensajes como leídos">
 <!ENTITY pb.conversations.read.accesskey "c">

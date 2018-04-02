@@ -49,7 +49,7 @@
 <!ENTITY display.caption                  "Weergave">
 <!ENTITY showCondensedAddresses.label     "Van personen in mijn adresboek alleen weergavenaam tonen">
 <!ENTITY showCondensedAddresses.accesskey "V">
-<!ENTITY alwaysShowTime.label             "Always show time in message list">
+<!ENTITY alwaysShowTime.label             "Altijd tijd weergeven in de berichtenlijst">
 <!ENTITY alwaysShowTime.accesskey         "L">
 
 <!ENTITY autoMarkAsRead.label             "Berichten automatisch als gelezen markeren">
@@ -85,11 +85,11 @@
 <!ENTITY pb.conversations.sortoldest.label "Oudste berichten eerst">
 <!ENTITY pb.conversations.sortnewest.label "Nieuwste berichten eerst">
 
-<!ENTITY pb.conversations.enabled.label "Enable conversation view for all folders">
+<!ENTITY pb.conversations.enabled.label "Gesprek weergave voor alle mappen inschakelt">
 <!ENTITY pb.conversations.enabled.accesskey "v">
-<!ENTITY pb.conversations.subject.threading.label "Thread by Subject">
+<!ENTITY pb.conversations.subject.threading.label "Organiseren op onderwerp">
 <!ENTITY pb.conversations.subject.threading.accesskey "T">
-<!ENTITY pb.conversations.strict.threading.label "Strict threading by message ID">
+<!ENTITY pb.conversations.strict.threading.label "Strikte threading door bericht-ID">
 <!ENTITY pb.conversations.strict.threading.accesskey "s">
 <!ENTITY pb.conversations.read.label "Als een conversatie wordt weergegeven, diens berichten als gelezen markeren">
 <!ENTITY pb.conversations.read.accesskey "c">
