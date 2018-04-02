@@ -4,7 +4,7 @@
 
 <!-- New Tag Dialog -->
 <!ENTITY newTagDialog1.title     "Nouvelle étiquette">
-<!ENTITY name.label              "Étiquette :">
+<!ENTITY name.label              "Étiquette:">
 <!ENTITY name.accesskey          "t">
-<!ENTITY color.label              "Color:">
+<!ENTITY color.label              "Couleur:">
 <!ENTITY color.accesskey          "C">

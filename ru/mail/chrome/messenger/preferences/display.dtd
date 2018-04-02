@@ -122,15 +122,15 @@
 <!ENTITY quotedColor5.label "Цвет цитируемого текста, уровень 5">
 
 <!ENTITY boldUnread.label      "Полужирный Непрочитанное">
-<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
+<!ENTITY automaticEXIF.label "Повернуть изображения в соответствии с данными EXIF">
 
-<!ENTITY accountsMaxRowsDisplay.label "Display">
-<!ENTITY accountsMaxRows.label "rows in Accounts Pane">
+<!ENTITY accountsMaxRowsDisplay.label "Показать">
+<!ENTITY accountsMaxRows.label "строки в панели учетных записей">
 <!ENTITY accountsMaxRows.accesskey "r">
 
-<!ENTITY showTooltips.label   "Show Tooltips">
-<!ENTITY showEmoticons.label   "Show Emoticons">
-<!ENTITY countInboxesOnly.label   "Count unread for Inboxes only">
-<!ENTITY detectDates.label   "Detect Dates">
-<!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
+<!ENTITY showTooltips.label "Показать подсказки">
+<!ENTITY showEmoticons.label "Показать смайлики">
+<!ENTITY countInboxesOnly.label "Count notread for Inboxes only">
+<!ENTITY detectDates.label "Определить даты">
+<!ENTITY detectPhoneNumbers.label "Обнаруживать номера телефонов">
 

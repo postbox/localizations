@@ -122,15 +122,14 @@
 <!ENTITY quotedColor5.label "Angegebene Farbe, Level 5">
 
 <!ENTITY boldUnread.label      "Fett Ungelesen">
-<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
+<!ENTITY automaticEXIF.label "Bilder nach EXIF-Daten drehen">
 
-<!ENTITY accountsMaxRowsDisplay.label "Display">
-<!ENTITY accountsMaxRows.label "rows in Accounts Pane">
+<!ENTITY accountsMaxRowsDisplay.label "Anzeige">
+<!ENTITY accountsMaxRows.label "Zeilen im Kontenbereich">
 <!ENTITY accountsMaxRows.accesskey "r">
 
-<!ENTITY showTooltips.label   "Show Tooltips">
-<!ENTITY showEmoticons.label   "Show Emoticons">
-<!ENTITY countInboxesOnly.label   "Count unread for Inboxes only">
-<!ENTITY detectDates.label   "Detect Dates">
-<!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
-
+<!ENTITY showTooltips.label "Zeige Tooltips">
+<!ENTITY showEmoticons.label "Zeige Emoticons">
+<!ENTITY countInboxesOnly.label "Zähle nur ungelesen für Posteingänge">
+<!ENTITY detectDates.label "Daten erkennen">
+<!ENTITY detectPhoneNumbers.label "Telefonnummern erkennen">

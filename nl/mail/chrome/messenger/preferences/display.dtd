@@ -122,17 +122,16 @@
 <!ENTITY quotedColor5.label "Kleur quote, niveau 5">
 
 <!ENTITY boldUnread.label      "Vet ongelezen">
-<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
+<!ENTITY automaticEXIF.label "Beelden roteren volgens EXIF-gegevens">
 
 <!ENTITY accountsMaxRowsDisplay.label "Display">
-<!ENTITY accountsMaxRows.label "rows in Accounts Pane">
+<!ENTITY accountsMaxRows.label "rijen in het deelvenster Accounts">
 <!ENTITY accountsMaxRows.accesskey "r">
 
-<!ENTITY showTooltips.label   "Show Tooltips">
-<!ENTITY showEmoticons.label   "Show Emoticons">
-<!ENTITY countInboxesOnly.label   "Count unread for Inboxes only">
-<!ENTITY detectDates.label   "Detect Dates">
-<!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
-
+<!ENTITY showTooltips.label "Tooltips weergeven">
+<!ENTITY showEmoticons.label "Show Emoticons">
+<!ENTITY countInboxesOnly.label "telt als ongelezen voor alleen postvakken">
+<!ENTITY detectDates.label "Datums detecteren">
+<!ENTITY detectPhoneNumbers.label "Telefoonnummers detecteren">
 
 

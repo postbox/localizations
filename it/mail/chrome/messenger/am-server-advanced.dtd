@@ -23,7 +23,7 @@
 <!ENTITY overrideNamespaces.label "Permetti al server di sovrascrivere questi namespace">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3DeferringDesc.label "Quando si scarica la posta dal server di questo account, utilizzare la seguente cartella per memorizzare i nuovi messaggi:">
-<!ENTITY accountInbox.label "Inbox for this account">
+<!ENTITY accountInbox.label "Posta in arrivo per questo account">
 <!ENTITY accountInbox.accesskey "I">
 <!ENTITY deferToServer.label "In entrata per un account differente">
 <!ENTITY deferToServer.accesskey "d">

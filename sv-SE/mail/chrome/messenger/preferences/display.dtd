@@ -122,15 +122,15 @@
 <!ENTITY quotedColor5.label "Angiven färg, nivå 5">
 
 <!ENTITY boldUnread.label      "Fet oläst">
-<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
+<!ENTITY automaticEXIF.label "Rotera bilder enligt EXIF data">
 
 <!ENTITY accountsMaxRowsDisplay.label "Display">
-<!ENTITY accountsMaxRows.label "rows in Accounts Pane">
+<!ENTITY accountsMaxRows.label "rader i kontofältet">
 <!ENTITY accountsMaxRows.accesskey "r">
 
-<!ENTITY showTooltips.label   "Show Tooltips">
-<!ENTITY showEmoticons.label   "Show Emoticons">
-<!ENTITY countInboxesOnly.label   "Count unread for Inboxes only">
-<!ENTITY detectDates.label   "Detect Dates">
-<!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
+<!ENTITY showTooltips.label "Visa verktygstips">
+<!ENTITY showEmoticons.label "Visa emoticons">
+<!ENTITY countInboxesOnly.label "Räkna upp olästa endast för inkorgar">
+<!ENTITY detectDates.label "Upptäck datum">
+<!ENTITY detectPhoneNumbers.label "Upptäck telefonnummer">
 

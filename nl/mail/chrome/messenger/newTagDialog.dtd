@@ -6,5 +6,5 @@
 <!ENTITY newTagDialog1.title     "Nieuw label">
 <!ENTITY name.label              "Labelnaam:">
 <!ENTITY name.accesskey          "L">
-<!ENTITY color.label              "Color:">
+<!ENTITY color.label              "Kleur:">
 <!ENTITY color.accesskey          "C">

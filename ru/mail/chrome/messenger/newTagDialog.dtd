@@ -6,5 +6,5 @@
 <!ENTITY newTagDialog1.title "Новая метка">
 <!ENTITY name.label              "Название метки:">
 <!ENTITY name.accesskey          "T">
-<!ENTITY color.label              "Color:">
+<!ENTITY color.label              "Цвет:">
 <!ENTITY color.accesskey          "C">
