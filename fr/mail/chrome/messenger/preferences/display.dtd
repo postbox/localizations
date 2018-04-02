@@ -122,15 +122,14 @@
 <!ENTITY quotedColor5.label "Couleur citée, niveau 5">
 
 <!ENTITY boldUnread.label      "Gras Non Lu">
-<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
+<!ENTITY automaticEXIF.label "Rotation des images en fonction des données EXIF">
 
-<!ENTITY accountsMaxRowsDisplay.label "Display">
-<!ENTITY accountsMaxRows.label "rows in Accounts Pane">
+<!ENTITY accountsMaxRowsDisplay.label "Afficher">
+<!ENTITY accountsMaxRows.label "lignes dans le volet des comptes">
 <!ENTITY accountsMaxRows.accesskey "r">
 
-<!ENTITY showTooltips.label   "Show Tooltips">
-<!ENTITY showEmoticons.label   "Show Emoticons">
-<!ENTITY countInboxesOnly.label   "Count unread for Inboxes only">
-<!ENTITY detectDates.label   "Detect Dates">
-<!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
-
+<!ENTITY showTooltips.label "Afficher les info-bulles">
+<!ENTITY showEmoticons.label "Afficher les émoticônes">
+<!ENTITY countInboxesOnly.label "Compte non lu pour les boîtes de réception uniquement>>
+<!ENTITY detectDates.label "Détecter les dates">
+<!ENTITY detectPhoneNumbers.label "Détecter les numéros de téléphone">

@@ -122,15 +122,14 @@
 <!ENTITY quotedColor5.label "Colore citazione, livello 5">
 
 <!ENTITY boldUnread.label      "Grassetto Mon letto">
-<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
+<!ENTITY automaticEXIF.label "Ruota le immagini in base ai dati EXIF">
 
 <!ENTITY accountsMaxRowsDisplay.label "Display">
-<!ENTITY accountsMaxRows.label "rows in Accounts Pane">
+<!ENTITY accountsMaxRows.label "righe nel riquadro degli account">
 <!ENTITY accountsMaxRows.accesskey "r">
 
-<!ENTITY showTooltips.label   "Show Tooltips">
-<!ENTITY showEmoticons.label   "Show Emoticons">
-<!ENTITY countInboxesOnly.label   "Count unread for Inboxes only">
-<!ENTITY detectDates.label   "Detect Dates">
-<!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
-
+<!ENTITY showTooltips.label "Mostra descrizioni comandi">
+<!ENTITY showEmoticons.label "Mostra emoticon">
+<!ENTITY countInboxesOnly.label "Conteggio non letto per Solo inbox">
+<!ENTITY detectDates.label "Rileva date">
+<!ENTITY detectPhoneNumbers.label "Rileva numeri di telefono">

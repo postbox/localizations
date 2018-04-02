@@ -122,15 +122,15 @@
 <!ENTITY quotedColor5.label "Color citado, nivel 5">
 
 <!ENTITY boldUnread.label      "Mostrar en negrita los mensajes no leídos">
-<!ENTITY automaticEXIF.label   "Rotate images according to EXIF data">
+<!ENTITY automaticEXIF.label "Girar imágenes según datos EXIF">
 
 <!ENTITY accountsMaxRowsDisplay.label "Display">
-<!ENTITY accountsMaxRows.label "rows in Accounts Pane">
+<!ENTITY accountsMaxRows.label "filas en el Panel de Cuentas">
 <!ENTITY accountsMaxRows.accesskey "r">
 
-<!ENTITY showTooltips.label   "Show Tooltips">
-<!ENTITY showEmoticons.label   "Show Emoticons">
-<!ENTITY countInboxesOnly.label   "Count unread for Inboxes only">
-<!ENTITY detectDates.label   "Detect Dates">
-<!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
+<!ENTITY showTooltips.label "Mostrar información sobre herramientas">
+<!ENTITY showEmoticons.label "Mostrar emoticones">
+<!ENTITY countInboxesOnly.label "Cuenta no leída solo para bandejas de entrada">
+<!ENTITY detectDates.label "Detectar fechas">
+<!ENTITY detectPhoneNumbers.label "Detectar números de teléfono">
 
