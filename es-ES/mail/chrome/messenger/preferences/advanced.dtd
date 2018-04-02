@@ -174,6 +174,6 @@
 <!ENTITY pbOpenFolderPane.label "Abrir el panel de la carpeta">
 <!ENTITY pbCloseFolderPane.label "Cerrar el panel de la carpeta">
 
-<!ENTITY expungeAfterDelete.label "IMAP Expunge after delete">
+<!ENTITY expungeAfterDelete.label "IMAP eliminar después de borrar">
 <!ENTITY expungeAfterDelete.accesskey "X">
 

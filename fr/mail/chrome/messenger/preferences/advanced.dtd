@@ -174,5 +174,5 @@
 <!ENTITY pbOpenFolderPane.label "Ouvrez le panneau de dossier">
 <!ENTITY pbCloseFolderPane.label "Fermez le panneau de dossier">
 
-<!ENTITY expungeAfterDelete.label "IMAP Expunge after delete">
+<!ENTITY expungeAfterDelete.label "IMAP Expunge après suppression">
 <!ENTITY expungeAfterDelete.accesskey "X">
