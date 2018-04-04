@@ -16,6 +16,8 @@
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromPostbox.label        "Postbox 3, 4 или 5">
 <!ENTITY importFromPostbox.accesskey    "P">
+<!ENTITY importFromPostboxApp.label     "Postbox 6 or later">
+<!ENTITY importFromPostboxApp.accesskey "l">
 <!ENTITY importFromThunderbird.label    "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label "SeaMonkey 2 или позже">
