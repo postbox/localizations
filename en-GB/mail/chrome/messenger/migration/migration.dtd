@@ -20,9 +20,9 @@
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 or later">
 <!ENTITY importFromSeamonkey3.accesskey "S">
-<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.label       "Outlook Express (Experimental)">
 <!ENTITY importFromOExpress.accesskey   "u">
-<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.label        "Outlook (Experimental)">
 <!ENTITY importFromOutlook.accesskey    "O">
 
 <!ENTITY welcome.title                  "Welcome to &brandShortName;">
