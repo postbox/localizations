@@ -130,6 +130,6 @@
 
 <!ENTITY showTooltips.label "Afficher les info-bulles">
 <!ENTITY showEmoticons.label "Afficher les émoticônes">
-<!ENTITY countInboxesOnly.label "Compte non lu pour les boîtes de réception uniquement>>
+<!ENTITY countInboxesOnly.label "Compte non lu pour les boîtes de réception uniquement">
 <!ENTITY detectDates.label "Détecter les dates">
 <!ENTITY detectPhoneNumbers.label "Détecter les numéros de téléphone">
