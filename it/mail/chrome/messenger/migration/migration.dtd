@@ -9,7 +9,7 @@
 <!ENTITY importFromNonWin.label         "Importa preferenze, impostazioni account, rubrica, filtri e altri dati da:">
 <!ENTITY importSourceNotFound.label     "Non è stata trovata alcuna applicazione da cui importare dati.">
 
-<!ENTITY cleanInstall.label             "Installazione pulita (consigliato)">
+<!ENTITY cleanInstall.label             "Installazione pulita">
 <!ENTITY cleanInstall.accesskey  	"C">
 
 <!ENTITY importFromNothing.label        "Non importare nulla">

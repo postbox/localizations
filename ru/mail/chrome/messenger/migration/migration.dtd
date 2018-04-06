@@ -9,7 +9,7 @@
 <!ENTITY importFromNonWin.label "Импортировать настройки, параметры учётной записи, адресную книгу, фильтры и другие данные из:">
 <!ENTITY importSourceNotFound.label "Не найдено приложения, из которого можно импортировать данные.">
 
-<!ENTITY cleanInstall.label             "Чистая установка (рекомендуется)">
+<!ENTITY cleanInstall.label             "Чистая установка">
 <!ENTITY cleanInstall.accesskey  	"C">
 
 <!ENTITY importFromNothing.label        "Не импортировать ничего">

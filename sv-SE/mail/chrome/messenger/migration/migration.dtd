@@ -9,7 +9,7 @@
 <!ENTITY importFromNonWin.label         "Importera inställningar, kontoinställningar, adressbok, filter och annan data från:">
 <!ENTITY importSourceNotFound.label     "Inget program för att importera data från hittades.">
 
-<!ENTITY cleanInstall.label             "Ny installation (rekommenderat)">
+<!ENTITY cleanInstall.label             "Ny installation">
 <!ENTITY cleanInstall.accesskey  	"C">
 
 <!ENTITY importFromNothing.label        "Importera inte någonting">
