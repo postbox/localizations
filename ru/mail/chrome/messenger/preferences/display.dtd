@@ -130,7 +130,7 @@
 
 <!ENTITY showTooltips.label "Показать подсказки">
 <!ENTITY showEmoticons.label "Показать смайлики">
-<!ENTITY countInboxesOnly.label "Count notread for Inboxes only">
+<!ENTITY countInboxesOnly.label "Подсчитать непрочитанные только для Inboxes">
 <!ENTITY detectDates.label "Определить даты">
 <!ENTITY detectPhoneNumbers.label "Обнаруживать номера телефонов">
 
