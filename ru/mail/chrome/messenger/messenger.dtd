@@ -318,7 +318,7 @@
 <!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "Ответить в рассылку">
 <!ENTITY replyToListMsgCmd.accesskey "р">
-<!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY replyToListMsgCmd.key "t">
 <!ENTITY forwardMsgCmd.label "Переслать">
 <!ENTITY forwardMsgCmd.accesskey "F">
 <!ENTITY forwardMsgCmd.key  "l">
