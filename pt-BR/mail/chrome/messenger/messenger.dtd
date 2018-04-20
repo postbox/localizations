@@ -318,7 +318,7 @@
 <!ENTITY replyToAllMsgCmd.key  "R">
 <!ENTITY replyToListMsgCmd.label "Re: Lista">
 <!ENTITY replyToListMsgCmd.accesskey "s">
-<!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY replyToListMsgCmd.key "t">
 <!ENTITY forwardMsgCmd.label "Encaminhar">
 <!ENTITY forwardMsgCmd.accesskey "E">
 <!ENTITY forwardMsgCmd.key  "L">

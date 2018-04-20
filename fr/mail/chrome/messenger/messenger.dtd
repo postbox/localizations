@@ -318,7 +318,7 @@
 <!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "Répondre à la liste">
 <!ENTITY replyToListMsgCmd.accesskey "o">
-<!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY replyToListMsgCmd.key "t">
 <!ENTITY forwardMsgCmd.label "Transférer">
 <!ENTITY forwardMsgCmd.accesskey "f">
 <!ENTITY forwardMsgCmd.key  "l">
