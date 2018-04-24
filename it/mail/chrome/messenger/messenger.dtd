@@ -480,7 +480,7 @@
 <!ENTITY devtoolsMenu.accesskey "u">
 <!ENTITY devToolboxCmd.label "Cassetta degli strumenti di sviluppo">
 <!ENTITY devToolboxCmd.accesskey "C">
-<!ENTITY devToolboxCmd.commandkey "c">
+<!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Add-on Debugger">
 <!ENTITY addonDebugCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Tab di debug del contenuto">
