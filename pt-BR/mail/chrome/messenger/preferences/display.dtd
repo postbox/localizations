@@ -87,10 +87,13 @@
 
 <!ENTITY pb.conversations.enabled.label "Habilitar a exibição de conversa para todas as pastas">
 <!ENTITY pb.conversations.enabled.accesskey "v">
-<!ENTITY pb.conversations.subject.threading.label "Tópico por assunto">
-<!ENTITY pb.conversations.subject.threading.accesskey "T">
+<!ENTITY pb.conversations.correct.threading.label "Tópico por assunto">
+<!ENTITY pb.conversations.correct.threading.accesskey "T">
 <!ENTITY pb.conversations.strict.threading.label "Encadeamento restrito por ID de mensagem">
 <!ENTITY pb.conversations.strict.threading.accesskey "s">
+<!ENTITY pb.conversations.re.threading.label "Thread by subject without Re:">
+<!ENTITY pb.conversations.re.threading.accesskey "r">
+
 <!ENTITY pb.conversations.read.label "Ao exibir uma conversa, marque as mensagens como lidas">
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Incluir fotos de contatos de cada participante da conversa">
