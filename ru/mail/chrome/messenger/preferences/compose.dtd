@@ -53,8 +53,10 @@
 <!ENTITY directoriesNone.label "Нет">
 <!ENTITY editDirectories.label                 "Изменить каталоги…">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY explodeLists.label                    "Expand mailing list addreses">
+<!ENTITY explodeLists.label                    "Расширить адреса списка рассылки">
 <!ENTITY explodeLists.accesskey                "X">
+<!ENTITY showEmailAddress.label                "Показать полный адрес электронной почты">
+<!ENTITY showEmailAddress.accesskey            "F">
 
 <!ENTITY contactsSidebarDisplay.label          "Боковая панель:">
 <!ENTITY contactsSidebarDisplay.accesskey      "S">
