@@ -87,11 +87,11 @@
 
 <!ENTITY pb.conversations.enabled.label "Attivare la visualizzazione conversazione per tutte le cartelle">
 <!ENTITY pb.conversations.enabled.accesskey "v">
-<!ENTITY pb.conversations.correct.threading.label "Thread by Subject">
+<!ENTITY pb.conversations.correct.threading.label "Thread per messaggio ID">
 <!ENTITY pb.conversations.correct.threading.accesskey "T">
-<!ENTITY pb.conversations.strict.threading.label "Filettatura rigorosa per ID messaggio">
+<!ENTITY pb.conversations.strict.threading.label "Discussione per oggetto del messaggio">
 <!ENTITY pb.conversations.strict.threading.accesskey "s">
-<!ENTITY pb.conversations.re.threading.label "Thread by subject without Re:">
+<!ENTITY pb.conversations.re.threading.label "Discussione per argomento senza Re:">
 <!ENTITY pb.conversations.re.threading.accesskey "r">
 
 <!ENTITY pb.conversations.read.label "Quando visualizzi una conversazione, contrassegna i suoi messaggi come già letti">

@@ -87,10 +87,11 @@
 
 <!ENTITY pb.conversations.enabled.label "Chat-Ansicht für alle Ordner zu aktivieren">
 <!ENTITY pb.conversations.enabled.accesskey "v">
-<!ENTITY pb.conversations.correct.threading.label "Thema nach Thema">
+<!ENTITY pb.conversations.correct.threading.label "Thread nach Nachrichten-ID">
 <!ENTITY pb.conversations.correct.threading.accesskey "T">
-<!ENTITY pb.conversations.strict.threading.label "Strenges Threading nach Nachrichten-ID">
-<!ENTITY pb.conversations.re.threading.label "Thread by subject without Re:">
+<!ENTITY pb.conversations.strict.threading.label "Thema für Nachricht Betreff">
+<!ENTITY pb.conversations.strict.threading.accesskey "s">
+<!ENTITY pb.conversations.re.threading.label "Thema nach Thema ohne Re:">
 <!ENTITY pb.conversations.re.threading.accesskey "r">
 
 <!ENTITY pb.conversations.strict.threading.accesskey "s">

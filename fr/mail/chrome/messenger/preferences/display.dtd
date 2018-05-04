@@ -87,11 +87,11 @@
 
 <!ENTITY pb.conversations.enabled.label "Activer l’affichage de la conversation de tous les dossiers">
 <!ENTITY pb.conversations.enabled.accesskey "v">
-<!ENTITY pb.conversations.correct.threading.label "Fil par sujet">
+<!ENTITY pb.conversations.correct.threading.label "Thread par message ID">
 <!ENTITY pb.conversations.correct.threading.accesskey "T">
-<!ENTITY pb.conversations.strict.threading.label "Filetage strict par ID de message">
+<!ENTITY pb.conversations.strict.threading.label "Filtrer par sujet de message">
 <!ENTITY pb.conversations.strict.threading.accesskey "s">
-<!ENTITY pb.conversations.re.threading.label "Thread by subject without Re:">
+<!ENTITY pb.conversations.re.threading.label "Discussion par sujet sans Re:">
 <!ENTITY pb.conversations.re.threading.accesskey "r">
 
 <!ENTITY pb.conversations.read.label "Lors de l'affichage d'une conversation, marquer ses messages comme lus">

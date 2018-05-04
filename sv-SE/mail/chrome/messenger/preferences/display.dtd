@@ -87,11 +87,11 @@
 
 <!ENTITY pb.conversations.enabled.label "Aktivera konversationsvyn för alla mappar">
 <!ENTITY pb.conversations.enabled.accesskey "v">
-<!ENTITY pb.conversations.correct.threading.label "Ämne efter ämne">
+<!ENTITY pb.conversations.correct.threading.label "Tråd av meddelande-ID">
 <!ENTITY pb.conversations.correct.threading.accesskey "T">
-<!ENTITY pb.conversations.strict.threading.label "Strikt gängning med meddelande-ID">
+<!ENTITY pb.conversations.strict.threading.label "Ämne av meddelande ämne">
 <!ENTITY pb.conversations.strict.threading.accesskey "s">
-<!ENTITY pb.conversations.re.threading.label "Thread by subject without Re:">
+<!ENTITY pb.conversations.re.threading.label "Ämne med ämne utan Re:">
 <!ENTITY pb.conversations.re.threading.accesskey "r">
 
 <!ENTITY pb.conversations.read.label "Vid visning av ett samtal, markera dess meddelanden som lästa">

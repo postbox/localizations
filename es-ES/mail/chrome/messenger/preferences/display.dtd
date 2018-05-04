@@ -87,11 +87,11 @@
 
 <!ENTITY pb.conversations.enabled.label "Activar la vista de conversación de todas las carpetas">
 <!ENTITY pb.conversations.enabled.accesskey "v">
-<!ENTITY pb.conversations.correct.threading.label "Subproceso por tema">
+<!ENTITY pb.conversations.correct.threading.label "Subproceso por ID de mensaje">
 <!ENTITY pb.conversations.correct.threading.accesskey "T">
-<!ENTITY pb.conversations.strict.threading.label "Enhebrado estricto por ID de mensaje">
+<!ENTITY pb.conversations.strict.threading.label "Subproceso por tema del mensaje">
 <!ENTITY pb.conversations.strict.threading.accesskey "s">
-<!ENTITY pb.conversations.re.threading.label "Thread by subject without Re:">
+<!ENTITY pb.conversations.re.threading.label "Subproceso por tema sin Re:">
 <!ENTITY pb.conversations.re.threading.accesskey "r">
 
 <!ENTITY pb.conversations.read.label "Al mostrar una conversación, marcar sus mensajes como leídos">
