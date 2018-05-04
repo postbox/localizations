@@ -53,8 +53,10 @@
 <!ENTITY directoriesNone.label                 "Ingen">
 <!ENTITY editDirectories.label                 "Redigera kataloger…">
 <!ENTITY editDirectories.accesskey             "R">
-<!ENTITY explodeLists.label                    "Expand mailing list addreses">
+<!ENTITY explodeLists.label                    "Expand adresslista adresser">
 <!ENTITY explodeLists.accesskey                "X">
+<!ENTITY showEmailAddress.label                "Visa fullständig e-postadress">
+<!ENTITY showEmailAddress.accesskey            "F">
 
 <!ENTITY contactsSidebarDisplay.label          "Sidofält visar:">
 <!ENTITY contactsSidebarDisplay.accesskey      "S">
