@@ -37,6 +37,8 @@
 <!ENTITY play.label                       "Riproduci">
 <!ENTITY play.accesskey                   "A">
 <!ENTITY systemsound.label                "Suono predefinito di sistema per nuova e-mail">
+<!ENTITY systemsoundMac.label             "Suono di avviso di sistema">
+<!ENTITY systemsoundMac.accesskey         "p">
 <!ENTITY systemsound.accesskey            "p">
 <!ENTITY customsound.label                "Utilizza il seguente file audio">
 <!ENTITY customsound.accesskey            "U">

@@ -37,6 +37,8 @@
 <!ENTITY play.label                       "Reproducir">
 <!ENTITY play.accesskey                   "R">
 <!ENTITY systemsound.label                "Sonido por defecto del sistema para nuevo correo">
+<!ENTITY systemsoundMac.label             "Sonido de alerta del sistema">
+<!ENTITY systemsoundMac.accesskey         "m">
 <!ENTITY systemsound.accesskey            "n">
 <!ENTITY customsound.label                "Usar el siguiente archivo de sonido">
 <!ENTITY customsound.accesskey            "U">

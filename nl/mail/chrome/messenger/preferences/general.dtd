@@ -37,6 +37,8 @@
 <!ENTITY play.label                       "Afspelen">
 <!ENTITY play.accesskey                   "f">
 <!ENTITY systemsound.label                "Standaard systeemgeluid voor nieuwe e-mail">
+<!ENTITY systemsoundMac.label             "Systeemalarmgeluid">
+<!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Het volgende geluidsbestand gebruiken">
 <!ENTITY customsound.accesskey            "v">
