@@ -37,3 +37,6 @@ con una o più delle opzioni per la risoluzione dei problemi selezionate:">
 
 <!ENTITY resetImapFolders.label           "Ripristina database e-mail IMAP">
 <!ENTITY resetImapFolders.accesskey       "b">
+
+<!ENTITY convertMailDir.label           "Convert maildir accounts to mbox">
+<!ENTITY convertMailDir.accesskey       "c">
