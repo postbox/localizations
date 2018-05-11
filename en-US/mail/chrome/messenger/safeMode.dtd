@@ -37,3 +37,6 @@ with one or more of these troubleshooting options selected:">
 
 <!ENTITY resetImapFolders.label           "Reset IMAP mail databases and Search Indexes">
 <!ENTITY resetImapFolders.accesskey       "b">
+
+<!ENTITY convertMailDir.label           "Convert maildir accounts to mbox">
+<!ENTITY convertMailDir.accesskey       "c">

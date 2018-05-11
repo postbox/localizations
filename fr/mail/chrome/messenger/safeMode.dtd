@@ -37,3 +37,6 @@ avec une ou plusieurs options de résolution des problèmes sélectionnées :">
 
 <!ENTITY resetImapFolders.label           "Réinitialiser la base de donnée d'addresses IMAP">
 <!ENTITY resetImapFolders.accesskey       "b">
+
+<!ENTITY convertMailDir.label           "Convert maildir accounts to mbox">
+<!ENTITY convertMailDir.accesskey       "c">
