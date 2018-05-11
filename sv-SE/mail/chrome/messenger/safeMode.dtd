@@ -38,5 +38,5 @@ with one or more of these trouble shooting options selected:">
 <!ENTITY resetImapFolders.label           "Återställ IMAP-databasen för e-post">
 <!ENTITY resetImapFolders.accesskey       "b">
 
-<!ENTITY convertMailDir.label           "Convert maildir accounts to mbox">
+<!ENTITY convertMailDir.label           "Konvertera maildir-konton till mbox">
 <!ENTITY convertMailDir.accesskey       "c">
