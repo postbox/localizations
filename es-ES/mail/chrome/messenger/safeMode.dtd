@@ -37,5 +37,5 @@
 <!ENTITY resetImapFolders.label           "Restablecer la base de datos del mail IMAP">
 <!ENTITY resetImapFolders.accesskey       "b">
 
-<!ENTITY convertMailDir.label           "Convert maildir accounts to mbox">
+<!ENTITY convertMailDir.label           "Convertir cuentas maildir en mbox">
 <!ENTITY convertMailDir.accesskey       "c">

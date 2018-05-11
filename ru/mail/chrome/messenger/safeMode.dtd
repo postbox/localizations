@@ -38,5 +38,5 @@
 <!ENTITY resetImapFolders.label           "Сбросить параметры базы данных почты IMAP">
 <!ENTITY resetImapFolders.accesskey       "b">
 
-<!ENTITY convertMailDir.label           "Convert maildir accounts to mbox">
+<!ENTITY convertMailDir.label           "Конвертировать учетные записи maildir в mbox">
 <!ENTITY convertMailDir.accesskey       "c">
