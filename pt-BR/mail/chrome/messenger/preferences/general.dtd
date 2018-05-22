@@ -37,6 +37,8 @@
 <!ENTITY play.label                       "Testar">
 <!ENTITY play.accesskey                   "T">
 <!ENTITY systemsound.label                "Som padrão do sistema para novas mensagens">
+<!ENTITY systemsoundMac.label             "Som de alerta do sistema">
+<!ENTITY systemsoundMac.accesskey         "S">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Usar este arquivo de som:">
 <!ENTITY customsound.accesskey            "U">

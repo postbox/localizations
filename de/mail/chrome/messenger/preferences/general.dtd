@@ -37,6 +37,8 @@
 <!ENTITY play.label                       "Probe hören">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "Systemklang für neue Nachrichten">
+<!ENTITY systemsoundMac.label             "System-Warnton">
+<!ENTITY systemsoundMac.accesskey         "S">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Benutzerdefinierter Klang">
 <!ENTITY customsound.accesskey            "e">

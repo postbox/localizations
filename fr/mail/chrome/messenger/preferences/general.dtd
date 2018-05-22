@@ -37,6 +37,8 @@
 <!ENTITY play.label                       "Jouer le son">
 <!ENTITY play.accesskey                   "o">
 <!ENTITY systemsound.label                "Son système pour « nouveau message »">
+<!ENTITY systemsoundMac.label             "Son d'alerte système">
+<!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Utiliser le fichier son suivant:">
 <!ENTITY customsound.accesskey            "U">

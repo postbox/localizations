@@ -37,6 +37,8 @@
 <!ENTITY play.label                       "Прослушать">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "Системный звуковой сигнал для новой почты">
+<!ENTITY systemsoundMac.label             "Системный звуковой сигнал уведомления">
+<!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Использовать следующий звуковой файл">
 <!ENTITY customsound.accesskey            "U">
