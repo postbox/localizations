@@ -48,7 +48,7 @@
 <!ENTITY markMessageAs.label "Marquer le message comme">
 <!ENTITY setPriority.label "Définir la priorité à">
 <!ENTITY addTag.label "Étiqueter le message">
-<!ENTITY removeTag.label "Supprimer le sujet">
+<!ENTITY removeTag.label "Supprimer l'étiquette">
 <!ENTITY setJunkScore.label "Définir le statut indésirable à">
 <!ENTITY deleteMessage.label "Supprimer le message">
 <!ENTITY deleteFromPOP.label "Supprimer du serveur POP">
