@@ -291,7 +291,7 @@
 <!ENTITY pbAccountTreeContextMenu-settings.accesskey "i">
 
 <!-- thread pane -->
-<!ENTITY threadPaneNoMatchesFound.desc "Inga meddelanden matchade din sökningh.">
+<!ENTITY threadPaneNoMatchesFound.desc "Inga meddelanden matchade din sökning.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFolders.desc "Försök genom att kolla i alla mappar.">
 <!ENTITY threadPaneNoMatchesSuggestionAllFocus.desc "Försök genom att sätta Fokus på alla.">
 <!ENTITY threadPaneNoMatchesSuggestionAllMessages.desc "Försök genom att ställa in din v på meddelanden.">
