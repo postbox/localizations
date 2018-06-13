@@ -55,7 +55,7 @@
 <!ENTITY fetchFromPOP.label "Preleva dal server POP">
 <!ENTITY ignoreThread.label "Ignora la discussione">
 <!ENTITY ignoreSubthread.label "Ignora le sotto discussioni">
-<!ENTITY watchThread.label "Guaarda la discussione">
+<!ENTITY watchThread.label "Guarda la discussione">
 <!ENTITY stopExecution.label "Interrompi l'esecuzione dei filtri">
 <!ENTITY launchScript.label "Esegui AppleScript">
 
