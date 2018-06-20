@@ -632,7 +632,7 @@
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "Buscar mensajes…">
 <!ENTITY folderContextSearchForMessages.accesskey "B">
-<!ENTITY folderContextProperties2.label "Propiedades">
+<!ENTITY folderContextProperties2.label "Propiedades...">
 <!ENTITY folderContextProperties2.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Carpeta favorita">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
