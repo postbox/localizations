@@ -628,11 +628,11 @@
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
 <!ENTITY folderContextMarkMailFolderRead.label "Пометить папку как прочитанную">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
-<!ENTITY folderContextSubscribe.label "Подписаться…">
+<!ENTITY folderContextSubscribe.label "Подписаться...">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchForMessages.label "Поиск сообщений…">
+<!ENTITY folderContextSearchForMessages.label "Поиск сообщений...">
 <!ENTITY folderContextSearchForMessages.accesskey "и">
-<!ENTITY folderContextProperties2.label "Свойства">
+<!ENTITY folderContextProperties2.label "Свойства...">
 <!ENTITY folderContextProperties2.accesskey "в">
 <!ENTITY folderContextFavoriteFolder.label "Избранная папка">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">

@@ -606,7 +606,7 @@
 <!ENTITY folderContextOpenInNewWindow.accesskey "p">
 <!ENTITY folderContextOpenNewTab.label "Öppna i ny flik">
 <!ENTITY folderContextOpenNewTab.accesskey "n">
-<!ENTITY folderContextNewSubfolder.label "Ny undermapp…">
+<!ENTITY folderContextNewSubfolder.label "Ny undermapp...">
 <!ENTITY folderContextNewSubfolder.accesskey "N">
 <!ENTITY folderContextNewFolder.label "Ny mapp...">
 <!ENTITY folderContextNewFolder.accesskey "F">
@@ -628,11 +628,11 @@
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "M">
 <!ENTITY folderContextMarkMailFolderRead.label "Märk mapp som läst">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
-<!ENTITY folderContextSubscribe.label "Prenumerera…">
+<!ENTITY folderContextSubscribe.label "Prenumerera...">
 <!ENTITY folderContextSubscribe.accesskey "P">
-<!ENTITY folderContextSearchForMessages.label "Sök meddelanden…">
+<!ENTITY folderContextSearchForMessages.label "Sök meddelanden...">
 <!ENTITY folderContextSearchForMessages.accesskey "S">
-<!ENTITY folderContextProperties2.label "Egenskaper">
+<!ENTITY folderContextProperties2.label "Egenskaper...">
 <!ENTITY folderContextProperties2.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favoritmapp">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">

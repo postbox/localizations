@@ -630,9 +630,9 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "d">
 <!ENTITY folderContextSubscribe.label "Abonnieren…">
 <!ENTITY folderContextSubscribe.accesskey "A">
-<!ENTITY folderContextSearchForMessages.label "Nachrichten suchen…">
+<!ENTITY folderContextSearchForMessages.label "Nachrichten suchen...">
 <!ENTITY folderContextSearchForMessages.accesskey "s">
-<!ENTITY folderContextProperties2.label "Eigenschaften">
+<!ENTITY folderContextProperties2.label "Eigenschaften...">
 <!ENTITY folderContextProperties2.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favoriten-Ordner">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">

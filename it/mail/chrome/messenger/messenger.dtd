@@ -628,11 +628,11 @@
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "c">
 <!ENTITY folderContextMarkMailFolderRead.label "Contrassegna cartella come letta">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
-<!ENTITY folderContextSubscribe.label "Iscriviti…">
+<!ENTITY folderContextSubscribe.label "Iscriviti...">
 <!ENTITY folderContextSubscribe.accesskey "v">
-<!ENTITY folderContextSearchForMessages.label "Cerca messaggi…">
+<!ENTITY folderContextSearchForMessages.label "Cerca messaggi...">
 <!ENTITY folderContextSearchForMessages.accesskey "C">
-<!ENTITY folderContextProperties2.label "Proprietà">
+<!ENTITY folderContextProperties2.label "Proprietà...">
 <!ENTITY folderContextProperties2.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Cartella preferita">
 <!ENTITY folderContextFavoriteFolder.accesskey "f">
