@@ -22,7 +22,7 @@ with one or more of these trouble shooting options selected:">
 <!ENTITY resetCacheAndIndex.label         "Återställ cachar och sökindex">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
 
-<!ENTITY safeMode.label                   "Säkert läge (avaktivera alla tillägg och egna inställningar temporärt)">
+<!ENTITY safeMode.label                   "Säkert läge">
 <!ENTITY safeMode.accesskey               "M">
 
 <!ENTITY profileManager.label                   "Öppna profilhanteraren vid omstart">

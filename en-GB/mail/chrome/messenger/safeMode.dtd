@@ -7,10 +7,10 @@
 
 
 <!ENTITY safeModeOptionsWindow.width       "width: 49em;">
-<!ENTITY safeModeOptionsDialog.title       "&brandShortName; Trouble Shooting">
+<!ENTITY safeModeOptionsDialog.title       "&brandShortName; Troubleshooting">
 
 <!ENTITY safeModeOptionsDescription2.label "If you are experiencing difficulty with Postbox, try restarting
-with one or more of these trouble shooting options selected:">
+with one or more of these troubleshooting options selected:">
 
 
 <!ENTITY disableAddons.label              "Permanently Disable all Add-ons">
@@ -22,7 +22,7 @@ with one or more of these trouble shooting options selected:">
 <!ENTITY resetCacheAndIndex.label         "Reset Caches and Search Index">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
 
-<!ENTITY safeMode.label                   "Safe Mode (temporarily disables all Add-ons and custom settings)">
+<!ENTITY safeMode.label                   "Safe Mode (temporarily disables custom settings)">
 <!ENTITY safeMode.accesskey               "M">
 
 <!ENTITY profileManager.label                   "Open Profile Manager on Restart">
@@ -35,7 +35,7 @@ with one or more of these trouble shooting options selected:">
 
 <!ENTITY safeModeDialogHelpButton.tooltip "Display online help for this dialog">
 
-<!ENTITY resetImapFolders.label           "Reset IMAP mail database">
+<!ENTITY resetImapFolders.label           "Reset IMAP mail databases and Search Indexes">
 <!ENTITY resetImapFolders.accesskey       "b">
 
 <!ENTITY convertMailDir.label           "Convert maildir accounts to mbox">

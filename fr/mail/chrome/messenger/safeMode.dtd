@@ -22,7 +22,7 @@ avec une ou plusieurs options de résolution des problèmes sélectionnées :">
 <!ENTITY resetCacheAndIndex.label         "Réinitialiser le cache et l'index de recherche">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
 
-<!ENTITY safeMode.label                   "Mode sans échec (désactive temporairement toutes les Extensions et les paramètres personnalisés)">
+<!ENTITY safeMode.label                   "Mode sans échec">
 <!ENTITY safeMode.accesskey               "M">
 
 <!ENTITY profileManager.label                   "Ouvrir le gestionnaire de profil au redémarrage.">

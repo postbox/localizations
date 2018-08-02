@@ -22,7 +22,7 @@ con una o più delle opzioni per la risoluzione dei problemi selezionate:">
 <!ENTITY resetCacheAndIndex.label         "Ripristina cache e indice ricerca">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
 
-<!ENTITY safeMode.label                   "Modalità sicura (disabilita temporaneamente tutti i Componenti aggiuntivi e le impostazioni personalizzate)">
+<!ENTITY safeMode.label                   "Modalità sicura">
 <!ENTITY safeMode.accesskey               "M">
 
 <!ENTITY profileManager.label                   "Apri Gestore profilo al Riavvio">

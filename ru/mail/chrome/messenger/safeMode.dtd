@@ -22,7 +22,7 @@
 <!ENTITY resetCacheAndIndex.label         "Сбросить параметры кэша и поискового индекса">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
 
-<!ENTITY safeMode.label                   "Безопасный режим (временное отключение всех дополнений и пользовательских параметров)">
+<!ENTITY safeMode.label                   "Безопасный режим">
 <!ENTITY safeMode.accesskey               "M">
 
 <!ENTITY profileManager.label                   "Открыть «Диспетчер профилей» после перезапуска">

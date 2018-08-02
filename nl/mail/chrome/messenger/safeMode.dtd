@@ -21,7 +21,7 @@
 <!ENTITY resetCacheAndIndex.label         "Reset caches en zoekindex">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
 
-<!ENTITY safeMode.label                   "Veilige Modus (schakelt tijdelijk alle Add-ons en aangepaste instellingen uit.)">
+<!ENTITY safeMode.label                   "Veilige Modus">
 <!ENTITY safeMode.accesskey               "M">
 
 <!ENTITY profileManager.label                   "Open Profielmanager bij herstarten">

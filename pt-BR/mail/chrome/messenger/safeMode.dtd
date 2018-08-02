@@ -21,7 +21,7 @@
 <!ENTITY resetCacheAndIndex.label         "Apagar os dados temporários e o índice de pesquisas">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
 
-<!ENTITY safeMode.label                   "Modo Seguro (desabilita temporariamente todos os Add-ons e as configurações personalizadas)">
+<!ENTITY safeMode.label                   "Modo Seguro">
 <!ENTITY safeMode.accesskey               "M">
 
 <!ENTITY profileManager.label                   "Abrir o Gerenciador de Perfis ao reiniciar">
