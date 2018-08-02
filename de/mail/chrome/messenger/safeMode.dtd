@@ -21,7 +21,7 @@
 <!ENTITY resetCacheAndIndex.label         "Caches und Suchindex zurücksetzen">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
 
-<!ENTITY safeMode.label                   "Sicherungsmodus (deaktiviert temporär alle Erweiterungen und benutzerdefinierten Einstellungen)">
+<!ENTITY safeMode.label                   "Sicherungsmodus">
 <!ENTITY safeMode.accesskey               "M">
 
 <!ENTITY profileManager.label                   "Profil Manager beim Start öffnen">

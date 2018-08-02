@@ -21,7 +21,7 @@
 <!ENTITY resetCacheAndIndex.label         "Restablecer cachés e índice de búsquedas">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
 
-<!ENTITY safeMode.label                   "Modo seguro (desactiva temporalmente todos los complementos y la configuración personalizada)">
+<!ENTITY safeMode.label                   "Modo seguro">
 <!ENTITY safeMode.accesskey               "M">
 
 <!ENTITY profileManager.label                   "Abrir el Administrador de perfiles al reiniciar">

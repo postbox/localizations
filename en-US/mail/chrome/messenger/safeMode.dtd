@@ -22,7 +22,7 @@ with one or more of these troubleshooting options selected:">
 <!ENTITY resetCacheAndIndex.label         "Reset Caches and Search Index">
 <!ENTITY resetCacheAndIndex.accesskey     "I">
 
-<!ENTITY safeMode.label                   "Safe Mode (temporarily disables all Add-ons and custom settings)">
+<!ENTITY safeMode.label                   "Safe Mode (temporarily disables custom settings)">
 <!ENTITY safeMode.accesskey               "M">
 
 <!ENTITY profileManager.label                   "Open Profile Manager on Restart">
