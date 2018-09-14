@@ -53,9 +53,9 @@
 <!ENTITY directoriesNone.label                 "None">
 <!ENTITY editDirectories.label                 "Edit Directories...">
 <!ENTITY editDirectories.accesskey             "E">
-<!ENTITY explodeLists.label                    "Expand mailing list addreses">
+<!ENTITY explodeLists.label                    "Expand mailing list addresses">
 <!ENTITY explodeLists.accesskey                "X">
-<!ENTITY showEmailAddress.label                "Show full email addreses">
+<!ENTITY showEmailAddress.label                "Show full email addresses">
 <!ENTITY showEmailAddress.accesskey            "F">
 
 <!ENTITY contactsSidebarDisplay.label          "Contacts Sidebar displays:">
