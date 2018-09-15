@@ -438,7 +438,7 @@
 <!ENTITY savedFiles.label "Archivos guardados">
 <!ENTITY savedFiles.accesskey "h">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd2.label "Filtros de mensajes">
+<!ENTITY filtersCmd2.label "Filtros de mensajes...">
 <!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Ejecutar filtros en la carpeta">
 <!ENTITY filtersApply.accesskey "r">

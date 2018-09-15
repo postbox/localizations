@@ -438,7 +438,7 @@
 <!ENTITY savedFiles.label "Gespeicherte Dateien">
 <!ENTITY savedFiles.accesskey "D">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd2.label "Filter">
+<!ENTITY filtersCmd2.label "Filter...">
 <!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Filter auf Ordner anwenden">
 <!ENTITY filtersApply.accesskey "O">

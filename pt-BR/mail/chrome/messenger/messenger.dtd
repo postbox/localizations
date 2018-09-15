@@ -438,7 +438,7 @@
 <!ENTITY savedFiles.label "Arquivos salvos">
 <!ENTITY savedFiles.accesskey "u">
 <!ENTITY savedFiles.key "J">
-<!ENTITY filtersCmd2.label "Filtros de mensagens">
+<!ENTITY filtersCmd2.label "Filtros de mensagens...">
 <!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Aplicar filtros na pasta">
 <!ENTITY filtersApply.accesskey "t">

@@ -438,7 +438,7 @@
 <!ENTITY savedFiles.label "Opgeslagen bestanden">
 <!ENTITY savedFiles.accesskey "n">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd2.label "Berichtenfilters">
+<!ENTITY filtersCmd2.label "Berichtenfilters...">
 <!ENTITY filtersCmd2.accesskey "B">
 <!ENTITY filtersApply.label "Filters toepassen op map">
 <!ENTITY filtersApply.accesskey "t">
