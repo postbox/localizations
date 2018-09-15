@@ -438,7 +438,7 @@
 <!ENTITY savedFiles.label "Sparade filer">
 <!ENTITY savedFiles.accesskey "S">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd2.label "Meddelandefilter">
+<!ENTITY filtersCmd2.label "Meddelandefilter...">
 <!ENTITY filtersCmd2.accesskey "M">
 <!ENTITY filtersApply.label "Kör filter på mapp">
 <!ENTITY filtersApply.accesskey "K">

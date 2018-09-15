@@ -438,7 +438,7 @@
 <!ENTITY savedFiles.label "Сохранённые файлы">
 <!ENTITY savedFiles.accesskey "х">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd2.label "Фильтры сообщений">
+<!ENTITY filtersCmd2.label "Фильтры сообщений...">
 <!ENTITY filtersCmd2.accesskey "и">
 <!ENTITY filtersApply.label "Применить фильтры к папке">
 <!ENTITY filtersApply.accesskey "R">

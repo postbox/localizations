@@ -438,7 +438,7 @@
 <!ENTITY savedFiles.label "Fichiers enregistrés">
 <!ENTITY savedFiles.accesskey "F">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd2.label "Filtres de messages">
+<!ENTITY filtersCmd2.label "Filtres de messages...">
 <!ENTITY filtersCmd2.accesskey "t">
 <!ENTITY filtersApply.label "Appliquer les filtres sur le dossier">
 <!ENTITY filtersApply.accesskey "l">
