@@ -57,6 +57,8 @@
 <!ENTITY explodeLists.accesskey                "X">
 <!ENTITY showEmailAddress.label                "Afficher l'adresse e-mail complète">
 <!ENTITY showEmailAddress.accesskey            "F">
+<!ENTITY ignoreReplyToforLists.label           "Ignorer l'en-tête de réponse pour les listes de diffusion">
+<!ENTITY ignoreReplyToforLists.accesskey       "H">
 
 <!ENTITY contactsSidebarDisplay.label          "Affiche la barre latérale:">
 <!ENTITY contactsSidebarDisplay.accesskey      "S">

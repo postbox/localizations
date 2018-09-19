@@ -57,6 +57,8 @@
 <!ENTITY explodeLists.accesskey                "X">
 <!ENTITY showEmailAddress.label                "Show full email addresses">
 <!ENTITY showEmailAddress.accesskey            "F">
+<!ENTITY ignoreReplyToforLists.label           "Ignore Reply-to header for mailing lists">
+<!ENTITY ignoreReplyToforLists.accesskey       "H">
 
 <!ENTITY contactsSidebarDisplay.label          "Contacts Sidebar displays:">
 <!ENTITY contactsSidebarDisplay.accesskey      "S">

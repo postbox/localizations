@@ -57,6 +57,8 @@
 <!ENTITY explodeLists.accesskey                "X">
 <!ENTITY showEmailAddress.label                "Zeigen Sie die vollständige E-Mail Adresse an">
 <!ENTITY showEmailAddress.accesskey            "F">
+<!ENTITY ignoreReplyToforLists.label           "Ignoriere Antwort-zu-Header für Mailing-Listen">
+<!ENTITY ignoreReplyToforLists.accesskey       "H">
 
 <!ENTITY contactsSidebarDisplay.label          "Sidebar angezeigt:">
 <!ENTITY contactsSidebarDisplay.accesskey      "S">
