@@ -57,6 +57,8 @@
 <!ENTITY explodeLists.accesskey                "X">
 <!ENTITY showEmailAddress.label                "Показать полный адрес электронной почты">
 <!ENTITY showEmailAddress.accesskey            "F">
+<!ENTITY ignoreReplyToforLists.label           "Игнорировать заголовок ответа для списков рассылки">
+<!ENTITY ignoreReplyToforLists.accesskey       "H">
 
 <!ENTITY contactsSidebarDisplay.label          "Боковая панель:">
 <!ENTITY contactsSidebarDisplay.accesskey      "S">
