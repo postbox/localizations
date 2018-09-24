@@ -379,5 +379,11 @@
 <!ENTITY pbFolderPaneSlider.label "Ocultar">
 
 <!ENTITY pbFavoritesBarContextMenu-remove.label "Remover dos favoritos">
-<!ENTITY pbMessagePaneContext-copyMessageLink.label "Copy Message Link">
+<!ENTITY pbMessagePaneContext-copyMessageLink.label "Copiar Link de Mensagem">
 <!ENTITY pbMessagePaneContext-copyMessageLink.accesskey "l">
+
+<!ENTITY themeButton.label "Tema">
+<!ENTITY themeButton.tooltip "Trocar tema">
+<!ENTITY themeDefaultMenu.label "Padrão">
+<!ENTITY themeLightMenu.label "Luz">
+<!ENTITY themeDarkMenu.label "Sombrio">

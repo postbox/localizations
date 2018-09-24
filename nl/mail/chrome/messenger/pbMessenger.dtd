@@ -381,3 +381,9 @@
 <!ENTITY pbFavoritesBarContextMenu-remove.label "Verwijderen uit favorieten">
 <!ENTITY pbMessagePaneContext-copyMessageLink.label "Copy Message Link">
 <!ENTITY pbMessagePaneContext-copyMessageLink.accesskey "l">
+
+<!ENTITY themeButton.label "Thema">
+<!ENTITY themeButton.tooltip "Wissel van thema">
+<!ENTITY themeDefaultMenu.label "Standaard">
+<!ENTITY themeLightMenu.label "Licht">
+<!ENTITY themeDarkMenu.label "Donker">
