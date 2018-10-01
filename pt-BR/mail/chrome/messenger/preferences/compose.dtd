@@ -115,6 +115,7 @@
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
 <!ENTITY pbSendAndArchive.label "Habilitar a opção enviar e arquivar">
+<!ENTITY pbSendInBackground.label "Envie em segundo plano">
 <!ENTITY pbEnableDropbox.label "Enviar links ao anexar arquivos da sua pasta Dropbox">
 
 <!ENTITY pbSetCompositionGoals.label "Definir os objetivos da edição usando">

@@ -115,6 +115,7 @@
 <!ENTITY pbPlaySoundOnSend.accesskey "p">
 
 <!ENTITY pbSendAndArchive.label "Activeer verstuur en archiveer">
+<!ENTITY pbSendInBackground.label "Verstuur achtergrond">
 <!ENTITY pbEnableDropbox.label "Verstuur hyperlinks bij het toevoegen van bestanden uit uw Dropbox map">
 
 <!ENTITY pbSetCompositionGoals.label "Stel compositiedoelen in met">
