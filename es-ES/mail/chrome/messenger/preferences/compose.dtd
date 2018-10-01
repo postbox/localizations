@@ -115,6 +115,7 @@
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
 <!ENTITY pbSendAndArchive.label "Habilitar envío y archivar">
+<!ENTITY pbSendInBackground.label "Enviar en el fondo">
 <!ENTITY pbEnableDropbox.label "Envíe enlaces al adjuntar archivos en su carpeta de Dropbox">
 
 <!ENTITY pbSetCompositionGoals.label "Fijar objetivos de la composición usando">

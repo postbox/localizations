@@ -115,6 +115,7 @@
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
 <!ENTITY pbSendAndArchive.label "Aktivera skicka och arkivera">
+<!ENTITY pbSendInBackground.label "Skicka i bakgrunden">
 <!ENTITY pbEnableDropbox.label "Skicka länkar när du bifogar filer från din mapp för Dropbox">
 
 <!ENTITY pbSetCompositionGoals.label "Ställ in mål för komposition">

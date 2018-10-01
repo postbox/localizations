@@ -115,6 +115,7 @@
 <!ENTITY pbPlaySoundOnSend.accesskey "P">
 
 <!ENTITY pbSendAndArchive.label "Разрешить отправку и архивирование">
+<!ENTITY pbSendInBackground.label "Отправить в фоновом режиме">
 <!ENTITY pbEnableDropbox.label "Отправлять ссылки при вложении файлов из ваших облачных папок">
 
 <!ENTITY pbSetCompositionGoals.label "Установить ограничения для создания сообщений:">
