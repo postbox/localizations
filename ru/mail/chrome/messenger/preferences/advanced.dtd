@@ -177,3 +177,8 @@
 <!ENTITY expungeAfterDelete.label "IMAP стирать после удаления">
 <!ENTITY expungeAfterDelete.accesskey "X">
 
+<!ENTITY checkAllFoldersNew.label "Проверить все папки для новых сообщений">
+<!ENTITY checkAllFoldersNew.accesskey "n">
+
+<!ENTITY useStatusBiff.label "Загрузите все заголовки сообщений">
+<!ENTITY useStatusBiff.accesskey "h">
