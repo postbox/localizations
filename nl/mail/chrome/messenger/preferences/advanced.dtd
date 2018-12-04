@@ -177,3 +177,8 @@
 <!ENTITY expungeAfterDelete.label "IMAP Expunge na verwijderen">
 <!ENTITY expungeAfterDelete.accesskey "X">
 
+<!ENTITY checkAllFoldersNew.label "Controleer alle mappen op nieuwe berichten">
+<!ENTITY checkAllFoldersNew.accesskey "n">
+
+<!ENTITY useStatusBiff.label "Download alle berichtkoppen">
+<!ENTITY useStatusBiff.accesskey "h">

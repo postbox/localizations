@@ -177,3 +177,8 @@
 <!ENTITY expungeAfterDelete.label "IMAP expurgar depois delete">
 <!ENTITY expungeAfterDelete.accesskey "X">
 
+<!ENTITY checkAllFoldersNew.label "Verificar todas as pastas para novas mensagens">
+<!ENTITY checkAllFoldersNew.accesskey "n">
+
+<!ENTITY useStatusBiff.label "Baixe todos os cabeçalhos das mensagens">
+<!ENTITY useStatusBiff.accesskey "h">

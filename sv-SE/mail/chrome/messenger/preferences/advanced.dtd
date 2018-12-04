@@ -177,3 +177,8 @@
 <!ENTITY expungeAfterDelete.label "IMAP-utplåna efter delete">
 <!ENTITY expungeAfterDelete.accesskey "X">
 
+<!ENTITY checkAllFoldersNew.label "Kontrollera alla mappar för nya meddelanden">
+<!ENTITY checkAllFoldersNew.accesskey "n">
+
+<!ENTITY useStatusBiff.label "Ladda ner alla meddelandehuvud">
+<!ENTITY useStatusBiff.accesskey "h">
