@@ -388,5 +388,5 @@
 <!ENTITY themeLightMenu.label "Легкий">
 <!ENTITY themeDarkMenu.label "Темно">
 
-<!ENTITY downloadThisFolder.label "Download This Folder">
+<!ENTITY downloadThisFolder.label "Загрузите эту папку">
 <!ENTITY downloadThisFolder.accesskey "d">
