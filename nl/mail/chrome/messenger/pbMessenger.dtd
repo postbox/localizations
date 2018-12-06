@@ -387,3 +387,6 @@
 <!ENTITY themeDefaultMenu.label "Standaard">
 <!ENTITY themeLightMenu.label "Licht">
 <!ENTITY themeDarkMenu.label "Donker">
+
+<!ENTITY downloadThisFolder.label "Download deze map">
+<!ENTITY downloadThisFolder.accesskey "d">

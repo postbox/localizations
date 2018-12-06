@@ -387,3 +387,6 @@
 <!ENTITY themeDefaultMenu.label "Predefinito">
 <!ENTITY themeLightMenu.label "Leggero">
 <!ENTITY themeDarkMenu.label "Buio">
+
+<!ENTITY downloadThisFolder.label "Scarica questa cartella">
+<!ENTITY downloadThisFolder.accesskey "d">
