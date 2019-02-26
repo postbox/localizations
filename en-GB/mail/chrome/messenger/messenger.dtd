@@ -14,7 +14,7 @@
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY closeTabCmd.label "Close Tab">
 <!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY newVirtualFolderCmd.label "Saved Search…">
+<!ENTITY newVirtualFolderCmd.label "Smart Folder…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY addRSSAccountButton.label "RSS Account…">
 <!ENTITY addRSSAccountButton.accesskey "R">
