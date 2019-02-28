@@ -51,6 +51,7 @@
 <!ENTITY showCondensedAddresses.accesskey "V">
 <!ENTITY alwaysShowTime.label             "Alltid visa tiden i meddelandelistan">
 <!ENTITY alwaysShowTime.accesskey         "L">
+<!ENTITY displayTextInline.label          "Visa textfiler inline">
 
 <!ENTITY autoMarkAsRead.label             "Märk automatiskt meddelanden som lästa">
 <!ENTITY autoMarkAsRead.accesskey         "M">

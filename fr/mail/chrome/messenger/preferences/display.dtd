@@ -51,6 +51,7 @@
 <!ENTITY showCondensedAddresses.accesskey "N">
 <!ENTITY alwaysShowTime.label             "Toujours afficher le temps dans la liste des messages">
 <!ENTITY alwaysShowTime.accesskey         "L">
+<!ENTITY displayTextInline.label          "Afficher les pièces jointes en ligne">
 
 <!ENTITY autoMarkAsRead.label             "Marquer automatiquement les messages comme lus">
 <!ENTITY autoMarkAsRead.accesskey         "M">

@@ -51,6 +51,7 @@
 <!ENTITY showCondensedAddresses.accesskey "V">
 <!ENTITY alwaysShowTime.label             "Altijd tijd weergeven in de berichtenlijst">
 <!ENTITY alwaysShowTime.accesskey         "L">
+<!ENTITY displayTextInline.label          "Toon tekstbijlagen inline">
 
 <!ENTITY autoMarkAsRead.label             "Berichten automatisch als gelezen markeren">
 <!ENTITY autoMarkAsRead.accesskey         "B">
