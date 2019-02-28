@@ -174,11 +174,8 @@
 <!ENTITY pbOpenFolderPane.label "Apri Pannello cartella">
 <!ENTITY pbCloseFolderPane.label "Chiudi Pannello cartella">
 
-<!ENTITY expungeAfterDelete.label "IMAP Expunge dopo l'eliminazione">
+<!ENTITY expungeAfterDelete.label "IMAP Expunge">
 <!ENTITY expungeAfterDelete.accesskey "X">
-
-<!ENTITY checkAllFoldersNew.label "Controlla tutte le cartelle per i nuovi messaggi">
-<!ENTITY checkAllFoldersNew.accesskey "n">
 
 <!ENTITY useStatusBiff.label "Scarica tutte le intestazioni dei messaggi">
 <!ENTITY useStatusBiff.accesskey "h">
