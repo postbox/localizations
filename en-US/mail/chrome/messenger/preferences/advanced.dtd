@@ -174,11 +174,8 @@
 <!ENTITY pbOpenFolderPane.label "Open Folder Pane">
 <!ENTITY pbCloseFolderPane.label "Close Folder Pane">
 
-<!ENTITY expungeAfterDelete.label "IMAP Expunge after delete">
+<!ENTITY expungeAfterDelete.label "IMAP Expunge">
 <!ENTITY expungeAfterDelete.accesskey "X">
-
-<!ENTITY checkAllFoldersNew.label "Check all folders for new messages">
-<!ENTITY checkAllFoldersNew.accesskey "n">
 
 <!ENTITY useStatusBiff.label "Download all message headers">
 <!ENTITY useStatusBiff.accesskey "h">

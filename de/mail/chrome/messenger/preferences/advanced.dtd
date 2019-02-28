@@ -174,11 +174,8 @@
 <!ENTITY pbOpenFolderPane.label "Ordner-Fach öffnen">
 <!ENTITY pbCloseFolderPane.label "Ordner-Ablage schließen">
 
-<!ENTITY expungeAfterDelete.label "IMAP tilgen nach löschen">
+<!ENTITY expungeAfterDelete.label "IMAP löschen">
 <!ENTITY expungeAfterDelete.accesskey "X">
-
-<!ENTITY checkAllFoldersNew.label "Überprüfen Sie alle Ordner auf neue Nachrichten">
-<!ENTITY checkAllFoldersNew.accesskey "n">
 
 <!ENTITY useStatusBiff.label "Laden Sie alle Nachrichtenkopfzeilen herunter">
 <!ENTITY useStatusBiff.accesskey "h">

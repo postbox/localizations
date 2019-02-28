@@ -174,11 +174,8 @@
 <!ENTITY pbOpenFolderPane.label "Ouvrez le panneau de dossier">
 <!ENTITY pbCloseFolderPane.label "Fermez le panneau de dossier">
 
-<!ENTITY expungeAfterDelete.label "IMAP Expunge après suppression">
+<!ENTITY expungeAfterDelete.label "Effacement IMAP">
 <!ENTITY expungeAfterDelete.accesskey "X">
-
-<!ENTITY checkAllFoldersNew.label "Vérifier tous les dossiers pour les nouveaux messages">
-<!ENTITY checkAllFoldersNew.accesskey "n">
 
 <!ENTITY useStatusBiff.label "Télécharger tous les en-têtes de message">
 <!ENTITY useStatusBiff.accesskey "h">

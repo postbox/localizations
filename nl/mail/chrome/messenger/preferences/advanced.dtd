@@ -174,11 +174,8 @@
 <!ENTITY pbOpenFolderPane.label "Open Mappenpaneel">
 <!ENTITY pbCloseFolderPane.label "Sluit Mappenpaneel">
 
-<!ENTITY expungeAfterDelete.label "IMAP Expunge na verwijderen">
+<!ENTITY expungeAfterDelete.label "IMAP Expunge">
 <!ENTITY expungeAfterDelete.accesskey "X">
-
-<!ENTITY checkAllFoldersNew.label "Controleer alle mappen op nieuwe berichten">
-<!ENTITY checkAllFoldersNew.accesskey "n">
 
 <!ENTITY useStatusBiff.label "Download alle berichtkoppen">
 <!ENTITY useStatusBiff.accesskey "h">
