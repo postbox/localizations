@@ -51,6 +51,7 @@
 <!ENTITY showCondensedAddresses.accesskey "к">
 <!ENTITY alwaysShowTime.label             "Всегда показывать время в списке сообщений">
 <!ENTITY alwaysShowTime.accesskey         "L">
+<!ENTITY displayTextInline.label          "Отображать текстовые вложения встроенными">
 
 <!ENTITY autoMarkAsRead.label "Автоматически отмечать сообщения как прочитанные">
 <!ENTITY autoMarkAsRead.accesskey "в">

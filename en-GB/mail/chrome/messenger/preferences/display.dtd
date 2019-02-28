@@ -51,6 +51,7 @@
 <!ENTITY showCondensedAddresses.accesskey "S">
 <!ENTITY alwaysShowTime.label             "Always show time in message list">
 <!ENTITY alwaysShowTime.accesskey         "L">
+<!ENTITY displayTextInline.label          "Show text attachments inline">
 
 <!ENTITY autoMarkAsRead.label             "Automatically mark messages as read">
 <!ENTITY autoMarkAsRead.accesskey         "A">
