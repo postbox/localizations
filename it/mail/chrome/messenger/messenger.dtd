@@ -350,15 +350,6 @@
 <!ENTITY moveToFolderAgain.label "Sposta di nuovo">
 <!ENTITY moveToFolderAgain.accesskey "d">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "Ignora la discussione">
-<!ENTITY killThreadMenu.accesskey "o">
-<!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignora sotto discussioni">
-<!ENTITY killSubthreadMenu.accesskey "S">
-<!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "Guarda la discussione">
-<!ENTITY watchThreadMenu.accesskey "o">
-<!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "Etichetta">
 <!ENTITY tagMenu.accesskey "h">
 <!ENTITY tagCmd0.key "0">
