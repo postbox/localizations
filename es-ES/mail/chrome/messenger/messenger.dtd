@@ -350,15 +350,6 @@
 <!ENTITY moveToFolderAgain.label "Mover de nuevo">
 <!ENTITY moveToFolderAgain.accesskey "d">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "Ignorar conversación">
-<!ENTITY killThreadMenu.accesskey "I">
-<!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignorar sub-conversación">
-<!ENTITY killSubthreadMenu.accesskey "S">
-<!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "Observar conversación">
-<!ENTITY watchThreadMenu.accesskey "O">
-<!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "Etiquetar">
 <!ENTITY tagMenu.accesskey "u">
 <!ENTITY tagCmd0.key "0">

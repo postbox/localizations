@@ -350,15 +350,6 @@
 <!ENTITY moveToFolderAgain.label "Flytta igen">
 <!ENTITY moveToFolderAgain.accesskey "t">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "Ignorera tråd">
-<!ENTITY killThreadMenu.accesskey "I">
-<!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignorera undertråd">
-<!ENTITY killSubthreadMenu.accesskey "å">
-<!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "Bevaka tråd">
-<!ENTITY watchThreadMenu.accesskey "B">
-<!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "Etikett">
 <!ENTITY tagMenu.accesskey "E">
 <!ENTITY tagCmd0.key "0">
