@@ -72,6 +72,8 @@
 <!ENTITY reuseExpRadio1.accesskey         "e">
 <!ENTITY closeMsgOnMoveOrDelete.label     "Chiudere la finestra/scheda del messaggio in caso sia spostato o cancellato">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
+<!ENTITY toggleTouchbarSendButton.label     "Nascondi pulsante Invia su Touch Bar">
+<!ENTITY toggleTouchbarSendButton.accesskey "S">
 
 <!ENTITY pb.messagelist.colortagrow.label "Applica il colore argomento all'intera riga nel pannello lista messaggi">
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">

@@ -72,6 +72,8 @@
 <!ENTITY reuseExpRadio1.accesskey "ж">
 <!ENTITY closeMsgOnMoveOrDelete.label "Закрывать окно/вкладку сообщения при его перемещении или удалении">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "к">
+<!ENTITY toggleTouchbarSendButton.label     "Скрыть кнопку отправки на сенсорной панели">
+<!ENTITY toggleTouchbarSendButton.accesskey "S">
 
 <!ENTITY pb.messagelist.colortagrow.label "Применить цвет метки ко всей строке в области списка сообщений">
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">

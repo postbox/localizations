@@ -72,6 +72,8 @@
 <!ENTITY reuseExpRadio1.accesskey         "J">
 <!ENTITY closeMsgOnMoveOrDelete.label     "Ao mover ou excluir, fechar aba/janela da mensagem">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
+<!ENTITY toggleTouchbarSendButton.label     "Ocultar botão Enviar na barra de toque">
+<!ENTITY toggleTouchbarSendButton.accesskey "S">
 
 <!ENTITY pb.messagelist.colortagrow.label "Aplicar a mesma cor do tópico a todas as mensagens presentes na mesma linha do painel de mensagens">
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">
