@@ -72,6 +72,8 @@
 <!ENTITY reuseExpRadio1.accesskey         "b">
 <!ENTITY closeMsgOnMoveOrDelete.label     "Stäng meddelandefönstret/fliken vid flyttning eller borttagning">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "S">
+<!ENTITY toggleTouchbarSendButton.label     "Dölj Skicka-knappen på Touch Bar">
+<!ENTITY toggleTouchbarSendButton.accesskey "S">
 
 <!ENTITY pb.messagelist.colortagrow.label "Tillämpa ämnesfärgen på hela raden i medddelandelistans panel">
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">

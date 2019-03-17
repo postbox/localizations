@@ -72,6 +72,8 @@
 <!ENTITY reuseExpRadio1.accesskey         "V">
 <!ENTITY closeMsgOnMoveOrDelete.label     "Nachrichtenfenster/-tab beim Verschieben oder Löschen schließen">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "h">
+<!ENTITY toggleTouchbarSendButton.label     "Sendebutton auf Touch Bar ausblenden">
+<!ENTITY toggleTouchbarSendButton.accesskey "S">
 
 <!ENTITY pb.messagelist.colortagrow.label "Die Themenfarbe auf die ganze Reihe im Mitteilungslistenbereich anwenden">
 <!ENTITY pb.messagelist.colortagrow.accesskey "g">

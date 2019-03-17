@@ -72,6 +72,8 @@
 <!ENTITY reuseExpRadio1.accesskey         "e">
 <!ENTITY closeMsgOnMoveOrDelete.label     "Berichtvenster/-tabblad sluiten bij verplaatsen of verwijderen">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "s">
+<!ENTITY toggleTouchbarSendButton.label     "Verberg knop Verzenden op Touch Bar">
+<!ENTITY toggleTouchbarSendButton.accesskey "S">
 
 <!ENTITY pb.messagelist.colortagrow.label "Pas de label-kleur toe op de hele rij in de berichtenlijst">
 <!ENTITY pb.messagelist.colortagrow.accesskey "P">
