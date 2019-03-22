@@ -350,6 +350,15 @@
 <!ENTITY moveToFolderAgain.label "Mover de novo">
 <!ENTITY moveToFolderAgain.accesskey "M">
 <!ENTITY moveToFolderAgainCmd.key "M">
+<!ENTITY killThreadMenu.label "Ignorar tópico">
+<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.key "K">
+<!ENTITY killSubthreadMenu.label "Ignorar subtópico">
+<!ENTITY killSubthreadMenu.accesskey "s">
+<!ENTITY killSubthreadMenu.key "K">
+<!ENTITY watchThreadMenu.label "Monitorar tópico">
+<!ENTITY watchThreadMenu.accesskey "p">
+<!ENTITY watchThreadMenu.key "W">
 <!ENTITY tagMenu.label "Aplicar tag">
 <!ENTITY tagMenu.accesskey "A">
 <!ENTITY tagCmd0.key "0">

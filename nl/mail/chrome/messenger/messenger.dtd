@@ -350,6 +350,15 @@
 <!ENTITY moveToFolderAgain.label "Opnieuw verplaatsen">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "Conversatie negeren">
+<!ENTITY killThreadMenu.accesskey "C">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Subconversatie negeren">
+<!ENTITY killSubthreadMenu.accesskey "u">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Conversatie volgen">
+<!ENTITY watchThreadMenu.accesskey "v">
+<!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "Labelen">
 <!ENTITY tagMenu.accesskey "L">
 <!ENTITY tagCmd0.key "0">
