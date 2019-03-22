@@ -350,6 +350,15 @@
 <!ENTITY moveToFolderAgain.label "Повторить перемещение">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "Пропустить обсуждение">
+<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Пропустить ветку обсуждения">
+<!ENTITY killSubthreadMenu.accesskey "п">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Отслеживать обсуждение">
+<!ENTITY watchThreadMenu.accesskey "W">
+<!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "Назначить метку">
 <!ENTITY tagMenu.accesskey "T">
 <!ENTITY tagCmd0.key "0">
