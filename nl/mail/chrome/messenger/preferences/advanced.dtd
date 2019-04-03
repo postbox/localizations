@@ -179,3 +179,6 @@
 
 <!ENTITY useStatusBiff.label "Download alle berichtkoppen">
 <!ENTITY useStatusBiff.accesskey "h">
+
+<!ENTITY autosyncOffline.label "Download alle berichtteksten">
+<!ENTITY autosyncOffline.accesskey "s">
