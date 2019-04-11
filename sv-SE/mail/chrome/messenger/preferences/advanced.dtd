@@ -33,6 +33,9 @@
 <!ENTITY connectionTimeout.label       "Tidsgränsen för anslutningen nåddes: ">
 <!ENTITY connectionTimeout.accesskey   "C">
 <!ENTITY connectionSeconds.label       "sekunder">
+<!ENTITY indexTimeout.label            "Sökindex i viloläge efter: ">
+<!ENTITY indexTimeout.accesskey        "s">
+<!ENTITY indexSeconds.label            "sekunder">
 <!ENTITY enableGlodaSearch.label       "Aktivera global sökning och indexering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY allowHWAccel.label            "Använd hårdvaruacceleration när det finns">

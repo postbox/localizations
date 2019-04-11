@@ -33,6 +33,9 @@
 <!ENTITY connectionTimeout.label       "Délai de connexion dépassé: ">
 <!ENTITY connectionTimeout.accesskey   "c">
 <!ENTITY connectionSeconds.label       "secondes">
+<!ENTITY indexTimeout.label            "Index de recherche au ralenti après: ">
+<!ENTITY indexTimeout.accesskey        "s">
+<!ENTITY indexSeconds.label            "secondes">
 <!ENTITY enableGlodaSearch.label "Activer la recherche et l’indexation globales">
 <!ENTITY enableGlodaSearch.accesskey "c">
 <!ENTITY allowHWAccel.label "Utiliser l’accélération graphique matérielle si disponible">

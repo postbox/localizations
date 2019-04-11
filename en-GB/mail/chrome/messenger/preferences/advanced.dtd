@@ -33,6 +33,9 @@
 <!ENTITY connectionTimeout.label       "Connection timeout: ">
 <!ENTITY connectionTimeout.accesskey   "C">
 <!ENTITY connectionSeconds.label       "seconds">
+<!ENTITY indexTimeout.label            "Index on idle after: ">
+<!ENTITY indexTimeout.accesskey        "s">
+<!ENTITY indexSeconds.label            "seconds">
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY allowHWAccel.label            "Use hardware acceleration when available">

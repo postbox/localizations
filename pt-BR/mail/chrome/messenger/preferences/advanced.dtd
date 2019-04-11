@@ -33,6 +33,9 @@
 <!ENTITY connectionTimeout.label       "Tempo limite de conexão: ">
 <!ENTITY connectionTimeout.accesskey   "C">
 <!ENTITY connectionSeconds.label       "segundos">
+<!ENTITY indexTimeout.label            "Índice de pesquisa em ocioso após: ">
+<!ENTITY indexTimeout.accesskey        "s">
+<!ENTITY indexSeconds.label            "segundos">
 <!ENTITY enableGlodaSearch.label       "Ativar pesquisa global e indexação">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY allowHWAccel.label            "Usar aceleração de hardware quando disponível">
