@@ -33,6 +33,9 @@
 <!ENTITY connectionTimeout.label       "Verbindings Time-out: ">
 <!ENTITY connectionTimeout.accesskey   "V">
 <!ENTITY connectionSeconds.label       "seconden">
+<!ENTITY indexTimeout.label            "Zoekindex na inactiviteit na: ">
+<!ENTITY indexTimeout.accesskey        "s">
+<!ENTITY indexSeconds.label            "seconden">
 <!ENTITY enableGlodaSearch.label       "Globaal zoeken en indexer activeren">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY allowHWAccel.label            "Hardwareversnelling gebruiken wanneer beschikbaar">

@@ -33,6 +33,9 @@
 <!ENTITY connectionTimeout.label       "Verbindungstimeout:">
 <!ENTITY connectionTimeout.accesskey   "c">
 <!ENTITY connectionSeconds.label       "Sekunden">
+<!ENTITY indexTimeout.label            "Suchindex für den Leerlauf nach: ">
+<!ENTITY indexTimeout.accesskey        "s">
+<!ENTITY indexSeconds.label            "Sekunden">
 <!ENTITY enableGlodaSearch.label       "Globale Suche und Nachrichtenindizierung aktivieren">
 <!ENTITY enableGlodaSearch.accesskey   "N">
 <!ENTITY allowHWAccel.label            "Hardwarebeschleunigung verwenden, wenn verfügbar">

@@ -33,6 +33,9 @@
 <!ENTITY connectionTimeout.label       "Timeout di connessione: ">
 <!ENTITY connectionTimeout.accesskey   "C">
 <!ENTITY connectionSeconds.label       "secondi">
+<!ENTITY indexTimeout.label            "Cerca indice su inattivo dopo: ">
+<!ENTITY indexTimeout.accesskey        "s">
+<!ENTITY indexSeconds.label            "secondi">
 <!ENTITY enableGlodaSearch.label "Attiva la ricerca globale e l'indicizzazione">
 <!ENTITY enableGlodaSearch.accesskey "E">
 <!ENTITY allowHWAccel.label "Utilizza l'accelerazione hardware quando disponibile">

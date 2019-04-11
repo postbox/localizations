@@ -32,7 +32,10 @@
 <!ENTITY openMsgInExistingWindow.accesskey "x">
 <!ENTITY connectionTimeout.label       "Время ожидания подключения:">
 <!ENTITY connectionTimeout.accesskey   "C">
-<!ENTITY connectionSeconds.label       "сек.">
+<!ENTITY connectionSeconds.label       "сек">
+<!ENTITY indexTimeout.label            "Индекс поиска на холостом ходу через: ">
+<!ENTITY indexTimeout.accesskey        "s">
+<!ENTITY indexSeconds.label            "сек">
 <!ENTITY enableGlodaSearch.label "Включить глобальный поиск и индексацию сообщений">
 <!ENTITY enableGlodaSearch.accesskey "с">
 <!ENTITY allowHWAccel.label "По возможности использовать аппаратное ускорение">
