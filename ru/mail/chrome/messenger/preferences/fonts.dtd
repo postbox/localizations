@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Корейский">
 <!ENTITY  font.langGroup.cyrillic                 "Кириллица">
 <!ENTITY  font.langGroup.el                       "Греческий">
-<!ENTITY font.langGroup.other "Другие системы письменности">
+<!ENTITY  font.langGroup.other                    "Юникод">
 <!ENTITY  font.langGroup.thai                     "Тайский">
 <!ENTITY  font.langGroup.hebrew                   "Иврит">
 <!ENTITY  font.langGroup.arabic                   "Арабский">
