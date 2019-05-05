@@ -102,6 +102,9 @@
 <!ENTITY styleBoldCmd.label "Bold">
 <!ENTITY styleBoldCmd.accesskey "B">
 <!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleHighlightCmd.label "Highlight">
+<!ENTITY styleHighlightCmd.accesskey "H">
+<!ENTITY styleHighlightCmd.key "H">
 <!ENTITY styleItalicCmd.label "Italic">
 <!ENTITY styleItalicCmd.accesskey "I">
 <!ENTITY styleItalicCmd.key "I">
@@ -315,6 +318,7 @@
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Smaller font size">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Larger font size">
 <!ENTITY boldToolbarCmd.tooltip "Bold">
+<!ENTITY highlightToolbarCmd.tooltip "Highlight">
 <!ENTITY italicToolbarCmd.tooltip "Italic">
 <!ENTITY underlineToolbarCmd.tooltip "Underline">
 <!ENTITY bulletListToolbarCmd.tooltip "Apply or remove bulleted list">

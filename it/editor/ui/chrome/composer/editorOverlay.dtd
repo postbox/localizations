@@ -102,6 +102,9 @@
 <!ENTITY styleBoldCmd.label "Grassetto">
 <!ENTITY styleBoldCmd.accesskey "G">
 <!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleHighlightCmd.label "Evidenziato">
+<!ENTITY styleHighlightCmd.accesskey "E">
+<!ENTITY styleHighlightCmd.key "E">
 <!ENTITY styleItalicCmd.label "Corsivo">
 <!ENTITY styleItalicCmd.accesskey "C">
 <!ENTITY styleItalicCmd.key "I">
@@ -315,6 +318,7 @@
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Diminuisci la dimensione del carattere">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Aumenta la dimensione del carattere">
 <!ENTITY boldToolbarCmd.tooltip "Grassetto">
+<!ENTITY highlightToolbarCmd.tooltip "Evidenziato">
 <!ENTITY italicToolbarCmd.tooltip "Corsivo">
 <!ENTITY underlineToolbarCmd.tooltip "Sottolineato">
 <!ENTITY bulletListToolbarCmd.tooltip "Crea o rimuovi l'elenco puntato">

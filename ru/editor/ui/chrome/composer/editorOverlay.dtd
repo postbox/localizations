@@ -102,6 +102,9 @@
 <!ENTITY styleBoldCmd.label "Полужирный">
 <!ENTITY styleBoldCmd.accesskey "ж">
 <!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleHighlightCmd.label "Цвет выделения">
+<!ENTITY styleHighlightCmd.accesskey "H">
+<!ENTITY styleHighlightCmd.key "H">
 <!ENTITY styleItalicCmd.label "Курсив">
 <!ENTITY styleItalicCmd.accesskey "у">
 <!ENTITY styleItalicCmd.key "I">
@@ -315,6 +318,7 @@
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Уменьшить размер шрифта">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Увеличить размер шрифта">
 <!ENTITY boldToolbarCmd.tooltip "Полужирный">
+<!ENTITY highlightToolbarCmd.tooltip "Цвет выделения">
 <!ENTITY italicToolbarCmd.tooltip "Курсив">
 <!ENTITY underlineToolbarCmd.tooltip "Подчеркнутый">
 <!ENTITY bulletListToolbarCmd.tooltip "Добавить или удалить маркированный список">

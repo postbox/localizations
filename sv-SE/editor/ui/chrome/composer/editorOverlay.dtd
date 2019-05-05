@@ -102,6 +102,9 @@
 <!ENTITY styleBoldCmd.label "Halvfet">
 <!ENTITY styleBoldCmd.accesskey "H">
 <!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleHighlightCmd.label "Markera">
+<!ENTITY styleHighlightCmd.accesskey "M">
+<!ENTITY styleHighlightCmd.key "M">
 <!ENTITY styleItalicCmd.label "Kursiv">
 <!ENTITY styleItalicCmd.accesskey "i">
 <!ENTITY styleItalicCmd.key "I">
@@ -315,6 +318,7 @@
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mindre teckenstorlek">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Större teckenstorlek">
 <!ENTITY boldToolbarCmd.tooltip "Halvfet">
+<!ENTITY highlightToolbarCmd.tooltip "Markera">
 <!ENTITY italicToolbarCmd.tooltip "Kursiv">
 <!ENTITY underlineToolbarCmd.tooltip "Understruken">
 <!ENTITY bulletListToolbarCmd.tooltip "Tillämpa eller ta bort lista med bomber">

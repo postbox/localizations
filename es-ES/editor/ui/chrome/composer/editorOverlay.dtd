@@ -102,6 +102,9 @@
 <!ENTITY styleBoldCmd.label "Negrita">
 <!ENTITY styleBoldCmd.accesskey "N">
 <!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleHighlightCmd.label "Resaltar">
+<!ENTITY styleHighlightCmd.accesskey "R">
+<!ENTITY styleHighlightCmd.key "R">
 <!ENTITY styleItalicCmd.label "Cursiva">
 <!ENTITY styleItalicCmd.accesskey "I">
 <!ENTITY styleItalicCmd.key "I">
@@ -315,6 +318,7 @@
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Reducir el tamaño de la letra">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Aumentar el tamaño de la letra">
 <!ENTITY boldToolbarCmd.tooltip "Negrita">
+<!ENTITY highlightToolbarCmd.tooltip "Resaltar">
 <!ENTITY italicToolbarCmd.tooltip "Cursiva">
 <!ENTITY underlineToolbarCmd.tooltip "Subrayar">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar o eliminar lista no numerada">

@@ -102,6 +102,9 @@
 <!ENTITY styleBoldCmd.label "Gras">
 <!ENTITY styleBoldCmd.accesskey "G">
 <!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleHighlightCmd.label "Surlignage">
+<!ENTITY styleHighlightCmd.accesskey "H">
+<!ENTITY styleHighlightCmd.key "H">
 <!ENTITY styleItalicCmd.label "Italique">
 <!ENTITY styleItalicCmd.accesskey "I">
 <!ENTITY styleItalicCmd.key "I">
@@ -315,6 +318,7 @@
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Réduire la taille de police">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Augmenter la taille de police">
 <!ENTITY boldToolbarCmd.tooltip "Gras">
+<!ENTITY highlightToolbarCmd.tooltip "Surlignage">
 <!ENTITY italicToolbarCmd.tooltip "Italique">
 <!ENTITY underlineToolbarCmd.tooltip "Souligné">
 <!ENTITY bulletListToolbarCmd.tooltip "Appliquer ou enlever une liste">

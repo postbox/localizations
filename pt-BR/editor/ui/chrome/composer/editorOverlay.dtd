@@ -102,6 +102,9 @@
 <!ENTITY styleBoldCmd.label "Negrito">
 <!ENTITY styleBoldCmd.accesskey "N">
 <!ENTITY styleBoldCmd.key "b">
+<!ENTITY styleHighlightCmd.label "Realce">
+<!ENTITY styleHighlightCmd.accesskey "R">
+<!ENTITY styleHighlightCmd.key "R">
 <!ENTITY styleItalicCmd.label "Itálico">
 <!ENTITY styleItalicCmd.accesskey "I">
 <!ENTITY styleItalicCmd.key "i">
@@ -315,6 +318,7 @@
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Diminuir o tamanho da fonte">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Aumentar o tamanho da fonte">
 <!ENTITY boldToolbarCmd.tooltip "Negrito">
+<!ENTITY highlightToolbarCmd.tooltip "Realce">
 <!ENTITY italicToolbarCmd.tooltip "Itálico">
 <!ENTITY underlineToolbarCmd.tooltip "Sublinhar">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar ou remover lista com marcadores">
