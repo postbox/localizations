@@ -102,6 +102,9 @@
 <!ENTITY styleBoldCmd.label "Fett">
 <!ENTITY styleBoldCmd.accesskey "F">
 <!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleHighlightCmd.label "Markieren">
+<!ENTITY styleHighlightCmd.accesskey "M">
+<!ENTITY styleHighlightCmd.key "M">
 <!ENTITY styleItalicCmd.label "Kursiv">
 <!ENTITY styleItalicCmd.accesskey "K">
 <!ENTITY styleItalicCmd.key "I">
@@ -315,6 +318,7 @@
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Kleinere Schriftgröße">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Größere Schriftgröße">
 <!ENTITY boldToolbarCmd.tooltip "Fett">
+<!ENTITY highlightToolbarCmd.tooltip "Markieren">
 <!ENTITY italicToolbarCmd.tooltip "Kursiv">
 <!ENTITY underlineToolbarCmd.tooltip "Unterstrichen">
 <!ENTITY bulletListToolbarCmd.tooltip "&quot;Unsortierte Liste&quot; anwenden oder entfernen">

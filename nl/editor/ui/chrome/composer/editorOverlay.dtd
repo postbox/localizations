@@ -102,6 +102,9 @@
 <!ENTITY styleBoldCmd.label "Vet">
 <!ENTITY styleBoldCmd.accesskey "V">
 <!ENTITY styleBoldCmd.key "b">
+<!ENTITY styleHighlightCmd.label "Markeren">
+<!ENTITY styleHighlightCmd.accesskey "M">
+<!ENTITY styleHighlightCmd.key "M">
 <!ENTITY styleItalicCmd.label "Cursief">
 <!ENTITY styleItalicCmd.accesskey "C">
 <!ENTITY styleItalicCmd.key "i">
@@ -315,6 +318,7 @@
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Kleinere lettergrootte">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Grotere lettergrootte">
 <!ENTITY boldToolbarCmd.tooltip "Vet">
+<!ENTITY highlightToolbarCmd.tooltip "Markeren">
 <!ENTITY italicToolbarCmd.tooltip "Cursief">
 <!ENTITY underlineToolbarCmd.tooltip "Onderstrepen">
 <!ENTITY bulletListToolbarCmd.tooltip "Opsommingslijst toepassen of verwijderen">
