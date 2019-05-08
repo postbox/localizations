@@ -11,6 +11,9 @@
 <!ENTITY aboutWarningButton2.label "Jag förstår och accepterar dessa villkor.">
 <!ENTITY aboutWarningCheckbox.label "Visa denna varning nästa gång">
 
+<!-- For use in the warning dialog regarding add-ons -->
+<!ENTITY viewExtensionsWarningDescription.label "Tillägg utvecklade av tredje part stöds inte av Postbox, Inc. och installationen av ett tillägg till tredje part upphäver din produktgaranti. För support för tillägg kan du kontakta utvecklaren av tredje parten för tillägget.">
+
 <!ENTITY searchPrefs.label "Sök:">
 <!ENTITY searchPrefs.accesskey "ö">
 <!ENTITY focusSearch.key "r">

@@ -11,6 +11,9 @@
 <!ENTITY aboutWarningButton2.label  "Je comprends et accepte ces termes.">
 <!ENTITY aboutWarningCheckbox.label "Afficher cet avertissement la prochaine fois">
 
+<!-- For use in the warning dialog regarding add-ons -->
+<!ENTITY viewExtensionsWarningDescription.label "Les modules complémentaires développés par des tiers ne sont pas pris en charge par Postbox, Inc. et l'installation d'un module complémentaire tiers annulera la garantie de votre produit. Pour obtenir de l'aide sur les add-ons, veuillez contacter le développeur tiers de l'add-on.">
+
 <!ENTITY searchPrefs.label "Rechercher :">
 <!ENTITY searchPrefs.accesskey "R">
 <!ENTITY focusSearch.key "r">

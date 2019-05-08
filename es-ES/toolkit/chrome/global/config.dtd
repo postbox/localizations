@@ -11,6 +11,9 @@
 <!ENTITY aboutWarningButton2.label "Entiendo y acepto estos términos.">
 <!ENTITY aboutWarningCheckbox.label "Mostrar esta advertencia la próxima vez">
 
+<!-- For use in the warning dialog regarding add-ons -->
+<!ENTITY viewExtensionsWarningDescription.label "Postbox, Inc. no admite los complementos desarrollados por terceros, y la instalación de un complemento de terceros anulará la garantía de su producto. Para obtener soporte para complementos, comuníquese con el desarrollador externo del complemento.">
+
 <!ENTITY searchPrefs.label "Buscar:">
 <!ENTITY searchPrefs.accesskey "B">
 <!ENTITY focusSearch.key "r">
