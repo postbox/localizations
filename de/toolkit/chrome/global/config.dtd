@@ -11,6 +11,9 @@
 <!ENTITY aboutWarningButton2.label "Ich verstehe und akzeptiere diese Bedingungen.">
 <!ENTITY aboutWarningCheckbox.label "Diese Meldung beim nächsten Mal anzeigen">
 
+<!-- For use in the warning dialog regarding add-ons -->
+<!ENTITY viewExtensionsWarningDescription.label "Von Drittanbietern entwickelte Add-Ons werden von Postbox, Inc. nicht unterstützt. Durch die Installation eines Drittanbieter-Add-Ons erlischt die Produktgarantie. Für die Unterstützung von Add-Ons wenden Sie sich bitte an den Drittanbieter des Add-Ons.">
+
 <!ENTITY searchPrefs.label "Suchen:">
 <!ENTITY searchPrefs.accesskey "S">
 <!ENTITY focusSearch.key "r">

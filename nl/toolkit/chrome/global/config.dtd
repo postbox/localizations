@@ -11,6 +11,9 @@
 <!ENTITY aboutWarningButton2.label "Ik begrijp en accepteer deze voorwaarden.">
 <!ENTITY aboutWarningCheckbox.label "Deze waarschuwing de volgende keer tonen">
 
+<!-- For use in the warning dialog regarding add-ons -->
+<!ENTITY viewExtensionsWarningDescription.label "Door derden ontwikkelde add-ons worden niet ondersteund door Postbox, Inc. en door de installatie van een add-on van derden vervalt uw productgarantie. Neem voor add-onsondersteuning contact op met de externe ontwikkelaar van de add-on.">
+
 <!ENTITY searchPrefs.label "Zoeken:">
 <!ENTITY searchPrefs.accesskey "Z">
 <!ENTITY focusSearch.key "z">

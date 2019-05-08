@@ -11,6 +11,9 @@
 <!ENTITY aboutWarningButton2.label "I understand and accept these terms">
 <!ENTITY aboutWarningCheckbox.label "Show this warning next time">
 
+<!-- For use in the warning dialog regarding add-ons -->
+<!ENTITY viewExtensionsWarningDescription.label "Add-ons developed by 3rd parties are not supported by Postbox, Inc. and the installation of a 3rd-party add-on will void your product warranty. For add-ons support please contact the 3rd-party developer of the add-on.">
+
 <!ENTITY searchPrefs.label "Search:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
