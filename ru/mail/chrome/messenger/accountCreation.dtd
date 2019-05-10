@@ -105,6 +105,7 @@
 <!ENTITY insecureSelfSigned.description  "Сервер использует сертификат, которому нельзя доверять, поэтому нет уверенности, что кто-то не перехватывает трафик между &brandShortName; и вашим сервером. &brandShortName; позволит работать с почтой. Однако вам необходимо обратиться к поставщику услуг электронной почты для настройки почтового сервера с доверенным сертификатом.">
 <!ENTITY secureServer.description        "Поздравляем! Это защищенный сервер.">
 
+<!ENTITY pb.newMailAccount.title "Новый аккаунт">
 <!ENTITY pb.identity.title "Персональные данные">
 <!ENTITY pb.name.label    "Ваше имя">
 <!ENTITY pb.email.label   "Адрес эл. почты">
