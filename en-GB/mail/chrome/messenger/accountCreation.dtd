@@ -105,6 +105,7 @@
 <!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
 <!ENTITY secureServer.description        "Congratulations! This is a secure server.">
 
+<!ENTITY pb.newMailAccount.title "New Email Account">
 <!ENTITY pb.identity.title "Identity">
 <!ENTITY pb.name.label    "Your Name">
 <!ENTITY pb.email.label   "Email Address">

@@ -105,6 +105,7 @@
 <!ENTITY insecureSelfSigned.description  "De server gebruikt een certificaat dat we niet kunnen vertrouwen, dus we weten niet zeker dat niemand het verkeer tussen &brandShortName; en uw server onderschept. &brandShortName; geeft u toegang tot uw e-mail, maar u zou uw e-mailprovider kunnen vragen de server te configureren met een vertrouwd certificaat.">
 <!ENTITY secureServer.description        "Gefeliciteerd! Dit is een beveiligde server.">
 
+<!ENTITY pb.newMailAccount.title "Nieuw Account">
 <!ENTITY pb.identity.title "Identiteit">
 <!ENTITY pb.name.label    "Uw Naam">
 <!ENTITY pb.email.label   "E-mailadres">

@@ -105,6 +105,7 @@
 <!ENTITY insecureSelfSigned.description  "O servidor utiliza um certificado em que não podemos confiar. Portanto, não podemos ter certeza de que alguém não esteja interceptando o tráfego entre o &brandShortName; e o seu servidor. O &brandShortName; permitirá que você receba seus e-mails, mas você deverá pedir ao seu provedor que configure o servidor com um certificado confiável.">
 <!ENTITY secureServer.description        "Parabéns! Esse servidor é seguro.">
 
+<!ENTITY pb.newMailAccount.title "Nova Conta">
 <!ENTITY pb.identity.title "Identidade">
 <!ENTITY pb.name.label    "Seu nome">
 <!ENTITY pb.email.label   "Endereço de e-mail">

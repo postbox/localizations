@@ -105,6 +105,7 @@
 <!ENTITY insecureSelfSigned.description  "Le serveur utilise un certificat que nous ne pouvons éprouver donc nous ne pouvons pas être sûrs que quelqu'un n'intercepte pas le trafic entre &brandShortName; et votre serveur. &brandShortName; vous laissera accéder à vos courriels, mais vous devriez vraiment contacter votre fournisseur de messagerie pour configurer le serveur avec un certificat éprouvé.">
 <!ENTITY secureServer.description        "Bravo ! Ce serveur est sécurisé.">
 
+<!ENTITY pb.newMailAccount.title "Nouveau compte">
 <!ENTITY pb.identity.title "Identité">
 <!ENTITY pb.name.label    "Votre nom complet">
 <!ENTITY pb.email.label   "Adresse e-mail">
