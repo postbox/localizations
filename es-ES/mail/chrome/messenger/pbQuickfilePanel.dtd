@@ -1,7 +1,18 @@
+<!--
+  ***** BEGIN POSTBOX LICENSE BLOCK *****
+  *
+  * pbQuickfilePanel.dtd
+  *
+  * Copyright (c) 2007-2019 Postbox, Inc.
+  *
+  ***** END POSTBOX LICENSE BLOCK *****
+-->
 <!ENTITY quickfilePanelFileMessage.label  "Mover mensaje">
 <!ENTITY quickswitchPanelSwitch.label     "Ir a la carpeta">
+<!ENTITY quickcopyPanelCopy.label         "Copia rápida">
 <!ENTITY quickfilePanelFile.label         "OK">
 <!ENTITY quickfilePanelCancel.label       "Cancelar">
 <!ENTITY showQuickfileCmd.key             "v">
+<!ENTITY showQuickcopyCmd.key             "c">
 <!ENTITY showQuickswitchCmd.key           "g">
 <!ENTITY quickfilePanel.width             "600">
