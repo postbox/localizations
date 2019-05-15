@@ -359,6 +359,8 @@
 <!-- Messages Menu -->
 <!ENTITY pbMoveToFolderAgain.label "Verschieben">
 <!ENTITY pbMoveToFolderAgain.accesskey "v">
+<!ENTITY pbCopyToFolderAgain.label "Schnellkopie">
+<!ENTITY pbCopyToFolderAgain.accesskey "c">
 
 <!-- Conversation Action context menu -->
 <!ENTITY pbConversationHdrContextMenu-reply.label "Antworten">
