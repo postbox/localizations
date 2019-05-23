@@ -1,5 +1,5 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY userWarningDialog.dropboxBusinessNotice "You must select a business account to use Dropbox for Business">
-<!ENTITY userWarningDialog.title "Alert">
+<!ENTITY userWarningDialog.dropboxBusinessNotice "Debe seleccionar una cuenta empresarial para usar Dropbox for Business.">
+<!ENTITY userWarningDialog.title "Alerta">
