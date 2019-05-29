@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Systeemintegratie">
+<!ENTITY firstRunTitle.label      "Stel uw voorkeur in">
 <!ENTITY acceptIntegration.label  "Als standaard instellen">
 <!ENTITY cancelIntegration.label  "Integratie overslaan">
 <!ENTITY cancelIntegration2.label  "Annuleren">
