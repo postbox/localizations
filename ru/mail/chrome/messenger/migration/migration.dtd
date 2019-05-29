@@ -16,9 +16,9 @@
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromPostbox.label        "Postbox 3, 4 или 5">
 <!ENTITY importFromPostbox.accesskey    "P">
-<!ENTITY importFromPostboxApp.label     "Postbox 6 or later">
+<!ENTITY importFromPostboxApp.label     "Postbox 6 или позже">
 <!ENTITY importFromPostboxApp.accesskey "l">
-<!ENTITY importFromThunderbird.label    "Thunderbird">
+<!ENTITY importFromThunderbird.label    "Thunderbird (beta)">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label "SeaMonkey 2 или позже">
 <!ENTITY importFromSeamonkey3.accesskey "S">
@@ -27,16 +27,16 @@
 <!ENTITY importFromOutlook.label        "Outlook (Experimental)">
 <!ENTITY importFromOutlook.accesskey    "O">
 
-<!ENTITY welcome.title                  "Добро пожаловать в &brandShortName;,">
+<!ENTITY welcome.title                  "Добро пожаловать в &brandShortName;">
 <!ENTITY tagline.label                  "лучшее приложение для работы с почтой!">
-<!ENTITY thanks.label                   "Благодарим за выбор &brandShortName;.">
+<!ENTITY thanks.label                   "Спасибо за использование &brandShortName;!">
 <!ENTITY quickStart1.label              "Прочитав">
 <!ENTITY quickStart2.label              "«Краткое руководство по началу работы»,"> 
 <!ENTITY quickStart3.label              "вы узнаете обо всех возможностях приложения.">
 <!ENTITY start.label                    "Начать работу с &brandShortName;">
     
-<!ENTITY migration.title                "Мастер импорта учетной записи">
-<!ENTITY migrationMac.title             "Помощник по импорту учетной записи">
+<!ENTITY migration2.title               "миграция">
+<!ENTITY migrationMac2.title            "миграция">
 <!ENTITY importOptions.title            "Параметры импорта">
 <!ENTITY importItems.title              "Объекты для импорта">
 <!ENTITY importItems.label              "Выберите объекты для импорта:">
@@ -56,9 +56,10 @@
 <!ENTITY tagline.left "45">
 <!ENTITY tagline.top "65">
 <!ENTITY thanks.left "35">
-<!ENTITY thanks.top "130">
+<!ENTITY thanks.top "280">
 <!ENTITY title-text.left "14">
 <!ENTITY title-text.top "15">
+<!ENTITY import-group.left "75">
 <!ENTITY explanation-text.left "26">
 <!ENTITY explanation-text.top "50">
 <!ENTITY radio.top "72">
@@ -66,4 +67,4 @@
 <!ENTITY progress.top "140">
 <!ENTITY start.top "264">
 <!ENTITY startMac.top "266">
-<!ENTITY guide.top "159">
+<!ENTITY guide.top "320">

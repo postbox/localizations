@@ -16,9 +16,9 @@
 <!ENTITY importFromNothing.accesskey    "I">
 <!ENTITY importFromPostbox.label        "Postbox 3, 4 eller 5">
 <!ENTITY importFromPostbox.accesskey    "P">
-<!ENTITY importFromPostboxApp.label     "Postbox 6 or later">
+<!ENTITY importFromPostboxApp.label     "Postbox 6 eller senare">
 <!ENTITY importFromPostboxApp.accesskey "l">
-<!ENTITY importFromThunderbird.label    "Thunderbird">
+<!ENTITY importFromThunderbird.label    "Thunderbird (beta)">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 eller senare">
 <!ENTITY importFromSeamonkey3.accesskey "S">
@@ -29,14 +29,14 @@
 
 <!ENTITY welcome.title                  "Välkommen till &brandShortName;">
 <!ENTITY tagline.label                  "Ett bättre sätt för att skapa e-post">
-<!ENTITY thanks.label                   "Tack för att du testar &brandShortName;!">
+<!ENTITY thanks.label                   "Tack för att du använder &brandShortName;!">
 <!ENTITY quickStart1.label              "Kolla ">
 <!ENTITY quickStart2.label              "Snabbstartsguiden"> 
 <!ENTITY quickStart3.label              " för att lära dig mer om alla funktioner.">
 <!ENTITY start.label                    "Börja använda &brandShortName;">
     
-<!ENTITY migration.title                "Guide för kontoflytt">
-<!ENTITY migrationMac.title             "Hjälp vid kontoflytt">
+<!ENTITY migration2.title               "Migration">
+<!ENTITY migrationMac2.title            "Migration">
 <!ENTITY importOptions.title            "Importera alternativ">
 <!ENTITY importItems.title              "Poster att importera">
 <!ENTITY importItems.label              "Välj poster att importera:">
@@ -56,9 +56,10 @@
 <!ENTITY tagline.left "45">
 <!ENTITY tagline.top "65">
 <!ENTITY thanks.left "35">
-<!ENTITY thanks.top "130">
+<!ENTITY thanks.top "280">
 <!ENTITY title-text.left "14">
 <!ENTITY title-text.top "15">
+<!ENTITY import-group.left "75">
 <!ENTITY explanation-text.left "26">
 <!ENTITY explanation-text.top "50">
 <!ENTITY radio.top "72">
@@ -66,4 +67,4 @@
 <!ENTITY progress.top "140">
 <!ENTITY start.top "264">
 <!ENTITY startMac.top "266">
-<!ENTITY guide.top "159">
+<!ENTITY guide.top "320">

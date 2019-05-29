@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Import Wizard">
+<!ENTITY migrationWizard.title          "Welcome to &brandShortName;">
 
 <!ENTITY importFromWin.label            "Import Options, Account Settings, Address Book, Filters and other data from:">
 <!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
@@ -18,7 +18,7 @@
 <!ENTITY importFromPostbox.accesskey    "P">
 <!ENTITY importFromPostboxApp.label     "Postbox 6 or later">
 <!ENTITY importFromPostboxApp.accesskey "l">
-<!ENTITY importFromThunderbird.label    "Thunderbird">
+<!ENTITY importFromThunderbird.label    "Thunderbird (beta)">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 or later">
 <!ENTITY importFromSeamonkey3.accesskey "S">
@@ -29,14 +29,14 @@
 
 <!ENTITY welcome.title                  "Welcome to &brandShortName;">
 <!ENTITY tagline.label                  "A Better Way To Do Email">
-<!ENTITY thanks.label                   "Thanks for trying out &brandShortName;!">
+<!ENTITY thanks.label                   "Thanks for using &brandShortName;!">
 <!ENTITY quickStart1.label              "See the ">
 <!ENTITY quickStart2.label              "Quickstart Guide"> 
 <!ENTITY quickStart3.label              " to learn about all the features.">
 <!ENTITY start.label                    "Start using &brandShortName;">
     
-<!ENTITY migration.title                "Account Migration Wizard">
-<!ENTITY migrationMac.title             "Account Migration Assistant">
+<!ENTITY migration2.title               "Migration Wizard">
+<!ENTITY migrationMac2.title            "Migration Assistant">
 <!ENTITY importOptions.title            "Import Options">
 <!ENTITY importItems.title              "Items to Import">
 <!ENTITY importItems.label              "Select which items to import:">
@@ -56,9 +56,10 @@
 <!ENTITY tagline.left "45">
 <!ENTITY tagline.top "65">
 <!ENTITY thanks.left "35">
-<!ENTITY thanks.top "130">
+<!ENTITY thanks.top "280">
 <!ENTITY title-text.left "14">
 <!ENTITY title-text.top "15">
+<!ENTITY import-group.left "75">
 <!ENTITY explanation-text.left "26">
 <!ENTITY explanation-text.top "50">
 <!ENTITY radio.top "72">
@@ -66,4 +67,4 @@
 <!ENTITY progress.top "140">
 <!ENTITY start.top "264">
 <!ENTITY startMac.top "266">
-<!ENTITY guide.top "159">
+<!ENTITY guide.top "320">
