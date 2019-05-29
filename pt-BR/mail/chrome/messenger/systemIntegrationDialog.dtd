@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Integração com o sistema">
+<!ENTITY firstRunTitle.label      "Defina sua preferência">
 <!ENTITY acceptIntegration.label  "Definir como padrão">
 <!ENTITY cancelIntegration.label  "Pular integração">
 <!ENTITY cancelIntegration2.label  "Cancelar">

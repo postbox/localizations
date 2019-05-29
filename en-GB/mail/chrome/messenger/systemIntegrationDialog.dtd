@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "System Integration">
+<!ENTITY firstRunTitle.label      "Set Your Preference">
 <!ENTITY acceptIntegration.label  "Set as Default">
 <!ENTITY cancelIntegration.label  "Skip Integration">
 <!ENTITY cancelIntegration2.label  "Cancel">

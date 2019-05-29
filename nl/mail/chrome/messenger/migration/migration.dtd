@@ -16,9 +16,9 @@
 <!ENTITY importFromNothing.accesskey    "t">
 <!ENTITY importFromPostbox.label        "Postbox 3, 4 of 5">
 <!ENTITY importFromPostbox.accesskey    "P">
-<!ENTITY importFromPostboxApp.label     "Postbox 6 or later">
+<!ENTITY importFromPostboxApp.label     "Postbox 6 of hoger">
 <!ENTITY importFromPostboxApp.accesskey "l">
-<!ENTITY importFromThunderbird.label    "Thunderbird">
+<!ENTITY importFromThunderbird.label    "Thunderbird (beta)">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 of nieuwer">
 <!ENTITY importFromSeamonkey3.accesskey "S">
@@ -29,14 +29,14 @@
 
 <!ENTITY welcome.title                  "Welkom bij &brandShortName;">
 <!ENTITY tagline.label                  "Een betere manier om te e-mailen">
-<!ENTITY thanks.label                   "Bedankt voor het uitproberen van &brandShortName;!">
+<!ENTITY thanks.label                   "Bedankt voor het gebruik van &brandShortName;!">
 <!ENTITY quickStart1.label              "Zie de ">
 <!ENTITY quickStart2.label              "Snelstart handleiding"> 
 <!ENTITY quickStart3.label              " om meer te leren over alle functies.">
 <!ENTITY start.label                    "Begin het gebruik van &brandShortName;">
     
-<!ENTITY migration.title                "Accountmigratie Wizard">
-<!ENTITY migrationMac.title             "Accountmigratie Assistent">
+<!ENTITY migration2.title               "Migratie">
+<!ENTITY migrationMac2.title            "Migratie">
 <!ENTITY importOptions.title            "Importeerinstellingen">
 <!ENTITY importItems.title              "Te importeren items">
 <!ENTITY importItems.label              "Selecteer de te importeren items:">
@@ -56,9 +56,10 @@
 <!ENTITY tagline.left "45">
 <!ENTITY tagline.top "65">
 <!ENTITY thanks.left "35">
-<!ENTITY thanks.top "130">
+<!ENTITY thanks.top "280">
 <!ENTITY title-text.left "14">
 <!ENTITY title-text.top "15">
+<!ENTITY import-group.left "75">
 <!ENTITY explanation-text.left "26">
 <!ENTITY explanation-text.top "50">
 <!ENTITY radio.top "72">
@@ -66,4 +67,4 @@
 <!ENTITY progress.top "140">
 <!ENTITY start.top "264">
 <!ENTITY startMac.top "266">
-<!ENTITY guide.top "159">
+<!ENTITY guide.top "320">
