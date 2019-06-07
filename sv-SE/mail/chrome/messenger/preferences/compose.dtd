@@ -8,6 +8,7 @@
 <!ENTITY itemSendFormat.label                "Skicka format">
 <!ENTITY itemSignatures.label                "Signaturer">
 <!ENTITY itemCannedResponses.label           "Svar">
+<!ENTITY itemClips.label                     "Clips">
 
 <!ENTITY dialogCompose.title                 "Skriva">
 
