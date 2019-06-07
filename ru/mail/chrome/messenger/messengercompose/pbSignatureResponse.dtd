@@ -4,3 +4,5 @@
 <!ENTITY responses.title "Пользовательские ответы">
 <!ENTITY close.label "Закрыть">
 <!ENTITY add.label "Добавить">
+<!ENTITY customClips.label "Пользовательские клипы...">
+<!ENTITY clips.title "Пользовательские клипы">
