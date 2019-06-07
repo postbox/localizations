@@ -222,6 +222,7 @@
 <!ENTITY tagButton.key "T">
 <!ENTITY signatureButton.label "Firmas">
 <!ENTITY responseButton.label "Contestaciones">
+<!ENTITY clipButton.label "Clips">
 <!ENTITY compose.sidebar.label "Barra lateral">
 <!ENTITY compositionGoals.label "Objetivos">
 <!ENTITY formattingToolbar.label "Barra de herramientas">
@@ -242,6 +243,7 @@
 <!ENTITY tagButton.tooltip "Añadir etiqueta(s) al mensaje">
 <!ENTITY signatureButton.tooltip "Insertar una firma">
 <!ENTITY responseButton.tooltip "Insertar una contestación">
+<!ENTITY clipButton.tooltip "Inserte un clip">
 <!ENTITY compose.sidebar.tooltip "Abrir la barra lateral">
 <!ENTITY compositionGoals.tooltip "Mostrar u ocultar la barra de estado de objetivos de la composición">
 <!ENTITY formattingToolbar.tooltip "Mostrar u ocultar la barra de herramientas">
@@ -330,6 +332,8 @@
 <!ENTITY newSignature.label "Nueva firma...">
 <!ENTITY editResponses.label "Modificar contestaciones...">
 <!ENTITY newResponse.label "Nueva contestación...">
+<!ENTITY editClips.label "Editar clips...">
+<!ENTITY newClip.label "Nuevo clip...">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Añadir diccionarios…">
@@ -418,6 +422,7 @@
 <!ENTITY pbStatsTime.label "hora:">
 
 <!ENTITY pbCreateResponse.label "Crear respuesta...">
+<!ENTITY pbCreateClip.label "Crear clip...">
 <!ENTITY pbSearchGoogle.label "Buscar en Google">
 
 <!-- Template Placeholders -->

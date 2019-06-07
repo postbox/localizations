@@ -222,6 +222,7 @@
 <!ENTITY tagButton.key "T">
 <!ENTITY signatureButton.label "Signaturen">
 <!ENTITY responseButton.label "Antworten">
+<!ENTITY clipButton.label "Clips">
 <!ENTITY compose.sidebar.label "Seitenleiste">
 <!ENTITY compositionGoals.label "Ziele">
 <!ENTITY formattingToolbar.label "Symbolleiste">
@@ -242,6 +243,7 @@
 <!ENTITY tagButton.tooltip "Begriff(e) zur Nachricht hinzufügen">
 <!ENTITY signatureButton.tooltip "Eine Signatur einfügen">
 <!ENTITY responseButton.tooltip "Antwort eingeben">
+<!ENTITY clipButton.tooltip "Fügen Sie einen Clip ein">
 <!ENTITY compose.sidebar.tooltip "Seitenleiste öffnen">
 <!ENTITY compositionGoals.tooltip "Zeige oder verstecke die Schreib-Zielstatusleiste">
 <!ENTITY formattingToolbar.tooltip "Zeige oder verstecke die Symbolleiste">
@@ -330,6 +332,8 @@
 <!ENTITY newSignature.label "Neue Signatur...">
 <!ENTITY editResponses.label "Antworten bearbeiten...">
 <!ENTITY newResponse.label "Neue Antwort...">
+<!ENTITY editClips.label "Clips bearbeiten...">
+<!ENTITY newClip.label "Neuer Clip...">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Wörterbücher hinzufügen…">
@@ -418,6 +422,7 @@
 <!ENTITY pbStatsTime.label "Zeit:">
 
 <!ENTITY pbCreateResponse.label "Antwort erstellen...">
+<!ENTITY pbCreateClip.label "Clip erstellen...">
 <!ENTITY pbSearchGoogle.label "In Google suchen">
 
 <!-- Template Placeholders -->

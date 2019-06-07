@@ -222,6 +222,7 @@
 <!ENTITY tagButton.key "T">
 <!ENTITY signatureButton.label "Signatures">
 <!ENTITY responseButton.label "Réponses">
+<!ENTITY clipButton.label "Clips">
 <!ENTITY compose.sidebar.label "Barre latérale">
 <!ENTITY compositionGoals.label "Objectifs">
 <!ENTITY formattingToolbar.label "Toolbar">
@@ -242,6 +243,7 @@
 <!ENTITY tagButton.tooltip "Ajouter étiquette(s) au message">
 <!ENTITY signatureButton.tooltip "Insérer une signature">
 <!ENTITY responseButton.tooltip "Insérer la réponse">
+<!ENTITY clipButton.tooltip "Insérer un clip">
 <!ENTITY compose.sidebar.tooltip "Ouvrir le panneau latéral">
 <!ENTITY compositionGoals.tooltip "Afficher ou masquer la barre d'état">
 <!ENTITY formattingToolbar.tooltip "Afficher ou masquer la barre d'outils">
@@ -330,6 +332,8 @@
 <!ENTITY newSignature.label "Nouvelle signature...">
 <!ENTITY editResponses.label "Éditer les réponses...">
 <!ENTITY newResponse.label "Nouvelle réponse...">
+<!ENTITY editClips.label "Éditer les clips">
+<!ENTITY newClip.label "Nouveau clip...">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Ajouter des dictionnaires…">
@@ -418,6 +422,7 @@
 <!ENTITY pbStatsTime.label "time:">
 
 <!ENTITY pbCreateResponse.label "Rédiger une réponse...">
+<!ENTITY pbCreateClip.label "Créer un clip...">
 <!ENTITY pbSearchGoogle.label "Chercher sur Google">
 
 <!-- Template Placeholders -->

@@ -222,6 +222,7 @@
 <!ENTITY tagButton.key "T">
 <!ENTITY signatureButton.label "Signaturer">
 <!ENTITY responseButton.label "Svar">
+<!ENTITY clipButton.label "Klipp">
 <!ENTITY compose.sidebar.label "Sidofält">
 <!ENTITY compositionGoals.label "Mål">
 <!ENTITY formattingToolbar.label "Verktygsfält">
@@ -242,6 +243,7 @@
 <!ENTITY tagButton.tooltip "Lägg till ämne(n) till meddelandet">
 <!ENTITY signatureButton.tooltip "Infoga signatur">
 <!ENTITY responseButton.tooltip "Sätt in ett svar">
+<!ENTITY clipButton.tooltip "Sätt in ett klipp">
 <!ENTITY compose.sidebar.tooltip "öppna sidofältet">
 <!ENTITY compositionGoals.tooltip "Visa eller dölj målstatusfältet för sammansättningen">
 <!ENTITY formattingToolbar.tooltip "Visa eller dölj verktygsfältet">
@@ -330,6 +332,8 @@
 <!ENTITY newSignature.label "Ny signatur...">
 <!ENTITY editResponses.label "Redigera svar...">
 <!ENTITY newResponse.label "Nytt svar...">
+<!ENTITY editClips.label "Redigera klipp...">
+<!ENTITY newClip.label "Nytt klipp...">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Lägg till ordlista…">
@@ -418,6 +422,7 @@
 <!ENTITY pbStatsTime.label "tid:">
 
 <!ENTITY pbCreateResponse.label "Skapa svar...">
+<!ENTITY pbCreateClip.label "Skapa klipp...">
 <!ENTITY pbSearchGoogle.label "Sök i Google">
 
 <!-- Template Placeholders -->
