@@ -222,6 +222,7 @@
 <!ENTITY tagButton.key "T">
 <!ENTITY signatureButton.label "Handtekeningen">
 <!ENTITY responseButton.label "Antwoorden">
+<!ENTITY clipButton.label "Clips">
 <!ENTITY compose.sidebar.label "Zijbalk">
 <!ENTITY compositionGoals.label "Doelen">
 <!ENTITY formattingToolbar.label "Toolbar">
@@ -242,6 +243,7 @@
 <!ENTITY tagButton.tooltip "Voeg label(s) toe aan bericht">
 <!ENTITY signatureButton.tooltip "Handtekening invoegen">
 <!ENTITY responseButton.tooltip "Antwoord invoegen">
+<!ENTITY clipButton.tooltip "Plaats een clip">
 <!ENTITY compose.sidebar.tooltip "Open de zijbalk">
 <!ENTITY compositionGoals.tooltip "Toon of verberg de compositiedoelen statusbalk">
 <!ENTITY formattingToolbar.tooltip "Toon of verberg de werkbalk">
@@ -330,6 +332,8 @@
 <!ENTITY newSignature.label "Nieuwe Handtekening...">
 <!ENTITY editResponses.label "Antwoorden bewerken...">
 <!ENTITY newResponse.label "Nieuw antwoord...">
+<!ENTITY editClips.label "Clips bewerken...">
+<!ENTITY newClip.label "Nieuwe clip...">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Woordenboeken toevoegen…">
@@ -418,6 +422,7 @@
 <!ENTITY pbStatsTime.label "Tijd:">
 
 <!ENTITY pbCreateResponse.label "Maak reactie aan...">
+<!ENTITY pbCreateClip.label "Clip maken...">
 <!ENTITY pbSearchGoogle.label "Zoek in Google">
 
 <!-- Template Placeholders -->

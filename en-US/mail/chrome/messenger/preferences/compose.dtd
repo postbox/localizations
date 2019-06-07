@@ -8,6 +8,7 @@
 <!ENTITY itemSendFormat.label                "Send Format">
 <!ENTITY itemSignatures.label                "Signatures">
 <!ENTITY itemCannedResponses.label           "Responses">
+<!ENTITY itemClips.label                     "Clips">
 
 <!ENTITY dialogCompose.title                 "Composing">
 

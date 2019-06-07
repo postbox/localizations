@@ -8,6 +8,7 @@
 <!ENTITY itemSendFormat.label                "Verzendingsformaat">
 <!ENTITY itemSignatures.label                "Handtekeningen">
 <!ENTITY itemCannedResponses.label           "Antwoorden">
+<!ENTITY itemClips.label                     "Clips">
 
 <!ENTITY dialogCompose.title                 "Opstellen">
 

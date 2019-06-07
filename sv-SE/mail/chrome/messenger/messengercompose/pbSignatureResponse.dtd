@@ -1,6 +1,8 @@
 <!ENTITY customSignatures.label "Anpassade signaturer ...">
 <!ENTITY customResponses.label "Anpassade svar ...">
 <!ENTITY signatures.title "Anpassade signaturer">
-<!ENTITY responses.title "Custom Responses">
+<!ENTITY responses.title "Anpassade svar">
 <!ENTITY close.label "Stäng">
-<!ENTITY add.label "Add">
+<!ENTITY add.label "Lägg till">
+<!ENTITY customClips.label "Anpassade klipp...">
+<!ENTITY clips.title "Anpassade klipp">

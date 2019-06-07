@@ -4,3 +4,5 @@
 <!ENTITY responses.title "Custom Responses">
 <!ENTITY close.label "Close">
 <!ENTITY add.label "Add">
+<!ENTITY customClips.label "Custom Clips...">
+<!ENTITY clips.title "Custom Clips">

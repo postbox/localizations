@@ -222,6 +222,7 @@
 <!ENTITY tagButton.key "T">
 <!ENTITY signatureButton.label "Подписи">
 <!ENTITY responseButton.label "Ответы">
+<!ENTITY clipButton.label "клипсы">
 <!ENTITY compose.sidebar.label "Боковая панель">
 <!ENTITY compositionGoals.label "Ограничения">
 <!ENTITY formattingToolbar.label "Панель инструментов">
@@ -242,6 +243,7 @@
 <!ENTITY tagButton.tooltip "Добавить метку(и) для сообщения">
 <!ENTITY signatureButton.tooltip "Вставить подпись">
 <!ENTITY responseButton.tooltip "Вставить ответ">
+<!ENTITY clipButton.tooltip "Вставить клип">
 <!ENTITY compose.sidebar.tooltip "Показать боковую панель">
 <!ENTITY compositionGoals.tooltip "Показать или скрыть строку состояния ограничений в окне создания сообщения">
 <!ENTITY formattingToolbar.tooltip "Показать или скрыть панель инструментов">
@@ -330,6 +332,8 @@
 <!ENTITY newSignature.label "Создать подпись…">
 <!ENTITY editResponses.label "Изменить ответы…">
 <!ENTITY newResponse.label "Новый ответ…">
+<!ENTITY editClips.label "Редактировать клипы...">
+<!ENTITY newClip.label "Новый клип ...">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Добавить словари…">
@@ -418,6 +422,7 @@
 <!ENTITY pbStatsTime.label "Время:">
 
 <!ENTITY pbCreateResponse.label "Создать ответ…">
+<!ENTITY pbCreateClip.label "Создать клип...">
 <!ENTITY pbSearchGoogle.label "Поиск Google">
 
 <!-- Template Placeholders -->
