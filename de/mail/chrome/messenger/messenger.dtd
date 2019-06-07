@@ -528,7 +528,7 @@
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY throbberItem.title "Aktivitätsindikator">
 <!ENTITY junkItem.title "Junk">
-<!ENTITY junkButton.label "Spam">
+<!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Kein Junk">
 <!ENTITY addressBookButton.label "Adressbuch">
 <!ENTITY chatButton.label "Chat">
