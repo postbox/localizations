@@ -177,6 +177,8 @@
 <!ENTITY switchBetweenNormalAndCode.tooltip          "ALterna visualizzazione Normale e Codice">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Rientro testo a sinistra (sposta a sinistra)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Rientro testo a destra (spostar a destra)">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip    "Modifica intestazione sorgente">
+<!ENTITY highlightToolbarCmd.tooltip          		 "Testo evidenziato">
 
 <!-- inline message editing context menu -->
 <!ENTITY spellAddToDictionary.label                  "Aggiungi al dizionario">

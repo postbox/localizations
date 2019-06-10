@@ -177,6 +177,10 @@
 <!ENTITY switchBetweenNormalAndCode.tooltip          "Переключение между обычным режимом просмотра и режимом просмотра кода">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Выступ текста (переместить влево)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Отступ текста (переместить вправо)">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip    "Edit source header">
+<!ENTITY highlightToolbarCmd.tooltip          		 "Highlight">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip    "EИзменить исходный заголовок">
+<!ENTITY highlightToolbarCmd.tooltip          		 "Выделите текст">
 
 <!-- inline message editing context menu -->
 <!ENTITY spellAddToDictionary.label                  "Добавить в словарь">

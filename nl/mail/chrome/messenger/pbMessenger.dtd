@@ -177,6 +177,8 @@
 <!ENTITY switchBetweenNormalAndCode.tooltip          "Wissel tussen Normale en Code weergaves">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Tekst laten terugspringen (verplaatsen naar links)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Tekst laten inspringen (verplaatsen naar rechts)">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip    "Bewerk de bronkop">
+<!ENTITY highlightToolbarCmd.tooltip          		 "Tekst markeren">
 
 <!-- inline message editing context menu -->
 <!ENTITY spellAddToDictionary.label                  "Toevoegen aan woordenboek">

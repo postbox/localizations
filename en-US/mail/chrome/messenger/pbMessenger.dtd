@@ -177,6 +177,9 @@
 <!ENTITY switchBetweenNormalAndCode.tooltip          "Switch between Normal and Code views">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Outdent text (move left)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Indent text (move right)">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip    "Edit source header">
+<!ENTITY highlightToolbarCmd.tooltip          		 "Highlight">
+
 
 <!-- inline message editing context menu -->
 <!ENTITY spellAddToDictionary.label                  "Add to Dictionary">

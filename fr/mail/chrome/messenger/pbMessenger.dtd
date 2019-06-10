@@ -177,6 +177,8 @@
 <!ENTITY switchBetweenNormalAndCode.tooltip          "Alterner entre la vue normale et la vue du code">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Diminuer le retrait (vers la gauche)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Augmenter le retrait (vers la droite)">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip    "Modifier l'en-tête de la source">
+<!ENTITY highlightToolbarCmd.tooltip          		 "Texte surligné">
 
 <!-- inline message editing context menu -->
 <!ENTITY spellAddToDictionary.label                  "Ajouter au dictionnaire">
