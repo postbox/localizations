@@ -386,6 +386,8 @@
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
 <!ENTITY pbRemoveTextToolbarCmd.label "Rimuovi stili di testo">
 <!ENTITY switchBetweenNormalAndCode.tooltip "Alterna tra visualizzazioni Normale e Codice">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip          "Modifica intestazione sorgente">
+
 
 <!ENTITY pbComposeSidebar.label "Barra laterale">
 <!ENTITY pbComposeSidebar.accesskey "S">
