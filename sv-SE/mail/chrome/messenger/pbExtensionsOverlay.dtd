@@ -1,3 +1,15 @@
-<!ENTITY pbGetExtensions.label           "Hämta tillägg">
-<!ENTITY pbInstalledExtensions.label     "Installerade tillägg">
+<!--
+  ***** BEGIN POSTBOX LICENSE BLOCK *****
+  *
+  * pbExensionsOverlay.dtd
+  *
+  * Copyright (c) 2007-2019 Postbox, Inc.
+  *
+  ***** END POSTBOX LICENSE BLOCK *****
+-->
+
+<!ENTITY pbGetExtensions.label           "Få Labs-projekt">
+<!ENTITY pbInstalledExtensions.label     "Labs">
 <!ENTITY pbGoBack.label  "Tillbaka">
+<!ENTITY pbLegal1.description  "Labs-projekt är experimentella och kan ändras eller tas bort av Postbox, Inc. när som helst, av någon anledning utan föregående meddelande.">
+<!ENTITY pbLegal2.description  "Om Postbox inte fungerar som du förväntar dig, inaktivera Labs-projekt för att se om problemet rensar upp för dig. För support, kontakta tredje partens utvecklare av labs-projektet. Labs-projekt från tredje part utvecklare stöds inte av Postbox, Inc.">

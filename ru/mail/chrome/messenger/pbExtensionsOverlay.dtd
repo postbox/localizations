@@ -1,3 +1,15 @@
-<!ENTITY pbGetExtensions.label           "Получить расширения">
-<!ENTITY pbInstalledExtensions.label     "Установленные расширения">
+<!--
+  ***** BEGIN POSTBOX LICENSE BLOCK *****
+  *
+  * pbExensionsOverlay.dtd
+  *
+  * Copyright (c) 2007-2019 Postbox, Inc.
+  *
+  ***** END POSTBOX LICENSE BLOCK *****
+-->
+
+<!ENTITY pbGetExtensions.label           "Получить лабораторные проекты">
+<!ENTITY pbInstalledExtensions.label     "Задания">
 <!ENTITY pbGoBack.label  "Назад">
+<!ENTITY pbLegal1.description  "Лабораторные проекты являются экспериментальными и могут быть изменены или удалены Postbox, Inc. в любое время и по любой причине без предварительного уведомления.">
+<!ENTITY pbLegal2.description  "Если Postbox работает не так, как вы ожидаете, отключите лабораторные проекты, чтобы увидеть, устранена ли проблема для вас. Для поддержки, пожалуйста, свяжитесь со сторонним разработчиком проекта лаборатории. Лабораторные проекты сторонних разработчиков не поддерживаются Postbox, Inc.">
