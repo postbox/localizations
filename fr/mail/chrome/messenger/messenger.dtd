@@ -423,7 +423,7 @@
 <!ENTITY addressBookCmd.label "Carnet d'adresses">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Modules complémentaires">
+<!ENTITY addons.label "Des laboratoires">
 <!ENTITY addons.accesskey "c">
 <!ENTITY activitymanager.label "Activités">
 <!ENTITY activitymanager.accesskey "v">

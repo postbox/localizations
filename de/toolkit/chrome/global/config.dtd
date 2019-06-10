@@ -6,13 +6,13 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Dadurch erlischt Ihre Garantie!">
+<!ENTITY aboutWarningTitle.label "Warnung!">
 <!ENTITY aboutWarningText.label "Die Verwendung dieses Konfigurations-Editors kann sich nachteilig auf die Stabilität, Sicherheit und Leistung dieser Anwendung auswirken. Die Verwendung dieses Konfigurations-Editors ohne direkte Genehmigung von Postbox, Inc. führt zum Erlöschen der Garantie.">
 <!ENTITY aboutWarningButton2.label "Ich verstehe und akzeptiere diese Bedingungen.">
 <!ENTITY aboutWarningCheckbox.label "Diese Meldung beim nächsten Mal anzeigen">
 
 <!-- For use in the warning dialog regarding add-ons -->
-<!ENTITY viewExtensionsWarningDescription.label "Von Drittanbietern entwickelte Add-Ons werden von Postbox, Inc. nicht unterstützt. Durch die Installation eines Drittanbieter-Add-Ons erlischt die Produktgarantie. Für die Unterstützung von Add-Ons wenden Sie sich bitte an den Drittanbieter des Add-Ons.">
+<!ENTITY viewExtensionsWarningDescription.label "Labs-Projekte sind experimentell und können von Postbox, Inc. jederzeit und ohne vorherige Ankündigung geändert oder entfernt werden. Labs-Projekte von Drittanbieter-Entwicklern werden von Postbox, Inc. nicht unterstützt. Wenn Sie Labs aktivieren, erlischt Ihre Produktgarantie. Wenden Sie sich an den Drittanbieter des Labs-Projekts, um Unterstützung zu erhalten.">
 
 <!ENTITY searchPrefs.label "Suchen:">
 <!ENTITY searchPrefs.accesskey "S">

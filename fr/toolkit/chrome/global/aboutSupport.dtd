@@ -19,7 +19,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "Tous les rapports de plantage">
 <!ENTITY aboutSupport.crashes.noConfig "Cette application n’a pas été configurée pour afficher les rapports de plantage.">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
+<!ENTITY aboutSupport.extensionsTitle "Labs">
 <!ENTITY aboutSupport.extensionName "Nom">
 <!ENTITY aboutSupport.extensionEnabled "Activée">
 <!ENTITY aboutSupport.extensionVersion "Version">

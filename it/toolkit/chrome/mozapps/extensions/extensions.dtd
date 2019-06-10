@@ -16,7 +16,7 @@
 <!ENTITY listEmpty.findUpdates.label "Controlla aggiornamenti">
 <!ENTITY listEmpty.search.label "Non è stato trovato alcun componente aggiuntivo corrispondente">
 <!ENTITY listEmpty.button.label "Scopri altre informazioni sui componenti aggiuntivi">
-<!ENTITY installAddonFromFile.label "Installa componente aggiuntivo da file…">
+<!ENTITY installAddonFromFile.label "Installa il progetto Labs dal file…">
 <!ENTITY installAddonFromFile.accesskey "I">
 <!ENTITY toolsMenu.tooltip "Strumenti per tutti i componenti aggiuntivi">
 
@@ -29,7 +29,7 @@
 <!ENTITY debugAddons.accesskey "D">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label "Tutti i componenti aggiuntivi sono stati disattivati dalla modalità provvisoria.">
+<!ENTITY warning.safemode.label "Tutti i progetti di Labs sono stati disabilitati in modalità sicura.">
 <!ENTITY warning.checkcompatibility.label "Il controllo di compatibilità dei componenti aggiuntivi è disattivato. Potrebbero essere presenti dei componenti aggiuntivi non compatibili.">
 <!ENTITY warning.checkcompatibility.enable.label "Attiva">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Attiva il controllo di compatibilità dei componenti aggiuntivi">
@@ -51,7 +51,7 @@
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label "Aggiorna automaticamente i componenti aggiuntivi">
+<!ENTITY updates.updateAddonsAutomatically.label "Aggiorna automaticamente i progetti Labs">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -59,9 +59,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label "Ripristina l'aggiornamento automatico per tutti i componenti aggiuntivi">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Reimposta automaticamente tutti i progetti di Labs da aggiornare">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey "R">
-<!ENTITY updates.resetUpdatesToManual.label "Ripristina l'aggiornamento manuale per tutti i componenti aggiuntivi">
+<!ENTITY updates.resetUpdatesToManual.label "Reimposta manualmente tutti i progetti di Labs da aggiornare">
 <!ENTITY updates.resetUpdatesToManual.accesskey "R">
 <!ENTITY updates.updating.label "Aggiornamento dei componenti aggiuntivi in corso">
 <!ENTITY updates.installed.label "I componenti aggiuntivi sono stati aggiornati.">

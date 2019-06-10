@@ -423,7 +423,7 @@
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Plugins">
+<!ENTITY addons.label "Labs">
 <!ENTITY addons.accesskey "P">
 <!ENTITY activitymanager.label "Activiteitenbeheerder">
 <!ENTITY activitymanager.accesskey "e">

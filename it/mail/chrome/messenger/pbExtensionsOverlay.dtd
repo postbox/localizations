@@ -1,3 +1,15 @@
-<!ENTITY pbGetExtensions.label           "Ottieni estensioni">
-<!ENTITY pbInstalledExtensions.label     "Estensioni installate">
+<!--
+  ***** BEGIN POSTBOX LICENSE BLOCK *****
+  *
+  * pbExensionsOverlay.dtd
+  *
+  * Copyright (c) 2007-2019 Postbox, Inc.
+  *
+  ***** END POSTBOX LICENSE BLOCK *****
+-->
+
+<!ENTITY pbGetExtensions.label           "Ottieni progetti Labs">
+<!ENTITY pbInstalledExtensions.label     "Labs">
 <!ENTITY pbGoBack.label  "Indietro">
+<!ENTITY pbLegal1.description  "I progetti Labs sono sperimentali e possono essere modificati o rimossi da Postbox, Inc. in qualsiasi momento e per qualsiasi motivo senza preavviso.">
+<!ENTITY pbLegal2.description  "Se Postbox non funziona come ti aspetti, disattiva i progetti di laboratorio per vedere se il problema si risolve. Per il supporto, contatta lo sviluppatore di terze parti del progetto labs. I progetti Labs di sviluppatori di terze parti non sono supportati da Postbox, Inc.">

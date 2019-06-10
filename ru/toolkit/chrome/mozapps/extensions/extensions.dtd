@@ -16,7 +16,7 @@
 <!ENTITY listEmpty.findUpdates.label "Проверить наличие обновлений">
 <!ENTITY listEmpty.search.label "Ни одного подходящего дополнения не найдено">
 <!ENTITY listEmpty.button.label "Узнать больше о дополнениях">
-<!ENTITY installAddonFromFile.label "Установить дополнение из файла…">
+<!ENTITY installAddonFromFile.label "Установить проект Labs из файла…">
 <!ENTITY installAddonFromFile.accesskey "а">
 <!ENTITY toolsMenu.tooltip "Инструменты для всех дополнений">
 
@@ -29,7 +29,7 @@
 <!ENTITY debugAddons.accesskey "л">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label "В безопасном режиме все дополнения отключены.">
+<!ENTITY warning.safemode.label "Все проекты лабораторий были отключены в безопасном режиме.">
 <!ENTITY warning.checkcompatibility.label "Проверка совместимости дополнений отключена. У вас могут иметься несовместимые дополнения.">
 <!ENTITY warning.checkcompatibility.enable.label "Включить">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Включить проверку совместимости дополнений">
@@ -51,7 +51,7 @@
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label "Автоматически обновлять дополнения">
+<!ENTITY updates.updateAddonsAutomatically.label "Автоматическое обновление лабораторных проектов">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "в">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -59,9 +59,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label "Установить для всех дополнений режим автоматического обновления">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Сбросить все проекты Labs для автоматического обновления">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey "с">
-<!ENTITY updates.resetUpdatesToManual.label "Установить для всех дополнений режим ручного обновления">
+<!ENTITY updates.resetUpdatesToManual.label "Сброс всех лабораторных проектов для обновления вручную">
 <!ENTITY updates.resetUpdatesToManual.accesskey "с">
 <!ENTITY updates.updating.label "Обновление дополнений">
 <!ENTITY updates.installed.label "Ваши дополнения были обновлены.">

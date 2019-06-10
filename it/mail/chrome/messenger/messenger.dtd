@@ -423,7 +423,7 @@
 <!ENTITY addressBookCmd.label "Rubrica">
 <!ENTITY addressBookCmd.accesskey "R">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Componenti aggiuntivi">
+<!ENTITY addons.label "Labs">
 <!ENTITY addons.accesskey "C">
 <!ENTITY activitymanager.label "Registro attività">
 <!ENTITY activitymanager.accesskey "v">

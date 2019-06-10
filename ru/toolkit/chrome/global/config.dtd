@@ -6,13 +6,13 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Это аннулирует вашу гарантию!">
+<!ENTITY aboutWarningTitle.label "Предупреждение!">
 <!ENTITY aboutWarningText.label "Использование этого редактора конфигурации может нанести ущерб стабильности, безопасности и производительности этого приложения. Использование этого редактора конфигурации без прямого разрешения Postbox, Inc. аннулирует вашу гарантию.">
 <!ENTITY aboutWarningButton2.label "Я понимаю и принимаю эти условия.">
 <!ENTITY aboutWarningCheckbox.label "Показывать это предупреждение в следующий раз">
 
 <!-- For use in the warning dialog regarding add-ons -->
-<!ENTITY viewExtensionsWarningDescription.label "Postbox, Inc. не поддерживает надстройки, разработанные сторонними разработчиками, и установка стороннего надстройки приведет к аннулированию гарантии на ваш продукт. Для поддержки дополнений, пожалуйста, свяжитесь со сторонним разработчиком дополнения.">
+<!ENTITY viewExtensionsWarningDescription.label "Лабораторные проекты являются экспериментальными и могут быть изменены или удалены Postbox, Inc. в любое время и по любой причине без предварительного уведомления. Postbox, Inc. не поддерживает проекты Labs сторонних разработчиков, поэтому включение Labs приведет к аннулированию гарантии на ваш продукт. За поддержкой обращайтесь к стороннему разработчику проекта Labs.">
 
 <!ENTITY searchPrefs.label "Поиск:">
 <!ENTITY searchPrefs.accesskey "о">

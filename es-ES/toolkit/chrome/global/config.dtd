@@ -6,13 +6,13 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "¡Esto anulará su garantía!">
+<!ENTITY aboutWarningTitle.label "¡Advertencia!">
 <!ENTITY aboutWarningText.label "El uso de este Editor de configuración puede ser perjudicial para la estabilidad, la seguridad y el rendimiento de esta aplicación. El uso de este Editor de configuración sin el permiso directo de Postbox, Inc. anulará la garantía.">
 <!ENTITY aboutWarningButton2.label "Entiendo y acepto estos términos.">
 <!ENTITY aboutWarningCheckbox.label "Mostrar esta advertencia la próxima vez">
 
 <!-- For use in the warning dialog regarding add-ons -->
-<!ENTITY viewExtensionsWarningDescription.label "Postbox, Inc. no admite los complementos desarrollados por terceros, y la instalación de un complemento de terceros anulará la garantía de su producto. Para obtener soporte para complementos, comuníquese con el desarrollador externo del complemento.">
+<!ENTITY viewExtensionsWarningDescription.label "Los proyectos de Labs son experimentales y Postbox, Inc. los puede modificar o eliminar en cualquier momento y por cualquier motivo sin previo aviso. Postbox, Inc. no admite los proyectos de Labs de desarrolladores externos, y la habilitación de Labs anulará la garantía de su producto. Para soporte, contacte al desarrollador externo del proyecto Labs.">
 
 <!ENTITY searchPrefs.label "Buscar:">
 <!ENTITY searchPrefs.accesskey "B">

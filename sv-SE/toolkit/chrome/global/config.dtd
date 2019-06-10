@@ -6,13 +6,13 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Detta kommer att upphäva din garanti!">
+<!ENTITY aboutWarningTitle.label "Varning!">
 <!ENTITY aboutWarningText.label "Användning av denna Config Editor kan vara skadlig för stabiliteten, säkerheten och prestandan i denna applikation. Användning av denna Config Editor utan direkt tillstånd från Postbox, Inc. upphäver din garanti.">
 <!ENTITY aboutWarningButton2.label "Jag förstår och accepterar dessa villkor.">
 <!ENTITY aboutWarningCheckbox.label "Visa denna varning nästa gång">
 
 <!-- For use in the warning dialog regarding add-ons -->
-<!ENTITY viewExtensionsWarningDescription.label "Tillägg utvecklade av tredje part stöds inte av Postbox, Inc. och installationen av ett tillägg till tredje part upphäver din produktgaranti. För support för tillägg kan du kontakta utvecklaren av tredje parten för tillägget.">
+<!ENTITY viewExtensionsWarningDescription.label "Labs-projekt är experimentella och kan ändras eller tas bort av Postbox, Inc. när som helst, av någon anledning utan föregående meddelande. Labs-projekt från tredje part-utvecklare stöds inte av Postbox, Inc. och gör det möjligt för Labs att upphäva din produktgaranti. För support, kontakta tredje partens utvecklare av Labs-projektet.">
 
 <!ENTITY searchPrefs.label "Sök:">
 <!ENTITY searchPrefs.accesskey "ö">

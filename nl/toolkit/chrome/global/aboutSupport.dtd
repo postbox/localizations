@@ -19,7 +19,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "Alle crashrapporten">
 <!ENTITY aboutSupport.crashes.noConfig "Deze toepassing is niet geconfigureerd om crashrapporten weer te geven.">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensies">
+<!ENTITY aboutSupport.extensionsTitle "Labs">
 <!ENTITY aboutSupport.extensionName "Naam">
 <!ENTITY aboutSupport.extensionEnabled "Ingeschakeld">
 <!ENTITY aboutSupport.extensionVersion "Versie">

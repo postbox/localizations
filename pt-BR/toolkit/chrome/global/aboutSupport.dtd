@@ -19,7 +19,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "Todos os relatórios de travamentos">
 <!ENTITY aboutSupport.crashes.noConfig "Este aplicativo não foi configurado para exibir relatórios de travamento.">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensões">
+<!ENTITY aboutSupport.extensionsTitle "Labs">
 <!ENTITY aboutSupport.extensionName "Nome">
 <!ENTITY aboutSupport.extensionEnabled "Ativa">
 <!ENTITY aboutSupport.extensionVersion "Versão">

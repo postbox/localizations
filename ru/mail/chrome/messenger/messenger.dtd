@@ -423,7 +423,7 @@
 <!ENTITY addressBookCmd.label "Адресная книга">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Дополнения">
+<!ENTITY addons.label "Задания">
 <!ENTITY addons.accesskey "d">
 <!ENTITY activitymanager.label "Диспетчер работы">
 <!ENTITY activitymanager.accesskey "и">

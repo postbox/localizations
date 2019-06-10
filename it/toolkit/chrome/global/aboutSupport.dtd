@@ -16,7 +16,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "Tutte le segnalazioni">
 <!ENTITY aboutSupport.crashes.noConfig "Questa applicazione non è stata configurata per visualizzare le segnalazioni di arresto anomalo.">
 
-<!ENTITY aboutSupport.extensionsTitle "Estensioni">
+<!ENTITY aboutSupport.extensionsTitle "Labs">
 <!ENTITY aboutSupport.extensionName "Nome">
 <!ENTITY aboutSupport.extensionEnabled "Attiva">
 <!ENTITY aboutSupport.extensionVersion "Versione">

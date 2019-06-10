@@ -16,7 +16,7 @@
 <!ENTITY listEmpty.findUpdates.label          "Sök efter uppdateringar">
 <!ENTITY listEmpty.search.label               "Kunde inte hitta några matchande tillägg">
 <!ENTITY listEmpty.button.label               "Läs mer om tillägg">
-<!ENTITY installAddonFromFile.label           "Installera tillägg från fil…">
+<!ENTITY installAddonFromFile.label           "Installera Labs Project från File…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Verktyg för alla tillägg">
 
@@ -29,7 +29,7 @@
 <!ENTITY debugAddons.accesskey                "s">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Alla tillägg är inaktiverade i felsäkert läge.">
+<!ENTITY warning.safemode.label                    "Alla Labs-projekt har blivit inaktiverade i säkert läge.">
 <!ENTITY warning.checkcompatibility.label          "Kompatibilitetskontroll av tillägg är inaktiverat. Du kan ha inkompatibla tillägg.">
 <!ENTITY warning.checkcompatibility.enable.label   "Aktivera">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Aktiverar kompatibilitetskontroll av tillägg">
@@ -51,7 +51,7 @@
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Installera uppdateringar automatiskt">
+<!ENTITY updates.updateAddonsAutomatically.label     "Uppdatera Labs-projekt automatiskt">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "t">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -59,9 +59,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Ställ om alla tillägg till automatisk uppdatering">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Återställ alla Labs-projekt för att uppdatera automatiskt">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "S">
-<!ENTITY updates.resetUpdatesToManual.label          "Ställ om alla tillägg till manuell uppdatering">
+<!ENTITY updates.resetUpdatesToManual.label          "Återställ alla Labs-projekt för att uppdatera manuellt">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "S">
 <!ENTITY updates.updating.label               "Uppdaterar tillägg">
 <!ENTITY updates.installed.label              "Dina tillägg har uppdaterats.">
