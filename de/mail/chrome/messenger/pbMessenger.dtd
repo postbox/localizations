@@ -177,6 +177,8 @@
 <!ENTITY switchBetweenNormalAndCode.tooltip          "Zwischen Normal- und Codeansicht wechseln">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Texteinzug verkleinern (nach links schieben)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Texteinzug vergrößern (nach rechts schieben)">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip    "Quell-Header bearbeiten">
+<!ENTITY highlightToolbarCmd.tooltip          		 "Text hervorheben">
 
 <!-- inline message editing context menu -->
 <!ENTITY spellAddToDictionary.label                  "Zu Wörterbuch hinzufügen">

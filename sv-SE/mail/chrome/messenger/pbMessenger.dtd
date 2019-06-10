@@ -177,6 +177,8 @@
 <!ENTITY switchBetweenNormalAndCode.tooltip          "Växla mellan vanlig vy och kodvy">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Utdragen text (flytta vänster)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Indragen text (flytta höger)">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip    "Editar el encabezado de la fuente">
+<!ENTITY highlightToolbarCmd.tooltip          		 "Markera texten">
 
 <!-- inline message editing context menu -->
 <!ENTITY spellAddToDictionary.label                  "Lägg till i katalog">

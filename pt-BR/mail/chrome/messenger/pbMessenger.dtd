@@ -177,6 +177,8 @@
 <!ENTITY switchBetweenNormalAndCode.tooltip          "Alternar entre exibição Normal e de Código">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Diminuir recuo do texto (esquerda)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Aumentar recuo do texto (direita)">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip    "Editar cabeçalho de origem">
+<!ENTITY highlightToolbarCmd.tooltip          		 "Realçar texto">
 
 <!-- inline message editing context menu -->
 <!ENTITY spellAddToDictionary.label                  "Adicionar ao dicionário">

@@ -177,6 +177,8 @@
 <!ENTITY switchBetweenNormalAndCode.tooltip          "Cambiar entre vistas Normal y de Código">
 <!ENTITY outdentEditMsgToolbarCmd.tooltip            "Endentar texto (mover hacia la izquierda)">
 <!ENTITY indentEditMsgToolbarCmd.tooltip             "Indentar texto (mover hacia la derecha)">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip    "Redigera källhuvudet">
+<!ENTITY highlightToolbarCmd.tooltip          		 "Subrayar el texto">
 
 <!-- inline message editing context menu -->
 <!ENTITY spellAddToDictionary.label                  "Añadir al diccionario">
