@@ -386,6 +386,8 @@
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
 <!ENTITY pbRemoveTextToolbarCmd.label "Tekstopmaak verwijderen">
 <!ENTITY switchBetweenNormalAndCode.tooltip "Wissel tussen Normale en Code weergaves">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip          "Bewerk de bronkop">
+
 
 <!ENTITY pbComposeSidebar.label "Zijpaneel">
 <!ENTITY pbComposeSidebar.accesskey "Z">

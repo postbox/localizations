@@ -386,6 +386,8 @@
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
 <!ENTITY pbRemoveTextToolbarCmd.label "ta bort textstiler">
 <!ENTITY switchBetweenNormalAndCode.tooltip "Växla mellan vanlig vy och kodvy">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip          "Redigera källhuvudet">
+
 
 <!ENTITY pbComposeSidebar.label "Sidofält">
 <!ENTITY pbComposeSidebar.accesskey "S">

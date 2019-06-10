@@ -386,6 +386,8 @@
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML-Optionen">
 <!ENTITY pbRemoveTextToolbarCmd.label "Textformatierungen entfernen">
 <!ENTITY switchBetweenNormalAndCode.tooltip "Zwischen Normal- und Codeansicht wechseln">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip          "Quell-Header bearbeiten">
+
 
 <!ENTITY pbComposeSidebar.label "Seitenleiste">
 <!ENTITY pbComposeSidebar.accesskey "S">

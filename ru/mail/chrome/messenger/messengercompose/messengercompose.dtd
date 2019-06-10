@@ -386,6 +386,8 @@
 <!ENTITY pbInsertHTMLToolbarCmd.label "Вставить или изменить HTML">
 <!ENTITY pbRemoveTextToolbarCmd.label "Удалить стили текста">
 <!ENTITY switchBetweenNormalAndCode.tooltip "Переключение между обычным режимом просмотра и режимом просмотра кода">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip          "EИзменить исходный заголовок">
+
 
 <!ENTITY pbComposeSidebar.label "Боковая панель">
 <!ENTITY pbComposeSidebar.accesskey "S">

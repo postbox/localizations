@@ -386,6 +386,8 @@
 <!ENTITY pbInsertHTMLToolbarCmd.label "HTML">
 <!ENTITY pbRemoveTextToolbarCmd.label "Effacer la mise en forme du texte">
 <!ENTITY switchBetweenNormalAndCode.tooltip "Changer entre la vue normale et la vue Code">
+<!ENTITY switchBetweenNormalAndHeaderCode.tooltip          "Modifier l'en-tête de la source">
+
 
 <!ENTITY pbComposeSidebar.label "Barre latérale">
 <!ENTITY pbComposeSidebar.accesskey "S">
