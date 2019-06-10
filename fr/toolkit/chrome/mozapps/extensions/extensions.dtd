@@ -16,7 +16,7 @@
 <!ENTITY listEmpty.findUpdates.label          "Vérifier les mises à jour">
 <!ENTITY listEmpty.search.label               "Aucun module correspondant">
 <!ENTITY listEmpty.button.label               "En apprendre plus sur les modules complémentaires">
-<!ENTITY installAddonFromFile.label           "Installer un module depuis un fichier…">
+<!ENTITY installAddonFromFile.label           "Installer le projet Labs à partir d'un fichier…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Outils pour tous les modules">
 
@@ -29,7 +29,7 @@
 <!ENTITY debugAddons.accesskey                "b">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Tous les modules complémentaires ont été désactivés par le mode sans échec.">
+<!ENTITY warning.safemode.label                    "Tous les projets de laboratoire ont été désactivés en mode sans échec.">
 <!ENTITY warning.checkcompatibility.label          "La vérification de compatibilité des modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires incompatibles.">
 <!ENTITY warning.checkcompatibility.enable.label   "Activer">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Activer la vérification de compatibilité">
@@ -51,7 +51,7 @@
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Mettre à jour les modules automatiquement">
+<!ENTITY updates.updateAddonsAutomatically.label     "Mise à jour automatique des projets de laboratoires">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "M">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -59,9 +59,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Activer la mise à jour automatique pour tous les modules">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Réinitialiser tous les projets de laboratoires pour mettre à jour automatiquement">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "c">
-<!ENTITY updates.resetUpdatesToManual.label          "Désactiver la mise à jour automatique pour tous les modules">
+<!ENTITY updates.resetUpdatesToManual.label          "Réinitialiser manuellement tous les projets de laboratoires">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "D">
 <!ENTITY updates.updating.label               "Mise à jour des modules">
 <!ENTITY updates.installed.label              "Vos modules ont été mis à jour.">

@@ -17,7 +17,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "Все сообщения о падениях">
 <!ENTITY aboutSupport.crashes.noConfig "Это приложение не было настроено на отображение сообщений о падениях.">
 
-<!ENTITY aboutSupport.extensionsTitle "Расширения">
+<!ENTITY aboutSupport.extensionsTitle "Labs">
 <!ENTITY aboutSupport.extensionName "Имя">
 <!ENTITY aboutSupport.extensionEnabled "Включено">
 <!ENTITY aboutSupport.extensionVersion "Версия">

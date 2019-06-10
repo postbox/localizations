@@ -19,7 +19,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "Alla kraschrapporter">
 <!ENTITY aboutSupport.crashes.noConfig "Det här programmet är inte konfigurerat att visa kraschrapporter.">
 
-<!ENTITY aboutSupport.extensionsTitle "Tillägg">
+<!ENTITY aboutSupport.extensionsTitle "Labs">
 <!ENTITY aboutSupport.extensionName "Namn">
 <!ENTITY aboutSupport.extensionEnabled "Aktiverad">
 <!ENTITY aboutSupport.extensionVersion "Version">

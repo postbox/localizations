@@ -19,7 +19,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "Alle Absturzberichte">
 <!ENTITY aboutSupport.crashes.noConfig "Diese Anwendung wurde nicht für die Anzeige von Absturzberichten konfiguriert.">
 
-<!ENTITY aboutSupport.extensionsTitle "Erweiterungen">
+<!ENTITY aboutSupport.extensionsTitle "Labs">
 <!ENTITY aboutSupport.extensionName "Name">
 <!ENTITY aboutSupport.extensionEnabled "Aktiviert">
 <!ENTITY aboutSupport.extensionVersion "Version">

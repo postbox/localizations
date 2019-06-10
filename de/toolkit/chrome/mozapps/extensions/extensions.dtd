@@ -16,7 +16,7 @@
 <!ENTITY listEmpty.findUpdates.label          "Nach Updates suchen">
 <!ENTITY listEmpty.search.label               "Es konnten keine übereinstimmenden Add-ons gefunden werden">
 <!ENTITY listEmpty.button.label               "Mehr über Add-ons erfahren">
-<!ENTITY installAddonFromFile.label           "Add-on aus Datei installieren…">
+<!ENTITY installAddonFromFile.label           "Installieren Sie Labs Project aus der Datei…">
 <!ENTITY installAddonFromFile.accesskey       "A">
 <!ENTITY toolsMenu.tooltip                    "Tools für alle Add-ons">
 
@@ -29,7 +29,7 @@
 <!ENTITY debugAddons.accesskey                "b">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Alle Add-ons wurden durch den SafeMode deaktiviert.">
+<!ENTITY warning.safemode.label                    "Alle Labs-Projekte wurden im abgesicherten Modus deaktiviert.">
 <!ENTITY warning.checkcompatibility.label          "Die Addon-Kompatibilitäts-Prüfung ist deaktiviert. Sie könnten inkompatible Add-ons haben.">
 <!ENTITY warning.checkcompatibility.enable.label   "Aktivieren">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Addon-Kompatibilitäts-Prüfung aktivieren">
@@ -51,7 +51,7 @@
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Add-ons automatisch aktualisieren">
+<!ENTITY updates.updateAddonsAutomatically.label     "Labs-Projekte automatisch aktualisieren">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "a">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -59,9 +59,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Alle Add-ons umstellen auf automatische Aktualisierung">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Setzen Sie alle Labs-Projekte zurück, um sie automatisch zu aktualisieren">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "u">
-<!ENTITY updates.resetUpdatesToManual.label          "Alle Add-ons umstellen auf manuelle Aktualisierung">
+<!ENTITY updates.resetUpdatesToManual.label          "Setzen Sie alle Labs-Projekte zurück, um sie manuell zu aktualisieren">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "u">
 <!ENTITY updates.updating.label               "Add-ons werden aktualisiert">
 <!ENTITY updates.installed.label              "Ihre Add-ons wurden aktualisiert.">

@@ -6,13 +6,13 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Dit maakt uw garantie ongeldig!">
+<!ENTITY aboutWarningTitle.label "Waarschuwing!">
 <!ENTITY aboutWarningText.label "Het gebruik van deze Config Editor kan schadelijk zijn voor de stabiliteit, veiligheid en prestaties van deze toepassing. Gebruik van deze Config Editor zonder directe toestemming van Postbox, Inc. maakt uw garantie ongeldig.">
 <!ENTITY aboutWarningButton2.label "Ik begrijp en accepteer deze voorwaarden.">
 <!ENTITY aboutWarningCheckbox.label "Deze waarschuwing de volgende keer tonen">
 
 <!-- For use in the warning dialog regarding add-ons -->
-<!ENTITY viewExtensionsWarningDescription.label "Door derden ontwikkelde add-ons worden niet ondersteund door Postbox, Inc. en door de installatie van een add-on van derden vervalt uw productgarantie. Neem voor add-onsondersteuning contact op met de externe ontwikkelaar van de add-on.">
+<!ENTITY viewExtensionsWarningDescription.label "Labsprojecten zijn experimenteel en kunnen door Postbox, Inc. op elk moment en om elke reden zonder kennisgeving worden gewijzigd of verwijderd. Labsprojecten van externe ontwikkelaars worden niet ondersteund door Postbox, Inc. en als u Labs inschakelt, vervalt uw productgarantie. Neem voor ondersteuning contact op met de externe ontwikkelaar van het Labs-project.">
 
 <!ENTITY searchPrefs.label "Zoeken:">
 <!ENTITY searchPrefs.accesskey "Z">

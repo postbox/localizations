@@ -16,7 +16,7 @@
 <!ENTITY listEmpty.findUpdates.label "Buscar actualizaciones">
 <!ENTITY listEmpty.search.label "No se ha podido encontrar ningún complemento que cumpla los criterios">
 <!ENTITY listEmpty.button.label "Aprender más sobre los complementos">
-<!ENTITY installAddonFromFile.label "Instalar complemento desde archivo…">
+<!ENTITY installAddonFromFile.label "Instalar Labs Project desde un archivo…">
 <!ENTITY installAddonFromFile.accesskey "I">
 <!ENTITY toolsMenu.tooltip "Herramientas para todos los complementos">
 
@@ -29,7 +29,7 @@
 <!ENTITY debugAddons.accesskey "u">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label "Todos los complementos han sido desactivados por el modo seguro.">
+<!ENTITY warning.safemode.label "Todos los proyectos de Labs se han desactivado en modo seguro.">
 <!ENTITY warning.checkcompatibility.label "La comprobación de compatibilidad de los complementos está desactivada. Puede que tenga complementos incompatibles.">
 <!ENTITY warning.checkcompatibility.enable.label "Activar">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Activar comprobación de compatibilidad de complementos">
@@ -51,7 +51,7 @@
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label "Actualizar complementos automáticamente">
+<!ENTITY updates.updateAddonsAutomatically.label "Actualizar proyectos de Labs automáticamente">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -59,9 +59,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label "Reiniciar todos los complementos para actualizarlos automáticamente">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Restablecer todos los proyectos de Labs para actualizar automáticamente">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey "R">
-<!ENTITY updates.resetUpdatesToManual.label "Reiniciar todos los complementos para actualizarlos manualmente">
+<!ENTITY updates.resetUpdatesToManual.label "Restablecer todos los proyectos de Labs para actualizar manualmente">
 <!ENTITY updates.resetUpdatesToManual.accesskey "R">
 <!ENTITY updates.updating.label "Actualizando complementos">
 <!ENTITY updates.installed.label "Se han actualizado sus complementos.">
