@@ -321,6 +321,7 @@
 <!ENTITY highlightToolbarCmd.tooltip "Evidenziato">
 <!ENTITY italicToolbarCmd.tooltip "Corsivo">
 <!ENTITY underlineToolbarCmd.tooltip "Sottolineato">
+<!ENTITY strikethroughToolbarCmd.tooltip "Barrato">
 <!ENTITY bulletListToolbarCmd.tooltip "Crea o rimuovi l'elenco puntato">
 <!ENTITY numberListToolbarCmd.tooltip "Crea o rimuove l'elenco numerato">
 <!ENTITY outdentToolbarCmd.tooltip "Indentazione testo (verso sinistra)">

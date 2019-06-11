@@ -321,6 +321,7 @@
 <!ENTITY highlightToolbarCmd.tooltip "Realce">
 <!ENTITY italicToolbarCmd.tooltip "Itálico">
 <!ENTITY underlineToolbarCmd.tooltip "Sublinhar">
+<!ENTITY strikethroughToolbarCmd.tooltip "Tachado">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar ou remover lista com marcadores">
 <!ENTITY numberListToolbarCmd.tooltip "Aplicar ou remover lista numerada">
 <!ENTITY outdentToolbarCmd.tooltip "Diminuir recuo (mover para a esquerda)">

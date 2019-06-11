@@ -321,6 +321,7 @@
 <!ENTITY highlightToolbarCmd.tooltip "Resaltar">
 <!ENTITY italicToolbarCmd.tooltip "Cursiva">
 <!ENTITY underlineToolbarCmd.tooltip "Subrayar">
+<!ENTITY strikethroughToolbarCmd.tooltip "Tachado">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar o eliminar lista no numerada">
 <!ENTITY numberListToolbarCmd.tooltip "Aplicar o eliminar lista numerada">
 <!ENTITY outdentToolbarCmd.tooltip "Reducir sangrado (mover a la izquierda)">

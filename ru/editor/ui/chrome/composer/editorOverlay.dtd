@@ -321,6 +321,7 @@
 <!ENTITY highlightToolbarCmd.tooltip "Цвет выделения">
 <!ENTITY italicToolbarCmd.tooltip "Курсив">
 <!ENTITY underlineToolbarCmd.tooltip "Подчеркнутый">
+<!ENTITY strikethroughToolbarCmd.tooltip "Зачеркнутый">
 <!ENTITY bulletListToolbarCmd.tooltip "Добавить или удалить маркированный список">
 <!ENTITY numberListToolbarCmd.tooltip "Добавить или удалить нумерованный список">
 <!ENTITY outdentToolbarCmd.tooltip "Выступ текста (переместить влево)">

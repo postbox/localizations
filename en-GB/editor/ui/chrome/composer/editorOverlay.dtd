@@ -321,6 +321,7 @@
 <!ENTITY highlightToolbarCmd.tooltip "Highlight">
 <!ENTITY italicToolbarCmd.tooltip "Italic">
 <!ENTITY underlineToolbarCmd.tooltip "Underline">
+<!ENTITY strikethroughToolbarCmd.tooltip "Strikethrough">
 <!ENTITY bulletListToolbarCmd.tooltip "Apply or remove bulleted list">
 <!ENTITY numberListToolbarCmd.tooltip "Apply or remove numbered list">
 <!ENTITY outdentToolbarCmd.tooltip "Outdent text (move left)">
