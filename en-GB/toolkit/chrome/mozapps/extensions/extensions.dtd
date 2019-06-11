@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Add-ons Manager">
+<!ENTITY addons.windowTitle                   "Labs Manager">
 
 <!ENTITY search.placeholder                   "Search all add-ons">
 <!ENTITY search.buttonlabel                   "Search">
@@ -10,7 +10,7 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Loading…">
-<!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.installed.label            "You don't have any Labs Projects installed">
 <!ENTITY listEmpty.availableUpdates.label     "No updates found">
 <!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
 <!ENTITY listEmpty.findUpdates.label          "Check For Updates">
