@@ -321,6 +321,7 @@
 <!ENTITY highlightToolbarCmd.tooltip "Markeren">
 <!ENTITY italicToolbarCmd.tooltip "Cursief">
 <!ENTITY underlineToolbarCmd.tooltip "Onderstrepen">
+<!ENTITY strikethroughToolbarCmd.tooltip "Doorhalen">
 <!ENTITY bulletListToolbarCmd.tooltip "Opsommingslijst toepassen of verwijderen">
 <!ENTITY numberListToolbarCmd.tooltip "Genummerde lijst toepassen of verwijderen">
 <!ENTITY outdentToolbarCmd.tooltip "Tekst laten terugspringen (verplaatsen naar links)">

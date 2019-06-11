@@ -321,6 +321,7 @@
 <!ENTITY highlightToolbarCmd.tooltip "Markieren">
 <!ENTITY italicToolbarCmd.tooltip "Kursiv">
 <!ENTITY underlineToolbarCmd.tooltip "Unterstrichen">
+<!ENTITY strikethroughToolbarCmd.tooltip "Durchgestrichen">
 <!ENTITY bulletListToolbarCmd.tooltip "&quot;Unsortierte Liste&quot; anwenden oder entfernen">
 <!ENTITY numberListToolbarCmd.tooltip "&quot;Nummerierte Liste&quot; anwenden oder entfernen">
 <!ENTITY outdentToolbarCmd.tooltip "Texteinzug verkleinern (nach links schieben)">

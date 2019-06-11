@@ -321,6 +321,7 @@
 <!ENTITY highlightToolbarCmd.tooltip "Surlignage">
 <!ENTITY italicToolbarCmd.tooltip "Italique">
 <!ENTITY underlineToolbarCmd.tooltip "Souligné">
+<!ENTITY strikethroughToolbarCmd.tooltip "Barré">
 <!ENTITY bulletListToolbarCmd.tooltip "Appliquer ou enlever une liste">
 <!ENTITY numberListToolbarCmd.tooltip "Appliquer ou enlever une liste numérotée">
 <!ENTITY outdentToolbarCmd.tooltip "Diminuer le retrait (vers la gauche)">

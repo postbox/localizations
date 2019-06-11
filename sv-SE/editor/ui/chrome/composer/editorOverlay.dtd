@@ -321,6 +321,7 @@
 <!ENTITY highlightToolbarCmd.tooltip "Markera">
 <!ENTITY italicToolbarCmd.tooltip "Kursiv">
 <!ENTITY underlineToolbarCmd.tooltip "Understruken">
+<!ENTITY strikethroughToolbarCmd.tooltip "Genomstruken">
 <!ENTITY bulletListToolbarCmd.tooltip "Tillämpa eller ta bort lista med bomber">
 <!ENTITY numberListToolbarCmd.tooltip "Tillämpa eller ta bort numrerad lista">
 <!ENTITY outdentToolbarCmd.tooltip "Dra ut text (flytta åt vänster)">
