@@ -161,10 +161,10 @@
 <!ENTITY useGmailShortcuts.label "Use Gmail keyboard shortcuts">
 <!ENTITY useGmailShortcuts.accesskey "l">
 
-<!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos.">
+<!ENTITY pbUseGravatar.label "Use the Gravatar service for looking up contact photos">
 <!ENTITY pbUseGravatar.accesskey "G">
 
-<!ENTITY pbUseGoogleCalendar.label "Use Google Calendar for detected dates.">
+<!ENTITY pbUseGoogleCalendar.label "Use Google Calendar for detected dates">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
 
 <!ENTITY pbSwipeLeft.label "Swipe Left:">

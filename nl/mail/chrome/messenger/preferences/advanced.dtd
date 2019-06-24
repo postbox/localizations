@@ -161,10 +161,10 @@
 <!ENTITY useGmailShortcuts.label "Gebruik de sneltoetsen van Gmail">
 <!ENTITY useGmailShortcuts.accesskey "l">
 
-<!ENTITY pbUseGravatar.label "Gebruik de Gravatar Service voor het opzoeken van contact foto's.">
+<!ENTITY pbUseGravatar.label "Gebruik de Gravatar Service voor het opzoeken van contact foto's">
 <!ENTITY pbUseGravatar.accesskey "G">
 
-<!ENTITY pbUseGoogleCalendar.label "Gebruik Google Calendar voor gedetecteerde datum.">
+<!ENTITY pbUseGoogleCalendar.label "Gebruik Google Calendar voor gedetecteerde datum">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
 
 <!ENTITY pbSwipeLeft.label "Veeg naar links:">

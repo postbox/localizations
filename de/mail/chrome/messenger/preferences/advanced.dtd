@@ -161,10 +161,10 @@
 <!ENTITY useGmailShortcuts.label "Gmail Tastaturkürzel verwenden">
 <!ENTITY useGmailShortcuts.accesskey "l">
 
-<!ENTITY pbUseGravatar.label "Gravatar Service benutzen, um Fotos der Kontakte zu verwenden.">
+<!ENTITY pbUseGravatar.label "Gravatar Service benutzen, um Fotos der Kontakte zu verwenden">
 <!ENTITY pbUseGravatar.accesskey "G">
 
-<!ENTITY pbUseGoogleCalendar.label "Google Kalender für erkannte Termine benutzen.">
+<!ENTITY pbUseGoogleCalendar.label "Google Kalender für erkannte Termine benutzen">
 <!ENTITY pbUseGoogleCalendar.accesskey "G">
 
 <!ENTITY pbSwipeLeft.label "Nach links verschieben:">
