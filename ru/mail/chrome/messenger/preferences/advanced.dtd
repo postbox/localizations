@@ -161,10 +161,10 @@
 <!ENTITY useGmailShortcuts.label "Использовать сочетания клавиш Gmail">
 <!ENTITY useGmailShortcuts.accesskey "l">
 
-<!ENTITY pbUseGravatar.label "Использовать службу граватаров для поиска снимков контактов.">
+<!ENTITY pbUseGravatar.label "Использовать службу граватаров для поиска снимков контактов">
 <!ENTITY pbUseGravatar.accesskey "g">
 
-<!ENTITY pbUseGoogleCalendar.label "Использовать «Google Календарь» для найденных дат.">
+<!ENTITY pbUseGoogleCalendar.label "Использовать «Google Календарь» для найденных дат">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
 
 <!ENTITY pbSwipeLeft.label "Жест прокрутки влево:">

@@ -161,10 +161,10 @@
 <!ENTITY useGmailShortcuts.label "Använd Gmail-tangentbordets genvägar">
 <!ENTITY useGmailShortcuts.accesskey "l">
 
-<!ENTITY pbUseGravatar.label "Använd Gravatar-tjänsten för att hitta bilder på kontakter.">
+<!ENTITY pbUseGravatar.label "Använd Gravatar-tjänsten för att hitta bilder på kontakter">
 <!ENTITY pbUseGravatar.accesskey "g">
 
-<!ENTITY pbUseGoogleCalendar.label "Använd Google Calendar för funna datum.">
+<!ENTITY pbUseGoogleCalendar.label "Använd Google Calendar för funna datum">
 <!ENTITY pbUseGoogleCalendar.accesskey "C">
 
 <!ENTITY pbSwipeLeft.label "Dra vänster:">
