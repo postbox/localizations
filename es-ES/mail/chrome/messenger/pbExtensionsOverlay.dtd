@@ -9,7 +9,7 @@
 -->
 
 <!ENTITY pbGetExtensions.label           "Obtener proyectos de laboratorio">
-<!ENTITY pbInstalledExtensions.label     "Laboratorios">
+<!ENTITY pbPostboxLabs.label     "Laboratorios">
 <!ENTITY pbGoBack.label  "Volver">
 <!ENTITY pbLegal1.description  "Los proyectos de Labs son experimentales y Postbox, Inc. los puede modificar o eliminar en cualquier momento y por cualquier motivo sin previo aviso.">
 <!ENTITY pbLegal2.description  "Si Postbox no funciona de la forma que espera, desactive los proyectos de laboratorio para ver si el problema se resuelve. Para soporte, contacte al desarrollador externo del proyecto de laboratorios. Postbox, Inc. no admite proyectos de Labs de desarrolladores externos.">
