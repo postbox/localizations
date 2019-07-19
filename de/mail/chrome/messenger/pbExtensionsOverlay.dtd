@@ -9,7 +9,7 @@
 -->
 
 <!ENTITY pbGetExtensions.label           "Holen Sie sich Labs-Projekte">
-<!ENTITY pbInstalledExtensions.label     "Labs">
+<!ENTITY pbPostboxLabs.label     "Labs">
 <!ENTITY pbGoBack.label  "Zurück">
 <!ENTITY pbLegal1.description  "Labs-Projekte sind experimentell und können von Postbox, Inc. jederzeit und ohne vorherige Ankündigung geändert oder entfernt werden.">
 <!ENTITY pbLegal2.description  "Wenn Postbox nicht wie erwartet funktioniert, deaktivieren Sie Labs-Projekte, um festzustellen, ob das Problem für Sie behoben ist. Wenden Sie sich an den Drittanbieter des Laborprojekts, um Unterstützung zu erhalten. Labs-Projekte von Drittanbieter-Entwicklern werden von Postbox, Inc. nicht unterstützt.">
