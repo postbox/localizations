@@ -185,3 +185,6 @@
 
 <!ENTITY autosyncOffline.label "Download all message bodies">
 <!ENTITY autosyncOffline.accesskey "s">
+
+<!ENTITY strictlyMime.label "MIME encode 8-bit headers">
+<!ENTITY strictlyMime.accesskey "m">

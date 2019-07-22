@@ -185,3 +185,6 @@
 
 <!ENTITY autosyncOffline.label "Descargar todos los cuerpos de mensajes">
 <!ENTITY autosyncOffline.accesskey "s">
+
+<!ENTITY strictlyMime.label "Codificar MIME encabezados de 8 bits">
+<!ENTITY strictlyMime.accesskey "m">

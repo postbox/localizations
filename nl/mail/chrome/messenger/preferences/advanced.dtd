@@ -185,3 +185,6 @@
 
 <!ENTITY autosyncOffline.label "Download alle berichtteksten">
 <!ENTITY autosyncOffline.accesskey "s">
+
+<!ENTITY strictlyMime.label "MIME-codering voor 8-bits headers">
+<!ENTITY strictlyMime.accesskey "m">

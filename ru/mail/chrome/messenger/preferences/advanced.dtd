@@ -185,3 +185,6 @@
 
 <!ENTITY autosyncOffline.label "Скачать все тела сообщения">
 <!ENTITY autosyncOffline.accesskey "s">
+
+<!ENTITY strictlyMime.label "MIME кодирует 8-битные заголовки">
+<!ENTITY strictlyMime.accesskey "m">
