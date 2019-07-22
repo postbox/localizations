@@ -44,3 +44,9 @@
 <!ENTITY pbChooseSignature1.accesskey "g">
 
 <!ENTITY pbIdentityTitle.label "Удостоверение">
+
+<!ENTITY pbNoClip.label "Нет">
+<!ENTITY pbEditClip1.label "Изменить...">
+<!ENTITY pbEditClip1.accesskey "o">
+<!ENTITY pbChooseClip1.label "клип:">
+<!ENTITY pbChooseClip1.accesskey "h">
