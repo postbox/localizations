@@ -185,3 +185,6 @@
 
 <!ENTITY autosyncOffline.label "Scarica tutti i corpi dei messaggi">
 <!ENTITY autosyncOffline.accesskey "s">
+
+<!ENTITY strictlyMime.label "MIME codifica intestazioni a 8 bit">
+<!ENTITY strictlyMime.accesskey "m">

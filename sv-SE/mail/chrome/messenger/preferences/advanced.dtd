@@ -185,3 +185,6 @@
 
 <!ENTITY autosyncOffline.label "Ladda ner alla meddelandekroppar">
 <!ENTITY autosyncOffline.accesskey "s">
+
+<!ENTITY strictlyMime.label "MIME kodar 8-bitars rubriker">
+<!ENTITY strictlyMime.accesskey "m">

@@ -185,3 +185,6 @@
 
 <!ENTITY autosyncOffline.label "Laden Sie alle Nachrichtentexte herunter">
 <!ENTITY autosyncOffline.accesskey "s">
+
+<!ENTITY strictlyMime.label "MIME-Codierung von 8-Bit-Headern">
+<!ENTITY strictlyMime.accesskey "m">
