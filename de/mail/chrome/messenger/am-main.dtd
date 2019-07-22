@@ -44,3 +44,9 @@
 <!ENTITY pbChooseSignature1.accesskey "g">
 
 <!ENTITY pbIdentityTitle.label "Identität">
+
+<!ENTITY pbNoClip.label "Keine">
+<!ENTITY pbEditClip1.label "Bearbeiten...">
+<!ENTITY pbEditClip1.accesskey "o">
+<!ENTITY pbChooseClip1.label "Clip:">
+<!ENTITY pbChooseClip1.accesskey "h">
