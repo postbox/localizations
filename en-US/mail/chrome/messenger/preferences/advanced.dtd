@@ -188,3 +188,6 @@
 
 <!ENTITY strictlyMime.label "MIME encode 8-bit headers">
 <!ENTITY strictlyMime.accesskey "m">
+
+<!ENTITY tcpKeepalive.label "TCP keepalive">
+<!ENTITY tcpKeepalive.accesskey "k">
