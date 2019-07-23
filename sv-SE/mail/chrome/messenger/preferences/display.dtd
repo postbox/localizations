@@ -101,6 +101,8 @@
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Inkludera bilder på kontakter för alla deltagare i samtalet">
 <!ENTITY pb.conversations.photos.accesskey "I">
+<!ENTITY pb.signatures.hide_in_conversation "Dölj signaturer">
+<!ENTITY pb.signatures.hide_in_conversation.accesskey "K">
 
 <!-- general -->
 <!ENTITY pb.itemGeneral.label        "Allmän">

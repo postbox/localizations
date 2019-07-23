@@ -101,6 +101,8 @@
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Inclure la photo de chaque participant dans la conversation">
 <!ENTITY pb.conversations.photos.accesskey "I">
+<!ENTITY pb.signatures.hide_in_conversation "Masquer les signatures">
+<!ENTITY pb.signatures.hide_in_conversation.accesskey "K">
 
 <!-- general -->
 <!ENTITY pb.itemGeneral.label        "Général">
