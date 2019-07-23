@@ -101,6 +101,8 @@
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Voeg contact foto's toe van iedere deelnemer in de conversatie">
 <!ENTITY pb.conversations.photos.accesskey "i">
+<!ENTITY pb.signatures.hide_in_conversation "Verberg handtekeningen">
+<!ENTITY pb.signatures.hide_in_conversation.accesskey "K">
 
 <!-- general -->
 <!ENTITY pb.itemGeneral.label        "Algemeen">

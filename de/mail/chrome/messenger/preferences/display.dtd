@@ -102,6 +102,8 @@
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Schließe Fotos aller Teilnehmer der Unterhaltung mit ein">
 <!ENTITY pb.conversations.photos.accesskey "i">
+<!ENTITY pb.signatures.hide_in_conversation "Unterschriften ausblenden">
+<!ENTITY pb.signatures.hide_in_conversation.accesskey "K">
 
 <!-- general -->
 <!ENTITY pb.itemGeneral.label        "Allgemein">

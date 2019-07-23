@@ -101,6 +101,8 @@
 <!ENTITY pb.conversations.read.accesskey "c">
 <!ENTITY pb.conversations.photos.label "Показывать снимки всех контактов, участвующих в беседе">
 <!ENTITY pb.conversations.photos.accesskey "I">
+<!ENTITY pb.signatures.hide_in_conversation "Скрыть подписи">
+<!ENTITY pb.signatures.hide_in_conversation.accesskey "K">
 
 <!-- general -->
 <!ENTITY pb.itemGeneral.label        "Основные">
