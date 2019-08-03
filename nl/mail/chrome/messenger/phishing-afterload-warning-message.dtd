@@ -17,12 +17,12 @@
 
 <!ENTITY safeb.urlbaricon.tooltip "Deze pagina is mogelijk gevaarlijk; klik voor details.">
 
-<!ENTITY safeb.blocked.malware.title "Gerapporteerde Aanvalssite!">
+<!ENTITY safeb.blocked.malware.title "Een bezoek aan deze website kan schadelijk zijn voor uw computer.">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "De website <span id='malware_sitename'/> staat geregistreerd als een aanvalssite en is op basis van uw beveiligingsinstellingen geblokkeerd.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Aanvalssites proberen programma's te installeren die persoonlijke informatie stelen, uw computer gebruiken om anderen aan te vallen of uw systeem te beschadigen.</p><p>Sommige aanvalssites worden doelbewust gebruikt om schadelijke software te verspreiden, maar vele sites zijn zelf slachtoffer; alles gebeurt dan zonder de kennis of toestemming van diens eigenaars.</p>">
+<!ENTITY safeb.blocked.malware.shortDesc "De website <span id='malware_sitename'/> gekoppeld vanuit deze e-mail lijkt schadelijke code te bevatten die zonder uw toestemming naar uw computer kan worden gedownload. Meer informatie over schadelijke webinhoud, waaronder virussen en andere kwaadaardige code en hoe u uw computer kunt beschermen, vindt u op <a href='https://www.stopbadware.org/'>StopBadware.org</a>.">
+<!ENTITY safeb.blocked.malware.longDesc "Advies verstrekt door <a href='https://developers.google.com/safe-browsing/v4/advisory'>Google Safe Browsing</a>.">
 
-<!ENTITY safeb.blocked.phishing.title "Gerapporteerde Webvervalsing!">
+<!ENTITY safeb.blocked.phishing.title "Misleidende site vooruit.">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "De website <span id='phishing_sitename'/> staat geregistreerd als webvervalsing en is op basis van uw beveiligingsinstellingen geblokkeerd.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Webvervalsingen zijn ontworpen om u te misleiden en u persoonlijke of financiële informatie afhandig te maken door bronnen te imiteren die u wellicht vertrouwd.</p><p>Het invoeren van informatie op deze website kan leiden tot identiteitsdiefstal of andere vormen van fraude.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "Aanvallers op <span id='phishing_sitename'/> gekoppeld via deze e-mail kunnen u misleiden tot iets gevaarlijks, zoals het installeren van software of het vrijgeven van uw persoonlijke gegevens, zoals wachtwoorden of creditcards. U kunt meer informatie vinden over social engineering (phishing) op <a href='https://support.google.com/webmasters/answer/6350487'>Social Engineering (phishing- en misleidende sites)</a> of op <a href='https://apwg.org/'>www.antiphishing.org</a>.">
+<!ENTITY safeb.blocked.phishing.longDesc "Advies verstrekt door <a href='https://developers.google.com/safe-browsing/v4/advisory'>Google Safe Browsing</a>.">

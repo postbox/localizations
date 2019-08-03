@@ -17,12 +17,12 @@
 
 <!ENTITY safeb.urlbaricon.tooltip "Denna sida kan vara farlig; klicka för information.">
 
-<!ENTITY safeb.blocked.malware.title "Rapporterat osäker sida!">
+<!ENTITY safeb.blocked.malware.title "Besök på denna webbplats kan skada din dator.">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "Denna hemsida har rapporterats hos <span id='malware_sitename'/> som en osäker sida och har blockerats baserat på dina säkerhetsinställningar.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Osäkra sidor kan försöka installera program som stjäl privat information, använda din enhet för att attackera andra, eller skada ditt system.</p><p>Vissa osäkra sidor distribuerar skadlig mjukvara medvetet, men många är komprometterade utan deras innehavares vetskap eller godkännande.</p>">
+<!ENTITY safeb.blocked.malware.shortDesc "Webbplatsen <span id='malware_sitename'/> länkad från det här e-postmeddelandet verkar innehålla skadlig kod som kan laddas ner till din dator utan ditt samtycke. Du kan lära dig mer om skadligt webbinnehåll inklusive virus och annan skadlig kod och hur du skyddar din dator på <a href='https://www.stopbadware.org/'>StopBadware.org</a>.">
+<!ENTITY safeb.blocked.malware.longDesc "Rådgivning tillhandahålls av <a href='https://developers.google.com/safe-browsing/v4/advisory'>Googles säker surfning</a>.">
 
-<!ENTITY safeb.blocked.phishing.title "Rapporterad webbförfalskning!">
+<!ENTITY safeb.blocked.phishing.title "Bedräglig webbplats framöver.">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "Denna hemsida har rapporterats hos <span id='phishing_sitename'/> som en webbförfalskning och har blockerats baserat på dina säkerhetsinställningar.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Webbförfalskningar är utformade till att lura dig att avslöja din privata information eller bankuppgifter genom att se ut som källor du litar på.</p><p>Genom att skriva in privat information på denna sida så kan du råka ut för identitetsstöld eller annat bedrägeri.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "Angripare på <span id='phishing_sitename'/> länkade från det här e-postmeddelandet kan lura dig att göra något farligt som att installera programvara eller avslöja din personliga information som lösenord eller kreditkort. Du kan läsa mer om social engineering (phishing) på <a href='https://support.google.com/webmasters/answer/6350487'>Social Engineering (phishing och bedrägliga webbplatser)</a> eller från <a href='https://apwg.org/'>www.antiphishing.org</a>.">
+<!ENTITY safeb.blocked.phishing.longDesc "Rådgivning tillhandahålls av <a href='https://developers.google.com/safe-browsing/v4/advisory'>Googles säker surfning</a>.">
