@@ -17,12 +17,12 @@
 
 <!ENTITY safeb.urlbaricon.tooltip "Diese Seite könnte gefährlich sein; klicken Sie hier für Details.">
 
-<!ENTITY safeb.blocked.malware.title "Bekannte Angreifer-Seite!">
+<!ENTITY safeb.blocked.malware.title "Der Besuch dieser Website kann Ihrem Computer Schaden zufügen.">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "Die Websete <span id='malware_sitename'/> wurde als Angreifer-Seite gemeldet und aufgrund Ihrer Sicherheitseinstellungen blockiert.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Angreifer-Seiten versuchen, Ihnen Schadprogramme unterzujubeln, die private Daten stehlen, ihren Computer für Angriffe missbrauchen oder Ihr System beschädigen.</p><p>Einige Angreifer-Seiten verteilen mit Absicht Schadsoftware, viele werden jedoch ohne Wissen und Zustimmung von deren Betreibern dazu missbraucht.</p>">
+<!ENTITY safeb.blocked.malware.shortDesc "Die in dieser E-Mail verlinkte Website <span id='malware_sitename'/> scheint bösartigen Code zu enthalten, der ohne Ihre Zustimmung auf Ihren Computer heruntergeladen werden könnte. Unter <a href='https://www.stopbadware.org/'>StopBadware.org</a> erfahren Sie mehr über schädliche Webinhalte wie Viren und anderen schädlichen Code und wie Sie Ihren Computer schützen können.">
+<!ENTITY safeb.blocked.malware.longDesc "Hinweis von <a href='https://developers.google.com/safe-browsing/v4/advisory'>Google Safe Browsing</a>.">
 
-<!ENTITY safeb.blocked.phishing.title "Bekannte betrügerische Fälschung!">
+<!ENTITY safeb.blocked.phishing.title "Trügerische Seite voraus.">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "Die Website unter <span id='phishing_sitename'/> wurde als betrügerische Fälschung gemeldet und wurde aufgrund Ihrer Sicherheitseinstellungen blockiert.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Betrügerische Fälschungen von Webseiten werden von Bösewichten veröffentlicht um persönliche Informationen oder Kontodaten zu ergaunern.</p><p>Wenn Sie hier Zugangsdaten oder persönliche Informationen eingeben, kann dies zu Identitätsdiebstahl und anderen unschönen Dingen führen.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "Angreifer auf <span id='phishing_sitename'/>, die in dieser E-Mail verlinkt sind, könnten Sie dazu verleiten, gefährliche Aktionen wie die Installation von Software oder die Offenlegung Ihrer persönlichen Informationen wie Passwörter oder Kreditkarten auszuführen. Weitere Informationen zu Social Engineering (Phishing) finden Sie unter <a href='https://support.google.com/webmasters/answer/6350487'>Social Engineering (Phishing und irreführende Websites)</a> oder unter <a href='https://apwg.org/'>www.antiphishing.org</a>.">
+<!ENTITY safeb.blocked.phishing.longDesc "Hinweis von <a href='https://developers.google.com/safe-browsing/v4/advisory'>Google Safe Browsing</a>.">

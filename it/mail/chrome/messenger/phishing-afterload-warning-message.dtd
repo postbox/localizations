@@ -17,12 +17,12 @@
 
 <!ENTITY safeb.urlbaricon.tooltip "Questa pagina potrebbe essere pericolosa; clicca per dettagli.">
 
-<!ENTITY safeb.blocked.malware.title "Segnalato sito d'attacco!">
+<!ENTITY safeb.blocked.malware.title "La visita di questo sito Web può danneggiare il computer.">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "Questo sito web su <span id='malware_sitename'/> è stato segnalato come un sito d'attacco ed è stato bloccato in base alle tue preferenze di sicurezza.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>I siti d'attacco cercano di installare programmi che rubano informazioni private, utilizzano il tuo computer per attaccare altri o danneggiano il tuo sistema.</p><p>Alcuni siti d'attacco distribuiscono intenzionalmente software dannoso, ma molti sono compromessi senza che i loro proprietari lo sappiano o lo permettano.</p>">
+<!ENTITY safeb.blocked.malware.shortDesc "Il sito web <span id='malware_sitename'/> collegato da questa e-mail sembra contenere codice dannoso che potrebbe essere scaricato sul tuo computer senza il tuo consenso. Puoi saperne di più sui contenuti Web dannosi, inclusi virus e altri codici dannosi, e su come proteggere il tuo computer su <a href='https://www.stopbadware.org/'>StopBadware.org</a>.">
+<!ENTITY safeb.blocked.malware.longDesc "Consulenza fornita da <a href='https://developers.google.com/safe-browsing/v4/advisory'>Navigazione sicura di Googl</a>.">
 
-<!ENTITY safeb.blocked.phishing.title "Segnalata falsificazione web!">
+<!ENTITY safeb.blocked.phishing.title "Sito ingannevole in anticipo.">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "Questo sito web su <span id='phishing_sitename'/> è stato segnalato come falsificazione web ed è stato bloccato in base alle tue preferenze di sicurezza.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Le falsificazioni web sono realizzate per ingannarti e spingerti a rivelare informazioni personali o finanziarie imitando risorse di cui potresti fidarti.</p><p>Inserire qualsiasi informazione personale su questa pagina potrebbe causare un furto d'identità o altra frode.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "Gli attaccanti su <span id='phishing_sitename'/> collegati da questa e-mail possono indurti a fare qualcosa di pericoloso come installare software o rivelare le tue informazioni personali come password o carte di credito. Puoi trovare ulteriori informazioni sull'ingegneria sociale (phishing) su <a href='https://support.google.com/webmasters/answer/6350487'>Ingegneria sociale (siti di phishing e ingannevoli)</a> o da <a href='https://apwg.org/'>www.antiphishing.org</a>.">
+<!ENTITY safeb.blocked.phishing.longDesc "Consulenza fornita da <a href='https://developers.google.com/safe-browsing/v4/advisory'>Navigazione sicura di Google</a>.">

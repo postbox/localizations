@@ -17,12 +17,12 @@
 
 <!ENTITY safeb.urlbaricon.tooltip "Это страница может быть опасной. Щелкните здесь для получения подробной информации.">
 
-<!ENTITY safeb.blocked.malware.title "Сообщение об атаке сайта!">
+<!ENTITY safeb.blocked.malware.title "Посещение этого веб-сайта может нанести вред вашему компьютеру.">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "Этот сайт <span id='malware_sitename'/> был отмечен, как атакующий компьютеры, и заблокирован в соответствии с вашими настройками безопасности.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Сайты, атакующие компьютеры, пытаются установить программы, которые крадут личную информацию, используют ваш компьютер для атаки на другие компьютеры или нарушают работу вашей системы.</p><p>Некоторые такие сайты умышленно распространяют вредоносное программное обеспечение, но многие из них делают это без ведома или разрешения своих владельцев.</p>">
+<!ENTITY safeb.blocked.malware.shortDesc "Веб-сайт <span id='malware_sitename'/>, связанный с этим письмом, содержит вредоносный код, который может быть загружен на ваш компьютер без вашего согласия. Вы можете узнать больше о вредоносном веб-контенте, включая вирусы и другой вредоносный код, а также о том, как защитить свой компьютер, на <a href='https://www.stopbadware.org/'>StopBadware.org</a>.">
+<!ENTITY safeb.blocked.malware.longDesc "Рекомендации предоставлены <a href='https://developers.google.com/safe-browsing/v4/advisory'>Google Safe Browsing</a>.">
 
-<!ENTITY safeb.blocked.phishing.title "Сообщение о мошенническом сайте!">
+<!ENTITY safeb.blocked.phishing.title "Обманчивый сайт впереди.">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "Этот сайт <span id='phishing_sitename'/> был отмечен как мошеннический и заблокирован в соответствии с вашими настройками безопасности.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Мошеннические веб-сайты имитируют источники, которым можно доверять, и предназначены для обмана пользователей с целью получения от них личной или финансовой информации.</p><p>Ввод на этой странице любой личной информации может привести к ее хищению или использованию в мошеннических целях.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "Злоумышленники в <span id='phishing_sitename'/>, связанные с этим письмом, могут заставить вас сделать что-то опасное, например, установить программное обеспечение или раскрыть вашу личную информацию, такую ​​как пароли или кредитные карты. Подробнее о социальной инженерии (фишинге) можно узнать на <a href='https://support.google.com/webmasters/answer/6350487'>социальной инженерии (фишинговые и вводящие в заблуждение сайты)</a> или на <a href='https://apwg.org/'>www.antiphishing.org</a>.">
+<!ENTITY safeb.blocked.phishing.longDesc "Рекомендации предоставлены <a href='https://developers.google.com/safe-browsing/v4/advisory'>Google Safe Browsing</a>.">
