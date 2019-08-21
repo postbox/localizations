@@ -16,3 +16,4 @@
 <!ENTITY showQuickcopyCmd.key             "c">
 <!ENTITY showQuickswitchCmd.key           "g">
 <!ENTITY quickfilePanel.width             "600">
+<!ENTITY showQuickpostCmd.key             "q">
