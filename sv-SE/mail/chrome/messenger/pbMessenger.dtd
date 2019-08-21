@@ -363,6 +363,7 @@
 <!ENTITY pbMoveToFolderAgain.accesskey "v">
 <!ENTITY pbCopyToFolderAgain.label "Snabbkopiering">
 <!ENTITY pbCopyToFolderAgain.accesskey "c">
+<!ENTITY pbQuickPostBar.accesskey "q">
 
 <!-- Conversation Action context menu -->
 <!ENTITY pbConversationHdrContextMenu-reply.label "Svara">
