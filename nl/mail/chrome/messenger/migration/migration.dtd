@@ -29,7 +29,7 @@
 
 <!ENTITY welcome.title                  "Welkom bij &brandShortName;">
 <!ENTITY tagline.label                  "Een betere manier om te e-mailen">
-<!ENTITY thanks.label                   "Bedankt voor het gebruik van &brandShortName;!">
+<!ENTITY thanks.label                   "Welkom bij &brandShortName;!">
 <!ENTITY quickStart1.label              "Zie de ">
 <!ENTITY quickStart2.label              "Snelstart handleiding"> 
 <!ENTITY quickStart3.label              " om meer te leren over alle functies.">

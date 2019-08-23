@@ -29,11 +29,11 @@
 
 <!ENTITY welcome.title                  "Välkommen till &brandShortName;">
 <!ENTITY tagline.label                  "Ett bättre sätt för att skapa e-post">
-<!ENTITY thanks.label                   "Tack för att du använder &brandShortName;!">
+<!ENTITY thanks.label                   "Välkommen till &brandShortName;!">
 <!ENTITY quickStart1.label              "Kolla ">
 <!ENTITY quickStart2.label              "Snabbstartsguiden"> 
 <!ENTITY quickStart3.label              " för att lära dig mer om alla funktioner.">
-<!ENTITY start.label                    "Börja använda &brandShortName;">
+<!ENTITY start.label                    "Starta &brandShortName;">
     
 <!ENTITY migration2.title               "Migration">
 <!ENTITY migrationMac2.title            "Migration">
