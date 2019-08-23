@@ -18,7 +18,7 @@
 <!ENTITY importFromPostbox.accesskey    "P">
 <!ENTITY importFromPostboxApp.label     "Postbox 6 oder höher">
 <!ENTITY importFromPostboxApp.accesskey "l">
-<!ENTITY importFromThunderbird.label    "Thunderbird (beta)">
+<!ENTITY importFromThunderbird.label    "Thunderbird (experimental)">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "Seamonkey 2 oder neuer">
 <!ENTITY importFromSeamonkey3.accesskey "S">
