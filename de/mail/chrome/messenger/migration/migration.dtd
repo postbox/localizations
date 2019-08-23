@@ -29,7 +29,7 @@
 
 <!ENTITY welcome.title                  "Willkommen bei &brandShortName;">
 <!ENTITY tagline.label                  "E-Mailen auf eine bessere Art">
-<!ENTITY thanks.label                   "Vielen Dank, dass Sie &brandShortName; verwenden!">
+<!ENTITY thanks.label                   "Willkommen bei &brandShortName;!">
 <!ENTITY quickStart1.label              "Schauen Sie sich die">
 <!ENTITY quickStart2.label              "Kurzanleitung"> 
 <!ENTITY quickStart3.label              "an, um alles über die Funktionen zu erfahren.">

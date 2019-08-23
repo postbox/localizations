@@ -29,11 +29,11 @@
 
 <!ENTITY welcome.title                  "Welcome to &brandShortName;">
 <!ENTITY tagline.label                  "A Better Way To Do Email">
-<!ENTITY thanks.label                   "Thanks for using &brandShortName;!">
+<!ENTITY thanks.label                   "Welcome to &brandShortName;!">
 <!ENTITY quickStart1.label              "See our ">
 <!ENTITY quickStart2.label              "Quickstart Guide"> 
 <!ENTITY quickStart3.label              " to get set up fast.">
-<!ENTITY start.label                    "Start using &brandShortName;">
+<!ENTITY start.label                    "Start &brandShortName;">
     
 <!ENTITY migration2.title               "Migration Wizard">
 <!ENTITY migrationMac2.title            "Migration Assistant">

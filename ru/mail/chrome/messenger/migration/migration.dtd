@@ -29,7 +29,7 @@
 
 <!ENTITY welcome.title                  "Добро пожаловать в &brandShortName;">
 <!ENTITY tagline.label                  "лучшее приложение для работы с почтой!">
-<!ENTITY thanks.label                   "Спасибо за использование &brandShortName;!">
+<!ENTITY thanks.label                   "Добро пожаловать в &brandShortName;!">
 <!ENTITY quickStart1.label              "Прочитав">
 <!ENTITY quickStart2.label              "«Краткое руководство по началу работы»,"> 
 <!ENTITY quickStart3.label              "вы узнаете обо всех возможностях приложения.">
