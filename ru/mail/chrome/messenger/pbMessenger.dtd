@@ -353,6 +353,8 @@
 <!ENTITY pbStatusBarOption-settings.accesskey "A">
 <!ENTITY pbStatusBarOption-newFolder.label "Новая папка…">
 <!ENTITY pbStatusBarOption-newFolder.accesskey "F">
+<!ENTITY pbStatusBarOption-newSmartFolder.label "Новая смарт-папка...">
+<!ENTITY pbStatusBarOption-newSmartFolder.accesskey "M">
 <!ENTITY pbStatusBarOption-folderProperties.label "Свойства папки…">
 <!ENTITY pbStatusBarOption-folderProperties.accesskey "P">
 <!ENTITY pbStatusBarOption-subscribe.label "Подписаться…">

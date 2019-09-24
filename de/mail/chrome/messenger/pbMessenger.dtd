@@ -351,6 +351,8 @@
 <!ENTITY pbStatusBarOption-settings.accesskey "K">
 <!ENTITY pbStatusBarOption-newFolder.label "Neuer Ordner…">
 <!ENTITY pbStatusBarOption-newFolder.accesskey "N">
+<!ENTITY pbStatusBarOption-newSmartFolder.label "Neuer intelligenter Ordner...">
+<!ENTITY pbStatusBarOption-newSmartFolder.accesskey "M">
 <!ENTITY pbStatusBarOption-folderProperties.label "Ordner-Eigenschaften…">
 <!ENTITY pbStatusBarOption-folderProperties.accesskey "O">
 <!ENTITY pbStatusBarOption-subscribe.label "Abonnieren…">
