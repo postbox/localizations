@@ -351,6 +351,8 @@
 <!ENTITY pbStatusBarOption-settings.accesskey "A">
 <!ENTITY pbStatusBarOption-newFolder.label "Nuova cartella...">
 <!ENTITY pbStatusBarOption-newFolder.accesskey "F">
+<!ENTITY pbStatusBarOption-newSmartFolder.label "Nuova cartella smart...">
+<!ENTITY pbStatusBarOption-newSmartFolder.accesskey "M">
 <!ENTITY pbStatusBarOption-folderProperties.label "Proprietà cartelle...">
 <!ENTITY pbStatusBarOption-folderProperties.accesskey "P">
 <!ENTITY pbStatusBarOption-subscribe.label "Iscriviti...">

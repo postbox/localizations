@@ -351,6 +351,8 @@
 <!ENTITY pbStatusBarOption-settings.accesskey "A">
 <!ENTITY pbStatusBarOption-newFolder.label "Nouveau dossier...">
 <!ENTITY pbStatusBarOption-newFolder.accesskey "F">
+<!ENTITY pbStatusBarOption-newSmartFolder.label "Nouveau dossier intelligent...">
+<!ENTITY pbStatusBarOption-newSmartFolder.accesskey "M">
 <!ENTITY pbStatusBarOption-folderProperties.label "Propriétés du dossier...">
 <!ENTITY pbStatusBarOption-folderProperties.accesskey "P">
 <!ENTITY pbStatusBarOption-subscribe.label "S'abonner...">

@@ -351,6 +351,8 @@
 <!ENTITY pbStatusBarOption-settings.accesskey "A">
 <!ENTITY pbStatusBarOption-newFolder.label "Ny mapp...">
 <!ENTITY pbStatusBarOption-newFolder.accesskey "F">
+<!ENTITY pbStatusBarOption-newSmartFolder.label "Ny smart mapp...">
+<!ENTITY pbStatusBarOption-newSmartFolder.accesskey "M">
 <!ENTITY pbStatusBarOption-folderProperties.label "Mappegenskaper...">
 <!ENTITY pbStatusBarOption-folderProperties.accesskey "P">
 <!ENTITY pbStatusBarOption-subscribe.label "Prenumerera...">

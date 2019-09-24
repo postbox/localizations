@@ -351,6 +351,8 @@
 <!ENTITY pbStatusBarOption-settings.accesskey "A">
 <!ENTITY pbStatusBarOption-newFolder.label "Nueva carpeta...">
 <!ENTITY pbStatusBarOption-newFolder.accesskey "F">
+<!ENTITY pbStatusBarOption-newSmartFolder.label "Nueva carpeta inteligente...">
+<!ENTITY pbStatusBarOption-newSmartFolder.accesskey "M">
 <!ENTITY pbStatusBarOption-folderProperties.label "Propiedades de la carpeta...">
 <!ENTITY pbStatusBarOption-folderProperties.accesskey "P">
 <!ENTITY pbStatusBarOption-subscribe.label "Subscribir...">

@@ -351,6 +351,8 @@
 <!ENTITY pbStatusBarOption-settings.accesskey "A">
 <!ENTITY pbStatusBarOption-newFolder.label "Nieuwe map…">
 <!ENTITY pbStatusBarOption-newFolder.accesskey "N">
+<!ENTITY pbStatusBarOption-newSmartFolder.label "Nieuwe slimme map...">
+<!ENTITY pbStatusBarOption-newSmartFolder.accesskey "M">
 <!ENTITY pbStatusBarOption-folderProperties.label "Mapeigenschappen…">
 <!ENTITY pbStatusBarOption-folderProperties.accesskey "p">
 <!ENTITY pbStatusBarOption-subscribe.label "Abonneren…">
