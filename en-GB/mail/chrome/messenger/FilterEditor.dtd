@@ -27,6 +27,7 @@
 <!ENTITY contextOutgoing.accesskey "S">
 <!ENTITY contextArchive.label "Archiving">
 <!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextPeriodic.accesskey "e">
 
 <!ENTITY filterActionDesc.label "Perform these actions:">
 <!ENTITY filterActionDesc.accesskey "P">
@@ -34,7 +35,7 @@
 <!ENTITY filterActionOrderWarning.label "Note: Filter actions will be run in a different order.">
 <!ENTITY filterActionOrder.label "See execution order">
 
-<!ENTITY globalFilterChekbox.label "This is a global filter">
+<!ENTITY globalFilterChekbox.label "Global Filter">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Move Message to">
