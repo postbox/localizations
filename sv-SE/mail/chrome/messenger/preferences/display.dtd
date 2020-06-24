@@ -142,3 +142,9 @@
 <!ENTITY detectDates.label "Upptäck datum">
 <!ENTITY detectPhoneNumbers.label "Upptäck telefonnummer">
 
+<!ENTITY showContact.label   "Kontakta display:">
+<!ENTITY contactDisplayName.label   "Namn">
+<!ENTITY contactEmailAdress.label   "E-postadress">
+<!ENTITY contactBoth.label   "Namn och e-postadress">
+
+

@@ -143,3 +143,7 @@
 <!ENTITY detectDates.label   "Detect Dates">
 <!ENTITY detectPhoneNumbers.label   "Detect Phone Numbers">
 
+<!ENTITY showContact.label   "Contact Display:">
+<!ENTITY contactDisplayName.label   "Display Name">
+<!ENTITY contactEmailAdress.label   "Email Address">
+<!ENTITY contactBoth.label   "Display Name and Email Address">

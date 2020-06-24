@@ -141,3 +141,9 @@
 <!ENTITY countInboxesOnly.label "Contar não lida apenas para as caixas de entrada">
 <!ENTITY detectDates.label "Detectar Datas">
 <!ENTITY detectPhoneNumbers.label "Detectar números de telefone">
+
+<!ENTITY showContact.label   "Exibição de contato:">
+<!ENTITY contactDisplayName.label   "Nome">
+<!ENTITY contactEmailAdress.label   "Endereço de e-mail">
+<!ENTITY contactBoth.label   "Nome e Endereço de E-mail">
+
