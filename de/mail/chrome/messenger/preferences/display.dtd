@@ -142,3 +142,9 @@
 <!ENTITY countInboxesOnly.label "Zähle nur ungelesen für Posteingänge">
 <!ENTITY detectDates.label "Daten erkennen">
 <!ENTITY detectPhoneNumbers.label "Telefonnummern erkennen">
+
+<!ENTITY showContact.label   "Kontaktanzeige:">
+<!ENTITY contactDisplayName.label   "Namen">
+<!ENTITY contactEmailAdress.label   "E-Mail-Adresse">
+<!ENTITY contactBoth.label   "Name und E-Mail-Adresse">
+

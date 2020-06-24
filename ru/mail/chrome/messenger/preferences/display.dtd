@@ -142,3 +142,8 @@
 <!ENTITY detectDates.label "Определить даты">
 <!ENTITY detectPhoneNumbers.label "Обнаруживать номера телефонов">
 
+<!ENTITY showContact.label   "Дисплей контакта:">
+<!ENTITY contactDisplayName.label   "Имя">
+<!ENTITY contactEmailAdress.label   "Адрес электронной почты">
+<!ENTITY contactBoth.label   "Имя и адрес электронной почты">
+

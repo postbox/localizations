@@ -141,3 +141,8 @@
 <!ENTITY countInboxesOnly.label "Compte non lu pour les boîtes de réception uniquement">
 <!ENTITY detectDates.label "Détecter les dates">
 <!ENTITY detectPhoneNumbers.label "Détecter les numéros de téléphone">
+
+<!ENTITY showContact.label   "Affichage des contacts:">
+<!ENTITY contactDisplayName.label   "Nom">
+<!ENTITY contactEmailAdress.label   "Adresse e-mail">
+<!ENTITY contactBoth.label   "Nom et adresse e-mail">

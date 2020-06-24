@@ -142,3 +142,7 @@
 <!ENTITY detectDates.label "Detectar fechas">
 <!ENTITY detectPhoneNumbers.label "Detectar números de teléfono">
 
+<!ENTITY showContact.label   "Visualización de contacto:">
+<!ENTITY contactDisplayName.label   "Nombre">
+<!ENTITY contactEmailAdress.label   "Dirección de correo electrónico">
+<!ENTITY contactBoth.label   "Nombre y dirección de correo electrónico">

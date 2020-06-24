@@ -142,4 +142,8 @@
 <!ENTITY detectDates.label "Datums detecteren">
 <!ENTITY detectPhoneNumbers.label "Telefoonnummers detecteren">
 
+<!ENTITY showContact.label   "Contactweergave:">
+<!ENTITY contactDisplayName.label   "Naam">
+<!ENTITY contactEmailAdress.label   "E-mailadres">
+<!ENTITY contactBoth.label   "Naam en e-mailadres">
 
