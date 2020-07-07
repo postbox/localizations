@@ -51,6 +51,7 @@
 <!ENTITY contactPanel-favorite.label     "favorito:">
 <!ENTITY contactPanel-favorite-checkbox.label "Hacer de este contacto un favorito">
 <!ENTITY contactPanel-actions.label "acciones:">
+<!ENTITY contactPanel-filters.label "filtros:">
 <!ENTITY contactPanel-find.label    "buscar reciente:">
 <!ENTITY contactPanel-findMessages.label "mensajes">
 <!ENTITY contactPanel-findDocuments.label "adjuntos">
@@ -58,6 +59,7 @@
 <!ENTITY contactPanel-copyContact.label "copiar correo">
 <!ENTITY contactPanel-sendContact.label "enviar vcard">
 <!ENTITY contactPanel-createFilter.label "crear filtro...">
+<!ENTITY contactPanel-addFilter.label "agregar al filtro">
 
 <!-- action contact panel -->
 <!ENTITY contactActionPanel-sendMail.label "Enviar correo...">

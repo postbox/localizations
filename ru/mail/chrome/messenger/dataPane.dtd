@@ -51,6 +51,7 @@
 <!ENTITY contactPanel-favorite.label     "Избранное:">
 <!ENTITY contactPanel-favorite-checkbox.label "Сделать этот контакт избранным">
 <!ENTITY contactPanel-actions.label "Действия:">
+<!ENTITY contactPanel-filters.label "Фильтры:">
 <!ENTITY contactPanel-find.label    "Найти недавние:">
 <!ENTITY contactPanel-findMessages.label "Сообщения">
 <!ENTITY contactPanel-findDocuments.label "Вложения">
@@ -58,6 +59,7 @@
 <!ENTITY contactPanel-copyContact.label "Копировать адрес эл. почты">
 <!ENTITY contactPanel-sendContact.label "Отправить vcard">
 <!ENTITY contactPanel-createFilter.label "Создать фильтр…">
+<!ENTITY contactPanel-addFilter.label "добавить в фильтр">
 
 <!-- action contact panel -->
 <!ENTITY contactActionPanel-sendMail.label "Отправить почту…">

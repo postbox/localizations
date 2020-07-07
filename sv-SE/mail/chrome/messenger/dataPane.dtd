@@ -51,6 +51,7 @@
 <!ENTITY contactPanel-favorite.label     "favorit:">
 <!ENTITY contactPanel-favorite-checkbox.label "markera denna kontakt som favorit">
 <!ENTITY contactPanel-actions.label "åtgärder:">
+<!ENTITY contactPanel-filters.label "filters:">
 <!ENTITY contactPanel-find.label    "hitta senaste:">
 <!ENTITY contactPanel-findMessages.label "meddelandena">
 <!ENTITY contactPanel-findDocuments.label "bilagor">
@@ -58,6 +59,7 @@
 <!ENTITY contactPanel-copyContact.label "kopiera e-post">
 <!ENTITY contactPanel-sendContact.label "skicka vcard">
 <!ENTITY contactPanel-createFilter.label "skapa filter...">
+<!ENTITY contactPanel-addFilter.label "lägg till i filter">
 
 <!-- action contact panel -->
 <!ENTITY contactActionPanel-sendMail.label "Skicka e-post...">

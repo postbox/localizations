@@ -50,14 +50,16 @@
 
 <!ENTITY contactPanel-favorite.label     "favorite:">
 <!ENTITY contactPanel-favorite-checkbox.label "faire de ce contact un favori">
-<!ENTITY contactPanel-actions.label "actions :">
-<!ENTITY contactPanel-find.label    "trouver récents :">
+<!ENTITY contactPanel-actions.label "actions:">
+<!ENTITY contactPanel-filters.label "filtres:">
+<!ENTITY contactPanel-find.label    "trouver récents:">
 <!ENTITY contactPanel-findMessages.label "messages">
 <!ENTITY contactPanel-findDocuments.label "pièces jointes">
 <!ENTITY contactPanel-findImages.label "images">
 <!ENTITY contactPanel-copyContact.label "copier l'e-mail">
 <!ENTITY contactPanel-sendContact.label "envoyer la vcard">
 <!ENTITY contactPanel-createFilter.label "créer un filtre...">
+<!ENTITY contactPanel-addFilter.label "ajouter au filtre">
 
 <!-- action contact panel -->
 <!ENTITY contactActionPanel-sendMail.label "Envoyer message...">
