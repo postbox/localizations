@@ -51,6 +51,7 @@
 <!ENTITY contactPanel-favorite.label     "favoriet:">
 <!ENTITY contactPanel-favorite-checkbox.label "maak van dit contact een favoriet">
 <!ENTITY contactPanel-actions.label "acties:">
+<!ENTITY contactPanel-filters.label "filters:">
 <!ENTITY contactPanel-find.label    "Vind recentelijk:">
 <!ENTITY contactPanel-findMessages.label "berichten">
 <!ENTITY contactPanel-findDocuments.label "bijlagen">
@@ -58,6 +59,7 @@
 <!ENTITY contactPanel-copyContact.label "E-Mail Kopiëren">
 <!ENTITY contactPanel-sendContact.label "Verstuur vCard">
 <!ENTITY contactPanel-createFilter.label "Filter aanmaken...">
+<!ENTITY contactPanel-addFilter.label "toevoegen aan filter">
 
 <!-- action contact panel -->
 <!ENTITY contactActionPanel-sendMail.label "Verstuur E-mail...">
