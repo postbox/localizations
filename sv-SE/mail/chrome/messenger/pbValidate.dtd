@@ -1,3 +1,13 @@
+<!--
+  ***** BEGIN POSTBOX LICENSE BLOCK *****
+  *
+  * pbValidate.dtd
+  *
+  * Copyright (c) 2007-2018 Postbox, Inc.
+  *
+  ***** END POSTBOX LICENSE BLOCK *****
+-->
+
 <!ENTITY changeLicenseKey.label "Kod">
 <!ENTITY changeName.label "Namn">
 <!ENTITY licenseKey.label "Licenskod:">
@@ -26,16 +36,16 @@
 <!ENTITY helpUsTwitter.label "Twitter">
 <!ENTITY okButton.label "OK">
 
-<!ENTITY title.top "20">
+<!ENTITY title.top "80">
 <!ENTITY title.left "20">
-<!ENTITY subtitle.top "40">
-<!ENTITY firstRow.top "80">
-<!ENTITY secondRow.top "100">
-<!ENTITY thirdRow.top "120">
-<!ENTITY fourthRow.top "140">
+<!ENTITY subtitle.top "100">
+<!ENTITY firstRow.top "140">
+<!ENTITY secondRow.top "160">
+<!ENTITY thirdRow.top "180">
+<!ENTITY fourthRow.top "200">
 
-<!ENTITY buttonsMac.top "179">
-<!ENTITY buttons.top "187">
+<!ENTITY buttonsMac.top "239">
+<!ENTITY buttons.top "237">
 
 <!ENTITY facebook.top "100">
 <!ENTITY twitter.top "130">
