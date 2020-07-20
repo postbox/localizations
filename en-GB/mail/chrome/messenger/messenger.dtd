@@ -501,8 +501,8 @@
 <!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton1.label "Get Messages">
-<!ENTITY newMsgButton.label "Write">
+<!ENTITY getMsgButton1.label "Get Mail">
+<!ENTITY newMsgButton.label "Compose">
 <!ENTITY replyButton.label "Reply">
 <!ENTITY replyAllButton.label "Reply All">
 <!ENTITY replyListButton.label "Reply to List">
