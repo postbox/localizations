@@ -52,3 +52,6 @@
 <!ENTITY showProfileManager.label   "Mostrar el Perfil del administrador al inicio">
 
 <!ENTITY storeLocation.label              "Almacenar tópicos, firmas, respuestas y la libreta de direcciones en:">
+
+<!ENTITY minimizeToTray.label             "Minimizar a la bandeja del sistema">
+<!ENTITY minimizeToTray.accesskey         "m"> 

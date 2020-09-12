@@ -52,3 +52,6 @@
 <!ENTITY showProfileManager.label   "Toon Profielmanager bij opstarten">
 
 <!ENTITY storeLocation.label              "Sla Onderwerpen, Handtekeningen, Antwoorden en het Adresboek op in:">
+
+<!ENTITY minimizeToTray.label             "Minimaliseren naar het systeemvak">
+<!ENTITY minimizeToTray.accesskey         "m"> 

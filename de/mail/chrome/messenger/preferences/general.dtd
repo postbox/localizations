@@ -52,3 +52,6 @@
 <!ENTITY showProfileManager.label   "Zeige Profilmanager beim Start">
 
 <!ENTITY storeLocation.label              "Speichere Themen, Signaturen, Antworten und Adressbücher auf:">
+
+<!ENTITY minimizeToTray.label             "In die Taskleiste minimieren">
+<!ENTITY minimizeToTray.accesskey         "m"> 

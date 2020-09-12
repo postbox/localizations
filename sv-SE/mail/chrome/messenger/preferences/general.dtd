@@ -52,3 +52,6 @@
 <!ENTITY showProfileManager.label   "Visa profilhanteraren vid start">
 
 <!ENTITY storeLocation.label              "Lagra ämnen, signaturer, svar och adressboken hos:">
+
+<!ENTITY minimizeToTray.label             "Minimera till systemfältet">
+<!ENTITY minimizeToTray.accesskey         "m"> 
