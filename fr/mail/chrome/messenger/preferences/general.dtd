@@ -52,3 +52,6 @@
 <!ENTITY showProfileManager.label   "Afficher le gestionnaire de profil au démarrage">
 
 <!ENTITY storeLocation.label              "Classer les sujets, Signatures, Réponses et le Carnet d'adresses sur :">
+
+<!ENTITY minimizeToTray.label             "Réduire dans la barre d'état système">
+<!ENTITY minimizeToTray.accesskey         "m"> 

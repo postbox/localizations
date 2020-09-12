@@ -52,3 +52,6 @@
 <!ENTITY showProfileManager.label   "Exibir o Gerenciador de Perfis ao iniciar">
 
 <!ENTITY storeLocation.label              "Armazenar Tópicos, Assinaturas, Respostas e Catálogos de Endereços em:">
+
+<!ENTITY minimizeToTray.label             "Minimize para a bandeja do sistema">
+<!ENTITY minimizeToTray.accesskey         "m"> 

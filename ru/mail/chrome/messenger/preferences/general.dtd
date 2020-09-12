@@ -52,3 +52,6 @@
 <!ENTITY showProfileManager.label   "Показывать «Диспетчер профилей» при запуске">
 
 <!ENTITY storeLocation.label              "Папка для хранения меток, подписей, ответов и адресной книги:">
+
+<!ENTITY minimizeToTray.label             "Минимизировать в системный трей">
+<!ENTITY minimizeToTray.accesskey         "m"> 

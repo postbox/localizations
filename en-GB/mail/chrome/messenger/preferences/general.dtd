@@ -52,3 +52,6 @@
 <!ENTITY showProfileManager.label   "Show Profile Manager on startup">
 
 <!ENTITY storeLocation.label              "Store Topics, Signatures, Responses and the Address Book at:">
+
+<!ENTITY minimizeToTray.label             "Minimize to System Tray">
+<!ENTITY minimizeToTray.accesskey         "m"> 

@@ -52,3 +52,6 @@
 <!ENTITY showProfileManager.label   "Mostra Gestore profilo all'avvio">
 
 <!ENTITY storeLocation.label              "Archivia Argomenti, Firme, Risposte e la Rubrica in:">
+
+<!ENTITY minimizeToTray.label             "Riduci a icona sulla barra delle applicazioni">
+<!ENTITY minimizeToTray.accesskey         "m"> 
