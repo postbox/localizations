@@ -4,7 +4,8 @@
 
 <!ENTITY itemFormatting.label             "Форматирование">
 <!ENTITY itemTags.label                   "Метки">
-<!ENTITY itemAdvanced.label "Дополнительно">
+<!ENTITY itemThemes.label                 "Темы">
+<!ENTITY itemAdvanced.label 			  "Дополнительно">
 
 <!ENTITY style.label                      "Стиль цитируемого текста:">
 <!ENTITY style.accesskey                  "y">
@@ -21,7 +22,6 @@
 <!ENTITY textColor.accesskey              "T">
 <!ENTITY backgroundColor.label            "Цвет фона:">
 <!ENTITY backgroundColor.accesskey        "B">
-
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Метка">
@@ -43,6 +43,18 @@
 <!ENTITY fontOptions.label       "Дополнительно…">
 <!ENTITY colorButton.label "Цвета…">
 <!ENTITY colorButton.accesskey "а">
+
+<!-- Themes -->
+<!ENTITY addThemeButton.label       "Новый">
+<!ENTITY addThemeButton.accesskey   "N">
+<!ENTITY editThemeButton.label      "редактировать">
+<!ENTITY editThemeButton.accesskey   "E">
+<!ENTITY removeThemeButton.label    "удалять">
+<!ENTITY removeThemeButton.accesskey "l">
+<!ENTITY importThemeButton.label      "Импортировать">
+<!ENTITY importThemeButton.accesskey   "I">
+<!ENTITY exportThemeButton.label      "Экспорт">
+<!ENTITY exportThemeButton.accesskey   "x">
 
 <!-- Advanced -->
 <!ENTITY reading.caption "Чтение">

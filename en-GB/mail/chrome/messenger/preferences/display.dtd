@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemFormatting.label             "Formatting">
-<!ENTITY itemTags.label                   "Tags">
+<!ENTITY itemTags.label                   "Topics">
+<!ENTITY itemThemes.label                 "Themes">
 <!ENTITY itemAdvanced.label               "Advanced">
 
 <!ENTITY style.label                      "Style:">
@@ -21,7 +22,6 @@
 <!ENTITY textColor.accesskey              "T">
 <!ENTITY backgroundColor.label            "Background Colour:">
 <!ENTITY backgroundColor.accesskey        "B">
-
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Topic">
@@ -43,6 +43,18 @@
 <!ENTITY fontOptions.label       "Fonts…">
 <!ENTITY colorButton.label       "Colours…">
 <!ENTITY colorButton.accesskey   "C">
+
+<!-- Themes -->
+<!ENTITY addThemeButton.label       "New">
+<!ENTITY addThemeButton.accesskey   "N">
+<!ENTITY editThemeButton.label      "Edit">
+<!ENTITY editThemeButton.accesskey   "E">
+<!ENTITY removeThemeButton.label    "Delete">
+<!ENTITY removeThemeButton.accesskey "l">
+<!ENTITY importThemeButton.label      "Import">
+<!ENTITY importThemeButton.accesskey   "I">
+<!ENTITY exportThemeButton.label      "Export">
+<!ENTITY exportThemeButton.accesskey   "x">
 
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Reading">

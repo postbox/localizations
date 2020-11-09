@@ -302,6 +302,14 @@
 <!ENTITY pbSignatureEditor.title "Nouvelle signature">
 <!ENTITY pbSignatureEditor.name "Nom">
 <!ENTITY pbSignatureEditor.body "Signature">
+<!ENTITY pbThemeEditor.dark "Foncé">
+<!ENTITY pbThemeEditor.light "Lumière">
+<!ENTITY pbThemeEditor.themeLabel "Thème">
+<!ENTITY pbThemeEditor.baseThemeLabel "Base">
+<!ENTITY pbThemeEditor.iconSetLabel "Barre latérale">
+<!ENTITY pbThemeEditor.colorSidebar "Couleur">
+<!ENTITY pbThemeEditor.monochromeSidebar "Monochrome">
+<!ENTITY pbThemeEditor.applyButton "Appliquer">
 
 <!ENTITY pbQuickPostEditor.title "Nouveau Post rapide">
 <!ENTITY pbQuickPostEditor.name "Nom">
@@ -391,9 +399,10 @@
 
 <!ENTITY themeButton.label "Thème">
 <!ENTITY themeButton.tooltip "Changer de thème">
-<!ENTITY themeDefaultMenu.label "Défaut">
-<!ENTITY themeLightMenu.label "Lumière">
-<!ENTITY themeDarkMenu.label "Foncé">
+<!ENTITY themeMenuDefault.label "Défaut">
+<!ENTITY themeMenuLight.label "Lumière">
+<!ENTITY themeMenuDark.label "Foncé">
+<!ENTITY themeMenuOptions.label "Modifier les thèmes...">
 
 <!ENTITY downloadThisFolder.label "Téléchargez ce dossier">
 <!ENTITY downloadThisFolder.accesskey "d">

@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formattazione">
 <!ENTITY itemTags.label                   "Etichette">
+<!ENTITY itemThemes.label                 "Temi">
 <!ENTITY itemAdvanced.label               "Avanzate">
 
 <!ENTITY style.label                      "Stile:">
@@ -21,7 +22,6 @@
 <!ENTITY textColor.accesskey              "t">
 <!ENTITY backgroundColor.label            "Colore dello sfondo:">
 <!ENTITY backgroundColor.accesskey        "f">
-
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Etichetta">
@@ -43,6 +43,18 @@
 <!ENTITY fontOptions.label       "Avanzate…">
 <!ENTITY colorButton.label       "Colori…">
 <!ENTITY colorButton.accesskey   "l">
+
+<!-- Themes -->
+<!ENTITY addThemeButton.label       "Nuovo">
+<!ENTITY addThemeButton.accesskey   "N">
+<!ENTITY editThemeButton.label      "Modificare">
+<!ENTITY editThemeButton.accesskey   "E">
+<!ENTITY removeThemeButton.label    "Elimina">
+<!ENTITY removeThemeButton.accesskey "l">
+<!ENTITY importThemeButton.label      "Importare">
+<!ENTITY importThemeButton.accesskey   "I">
+<!ENTITY exportThemeButton.label      "Esportare">
+<!ENTITY exportThemeButton.accesskey   "x">
 
 <!-- Advanced -->
 <!ENTITY reading.caption                  "in lettura">

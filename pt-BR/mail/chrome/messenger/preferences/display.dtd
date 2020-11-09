@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formatação">
 <!ENTITY itemTags.label                   "Tags">
+<!ENTITY itemThemes.label                 "Temas">
 <!ENTITY itemAdvanced.label               "Avançado">
 
 <!ENTITY style.label                      "Estilo:">
@@ -21,7 +22,6 @@
 <!ENTITY textColor.accesskey              "x">
 <!ENTITY backgroundColor.label            "Plano de fundo:">
 <!ENTITY backgroundColor.accesskey        "n">
-
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Topic">
@@ -43,6 +43,18 @@
 <!ENTITY fontOptions.label       "Avançado…">
 <!ENTITY colorButton.label       "Cores…">
 <!ENTITY colorButton.accesskey   "C">
+
+<!-- Themes -->
+<!ENTITY addThemeButton.label       "Novo">
+<!ENTITY addThemeButton.accesskey   "N">
+<!ENTITY editThemeButton.label      "Editar">
+<!ENTITY editThemeButton.accesskey   "E">
+<!ENTITY removeThemeButton.label    "Excluir">
+<!ENTITY removeThemeButton.accesskey "l">
+<!ENTITY importThemeButton.label      "Importar">
+<!ENTITY importThemeButton.accesskey   "I">
+<!ENTITY exportThemeButton.label      "Exportar">
+<!ENTITY exportThemeButton.accesskey   "x">
 
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Leitura">

@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Opmaak">
 <!ENTITY itemTags.label                   "Labels">
+<!ENTITY itemThemes.label                 "Thema's">
 <!ENTITY itemAdvanced.label               "Geavanceerd">
 
 <!ENTITY style.label                      "Stijl:">
@@ -21,7 +22,6 @@
 <!ENTITY textColor.accesskey              "T">
 <!ENTITY backgroundColor.label            "Achtergrondkleur:">
 <!ENTITY backgroundColor.accesskey        "A">
-
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Label">
@@ -43,6 +43,18 @@
 <!ENTITY fontOptions.label       "Geavanceerd…">
 <!ENTITY colorButton.label       "Kleuren…">
 <!ENTITY colorButton.accesskey   "K">
+
+<!-- Themes -->
+<!ENTITY addThemeButton.label       "Nieuw">
+<!ENTITY addThemeButton.accesskey   "N">
+<!ENTITY editThemeButton.label      "Bewerk">
+<!ENTITY editThemeButton.accesskey   "E">
+<!ENTITY removeThemeButton.label    "Verwijderen">
+<!ENTITY removeThemeButton.accesskey "l">
+<!ENTITY importThemeButton.label      "Importeren">
+<!ENTITY importThemeButton.accesskey   "I">
+<!ENTITY exportThemeButton.label      "Exporteren">
+<!ENTITY exportThemeButton.accesskey   "x">
 
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Lezen">
