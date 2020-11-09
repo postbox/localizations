@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formatering">
 <!ENTITY itemTags.label                   "Etiketter">
+<!ENTITY itemThemes.label                 "Teman">
 <!ENTITY itemAdvanced.label               "Avancerat">
 
 <!ENTITY style.label                      "Stil:">
@@ -21,7 +22,6 @@
 <!ENTITY textColor.accesskey              "x">
 <!ENTITY backgroundColor.label            "Bakgrundsfärg:">
 <!ENTITY backgroundColor.accesskey        "B">
-
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Etikett">
@@ -43,6 +43,18 @@
 <!ENTITY fontOptions.label       "Avancerat…">
 <!ENTITY colorButton.label       "Färger…">
 <!ENTITY colorButton.accesskey   "F">
+
+<!-- Themes -->
+<!ENTITY addThemeButton.label       "Ny">
+<!ENTITY addThemeButton.accesskey   "N">
+<!ENTITY editThemeButton.label      "Redigera">
+<!ENTITY editThemeButton.accesskey   "E">
+<!ENTITY removeThemeButton.label    "Radera">
+<!ENTITY removeThemeButton.accesskey "l">
+<!ENTITY importThemeButton.label      "Importera">
+<!ENTITY importThemeButton.accesskey   "I">
+<!ENTITY exportThemeButton.label      "Exportera">
+<!ENTITY exportThemeButton.accesskey   "x">
 
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Läsning">

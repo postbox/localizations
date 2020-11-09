@@ -302,6 +302,14 @@
 <!ENTITY pbSignatureEditor.title "Nuova firma">
 <!ENTITY pbSignatureEditor.name "Nome">
 <!ENTITY pbSignatureEditor.body "Firma">
+<!ENTITY pbThemeEditor.dark "Buio">
+<!ENTITY pbThemeEditor.light "Leggero">
+<!ENTITY pbThemeEditor.themeLabel "Tema">
+<!ENTITY pbThemeEditor.baseThemeLabel "Base">
+<!ENTITY pbThemeEditor.iconSetLabel "Sidebar">
+<!ENTITY pbThemeEditor.colorSidebar "Colore">
+<!ENTITY pbThemeEditor.monochromeSidebar "Monocromo">
+<!ENTITY pbThemeEditor.applyButton "Applicare">
 
 <!ENTITY pbQuickPostEditor.title "Nuovo Post rapido ">
 <!ENTITY pbQuickPostEditor.name "Nome">
@@ -391,9 +399,10 @@
 
 <!ENTITY themeButton.label "Tema">
 <!ENTITY themeButton.tooltip "Cambia tema">
-<!ENTITY themeDefaultMenu.label "Predefinito">
-<!ENTITY themeLightMenu.label "Leggero">
-<!ENTITY themeDarkMenu.label "Buio">
+<!ENTITY themeMenuDefault.label "Predefinito">
+<!ENTITY themeMenuLight.label "Leggero">
+<!ENTITY themeMenuDark.label "Buio">
+<!ENTITY themeMenuOptions.label "Modifica temi...">
 
 <!ENTITY downloadThisFolder.label "Scarica questa cartella">
 <!ENTITY downloadThisFolder.accesskey "d">

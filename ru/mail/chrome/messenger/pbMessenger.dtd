@@ -304,6 +304,14 @@
 <!ENTITY pbSignatureEditor.title "Новая подпись">
 <!ENTITY pbSignatureEditor.name "Имя">
 <!ENTITY pbSignatureEditor.body "Подпись">
+<!ENTITY pbThemeEditor.dark "Темно">
+<!ENTITY pbThemeEditor.light "Легкий">
+<!ENTITY pbThemeEditor.themeLabel "тема">
+<!ENTITY pbThemeEditor.baseThemeLabel "Основание">
+<!ENTITY pbThemeEditor.iconSetLabel "Боковая панель">
+<!ENTITY pbThemeEditor.colorSidebar "цвет">
+<!ENTITY pbThemeEditor.monochromeSidebar "Монохромный">
+<!ENTITY pbThemeEditor.applyButton "Применять">
 
 <!ENTITY pbQuickPostEditor.title "Создать быстрое сообщение">
 <!ENTITY pbQuickPostEditor.name "Имя">
@@ -393,9 +401,10 @@
 
 <!ENTITY themeButton.label "тема">
 <!ENTITY themeButton.tooltip "Тема переключения">
-<!ENTITY themeDefaultMenu.label "По умолчанию">
-<!ENTITY themeLightMenu.label "Легкий">
-<!ENTITY themeDarkMenu.label "Темно">
+<!ENTITY themeMenuDefault.label "По умолчанию">
+<!ENTITY themeMenuLight.label "Легкий">
+<!ENTITY themeMenuDark.label "Темно">
+<!ENTITY themeMenuOptions.label "Редактировать темы...">
 
 <!ENTITY downloadThisFolder.label "Загрузите эту папку">
 <!ENTITY downloadThisFolder.accesskey "d">

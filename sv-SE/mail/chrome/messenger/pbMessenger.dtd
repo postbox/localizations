@@ -302,6 +302,14 @@
 <!ENTITY pbSignatureEditor.title "Ny signatur">
 <!ENTITY pbSignatureEditor.name "Namn">
 <!ENTITY pbSignatureEditor.body "Signatur">
+<!ENTITY pbThemeEditor.dark "Mörk">
+<!ENTITY pbThemeEditor.light "Ljus">
+<!ENTITY pbThemeEditor.themeLabel "Tema">
+<!ENTITY pbThemeEditor.baseThemeLabel "Bas">
+<!ENTITY pbThemeEditor.iconSetLabel "Sidofält">
+<!ENTITY pbThemeEditor.colorSidebar "Färg">
+<!ENTITY pbThemeEditor.monochromeSidebar "Svartvit">
+<!ENTITY pbThemeEditor.applyButton "Tillämpa">
 
 <!ENTITY pbQuickPostEditor.title "Ny snabbpost">
 <!ENTITY pbQuickPostEditor.name "Namn">
@@ -391,9 +399,10 @@
 
 <!ENTITY themeButton.label "Tema">
 <!ENTITY themeButton.tooltip "Byt tema">
-<!ENTITY themeDefaultMenu.label "Standard">
-<!ENTITY themeLightMenu.label "Ljus">
-<!ENTITY themeDarkMenu.label "Mörk">
+<!ENTITY themeMenuDefault.label "Standard">
+<!ENTITY themeMenuLight.label "Ljus">
+<!ENTITY themeMenuDark.label "Mörk">
+<!ENTITY themeMenuOptions.label "Redigera teman...">
 
 <!ENTITY downloadThisFolder.label "Hämta den här mappen">
 <!ENTITY downloadThisFolder.accesskey "d">

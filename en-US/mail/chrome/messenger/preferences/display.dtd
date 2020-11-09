@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formatting">
 <!ENTITY itemTags.label                   "Topics">
+<!ENTITY itemThemes.label                 "Themes">
 <!ENTITY itemAdvanced.label               "Advanced">
 
 <!ENTITY style.label                      "Quoted plain text style:">
@@ -21,7 +22,6 @@
 <!ENTITY textColor.accesskey              "T">
 <!ENTITY backgroundColor.label            "Background Color:">
 <!ENTITY backgroundColor.accesskey        "b">
-
 
 <!-- tags -->
 <!ENTITY tagColumn.label "Topic">
@@ -43,6 +43,18 @@
 <!ENTITY fontOptions.label       "Advanced…">
 <!ENTITY colorButton.label       "Colors…">
 <!ENTITY colorButton.accesskey   "C">
+
+<!-- Themes -->
+<!ENTITY addThemeButton.label       "New">
+<!ENTITY addThemeButton.accesskey   "N">
+<!ENTITY editThemeButton.label      "Edit">
+<!ENTITY editThemeButton.accesskey   "E">
+<!ENTITY removeThemeButton.label    "Delete">
+<!ENTITY removeThemeButton.accesskey "l">
+<!ENTITY importThemeButton.label      "Import">
+<!ENTITY importThemeButton.accesskey   "I">
+<!ENTITY exportThemeButton.label      "Export">
+<!ENTITY exportThemeButton.accesskey   "x">
 
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Reading">

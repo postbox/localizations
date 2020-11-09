@@ -302,6 +302,14 @@
 <!ENTITY pbSignatureEditor.title "Nova assinatura">
 <!ENTITY pbSignatureEditor.name "Nome">
 <!ENTITY pbSignatureEditor.body "Assinatura">
+<!ENTITY pbThemeEditor.dark "Sombrio">
+<!ENTITY pbThemeEditor.light "Luz">
+<!ENTITY pbThemeEditor.themeLabel "Tema">
+<!ENTITY pbThemeEditor.baseThemeLabel "Base">
+<!ENTITY pbThemeEditor.iconSetLabel "Barra Lateral">
+<!ENTITY pbThemeEditor.colorSidebar "Cor">
+<!ENTITY pbThemeEditor.monochromeSidebar "Monocromático">
+<!ENTITY pbThemeEditor.applyButton "Aplique">
 
 <!ENTITY pbQuickPostEditor.title "Nova publicação rápida">
 <!ENTITY pbQuickPostEditor.name "Nome">
@@ -391,9 +399,10 @@
 
 <!ENTITY themeButton.label "Tema">
 <!ENTITY themeButton.tooltip "Trocar tema">
-<!ENTITY themeDefaultMenu.label "Padrão">
-<!ENTITY themeLightMenu.label "Luz">
-<!ENTITY themeDarkMenu.label "Sombrio">
+<!ENTITY themeMenuDefault.label "Padrão">
+<!ENTITY themeMenuLight.label "Luz">
+<!ENTITY themeMenuDark.label "Sombrio">
+<!ENTITY themeMenuOptions.label "Editar Temas...">
 
 <!ENTITY downloadThisFolder.label "Baixe esta pasta">
 <!ENTITY downloadThisFolder.accesskey "d">

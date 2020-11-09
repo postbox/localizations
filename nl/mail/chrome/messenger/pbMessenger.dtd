@@ -302,6 +302,14 @@
 <!ENTITY pbSignatureEditor.title "Nieuwe Handtekening">
 <!ENTITY pbSignatureEditor.name "Naam">
 <!ENTITY pbSignatureEditor.body "Handtekening">
+<!ENTITY pbThemeEditor.dark "Donker">
+<!ENTITY pbThemeEditor.light "Licht">
+<!ENTITY pbThemeEditor.themeLabel "Thema">
+<!ENTITY pbThemeEditor.baseThemeLabel "Baseren">
+<!ENTITY pbThemeEditor.iconSetLabel "Zijbalk">
+<!ENTITY pbThemeEditor.colorSidebar "Zijbalk">
+<!ENTITY pbThemeEditor.monochromeSidebar "Monochroom">
+<!ENTITY pbThemeEditor.applyButton "Van toepassing zijn">
 
 <!ENTITY pbQuickPostEditor.title "Nieuwe Snelle Post">
 <!ENTITY pbQuickPostEditor.name "Naam">
@@ -391,9 +399,10 @@
 
 <!ENTITY themeButton.label "Thema">
 <!ENTITY themeButton.tooltip "Wissel van thema">
-<!ENTITY themeDefaultMenu.label "Standaard">
-<!ENTITY themeLightMenu.label "Licht">
-<!ENTITY themeDarkMenu.label "Donker">
+<!ENTITY themeMenuDefault.label "Standaard">
+<!ENTITY themeMenuLight.label "Licht">
+<!ENTITY themeMenuDark.label "Donker">
+<!ENTITY themeMenuOptions.label "Thema's bewerken...">
 
 <!ENTITY downloadThisFolder.label "Download deze map">
 <!ENTITY downloadThisFolder.accesskey "d">
