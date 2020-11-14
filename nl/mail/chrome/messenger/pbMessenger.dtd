@@ -25,7 +25,7 @@
 <!ENTITY resetIndexAllMessages.accesskey "R">
 <!ENTITY resetIndexMessagesInFolder.label "Reset deze map...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY updateCmd.label "Controleer op Updates…">
+<!ENTITY updateCmd.label "Controleer op Updates...">
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
@@ -105,7 +105,7 @@
 
 <!-- Tags Menu Popup -->
 <!ENTITY applyTag.label "Bericht labelen">
-<!ENTITY addNewTag.label "Nieuw label…">
+<!ENTITY addNewTag.label "Nieuw label...">
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY removeTag.label "Topic Verwijderen">
 <!ENTITY removeAllTag.label "Allen Verwijderen...">
@@ -355,15 +355,15 @@
 <!ENTITY pbStatusBarOption-newAccount.accesskey "N">
 <!ENTITY pbStatusBarOption-newGroup.label "Nieuwe Account Groep...">
 <!ENTITY pbStatusBarOption-newGroup.accesskey "G">
-<!ENTITY pbStatusBarOption-settings.label "Accountinstellingen…">
+<!ENTITY pbStatusBarOption-settings.label "Accountinstellingen...">
 <!ENTITY pbStatusBarOption-settings.accesskey "A">
-<!ENTITY pbStatusBarOption-newFolder.label "Nieuwe map…">
+<!ENTITY pbStatusBarOption-newFolder.label "Nieuwe map...">
 <!ENTITY pbStatusBarOption-newFolder.accesskey "N">
 <!ENTITY pbStatusBarOption-newSmartFolder.label "Nieuwe slimme map...">
 <!ENTITY pbStatusBarOption-newSmartFolder.accesskey "M">
-<!ENTITY pbStatusBarOption-folderProperties.label "Mapeigenschappen…">
+<!ENTITY pbStatusBarOption-folderProperties.label "Mapeigenschappen...">
 <!ENTITY pbStatusBarOption-folderProperties.accesskey "p">
-<!ENTITY pbStatusBarOption-subscribe.label "Abonneren…">
+<!ENTITY pbStatusBarOption-subscribe.label "Abonneren...">
 <!ENTITY pbStatusBarOption-subscribe.accesskey "A">
 <!ENTITY pbStatusBarOption-deleteGroup.label "Verwijder Account Groep">
 <!ENTITY pbStatusBarOption-deleteGroup.accesskey "d">
@@ -403,6 +403,7 @@
 <!ENTITY themeMenuLight.label "Licht">
 <!ENTITY themeMenuDark.label "Donker">
 <!ENTITY themeMenuOptions.label "Thema's bewerken...">
+<!ENTITY themeMenuDownload.label "Krijg thema's...">
 
 <!ENTITY downloadThisFolder.label "Download deze map">
 <!ENTITY downloadThisFolder.accesskey "d">

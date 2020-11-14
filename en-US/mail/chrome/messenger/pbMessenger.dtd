@@ -25,7 +25,7 @@
 <!ENTITY resetIndexAllMessages.accesskey "r">
 <!ENTITY resetIndexMessagesInFolder.label "Reset This Folder...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY updateCmd.label "Check for Updates…">
+<!ENTITY updateCmd.label "Check for Updates...">
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
@@ -404,6 +404,7 @@
 <!ENTITY themeMenuLight.label "Light">
 <!ENTITY themeMenuDark.label "Dark">
 <!ENTITY themeMenuOptions.label "Edit Themes...">
+<!ENTITY themeMenuDownload.label "Get Themes...">
 
 <!ENTITY downloadThisFolder.label "Download This Folder">
 <!ENTITY downloadThisFolder.accesskey "d">

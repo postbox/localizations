@@ -25,7 +25,7 @@
 <!ENTITY resetIndexAllMessages.accesskey "R">
 <!ENTITY resetIndexMessagesInFolder.label "Redefinir esta pasta...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY updateCmd.label "Verificar se há atualizações…">
+<!ENTITY updateCmd.label "Verificar se há atualizações...">
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
@@ -403,6 +403,7 @@
 <!ENTITY themeMenuLight.label "Luz">
 <!ENTITY themeMenuDark.label "Sombrio">
 <!ENTITY themeMenuOptions.label "Editar Temas...">
+<!ENTITY themeMenuDownload.label "Obter temas...">
 
 <!ENTITY downloadThisFolder.label "Baixe esta pasta">
 <!ENTITY downloadThisFolder.accesskey "d">
