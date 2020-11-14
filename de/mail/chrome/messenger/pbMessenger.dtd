@@ -25,7 +25,7 @@
 <!ENTITY resetIndexAllMessages.accesskey "r">
 <!ENTITY resetIndexMessagesInFolder.label "Diesen Ordner zurücksetzen...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY updateCmd.label "Überprüfe nach Updates…">
+<!ENTITY updateCmd.label "Überprüfe nach Updates...">
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
@@ -105,7 +105,7 @@
 
 <!-- Tags Menu Popup -->
 <!ENTITY applyTag.label "Schlagwort hinzufügen:">
-<!ENTITY addNewTag.label "Neues Schlagwort…">
+<!ENTITY addNewTag.label "Neues Schlagwort...">
 <!ENTITY addNewTag.accesskey "t">
 <!ENTITY removeTag.label "Begriff entfernen">
 <!ENTITY removeAllTag.label "Alle löschen...">
@@ -355,15 +355,15 @@
 <!ENTITY pbStatusBarOption-newAccount.accesskey "N">
 <!ENTITY pbStatusBarOption-newGroup.label "Neue Kontogruppe...">
 <!ENTITY pbStatusBarOption-newGroup.accesskey "g">
-<!ENTITY pbStatusBarOption-settings.label "Konto-Einstellungen…">
+<!ENTITY pbStatusBarOption-settings.label "Konto-Einstellungen...">
 <!ENTITY pbStatusBarOption-settings.accesskey "K">
-<!ENTITY pbStatusBarOption-newFolder.label "Neuer Ordner…">
+<!ENTITY pbStatusBarOption-newFolder.label "Neuer Ordner...">
 <!ENTITY pbStatusBarOption-newFolder.accesskey "N">
 <!ENTITY pbStatusBarOption-newSmartFolder.label "Neuer intelligenter Ordner...">
 <!ENTITY pbStatusBarOption-newSmartFolder.accesskey "M">
-<!ENTITY pbStatusBarOption-folderProperties.label "Ordner-Eigenschaften…">
+<!ENTITY pbStatusBarOption-folderProperties.label "Ordner-Eigenschaften...">
 <!ENTITY pbStatusBarOption-folderProperties.accesskey "O">
-<!ENTITY pbStatusBarOption-subscribe.label "Abonnieren…">
+<!ENTITY pbStatusBarOption-subscribe.label "Abonnieren...">
 <!ENTITY pbStatusBarOption-subscribe.accesskey "A">
 <!ENTITY pbStatusBarOption-deleteGroup.label "Kontogruppe löschen">
 <!ENTITY pbStatusBarOption-deleteGroup.accesskey "K">
@@ -403,6 +403,7 @@
 <!ENTITY themeMenuLight.label "Licht">
 <!ENTITY themeMenuDark.label "Dunkel">
 <!ENTITY themeMenuOptions.label "Themen bearbeiten...">
+<!ENTITY themeMenuDownload.label "Holen Sie sich Themen...">
 
 <!ENTITY downloadThisFolder.label "Laden Sie diesen Ordner herunter">
 <!ENTITY downloadThisFolder.accesskey "d">

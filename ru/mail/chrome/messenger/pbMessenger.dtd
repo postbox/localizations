@@ -1,9 +1,9 @@
 <!-- File Menu -->
 <!ENTITY pbLocalesMenu.label "Язык">
 <!ENTITY pbLocalesMenu.accesskey "g">
-<!ENTITY pbLocalesMenu_getMore.label "Загрузить другие…">
+<!ENTITY pbLocalesMenu_getMore.label "Загрузить другие...">
 <!ENTITY pbLocalesMenu_getMore.accesskey "G">
-<!ENTITY newAccountGroupCmd.label "Группа учетных записей…">
+<!ENTITY newAccountGroupCmd.label "Группа учетных записей...">
 <!ENTITY newAccountGroupCmd.accesskey "G">
 <!ENTITY closeTab.label "Закрыть вкладку">
 <!ENTITY closeTab.accesskey "C">
@@ -17,15 +17,15 @@
 <!-- Tools Menu -->
 <!ENTITY pbIndexingMenu.label "Индексация">
 <!ENTITY pbIndexingMenu.accesskey "x">
-<!ENTITY indexAllMessages.label "Индексировать все папки…">
+<!ENTITY indexAllMessages.label "Индексировать все папки...">
 <!ENTITY indexAllMessages.accesskey "I">
-<!ENTITY indexMessagesInFolder.label "Индексировать эту папку…">
+<!ENTITY indexMessagesInFolder.label "Индексировать эту папку...">
 <!ENTITY indexMessagesInFolder.accesskey "F">
-<!ENTITY resetIndexAllMessages.label "Сбросить параметры всех папок…">
+<!ENTITY resetIndexAllMessages.label "Сбросить параметры всех папок...">
 <!ENTITY resetIndexAllMessages.accesskey "R">
-<!ENTITY resetIndexMessagesInFolder.label "Сбросить параметры этой папки…">
+<!ENTITY resetIndexMessagesInFolder.label "Сбросить параметры этой папки...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY updateCmd.label "Проверить наличие обновлений…">
+<!ENTITY updateCmd.label "Проверить наличие обновлений...">
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
@@ -105,10 +105,10 @@
 
 <!-- Tags Menu Popup -->
 <!ENTITY applyTag.label "Назначить метку">
-<!ENTITY addNewTag.label "Новая метка…">
+<!ENTITY addNewTag.label "Новая метка...">
 <!ENTITY addNewTag.accesskey "T">
 <!ENTITY removeTag.label "Удалить метку">
-<!ENTITY removeAllTag.label "Удалить все…">
+<!ENTITY removeAllTag.label "Удалить все...">
 <!ENTITY removeAllTag.accesskey "A">
 
 <!-- search menu -->
@@ -124,15 +124,15 @@
 <!ENTITY searchResultPopup-openMessage.accesskey     "M">
 <!ENTITY searchResultPopup-openFolder.label          "Открыть папку сообщения">
 <!ENTITY searchResultPopup-openFolder.accesskey      "p">
-<!ENTITY searchResultPopup-quickLookMac.label           "Быстрый просмотр…">
+<!ENTITY searchResultPopup-quickLookMac.label           "Быстрый просмотр...">
 <!ENTITY searchResultPopup-quickLookMac.accesskey       "Q">
-<!ENTITY searchResultPopup-quickLook.label           "Просмотр…">
+<!ENTITY searchResultPopup-quickLook.label           "Просмотр...">
 <!ENTITY searchResultPopup-quickLook.accesskey       "w">
 <!ENTITY searchResultPopup-attachTo.label            "Вложить в">
 <!ENTITY searchResultPopup-attachTo.accesskey        "A">
-<!ENTITY pbSearchResultPopup-send.label              "Отправить…">
+<!ENTITY pbSearchResultPopup-send.label              "Отправить...">
 <!ENTITY pbSearchResultPopup-send.accesskey          "e">
-<!ENTITY pbSearchResultPopup-save.label              "Сохранить…">
+<!ENTITY pbSearchResultPopup-save.label              "Сохранить...">
 <!ENTITY pbSearchResultPopup-save.accesskey          "S">
 <!ENTITY pbSearchResultPopup-upload.label            "Выгрузить в">
 <!ENTITY pbSearchResultPopup-upload.accesskey        "U">
@@ -199,7 +199,7 @@
 <!ENTITY indexerProgressFolders.label                "Папки:">
 <!ENTITY indexerProgress.status                      "Состояние:">
 <!ENTITY stopIndexingButton.label                    "Стоп">
-<!ENTITY indexerProgressTitle.label                  "Индексация сообщений…">
+<!ENTITY indexerProgressTitle.label                  "Индексация сообщений...">
 
 <!-- rich search bar -->
 <!ENTITY searchbar-defaultSearchText.label      "Поиск">
@@ -220,7 +220,7 @@
 <!ENTITY cancelButton.label                     "Отмена">
 
 <!-- message pane progress text -->
-<!ENTITY messagePaneProgressText.label          "Выполняется загрузка…">
+<!ENTITY messagePaneProgressText.label          "Выполняется загрузка...">
 
 <!-- pbEditorPanel.inc -->
 <!ENTITY todoPanelSave.label                    "Сохранить">
@@ -236,17 +236,17 @@
 <!ENTITY pbContentURLContextMenu-openURL.accesskey        "O">
 <!ENTITY pbContentURLContextMenu-copyURL.label            "Копировать">
 <!ENTITY pbContentURLContextMenu-copyURL.accesskey        "C">
-<!ENTITY pbContentURLContextMenu-sendURL.label            "Отправить ссылку…">
+<!ENTITY pbContentURLContextMenu-sendURL.label            "Отправить ссылку...">
 <!ENTITY pbContentURLContextMenu-sendURL.accesskey        "S">
 <!ENTITY pbContentURLContextMenu-addToGoogle.label        "Добавить в закладки Google">
 <!ENTITY pbContentURLContextMenu-addToGoogle.accesskey    "G">
 <!ENTITY pbContentURLContextMenu-addToDelicious.label     "Добавить в del.icio.us">
 <!ENTITY pbContentURLContextMenu-addToDelicious.accesskey "d">
-<!ENTITY pbContentURLContextMenu-addToFacebook.label      "Опубликовать в Facebook…">
+<!ENTITY pbContentURLContextMenu-addToFacebook.label      "Опубликовать в Facebook...">
 <!ENTITY pbContentURLContextMenu-addToFacebook.accesskey  "F">
-<!ENTITY pbContentURLContextMenu-addToTwitter.label       "Опубликовать в Twitter…">
+<!ENTITY pbContentURLContextMenu-addToTwitter.label       "Опубликовать в Twitter...">
 <!ENTITY pbContentURLContextMenu-addToTwitter.accesskey   "w">
-<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Опубликовать в LinkedIn…">
+<!ENTITY pbContentURLContextMenu-addToLinkedIn.label      "Опубликовать в LinkedIn...">
 <!ENTITY pbContentURLContextMenu-addToLinkedIn.accesskey  "L">
 
 <!-- text context menu -->
@@ -281,7 +281,7 @@
 <!ENTITY pbTopicContextMenu-favorite.accesskey "F">
 <!ENTITY pbTopicContextMenu-remove.label       "Удалить">
 <!ENTITY pbTopicContextMenu-remove.accesskey   "R">
-<!ENTITY pbTopicContextMenu-editAll.label      "Изменить метки…">
+<!ENTITY pbTopicContextMenu-editAll.label      "Изменить метки...">
 <!ENTITY pbTopicContextMenu-editAll.accesskey  "t">
 <!ENTITY pbTopicContextMenu-delete.label       "Удалить">
 <!ENTITY pbTopicContextMenu-delete.accesskey   "d">
@@ -289,9 +289,9 @@
 <!ENTITY pbTopicContextMenu-assignColor.accesskey   "c">
 
 <!-- account tree context menu -->
-<!ENTITY pbAccountTreeContextMenu-newGroup.label "Новая группа учетных записей…">
+<!ENTITY pbAccountTreeContextMenu-newGroup.label "Новая группа учетных записей...">
 <!ENTITY pbAccountTreeContextMenu-newGroup.accesskey "G">
-<!ENTITY pbAccountTreeContextMenu-settings.label "Настройки…">
+<!ENTITY pbAccountTreeContextMenu-settings.label "Настройки...">
 <!ENTITY pbAccountTreeContextMenu-settings.accesskey "i">
 
 <!-- thread pane -->
@@ -328,7 +328,7 @@
 
 <!-- facebook extension login.xul and auth.xul -->
 <!ENTITY login.window.title "Войти в Facebook">
-<!ENTITY login.wait "Подождите, выполняется подготовка к входу…">
+<!ENTITY login.wait "Подождите, выполняется подготовка к входу...">
 <!ENTITY login.close "Закрыть окно входа">
 <!ENTITY auth.window.title "Разрешить обновления статуса от Postbox">
 <!ENTITY auth.close "Закрыть окно">
@@ -353,19 +353,19 @@
 <!ENTITY pbMessagePaneContext-evernote.accesskey "e">
 
 <!-- status bar -->
-<!ENTITY pbStatusBarOption-newAccount.label "Новая учетная запись…">
+<!ENTITY pbStatusBarOption-newAccount.label "Новая учетная запись...">
 <!ENTITY pbStatusBarOption-newAccount.accesskey "N">
-<!ENTITY pbStatusBarOption-newGroup.label "Новая группа учетных записей…">
+<!ENTITY pbStatusBarOption-newGroup.label "Новая группа учетных записей...">
 <!ENTITY pbStatusBarOption-newGroup.accesskey "G">
-<!ENTITY pbStatusBarOption-settings.label "Параметры учетной записи…">
+<!ENTITY pbStatusBarOption-settings.label "Параметры учетной записи...">
 <!ENTITY pbStatusBarOption-settings.accesskey "A">
-<!ENTITY pbStatusBarOption-newFolder.label "Новая папка…">
+<!ENTITY pbStatusBarOption-newFolder.label "Новая папка...">
 <!ENTITY pbStatusBarOption-newFolder.accesskey "F">
 <!ENTITY pbStatusBarOption-newSmartFolder.label "Новая смарт-папка...">
 <!ENTITY pbStatusBarOption-newSmartFolder.accesskey "M">
-<!ENTITY pbStatusBarOption-folderProperties.label "Свойства папки…">
+<!ENTITY pbStatusBarOption-folderProperties.label "Свойства папки...">
 <!ENTITY pbStatusBarOption-folderProperties.accesskey "P">
-<!ENTITY pbStatusBarOption-subscribe.label "Подписаться…">
+<!ENTITY pbStatusBarOption-subscribe.label "Подписаться...">
 <!ENTITY pbStatusBarOption-subscribe.accesskey "S">
 <!ENTITY pbStatusBarOption-deleteGroup.label "Удалить группу учетных записей">
 <!ENTITY pbStatusBarOption-deleteGroup.accesskey "D">
@@ -405,6 +405,7 @@
 <!ENTITY themeMenuLight.label "Легкий">
 <!ENTITY themeMenuDark.label "Темно">
 <!ENTITY themeMenuOptions.label "Редактировать темы...">
+<!ENTITY themeMenuDownload.label "Получить темы...">
 
 <!ENTITY downloadThisFolder.label "Загрузите эту папку">
 <!ENTITY downloadThisFolder.accesskey "d">

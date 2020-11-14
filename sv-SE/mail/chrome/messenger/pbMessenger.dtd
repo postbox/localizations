@@ -25,7 +25,7 @@
 <!ENTITY resetIndexAllMessages.accesskey "R">
 <!ENTITY resetIndexMessagesInFolder.label "Återställ denna mapp...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY updateCmd.label "Kolla efter uppdateringar…">
+<!ENTITY updateCmd.label "Kolla efter uppdateringar...">
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
@@ -403,6 +403,7 @@
 <!ENTITY themeMenuLight.label "Ljus">
 <!ENTITY themeMenuDark.label "Mörk">
 <!ENTITY themeMenuOptions.label "Redigera teman...">
+<!ENTITY themeMenuDownload.label "Hämta teman...">
 
 <!ENTITY downloadThisFolder.label "Hämta den här mappen">
 <!ENTITY downloadThisFolder.accesskey "d">

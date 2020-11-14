@@ -25,7 +25,7 @@
 <!ENTITY resetIndexAllMessages.accesskey "r">
 <!ENTITY resetIndexMessagesInFolder.label "Reimposta questa cartella...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY updateCmd.label "Controlla per aggiornamenti…">
+<!ENTITY updateCmd.label "Controlla per aggiornamenti...">
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
@@ -105,7 +105,7 @@
 
 <!-- Tags Menu Popup -->
 <!ENTITY applyTag.label "Aggiungi argomento">
-<!ENTITY addNewTag.label "Nuovo argomento…">
+<!ENTITY addNewTag.label "Nuovo argomento...">
 <!ENTITY addNewTag.accesskey "t">
 <!ENTITY removeTag.label "Rimuovi argomento">
 <!ENTITY removeAllTag.label "Rimuovi tutto...">
@@ -403,6 +403,7 @@
 <!ENTITY themeMenuLight.label "Leggero">
 <!ENTITY themeMenuDark.label "Buio">
 <!ENTITY themeMenuOptions.label "Modifica temi...">
+<!ENTITY themeMenuDownload.label "Ottieni temi...">
 
 <!ENTITY downloadThisFolder.label "Scarica questa cartella">
 <!ENTITY downloadThisFolder.accesskey "d">

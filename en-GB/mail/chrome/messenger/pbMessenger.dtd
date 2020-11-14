@@ -403,6 +403,7 @@
 <!ENTITY themeMenuLight.label "Light">
 <!ENTITY themeMenuDark.label "Dark">
 <!ENTITY themeMenuOptions.label "Edit Themes...">
+<!ENTITY themeMenuDownload.label "Get Themes...">
 
 <!ENTITY downloadThisFolder.label "Download This Folder">
 <!ENTITY downloadThisFolder.accesskey "d">

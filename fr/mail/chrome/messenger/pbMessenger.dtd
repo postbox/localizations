@@ -25,7 +25,7 @@
 <!ENTITY resetIndexAllMessages.accesskey "R">
 <!ENTITY resetIndexMessagesInFolder.label "Réinitialiser ce dossier...">
 <!ENTITY resetIndexMessagesInFolder.accesskey "e">
-<!ENTITY updateCmd.label "Recherche de mises à jour…">
+<!ENTITY updateCmd.label "Recherche de mises à jour...">
 <!ENTITY updateCmd.accesskey "o">
 
 <!-- View Menu -->
@@ -403,6 +403,7 @@
 <!ENTITY themeMenuLight.label "Lumière">
 <!ENTITY themeMenuDark.label "Foncé">
 <!ENTITY themeMenuOptions.label "Modifier les thèmes...">
+<!ENTITY themeMenuDownload.label "Obtenir thèmes...">
 
 <!ENTITY downloadThisFolder.label "Téléchargez ce dossier">
 <!ENTITY downloadThisFolder.accesskey "d">
