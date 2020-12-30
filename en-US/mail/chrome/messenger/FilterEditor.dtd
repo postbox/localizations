@@ -42,8 +42,8 @@
 <!ENTITY copyMessage.label "Copy Message to">
 <!ENTITY forwardTo.label "Forward Message to">
 <!ENTITY replyWithTemplate.label "Reply with Template">
-<!ENTITY markMessageRead.label "Mark As Read">
-<!ENTITY markMessageUnread.label "Mark As Unread">
+<!ENTITY markMessageRead.label "Mark as Read">
+<!ENTITY markMessageUnread.label "Mark as Unread">
 <!ENTITY markMessageStarred.label "Mark as Reminder">
 <!ENTITY markMessagePending.label "Mark as Pending">
 <!ENTITY markMessageAs.label "Mark Message as">
