@@ -53,7 +53,7 @@
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Read">
 <!ENTITY receivedColumn.label "Received">
-<!ENTITY starredColumn.label "Starred">
+<!ENTITY starredColumn.label "Reminder">
 <!ENTITY locationColumn.label "Location">
 <!ENTITY idColumn.label "Order Received">
 
