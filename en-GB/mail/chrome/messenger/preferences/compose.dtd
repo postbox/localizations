@@ -117,7 +117,7 @@
 
 <!ENTITY pbSendAndArchive.label "Enable send and archive">
 <!ENTITY pbSendInBackground.label "Send in background">
-<!ENTITY pbEnableDropbox.label "Send links when attaching files in your Dropbox folder">
+<!ENTITY pbEnableDropbox.label "Send links when attaching files in your cloud folders">
 
 <!ENTITY pbSetCompositionGoals.label "Set composition goals using">
 <!ENTITY pbStopwatchGoal.label "Stopwatch">
