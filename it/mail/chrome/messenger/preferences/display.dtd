@@ -141,7 +141,7 @@
 <!ENTITY quotedColor4.label "Colore citazione, livello 4">
 <!ENTITY quotedColor5.label "Colore citazione, livello 5">
 
-<!ENTITY boldUnread.label      "Grassetto Mon letto">
+<!ENTITY boldUnread.label      "Grassetto non letto">
 <!ENTITY automaticEXIF.label "Ruota le immagini in base ai dati EXIF">
 
 <!ENTITY accountsMaxRowsDisplay.label "Display">
