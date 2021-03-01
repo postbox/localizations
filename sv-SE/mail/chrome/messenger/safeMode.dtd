@@ -9,8 +9,8 @@
 <!ENTITY safeModeOptionsWindow.width       "width: 49em;">
 <!ENTITY safeModeOptionsDialog.title       "&brandShortName; felsökning">
 
-<!ENTITY safeModeOptionsDescription2.label "If you are experiencing difficulty with Postbox, try restarting
-with one or more of these trouble shooting options selected:">
+<!ENTITY safeModeOptionsDescription2.label "Om du har problem med Postbox, försök starta om
+med ett eller flera av dessa felsökningsalternativ valda:">
 
 
 <!ENTITY disableAddons.label              "Avaktivera alla tillägg permanent">

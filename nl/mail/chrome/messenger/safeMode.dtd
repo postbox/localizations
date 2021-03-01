@@ -7,9 +7,10 @@
 
 
 <!ENTITY safeModeOptionsWindow.width       "breedte: 49em;">
-<!ENTITY safeModeOptionsDialog.title       "&brandShortName; Trouble Shooting">
+<!ENTITY safeModeOptionsDialog.title       "&brandShortName; Probleemoplossen">
 
-<!ENTITY safeModeOptionsDescription2.label "Als u problemen ervaart met Postbox, selecteer een of meerdere van deze trouble shooting opties en probeer te herstarten:">
+<!ENTITY safeModeOptionsDescription2.label "Als u problemen ondervindt met Postbox, probeer dan opnieuw op te starten
+met een of meer van deze opties voor probleemoplossing geselecteerd:">
 
 
 <!ENTITY disableAddons.label              "Alle Add-ons definitief uitschakelen">

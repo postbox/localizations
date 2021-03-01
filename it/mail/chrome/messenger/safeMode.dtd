@@ -7,7 +7,7 @@
 
 
 <!ENTITY safeModeOptionsWindow.width       "width: 49em;">
-<!ENTITY safeModeOptionsDialog.title       "&brandShortName; Trouble Shooting">
+<!ENTITY safeModeOptionsDialog.title       "&brandShortName; Risoluzione dei problemi">
 
 <!ENTITY safeModeOptionsDescription2.label "Se stai avendo difficoltà con Postbox, prova a riavviare
 con una o più delle opzioni per la risoluzione dei problemi selezionate:">
