@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY helpTroubleshootingInfo.label     "Configuration Data">
 <!ENTITY helpTroubleshootingInfo.accesskey "C">
-<!ENTITY helpSafeMode.label     "Trouble Shooting…">
+<!ENTITY helpSafeMode.label     "Troubleshooting…">
 <!ENTITY helpSafeMode.accesskey "S">
 <!ENTITY releaseCmd2.label "Release Notes">
 <!ENTITY releaseCmd2.accesskey "N">

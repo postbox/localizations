@@ -10,7 +10,7 @@
 <!ENTITY safeModeOptionsDialog.title       "&brandShortName; Résolution des problèmes">
 
 <!ENTITY safeModeOptionsDescription2.label "Si vous éprouvez des problèmes avec Postbox, veuillez essayer de redémarrer
-avec une ou plusieurs options de résolution des problèmes sélectionnées :">
+avec une ou plusieurs options de résolution des problèmes sélectionnées:">
 
 
 <!ENTITY disableAddons.label              "Désactiver définitivement toutes les Extensions">
