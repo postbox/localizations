@@ -45,6 +45,8 @@
 <!ENTITY colorButton.accesskey "C">
 
 <!-- Themes -->
+<!ENTITY defaultDarkSystemTheme.label "Oscuro:">
+<!ENTITY defaultLightSystemTheme.label "Ligero:">
 <!ENTITY addThemeButton.label       "Nuevo">
 <!ENTITY addThemeButton.accesskey   "N">
 <!ENTITY editThemeButton.label      "Editar">

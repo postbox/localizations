@@ -45,6 +45,8 @@
 <!ENTITY colorButton.accesskey "а">
 
 <!-- Themes -->
+<!ENTITY defaultDarkSystemTheme.label "Темно:">
+<!ENTITY defaultLightSystemTheme.label "Легкий:">
 <!ENTITY addThemeButton.label       "Новый">
 <!ENTITY addThemeButton.accesskey   "N">
 <!ENTITY editThemeButton.label      "редактировать">

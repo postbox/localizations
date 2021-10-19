@@ -45,6 +45,8 @@
 <!ENTITY colorButton.accesskey   "K">
 
 <!-- Themes -->
+<!ENTITY defaultDarkSystemTheme.label "Donker:">
+<!ENTITY defaultLightSystemTheme.label "Licht:">
 <!ENTITY addThemeButton.label       "Nieuw">
 <!ENTITY addThemeButton.accesskey   "N">
 <!ENTITY editThemeButton.label      "Bewerk">

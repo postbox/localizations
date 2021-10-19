@@ -45,6 +45,8 @@
 <!ENTITY colorButton.accesskey   "F">
 
 <!-- Themes -->
+<!ENTITY defaultDarkSystemTheme.label "Mörk:">
+<!ENTITY defaultLightSystemTheme.label "Ljus:">
 <!ENTITY addThemeButton.label       "Ny">
 <!ENTITY addThemeButton.accesskey   "N">
 <!ENTITY editThemeButton.label      "Redigera">
